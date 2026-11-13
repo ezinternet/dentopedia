@@ -497,3 +497,85 @@ ptyp: SR, MA, Review
 
 **라우팅**: `wiki/resin/` + 오버뷰 후보 `resin-polymerization-kinetics-conversion-overview`.
 
+---
+
+### zirconia-occlusal-adjustment (지르코니아 교합조정 · chairside grinding / 연마 / glaze)
+
+**목적**: 보철 장착 전 **교합조정(chairside adjustment)** 축 — 삭제(bur grinding)가 지르코니아의 상전이(t→m)·굽힘강도·색/투명도·대합치 마모에 미치는 영향, 조정 후 재연마·재유약의 필요성, **조정량(extent) 한계**, 그리고 워크플로·디자인이 조정 수요(접촉 오차·조정 시간)에 미치는 영향. `prostho`(일반 보철 재료)와 **다른 축**이다 — 저쪽은 재료 선택, 이쪽은 *배송 직전 개입*.
+
+**stem A — 조정 어휘 직접** (state.json 본문):
+```
+(zirconia[tiab] OR "zirconium dioxide"[tiab] OR "zirconia ceramic"[tiab] OR "zirconium oxide"[tiab]) AND ("occlusal adjustment"[tiab] OR "occlusal adjustments"[tiab] OR "intraoral adjustment"[tiab] OR "intraoral grinding"[tiab] OR "selective grinding"[tiab] OR "occlusal correction"[tiab] OR "occlusal refinement"[tiab])
+```
+
+**stem B — 조정×결과 축** (백필 시 추가로 돌릴 것; state.json에는 A만 고정):
+```
+(zirconia[tiab] OR "zirconium dioxide"[tiab] OR "zirconia ceramic"[tiab] OR "zirconium oxide"[tiab] OR "Y-TZP"[tiab] OR "3Y-TZP"[tiab] OR "tetragonal zirconia"[tiab]) AND (grinding[tiab] OR ground[tiab] OR "adjustment"[tiab] OR "adjustments"[tiab] OR "adjusted"[tiab]) AND (polishing[tiab] OR polished[tiab] OR glazing[tiab] OR glazed[tiab] OR "phase transformation"[tiab] OR "flexural strength"[tiab] OR "surface roughness"[tiab] OR wear[tiab] OR monoclinic[tiab] OR "low-temperature degradation"[tiab])
+```
+**stem B는 날짜 창을 반드시 건다** — 전 기간이면 305+건. 2020–2026으로 자르면 147건(그중 A와 중복 아닌 것 126). 위키가 2019년 이전 코어(kosmac-1999·lawson-2014·ramos-2016·sarabi-2024)를 이미 보유하므로 **델타는 2020+**다.
+
+**ptyp**: 없음(`[]`) — in vitro 기계시험이 지배적(시드 sweep 큐 114건 중 89건). RCT/SR/MA 필터는 코어를 놓친다.
+
+**노이즈 주의**:
+- `"adjustment"` 단독은 교정장치·보청기·정형외과까지 잡는다 → stem B의 polishing/glazing/phase/strength/wear AND 묶음이 방어선.
+- **접착(bonding) 축이 최대 노이즈** — sandblasting·laser·primer·MDP가 "surface treatment"를 공유. 위키 `resin-bonding` 축과 중복이므로 abstract에서 "조정 후 표면"인지 "접착 전 처리"인지 확인.
+- 기계가공(grinding force·laser cutting·소결 온도), 착색·shade 단독, 브라켓 접착, biofilm 단독, 비치과(THA·TBC) 제외.
+
+**시드 sweep(2026-11-12)**: 합집합 197(A 68 + B 신규 126 + SR 보강 3) → 기보유 6 제외 → **include 114**(OA:PMC 44) + **exclude 77**. 티어 T1(조정→재료 결과) 61 · T2(마무리·연마) 34 · T3(조정량·접촉 정확도) 19. 결정적 갭은 SR+MA 2건(PMID 36634437 · 40435897). 상세 로그 `logs/2026-11-12_surveillance-zirconia-occlusal-adjustment.md`.
+
+**라우팅**: `wiki/dental-materials/zirconia/` + 오버뷰 후보 `zirconia-adjustment-finishing-overview`.
+
+### occlusal-efficiency (교합·저작 효율)
+
+**목적**: 저작효율(masticatory efficiency/performance)을 **결과변수 또는 주제 자체**로 다루는 축 — ① 계측법·검증(chewing gum 2-color, gummy jelly, mixing ability, glucose, digital texture) ② 보철 결정인자(교합양식, 어태치먼트, 잔존악 형태, 교합접촉면적) ③ 중재(구강운동, 껌저작 훈련, biofeedback, 교합조정) ④ 인구집단 연결(허약·영양·인지). `zirconia-occlusal-adjustment`와 **다른 축** — 저쪽은 표면 마감이 *마모*에 미치는 영향, 이쪽은 *저작 기능*.
+
+**stem A — 효율 어휘 직접** (state.json 본문):
+```
+("masticatory efficiency"[tiab] OR "masticatory performance"[tiab] OR "masticatory ability"[tiab] OR "chewing efficiency"[tiab] OR "chewing performance"[tiab] OR "chewing ability"[tiab] OR "food comminution"[tiab] OR "masticatory performance"[MeSH Terms])
+```
+
+**stem B — 교합 인자 축** (백필 시 추가; state.json에는 A만 고정):
+```
+("occlusal contact area"[tiab] OR "occlusal contacts"[tiab] OR "occlusal contact"[tiab] OR "occlusal scheme"[tiab] OR "occlusal design"[tiab] OR "food comminution"[tiab] OR "comminution"[tiab] OR "chewing cycles"[tiab]) AND (masticat*[tiab] OR chew*[tiab]) AND (dental[tiab] OR dentistry[tiab] OR prosthodont*[tiab] OR tooth[tiab] OR teeth[tiab] OR occlusal[tiab] OR implant*[tiab] OR denture*[tiab] OR crown*[tiab])
+```
+**치과 문맥 절이 필수** — 없으면 779건(식품 텍스처·동물 저작), 붙이면 619건. stem A에는 `2020:2026[edat]` + ptyp(RCT/SR/MA)를 걸고, stem B는 2005+ 전 기간(교합양식 literature는 2015–2019가 코어).
+
+**ptyp**: 없음(`[]`) — 관찰·기기검증이 본체(시드 sweep 큐 194건 중 obs 135).
+
+**노이즈 주의**:
+- **인접 축이 최대 노이즈** — 영양·허약·QoL·인지 논문이 abstract에 "masticatory performance"를 부수적으로 쓴다. abstract 키워드로 승격하면 70건이 추가 유입되므로 **title 기준 CORE/OCC 판정**이 안전(이번 sweep: 341 → 194).
+- 동물 저작·치아 마모 고고학(hominin, deer, macaque, microwear)은 BIOMECH/EXC 규칙으로 제거.
+- FEA·파절·피로 논문은 "masticatory"가 배경일 뿐이므로 제외 — 그 축은 `zirconia-occlusal-adjustment`·`prostho` 담당.
+- **glaze/polish × 저작효율 논문은 이 축에 없다**(530건 중 4건 전부 마모 실험) — 표면 마감을 저작효율로 정당화하려는 질문은 이 토픽으로 답할 수 없다.
+
+**시드 sweep(2026-11-13)**: 합집합 539(A 152 + B 400 상한) → 기보유 13 · 중복 8 제외 → 스크리닝 530 → **include 194**(OA:PMC 64) + **exclude 323**(T3 인접 130 포함, 복구가능). 티어 T1(효율이 결과/주제) 157 · T2(교합 인자) 37. 앵커 후보 PMID 41793788(계측법 SR, 2026) · 34836460(구강운동 SR+MA, JDR). 상세 로그 `logs/2026-11-13_surveillance-occlusal-efficiency.md`.
+
+**라우팅**: `wiki/prosthetic-materials/` 또는 신설 `wiki/occlusion/` + 오버뷰 후보 `masticatory-efficiency-assessment-overview`.
+
+### zirconia-crown-function (지르코니아 크라운 × 교합·저작 기능)
+
+**목적**: 지르코니아(크라운·단관) 관점에서 **저작기능을 결과변수로** 다룬 문헌 + 교합접촉 정확도·교합면 설계 축. `occlusal-efficiency`(기능 축)와 `zirconia-occlusal-adjustment`(표면 마감 축)의 교집합이 아니라, **재료가 기능에 미치는 영향**만 따로 본다.
+
+**stem A — 저작효율 어휘 직접** (state.json 본문):
+```
+(zirconia[tiab] OR "zirconium dioxide"[tiab] OR "zirconium oxide"[tiab] OR "Y-TZP"[tiab] OR "monolithic zirconia"[tiab]) AND ("masticatory performance"[tiab] OR "masticatory efficiency"[tiab] OR "chewing efficiency"[tiab] OR "masticatory ability"[tiab] OR "chewing ability"[tiab] OR "food comminution"[tiab])
+```
+
+**stem B — 교합 인자 축** (백필 시 추가; state.json에는 A만 고정):
+```
++zirconia 계열 AND ("occlusal contact"[tiab] OR "occlusal contacts"[tiab] OR "occlusal scheme"[tiab] OR "occlusal function"[tiab] OR "occlusal force"[tiab] OR "bite force"[tiab] OR "occlusal load"[tiab])
+```
+
+**규모 경고**: **stem A는 전 PubMed에서 12건뿐**(2026-11 기준). 이 축은 증분 sweep으로 운용할 토픽이 아니라 **한 번 백필하고 닫는 토픽**이다. stem B는 174건이지만 대부분 FEA·파절·마모 — 교합접촉 정확도/교합면 설계만 남기면 10건 안팎.
+
+**ptyp**: 없음(`[]`).
+
+**노이즈 주의**:
+- stem B의 최대 노이즈는 **FEA·강도·마모**(stress, fracture, fatigue, roughness, wear, bond) — 전부 `zirconia-occlusal-adjustment`·`prostho` 담당.
+- **지르코니아 임플란트(fixture)** 논문이 섞인다 — 크라운 축이면 제외.
+- "masticatory"가 배경 문장에만 나오는 증례·VDO 리뷰는 T3로.
+
+**시드 sweep(2026-11-13)**: 합집합 184(A 12 + B 174) → seen 13 · screened 11 제외 → 스크리닝 160 → **keep 15**(신규 8 + 기존 큐 7) + **screen-out 152**. T1(재료→저작기능 직접) 3 · T2(교합접촉 정확도) 10 · T3 2. 핵심 결론: **RCT로 저작효율을 1차 결과로 삼은 지르코니아 크라운 연구는 0건**. 상세 로그 `logs/2026-11-13_surveillance-zirconia-crown-function.md`.
+
+**라우팅**: `wiki/dental-materials/zirconia/` + 오버뷰 후보 `zirconia-occlusal-contact-accuracy-overview` (저작효율 오버뷰와 **분리** — 합치면 "접촉 정확도 = 기능" 비약이 박힌다).
+

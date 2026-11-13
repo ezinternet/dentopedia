@@ -282,6 +282,23 @@
       "query": "(\"torque loss\"[tiab] OR preload[tiab] OR \"removal torque\"[tiab] OR \"tightening torque\"[tiab] OR \"torque-limiting\"[tiab] OR \"torque limiter\"[tiab] OR retightening[tiab] OR \"re-tightening\"[tiab] OR \"settling effect\"[tiab] OR \"screw loosening\"[tiab] OR \"final torque\"[tiab] OR \"torque accuracy\"[tiab] OR \"torque application\"[tiab] OR \"reverse torque\"[tiab] OR detorque[tiab] OR \"closing torque\"[tiab]) AND (\"dental implant\"[tiab] OR \"dental implants\"[tiab] OR \"implant abutment\"[tiab] OR \"abutment screw\"[tiab] OR \"implant-supported\"[tiab] OR \"implant prosthesis\"[tiab] OR \"screw-retained\"[tiab])",
       "ptyp": [],
       "last_run_edat": "2026/11/10"
+    },
+    "zirconia-occlusal-adjustment": {
+      "query": "(zirconia[tiab] OR \"zirconium dioxide\"[tiab] OR \"zirconia ceramic\"[tiab] OR \"zirconium oxide\"[tiab]) AND (\"occlusal adjustment\"[tiab] OR \"occlusal adjustments\"[tiab] OR \"intraoral adjustment\"[tiab] OR \"intraoral grinding\"[tiab] OR \"selective grinding\"[tiab] OR \"occlusal correction\"[tiab] OR \"occlusal refinement\"[tiab])",
+      "ptyp": [],
+      "last_run_edat": "2026/11/12"
+    },
+    "occlusal-efficiency": {
+      "query": "(\"masticatory efficiency\"[tiab] OR \"masticatory performance\"[tiab] OR \"masticatory ability\"[tiab] OR \"chewing efficiency\"[tiab] OR \"chewing performance\"[tiab] OR \"chewing ability\"[tiab] OR \"food comminution\"[tiab] OR \"masticatory performance\"[MeSH Terms])",
+      "ptyp": [],
+      "last_run_edat": "2026/11/13",
+      "note": "교합·저작 효율. stemA=RCT/SR/MA 2020+, stemB=occlusal contact area/scheme + comminution 2005+"
+    },
+    "zirconia-crown-function": {
+      "query": "(zirconia[tiab] OR \"zirconium dioxide\"[tiab] OR \"zirconium oxide\"[tiab] OR \"Y-TZP\"[tiab] OR \"monolithic zirconia\"[tiab]) AND (\"masticatory performance\"[tiab] OR \"masticatory efficiency\"[tiab] OR \"chewing efficiency\"[tiab] OR \"masticatory ability\"[tiab] OR \"chewing ability\"[tiab] OR \"food comminution\"[tiab])",
+      "ptyp": [],
+      "last_run_edat": "2026/11/13",
+      "note": "지르코니아 크라운 관점의 저작·교합 기능. stemA=MP 어휘 직접, stemB=occlusal contact/force/scheme"
     }
   },
   "seen_pmids": [
@@ -376,6 +393,7 @@
     "22442781",
     "22442784",
     "22509755",
+    "22608163",
     "22612370",
     "22754902",
     "22762251",
@@ -415,6 +433,8 @@
     "24909628",
     "24975989",
     "24977252",
+    "24980739",
+    "25059249",
     "25202747",
     "25238031",
     "25350595",
@@ -429,31 +449,53 @@
     "25615637",
     "25628271",
     "25790741",
+    "25864000",
     "25867987",
     "25972081",
+    "26027883",
+    "26111925",
+    "26253216",
+    "26266213",
     "26293185",
+    "26323333",
+    "26371787",
+    "26444981",
     "26446912",
     "26452326",
+    "26485380",
     "26507862",
+    "26547870",
     "26602586",
     "26669545",
     "26701351",
+    "26777095",
     "26794700",
     "26800160",
     "26822584",
+    "26827172",
     "26876144",
+    "26919724",
     "27004280",
     "27012858",
     "27023410",
+    "27061631",
     "27098201",
+    "27101810",
+    "27113040",
+    "27118683",
+    "27132120",
+    "27143251",
     "27212154",
     "27222433",
     "27256548",
+    "27264939",
     "27314123",
+    "27324294",
     "27440671",
     "27513162",
     "27524517",
     "27534916",
+    "27552789",
     "27562221",
     "27683073",
     "27688429",
@@ -462,22 +504,38 @@
     "27733094",
     "27861657",
     "27903250",
+    "27904090",
+    "27980336",
     "28048963",
+    "28088308",
     "28095650",
     "28240608",
+    "28271438",
     "28280231",
     "28291849",
     "28292696",
     "28358121",
     "28366452",
+    "28370179",
+    "28385438",
+    "28398167",
     "28517971",
+    "28523241",
+    "28597965",
+    "28598182",
+    "28676294",
     "28736605",
+    "28751076",
     "28752693",
+    "28780385",
     "28817133",
     "28863859",
     "28864147",
     "28944358",
     "28944367",
+    "28965369",
+    "29074931",
+    "29075647",
     "29105932",
     "29135351",
     "29143389",
@@ -486,17 +544,32 @@
     "292031",
     "29240793",
     "29274156",
+    "29314199",
     "29316568",
     "29352637",
+    "29356092",
+    "29385165",
     "29394177",
+    "29563437",
     "29574852",
+    "29597061",
+    "29706464",
+    "29713434",
     "29723339",
     "29763985",
     "29770236",
     "29771732",
+    "29807740",
+    "29851120",
+    "29959969",
+    "29961952",
+    "29967973",
+    "30010417",
+    "30024031",
     "30024995",
     "30039905",
     "30050947",
+    "30140399",
     "30199421",
     "30199601",
     "30306694",
@@ -506,26 +579,33 @@
     "30328205",
     "30367200",
     "30375146",
+    "30387869",
     "30394216",
     "30511415",
     "30521656",
+    "30611024",
     "30617584",
     "30624092",
     "30631986",
     "30658380",
     "30667522",
     "30693399",
+    "30711603",
     "30719781",
     "30768659",
     "3077359",
     "30845084",
     "30845920",
+    "30847043",
     "30866465",
     "30866488",
     "30871937",
     "30883942",
     "30916621",
+    "31046154",
+    "31079884",
     "31086858",
+    "31087671",
     "31090746",
     "31090748",
     "31116832",
@@ -535,42 +615,84 @@
     "31223070",
     "31230768",
     "31246662",
+    "31247283",
     "31292983",
+    "31357225",
     "31421957",
     "31433096",
     "31441527",
+    "31443131",
+    "31445381",
+    "31455559",
+    "31532825",
     "31605405",
     "31698953",
+    "31703917",
+    "31743822",
     "31748982",
+    "31774243",
+    "31794343",
     "31797859",
+    "31836916",
     "31846073",
     "31862145",
+    "31879530",
+    "31923300",
     "31955269",
     "31967736",
     "31972958",
     "32040468",
     "32054425",
+    "32063392",
+    "32115222",
     "32151557",
     "32186285",
+    "32194440",
+    "32242956",
+    "32276187",
+    "32279854",
+    "32320178",
+    "32346832",
+    "32347216",
+    "32362247",
+    "32377316",
     "32395387",
+    "32401691",
     "32406659",
+    "32415633",
+    "32446636",
+    "32469712",
     "3248362",
     "32542725",
     "32559039",
     "32593704",
+    "32609416",
     "32613433",
     "32618176",
     "32626762",
+    "32655223",
     "32661522",
+    "32665120",
+    "32763368",
+    "32769268",
     "32893938",
     "32938870",
     "32942676",
+    "32945635",
+    "32946115",
+    "32964471",
+    "33026720",
     "33028052",
     "33037794",
     "33135215",
+    "33136048",
     "33141935",
     "33155455",
+    "33188586",
     "33230862",
+    "33234315",
+    "33262864",
+    "33279156",
     "33348644",
     "33383100",
     "33405453",
@@ -578,28 +700,44 @@
     "33491369",
     "33540697",
     "33565656",
+    "33570515",
     "33571021",
     "33571325",
     "33571327",
     "33571328",
+    "33576265",
+    "33625387",
     "33634393",
+    "33651023",
+    "33682180",
+    "33716378",
+    "33736969",
+    "33738828",
     "33758999",
     "33771659",
+    "33786947",
     "33806189",
     "33808257",
     "33810379",
+    "33826161",
+    "33826961",
+    "33831504",
     "33835063",
     "33853413",
     "33895765",
+    "33896619",
     "33917587",
+    "33922280",
     "33926447",
     "33939696",
+    "33956854",
     "33968415",
     "33971681",
     "33994071",
     "34001097",
     "34006068",
     "34006079",
+    "34028839",
     "34104237",
     "34105881",
     "34120778",
@@ -608,10 +746,12 @@
     "34159704",
     "34176715",
     "34178562",
+    "34184165",
     "34219356",
     "34239926",
     "34281325",
     "34294423",
+    "34300962",
     "34331067",
     "34343502",
     "34411212",
@@ -619,28 +759,45 @@
     "34448736",
     "34453905",
     "34455503",
+    "34455912",
     "34456050",
     "34456283",
+    "34476837",
     "34480421",
+    "34496541",
     "34502132",
+    "34504677",
+    "34517991",
     "34530060",
     "34543475",
     "34548195",
+    "34562764",
     "34585856",
     "34600044",
+    "34603621",
     "34607598",
+    "34627612",
     "34642985",
     "34642986",
     "34642992",
     "34647147",
     "34674093",
     "34689452",
+    "34712413",
     "34719055",
+    "34719633",
     "34761399",
     "34761430",
+    "34772484",
     "3477408",
+    "34814903",
     "34816902",
     "34830709",
+    "34836460",
+    "34853250",
+    "34888906",
+    "34908185",
+    "34930666",
     "34937085",
     "34957937",
     "34958487",
@@ -651,33 +808,49 @@
     "35055811",
     "35060200",
     "35074207",
+    "35076140",
+    "35108409",
     "35147483",
     "35184916",
     "35213347",
     "35219459",
     "35224778",
+    "35227045",
+    "35248291",
+    "35274430",
+    "35291996",
+    "35292846",
     "35305839",
     "35311479",
     "35318752",
     "35322650",
+    "35329653",
     "35334092",
     "35368409",
     "35389559",
     "35398904",
+    "35409460",
     "35476861",
+    "35484837",
     "35486508",
     "35509708",
     "35511290",
+    "35523518",
+    "35525625",
     "35568576",
     "35584941",
+    "35586363",
+    "35617455",
     "35679127",
     "35683057",
+    "35691453",
     "35692144",
     "35694835",
     "35734911",
     "35750501",
     "35763663",
     "35775414",
+    "35793983",
     "35815423",
     "35815425",
     "35817419",
@@ -686,54 +859,83 @@
     "35877333",
     "35881815",
     "35886524",
+    "35899420",
     "35917996",
     "35924603",
+    "35934577",
     "35958809",
     "35962774",
     "35964704",
     "35997108",
     "36004030",
+    "36004768",
     "36043569",
+    "36049370",
     "36051807",
     "36069239",
     "36100547",
+    "36123676",
+    "36141729",
+    "36153477",
+    "36161667",
     "36231212",
     "36265394",
     "36274166",
     "36305933",
     "36314254",
     "36321621",
+    "36333533",
     "36382704",
     "36389398",
     "36399081",
     "36403660",
+    "36403691",
+    "36403693",
     "36410582",
+    "36415039",
+    "36435988",
     "36445774",
     "36459238",
     "36461704",
     "36478368",
     "36507770",
     "36510942",
+    "36511073",
     "36511914",
+    "36513337",
+    "36532324",
+    "36538093",
     "36539885",
     "36543651",
+    "36563840",
+    "36597189",
+    "36610845",
+    "36634437",
     "36645164",
+    "36685792",
     "36700461",
     "36732751",
     "36751833",
     "36874341",
     "36894675",
+    "36918352",
+    "36920311",
     "36940923",
     "36943673",
+    "36975561",
     "36978070",
     "36988245",
+    "36991565",
     "36995954",
     "37001532",
     "37002888",
+    "37003941",
     "37018325",
+    "37023341",
     "37047413",
     "37047909",
     "37049624",
+    "37058457",
     "37130893",
     "37171039",
     "37189187",
@@ -743,29 +945,41 @@
     "37203873",
     "37221532",
     "37244725",
+    "37251823",
     "37279220",
     "37279226",
     "37295140",
     "37305957",
+    "37316261",
     "37330959",
     "37367710",
     "37379085",
+    "37382338",
     "37445315",
+    "37468596",
     "37495541",
     "37501191",
+    "37507010",
     "37508716",
     "37518333",
+    "37526213",
     "37532770",
     "37544352",
+    "37567065",
     "37589875",
+    "37608597",
+    "37635466",
+    "37648481",
     "37654392",
     "37655625",
     "37658342",
     "37660446",
     "37672415",
     "37678744",
+    "37699184",
     "37715961",
     "37720502",
+    "37729477",
     "37750515",
     "37750531",
     "37757908",
@@ -774,29 +988,44 @@
     "37843657",
     "37864605",
     "37890417",
+    "37945513",
     "37957760",
+    "37964439",
     "37975390",
     "37978859",
     "37985984",
     "37991404",
     "38002912",
+    "38044736",
     "38061871",
+    "38097596",
     "38109387",
+    "38109388",
     "38126565",
+    "38151428",
     "38155005",
     "38180330",
+    "38192789",
     "38200328",
     "38200485",
+    "38211398",
     "38218598",
     "38228408",
     "38265343",
     "38272437",
+    "38279686",
     "38353510",
     "38367826",
+    "38373057",
+    "38374614",
+    "38379391",
+    "38381992",
     "38389554",
     "38399540",
+    "38421263",
     "38463466",
     "38471581",
+    "38480586",
     "38491807",
     "38514411",
     "38517069",
@@ -805,42 +1034,60 @@
     "38552999",
     "38567575",
     "38582434",
+    "38592229",
     "38607362",
     "38616535",
     "38645925",
+    "38664182",
     "38671635",
+    "38671758",
+    "38685704",
+    "38690385",
     "38693759",
     "38706419",
+    "38716797",
     "38727015",
     "38780363",
     "38792929",
     "38794940",
+    "38851676",
+    "38857196",
+    "38873742",
+    "38893860",
     "38896700",
     "38905116",
     "38921272",
     "38922797",
     "38938474",
+    "38942054",
     "38943858",
     "38960026",
     "38981805",
     "38997790",
     "39034210",
+    "39045988",
     "39054170",
     "39056584",
     "39066793",
     "39075014",
+    "39076773",
     "39110332",
+    "39128892",
     "39134687",
     "39134887",
+    "39135236",
     "39174162",
     "39195091",
     "39202977",
+    "39215439",
     "39219425",
     "39248301",
     "39265550",
     "39273529",
     "39329590",
+    "39332992",
     "39342169",
+    "39354479",
     "39360910",
     "39366839",
     "39387908",
@@ -850,12 +1097,23 @@
     "39478364",
     "39487402",
     "39506255",
+    "39517458",
     "39532751",
+    "39541609",
+    "39557353",
+    "39578771",
+    "39596975",
     "39613137",
     "39622908",
+    "39641124",
     "39661263",
+    "39665936",
+    "39668019",
     "39670301",
+    "39675253",
+    "39699500",
     "39724489",
+    "39727434",
     "39727468",
     "39764930",
     "39780243",
@@ -869,49 +1127,70 @@
     "39907806",
     "39916906",
     "39917693",
+    "39923467",
+    "39935200",
     "39940260",
     "39946741",
     "39954505",
     "39955221",
+    "39955828",
+    "39956718",
     "39966906",
     "39978782",
     "39982569",
+    "39987645",
+    "40014822",
+    "40032805",
     "40045044",
+    "40055890",
+    "40061024",
     "40062553",
     "40096516",
     "40107958",
     "40123306",
     "40134000",
     "40142310",
+    "40151556",
     "40165619",
+    "40197931",
     "40214305",
     "40231349",
     "40233599",
     "40240714",
     "40243511",
     "40245309",
+    "40253234",
     "40263044",
     "40275667",
     "40298179",
+    "40320642",
     "40329262",
+    "40346735",
     "40356262",
     "40358434",
+    "40363448",
     "40388262",
     "40410308",
+    "40423605",
     "40434067",
+    "40435897",
     "40459982",
     "40467537",
     "40481748",
     "40535546",
     "40537329",
     "40553623",
+    "40559153",
+    "40571607",
     "40581327",
     "40602709",
     "40604687",
     "40625229",
     "40626839",
     "40628578",
+    "40648566",
     "40653156",
+    "40654460",
     "40660670",
     "40660725",
     "40663189",
@@ -933,6 +1212,7 @@
     "40794532",
     "40806919",
     "40810996",
+    "40817022",
     "40843516",
     "40862884",
     "40872339",
@@ -953,9 +1233,12 @@
     "41021535",
     "41042605",
     "41042809",
+    "41046229",
     "41052564",
     "41069592",
+    "41070564",
     "41074385",
+    "41096085",
     "41102040",
     "41114850",
     "41114861",
@@ -965,19 +1248,24 @@
     "41149192",
     "41159329",
     "41163412",
+    "41166097",
     "41172597",
     "41173716",
     "41186901",
     "41199413",
     "41203042",
     "41213048",
+    "41219104",
     "41221851",
     "41225247",
     "41231384",
+    "41235784",
     "41251271",
     "41251874",
     "41253131",
+    "41253676",
     "41254246",
+    "41257139",
     "41269014",
     "41273736",
     "41273756",
@@ -996,17 +1284,23 @@
     "41350943",
     "41354261",
     "41354918",
+    "41357363",
+    "41366375",
     "41378896",
     "41385468",
     "41387303",
     "41393040",
+    "41402817",
     "41406906",
+    "41407646",
     "41413511",
     "41417433",
+    "41417857",
     "41421591",
     "41421946",
     "41421950",
     "41429032",
+    "41440363",
     "41444033",
     "41455825",
     "41456794",
@@ -1027,9 +1321,12 @@
     "41536759",
     "41548998",
     "41558746",
+    "41559988",
     "41562420",
     "41567272",
     "41574557",
+    "41577936",
+    "41590127",
     "41597400",
     "41598741",
     "41622146",
@@ -1037,8 +1334,11 @@
     "41629749",
     "41640727",
     "41655831",
+    "41656008",
     "41664595",
+    "41669575",
     "41679429",
+    "41682755",
     "41687019",
     "41699617",
     "41702595",
@@ -1056,6 +1356,7 @@
     "41783839",
     "41785025",
     "41786236",
+    "41793788",
     "41795226",
     "41797764",
     "41808369",
@@ -1071,6 +1372,7 @@
     "41857549",
     "41861577",
     "41862887",
+    "41864947",
     "41865811",
     "41874803",
     "41875985",
@@ -1086,6 +1388,8 @@
     "41905961",
     "41906828",
     "41908701",
+    "41910520",
+    "41913613",
     "41918059",
     "41923072",
     "41934826",
@@ -1097,6 +1401,7 @@
     "41966250",
     "41966251",
     "41966579",
+    "41966910",
     "41971507",
     "41978331",
     "41981962",
@@ -1110,10 +1415,15 @@
     "42010974",
     "42013973",
     "42046511",
+    "42055831",
     "42056033",
     "42060239",
     "42061085",
+    "42068718",
     "42076937",
+    "42077700",
+    "42087854",
+    "42089190",
     "42092623",
     "42092871",
     "42098698",
@@ -1125,10 +1435,14 @@
     "42114947",
     "42117690",
     "42117878",
+    "42120795",
+    "42121975",
     "42126189",
     "42129020",
+    "42139519",
     "42143356",
     "42144901",
+    "42145577",
     "42148608",
     "42150728",
     "42152031",
@@ -1139,6 +1453,7 @@
     "42183669",
     "42185891",
     "42186077",
+    "42187669",
     "42188622",
     "42188992",
     "42194260",
@@ -1150,6 +1465,7 @@
     "42230722",
     "42234020",
     "42234483",
+    "42235547",
     "42240171",
     "42240710",
     "42242696",
@@ -1180,6 +1496,7 @@
     "42330087",
     "42332660",
     "42332742",
+    "42333053",
     "42334533",
     "42335349",
     "42337524",
@@ -1227,31 +1544,48 @@
     "42436455",
     "42437817",
     "42458694",
+    "42464191",
     "42464273",
     "42471687",
     "42474260",
     "42474599",
+    "42493332",
+    "42494360",
+    "42510491",
     "42542069",
+    "42551890",
     "42562852",
+    "42572273",
     "42582325",
+    "42582684",
+    "42592287",
     "42612962",
     "42631873",
     "42640333",
     "42641088",
+    "42644050",
     "42645438",
+    "42647398",
+    "42664370",
     "42668365",
     "42675477",
     "42686457",
     "42707376",
     "42709287",
+    "42716468",
     "42724611",
     "42734614",
     "42740456",
     "42740459",
+    "42745759",
     "42763230",
     "42827641",
+    "42830540",
     "42867553",
+    "42893079",
+    "42923520",
     "42938990",
+    "42964982",
     "4922343",
     "5292225",
     "6078744",
@@ -6327,6 +6661,4462 @@
       "verdict": "exclude",
       "screened_by": "sonnet",
       "screened_on": "2026/10/24"
+    },
+    "42707724": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2026",
+      "reason": "off-topic: ovate pontic esthetic case report (no adjustment variable)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "41438179": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2025",
+      "reason": "off-topic: full-arch digital workflow case report",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "41051192": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2026",
+      "reason": "off-topic: 3D virtual patient zirconia veneers case report",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "40404534": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2026",
+      "reason": "off-topic: anterior guidance slope modeling (design, not adjustment)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "39289735": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2024",
+      "reason": "off-topic: implant veneer material review",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "38115635": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2024",
+      "reason": "off-topic: mandible chondrosarcoma rehabilitation case",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "27273291": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2017",
+      "reason": "off-topic: facial/condyle fracture case",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "25822406": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2015",
+      "reason": "off-topic: zirconia FPD bonding case",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "23755349": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2013",
+      "reason": "off-topic: full-mouth monolithic zirconia case report",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "24930869": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2014",
+      "reason": "off-topic: 3-year survival retrospective (no adjustment variable)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "33342613": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2022",
+      "reason": "off-topic: CAD-CAM milling tool deterioration / trueness",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "38529462": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2024",
+      "reason": "off-topic: abutment material FEA (adjustment only mentioned in conclusion)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "38221600": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2024",
+      "reason": "off-topic: cantilever FPD failure load (adjustment only mentioned in conclusion)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "36125805": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2022",
+      "reason": "off-topic: 3D-printed crown case report",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "31856799": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2019",
+      "reason": "off-topic: 5-year prospective survival on titanium bars",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "26124835": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2015",
+      "reason": "off-topic: monolithic zirconia full-arch narrative review",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "31297175": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2019",
+      "reason": "already ingested in wiki → sources/alfrisany-2019-occlusal-adjustments-zirconia-enamel-wear.md",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "33456027": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2021",
+      "reason": "already ingested in wiki → sources/tachibana-2021-polishing-zirconia-antagonist-wear.md",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "39710626": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2025",
+      "reason": "already ingested in wiki → sources/badawy-2025-enamel-wear-zirconia-endocrowns-2year.md",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "42984525": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2026",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "42948551": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2026",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "42930419": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2026",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "42930387": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2026",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "42830348": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2026",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "42808360": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2026",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "42795078": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2026",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "42782973": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2026",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "42346691": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2026",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "42156906": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2026",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "42041679": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2026",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "42031615": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2026",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "41778346": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2026",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "41339871": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2025",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "41322855": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2025",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "41294479": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2025",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "41241563": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2026",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "41011954": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2025",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "40766904": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2024",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "39778048": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2026",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "39386129": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2024",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "39131539": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2024",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "39063771": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2024",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "38598918": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2024",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "38382941": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2024",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "37727356": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2023",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "37512447": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2023",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "36984389": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2023",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "36739572": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2023",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "36648375": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2023",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "36640842": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2023",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "36125622": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2023",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "35820502": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2022",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "35683212": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2022",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "35676876": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2022",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "35630177": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2022",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "35454402": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2022",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "35429766": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2022",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "35215723": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2022",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "35187499": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2022",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "35019019": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2021",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "34902755": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2022",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "34674322": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2022",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "34538467": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2021",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "34349081": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2022",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "34068731": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2021",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "33678440": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2022",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "33673175": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2021",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "33581910": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2021",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "33390524": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2021",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "33309805": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2021",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "32958309": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2020",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "32924224": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2021",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "32807403": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2021",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "32750671": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2020",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "32348085": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2020",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "32249789": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2020",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "32049135": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2020",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "31770665": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2020",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "31759562": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2020",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "31500904": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2020",
+      "reason": "off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "41366762": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2025",
+      "reason": "already ingested in wiki → wiki/prosthetic-materials/aboushelib-2026-translucent-zirconia-monolithic-mechanical-performance.md",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "38993795": {
+      "topic": "zirconia-occlusal-adjustment",
+      "edat": "2024",
+      "reason": "already ingested in wiki → wiki/dental-materials/zirconia/sarabi-2024-grinding-ltd-flexural-strength-zirconia.md",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/12"
+    },
+    "26363460": {
+      "topic": "occlusal-efficiency",
+      "edat": "2015",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "26549578": {
+      "topic": "occlusal-efficiency",
+      "edat": "2016",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "27332882": {
+      "topic": "occlusal-efficiency",
+      "edat": "2017",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "27356200": {
+      "topic": "occlusal-efficiency",
+      "edat": "2016",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "28176213": {
+      "topic": "occlusal-efficiency",
+      "edat": "2017",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "28209396": {
+      "topic": "occlusal-efficiency",
+      "edat": "2017",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "28258640": {
+      "topic": "occlusal-efficiency",
+      "edat": "2017",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "28548212": {
+      "topic": "occlusal-efficiency",
+      "edat": "2017",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "28761982": {
+      "topic": "occlusal-efficiency",
+      "edat": "2018",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "29709708": {
+      "topic": "occlusal-efficiency",
+      "edat": "2018",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "29961620": {
+      "topic": "occlusal-efficiency",
+      "edat": "2018",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "30142040": {
+      "topic": "occlusal-efficiency",
+      "edat": "2019",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "30573857": {
+      "topic": "occlusal-efficiency",
+      "edat": "2018",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "30631208": {
+      "topic": "occlusal-efficiency",
+      "edat": "2019",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "30895038": {
+      "topic": "occlusal-efficiency",
+      "edat": "2017",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "31169168": {
+      "topic": "occlusal-efficiency",
+      "edat": "2019",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "31172873": {
+      "topic": "occlusal-efficiency",
+      "edat": "2019",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "31378028": {
+      "topic": "occlusal-efficiency",
+      "edat": "2019",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "31836754": {
+      "topic": "occlusal-efficiency",
+      "edat": "2019",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "31920486": {
+      "topic": "occlusal-efficiency",
+      "edat": "2019",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "32437857": {
+      "topic": "occlusal-efficiency",
+      "edat": "2020",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "32613432": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "33200849": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "33898409": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34030889": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34326583": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34649558": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34878525": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34910787": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34985577": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "35330027": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "35615886": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "35663440": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "35835683": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "35837677": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36004339": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36065716": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36141208": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36239005": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37214753": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "case-report/off-topic subject",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37301831": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37611655": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "case-report/off-topic subject",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37740128": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37892673": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37988621": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38067884": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38068058": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38409946": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38616519": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38618096": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38878405": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38920862": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38969936": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39086190": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39095962": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39281060": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39512877": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39719845": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "case-report/off-topic subject",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39905424": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39919995": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40013481": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40091776": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40144644": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40172362": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40232545": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40352005": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40550772": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40729794": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40859668": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40875065": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40996060": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41041423": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41299875": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41404644": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "case-report/off-topic subject",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41855923": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42080419": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42277297": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42870261": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "25965642": {
+      "topic": "occlusal-efficiency",
+      "edat": "2015",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "26089531": {
+      "topic": "occlusal-efficiency",
+      "edat": "2015",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "27043215": {
+      "topic": "occlusal-efficiency",
+      "edat": "2016",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "27349311": {
+      "topic": "occlusal-efficiency",
+      "edat": "2016",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "27401181": {
+      "topic": "occlusal-efficiency",
+      "edat": "2017",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "27987427": {
+      "topic": "occlusal-efficiency",
+      "edat": "2017",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "28216853": {
+      "topic": "occlusal-efficiency",
+      "edat": "2017",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "29128587": {
+      "topic": "occlusal-efficiency",
+      "edat": "2018",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "29561917": {
+      "topic": "occlusal-efficiency",
+      "edat": "2018",
+      "reason": "case-report/off-topic subject",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "30280238": {
+      "topic": "occlusal-efficiency",
+      "edat": "2019",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "30510294": {
+      "topic": "occlusal-efficiency",
+      "edat": "2018",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "31670918": {
+      "topic": "occlusal-efficiency",
+      "edat": "2019",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "32363765": {
+      "topic": "occlusal-efficiency",
+      "edat": "2020",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "32491236": {
+      "topic": "occlusal-efficiency",
+      "edat": "2020",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "32549196": {
+      "topic": "occlusal-efficiency",
+      "edat": "2020",
+      "reason": "case-report/off-topic subject",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "32965052": {
+      "topic": "occlusal-efficiency",
+      "edat": "2020",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "32989781": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "33438306": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "33551134": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "33569757": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "33624362": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "33685850": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "case-report/off-topic subject",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "33790400": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34247160": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34637889": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34756607": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "35082225": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "35454340": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36096912": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36170628": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "case-report/off-topic subject",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36204960": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37049448": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37065972": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37741725": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37750517": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37861611": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38382972": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38653688": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38691781": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38954328": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "case-report/off-topic subject",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39365479": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39414444": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39531376": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39719838": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "case-report/off-topic subject",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39724830": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "case-report/off-topic subject",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39900133": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40190513": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40394268": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40488382": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "case-report/off-topic subject",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40554837": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40923720": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41019450": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "case-report/off-topic subject",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41127768": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41272737": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "case-report/off-topic subject",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41295945": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41533178": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41616112": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "case-report/off-topic subject",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41766315": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41872864": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42015155": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "case-report/off-topic subject",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42068030": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "case-report/off-topic subject",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42210146": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42469762": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42477913": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42494352": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42567046": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42675929": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42686922": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42880913": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "adjacent: no masticatory-efficiency outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "26048367": {
+      "topic": "occlusal-efficiency",
+      "edat": "2015",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "26252380": {
+      "topic": "occlusal-efficiency",
+      "edat": "2015",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "26313248": {
+      "topic": "occlusal-efficiency",
+      "edat": "2016",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "26733153": {
+      "topic": "occlusal-efficiency",
+      "edat": "2016",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "26764178": {
+      "topic": "occlusal-efficiency",
+      "edat": "2016",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "26800161": {
+      "topic": "occlusal-efficiency",
+      "edat": "2016",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "26958832": {
+      "topic": "occlusal-efficiency",
+      "edat": "2016",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "27031836": {
+      "topic": "occlusal-efficiency",
+      "edat": "2016",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "27224022": {
+      "topic": "occlusal-efficiency",
+      "edat": "2016",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "27274560": {
+      "topic": "occlusal-efficiency",
+      "edat": "2016",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "27562053": {
+      "topic": "occlusal-efficiency",
+      "edat": "2016",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "29134672": {
+      "topic": "occlusal-efficiency",
+      "edat": "2017",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "29196948": {
+      "topic": "occlusal-efficiency",
+      "edat": "2018",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "29503716": {
+      "topic": "occlusal-efficiency",
+      "edat": "2018",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "29636242": {
+      "topic": "occlusal-efficiency",
+      "edat": "2018",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "29675516": {
+      "topic": "occlusal-efficiency",
+      "edat": "2018",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "29925763": {
+      "topic": "occlusal-efficiency",
+      "edat": "2018",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "29930787": {
+      "topic": "occlusal-efficiency",
+      "edat": "2018",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "29972946": {
+      "topic": "occlusal-efficiency",
+      "edat": "2017",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "30878521": {
+      "topic": "occlusal-efficiency",
+      "edat": "2019",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "31629157": {
+      "topic": "occlusal-efficiency",
+      "edat": "2020",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "32414506": {
+      "topic": "occlusal-efficiency",
+      "edat": "2020",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "32580080": {
+      "topic": "occlusal-efficiency",
+      "edat": "2020",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "32620333": {
+      "topic": "occlusal-efficiency",
+      "edat": "2020",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "33516129": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "33528948": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "33570519": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "33638570": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "33809096": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "33823357": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34124765": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34242291": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34405887": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34544436": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34905722": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "35118735": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "35267824": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "35743379": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36341889": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36549251": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36708253": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36718695": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36746817": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37337240": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37428732": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37729488": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37839334": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38071838": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38109392": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38163102": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38186265": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38295310": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38786633": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39019591": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39373833": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39476183": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39627624": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39917208": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40045314": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40334837": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40478889": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40517060": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40550768": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40550776": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40710478": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40725615": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41059013": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41354775": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41364373": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41431058": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41850868": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42337534": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42405687": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42411762": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42598811": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42670166": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42771184": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42894214": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "25664778": {
+      "topic": "occlusal-efficiency",
+      "edat": "2016",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "26757337": {
+      "topic": "occlusal-efficiency",
+      "edat": "2016",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "26798405": {
+      "topic": "occlusal-efficiency",
+      "edat": "2015",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "26929513": {
+      "topic": "occlusal-efficiency",
+      "edat": "2015",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "26949487": {
+      "topic": "occlusal-efficiency",
+      "edat": "2016",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "27033460": {
+      "topic": "occlusal-efficiency",
+      "edat": "2016",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "27083219": {
+      "topic": "occlusal-efficiency",
+      "edat": "2016",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "27411727": {
+      "topic": "occlusal-efficiency",
+      "edat": "2016",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "27632259": {
+      "topic": "occlusal-efficiency",
+      "edat": "2016",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "28214537": {
+      "topic": "occlusal-efficiency",
+      "edat": "2017",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "28280534": {
+      "topic": "occlusal-efficiency",
+      "edat": "2016",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "28469825": {
+      "topic": "occlusal-efficiency",
+      "edat": "2017",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "28832928": {
+      "topic": "occlusal-efficiency",
+      "edat": "2017",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "29152262": {
+      "topic": "occlusal-efficiency",
+      "edat": "2017",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "29279547": {
+      "topic": "occlusal-efficiency",
+      "edat": "2018",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "29469998": {
+      "topic": "occlusal-efficiency",
+      "edat": "2018",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "29610776": {
+      "topic": "occlusal-efficiency",
+      "edat": "2018",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "29633246": {
+      "topic": "occlusal-efficiency",
+      "edat": "2018",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "29728554": {
+      "topic": "occlusal-efficiency",
+      "edat": "2018",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "30781478": {
+      "topic": "occlusal-efficiency",
+      "edat": "2019",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "30796588": {
+      "topic": "occlusal-efficiency",
+      "edat": "2019",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "31383322": {
+      "topic": "occlusal-efficiency",
+      "edat": "2019",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "31535101": {
+      "topic": "occlusal-efficiency",
+      "edat": "2019",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "31778443": {
+      "topic": "occlusal-efficiency",
+      "edat": "2020",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "31945212": {
+      "topic": "occlusal-efficiency",
+      "edat": "2020",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "32779605": {
+      "topic": "occlusal-efficiency",
+      "edat": "2020",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "32904098": {
+      "topic": "occlusal-efficiency",
+      "edat": "2020",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "33017717": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "33035763": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "33065791": {
+      "topic": "occlusal-efficiency",
+      "edat": "2020",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "33331407": {
+      "topic": "occlusal-efficiency",
+      "edat": "2020",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "33336857": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34071137": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34184693": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34249511": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34301416": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34331353": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34348313": {
+      "topic": "occlusal-efficiency",
+      "edat": "2021",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34674199": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34935067": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34953628": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "35044889": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "35591715": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36210191": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36222311": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36295314": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36336464": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36613028": {
+      "topic": "occlusal-efficiency",
+      "edat": "2022",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36726272": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36908752": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37056404": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37240538": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37314643": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37506810": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37563860": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37660523": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37664310": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37837498": {
+      "topic": "occlusal-efficiency",
+      "edat": "2023",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38093599": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38916939": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38924577": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39105859": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39157031": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39350376": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39393784": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39399853": {
+      "topic": "occlusal-efficiency",
+      "edat": "2024",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39617180": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39636679": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39808357": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39988525": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40202707": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40255813": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40311627": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40602711": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40676540": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40807129": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40849471": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40886505": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41051730": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41073957": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41157984": {
+      "topic": "occlusal-efficiency",
+      "edat": "2025",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41206335": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41206336": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41318332": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41559707": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41635901": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41650382": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41658825": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41918053": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42044277": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42399941": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42649105": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42691049": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42699201": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42701197": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42786568": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42899306": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42930424": {
+      "topic": "occlusal-efficiency",
+      "edat": "2026",
+      "reason": "off-topic (biomechanics/other field)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "12070515": {
+      "topic": "zirconia-crown-function",
+      "edat": "2002",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "15386395": {
+      "topic": "zirconia-crown-function",
+      "edat": "2004",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "16536199": {
+      "topic": "zirconia-crown-function",
+      "edat": "2006",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "17323721": {
+      "topic": "zirconia-crown-function",
+      "edat": "2006",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "17510713": {
+      "topic": "zirconia-crown-function",
+      "edat": "2007",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "17559618": {
+      "topic": "zirconia-crown-function",
+      "edat": "2007",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "18696128": {
+      "topic": "zirconia-crown-function",
+      "edat": "2009",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "19117821": {
+      "topic": "zirconia-crown-function",
+      "edat": "2009",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "19216271": {
+      "topic": "zirconia-crown-function",
+      "edat": "2008",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "19328275": {
+      "topic": "zirconia-crown-function",
+      "edat": "2009",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "20019417": {
+      "topic": "zirconia-crown-function",
+      "edat": "2009",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "20234896": {
+      "topic": "zirconia-crown-function",
+      "edat": "2010",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "20819134": {
+      "topic": "zirconia-crown-function",
+      "edat": "2011",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "21597222": {
+      "topic": "zirconia-crown-function",
+      "edat": "2011",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "21623811": {
+      "topic": "zirconia-crown-function",
+      "edat": "2011",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "21701118": {
+      "topic": "zirconia-crown-function",
+      "edat": "2011",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "21884147": {
+      "topic": "zirconia-crown-function",
+      "edat": "2011",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "22335358": {
+      "topic": "zirconia-crown-function",
+      "edat": "2013",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "22457839": {
+      "topic": "zirconia-crown-function",
+      "edat": "2011",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "22977016": {
+      "topic": "zirconia-crown-function",
+      "edat": "2012",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "23019507": {
+      "topic": "zirconia-crown-function",
+      "edat": "2011",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "23285409": {
+      "topic": "zirconia-crown-function",
+      "edat": "2012",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "23289495": {
+      "topic": "zirconia-crown-function",
+      "edat": "2013",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "23296031": {
+      "topic": "zirconia-crown-function",
+      "edat": "2013",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "23333235": {
+      "topic": "zirconia-crown-function",
+      "edat": "2013",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "23560416": {
+      "topic": "zirconia-crown-function",
+      "edat": "2014",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "23683531": {
+      "topic": "zirconia-crown-function",
+      "edat": "2013",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "23755346": {
+      "topic": "zirconia-crown-function",
+      "edat": "2013",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "23846213": {
+      "topic": "zirconia-crown-function",
+      "edat": "2014",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "24120005": {
+      "topic": "zirconia-crown-function",
+      "edat": "2013",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "24447258": {
+      "topic": "zirconia-crown-function",
+      "edat": "2014",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "24975560": {
+      "topic": "zirconia-crown-function",
+      "edat": "2015",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "25212560": {
+      "topic": "zirconia-crown-function",
+      "edat": "2014",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "25257823": {
+      "topic": "zirconia-crown-function",
+      "edat": "2014",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "25539006": {
+      "topic": "zirconia-crown-function",
+      "edat": "2014",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "25676180": {
+      "topic": "zirconia-crown-function",
+      "edat": "2015",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "25686334": {
+      "topic": "zirconia-crown-function",
+      "edat": "2015",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "25986462": {
+      "topic": "zirconia-crown-function",
+      "edat": "2015",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "26009919": {
+      "topic": "zirconia-crown-function",
+      "edat": "2015",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "26346419": {
+      "topic": "zirconia-crown-function",
+      "edat": "2015",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "26816578": {
+      "topic": "zirconia-crown-function",
+      "edat": "2015",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "27021548": {
+      "topic": "zirconia-crown-function",
+      "edat": "2016",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "27198539": {
+      "topic": "zirconia-crown-function",
+      "edat": "2016",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "27314121": {
+      "topic": "zirconia-crown-function",
+      "edat": "2016",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "28190816": {
+      "topic": "zirconia-crown-function",
+      "edat": "2017",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "28216846": {
+      "topic": "zirconia-crown-function",
+      "edat": "2017",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "28243301": {
+      "topic": "zirconia-crown-function",
+      "edat": "2016",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "28291847": {
+      "topic": "zirconia-crown-function",
+      "edat": "2017",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "28400062": {
+      "topic": "zirconia-crown-function",
+      "edat": "2017",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "28506651": {
+      "topic": "zirconia-crown-function",
+      "edat": "2017",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "28633093": {
+      "topic": "zirconia-crown-function",
+      "edat": "2017",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "28841393": {
+      "topic": "zirconia-crown-function",
+      "edat": "2017",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "28888931": {
+      "topic": "zirconia-crown-function",
+      "edat": "2018",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "29128350": {
+      "topic": "zirconia-crown-function",
+      "edat": "2018",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "29961618": {
+      "topic": "zirconia-crown-function",
+      "edat": "2018",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "30167795": {
+      "topic": "zirconia-crown-function",
+      "edat": "2019",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "30551804": {
+      "topic": "zirconia-crown-function",
+      "edat": "2019",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "30685728": {
+      "topic": "zirconia-crown-function",
+      "edat": "2019",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "31218863": {
+      "topic": "zirconia-crown-function",
+      "edat": "2019",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "31592107": {
+      "topic": "zirconia-crown-function",
+      "edat": "2019",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "31722238": {
+      "topic": "zirconia-crown-function",
+      "edat": "2019",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "31778908": {
+      "topic": "zirconia-crown-function",
+      "edat": "2020",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "31936096": {
+      "topic": "zirconia-crown-function",
+      "edat": "2020",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "32188431": {
+      "topic": "zirconia-crown-function",
+      "edat": "2020",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "32381825": {
+      "topic": "zirconia-crown-function",
+      "edat": "2020",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "33129499": {
+      "topic": "zirconia-crown-function",
+      "edat": "2021",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "33149515": {
+      "topic": "zirconia-crown-function",
+      "edat": "2020",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "33483141": {
+      "topic": "zirconia-crown-function",
+      "edat": "2022",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "33662055": {
+      "topic": "zirconia-crown-function",
+      "edat": "2022",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34121735": {
+      "topic": "zirconia-crown-function",
+      "edat": "2021",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34500970": {
+      "topic": "zirconia-crown-function",
+      "edat": "2021",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "34504673": {
+      "topic": "zirconia-crown-function",
+      "edat": "2021",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "35103202": {
+      "topic": "zirconia-crown-function",
+      "edat": "2021",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "35118758": {
+      "topic": "zirconia-crown-function",
+      "edat": "2022",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "35200247": {
+      "topic": "zirconia-crown-function",
+      "edat": "2022",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "35249901": {
+      "topic": "zirconia-crown-function",
+      "edat": "2022",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "35413436": {
+      "topic": "zirconia-crown-function",
+      "edat": "2022",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "35837209": {
+      "topic": "zirconia-crown-function",
+      "edat": "2022",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36087111": {
+      "topic": "zirconia-crown-function",
+      "edat": "2023",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36161530": {
+      "topic": "zirconia-crown-function",
+      "edat": "2023",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36233980": {
+      "topic": "zirconia-crown-function",
+      "edat": "2022",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36396490": {
+      "topic": "zirconia-crown-function",
+      "edat": "2024",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36456927": {
+      "topic": "zirconia-crown-function",
+      "edat": "2022",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36625372": {
+      "topic": "zirconia-crown-function",
+      "edat": "2023",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36707313": {
+      "topic": "zirconia-crown-function",
+      "edat": "2023",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36775338": {
+      "topic": "zirconia-crown-function",
+      "edat": "2023",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "36801783": {
+      "topic": "zirconia-crown-function",
+      "edat": "2023",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37022099": {
+      "topic": "zirconia-crown-function",
+      "edat": "2024",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37083903": {
+      "topic": "zirconia-crown-function",
+      "edat": "2023",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37125520": {
+      "topic": "zirconia-crown-function",
+      "edat": "2022",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37244796": {
+      "topic": "zirconia-crown-function",
+      "edat": "2023",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37286415": {
+      "topic": "zirconia-crown-function",
+      "edat": "2025",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37482534": {
+      "topic": "zirconia-crown-function",
+      "edat": "2023",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37650043": {
+      "topic": "zirconia-crown-function",
+      "edat": "2023",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37703213": {
+      "topic": "zirconia-crown-function",
+      "edat": "2023",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37737460": {
+      "topic": "zirconia-crown-function",
+      "edat": "2024",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "37977990": {
+      "topic": "zirconia-crown-function",
+      "edat": "2024",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38013004": {
+      "topic": "zirconia-crown-function",
+      "edat": "2024",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38130700": {
+      "topic": "zirconia-crown-function",
+      "edat": "2023",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38256690": {
+      "topic": "zirconia-crown-function",
+      "edat": "2024",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38374666": {
+      "topic": "zirconia-crown-function",
+      "edat": "2024",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38390344": {
+      "topic": "zirconia-crown-function",
+      "edat": "2024",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38455676": {
+      "topic": "zirconia-crown-function",
+      "edat": "2024",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38555270": {
+      "topic": "zirconia-crown-function",
+      "edat": "2024",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38576681": {
+      "topic": "zirconia-crown-function",
+      "edat": "2024",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "38955602": {
+      "topic": "zirconia-crown-function",
+      "edat": "2025",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39026272": {
+      "topic": "zirconia-crown-function",
+      "edat": "2024",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39084954": {
+      "topic": "zirconia-crown-function",
+      "edat": "2024",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39092818": {
+      "topic": "zirconia-crown-function",
+      "edat": "2024",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39143630": {
+      "topic": "zirconia-crown-function",
+      "edat": "2024",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39450499": {
+      "topic": "zirconia-crown-function",
+      "edat": "2025",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39506212": {
+      "topic": "zirconia-crown-function",
+      "edat": "2025",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39551464": {
+      "topic": "zirconia-crown-function",
+      "edat": "2025",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39604941": {
+      "topic": "zirconia-crown-function",
+      "edat": "2024",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39710999": {
+      "topic": "zirconia-crown-function",
+      "edat": "2025",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39827822": {
+      "topic": "zirconia-crown-function",
+      "edat": "2025",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39827823": {
+      "topic": "zirconia-crown-function",
+      "edat": "2025",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39840627": {
+      "topic": "zirconia-crown-function",
+      "edat": "2025",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39934025": {
+      "topic": "zirconia-crown-function",
+      "edat": "2025",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "39959023": {
+      "topic": "zirconia-crown-function",
+      "edat": "2024",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40135658": {
+      "topic": "zirconia-crown-function",
+      "edat": "2026",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40400808": {
+      "topic": "zirconia-crown-function",
+      "edat": "2025",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40710123": {
+      "topic": "zirconia-crown-function",
+      "edat": "2025",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40813978": {
+      "topic": "zirconia-crown-function",
+      "edat": "2025",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40859199": {
+      "topic": "zirconia-crown-function",
+      "edat": "2025",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40893808": {
+      "topic": "zirconia-crown-function",
+      "edat": "2025",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "40978663": {
+      "topic": "zirconia-crown-function",
+      "edat": "2025",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41016866": {
+      "topic": "zirconia-crown-function",
+      "edat": "2026",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41053685": {
+      "topic": "zirconia-crown-function",
+      "edat": "2025",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41113043": {
+      "topic": "zirconia-crown-function",
+      "edat": "2025",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41125093": {
+      "topic": "zirconia-crown-function",
+      "edat": "2026",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41126408": {
+      "topic": "zirconia-crown-function",
+      "edat": "2026",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41294412": {
+      "topic": "zirconia-crown-function",
+      "edat": "2025",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41303090": {
+      "topic": "zirconia-crown-function",
+      "edat": "2025",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41446345": {
+      "topic": "zirconia-crown-function",
+      "edat": "2025",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41561410": {
+      "topic": "zirconia-crown-function",
+      "edat": "2025",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41590787": {
+      "topic": "zirconia-crown-function",
+      "edat": "2025",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41728444": {
+      "topic": "zirconia-crown-function",
+      "edat": "2026",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41854719": {
+      "topic": "zirconia-crown-function",
+      "edat": "2026",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41869143": {
+      "topic": "zirconia-crown-function",
+      "edat": "2026",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41901798": {
+      "topic": "zirconia-crown-function",
+      "edat": "2026",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "41966909": {
+      "topic": "zirconia-crown-function",
+      "edat": "2026",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42077143": {
+      "topic": "zirconia-crown-function",
+      "edat": "2026",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42175573": {
+      "topic": "zirconia-crown-function",
+      "edat": "2026",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42235543": {
+      "topic": "zirconia-crown-function",
+      "edat": "2026",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42333339": {
+      "topic": "zirconia-crown-function",
+      "edat": "2026",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42462487": {
+      "topic": "zirconia-crown-function",
+      "edat": "2026",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42586174": {
+      "topic": "zirconia-crown-function",
+      "edat": "2026",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42613810": {
+      "topic": "zirconia-crown-function",
+      "edat": "2026",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42667412": {
+      "topic": "zirconia-crown-function",
+      "edat": "2026",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42698086": {
+      "topic": "zirconia-crown-function",
+      "edat": "2026",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
+    },
+    "42816344": {
+      "topic": "zirconia-crown-function",
+      "edat": "2026",
+      "reason": "off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/13"
     }
   }
 }

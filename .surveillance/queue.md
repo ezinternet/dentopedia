@@ -1534,3 +1534,629 @@ Found by manual PDF discovery (not the original scout search), 2026-07-25 — sa
       "Effect of Viewing Angle While Tightening on Torque Values in Beam-Type Torque Wrenches" — Dent J (Basel)
 - [ ] PMID 42724611 | in-vitro | OA:PMC PMC13559878 | implant-prosthetic-screw-torque | edat 2026 Sep 5
       "Influence of Aging on the Torque Accuracy of Two Different Spring-Style Implant Torque Wrenches: An in vitro Study" — Clin Cosmet Investig Dent
+- [ ] PMID 30847043 | in-vitro | OA:PMC PMC6400711 (cc by-nc) | zirconia-occlusal-adjustment | edat 2019 Feb
+      "The effects of surface grinding and polishing on the phase transformation and flexural strength of zirconia" — J Adv Prosthodont
+- [ ] PMID 29074931 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2017 Oct 27
+      "Fracture resistance of zirconia-based all-ceramic crowns after bur adjustment" — Br Dent J
+- [ ] PMID 28597965 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2017 Aug
+      "Fracture resistance of zirconia-based all-ceramic crowns after bur adjustment" — Eur J Oral Sci
+- [ ] PMID 26547870 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2015 Dec
+      "Influence of surface treatment on the in-vitro fracture resistance of zirconia-based all-ceramic anterior crowns" — Dent Mater
+- [ ] PMID 26777095 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2016 Mar
+      "Hydrothermal degradation of a 3Y-TZP translucent dental ceramic: A comparison of numerical predictions with experimental data after 2 years of aging" — Dent Mater
+- [ ] PMID 31079884 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2020 Feb
+      "The mechanical behavior of high-translucent monolithic zirconia after adjustment and finishing procedures and artificial aging" — J Prosthet Dent
+- [ ] PMID 35274430 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2022 Sep
+      "Effect of grinding on the optical properties of monolithic zirconia" — J Esthet Restor Dent
+- [ ] PMID 33896619 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2022 Nov
+      "Effect of grinding adjustments on the color of monolithic zirconia" — J Prosthet Dent
+- [ ] PMID 39332992 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2024 Dec
+      "Effect of simulated intraoral adjustment on the color and translucency of gradient multilayered monolithic zirconia" — J Prosthet Dent
+- [ ] PMID 41417857 | in-vitro | OA:PMC PMC13069226 (cc by) | zirconia-occlusal-adjustment | edat 2026 Apr
+      "Effect of Occlusal Adjustment and Subsequent Repolishing on the Translucency Parameter, Contact Angle, and Flexural Strength of Different Types of Glazed Monolithic Zirconia" — J Esthet Restor Dent
+- [ ] PMID 39541609 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2025 Jan
+      "Effect of occlusal adjustment and subsequent repolishing on the surface roughness and volumetric wear of different types of glazed monolithic zirconia after chewing simulation" — J Mech Behav Biomed Mater
+- [ ] PMID 25059249 | in-vitro | OA:PMC PMC5153586 (cc by-nc-sa) | zirconia-occlusal-adjustment | edat 2014 Dec
+      "Surface roughness of zirconia for full-contour crowns after clinically simulated grinding and polishing" — Int J Oral Sci
+- [ ] PMID 22608163 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2012 Aug
+      "Wear behavior of dental Y-TZP ceramic against natural enamel after different finishing procedures" — Dent Mater
+- [ ] PMID 40435897 | SR+MA | OA:none | zirconia-occlusal-adjustment | edat 2025 Sep
+      "Phase transformation of yttria-stabilized zirconia after the use of various bur types in dry and wet conditions: A systematic review and meta-analysis" — J Mech Behav Biomed Mater
+- [ ] PMID 36634437 | SR+MA | OA:none | zirconia-occlusal-adjustment | edat 2023 Feb
+      "Should finishing, polishing or glazing be performed after grinding YSZ ceramics? A systematic review and meta-analysis" — J Mech Behav Biomed Mater
+- [ ] PMID 37699184 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2023 Sep 12
+      "Finite Element Analysis of Occlusal Interferences in Dental Prosthetics Caused by Occlusal Adjustment" — Int J Prosthodont
+- [ ] PMID 42647398 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2026 Aug 26
+      "Adjustment Efficiency and Internal Fit of Screw-Retained Zirconia Crowns on Additively Manufactured Dental Casts: An In Vitro Study on the Effect of Printing Layer Thickness and Digital Implant Analog Design" — Int J Oral Maxillofac Implants
+- [ ] PMID 41166097 | clinical | OA:none | zirconia-occlusal-adjustment | edat 2026 Mar 26
+      "Digital Quantitative Analysis of Occlusal and Morphologic Characteristics of Mandibular First Molar Implant Prostheses Fabricated via Fully Digital Workflow After Delivery: A Clinical Pilot Study" — Int J Prosthodont
+- [ ] PMID 36403693 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2023 Jan
+      "Impact of the occlusal contact pattern and occlusal adjustment on the wear and stability of crowns" — J Dent
+- [ ] PMID 39578771 | clinical | OA:PMC PMC11583458 (cc by) | zirconia-occlusal-adjustment | edat 2024 Nov 22
+      "Reliability of the digital functionally generated path technique for assessing occlusal interferences and adjusting CAD-CAM zirconia crowns: an in vivo study" — BMC Oral Health
+- [ ] PMID 42572273 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2026 Sep 25
+      "Comparison of polishing methods for monolithic all-ceramic crowns after occlusal adjustment: Appropriate use of new polishing materials" — Dent Mater J
+- [ ] PMID 39135236 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2024 Sep 28
+      "Comparison of polishing methods for two types of monolithic all-ceramic crowns after occlusal adjustments: Polishing paste versus glazed porcelain" — Dent Mater J
+- [ ] PMID 42830540 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2026 Oct 4
+      "Influence of Simulated Clinical Finishing/Polishing Protocols and Thermocycling on the Surface Integrity and Mechanical Performance of 3Y-TZP" — J Esthet Restor Dent
+- [ ] PMID 33188586 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2021 Sep
+      "Effect of surface finishing and polishing procedures on color properties and translucency of monolithic zirconia restorations at varying thickness" — J Esthet Restor Dent
+- [ ] PMID 32279854 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2020 May
+      "Wear analysis and topographical properties of monolithic zirconia and CoCr against human enamel after polishing and glazing procedures" — J Mech Behav Biomed Mater
+- [ ] PMID 32276187 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2020 Jul
+      "In-vitro polishing of CAD/CAM ceramic restorations: An evaluation with SEM and confocal profilometry" — J Mech Behav Biomed Mater
+- [ ] PMID 30140399 | in-vitro | OA:PMC PMC6104505 (cc by-nc) | zirconia-occlusal-adjustment | edat 2018 Aug
+      "Polish of interface areas between zirconia, silicate-ceramic, and composite with diamond-containing systems" — J Adv Prosthodont
+- [ ] PMID 29713434 | in-vitro | OA:PMC PMC5917105 (cc by-nc) | zirconia-occlusal-adjustment | edat 2018 Apr
+      "The effect of various polishing systems on surface roughness and phase transformation of monolithic zirconia" — J Adv Prosthodont
+- [ ] PMID 29563437 | in-vitro | OA:PMC PMC5806964 (cc by) | zirconia-occlusal-adjustment | edat 2017 Nov 14
+      "Polishing of Monolithic Zirconia Crowns-Results of Different Dental Practitioner Groups" — Dent J (Basel)
+- [ ] PMID 28088308 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2017 Mar
+      "Effect of various polishing systems on the surface roughness and phase transformation of zirconia and the durability of the polishing systems" — J Prosthet Dent
+- [ ] PMID 27061631 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2016 Sep
+      "Evaluation of various polishing systems and the phase transformation of monolithic zirconia" — J Prosthet Dent
+- [ ] PMID 27264939 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2016 Nov 12
+      "Effect of Finishing and Polishing on the Surface Roughness of Four Ceramic Materials after Occlusal Adjustment" — J Esthet Restor Dent
+- [ ] PMID 32609416 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2021 Mar
+      "Color stability of individually stained monolithic zirconia following occlusal adjustment" — J Esthet Restor Dent
+- [ ] PMID 33651023 | SR | OA:none | zirconia-occlusal-adjustment | edat 2022 January/February
+      "Impact of Finishing Protocols on Color Stability of CAD/CAM Ceramics: A Systematic Review" — Int J Prosthodont
+- [ ] PMID 42077700 | narrative-review | OA:PMC PMC13132610 (cc by) | zirconia-occlusal-adjustment | edat 2026 Mar
+      "Color Stability of Extrinsically Colored Monolithic Zirconia: A Narrative Review" — Cureus
+- [ ] PMID 42964982 | clinical | OA:PMC PMC13720931 (cc by) | zirconia-occlusal-adjustment | edat 2026 Sep
+      "Occlusal Surface Changes in Single-Unit Versus Three-Unit Implant-Supported Zirconia Restoration: A Retrospective Observational Study" — Cureus
+- [ ] PMID 42923520 | clinical | OA:PMC PMC13687699 | zirconia-occlusal-adjustment | edat 2026
+      "Influence of a digital versus a conventional workflow on occlusal contacts of posterior implant-supported single crowns based on digital occlusal analysis: a retrospective study" — Am J Transl Res
+- [ ] PMID 42087854 | clinical | OA:PMC PMC13136545 (cc by-nc) | zirconia-occlusal-adjustment | edat 2026 Apr
+      "Trueness and the amount of clinical adjustment for zirconia crowns fabricated by digital light processing at different build angles: a within-patient clinical study" — J Adv Prosthodont
+- [ ] PMID 41913613 | RCT | OA:none | zirconia-occlusal-adjustment | edat 2026 Apr 9
+      "[Individual and precise occlusal design for posterior full-crown restorations based on physiological tooth displacement and evaluation of clinical efficacy]" — Zhonghua Kou Qiang Yi Xue Za Zhi
+- [ ] PMID 37526213 | RCT | OA:none | zirconia-occlusal-adjustment | edat 2023 Nov
+      "Clinical evaluation and quantitative occlusal change analysis of posterior implant-supported all-ceramic crowns: A 3-year randomized controlled clinical trial" — Clin Oral Implants Res
+- [ ] PMID 36403691 | CCT | OA:none | zirconia-occlusal-adjustment | edat 2023 Jan
+      "Occlusal adjustment of 3-unit tooth-supported fixed dental prostheses fabricated with complete-digital and -analog workflows: A crossover clinical trial" — J Dent
+- [ ] PMID 36333533 | clinical | OA:none | zirconia-occlusal-adjustment | edat 2023 Mar
+      "Comparison of occlusal contact errors of 6 chairside CAD/CAM crowns: a self-controlled clinical study" — Clin Oral Investig
+- [ ] PMID 35525625 | RCT | OA:none | zirconia-occlusal-adjustment | edat 2024 May
+      "A randomized clinical trial comparing the clinical fit and chairside adjustment time for implant-supported crowns fabricated by fully digital and partially digital techniques" — J Prosthet Dent
+- [ ] PMID 33570515 | clinical | OA:none | zirconia-occlusal-adjustment | edat 2021 Jan-Feb
+      "Occlusal Assessment of Zirconia Crowns Designed with the Digital Articulator and Traditional Methods" — Int J Prosthodont
+- [ ] PMID 33026720 | clinical | OA:none | zirconia-occlusal-adjustment | edat 2021 May 28
+      "Transferring Occlusal Anatomy from Worn Temporary Crowns to Zirconium Oxide Crowns" — Eur J Prosthodont Restor Dent
+- [ ] PMID 31357225 | RCT | OA:none | zirconia-occlusal-adjustment | edat 2019 Nov
+      "Quantitative clinical adjustment analysis of posterior single implant crown in a chairside digital workflow: A randomized controlled trial" — Clin Oral Implants Res
+- [ ] PMID 29807740 | CCT | OA:none | zirconia-occlusal-adjustment | edat 2018 Nov
+      "Assessment of CAD-CAM zirconia crowns designed with 2 different methods: A self-controlled clinical trial" — J Prosthet Dent
+- [ ] PMID 40061024 | clinical | OA:PMC PMC11886401 (cc by-nc) | zirconia-occlusal-adjustment | edat 2025 Feb
+      "Comparison of interference from eccentric movements of dental crowns fabricated via dynamic jaw motion tracking and conventional methods: a double-blind clinical study" — J Adv Prosthodont
+- [ ] PMID 38592229 | clinical | OA:PMC PMC10931913 (cc by) | zirconia-occlusal-adjustment | edat 2024 Feb 28
+      "Digital Protocol to Record Occlusal Analysis in Prosthodontics: A Pilot Study" — J Clin Med
+- [ ] PMID 36141729 | clinical | OA:PMC PMC9517085 (cc by) | zirconia-occlusal-adjustment | edat 2022 Sep 12
+      "Fully Digital versus Conventional Workflows for Fabricating Posterior Three-Unit Implant-Supported Reconstructions: A Prospective Crossover Clinical Trial" — Int J Environ Res Public Health
+- [ ] PMID 24980739 | RCT | OA:none | zirconia-occlusal-adjustment | edat 2014 Oct
+      "Clinical outcomes of three different crown systems with CAD/CAM technology" — J Prosthet Dent
+- [ ] PMID 42644050 | in-vitro | OA:PMC PMC13505195 (cc by) | zirconia-occlusal-adjustment | edat 2026
+      "Effect of Surface Adjustment and Hydrothermal Aging on the Mechanical Behavior and Microstructure of Zirconia With Different Yttria Contents" — Int J Dent
+- [ ] PMID 42068718 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2026 Jul
+      "Intaglio surface polishing and adjustment by grinding of 4YSZ crowns: Effect on internal/marginal adaptation and load-bearing capacity under fatigue" — J Mech Behav Biomed Mater
+- [ ] PMID 42055831 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2026 Aug
+      "Effect of grinding and polishing on the surface characteristics of additively manufactured monolithic zirconia: An in vitro study" — J Prosthet Dent
+- [ ] PMID 41257139 | in-vitro | OA:PMC PMC12620534 (cc by) | zirconia-occlusal-adjustment | edat 2025 Oct
+      "Evaluation of the Effect of Chairside Adjustment Extent on the Biaxial Flexural Strength of Aged Monolithic Zirconia" — Cureus
+- [ ] PMID 41046229 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2026 Feb
+      "Phase transformation and biaxial flexural strength of additively and subtractively manufactured zirconia: Effect of grinding and regeneration firing" — J Prosthet Dent
+- [ ] PMID 39987645 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2025 Jun
+      "Biaxial flexural strength and surface characterization of multilayer zirconium dioxide after polishing, glazing and clinical adjustments" — J Mech Behav Biomed Mater
+- [ ] PMID 39955828 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2025 May
+      "Fatigue performance of 4YSZ: Effect of finishing/polishing protocol and surface treatments of the bonding surface" — J Mech Behav Biomed Mater
+- [ ] PMID 39699500 | in-vitro | OA:PMC PMC11653993 (cc by) | zirconia-occlusal-adjustment | edat 2024
+      "Optical properties and color stability of a translucent zirconia: effects of finishing after grinding" — Braz Dent J
+- [ ] PMID 38942054 | in-vitro | OA:PMC PMC11750342 (cc by) | zirconia-occlusal-adjustment | edat 2025 Feb
+      "Effect of Grinding and Polishing Protocols on Surface Roughness, Flexural Strength, and Phase Transformation of High-Translucent 5 mol% Yttria-Partially Stabilized Zirconia" — Eur J Dent
+- [ ] PMID 38374614 | in-vitro | OA:PMC PMC10893764 (cc by-nc-nd) | zirconia-occlusal-adjustment | edat 2024 Feb 20
+      "Influence of Chairside Simulated Adjustment (Finishing and Polishing) Protocol and Chlorhexidine Mouthwash Immersion on Color Stability and Translucency of 2 and 3 Preshaded Multilayered Monolithic Zirconia" — Med Sci Monit
+- [ ] PMID 37945513 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2024 Jan
+      "Effect of different surface and heat treatments on the surface roughness, crystallography, and phase composition of high translucency zirconia for monolithic restorations" — J Prosthet Dent
+- [ ] PMID 37567065 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2023 Oct
+      "Residual stress associated with crystalline phase transformation of 3-6 mol% yttria-stabilized zirconia ceramics induced by mechanical surface treatments" — J Mech Behav Biomed Mater
+- [ ] PMID 35934577 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2024 Aug
+      "Strength and phase transformation of different zirconia types after chairside adjustment" — J Prosthet Dent
+- [ ] PMID 35292846 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2022 Jul
+      "The effect of adjustment and finishing procedure on roughness, strength, and phase transformation of monolithic zirconia" — Clin Oral Investig
+- [ ] PMID 35227045 | in-vitro | OA:PMC PMC11734298 (cc by) | zirconia-occlusal-adjustment | edat 2022 Mar 1
+      "Effect of Grinding and Regenerative Heat Treatment on the Fracture Resistance of a Zirconia/Porcelain Veneer Interface" — J Adhes Dent
+- [ ] PMID 35076140 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2022 Oct
+      "Effects of Grinding and Polishing on Surface Characteristics of Monolithic Zirconia Fabricated by Different Manufacturing Processes: Wet Deposition and Dry Milling" — J Prosthodont
+- [ ] PMID 34712413 | in-vitro | OA:PMC PMC8538149 (cc by) | zirconia-occlusal-adjustment | edat 2021 Summer
+      "Effect of different surface treatments on surface roughness, phase transformation, and biaxial flexural strength of dental zirconia" — J Dent Res Dent Clin Dent Prospects
+- [ ] PMID 34562764 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2021 Dec
+      "Grinding and polishing of the inner surface of monolithic simplified restorations made of zirconia polycrystals and lithium disilicate glass-ceramic: Effects on the load-bearing capacity under fatigue of the bonded restorations" — J Mech Behav Biomed Mater
+- [ ] PMID 34504677 | in-vitro | OA:PMC PMC8410306 (cc by-nc) | zirconia-occlusal-adjustment | edat 2021 Aug
+      "Comparison of surface topography and roughness in different yttrium oxide compositions of dental zirconia after grinding and polishing" — J Adv Prosthodont
+- [ ] PMID 34300962 | in-vitro | OA:PMC PMC8306834 (cc by) | zirconia-occlusal-adjustment | edat 2021 Jul 20
+      "Analysis of the Surface Condition and Changes in Crystallographic Structure of Zirconium Oxide Affected by Mechanical Processing" — Materials (Basel)
+- [ ] PMID 33922280 | in-vitro | OA:PMC PMC8122781 (cc by) | zirconia-occlusal-adjustment | edat 2021 Apr 22
+      "The Influence of Surface Preparation, Chewing Simulation, and Thermal Cycling on the Phase Composition of Dental Zirconia" — Materials (Basel)
+- [ ] PMID 33716378 | in-vitro | OA:PMC PMC7946154 | zirconia-occlusal-adjustment | edat 2020 Nov
+      "Flexural strength and crystalline stability of a monolithic translucent zirconia subjected to grinding, polishing and thermal challenges" — Ceram Int
+- [ ] PMID 32763368 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2020 Oct
+      "Simulated clinical adjustment and intra-oral polishing of two translucent, monolithic zirconia dental ceramics: An in vitro investigation of surface roughness" — J Dent
+- [ ] PMID 32446636 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2020 Oct
+      "Effect of different grinding protocols on surface characteristics and fatigue behavior of yttria-stabilized zirconia polycrystalline: An in vitro study" — J Prosthet Dent
+- [ ] PMID 32347216 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2020 Sep
+      "Grinding the intaglio surface of yttria partially- and fully-stabilized zirconia polycrystals restorations: Effect on their fatigue behavior" — J Mech Behav Biomed Mater
+- [ ] PMID 32063392 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2020 Apr
+      "The adverse effects of tungsten carbide grinding on the strength of dental zirconia" — Dent Mater
+- [ ] PMID 31794343 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2020 May/Jun
+      "Does Diamond Stone Grinding Change the Surface Characteristics and Flexural Strength of Monolithic Zirconia?" — Oper Dent
+- [ ] PMID 31743822 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2020 Mar
+      "Grinding, polishing and glazing of the occlusal surface do not affect the load-bearing capacity under fatigue and survival rates of bonded monolithic fully-stabilized zirconia simplified restorations" — J Mech Behav Biomed Mater
+- [ ] PMID 31774243 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2020 Jan
+      "Does the application of surface treatments in different sintering stages affect flexural strength and optical properties of zirconia?" — J Esthet Restor Dent
+- [ ] PMID 31836916 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2020 Sep
+      "Influence of different surface treatments on two-body wear and fracture load of monolithic CAD/CAM ceramics" — Clin Oral Investig
+- [ ] PMID 41366375 | in-vitro | OA:PMC PMC12790711 (cc by) | zirconia-occlusal-adjustment | edat 2025 Dec 10
+      "Effects of surface treatments, LTD aging, and pH on the mechanical behavior of high-translucent zirconia" — BMC Oral Health
+- [ ] PMID 41402817 | in-vitro | OA:PMC PMC12709688 (cc by-nc-nd) | zirconia-occlusal-adjustment | edat 2025 Dec 16
+      "Impact of sintering speed and surface finishing on translucency, mechanical, microstructural and surface properties of monolithic zirconia restorations" — BMC Oral Health
+- [ ] PMID 41590127 | in-vitro | OA:PMC PMC12840539 (cc by) | zirconia-occlusal-adjustment | edat 2025 Dec 20
+      "Effect of Finishing Protocol Treatments on Optical Properties of Super Translucent Zirconia After Simulated Wear" — Dent J (Basel)
+- [ ] PMID 36123676 | in-vitro | OA:PMC PMC9487058 (cc by) | zirconia-occlusal-adjustment | edat 2022 Sep 19
+      "Effect of surface treatments on biaxial flexural strength, fatigue resistance, and fracture toughness of high versus low translucency zirconia" — BMC Oral Health
+- [ ] PMID 29961952 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2020 Feb
+      "Investigating the Effect of Different Surface Treatments on Vickers Hardness and Flexural Strength of Zirconium and Lithium Disilicate Ceramics" — J Prosthodont
+- [ ] PMID 37382338 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2023 Nov 30
+      "Strength of a Zirconia- Reinforced Glass-Ceramic After Diamond Bur Adjustment" — Eur J Prosthodont Restor Dent
+- [ ] PMID 38893860 | in-vitro | OA:PMC PMC11173512 (cc by) | zirconia-occlusal-adjustment | edat 2024 May 28
+      "Cutting Efficiency of Diamond Grinders on Composite and Zirconia" — Materials (Basel)
+- [ ] PMID 42187669 | in-vitro | OA:PMC PMC13205840 (cc by) | zirconia-occlusal-adjustment | edat 2026 May 12
+      "The Effect of Diamond Bur Wear During Grinding on the Marginal Gap of Zirconia Lithium Silicate Single Crowns: An In Vitro SEM Analysis" — Dent J (Basel)
+- [ ] PMID 39517458 | in-vitro | OA:PMC PMC11547838 (cc by) | zirconia-occlusal-adjustment | edat 2024 Oct 24
+      "Alternative Treatments for Zirconium Oxide to Compare Commonly Used Surface Treatments to Determine Which Has the Least Effect on the Phase Transformation" — Materials (Basel)
+- [ ] PMID 40363448 | in-vitro | OA:PMC PMC12072546 (cc by) | zirconia-occlusal-adjustment | edat 2025 Apr 24
+      "Clinical Adjustment of Zirconia-Reinforced Lithium Silicate and Lithium Disilicate Restorations Should Be Performed Before Crystallization" — Materials (Basel)
+- [ ] PMID 36049370 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2022 Oct
+      "In-lab simulation of CAD/CAM grinding and intaglio surface treatments of 4YSZ monolithic restorations: Effect on its load-bearing capacity under fatigue" — J Mech Behav Biomed Mater
+- [ ] PMID 42493332 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2026 Oct
+      "Influence of manufacturing protocol, polishing, and thermocycling on water contact angle and hardness of zirconia: Comparison of additive and subtractive techniques" — J Prosthet Dent
+- [ ] PMID 42139519 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2026 May 15
+      "Do Different Chairside Finishing/Polishing Procedures, Either Alone or Followed by Glazing, Impact The Surface Properties of Ground Monolithic Zirconia?" — Int J Prosthodont
+- [ ] PMID 41864947 | in-vitro | OA:PMC PMC13127046 (cc by) | zirconia-occlusal-adjustment | edat 2026 Mar 21
+      "Optimizing CAD/CAM ceramics: a comparative study of polishing and glazing effects on surface quality and aesthetic properties following coffee thermocycling" — BMC Oral Health
+- [ ] PMID 42464191 | in-vitro | OA:PMC PMC13663293 (cc by-nc-nd) | zirconia-occlusal-adjustment | edat 2026 Jul 16
+      "Effect of various polishing systems on the surface roughness and Streptococcus mutans adhesion of CAD/CAM ceramic materials" — BMC Oral Health
+- [ ] PMID 40055890 | in-vitro | OA:PMC PMC11899277 (cc by-nc-nd) | zirconia-occlusal-adjustment | edat 2025 Mar 8
+      "Evaluation of Surface Roughness of Multilayered Monolithic Zirconia Following Chairside Adjustment with 3 Different Polishing Systems Sterilized for Multiple Cycles: An In Vitro Study" — Med Sci Monit
+- [ ] PMID 39923467 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2025 Apr
+      "Effect of different finishing/polishing techniques and glaze application on the flexural strength of ultratranslucent zirconia after hydrothermal aging" — J Mech Behav Biomed Mater
+- [ ] PMID 39956718 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2025 Apr
+      "Influence of surface treatment before glazing on wear and flexural strength of translucent zirconia" — Dent Mater
+- [ ] PMID 38716797 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2024 Jul
+      "Surface roughness and optical characteristics evaluations after chairside adjustment of different zirconia types" — J Esthet Restor Dent
+- [ ] PMID 38857196 | in-vitro | OA:PMC PMC11177719 (cc by-nc-nd) | zirconia-occlusal-adjustment | edat 2024 Jun 10
+      "The Impact of Repeated Steam Sterilization Cycles on the Efficacy of Chairside Adjustment Kits for Polishing Monolithic Multi-Layered Zirconia Dental Restoration Material" — Med Sci Monit
+- [ ] PMID 37608597 | in-vitro | OA:PMC PMC10582218 (cc by) | zirconia-occlusal-adjustment | edat 2023 Oct
+      "The impact of different polishing systems on yttria-stabilized tetragonal zirconia polycrystalline crowns in relation to heat generation" — Clin Exp Dent Res
+- [ ] PMID 35523518 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2023 Mar
+      "The Effect of Finishing and Polishing with Proprietary Vs Interchanged Polishing Kits on the Surface Roughness of Different Ceramic Materials" — J Prosthodont
+- [ ] PMID 35586363 | in-vitro | OA:PMC PMC9110246 (cc by) | zirconia-occlusal-adjustment | edat 2022
+      "Effects of Different Polishing Systems on Surface Roughness and Crystal Structure of Zirconia" — Appl Bionics Biomech
+- [ ] PMID 35329653 | in-vitro | OA:PMC PMC8950357 (cc by) | zirconia-occlusal-adjustment | edat 2022 Mar 16
+      "A Comparative Study on Simulated Chairside Grinding and Polishing of Monolithic Zirconia" — Materials (Basel)
+- [ ] PMID 36685792 | in-vitro | OA:PMC PMC9832147 (cc by-nc) | zirconia-occlusal-adjustment | edat 2022 Dec
+      "Analysis of surface characteristics of (Y, Nb)-TZP after finishing and polishing" — J Adv Prosthodont
+- [ ] PMID 36532324 | in-vitro | OA:PMC PMC9753920 (cc by-nc-sa) | zirconia-occlusal-adjustment | edat 2022 Sep-Oct
+      "Experimental Study of Surface Roughness of Dental Ceramics After Polishing with Three Types of Polishing Systems" — J Int Soc Prev Community Dent
+- [ ] PMID 36513337 | in-vitro | OA:PMC PMC10756809 (cc by) | zirconia-occlusal-adjustment | edat 2023 Oct
+      "Surface Roughness and Hardness of CAD/CAM Ceramic Materials after Polishing with a Multipurpose Polishing Kit: An In Vitro Study" — Eur J Dent
+- [ ] PMID 31703917 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2020 Jul
+      "Evaluation of the effect of different polishing systems on the surface roughness of dental ceramics" — J Prosthet Dent
+- [ ] PMID 37023341 | in-vitro | OA:none | zirconia-occlusal-adjustment | edat 2023 Jan-Mar
+      "Effects of the substructure thickness, the resin cement color and the finishing procedure on the color and translucency of zirconia-based ceramic restorations" — Dent Med Probl
+- [ ] PMID 32655223 | in-vitro | OA:PMC PMC7335032 (cc by-nc-sa) | zirconia-occlusal-adjustment | edat 2020 Apr-Jun
+      "An in vitro study to compare the surface roughness of glazed and chairside polished dental monolithic zirconia using two polishing systems" — J Indian Prosthodont Soc
+- [ ] PMID 41219104 | RCT | OA:none | zirconia-occlusal-adjustment | edat 2026 May
+      "Comparative evaluation of the wear of polished opaque zirconia crowns, polished translucent zirconia crowns, and opposing natural teeth: A split-mouth clinical trial" — J Prosthet Dent
+- [ ] PMID 32665120 | RCT | OA:none | zirconia-occlusal-adjustment | edat 2021 Jul
+      "Evaluation of the wear of glazed and polished zirconia crowns and the opposing natural teeth: A clinical pilot study" — J Prosthet Dent
+- [ ] PMID 32469712 | clinical | OA:none | zirconia-occlusal-adjustment | edat 2020 Aug
+      "Two-body wear test of enamel against laboratory polished and clinically adjusted zirconia" — J Mech Behav Biomed Mater
+- [ ] PMID 25864000 | obs | OA:none | occlusal-efficiency | edat 2015
+      "Changes in occlusal function after orthognathic surgery in mandibular prognathism with and without asymmetry." — International journal of oral and maxillofacial surgery
+- [ ] PMID 26027883 | obs | OA:none | occlusal-efficiency | edat 2016
+      "Relationship between jaw movement and masticatory performance in adults with natural dentition." — Acta odontologica Scandinavica
+- [ ] PMID 26111925 | obs | OA:none | occlusal-efficiency | edat 2015
+      "A novel colourimetric technique to assess chewing function using two-coloured specimens: Validation and application." — Journal of dentistry
+- [ ] PMID 26253216 | obs | OA:none | occlusal-efficiency | edat 2015
+      "The relationship between masticatory and swallowing behaviors and body weight." — Physiology &amp; behavior
+- [ ] PMID 26266213 | obs | OA:PMC PMC4525603 | occlusal-efficiency | edat 2015
+      "A Comparison of Masticatory Performance and Efficiency of Complete Dentures Made with High Impact and Flexible Resins: A Pilot Study." — Journal of clinical and diagnostic research : JCDR
+- [ ] PMID 26323333 | obs | OA:none | occlusal-efficiency | edat 2016
+      "Natural mediotrusive contact: does it affect the masticatory and neck EMG activity during tooth grinding?" — Cranio : the journal of craniomandibular practice
+- [ ] PMID 26371787 | obs | OA:none | occlusal-efficiency | edat 2016
+      "Reproducibility, Reliability, and Validity of Fuchsin-Based Beads for the Evaluation of Masticatory Performance." — Journal of prosthodontics : official journal of the American College of Prosthodontists
+- [ ] PMID 26444981 | obs | OA:PMC PMC4596309 | occlusal-efficiency | edat 2015
+      "Activity of the masticatory muscles and occlusal contacts in young adults with and without orthodontic treatment." — BMC oral health
+- [ ] PMID 26485380 | RCT | OA:none | occlusal-efficiency | edat 2015
+      "Short-Term Sensorimotor Effects of Experimental Occlusal Interferences on the Wake-Time Masseter Muscle Activity of Females with Masticatory Muscle Pain." — Journal of oral &amp; facial pain and headache
+- [ ] PMID 26827172 | obs | OA:none | occlusal-efficiency | edat 2016
+      "Markerless three-dimensional tracking of masticatory movement." — Journal of biomechanics
+- [ ] PMID 26919724 | obs | OA:none | occlusal-efficiency | edat 2016
+      "Postero-inferior condylar movement induced by artificial occlusal interference on the balancing side during fictive mastication in rabbits." — Archives of oral biology
+- [ ] PMID 27101810 | obs | OA:none | occlusal-efficiency | edat 2017
+      "Assessment of electromyographic activity in patients with temporomandibular disorders and natural mediotrusive occlusal contact during chewing and tooth grinding." — Cranio : the journal of craniomandibular practice
+- [ ] PMID 27113040 | obs | OA:none | occlusal-efficiency | edat 2016
+      "Evaluation of masticatory activity during unilateral single tooth clenching using muscle functional magnetic resonance imaging." — Journal of oral rehabilitation
+- [ ] PMID 27118683 | obs | OA:none | occlusal-efficiency | edat 2017
+      "Chewing efficiency and maximum bite force with different attachment systems of implant overdentures: a&#xa0;crossover study." — Clinical oral implants research
+- [ ] PMID 27132120 | obs | OA:none | occlusal-efficiency | edat 2016
+      "Dystrophic changes in masticatory muscles related chewing problems and malocclusions in Duchenne muscular dystrophy." — Neuromuscular disorders : NMD
+- [ ] PMID 27143251 | obs | OA:none | occlusal-efficiency | edat 2016
+      "Assessment of the differences in masticatory behavior between male and female adolescents." — Physiology &amp; behavior
+- [ ] PMID 27324294 | obs | OA:none | occlusal-efficiency | edat 2017
+      "A new occlusal surface design for artificial posterior teeth to achieve high masticatory performance." — Journal of prosthodontic research
+- [ ] PMID 27552789 | obs | OA:none | occlusal-efficiency | edat 2016
+      "The T-SCAN System in Evaluating Occlusal Contacts." — Folia medica
+- [ ] PMID 27904090 | obs | OA:none | occlusal-efficiency | edat 2016
+      "Effect of bidirectional loading on contact and force characteristics under a newly developed masticatory simulator with a dual-direction loading system." — Dental materials journal
+- [ ] PMID 27980336 | obs | OA:none | occlusal-efficiency | edat 2016
+      "In patients with shortened dental arches do removable dental prostheses improve masticatory performance?" — Evidence-based dentistry
+- [ ] PMID 28271438 | obs | OA:PMC PMC5340790 | occlusal-efficiency | edat 2017
+      "Short-term follow-up of masticatory adaptation after rehabilitation with an immediately loaded implant-supported prosthesis: a pilot assessment." — International journal of implant dentistry
+- [ ] PMID 28398167 | obs | OA:none | occlusal-efficiency | edat 2018
+      "Clinical protocol for occlusal adjustment: Rationale and application." — Cranio : the journal of craniomandibular practice
+- [ ] PMID 28523241 | obs | OA:PMC PMC5432436 | occlusal-efficiency | edat 2017
+      "Comparison of masticatory efficiency according to Angle's classification of malocclusion." — Korean journal of orthodontics
+- [ ] PMID 28598182 | obs | OA:none | occlusal-efficiency | edat 2017
+      "Masticatory parameters of children with and without clinically diagnosed caries in permanent dentition." — European journal of paediatric dentistry
+- [ ] PMID 28676294 | obs | OA:none | occlusal-efficiency | edat 2018
+      "Psychological stress-relieving effects of chewing - Relationship between masticatory function-related factors and stress-relieving effects." — Journal of prosthodontic research
+- [ ] PMID 28751076 | obs | OA:none | occlusal-efficiency | edat 2018
+      "Periodontal tactile sensation and occlusal loading condition of autotransplanted teeth: A retrospective pilot study." — Journal of prosthodontic research
+- [ ] PMID 28780385 | obs | OA:none | occlusal-efficiency | edat 2017
+      "Relationships between chewing rate, occlusion, cephalometric anatomy, muscle activity, and masticatory performance." — Archives of oral biology
+- [ ] PMID 28965369 | RCT | OA:none | occlusal-efficiency | edat 2018
+      "Patient satisfaction with occlusal scheme of conventional complete dentures: A randomised clinical trial (part I)." — Journal of oral rehabilitation
+- [ ] PMID 29075647 | obs | OA:PMC PMC5624173 | occlusal-efficiency | edat 2017
+      "Systematic Standardized and Individualized Assessment of Masticatory Cycles Using Electromagnetic 3D Articulography and Computer Scripts." — BioMed research international
+- [ ] PMID 29314199 | SR | OA:none | occlusal-efficiency | edat 2018
+      "Bilateral balanced occlusion compared to other occlusal schemes in complete dentures: A systematic review." — Journal of oral rehabilitation
+- [ ] PMID 29356092 | CCT | OA:none | occlusal-efficiency | edat 2018
+      "Reliability of a two-colour chewing gum test to assess masticatory performance in complete denture wearers." — Journal of oral rehabilitation
+- [ ] PMID 29385165 | obs | OA:PMC PMC5791957 | occlusal-efficiency | edat 2018
+      "A novel expert system for objective masticatory efficiency assessment." — PloS one
+- [ ] PMID 29597061 | obs | OA:none | occlusal-efficiency | edat 2018
+      "Individuality of masticatory performance and of masticatory muscle temporal parameters." — Archives of oral biology
+- [ ] PMID 29706464 | obs | OA:none | occlusal-efficiency | edat 2018
+      "Factors related to masticatory performance in healthy elderly individuals." — Journal of prosthodontic research
+- [ ] PMID 29851120 | RCT | OA:none | occlusal-efficiency | edat 2018
+      "Patient satisfaction with occlusal scheme of conventional complete dentures: A randomised clinical trial (Part II)." — Journal of oral rehabilitation
+- [ ] PMID 29959969 | obs | OA:none | occlusal-efficiency | edat 2018
+      "Impact of tooth wear on masticatory performance." — Journal of dentistry
+- [ ] PMID 29967973 | obs | OA:none | occlusal-efficiency | edat 2019
+      "Prefrontal modulation during chewing performance in occlusal dysesthesia patients: a functional near-infrared spectroscopy study." — Clinical oral investigations
+- [ ] PMID 30010417 | obs | OA:none | occlusal-efficiency | edat 2018
+      "A novel computational method to determine subject-specific bite force and occlusal loading during mastication." — Computer methods in biomechanics and biomedical engineering
+- [ ] PMID 30024031 | obs | OA:none | occlusal-efficiency | edat 2018
+      "Validation of a purpose-built chewing gum and smartphone application to evaluate chewing efficiency." — Journal of oral rehabilitation
+- [ ] PMID 30387869 | RCT | OA:none | occlusal-efficiency | edat 2019
+      "Changes in masticatory performance of edentulous patients treated with single-implant mandibular overdentures and conventional complete dentures." — Journal of oral rehabilitation
+- [ ] PMID 30611024 | obs | OA:none | occlusal-efficiency | edat 2019
+      "Factors associated with masticatory performance and swallowing threshold according to dental formula development." — Archives of oral biology
+- [ ] PMID 30711603 | RCT | OA:none | occlusal-efficiency | edat 2019
+      "Masticatory performance of different impression methods for complete denture fabrication: A randomized controlled trial." — Journal of dentistry
+- [ ] PMID 31046154 | obs | OA:none | occlusal-efficiency | edat 2019
+      "Assessment of the relationship between masticatory performance, occlusal contact area, chewing time and cycles, and gastric emptying scintigraphy in dentate subjects." — Journal of oral rehabilitation
+- [ ] PMID 31087671 | obs | OA:none | occlusal-efficiency | edat 2019
+      "Individual factors associated with masticatory performance of complete denture wearers: A cross-sectional study." — Journal of oral rehabilitation
+- [ ] PMID 31247283 | obs | OA:none | occlusal-efficiency | edat 2019
+      "Impact of restorative treatment of tooth wear upon masticatory performance." — Journal of dentistry
+- [ ] PMID 31443131 | obs | OA:none | occlusal-efficiency | edat 2020
+      "Optimizing a determination of chewing efficiency using a solid test food." — Journal of texture studies
+- [ ] PMID 31445381 | obs | OA:none | occlusal-efficiency | edat 2019
+      "Locking up of food between posterior teeth and its influence on chewing efficiency." — Archives of oral biology
+- [ ] PMID 31455559 | obs | OA:none | occlusal-efficiency | edat 2020
+      "Differences in comminution progress during mastication in healthy dentate and denture-wearing elderly people." — Journal of prosthodontic research
+- [ ] PMID 31532825 | obs | OA:none | occlusal-efficiency | edat 2019
+      "Masticatory function of immediately loaded two-implant mandibular overdentures: A 5-year prospective study." — The International journal of oral &amp; maxillofacial implants
+- [ ] PMID 31879530 | obs | OA:PMC PMC6920189 | occlusal-efficiency | edat 2019
+      "Maintaining occlusal stability by selecting the most appropriate occlusal scheme in complete removable prosthesis." — The Japanese dental science review
+- [ ] PMID 31923300 | RCT | OA:none | occlusal-efficiency | edat 2020
+      "Stabilizing Removable Partial Dentures by Immediate or Delayed Loading of Mini-implants: Chewing Efficiency in a Randomized Controlled Clinical Trial." — The International journal of oral &amp; maxillofacial implants
+- [ ] PMID 32115222 | obs | OA:none | occlusal-efficiency | edat 2021
+      "Subjective and objective measures for evaluating masticatory ability and associating factors of complete denture wearers: A clinical study." — The Journal of prosthetic dentistry
+- [ ] PMID 32194440 | obs | OA:PMC PMC7066325 | occlusal-efficiency | edat 2020
+      "Core Matrisome Protein Signature During Periodontal Ligament Maturation From Pre-occlusal Eruption to Occlusal Function." — Frontiers in physiology
+- [ ] PMID 32242956 | obs | OA:none | occlusal-efficiency | edat 2020
+      "Computerised occlusal analysis of mini-dental implant-retained mandibular overdentures: A 1-year prospective clinical study." — Journal of oral rehabilitation
+- [ ] PMID 32320178 | obs | OA:none | occlusal-efficiency | edat 2020
+      "Discriminating Masticatory Performance and OHRQoL According to Facial Morphology in Complete Denture Wearers: A Single-Center Controlled Study." — The International journal of prosthodontics
+- [ ] PMID 32346832 | obs | OA:none | occlusal-efficiency | edat 2021
+      "Masticatory efficiency in children with cerebral palsy." — European archives of paediatric dentistry : official journal of the European Academy of Paediatric Dentistry
+- [ ] PMID 32362247 | obs | OA:none | occlusal-efficiency | edat 2022
+      "Effect of laterotrusive occlusal scheme on chewing duration, external intercostal muscular activity, heart rate, and oxygen saturation." — Cranio : the journal of craniomandibular practice
+- [ ] PMID 32377316 | obs | OA:PMC PMC7183850 | occlusal-efficiency | edat 2020
+      "Comparison of two computerized occlusal analysis systems for indicating occlusal contacts." — The journal of advanced prosthodontics
+- [ ] PMID 32401691 | obs | OA:none | occlusal-efficiency | edat 2022
+      "Are occlusal contact area asymmetry and masticatory muscle activity asymmetry related in adults with normal dentition?" — Cranio : the journal of craniomandibular practice
+- [ ] PMID 32415633 | obs | OA:none | occlusal-efficiency | edat 2020
+      "Relationship of Food Intolerance 2&#xa0;Years After Roux-en-Y Gastric Bypass Surgery for Obesity with Masticatory Efficiency and Protein Consumption." — Obesity surgery
+- [ ] PMID 32945635 | SR | OA:none | occlusal-efficiency | edat 2020
+      "Masticatory function improvement with the use of mandibular single-implant overdentures in edentulous subjects: a systematic literature review." — Minerva stomatologica
+- [ ] PMID 32946115 | obs | OA:none | occlusal-efficiency | edat 2021
+      "Factors Influencing Changes in Masticatory Performance as a Result of Wearing Removable Partial Dentures in Patients with Partially Edentulous Arches." — Journal of prosthodontics : official journal of the American College of Prosthodontists
+- [ ] PMID 32964471 | obs | OA:none | occlusal-efficiency | edat 2020
+      "Masticatory function in nursing home residents: Correlation with the nutritional status and oral health-related quality of life." — Journal of oral rehabilitation
+- [ ] PMID 33136048 | RCT | OA:none | occlusal-efficiency | edat 2020
+      "Masticatory efficiency of implant-supported mandibular overdentures retained with attachments compared with conventional dentures: an in vitro digital colorimetric image analysis." — General dentistry
+- [ ] PMID 33234315 | obs | OA:PMC PMC7775910 | occlusal-efficiency | edat 2021
+      "Damage sensitivity of dental zirconias to simulated occlusal contact." — Dental materials : official publication of the Academy of Dental Materials
+- [ ] PMID 33262864 | obs | OA:PMC PMC7680570 | occlusal-efficiency | edat 2020
+      "Association between masticatory ability and oral functions." — Journal of clinical and experimental dentistry
+- [ ] PMID 33279156 | SR | OA:none | occlusal-efficiency | edat 2022
+      "Masticatory performance of denture wearers with the use of denture adhesives: A systematic review." — The Journal of prosthetic dentistry
+- [ ] PMID 33576265 | obs | OA:none | occlusal-efficiency | edat 2022
+      "Masticatory Function Assessment of Adult Patients With Cleft Lip and Palate After Orthodontic Treatment." — The Cleft palate-craniofacial journal : official publication of the American Cleft Palate-Craniofacial Association
+- [ ] PMID 33625387 | RCT | OA:none | occlusal-efficiency | edat 2021
+      "Impact of artificial teeth occlusal morphology on bimaxillary denture treatment in elderly: a clinical trial." — The International journal of prosthodontics
+- [ ] PMID 33736969 | obs | OA:none | occlusal-efficiency | edat 2021
+      "Masticatory function in children with Down syndrome." — Physiology &amp; behavior
+- [ ] PMID 33738828 | obs | OA:none | occlusal-efficiency | edat 2021
+      "A new masticatory performance scale to integrate food biting, comminution and mixing ability in removable partial denture wearers." — Journal of oral rehabilitation
+- [ ] PMID 33786947 | obs | OA:none | occlusal-efficiency | edat 2021
+      "Evaluation of masticatory function in patients with cleft lip and/or palate." — European journal of oral sciences
+- [ ] PMID 33826161 | obs | OA:PMC PMC8518792 | occlusal-efficiency | edat 2021
+      "Alleviation of masticatory disturbance with an occlusal splint in a Duchenne muscular dystrophy patient." — Special care in dentistry : official publication of the American Association of Hospital Dentists, the Academy of Dentistry for the Handicapped, and the American Society for Geriatric Dentistry
+- [ ] PMID 33826961 | obs | OA:none | occlusal-efficiency | edat 2021
+      "Masticatory performance is influenced by masticatory muscle activity balance and the cumulative occlusal contact area." — Archives of oral biology
+- [ ] PMID 33831504 | RCT | OA:none | occlusal-efficiency | edat 2021
+      "Effectiveness of silicone-based resilient denture liners on masticatory function: A randomised controlled trial." — Journal of dentistry
+- [ ] PMID 33956854 | obs | OA:PMC PMC8101913 | occlusal-efficiency | edat 2021
+      "The use of digital texture image analysis in determining the masticatory efficiency outcome." — PloS one
+- [ ] PMID 34028839 | obs | OA:none | occlusal-efficiency | edat 2021
+      "Effect of hard gummy candy chewing on masticatory function." — Journal of oral rehabilitation
+- [ ] PMID 34184165 | RCT | OA:PMC PMC8239120 | occlusal-efficiency | edat 2021
+      "Masticatory performances and maximum occlusal forces of immediate and conventional loaded two-implant supported overdentures retained by magnetic attachments: preliminary study of randomized controlled clinical trial." — International journal of implant dentistry
+- [ ] PMID 34455912 | RCT | OA:none | occlusal-efficiency | edat 2024
+      "Effect of low-level gallium aluminum arsenide laser therapy on the chewing performance and pain perception of patients with systemic lupus erythematosus: A randomized controlled clinical trial." — Cranio : the journal of craniomandibular practice
+- [ ] PMID 34476837 | obs | OA:none | occlusal-efficiency | edat 2022
+      "Prosthetic rehabilitation status, dental prosthesis functionality and masticatory function in nursing home residents." — Gerodontology
+- [ ] PMID 34496541 | obs | OA:none | occlusal-efficiency | edat 2021
+      "[Clinical research on posterior single-implant occlusal contact time and force changes]." — Zhonghua kou qiang yi xue za zhi = Zhonghua kouqiang yixue zazhi = Chinese journal of stomatology
+- [ ] PMID 34517991 | RCT | OA:none | occlusal-efficiency | edat 2023
+      "Masticatory efficiency in complete denture and single implant-retained mandibular overdenture wearers with different occlusion schemes: A randomized clinical trial." — The Journal of prosthetic dentistry
+- [ ] PMID 34603621 | obs | OA:PMC PMC8464386 | occlusal-efficiency | edat 2021
+      "Masticatory efficiency, bite force and electrical activity of the masseter and temporalis muscles in bodybuilders." — Journal of clinical and experimental dentistry
+- [ ] PMID 34627612 | obs | OA:none | occlusal-efficiency | edat 2023
+      "Assessment of masticatory function in older individuals with bimaxillary implant-supported fixed prostheses or with a natural dentition: A case-control study." — The Journal of prosthetic dentistry
+- [ ] PMID 34719633 | RCT | OA:none | occlusal-efficiency | edat 2022
+      "Effectiveness of silicone-based resilient denture liners on the patient-reported chewing ability: A randomized controlled trial." — Journal of prosthodontic research
+- [ ] PMID 34772484 | MA | OA:none | occlusal-efficiency | edat 2023
+      "Influence of different presentations of denture adhesives on masticatory function of complete denture wearers: A systematic review and meta-analysis." — The Journal of prosthetic dentistry
+- [ ] PMID 34814903 | SR | OA:PMC PMC8609720 | occlusal-efficiency | edat 2021
+      "Patient-reported outcome measures for masticatory function in adults: a systematic review." — BMC oral health
+- [ ] PMID 34836460 | MA | OA:none | occlusal-efficiency | edat 2022
+      "A Systematic Review and Meta-analysis of the Effect of Oral Exercises on Masticatory Function." — Journal of dental research
+- [ ] PMID 34853250 | obs | OA:none | occlusal-efficiency | edat 2022
+      "Effects of food particle loss on the evaluation of masticatory ability using image analysis." — Journal of prosthodontic research
+- [ ] PMID 34888906 | obs | OA:none | occlusal-efficiency | edat 2022
+      "Correlation between occlusal contact area at various levels of interocclusal thicknesses and masticatory performance." — Journal of oral rehabilitation
+- [ ] PMID 34908185 | RCT | OA:none | occlusal-efficiency | edat 2022
+      "A randomised crossover clinical trial of masticatory function in complete denture wearers with conventional and lingualised balanced occlusion." — Gerodontology
+- [ ] PMID 34930666 | obs | OA:none | occlusal-efficiency | edat 2022
+      "Clinical course of masticatory function recovery following arthrocentesis in patients with unilateral mandibular condyle head fracture." — Journal of cranio-maxillo-facial surgery : official publication of the European Association for Cranio-Maxillo-Facial Surgery
+- [ ] PMID 35108409 | RCT | OA:none | occlusal-efficiency | edat 2022
+      "Effect of side switch frequency on masticatory performance and rhythm in adults with natural dentition: A randomised crossover trial." — Journal of oral rehabilitation
+- [ ] PMID 35248291 | SR | OA:none | occlusal-efficiency | edat 2022
+      "Non-surgical interventions for the treatment of masticatory muscular spasticity in patients with cerebral palsy. Systematic review of randomized clinical trials." — Journal of bodywork and movement therapies
+- [ ] PMID 35291996 | obs | OA:PMC PMC8925045 | occlusal-efficiency | edat 2022
+      "Study of occlusal acoustic parameters in assessing masticatory performance." — BMC oral health
+- [ ] PMID 35409460 | RCT | OA:PMC PMC8997984 | occlusal-efficiency | edat 2022
+      "The Effect of a Masticatory Muscle Training Program on Chewing Efficiency and Bite Force in People with Dementia." — International journal of environmental research and public health
+- [ ] PMID 35484837 | obs | OA:PMC PMC9382054 | occlusal-efficiency | edat 2022
+      "Biomechanical properties of masticatory balance in cases with RPDs-The influence of preferred and nonpreferred chewing side: A pilot study." — Clinical and experimental dental research
+- [ ] PMID 35617455 | SR | OA:none | occlusal-efficiency | edat 2023
+      "Quantitative parameters of digital occlusal analysis in dental implant supported restorative reconstruction recent 5 years: a systematic review." — Acta odontologica Scandinavica
+- [ ] PMID 35691453 | SR | OA:none | occlusal-efficiency | edat 2022
+      "Associations of general health conditions with masticatory performance and maximum bite force in older adults: A systematic review of cross-sectional studies." — Journal of dentistry
+- [ ] PMID 35793983 | RCT | OA:none | occlusal-efficiency | edat 2023
+      "Evaluation of dynamic impression lining material effects on masticatory function and the oral health-related quality of life of complete denture wearers: A six-month randomized controlled trial." — Journal of prosthodontic research
+- [ ] PMID 35899420 | obs | OA:PMC PMC9542905 | occlusal-efficiency | edat 2022
+      "Assessment of masticatory efficiency based on glucose concentration in orthodontic patients: A methodological study." — Journal of oral rehabilitation
+- [ ] PMID 36004768 | MA | OA:none | occlusal-efficiency | edat 2023
+      "Masticatory function of stroke patients: A systematic review with meta-analysis." — Gerodontology
+- [ ] PMID 36153477 | RCT | OA:PMC PMC9509657 | occlusal-efficiency | edat 2022
+      "Use of handgrip strength measurement as an alternative for assessing chewing function in people with dementia." — BMC geriatrics
+- [ ] PMID 36161667 | obs | OA:none | occlusal-efficiency | edat 2022
+      "Factors affecting masticatory performance during the mixed dentition period." — Journal of oral rehabilitation
+- [ ] PMID 36415039 | obs | OA:PMC PMC10108236 | occlusal-efficiency | edat 2023
+      "Subjective and objective evaluation of masticatory function in patients with bimaxillary implant-supported prostheses." — Journal of oral rehabilitation
+- [ ] PMID 36435988 | RCT | OA:none | occlusal-efficiency | edat 2023
+      "Effects of class II intermaxillary elastics on masticatory muscle activity balance, occlusal contact area and masticatory performance: A multicenter randomised controlled trial." — Journal of oral rehabilitation
+- [ ] PMID 36511073 | RCT | OA:PMC PMC9709865 | occlusal-efficiency | edat 2022
+      "Clinical evaluation of complete denture fabricated using two different final impression techniques on masticatory efficiency and oral health-related quality of life." — Journal of Indian Prosthodontic Society
+- [ ] PMID 36538093 | obs | OA:none | occlusal-efficiency | edat 2023
+      "Changes in masticatory performance during the retention period following 4-premolar extraction and non-extraction orthodontic treatment." — Clinical oral investigations
+- [ ] PMID 36563840 | MA | OA:none | occlusal-efficiency | edat 2023
+      "Association between masticatory performance and oral conditions in adults: A systematic review and meta-analysis." — Journal of dentistry
+- [ ] PMID 36597189 | obs | OA:none | occlusal-efficiency | edat 2023
+      "Occlusal function and electromyographic activity of masticatory muscles in skeletal Class III patients with different patterns of mandibular asymmetry." — Journal of oral rehabilitation
+- [ ] PMID 36918352 | RCT | OA:none | occlusal-efficiency | edat 2023
+      "Effect of occlusal equilibration on masticatory muscle activity in females with sleep bruxism: a double-blind randomised controlled trial." — Journal of sleep research
+- [ ] PMID 36920311 | MA | OA:none | occlusal-efficiency | edat 2023
+      "Assessment of masticatory performance in patients undergoing orthognathic surgery: A systematic review and meta-analysis." — Journal of oral rehabilitation
+- [ ] PMID 36975561 | obs | OA:PMC PMC10047579 | occlusal-efficiency | edat 2023
+      "Association of Masticatory Efficiency and Reduced Number of Antagonistic Contacts Due to Extraction, Changing Dentition or Malocclusion in Children." — Dentistry journal
+- [ ] PMID 36991565 | RCT | OA:none | occlusal-efficiency | edat 2023
+      "Improving masticatory and swallowing ability of postoperative oral and maxillofacial tumor patients by telerehabilitation-A randomized controlled trial." — Clinical rehabilitation
+- [ ] PMID 37003941 | obs | OA:none | occlusal-efficiency | edat 2023
+      "Positional influence of center of masticatory forces on occlusal contact forces using a digital occlusal analyzer." — The Journal of prosthetic dentistry
+- [ ] PMID 37058457 | obs | OA:PMC PMC10104312 | occlusal-efficiency | edat 2023
+      "Mastication inefficiency due to diminished or lack of occlusal support is associated with increased blood glucose levels in patients with type 2 diabetes." — PloS one
+- [ ] PMID 37251823 | obs | OA:PMC PMC10208942 | occlusal-efficiency | edat 2023
+      "The impact of residual ridge morphology on the masticatory performance of complete denture wearers." — Heliyon
+- [ ] PMID 37316261 | RCT | OA:none | occlusal-efficiency | edat 2024
+      "Effect of denture adhesives on masticatory performance: Multicenter randomized controlled trial." — Journal of prosthodontic research
+- [ ] PMID 37468596 | obs | OA:none | occlusal-efficiency | edat 2023
+      "Correlation of masticatory muscle activity and occlusal function with craniofacial morphology: a prospective cohort study." — Clinical oral investigations
+- [ ] PMID 37507010 | obs | OA:none | occlusal-efficiency | edat 2023
+      "An assessment of masticatory efficiency and occlusal load distribution in adolescent patients undergoing orthodontic treatment with functional jaw orthopedics: A prospective cohort study." — Journal of stomatology, oral and maxillofacial surgery
+- [ ] PMID 37648481 | obs | OA:none | occlusal-efficiency | edat 2024
+      "Relationship between the number of teeth, occlusal force, occlusal contact area, and dietary hardness in older Japanese adults: The SONIC study." — Journal of prosthodontic research
+- [ ] PMID 37729477 | SR | OA:none | occlusal-efficiency | edat 2024
+      "Impact of Removable Partial Dentures on Masticatory Performance in Partial Edentulism: A Systematic Review." — The International journal of prosthodontics
+- [ ] PMID 37964439 | RCT | OA:none | occlusal-efficiency | edat 2024
+      "Effect of artificial eccentric occlusal interferences on masticatory performance: A randomised double-blind clinical trial." — Journal of oral rehabilitation
+- [ ] PMID 38097596 | obs | OA:PMC PMC10721791 | occlusal-efficiency | edat 2023
+      "Impact of occlusal contact pattern on dental stability and oromandibular system after orthodontic tooth movement in rats." — Scientific reports
+- [ ] PMID 38109388 | RCT | OA:none | occlusal-efficiency | edat 2023
+      "The Effect of the Wall Thickness of 3D-Printed Obturator Bulbs on Masticatory Function in Patients with Aramany Class I Defects: A Randomized Crossover Clinical Trial." — The International journal of prosthodontics
+- [ ] PMID 38151428 | MA | OA:none | occlusal-efficiency | edat 2025
+      "Comparative analysis of surgical and prosthetic rehabilitation in maxillectomy: A systematic review and meta-analysis on quality-of-life scores and objective speech and masticatory measurements." — The Journal of prosthetic dentistry
+- [ ] PMID 38192789 | obs | OA:PMC PMC10772253 | occlusal-efficiency | edat 2024
+      "Effect of digital complete dentures manufactured using the custom disk method on masticatory function." — Heliyon
+- [ ] PMID 38211398 | obs | OA:none | occlusal-efficiency | edat 2024
+      "Influence of the radius of Monson's sphere and excursive occlusal contacts on masticatory function of dentate subjects." — Archives of oral biology
+- [ ] PMID 38279686 | MA | OA:none | occlusal-efficiency | edat 2025
+      "Does occlusal morphology of artificial teeth improve chewing of removable dentures wearers? A systematic review and meta-analysis." — Journal of prosthodontics : official journal of the American College of Prosthodontists
+- [ ] PMID 38373057 | obs | OA:none | occlusal-efficiency | edat 2024
+      "Chewing Side Preference Related to Food Texture and Occlusal Contact Area." — The International journal of prosthodontics
+- [ ] PMID 38379391 | obs | OA:none | occlusal-efficiency | edat 2024
+      "Reliability between the two-colour chewing gum and the gummy-jelly tests used for the assessment of masticatory performance." — Journal of oral rehabilitation
+- [ ] PMID 38421263 | MA | OA:none | occlusal-efficiency | edat 2024
+      "Influence of occlusal appliances on the masticatory muscle function in individuals with sleep bruxism: A systematic review and meta-analysis." — European journal of oral sciences
+- [ ] PMID 38480586 | obs | OA:PMC PMC10937875 | occlusal-efficiency | edat 2024
+      "Evaluation of masticatory efficiency and OHRQoL in implant-retained overdenture with different numbers of implant in the edentulous mandible: a one-year follow-up prospective study." — International journal of implant dentistry
+- [ ] PMID 38664182 | obs | OA:none | occlusal-efficiency | edat 2025
+      "Predicting maximum occlusal force and tongue pressure using decision tree analysis in patients diagnosed with head and neck tumors." — The Journal of prosthetic dentistry
+- [ ] PMID 38671758 | obs | OA:PMC PMC11048550 | occlusal-efficiency | edat 2024
+      "A Finite Element Analysis Study of Edentulous Model with Complete Denture to Simulate Masticatory Movement." — Bioengineering (Basel, Switzerland)
+- [ ] PMID 38685704 | RCT | OA:none | occlusal-efficiency | edat 2024
+      "Changes in masticatory performance and bite force after treatment with mandibular overdentures retained by four titanium-zirconium mini implants: One-year randomised clinical trial." — Journal of oral rehabilitation
+- [ ] PMID 38690385 | obs | OA:PMC PMC11056408 | occlusal-efficiency | edat 2024
+      "Chewing efficiency and contact area discrepancies in Angle's class I and II malocclusion: A comparative study." — The Saudi dental journal
+- [ ] PMID 38851676 | RCT | OA:PMC PMC11162030 | occlusal-efficiency | edat 2024
+      "Evaluation of masticatory performance and patient satisfaction for conventional and 3D-printed implant overdentures: a randomized crossover study." — BMC oral health
+- [ ] PMID 38873742 | RCT | OA:none | occlusal-efficiency | edat 2024
+      "Four-year assessment of masticatory function in mandibular overdenture wearers: A randomised clinical trial comparing two to four implants to retain the prosthesis." — Journal of oral rehabilitation
+- [ ] PMID 39045988 | obs | OA:PMC PMC11262769 | occlusal-efficiency | edat 2024
+      "Pain-related analysis on a resorbed ridge with various denture occlusal schemes using finite element method." — Brazilian dental journal
+- [ ] PMID 39128892 | RCT | OA:none | occlusal-efficiency | edat 2024
+      "Oral health self-perception, maximum bite force and masticatory efficiency in patients with overdentures with different attachment systems-A crossover study." — Journal of oral rehabilitation
+- [ ] PMID 39215439 | RCT | OA:none | occlusal-efficiency | edat 2024
+      "Effects of gum chewing training on occlusal force, masseter muscle thickness and mandibular shape: A randomised controlled clinical trial." — Journal of oral rehabilitation
+- [ ] PMID 39354479 | obs | OA:PMC PMC11443914 | occlusal-efficiency | edat 2024
+      "Of the article: evaluation of the masticatory efficiency of children with stainless steel crowns: a pilot cross-sectional split-mouth study." — BMC oral health
+- [ ] PMID 39557353 | RCT | OA:none | occlusal-efficiency | edat 2025
+      "The impact of distraction, masticatory performance and sex on food intake of school children from public and private schools: a randomized trial." — Physiology &amp; behavior
+- [ ] PMID 39596975 | obs | OA:PMC PMC11596389 | occlusal-efficiency | edat 2024
+      "Improved Masticatory Performance in the Partially Edentulous Rehabilitated with Conventional Dental Prostheses." — Medicina (Kaunas, Lithuania)
+- [ ] PMID 39641124 | obs | OA:PMC PMC11617570 | occlusal-efficiency | edat 2024
+      "Masticatory performance and masticatory behavior in individuals with eating disorders: a pilot study." — Frontiers in oral health
+- [ ] PMID 39665936 | obs | OA:none | occlusal-efficiency | edat 2026
+      "Effects of loss of second molar on masticatory ability and oral health-related quality of life: A comparative cross-sectional study." — Journal of the Formosan Medical Association = Taiwan yi zhi
+- [ ] PMID 39668019 | obs | OA:none | occlusal-efficiency | edat 2025
+      "Clinical course of masticatory function recovery following endoscopic-assisted open reduction and internal fixation in patients with unilateral mandibular condyle fracture." — Journal of cranio-maxillo-facial surgery : official publication of the European Association for Cranio-Maxillo-Facial Surgery
+- [ ] PMID 39675253 | obs | OA:none | occlusal-efficiency | edat 2025
+      "Correlation between occlusal contacts and masticatory muscle activity: A comparative study of cotton and wax normalization methods showing improved repeatability and comfort." — Archives of oral biology
+- [ ] PMID 39935200 | SR | OA:none | occlusal-efficiency | edat 2024
+      "Comparison of Peri-Oral and Masticatory Muscle Activity between Repaired Unilateral Cleft Lip and Palate and Non-Cleft Individuals - A Systematic Review." — Indian journal of dental research : official publication of Indian Society for Dental Research
+- [ ] PMID 40014822 | obs | OA:PMC PMC12331206 | occlusal-efficiency | edat 2024
+      "Non-pathological facial asymmetry in adult women: an approach to bite force, occlusal contact distribution and masticatory muscle thickness." — Acta odontologica latinoamericana : AOL
+- [ ] PMID 40032805 | obs | OA:PMC PMC11876506 | occlusal-efficiency | edat 2025
+      "Characteristics of masticatory behavior of patients with mandibular prognathism." — Maxillofacial plastic and reconstructive surgery
+- [ ] PMID 40151556 | obs | OA:PMC PMC11940510 | occlusal-efficiency | edat 2025
+      "Relationship between Mediotrusive Occlusal Contacts and Temporomandibular Disorders in Young Adults without Psychosocial Disorders: A Case-Control Study." — Journal of International Society of Preventive &amp; Community Dentistry
+- [ ] PMID 40197931 | obs | OA:PMC PMC11970522 | occlusal-efficiency | edat 2025
+      "Exploring masticatory performance: a bibliometric analysis of studies published in the Web of Science database from 1950 to 2024." — Brazilian oral research
+- [ ] PMID 40253234 | obs | OA:none | occlusal-efficiency | edat 2025
+      "Relationship between sleep bruxism and masticatory performance in healthy adults: A cross-sectional study." — The Journal of prosthetic dentistry
+- [ ] PMID 40320642 | obs | OA:PMC PMC12408952 | occlusal-efficiency | edat 2025
+      "Digital Occlusal Contact Area Indicates Masticatory Performance for Normal Occlusion, but Not for Malocclusion." — Journal of oral rehabilitation
+- [ ] PMID 40346735 | MA | OA:PMC PMC12162414 | occlusal-efficiency | edat 2025
+      "Prevalence of Self-Assessed Masticatory Disorders in Community-Dwelling Older Adults: A Systematic Review With Meta-Analysis." — Journal of oral rehabilitation
+- [ ] PMID 40423605 | obs | OA:none | occlusal-efficiency | edat 2025
+      "Changes in occlusal function after surgical and nonsurgical treatment of anterior crossbite: A 2-year follow-up." — American journal of orthodontics and dentofacial orthopedics : official publication of the American Association of Orthodontists, its constituent societies, and the American Board of Orthodontics
+- [ ] PMID 40559153 | obs | OA:PMC PMC12191871 | occlusal-efficiency | edat 2025
+      "The Occlusal Contact Area Is Associated with the Magnitude but Not Peak Timing of Changes in Chewing-Induced Brain Blood Flow in Mandibular Prognathism." — Dentistry journal
+- [ ] PMID 40571607 | obs | OA:none | occlusal-efficiency | edat 2026
+      "Improvement in food comminution at swallowing threshold with newly fabricated removable dentures." — Journal of prosthodontic research
+- [ ] PMID 40648566 | obs | OA:PMC PMC12249068 | occlusal-efficiency | edat 2025
+      "The Impact of Clear Aligner Treatment in Masticatory Function and Temporomandibular Disorders: A Clinical Cohort Pilot Study." — Healthcare (Basel, Switzerland)
+- [ ] PMID 40817022 | MA | OA:none | occlusal-efficiency | edat 2025
+      "Comparison of masticatory performance and oral health-related quality of life between immediate and conventional loading protocols for an implant-supported mandibular overdenture: A systematic review and meta-analysis of randomized clinical trials." — The Journal of prosthetic dentistry
+- [ ] PMID 41070564 | MA | OA:PMC PMC12520437 | occlusal-efficiency | edat 2025
+      "Impact of zygomaticomaxillary complex fracture on masticatory muscle dysfunction and pain: systematic review and observational meta-analysis." — Journal of oral &amp; facial pain and headache
+- [ ] PMID 41096085 | obs | OA:PMC PMC12524954 | occlusal-efficiency | edat 2025
+      "The Effect of Selective Occlusal Adjustment on the Disclusion Time Reduction and Symmetry of Occlusal Contacts of the Own Dentition Using Digital Occlusion Analysis in Patients with Temporomandibular Disorders." — Journal of clinical medicine
+- [ ] PMID 41235784 | RCT | OA:none | occlusal-efficiency | edat 2026
+      "Personalised Masticatory Training Using a Visual Biofeedback-Assisted Digital Device for Improving Oral Function in Older Adults With Oral Frailty." — Journal of oral rehabilitation
+- [ ] PMID 41253676 | RCT | OA:none | occlusal-efficiency | edat 2026
+      "Effect of denture adhesive on masticatory function and quality of life of distal extension removable partial denture wearers: A randomized crossover clinical trial." — The Journal of prosthetic dentistry
+- [ ] PMID 41357363 | obs | OA:PMC PMC12676951 | occlusal-efficiency | edat 2025
+      "Masticatory Efficiency of Mandibulectomy Patients after Oral Prosthetic Rehabilitation: Preliminary Results." — Journal of oral &amp; maxillofacial research
+- [ ] PMID 41407646 | obs | OA:none | occlusal-efficiency | edat 2026
+      "Effects of surgical orthodontic treatment on masticatory behaviour of patients with jaw deformities measured by wearable device." — International journal of oral and maxillofacial surgery
+- [ ] PMID 41440363 | obs | OA:PMC PMC12732111 | occlusal-efficiency | edat 2025
+      "Establishment of the Occlusion Plane Using Broadrick Occlusal Plane Analyzer for Immediate Complete Dentures." — Dentistry journal
+- [ ] PMID 41577936 | RCT | OA:PMC PMC12901122 | occlusal-efficiency | edat 2026
+      "Interferential current stimulation during dental facial treatment improves masticatory function." — Scientific reports
+- [ ] PMID 41656008 | obs | OA:PMC PMC12883313 | occlusal-efficiency | edat 2026
+      "Role of Posterior Occlusal Support in the Development of Frailty Among Japanese Adults: A Longitudinal Cohort Study." — Geriatrics &amp; gerontology international
+- [ ] PMID 41669575 | obs | OA:PMC PMC12884674 | occlusal-efficiency | edat 2026
+      "Comparison of Masticatory Efficiency Between Single-Piece Implant-Supported Crowns and Conventional Fixed Partial Dentures for Single Posterior Tooth Replacement: A 12-Month Prospective Observational Study." — Cureus
+- [ ] PMID 41682755 | obs | OA:PMC PMC12898624 | occlusal-efficiency | edat 2026
+      "Chewing Index: A Pilot Trial to Measure Masticatory Effort." — Journal of clinical medicine
+- [ ] PMID 41793788 | SR | OA:PMC PMC12969670 | occlusal-efficiency | edat 2026
+      "Assessment of Masticatory Performance: A Systematic Review of Current Assessment Methods and Measurement Properties." — International dental journal
+- [ ] PMID 41910520 | obs | OA:none | occlusal-efficiency | edat 2026
+      "Effect of premolar extractions on occlusal contacts and chewing efficiency: A case-control study." — American journal of orthodontics and dentofacial orthopedics : official publication of the American Association of Orthodontists, its constituent societies, and the American Board of Orthodontics
+- [ ] PMID 41966910 | MA | OA:none | occlusal-efficiency | edat 2026
+      "Masticatory function indicators and frailty risk in older adults: A systematic review and meta-analysis." — The Journal of prosthetic dentistry
+- [ ] PMID 42089190 | obs | OA:PMC PMC13279554 | occlusal-efficiency | edat 2026
+      "Reduced Posterior Occlusal Contacts Are Associated With an Increased Risk of Stroke: A Retrospective Study Based on a Japanese Claims Database." — Journal of the American Heart Association
+- [ ] PMID 42120795 | obs | OA:PMC PMC13167831 | occlusal-efficiency | edat 2026
+      "Electromyographic patterns and masticatory muscles activity changes in patients with dentoskeletal deformities before and after orthognathic surgery: a pilot study." — Oral and maxillofacial surgery
+- [ ] PMID 42121975 | obs | OA:PMC PMC13162662 | occlusal-efficiency | edat 2026
+      "Differences in Oral Function, Masticatory Movement, and MRI-Based Structural Features of the Temporomandibular Joint Between the Deviated and Non-Deviated Sides in Patients with Facial Asymmetry." — Diagnostics (Basel, Switzerland)
+- [ ] PMID 42145577 | obs | OA:PMC PMC13179461 | occlusal-efficiency | edat 2025
+      "Comparison of patients' oral health-related quality of life and chewing efficiency between conventional and 3D-printed complete dentures: A crossover clinical trial." — Journal of dental research, dental clinics, dental prospects
+- [ ] PMID 42235547 | obs | OA:none | occlusal-efficiency | edat 2026
+      "Masticatory Muscle Activity in a Group of Thai Children with Skeletal and Dental Malocclusions: A Pilot Study Using Surface Electromyography." — European journal of dentistry
+- [ ] PMID 42333053 | obs | OA:PMC PMC13583364 | occlusal-efficiency | edat 2026
+      "Impact of Dental Malocclusions on Age and Gender-Related Masticatory Performance in Orthodontic Patients." — Journal of oral rehabilitation
+- [ ] PMID 42494360 | RCT | OA:none | occlusal-efficiency | edat 2026
+      "[Construction and initial application of masticatory function rehabilitation program for patients after mandibular reconstruction]." — Shanghai kou qiang yi xue = Shanghai journal of stomatology
+- [ ] PMID 42510491 | obs | OA:PMC PMC13405964 | occlusal-efficiency | edat 2026
+      "Bilateral Gum Chewing as Proprioceptive Sensorimotor Re-Education for Patients with Masticatory Muscle Weakness Presenting with Orofacial Pain and Perceived Occlusal Change: A Technical Note with a Retrospective Case Series." — Bioengineering (Basel, Switzerland)
+- [ ] PMID 42551890 | obs | OA:none | occlusal-efficiency | edat 2026
+      "Oral health-related quality of life and masticatory function changes in Class II camouflage treatment: focus on maxillary premolar extraction and final posterior occlusion." — The Angle orthodontist
+- [ ] PMID 42582684 | obs | OA:PMC PMC13457875 | occlusal-efficiency | edat 2026
+      "Quantitative assessment of occlusal function before and after extraction of unilateral impacted mandibular third molars using the TeeTester occlusal analyzer." — Quantitative imaging in medicine and surgery
+- [ ] PMID 42592287 | obs | OA:PMC PMC13464428 | occlusal-efficiency | edat 2026
+      "Comparison of Jaw Muscle Activity, Masticatory Performance, and Salivation Across Three Chewing Patterns: A Within-Subjects Experimental Study." — International journal of dentistry
+- [ ] PMID 42664370 | obs | OA:none | occlusal-efficiency | edat 2026
+      "Impact of clear aligner (Invisalign&#xae;) treatment and occlusal changes on the masticatory function and temporomandibular disorders: A cross-sectional study." — Dental and medical problems
+- [ ] PMID 42716468 | obs | OA:none | occlusal-efficiency | edat 2026
+      "A comparative evaluation of masticatory performance and occlusal load distribution in Class II adolescent patients treated with upper premolar extraction versus fixed functional appliances: A clinical prospective cohort study." — Journal of stomatology, oral and maxillofacial surgery
+- [ ] PMID 42745759 | SR | OA:PMC PMC13574555 | occlusal-efficiency | edat 2026
+      "The effect of neuromuscular re-education and oral motor exercises on adaptation and masticatory performance in complete denture wearers- a systematic review." — Frontiers in dental medicine
+- [ ] PMID 32769268 | obs | OA:none | occlusal-efficiency | edat 2020
+      "Circadian dynamics in the functional interaction of the lateral teeth occlusal surfaces' relief." — Indian journal of dental research : official publication of Indian Society for Dental Research
+- [ ] PMID 41559988 | obs | OA:PMC PMC12826289 | zirconia-crown-function | edat 2026
+      "Study on the effects of zirconia restorations in oral prosthodontics on inflammatory factor levels and masticatory function." — Medicine
+- [ ] PMID 38044736 | obs | OA:none | zirconia-crown-function | edat 2023
+      "[Effect of 4 kinds of prosthodontic materials on masticatory and gingival function]." — Shanghai kou qiang yi xue = Shanghai journal of stomatology
+- [ ] PMID 38381992 | obs | OA:none | zirconia-crown-function | edat 2024
+      "Accuracy of Occlusal Contacts of All-Ceramic Single Crowns Designed by Virtual Articulators from a CAD/CAM System: A Preliminary Evaluation." — The International journal of prosthodontics
+- [ ] PMID 40654460 | obs | OA:PMC PMC12254778 | zirconia-crown-function | edat 2025
+      "Evaluation of the accuracy, occlusal contact and clinical applications of zirconia crowns using artificial intelligence design versus human design." — Journal of dental sciences
+- [ ] PMID 39727434 | obs | OA:PMC PMC11674884 | zirconia-crown-function | edat 2024
+      "Changes in Occlusal Contacts upon the Cementation of Zirconia Crowns with Different Cement Spacers." — Dentistry journal
+- [ ] PMID 36610845 | obs | OA:none | zirconia-crown-function | edat 2024
+      "Evaluation of two different occlusal patterns on single posterior implant-supported crowns: A 12-month prospective study of occlusal analysis." — The Journal of prosthetic dentistry
+- [ ] PMID 33682180 | obs | OA:none | zirconia-crown-function | edat 2021
+      "Patient satisfaction and masticatory performance of zirconia bar compared to cobalt chromium bar retaining mandibular implant overdenture: A crossover study." — Journal of oral rehabilitation
+- [ ] PMID 37635466 | obs | OA:none | zirconia-crown-function | edat 2023
+      "Bite force evaluation at maximal intercuspal position: An in vivo comparative study between stainless steel and zirconia crowns on primary molar teeth." — Journal of the Indian Society of Pedodontics and Preventive Dentistry

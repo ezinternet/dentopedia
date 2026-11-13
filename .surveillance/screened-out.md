@@ -631,3 +631,560 @@
 - PMID 39057295 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | already in wiki: ferracane-2024-historical-perspective
 - PMID 23199807 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | dimethacrylate composite technology: already covered by other reviews in queue
 - PMID 20859059 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | radical photopolymerization initiators review: broader than dental, partially covered
+- PMID 42707724 | zirconia-occlusal-adjustment | edat 2026 | screened 2026/11/12 | off-topic: ovate pontic esthetic case report (no adjustment variable)
+- PMID 41438179 | zirconia-occlusal-adjustment | edat 2025 | screened 2026/11/12 | off-topic: full-arch digital workflow case report
+- PMID 41051192 | zirconia-occlusal-adjustment | edat 2026 | screened 2026/11/12 | off-topic: 3D virtual patient zirconia veneers case report
+- PMID 40404534 | zirconia-occlusal-adjustment | edat 2026 | screened 2026/11/12 | off-topic: anterior guidance slope modeling (design, not adjustment)
+- PMID 39289735 | zirconia-occlusal-adjustment | edat 2024 | screened 2026/11/12 | off-topic: implant veneer material review
+- PMID 38115635 | zirconia-occlusal-adjustment | edat 2024 | screened 2026/11/12 | off-topic: mandible chondrosarcoma rehabilitation case
+- PMID 27273291 | zirconia-occlusal-adjustment | edat 2017 | screened 2026/11/12 | off-topic: facial/condyle fracture case
+- PMID 25822406 | zirconia-occlusal-adjustment | edat 2015 | screened 2026/11/12 | off-topic: zirconia FPD bonding case
+- PMID 23755349 | zirconia-occlusal-adjustment | edat 2013 | screened 2026/11/12 | off-topic: full-mouth monolithic zirconia case report
+- PMID 24930869 | zirconia-occlusal-adjustment | edat 2014 | screened 2026/11/12 | off-topic: 3-year survival retrospective (no adjustment variable)
+- PMID 33342613 | zirconia-occlusal-adjustment | edat 2022 | screened 2026/11/12 | off-topic: CAD-CAM milling tool deterioration / trueness
+- PMID 38529462 | zirconia-occlusal-adjustment | edat 2024 | screened 2026/11/12 | off-topic: abutment material FEA (adjustment only mentioned in conclusion)
+- PMID 38221600 | zirconia-occlusal-adjustment | edat 2024 | screened 2026/11/12 | off-topic: cantilever FPD failure load (adjustment only mentioned in conclusion)
+- PMID 36125805 | zirconia-occlusal-adjustment | edat 2022 | screened 2026/11/12 | off-topic: 3D-printed crown case report
+- PMID 31856799 | zirconia-occlusal-adjustment | edat 2019 | screened 2026/11/12 | off-topic: 5-year prospective survival on titanium bars
+- PMID 26124835 | zirconia-occlusal-adjustment | edat 2015 | screened 2026/11/12 | off-topic: monolithic zirconia full-arch narrative review
+- PMID 31297175 | zirconia-occlusal-adjustment | edat 2019 | screened 2026/11/12 | already ingested in wiki → sources/alfrisany-2019-occlusal-adjustments-zirconia-enamel-wear.md
+- PMID 33456027 | zirconia-occlusal-adjustment | edat 2021 | screened 2026/11/12 | already ingested in wiki → sources/tachibana-2021-polishing-zirconia-antagonist-wear.md
+- PMID 39710626 | zirconia-occlusal-adjustment | edat 2025 | screened 2026/11/12 | already ingested in wiki → sources/badawy-2025-enamel-wear-zirconia-endocrowns-2year.md
+- PMID 42984525 | zirconia-occlusal-adjustment | edat 2026 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 42948551 | zirconia-occlusal-adjustment | edat 2026 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 42930419 | zirconia-occlusal-adjustment | edat 2026 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 42930387 | zirconia-occlusal-adjustment | edat 2026 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 42830348 | zirconia-occlusal-adjustment | edat 2026 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 42808360 | zirconia-occlusal-adjustment | edat 2026 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 42795078 | zirconia-occlusal-adjustment | edat 2026 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 42782973 | zirconia-occlusal-adjustment | edat 2026 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 42346691 | zirconia-occlusal-adjustment | edat 2026 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 42156906 | zirconia-occlusal-adjustment | edat 2026 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 42041679 | zirconia-occlusal-adjustment | edat 2026 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 42031615 | zirconia-occlusal-adjustment | edat 2026 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 41778346 | zirconia-occlusal-adjustment | edat 2026 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 41339871 | zirconia-occlusal-adjustment | edat 2025 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 41322855 | zirconia-occlusal-adjustment | edat 2025 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 41294479 | zirconia-occlusal-adjustment | edat 2025 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 41241563 | zirconia-occlusal-adjustment | edat 2026 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 41011954 | zirconia-occlusal-adjustment | edat 2025 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 40766904 | zirconia-occlusal-adjustment | edat 2024 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 39778048 | zirconia-occlusal-adjustment | edat 2026 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 39386129 | zirconia-occlusal-adjustment | edat 2024 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 39131539 | zirconia-occlusal-adjustment | edat 2024 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 39063771 | zirconia-occlusal-adjustment | edat 2024 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 38598918 | zirconia-occlusal-adjustment | edat 2024 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 38382941 | zirconia-occlusal-adjustment | edat 2024 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 37727356 | zirconia-occlusal-adjustment | edat 2023 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 37512447 | zirconia-occlusal-adjustment | edat 2023 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 36984389 | zirconia-occlusal-adjustment | edat 2023 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 36739572 | zirconia-occlusal-adjustment | edat 2023 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 36648375 | zirconia-occlusal-adjustment | edat 2023 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 36640842 | zirconia-occlusal-adjustment | edat 2023 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 36125622 | zirconia-occlusal-adjustment | edat 2023 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 35820502 | zirconia-occlusal-adjustment | edat 2022 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 35683212 | zirconia-occlusal-adjustment | edat 2022 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 35676876 | zirconia-occlusal-adjustment | edat 2022 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 35630177 | zirconia-occlusal-adjustment | edat 2022 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 35454402 | zirconia-occlusal-adjustment | edat 2022 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 35429766 | zirconia-occlusal-adjustment | edat 2022 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 35215723 | zirconia-occlusal-adjustment | edat 2022 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 35187499 | zirconia-occlusal-adjustment | edat 2022 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 35019019 | zirconia-occlusal-adjustment | edat 2021 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 34902755 | zirconia-occlusal-adjustment | edat 2022 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 34674322 | zirconia-occlusal-adjustment | edat 2022 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 34538467 | zirconia-occlusal-adjustment | edat 2021 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 34349081 | zirconia-occlusal-adjustment | edat 2022 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 34068731 | zirconia-occlusal-adjustment | edat 2021 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 33678440 | zirconia-occlusal-adjustment | edat 2022 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 33673175 | zirconia-occlusal-adjustment | edat 2021 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 33581910 | zirconia-occlusal-adjustment | edat 2021 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 33390524 | zirconia-occlusal-adjustment | edat 2021 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 33309805 | zirconia-occlusal-adjustment | edat 2021 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 32958309 | zirconia-occlusal-adjustment | edat 2020 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 32924224 | zirconia-occlusal-adjustment | edat 2021 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 32807403 | zirconia-occlusal-adjustment | edat 2021 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 32750671 | zirconia-occlusal-adjustment | edat 2020 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 32348085 | zirconia-occlusal-adjustment | edat 2020 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 32249789 | zirconia-occlusal-adjustment | edat 2020 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 32049135 | zirconia-occlusal-adjustment | edat 2020 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 31770665 | zirconia-occlusal-adjustment | edat 2020 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 31759562 | zirconia-occlusal-adjustment | edat 2020 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 31500904 | zirconia-occlusal-adjustment | edat 2020 | screened 2026/11/12 | off-axis: bonding/surface-conditioning, machining, shade/optical only, biofilm, non-zirconia or unrelated domain
+- PMID 41366762 | zirconia-occlusal-adjustment | edat 2025 | screened 2026/11/12 | already ingested in wiki → wiki/prosthetic-materials/aboushelib-2026-translucent-zirconia-monolithic-mechanical-performance.md
+- PMID 38993795 | zirconia-occlusal-adjustment | edat 2024 | screened 2026/11/12 | already ingested in wiki → wiki/dental-materials/zirconia/sarabi-2024-grinding-ltd-flexural-strength-zirconia.md
+- PMID 26363460 | occlusal-efficiency | edat 2015 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 26549578 | occlusal-efficiency | edat 2016 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 27332882 | occlusal-efficiency | edat 2017 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 27356200 | occlusal-efficiency | edat 2016 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 28176213 | occlusal-efficiency | edat 2017 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 28209396 | occlusal-efficiency | edat 2017 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 28258640 | occlusal-efficiency | edat 2017 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 28548212 | occlusal-efficiency | edat 2017 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 28761982 | occlusal-efficiency | edat 2018 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 29709708 | occlusal-efficiency | edat 2018 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 29961620 | occlusal-efficiency | edat 2018 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 30142040 | occlusal-efficiency | edat 2019 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 30573857 | occlusal-efficiency | edat 2018 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 30631208 | occlusal-efficiency | edat 2019 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 30895038 | occlusal-efficiency | edat 2017 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 31169168 | occlusal-efficiency | edat 2019 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 31172873 | occlusal-efficiency | edat 2019 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 31378028 | occlusal-efficiency | edat 2019 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 31836754 | occlusal-efficiency | edat 2019 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 31920486 | occlusal-efficiency | edat 2019 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 32437857 | occlusal-efficiency | edat 2020 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 32613432 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 33200849 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 33898409 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 34030889 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 34326583 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 34649558 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 34878525 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 34910787 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 34985577 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 35330027 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 35615886 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 35663440 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 35835683 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 35837677 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 36004339 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 36065716 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 36141208 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 36239005 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 37214753 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | case-report/off-topic subject
+- PMID 37301831 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 37611655 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | case-report/off-topic subject
+- PMID 37740128 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 37892673 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 37988621 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 38067884 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 38068058 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 38409946 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 38616519 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 38618096 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 38878405 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 38920862 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 38969936 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 39086190 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 39095962 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 39281060 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 39512877 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 39719845 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | case-report/off-topic subject
+- PMID 39905424 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 39919995 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 40013481 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 40091776 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 40144644 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 40172362 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 40232545 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 40352005 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 40550772 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 40729794 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 40859668 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 40875065 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 40996060 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 41041423 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 41299875 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 41404644 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | case-report/off-topic subject
+- PMID 41855923 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 42080419 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 42277297 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 42870261 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 25965642 | occlusal-efficiency | edat 2015 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 26089531 | occlusal-efficiency | edat 2015 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 27043215 | occlusal-efficiency | edat 2016 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 27349311 | occlusal-efficiency | edat 2016 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 27401181 | occlusal-efficiency | edat 2017 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 27987427 | occlusal-efficiency | edat 2017 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 28216853 | occlusal-efficiency | edat 2017 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 29128587 | occlusal-efficiency | edat 2018 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 29561917 | occlusal-efficiency | edat 2018 | screened 2026/11/13 | case-report/off-topic subject
+- PMID 30280238 | occlusal-efficiency | edat 2019 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 30510294 | occlusal-efficiency | edat 2018 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 31670918 | occlusal-efficiency | edat 2019 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 32363765 | occlusal-efficiency | edat 2020 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 32491236 | occlusal-efficiency | edat 2020 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 32549196 | occlusal-efficiency | edat 2020 | screened 2026/11/13 | case-report/off-topic subject
+- PMID 32965052 | occlusal-efficiency | edat 2020 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 32989781 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 33438306 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 33551134 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 33569757 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 33624362 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 33685850 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | case-report/off-topic subject
+- PMID 33790400 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 34247160 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 34637889 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 34756607 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 35082225 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 35454340 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 36096912 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 36170628 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | case-report/off-topic subject
+- PMID 36204960 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 37049448 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 37065972 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 37741725 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 37750517 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 37861611 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 38382972 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 38653688 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 38691781 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 38954328 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | case-report/off-topic subject
+- PMID 39365479 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 39414444 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 39531376 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 39719838 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | case-report/off-topic subject
+- PMID 39724830 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | case-report/off-topic subject
+- PMID 39900133 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 40190513 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 40394268 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 40488382 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | case-report/off-topic subject
+- PMID 40554837 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 40923720 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 41019450 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | case-report/off-topic subject
+- PMID 41127768 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 41272737 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | case-report/off-topic subject
+- PMID 41295945 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 41533178 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 41616112 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | case-report/off-topic subject
+- PMID 41766315 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 41872864 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 42015155 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | case-report/off-topic subject
+- PMID 42068030 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | case-report/off-topic subject
+- PMID 42210146 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 42469762 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 42477913 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 42494352 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 42567046 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 42675929 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 42686922 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 42880913 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | adjacent: no masticatory-efficiency outcome
+- PMID 26048367 | occlusal-efficiency | edat 2015 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 26252380 | occlusal-efficiency | edat 2015 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 26313248 | occlusal-efficiency | edat 2016 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 26733153 | occlusal-efficiency | edat 2016 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 26764178 | occlusal-efficiency | edat 2016 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 26800161 | occlusal-efficiency | edat 2016 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 26958832 | occlusal-efficiency | edat 2016 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 27031836 | occlusal-efficiency | edat 2016 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 27224022 | occlusal-efficiency | edat 2016 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 27274560 | occlusal-efficiency | edat 2016 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 27562053 | occlusal-efficiency | edat 2016 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 29134672 | occlusal-efficiency | edat 2017 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 29196948 | occlusal-efficiency | edat 2018 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 29503716 | occlusal-efficiency | edat 2018 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 29636242 | occlusal-efficiency | edat 2018 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 29675516 | occlusal-efficiency | edat 2018 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 29925763 | occlusal-efficiency | edat 2018 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 29930787 | occlusal-efficiency | edat 2018 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 29972946 | occlusal-efficiency | edat 2017 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 30878521 | occlusal-efficiency | edat 2019 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 31629157 | occlusal-efficiency | edat 2020 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 32414506 | occlusal-efficiency | edat 2020 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 32580080 | occlusal-efficiency | edat 2020 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 32620333 | occlusal-efficiency | edat 2020 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 33516129 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 33528948 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 33570519 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 33638570 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 33809096 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 33823357 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 34124765 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 34242291 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 34405887 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 34544436 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 34905722 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 35118735 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 35267824 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 35743379 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 36341889 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 36549251 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 36708253 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 36718695 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 36746817 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 37337240 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 37428732 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 37729488 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 37839334 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 38071838 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 38109392 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 38163102 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 38186265 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 38295310 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 38786633 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 39019591 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 39373833 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 39476183 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 39627624 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 39917208 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 40045314 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 40334837 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 40478889 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 40517060 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 40550768 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 40550776 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 40710478 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 40725615 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 41059013 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 41354775 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 41364373 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 41431058 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 41850868 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 42337534 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 42405687 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 42411762 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 42598811 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 42670166 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 42771184 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 42894214 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 25664778 | occlusal-efficiency | edat 2016 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 26757337 | occlusal-efficiency | edat 2016 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 26798405 | occlusal-efficiency | edat 2015 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 26929513 | occlusal-efficiency | edat 2015 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 26949487 | occlusal-efficiency | edat 2016 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 27033460 | occlusal-efficiency | edat 2016 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 27083219 | occlusal-efficiency | edat 2016 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 27411727 | occlusal-efficiency | edat 2016 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 27632259 | occlusal-efficiency | edat 2016 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 28214537 | occlusal-efficiency | edat 2017 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 28280534 | occlusal-efficiency | edat 2016 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 28469825 | occlusal-efficiency | edat 2017 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 28832928 | occlusal-efficiency | edat 2017 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 29152262 | occlusal-efficiency | edat 2017 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 29279547 | occlusal-efficiency | edat 2018 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 29469998 | occlusal-efficiency | edat 2018 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 29610776 | occlusal-efficiency | edat 2018 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 29633246 | occlusal-efficiency | edat 2018 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 29728554 | occlusal-efficiency | edat 2018 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 30781478 | occlusal-efficiency | edat 2019 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 30796588 | occlusal-efficiency | edat 2019 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 31383322 | occlusal-efficiency | edat 2019 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 31535101 | occlusal-efficiency | edat 2019 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 31778443 | occlusal-efficiency | edat 2020 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 31945212 | occlusal-efficiency | edat 2020 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 32779605 | occlusal-efficiency | edat 2020 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 32904098 | occlusal-efficiency | edat 2020 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 33017717 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 33035763 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 33065791 | occlusal-efficiency | edat 2020 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 33331407 | occlusal-efficiency | edat 2020 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 33336857 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 34071137 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 34184693 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 34249511 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 34301416 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 34331353 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 34348313 | occlusal-efficiency | edat 2021 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 34674199 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 34935067 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 34953628 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 35044889 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 35591715 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 36210191 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 36222311 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 36295314 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 36336464 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 36613028 | occlusal-efficiency | edat 2022 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 36726272 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 36908752 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 37056404 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 37240538 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 37314643 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 37506810 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 37563860 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 37660523 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 37664310 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 37837498 | occlusal-efficiency | edat 2023 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 38093599 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 38916939 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 38924577 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 39105859 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 39157031 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 39350376 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 39393784 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 39399853 | occlusal-efficiency | edat 2024 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 39617180 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 39636679 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 39808357 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 39988525 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 40202707 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 40255813 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 40311627 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 40602711 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 40676540 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 40807129 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 40849471 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 40886505 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 41051730 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 41073957 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 41157984 | occlusal-efficiency | edat 2025 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 41206335 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 41206336 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 41318332 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 41559707 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 41635901 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 41650382 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 41658825 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 41918053 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 42044277 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 42399941 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 42649105 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 42691049 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 42699201 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 42701197 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 42786568 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 42899306 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 42930424 | occlusal-efficiency | edat 2026 | screened 2026/11/13 | off-topic (biomechanics/other field)
+- PMID 12070515 | zirconia-crown-function | edat 2002 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 15386395 | zirconia-crown-function | edat 2004 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 16536199 | zirconia-crown-function | edat 2006 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 17323721 | zirconia-crown-function | edat 2006 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 17510713 | zirconia-crown-function | edat 2007 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 17559618 | zirconia-crown-function | edat 2007 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 18696128 | zirconia-crown-function | edat 2009 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 19117821 | zirconia-crown-function | edat 2009 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 19216271 | zirconia-crown-function | edat 2008 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 19328275 | zirconia-crown-function | edat 2009 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 20019417 | zirconia-crown-function | edat 2009 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 20234896 | zirconia-crown-function | edat 2010 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 20819134 | zirconia-crown-function | edat 2011 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 21597222 | zirconia-crown-function | edat 2011 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 21623811 | zirconia-crown-function | edat 2011 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 21701118 | zirconia-crown-function | edat 2011 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 21884147 | zirconia-crown-function | edat 2011 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 22335358 | zirconia-crown-function | edat 2013 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 22457839 | zirconia-crown-function | edat 2011 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 22977016 | zirconia-crown-function | edat 2012 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 23019507 | zirconia-crown-function | edat 2011 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 23285409 | zirconia-crown-function | edat 2012 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 23289495 | zirconia-crown-function | edat 2013 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 23296031 | zirconia-crown-function | edat 2013 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 23333235 | zirconia-crown-function | edat 2013 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 23560416 | zirconia-crown-function | edat 2014 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 23683531 | zirconia-crown-function | edat 2013 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 23755346 | zirconia-crown-function | edat 2013 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 23846213 | zirconia-crown-function | edat 2014 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 24120005 | zirconia-crown-function | edat 2013 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 24447258 | zirconia-crown-function | edat 2014 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 24975560 | zirconia-crown-function | edat 2015 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 25212560 | zirconia-crown-function | edat 2014 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 25257823 | zirconia-crown-function | edat 2014 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 25539006 | zirconia-crown-function | edat 2014 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 25676180 | zirconia-crown-function | edat 2015 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 25686334 | zirconia-crown-function | edat 2015 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 25986462 | zirconia-crown-function | edat 2015 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 26009919 | zirconia-crown-function | edat 2015 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 26346419 | zirconia-crown-function | edat 2015 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 26816578 | zirconia-crown-function | edat 2015 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 27021548 | zirconia-crown-function | edat 2016 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 27198539 | zirconia-crown-function | edat 2016 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 27314121 | zirconia-crown-function | edat 2016 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 28190816 | zirconia-crown-function | edat 2017 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 28216846 | zirconia-crown-function | edat 2017 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 28243301 | zirconia-crown-function | edat 2016 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 28291847 | zirconia-crown-function | edat 2017 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 28400062 | zirconia-crown-function | edat 2017 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 28506651 | zirconia-crown-function | edat 2017 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 28633093 | zirconia-crown-function | edat 2017 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 28841393 | zirconia-crown-function | edat 2017 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 28888931 | zirconia-crown-function | edat 2018 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 29128350 | zirconia-crown-function | edat 2018 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 29961618 | zirconia-crown-function | edat 2018 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 30167795 | zirconia-crown-function | edat 2019 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 30551804 | zirconia-crown-function | edat 2019 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 30685728 | zirconia-crown-function | edat 2019 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 31218863 | zirconia-crown-function | edat 2019 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 31592107 | zirconia-crown-function | edat 2019 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 31722238 | zirconia-crown-function | edat 2019 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 31778908 | zirconia-crown-function | edat 2020 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 31936096 | zirconia-crown-function | edat 2020 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 32188431 | zirconia-crown-function | edat 2020 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 32381825 | zirconia-crown-function | edat 2020 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 33129499 | zirconia-crown-function | edat 2021 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 33149515 | zirconia-crown-function | edat 2020 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 33483141 | zirconia-crown-function | edat 2022 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 33662055 | zirconia-crown-function | edat 2022 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 34121735 | zirconia-crown-function | edat 2021 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 34500970 | zirconia-crown-function | edat 2021 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 34504673 | zirconia-crown-function | edat 2021 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 35103202 | zirconia-crown-function | edat 2021 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 35118758 | zirconia-crown-function | edat 2022 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 35200247 | zirconia-crown-function | edat 2022 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 35249901 | zirconia-crown-function | edat 2022 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 35413436 | zirconia-crown-function | edat 2022 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 35837209 | zirconia-crown-function | edat 2022 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 36087111 | zirconia-crown-function | edat 2023 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 36161530 | zirconia-crown-function | edat 2023 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 36233980 | zirconia-crown-function | edat 2022 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 36396490 | zirconia-crown-function | edat 2024 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 36456927 | zirconia-crown-function | edat 2022 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 36625372 | zirconia-crown-function | edat 2023 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 36707313 | zirconia-crown-function | edat 2023 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 36775338 | zirconia-crown-function | edat 2023 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 36801783 | zirconia-crown-function | edat 2023 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 37022099 | zirconia-crown-function | edat 2024 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 37083903 | zirconia-crown-function | edat 2023 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 37125520 | zirconia-crown-function | edat 2022 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 37244796 | zirconia-crown-function | edat 2023 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 37286415 | zirconia-crown-function | edat 2025 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 37482534 | zirconia-crown-function | edat 2023 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 37650043 | zirconia-crown-function | edat 2023 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 37703213 | zirconia-crown-function | edat 2023 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 37737460 | zirconia-crown-function | edat 2024 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 37977990 | zirconia-crown-function | edat 2024 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 38013004 | zirconia-crown-function | edat 2024 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 38130700 | zirconia-crown-function | edat 2023 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 38256690 | zirconia-crown-function | edat 2024 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 38374666 | zirconia-crown-function | edat 2024 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 38390344 | zirconia-crown-function | edat 2024 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 38455676 | zirconia-crown-function | edat 2024 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 38555270 | zirconia-crown-function | edat 2024 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 38576681 | zirconia-crown-function | edat 2024 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 38955602 | zirconia-crown-function | edat 2025 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 39026272 | zirconia-crown-function | edat 2024 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 39084954 | zirconia-crown-function | edat 2024 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 39092818 | zirconia-crown-function | edat 2024 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 39143630 | zirconia-crown-function | edat 2024 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 39450499 | zirconia-crown-function | edat 2025 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 39506212 | zirconia-crown-function | edat 2025 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 39551464 | zirconia-crown-function | edat 2025 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 39604941 | zirconia-crown-function | edat 2024 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 39710999 | zirconia-crown-function | edat 2025 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 39827822 | zirconia-crown-function | edat 2025 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 39827823 | zirconia-crown-function | edat 2025 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 39840627 | zirconia-crown-function | edat 2025 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 39934025 | zirconia-crown-function | edat 2025 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 39959023 | zirconia-crown-function | edat 2024 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 40135658 | zirconia-crown-function | edat 2026 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 40400808 | zirconia-crown-function | edat 2025 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 40710123 | zirconia-crown-function | edat 2025 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 40813978 | zirconia-crown-function | edat 2025 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 40859199 | zirconia-crown-function | edat 2025 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 40893808 | zirconia-crown-function | edat 2025 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 40978663 | zirconia-crown-function | edat 2025 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 41016866 | zirconia-crown-function | edat 2026 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 41053685 | zirconia-crown-function | edat 2025 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 41113043 | zirconia-crown-function | edat 2025 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 41125093 | zirconia-crown-function | edat 2026 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 41126408 | zirconia-crown-function | edat 2026 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 41294412 | zirconia-crown-function | edat 2025 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 41303090 | zirconia-crown-function | edat 2025 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 41446345 | zirconia-crown-function | edat 2025 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 41561410 | zirconia-crown-function | edat 2025 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 41590787 | zirconia-crown-function | edat 2025 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 41728444 | zirconia-crown-function | edat 2026 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 41854719 | zirconia-crown-function | edat 2026 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 41869143 | zirconia-crown-function | edat 2026 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 41901798 | zirconia-crown-function | edat 2026 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 41966909 | zirconia-crown-function | edat 2026 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 42077143 | zirconia-crown-function | edat 2026 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 42175573 | zirconia-crown-function | edat 2026 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 42235543 | zirconia-crown-function | edat 2026 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 42333339 | zirconia-crown-function | edat 2026 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 42462487 | zirconia-crown-function | edat 2026 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 42586174 | zirconia-crown-function | edat 2026 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 42613810 | zirconia-crown-function | edat 2026 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 42667412 | zirconia-crown-function | edat 2026 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 42698086 | zirconia-crown-function | edat 2026 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 42816344 | zirconia-crown-function | edat 2026 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
