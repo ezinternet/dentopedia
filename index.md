@@ -5541,3 +5541,13 @@ tags: []
 - [[implants/vitamin-d/sodnomish-2026-the-effect-of-dietary-factors]] — Sodnom-Ish 2026 · narrative-review · 식이·영양소 범위 문헌고찰 27편, 비타민 D 저하군 조기 실패 통합 RR 1.87(1.01–3.45) (DOI 10.1186/s40729-026-00680-8)
 - [[implants/vitamin-d/wiedemann-2025-vitamin-d-screening-and-supplementation]] — Wiedemann 2025 · narrative-review · 비타민 D 결핍 시 조기 실패 약 4배, 수술 전 D3 보충 권고 (초록만) (DOI 10.1002/jbm.b.35558)
 - [[implants/isq/hong-2025-comparative-analysis-of-novel-damping]] — Hong 2025 · retrospective · 감쇠능 분석 신형 장비 비교 37명/58개, AnyCheck r=-0.870 vs The Trust r=-0.473; 조기실패 예측 타당도는 아님 (DOI 10.5051/jpis.2404680234)
+
+## Batch ingest (added 2026-11-13) — 교합·저작 효율 × 지르코니아 크라운 서베일런스 (PMC OA 7편)
+
+- [[occlusion/khaing-2026-masticatory-performance-assessment-methods-sr]] — Khaing 2026 · SR(COSMIN) · 저작성능 측정법 40편: 껌 혼합능 검사가 신뢰도·타당도 가장 일관, 분쇄검사는 이질적, **표준화된 임상 검증 검사는 부재** (DOI 10.1016/j.identj.2026.109471)
+- [[occlusion/fan-2021-patient-reported-outcome-measures-masticatory-function]] — Fan 2021 · SR(COSMIN) · 저작기능 PROM 19종/23편/16,886명: 전 항목 고수준 근거를 갖춘 도구 없음, 측정오차는 한 번도 검증 안 됨 (DOI 10.1186/s12903-021-01949-7)
+- [[occlusion/franco-2025-prevalence-self-assessed-masticatory-disorders]] — Franco 2025 · SR+MA · 지역사회 거주 60세 이상 165,220명 자가보고 저작장애 유병률 **36%(95% CI 28–43, I²=100%)**, 개별 4.3–61.7% (DOI 10.1111/joor.14000)
+- [[occlusion/wang-2024-changes-occlusal-contacts-cementation-zirconia]] — Wang 2024 · in-vitro(지르코니아 30관) · **합착이 교합접촉면적을 2배 이상 증가**(2339→6281 µm², 2071→5545 µm², p<0.001) → 합착 후 교합 재확인 필수, 70 µm 스페이서가 위험 (DOI 10.3390/dj12120377)
+- [[occlusion/liu-2025-accuracy-occlusal-contact-zirconia-ai-design]] — Liu 2025 · in-vitro+소규모 임상 · AI 설계가 모델 정확도 우수(STL RMS 13 vs 45 µm)하나 **구내 변연간격 332–376 vs 276–341 µm**, 의사 교합조정 여전히 필요 (DOI 10.1016/j.jds.2025.03.016)
+- [[occlusion/patil-2026-masticatory-efficiency-single-implant-crown]] — Patil 2026 · prospective(비무작위, n=60) · 단일체 임플란트 크라운이 3-unit 금속도재 FPD보다 아몬드 분쇄 MP% 우수(3/6/12개월 28.4/32.1/35.7 vs 22.6/25.4/28.3, p=0.001) (DOI 10.7759/cureus.101229)
+- [[prosthetic-materials/zhang-2026-zirconia-restorations-inflammatory-masticatory-function]] — Zhang 2026 · retrospective(성향점수 79 vs 79) · 지르코니아 vs 금속도재 전장관: IL-6·CRP 더 크게 감소, 저작효율 78.6% vs 70.2%, CRP 효과 약 30%는 치은지수 매개 — **관찰연구, 인과 아님** (DOI 10.1097/md.0000000000046823)
