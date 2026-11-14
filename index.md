@@ -5476,6 +5476,9 @@ tags: []
 - [[local-anesthesia/panya-2025-lidocaine-mepivacaine-ianb-comparison-rct]] — 2025 · rct · 2% 메피바카인 vs 2% 리도카인 IANB 비교 RCT
 - [[local-anesthesia/saraghi-2015-local-anesthetic-calculations-pediatric-last]] — 2015 · narrative-review · 소아 LAST 예방 국소마취 용량 계산 실무 리뷰
 - [[local-anesthesia/suresh-2026-buffered-articaine-lidocaine-children-onset]] — 2026 · rct · 소아 완충 4% 아르티카인 vs 2% 리도카인 발현 시간 비교 RCT
+- [[local-anesthesia/ghosh-2025-aceclofenac-intraligamentary-failed-ianb]] — 불가역성 치수염 하악 대구치에서 실패한 IANB 후 아세클로페낙 전처치+아티카인 치주인대주사 프로토콜: 성공률 87.1% (n=126, RCT, 2025)
+- [[local-anesthesia/kanaa-2012-supplementary-techniques-failed-ianb-irreversible-pulpitis]] — 실패한 IANB 후 보조마취 4종 비교: 아티카인 협측침윤 84% > 골내주사 68% > 치주인대주사 48% > 재차 IANB 32% (n=182, RCT)
+- [[local-anesthesia/habib-2022-ianb-mepivacaine-articaine-symptomatic-irreversible-pulpitis]] — 불가역성 치수염 IANB 성공률: 메피바카인 35.8% vs 아티카인 41.2% — 두 약제 모두 비슷하게 낮음 (n=330, 이중맹검 RCT)
 
 ### sinus-lift/transcrestal
 - [[sinus-lift/transcrestal/canullo-2023-ossix-bone-transcrestal-sinus-augmentation]] — 2023 · rct · 치조정 접근 상악동 거상 (TSFE) Ossix + 골 이식 RCT
@@ -5551,3 +5554,4 @@ tags: []
 - [[occlusion/liu-2025-accuracy-occlusal-contact-zirconia-ai-design]] — Liu 2025 · in-vitro+소규모 임상 · AI 설계가 모델 정확도 우수(STL RMS 13 vs 45 µm)하나 **구내 변연간격 332–376 vs 276–341 µm**, 의사 교합조정 여전히 필요 (DOI 10.1016/j.jds.2025.03.016)
 - [[occlusion/patil-2026-masticatory-efficiency-single-implant-crown]] — Patil 2026 · prospective(비무작위, n=60) · 단일체 임플란트 크라운이 3-unit 금속도재 FPD보다 아몬드 분쇄 MP% 우수(3/6/12개월 28.4/32.1/35.7 vs 22.6/25.4/28.3, p=0.001) (DOI 10.7759/cureus.101229)
 - [[prosthetic-materials/zhang-2026-zirconia-restorations-inflammatory-masticatory-function]] — Zhang 2026 · retrospective(성향점수 79 vs 79) · 지르코니아 vs 금속도재 전장관: IL-6·CRP 더 크게 감소, 저작효율 78.6% vs 70.2%, CRP 효과 약 30%는 치은지수 매개 — **관찰연구, 인과 아님** (DOI 10.1097/md.0000000000046823)
+- [[overviews/masticatory-performance-measurement-overview]] — **종합** · 저작성능은 하나의 숫자가 아니다: 표준 검사 부재(COSMIN 40편) → PROM 측정오차 미검증 → 유병률 4.3–61.7% (I²=100%) → 중재 수치 합산 불가(MP% vs 색혼합%) → 지르코니아 축은 "접촉 정확도"에서 멈춘다
