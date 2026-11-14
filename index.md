@@ -1491,6 +1491,14 @@ tags: []
 - [[dental-materials/zirconia/gohil-2026-occlusal-surface-changes-in-single]] — 단관 vs 3본 임플란트 지지 지르코니아 보철물 교합면 마모 비교: 12개월 단관 14.6 μm vs 3본 19.8 μm (p<0.001), 합병증률 9.4% vs 25.0%
 - [[dental-materials/zirconia/gulmez-2025-impact-of-sintering-speed-and]] — 고속 소결은 굴곡강도·반투명도에 유의한 영향 없음(p>0.05); 3Y-TZP 굴곡강도 ~891–1081 MPa, 5Y-PSZ ~508–568 MPa; 이트리아 함량이 지배 변수
 - [[dental-materials/zirconia/kheur-2022-a-comparative-study-on-simulated]] — 의자측 연삭 버 종류·연마 프로토콜 비교: 텅스텐 카바이드 버 금지(FS 496 MPa↓), 다이아몬드 버 + 다이아몬드 연마 페이스트 권장(Ra 0.24 µm)
+- [[dental-materials/zirconia/kim-2026-trueness-and-the-amount-of]] — DLP 지르코니아 크라운 빌드 앵글(0°/45°/90°) vs 밀링 within-patient 임상 비교: 0° RMS 49.0 µm 최우수 적합도·교합조정 25.7 µm 최소, 밀링 인타글리오 조정 56.5 µm 최대 (n=10, 40크라운)
+- [[dental-materials/zirconia/kozmacs-2017-polishing-of-monolithic-zirconia-crowns]] — 단일체 지르코니아 임상 내 폴리싱: 술자 경험(학생·치과의사·기공사) 간 Ra 차이 없음, 15초 제한 시에도 동일, Komet 2단계 키트 (2017 파일럿, n=48 크라운)
+- [[dental-materials/zirconia/kulvarangkun-2022-experimental-study-of-surface-roughness]] — 세라믹 3종(장석질·리튬 디실리케이트·지르코니아) 연마 세트 비교: LiDi·지르코니아 세트 모두 Ra <0.2 μm 달성, 장석질 세트·글레이징보다 유의하게 우수 (Jota 1433/1434 동등)
+- [[dental-materials/zirconia/lee-2019-the-effects-of-surface-grinding]] — 3Y-TZP 고속 연삭: 조립 버 연마 생략 시 단사정 상변환 최대·굴곡강도 최저, 전군 500 MPa 초과 임상 허용, 연마 필수
+- [[dental-materials/zirconia/limpuangthip-2023-surface-roughness-and-hardness-of]] — EVE Diacera 범용 연마 키트로 VITA YZ·Celtra Duo·IPS e.max CAD 세 가지 CAD/CAM 세라믹을 60s 연마 후 모두 법랑질 수준(Ra 0.573 µm)에 도달; VITA YZ 최대 ΔRa 1.243 µm, 경도는 모든 소재 불변
+- [[dental-materials/zirconia/liu-2023-the-impact-of-different-polishing]] — Y-TZP 크라운 구내 연마: 20,000 RPM에서 치수 손상 역치(5.5°C) 초과(≥8°C), 10,000 RPM은 유의하게 안전(p<.0001); 순환수 모의 치수혈류 최초 적용
+- [[dental-materials/zirconia/lunkad-2025-evaluation-of-surface-roughness-of]] — MMLZ 표면조도: 3종 연마 시스템(EVE Diacera·SS White·Ultradent Jiffy) 모두 플래시 멸균 10주기 후에도 임상 허용 기준(Ra 최대 0.0325 μm, 역치 0.5 μm) 충족; 주기별 차이 없음
+- [[dental-materials/zirconia/mazzir-2026-color-stability-of-extrinsically-colored]] — 외재성 착색 단일체 지르코니아 색 안정성 서술적 고찰: 교합면 조정 >100 μm 시 ΔE00 >1.8 초과, 유약 처리가 연마보다 색 안정성 보존에 우수 (9편 체외 연구 종합)
 - [[dental-materials/zirconia/steiner-2024-zirconia-conditioning-glazing-enamel-wear]] — in-vitro(Springer 2024): 표면 조절 유형(연삭 후 상태) × 유약 지르코니아 법랑질 마모 — 유약 하 표면 상태가 마모 결정; 매끄러운 기저면이 핵심
 - [[dental-materials/zirconia/aljomard-2022-enamel-wear-monolithic-zirconia-sr-ma]] — SR+MA(Wiley 2022): 단일체 지르코니아 법랑질 마모 — 연마 Zr 법랑질 마모 최소; 유약 > 연마; 임상적으로 허용 가능 수준
 - [[dental-materials/zirconia/shah-2024-enamel-wear-zirconia-umbrella-review]] — 우산형 SR(JPIS 2024): 지르코니아 법랑질 마모 in-vitro 연구 포괄 분석 — 연마 지르코니아 법랑질 마모 최소; 표면 거칠기 Ra 0.2µm 이하 목표
