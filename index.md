@@ -1479,6 +1479,11 @@ tags: []
 - [[dental-materials/zirconia/alfrisany-2019-occlusal-adjustments-zirconia-enamel-wear]] — in-vitro(J Appl Oral Sci 2019): 교합 조정 후 지르코니아(연마) vs 법랑질 인공치아 마모 — 연마 Zr 인공 법랑질 마모↑(역설적); 대합치 재료 경도 차이 원인
 - [[dental-materials/zirconia/tachibana-2021-polishing-zirconia-antagonist-wear]] — in-vitro(J Prosthodont 2021): 연마 지르코니아 vs 유약 지르코니아 대합 법랑질 마모 — 연마 < 유약 법랑질 손상; 표면 Ra 상관
 - [[dental-materials/zirconia/mohammadi-bassir-2017-grinding-overglazing-polishing-zirconia]] — in-vitro(JPD 2017): 연삭 후 과유약·연마 처리 지르코니아 굴곡강도 — 과유약 = 연삭 강도 완전 회복; 연마 부분 회복
+- [[dental-materials/zirconia/caglar-2018-the-effect-of-various-polishing]] — in-vitro(J Adv Prosthodont 2018, n=100): 의자 옆 교합 조정 시뮬레이션 후 연마 프로토콜 — 고무 포인트+연마 페이스트가 표면 거칠기(Ra) 가장 효과적 복원; 단상 변환 위험 없음
+- [[dental-materials/zirconia/desouza-2020-flexural-strength-and-crystalline-stability]] — in-vitro(2020, n=90, 3Y-TZP): 단일체 반투명 지르코니아 표면 조절(다이아몬드 버/AlO₂ 샌드블라스팅/연마) — 굴곡강도·결정 안정성 비교; 연마가 단상 변환 최소화
+- [[dental-materials/zirconia/candido-2022-effect-of-grinding-and-regenerative]] — in-vitro(J Adhes Dent 2022): Y-TZP 연삭 후 열처리(재생 소결) — 단상 변환 역전되나 베니어 도재 결합강도 저하 없음; 연삭→열처리→베니어 가능
+- [[dental-materials/zirconia/chen-2022-effects-of-different-polishing-systems]] — in-vitro(2022, n=48, ST 지르코니아): 교합 조정 후 연마 시스템 5종 비교 — Ra 목표 0.2 µm 이하 달성; 2단계 고무 포인트 계열 최적
+- [[dental-materials/zirconia/agar-2025-effect-of-finishing-protocol-treatments]] — in-vitro(2025, n=60, 초투명 지르코니아): 마무리 프로토콜(연마/글레이징/착색+글레이징) × 칫솔질 10,000회 — 색 안정성 착색+글레이징 최우수(ΔE00≈0.33); 연마군 색차 최대(ΔEab=1.02); 전군 지각역치 이내
 - [[dental-materials/zirconia/steiner-2024-zirconia-conditioning-glazing-enamel-wear]] — in-vitro(Springer 2024): 표면 조절 유형(연삭 후 상태) × 유약 지르코니아 법랑질 마모 — 유약 하 표면 상태가 마모 결정; 매끄러운 기저면이 핵심
 - [[dental-materials/zirconia/aljomard-2022-enamel-wear-monolithic-zirconia-sr-ma]] — SR+MA(Wiley 2022): 단일체 지르코니아 법랑질 마모 — 연마 Zr 법랑질 마모 최소; 유약 > 연마; 임상적으로 허용 가능 수준
 - [[dental-materials/zirconia/shah-2024-enamel-wear-zirconia-umbrella-review]] — 우산형 SR(JPIS 2024): 지르코니아 법랑질 마모 in-vitro 연구 포괄 분석 — 연마 지르코니아 법랑질 마모 최소; 표면 거칠기 Ra 0.2µm 이하 목표
@@ -1497,7 +1502,10 @@ tags: []
 - [[dental-materials/omar-2026-marginal-gap-additive-subtractive-nanoceramic]] — Omar 2026 · in-vitro (BMC Oral Health): 임플란트 하이브리드 나노세라믹(Nanoksa) 크라운 마진갭 — 밀링(34–38µm)이 3D 프린팅(60–64µm)보다 열가공 노화 전후 모두 유의하게 우수
 
 - [[dental-materials/bollen-1997-comparison-surface-roughness-oral-hard]] — 구강 경조직 표면조도 임계값(R_a ≈ 0.2 µm)과 세균성 치태 부착: 재료별 연마/처리 영향 (1980s–90s 문헌 검토, abstract-only)
+- [[dental-materials/ekpanithanpong-2026-effect-of-various-polishing-systems]] — in-vitro(BMC Oral Health 2026, n=100; LD + 초고투명 지르코니아): 의자 옆 조정 후 연마 시스템 5종 — Meisinger Twist 계열 양재료 Ra 최저 달성; LD는 Optrafine도 임계값 이하
 - [[dental-materials/ceramic/moeeduddin-2020-firing-etching-zls-theracem-bond]] — ZLS(지르코니아 강화 리튬실리케이트) + TheraCem 인장결합강도; 소성 1회·산 에칭 45초 최고(4.83 MPa); 에칭 농도는 유의미하지 않음 (in vitro)
+- [[dental-materials/ceramic/avrahami-2026-the-effect-of-diamond-bur]] — in-vitro(2026, n=32, ZLS Celtra Duo): 의자 옆 조정용 다이아몬드 버 마모도와 ZLS 크라운 변연 적합성 — 버 마모 증가 시 마진갭 유의 증가; 정기적 버 교체 권장
+- [[dental-materials/ceramic/baroudi-2025-clinical-adjustment-of-zirconia-reinforced]] — in-vitro(2025, n=60, ZLS 2종): 결정화 전 vs 후 교합 조정 시점 × 2가지 연마 프로토콜 — 결정화 전 조정+최종 소성 조합이 굴곡강도 최대 보존
 
 ## 글래스아이오노머 (Glass Ionomer)
 - [[glass-ionomer/sokolowski-2018-ion-releasing-polymeric-materials-contraction-stress]] — Sokolowski 2018 · in-vitro · 이온유리 수복재 10종 광탄성 응력 평가, Ionosit(컴포머) 최고 수분흡수·56일 후 팽창응력 (DOI 10.3390/polym10101093)
