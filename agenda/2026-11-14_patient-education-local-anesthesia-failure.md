@@ -10,6 +10,7 @@ source_wiki:
   - wiki/overviews/local-anesthetic-mechanism-ianb-failure-overview.md
 output:
   - slides/2026-11-14_patient_local-anesthesia-why-it-fails.md
+  - interactives/2026-11-14_patient-education_local-anesthesia-failure.html
 ---
 
 # Goal
