@@ -1553,6 +1553,7 @@ tags: []
 - [[digital-workflow/ramos-morro-2026-patient-perception-reliability-reproducibility-chairside]] — 성인 대상 IOS vs 재래식 인상 체계적문헌고찰(10편, PRISMA+QUADAS-2), 메타분석 불가; 정확도는 혼재, 의자옆시간·환자편의는 2편씩만 측정했으나 둘 다 IOS 유의하게 우수(예: 12분 vs 75.5분, VAS 9.02 vs 6.5)
 - [[digital-workflow/schlenz-2022-transfer-accuracy-digital-conventional-full-arch]] — Schlenz 2022 · in-vitro · 기준체 기반 전악 인상 전이정확도, 구강스캐너 5종(Primescan·Trios 4·Emerald S·CS3600·Medit i500) vs 알지네이트 × 고정성 교정장치 5세팅(자연치/금속·세라믹 브라켓 ±와이어): 브라켓 있는 전 세팅에서 IOS 우위(39~105µm vs CAI 103~212µm)·Primescan 최속(평균 103초), **단 자연치에서는 알지네이트가 최상(21±20µm)** — 교정장치 유무가 우열을 뒤집는다 (DOI 10.1007/s00784-022-04721-5)
 - [[digital-workflow/ku-2022-accuracy-dental-implant-placement-computer-guided]] — Ku 2022 · retrospective (환자 34명/임플란트 89개, CBCT 중첩): 유도수술 입구점 편차 2.69 mm·각도 5.52° vs 가이드 포기 38개(42.7%) 14.53 mm·11.75°; 가이드군 내 무피판이 유피판보다 정확(2.22 vs 3.18 mm, P<0.001)·초기 ISQ도 높음(72.7 vs 55.8) — 포기 사유는 초기안정성 부족 19·해부학적 위험 9·천공 4·스텐트 적합불량 6
+- [[digital-workflow/sui-2026-influence-of-a-digital-versus]] — 후향 코호트(n=239, 베이징대 제1병원): 후방부 단일 임플란트 모놀리식 지르코니아 크라운 디지털(IOS+보조 교합 장치) vs 기존 워크플로우 — 최대·평균 교합 편차·조정 면적·OTR 모두 디지털 우위(P<0.001), ROF 분포 생리적(임플란트↓·인접치↑), 기공실 시간 단축, 조정 필요 크라운 감소(2026)
 
 ## 교정치료 (Orthodontics)
 
