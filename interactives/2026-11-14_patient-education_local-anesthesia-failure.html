@@ -1,0 +1,602 @@
+<!--
+---
+title: "마취가 잘 안 될 때 — 환자 설명 슬라이드"
+type: interactive
+date: 2026-11-14
+status: done
+category: drug
+source_wiki:
+  - wiki/overviews/local-anesthetic-mechanism-ianb-failure-overview.md
+  - wiki/local-anesthesia/becker-2012-local-anesthetics-pharmacological-considerations.md
+  - wiki/local-anesthesia/kanaa-2012-supplementary-techniques-failed-ianb-irreversible-pulpitis.md
+  - wiki/local-anesthesia/ghosh-2025-aceclofenac-intraligamentary-failed-ianb.md
+agenda: agenda/2026-11-14_patient-education-local-anesthesia-failure.md
+tags: [local-anesthesia, patient-education, IANB, SIP, supplemental-injection]
+---
+-->
+<title>마취가 잘 안 될 때</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&family=DM+Sans:wght@400;500;700&display=swap">
+
+<style>
+/* ── Design tokens (라이트 고정 — OPERATIONS.md §7) ───────────── */
+:root {
+  --bg:         #F8FAFB;
+  --surface:    #FFFFFF;
+  --fg:         #1A2332;
+  --fg-muted:   #5A6A7E;
+  --accent:     #0D8A8A;
+  --accent-lt:  #E6F5F5;
+  --accent-dk:  #0A6E6E;
+  --warn:       #E05C2A;
+  --good:       #1E9E6B;
+  --border:     #E2E8F0;
+  --shadow:     0 2px 12px rgba(13,138,138,.10);
+  --r:          12px;
+
+  --f-heading: 'DM Sans', 'Noto Sans KR', sans-serif;
+  --f-body:    'Noto Sans KR', 'DM Sans', sans-serif;
+
+  color-scheme: light;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  height: 100%;
+  font-family: var(--f-body);
+  background: var(--bg);
+  color: var(--fg);
+  overflow: hidden;
+}
+
+/* ── App shell ─────────────────────────────────────────────── */
+#app {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  padding-left: max(16px, env(safe-area-inset-left,0px));
+  padding-right: max(16px, env(safe-area-inset-right,0px));
+  padding-block: 0;
+}
+
+/* Progress bar */
+#progress-bar {
+  height: 3px;
+  background: var(--border);
+  flex-shrink: 0;
+}
+#progress-fill {
+  height: 100%;
+  background: var(--accent);
+  transition: width .4s ease;
+}
+
+/* Slide area */
+#stage {
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+
+.slide {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: clamp(24px, 5vw, 60px) clamp(20px, 6vw, 80px);
+  opacity: 0;
+  transform: translateX(60px);
+  transition: opacity .35s ease, transform .35s ease;
+  pointer-events: none;
+}
+.slide.active {
+  opacity: 1;
+  transform: translateX(0);
+  pointer-events: auto;
+}
+.slide.exit {
+  opacity: 0;
+  transform: translateX(-60px);
+}
+
+/* Slide inner card */
+.slide-card {
+  width: 100%;
+  max-width: 820px;
+  background: var(--surface);
+  border-radius: var(--r);
+  box-shadow: var(--shadow);
+  padding: clamp(28px, 4vw, 52px) clamp(24px, 5vw, 56px);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* Cover slide */
+.slide.cover .slide-card {
+  background: var(--accent);
+  color: #fff;
+  text-align: center;
+  gap: 14px;
+}
+.cover .eyebrow {
+  font-size: .78rem;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  opacity: .75;
+  font-family: var(--f-heading);
+}
+.cover h1 {
+  font-family: var(--f-heading);
+  font-size: clamp(1.8rem, 5vw, 3rem);
+  font-weight: 900;
+  line-height: 1.15;
+  text-wrap: balance;
+}
+.cover h2 {
+  font-size: clamp(1rem, 2.5vw, 1.4rem);
+  font-weight: 400;
+  opacity: .85;
+}
+.cover .tag {
+  display: inline-block;
+  margin-top: 4px;
+  font-size: .78rem;
+  background: rgba(255,255,255,.18);
+  padding: 4px 12px;
+  border-radius: 20px;
+  letter-spacing: .06em;
+}
+
+/* Summary slide */
+.slide.summary .slide-card {
+  background: var(--accent-lt);
+  border: 2px solid var(--accent);
+}
+
+/* Typography */
+.slide-title {
+  font-family: var(--f-heading);
+  font-size: clamp(1.25rem, 3.2vw, 1.9rem);
+  font-weight: 700;
+  line-height: 1.25;
+  color: var(--fg);
+  text-wrap: balance;
+}
+.slide-body {
+  font-size: clamp(.88rem, 2vw, 1.05rem);
+  line-height: 1.75;
+  color: var(--fg);
+}
+.slide-body p + p { margin-top: .9em; }
+
+.highlight {
+  background: var(--accent-lt);
+  color: var(--accent-dk);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 6px 6px 0;
+  padding: 10px 16px;
+  font-size: clamp(.88rem, 1.8vw, 1rem);
+  line-height: 1.6;
+}
+
+/* Tables */
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: clamp(.8rem, 1.8vw, .95rem);
+}
+.data-table th {
+  background: var(--accent);
+  color: #fff;
+  padding: 8px 14px;
+  text-align: left;
+  font-family: var(--f-heading);
+  font-weight: 600;
+  font-size: .82rem;
+}
+.data-table th:first-child { border-radius: 6px 0 0 0; }
+.data-table th:last-child  { border-radius: 0 6px 0 0; }
+.data-table td {
+  padding: 9px 14px;
+  border-bottom: 1px solid var(--border);
+  color: var(--fg);
+  vertical-align: middle;
+}
+.data-table tr:last-child td { border-bottom: none; }
+.data-table tr:nth-child(even) td { background: var(--accent-lt); }
+.data-table .best { font-weight: 700; color: var(--good); }
+.data-table .num  { font-variant-numeric: tabular-nums; font-weight: 600; }
+
+.table-wrap { overflow-x: auto; border-radius: 6px; border: 1px solid var(--border); min-width: 0; }
+
+/* Big stat boxes */
+.stat-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 12px;
+}
+.stat-box {
+  background: var(--accent-lt);
+  border: 1.5px solid var(--accent);
+  border-radius: 10px;
+  padding: 14px 16px;
+  text-align: center;
+}
+.stat-box .val {
+  font-family: var(--f-heading);
+  font-size: clamp(1.5rem, 4vw, 2.4rem);
+  font-weight: 900;
+  color: var(--accent);
+  line-height: 1;
+}
+.stat-box .label {
+  font-size: .78rem;
+  color: var(--fg-muted);
+  margin-top: 4px;
+  line-height: 1.4;
+}
+.stat-box.warn { border-color: var(--warn); background: #fff5f1; }
+.stat-box.warn .val { color: var(--warn); }
+.stat-box.good { border-color: var(--good); background: #f0fbf5; }
+.stat-box.good .val { color: var(--good); }
+
+/* Comparison */
+.compare-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+}
+.compare-box {
+  border-radius: 10px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.compare-box .label { font-size: .8rem; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; opacity: .7; }
+.compare-box .value { font-family: var(--f-heading); font-size: 1.8rem; font-weight: 900; }
+.compare-box .desc { font-size: .85rem; line-height: 1.5; color: var(--fg-muted); }
+.compare-box.ok  { background: var(--good); color: #fff; }
+.compare-box.ok .desc { color: rgba(255,255,255,.8); }
+.compare-box.bad { background: var(--warn); color: #fff; }
+.compare-box.bad .desc { color: rgba(255,255,255,.8); }
+
+/* Nav bar */
+#nav {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0 max(10px, env(safe-area-inset-bottom,0px));
+  gap: 12px;
+}
+.nav-btn {
+  background: var(--surface);
+  border: 1.5px solid var(--border);
+  border-radius: 50px;
+  padding: 8px 20px;
+  font-family: var(--f-body);
+  font-size: .85rem;
+  color: var(--fg);
+  cursor: pointer;
+  transition: background .15s, border-color .15s;
+  white-space: nowrap;
+}
+.nav-btn:hover { background: var(--accent-lt); border-color: var(--accent); color: var(--accent); }
+.nav-btn:disabled { opacity: .3; cursor: default; }
+.nav-btn:disabled:hover { background: var(--surface); border-color: var(--border); color: var(--fg); }
+
+#dots {
+  display: flex;
+  gap: 7px;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--border);
+  cursor: pointer;
+  transition: background .2s, transform .2s;
+}
+.dot.active {
+  background: var(--accent);
+  transform: scale(1.4);
+}
+
+/* Slide counter */
+#counter {
+  font-size: .78rem;
+  color: var(--fg-muted);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+/* Responsive */
+@media (max-width: 520px) {
+  .compare-row { grid-template-columns: 1fr; }
+  .stat-row { grid-template-columns: 1fr 1fr; }
+  .slide-card { padding: 22px 18px; }
+}
+</style>
+
+<div id="app">
+  <div id="progress-bar"><div id="progress-fill"></div></div>
+
+  <div id="stage">
+
+    <!-- Slide 1: Cover -->
+    <div class="slide cover active" data-index="0">
+      <div class="slide-card">
+        <div class="eyebrow">치과 치료 안내</div>
+        <h1>마취가 잘<br>안 될 때</h1>
+        <h2>왜 그런지, 어떻게 해결하는지</h2>
+        <div class="tag">환자분 설명용</div>
+      </div>
+    </div>
+
+    <!-- Slide 2 -->
+    <div class="slide" data-index="1">
+      <div class="slide-card">
+        <div class="slide-title">치료를 시작하기 전에</div>
+        <div class="slide-body">
+          <p>치통이 심하거나, 오래된 치아를 치료할 때<br>마취가 평소보다 잘 안 들기도 합니다.</p>
+          <p>이게 왜 생기는 건지, 그리고 어떻게 해결하는지<br>잠깐 설명드릴게요.</p>
+        </div>
+        <div class="highlight">
+          미리 아시면 치료 중에 덜 당황하실 수 있습니다.
+        </div>
+      </div>
+    </div>
+
+    <!-- Slide 3 -->
+    <div class="slide" data-index="2">
+      <div class="slide-card">
+        <div class="slide-title">마취약은 어떻게 통증을 차단하나요?</div>
+        <div class="slide-body">
+          <p>치과 마취약은 신경에 있는 <strong>나트륨 통로(Na⁺ channel)</strong>를 막아서<br>통증 신호가 뇌로 전달되지 못하게 합니다.</p>
+        </div>
+        <div class="stat-row">
+          <div class="stat-box">
+            <div class="val">치아</div>
+            <div class="label">통증 발생</div>
+          </div>
+          <div class="stat-box">
+            <div class="val">→</div>
+            <div class="label">신경</div>
+          </div>
+          <div class="stat-box">
+            <div class="val">✗</div>
+            <div class="label">마취약이 차단</div>
+          </div>
+          <div class="stat-box good">
+            <div class="val">🧠</div>
+            <div class="label">뇌에 신호 없음</div>
+          </div>
+        </div>
+        <div class="slide-body">
+          <p>이 과정이 제대로 작동하면 치료 중에 아프지 않습니다.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Slide 4 -->
+    <div class="slide" data-index="3">
+      <div class="slide-card">
+        <div class="slide-title">치아가 많이 아플 때는 왜 다를까요?</div>
+        <div class="slide-body">
+          <p>치아에 염증이 심하면 그 주변 조직의 <strong>산성도(pH)</strong>가 낮아집니다.</p>
+        </div>
+        <div class="table-wrap">
+          <table class="data-table">
+            <tr><th>상태</th><th>조직 pH</th><th>마취약 작동 비율</th></tr>
+            <tr><td>정상 치아</td><td class="num">7.4</td><td class="num">약 25%</td></tr>
+            <tr><td>염증이 있는 치아</td><td class="num">6.5</td><td class="num best">약 8% ↓</td></tr>
+            <tr><td>염증이 심한 치아</td><td class="num">5.5</td><td class="num best" style="color:var(--warn)">약 1% ↓</td></tr>
+          </table>
+        </div>
+        <div class="highlight">
+          염증이 심하면 마취약이 신경 안으로 들어가는 비율이 <strong>최대 25배까지</strong> 떨어집니다.
+        </div>
+      </div>
+    </div>
+
+    <!-- Slide 5 -->
+    <div class="slide" data-index="4">
+      <div class="slide-card">
+        <div class="slide-title">쉽게 말하면…</div>
+        <div class="compare-row">
+          <div class="compare-box ok">
+            <div class="label">정상 치아</div>
+            <div class="value">25%</div>
+            <div class="desc">마취약이 신경 안으로 들어가 차단됨 ✅</div>
+          </div>
+          <div class="compare-box bad">
+            <div class="label">염증이 심한 치아</div>
+            <div class="value">1%</div>
+            <div class="desc">거의 들어가지 못해 차단 불충분 ❌</div>
+          </div>
+        </div>
+        <div class="slide-body">
+          <p>약의 문제가 아니라 <strong>치아 주변 환경이 바뀐 것</strong>입니다.<br>마취약을 더 많이 놓아도 같은 한계가 있습니다.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Slide 6 -->
+    <div class="slide" data-index="5">
+      <div class="slide-card">
+        <div class="slide-title">얼마나 자주 있는 일인가요?</div>
+        <div class="slide-body">
+          <p>신경 치료가 필요한 염증이 심한 치아(하악 어금니 기준)에서:</p>
+        </div>
+        <div class="stat-row">
+          <div class="stat-box good">
+            <div class="val">15–67%</div>
+            <div class="label">처음 마취로<br>완전히 차단되는 경우</div>
+          </div>
+          <div class="stat-box warn">
+            <div class="val">33–85%</div>
+            <div class="label">추가 조치가<br>필요한 경우</div>
+          </div>
+        </div>
+        <div class="highlight">
+          치통이 심했던 치아는 추가 마취가 필요한 경우가 <strong>흔합니다.</strong>
+        </div>
+      </div>
+    </div>
+
+    <!-- Slide 7 -->
+    <div class="slide" data-index="6">
+      <div class="slide-card">
+        <div class="slide-title">그럼 어떻게 해결하나요?</div>
+        <div class="slide-body">
+          <p>추가 마취 방법이 있습니다. 연구에서 확인된 성공률입니다:</p>
+        </div>
+        <div class="table-wrap">
+          <table class="data-table">
+            <tr><th>방법</th><th>설명</th><th>성공률</th></tr>
+            <tr><td class="best">협측 침윤</td><td>볼 쪽 잇몸에 추가 주사</td><td class="num best">84%</td></tr>
+            <tr><td>골내 주사</td><td>뼈 안에 직접 주사</td><td class="num">68%</td></tr>
+            <tr><td>치주인대 주사</td><td>치아 뿌리 옆에 주사</td><td class="num">48%</td></tr>
+            <tr><td>같은 주사 반복</td><td>처음과 동일한 방법</td><td class="num" style="color:var(--warn)">32%</td></tr>
+          </table>
+        </div>
+        <div class="highlight">
+          가장 흔히 쓰는 방법은 <strong>볼 쪽 잇몸에 추가 주사</strong>입니다.
+        </div>
+      </div>
+    </div>
+
+    <!-- Slide 8 -->
+    <div class="slide" data-index="7">
+      <div class="slide-card">
+        <div class="slide-title">추가 주사를 맞을 때 아프지 않나요?</div>
+        <div class="slide-body">
+          <p>추가 주사는 이미 어느 정도 마취된 상태에서 맞습니다.</p>
+          <p>첫 번째 마취가 완전하지 않아도 <strong>감각이 둔해진 상태</strong>이기 때문에<br>추가 주사는 대부분 많이 아프지 않습니다.</p>
+        </div>
+        <div class="highlight">
+          불편한 느낌이 있으면 바로 말씀해 주세요.<br>치료를 멈추고 더 보완하겠습니다.
+        </div>
+      </div>
+    </div>
+
+    <!-- Slide 9 -->
+    <div class="slide" data-index="8">
+      <div class="slide-card">
+        <div class="slide-title">최선의 방법</div>
+        <div class="slide-body">
+          <p>사전에 소염제를 복용하고 추가 주사를 조합하면<br>성공률이 <strong>87%까지</strong> 올라갑니다.</p>
+        </div>
+        <div class="stat-row">
+          <div class="stat-box good">
+            <div class="val">87%</div>
+            <div class="label">소염제 + 아티카인 치주인대주사<br>조합 성공률</div>
+          </div>
+        </div>
+        <div class="slide-body">
+          <p><strong>오늘 치료 계획:</strong><br>처음 마취 → 반응 확인 → 필요 시 추가 주사</p>
+          <p>중간에 불편하시면 언제든지 손을 들어 알려주세요.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Slide 10: Summary -->
+    <div class="slide summary" data-index="9">
+      <div class="slide-card">
+        <div class="slide-title">정리</div>
+        <div class="table-wrap">
+          <table class="data-table">
+            <tr><th>질문</th><th>답변</th></tr>
+            <tr><td>왜 잘 안 듣나요?</td><td>염증으로 마취약이 신경에 닿기 어려움 (pH 저하)</td></tr>
+            <tr><td>흔한 일인가요?</td><td>치통이 심한 치아에서 흔함 (최대 85%)</td></tr>
+            <tr><td>해결 방법은?</td><td>추가 주사로 84–87% 해결 가능</td></tr>
+          </table>
+        </div>
+        <div class="highlight" style="text-align:center; font-size:1.05rem;">
+          <strong>불편하시면 언제든 말씀해 주세요.</strong><br>
+          함께 완전히 마취된 상태에서 치료합니다. 😊
+        </div>
+      </div>
+    </div>
+
+  </div><!-- /stage -->
+
+  <div id="nav">
+    <button class="nav-btn" id="btn-prev" disabled>← 이전</button>
+    <div style="display:flex;flex-direction:column;align-items:center;gap:6px;">
+      <div id="dots"></div>
+      <div id="counter">1 / 10</div>
+    </div>
+    <button class="nav-btn" id="btn-next">다음 →</button>
+  </div>
+</div>
+
+<script>
+const slides = document.querySelectorAll('.slide');
+const total  = slides.length;
+let cur = 0;
+
+const fill    = document.getElementById('progress-fill');
+const counter = document.getElementById('counter');
+const btnPrev = document.getElementById('btn-prev');
+const btnNext = document.getElementById('btn-next');
+const dots    = document.getElementById('dots');
+
+// build dots
+slides.forEach((_, i) => {
+  const d = document.createElement('button');
+  d.className = 'dot' + (i === 0 ? ' active' : '');
+  d.setAttribute('aria-label', `슬라이드 ${i+1}`);
+  d.onclick = () => go(i);
+  dots.appendChild(d);
+});
+
+function go(next) {
+  if (next === cur) return;
+  const prev = cur;
+  slides[prev].classList.add('exit');
+  slides[prev].classList.remove('active');
+  setTimeout(() => slides[prev].classList.remove('exit'), 400);
+
+  cur = next;
+  slides[cur].classList.add('active');
+
+  // dots
+  dots.querySelectorAll('.dot').forEach((d, i) => d.classList.toggle('active', i === cur));
+  // progress
+  fill.style.width = ((cur / (total - 1)) * 100) + '%';
+  // counter
+  counter.textContent = `${cur + 1} / ${total}`;
+  // buttons
+  btnPrev.disabled = cur === 0;
+  btnNext.disabled = cur === total - 1;
+}
+
+btnPrev.onclick = () => go(Math.max(0, cur - 1));
+btnNext.onclick = () => go(Math.min(total - 1, cur + 1));
+
+// keyboard
+document.addEventListener('keydown', e => {
+  if (e.key === 'ArrowRight' || e.key === 'ArrowDown') go(Math.min(total-1, cur+1));
+  if (e.key === 'ArrowLeft'  || e.key === 'ArrowUp')   go(Math.max(0, cur-1));
+});
+
+// touch swipe
+let tx = 0;
+document.getElementById('stage').addEventListener('touchstart', e => { tx = e.touches[0].clientX; }, {passive:true});
+document.getElementById('stage').addEventListener('touchend', e => {
+  const dx = e.changedTouches[0].clientX - tx;
+  if (Math.abs(dx) > 50) go(dx < 0 ? Math.min(total-1, cur+1) : Math.max(0, cur-1));
+}, {passive:true});
+
+// init progress
+fill.style.width = '0%';
+</script>
