@@ -51,7 +51,6 @@ CATEGORIES = [
     ("ortho",                  "교정"),
     ("imaging",                "영상·방사선·AI"),
     ("patient-ops",            "환자 커뮤니케이션·행동·운영"),
-    ("lecture-slides",         "강의 슬라이드 — 환자·직원 교육"),
     ("role-portal",            "역할별 포털 — 원장·위생사·데스크"),
     ("reference",              "레퍼런스·유틸리티"),
     ("meta",                   "메타 · 위키 성장"),
