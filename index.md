@@ -1507,6 +1507,14 @@ tags: []
 - [[dental-materials/zirconia/phuntusuntorn-2026-effect-of-surface-adjustment-and]] — 연마(FP) 후 3Y-TZP 굴곡강도 1213→1704 MPa(+40%), 5Y-PSZ 중등도 향상, 6Y-PSZ 무변화; 열수 노화(134°C·5h)는 세 재료 모두 유의한 기계적 변화 없음
 - [[dental-materials/zirconia/pott-2018-polish-of-interface-areas-between]] — 지르코니아·규산염 세라믹·복합레진 인터페이스 구강 내 폴리싱: 3종 다이아몬드 시스템 모두 지르코니아 Ra < 0.20 µm 달성(글레이즈 동등), 혼합 재료 폴리싱 순서 지르코니아→비니어→레진 권장
 - [[dental-materials/zirconia/regulska-2021-analysis-of-the-surface-condition]] — 3Y-TZP 기계적 처리군 XRD 분석: 연마가 연삭보다 단사정상 함량 최소, 경사입사 XRD로 표면농도 구배 확인, SFE 비극성 성분 지배(27–36 mJ/m²)
+- [[dental-materials/zirconia/rosentritt-2024-cutting-efficiency-of-diamond-grinders]] — 다이아몬드 버 절삭 효율: 3Y-TZP는 복합레진 대비 5배 긴 연마 시간 필요; 버 종류 간 유의한 차이, Z-CUT 버 4회 절삭 후 안정적 유지
+- [[dental-materials/zirconia/sayed-2024-influence-of-chairside-simulated-adjustment]] — ChG 구강세정제 2주 침지 시 조정된 단일체 지르코니아에 ΔE 1.0–3.3 색변화; 최종 글레이즈 전 모든 조정 완료 필수
+- [[dental-materials/zirconia/sayed-2024-the-impact-of-repeated-steam]] — EVE Diacera CAK 증기멸균: 플래시(134°C) ≤10회·표준(121°C) ≤15회에서 Ra 0.25 µm 임상 허용 임계값 초과
+- [[dental-materials/zirconia/shin-2021-comparison-of-surface-topography-and]] — 3Y/4Y/5Y-TZP 연삭 후 3단계 연마 비교: 이트리아 조성 간 Ra 차이 없음; 미세연마(P3) < 글레이즈 Ra; XRD 상전환 없음 확인
+- [[dental-materials/zirconia/soares-2024-optical-properties-and-color-stability]] — 3Y-TZP 레드와인 색안정성: 연삭단독군 ΔE00 > 1.8(임상 불허); 글레이즈 최우수; 투광성·유백광은 처리 무관 안정
+- [[dental-materials/zirconia/wertz-2021-the-influence-of-surface-preparation]] — 기계적 처리(연삭·연마·저작)가 단사정상을 역전·소멸시킴 — LTD와 반대 방향; Rietveld가 Garvie-Nicholson보다 다상 정량 정확
+- [[dental-materials/zirconia/yahyazadehfar-2021-effect-of-different-surface-treatments]] — Er,Cr:YSGG 레이저 Vm=1.2%(최저)+Weibull m=20.5(최고 신뢰성); 버 연삭 Ra 1.87 µm+Vm 4.7%(최불량); Ra↔굴곡강도 무상관
+- [[dental-materials/zirconia/yoo-2022-analysis-of-surface-characteristics-of]] — (Y,Nb)-TZP 체어사이드 블록 연삭 후 Ra·단사정상↑; 2단계 연마 후 Ra 차이 소실·M상 감소; 고속 버 삭제 후 순차 연마 필수
 - [[dental-materials/zirconia/steiner-2024-zirconia-conditioning-glazing-enamel-wear]] — in-vitro(Springer 2024): 표면 조절 유형(연삭 후 상태) × 유약 지르코니아 법랑질 마모 — 유약 하 표면 상태가 마모 결정; 매끄러운 기저면이 핵심
 - [[dental-materials/zirconia/aljomard-2022-enamel-wear-monolithic-zirconia-sr-ma]] — SR+MA(Wiley 2022): 단일체 지르코니아 법랑질 마모 — 연마 Zr 법랑질 마모 최소; 유약 > 연마; 임상적으로 허용 가능 수준
 - [[dental-materials/zirconia/shah-2024-enamel-wear-zirconia-umbrella-review]] — 우산형 SR(JPIS 2024): 지르코니아 법랑질 마모 in-vitro 연구 포괄 분석 — 연마 지르코니아 법랑질 마모 최소; 표면 거칠기 Ra 0.2µm 이하 목표
@@ -1586,6 +1594,7 @@ tags: []
 - [[digital-workflow/ku-2022-accuracy-dental-implant-placement-computer-guided]] — Ku 2022 · retrospective (환자 34명/임플란트 89개, CBCT 중첩): 유도수술 입구점 편차 2.69 mm·각도 5.52° vs 가이드 포기 38개(42.7%) 14.53 mm·11.75°; 가이드군 내 무피판이 유피판보다 정확(2.22 vs 3.18 mm, P<0.001)·초기 ISQ도 높음(72.7 vs 55.8) — 포기 사유는 초기안정성 부족 19·해부학적 위험 9·천공 4·스텐트 적합불량 6
 - [[digital-workflow/sui-2026-influence-of-a-digital-versus]] — 후향 코호트(n=239, 베이징대 제1병원): 후방부 단일 임플란트 모놀리식 지르코니아 크라운 디지털(IOS+보조 교합 장치) vs 기존 워크플로우 — 최대·평균 교합 편차·조정 면적·OTR 모두 디지털 우위(P<0.001), ROF 분포 생리적(임플란트↓·인접치↑), 기공실 시간 단축, 조정 필요 크라운 감소(2026)
 - [[digital-workflow/hashemi-2022-fully-digital-versus-conventional-workflows]] — 하악 후방 3유닛 ISFDP 디지털 vs. 기존 워크플로우 전향적 교차시험: 정확도·수동성·교합·미적 평가 동등, 총 제작시간 디지털 유의하게 단축 (p<0.001)
+- [[digital-workflow/saad-2024-reliability-of-the-digital-functionally]] — 디지털 기능적발생경로(Digital FGP) RCT: PSM 측방 교합 압력 20.62% vs 26.00%(p<0.0001); 밀링 전 편심 간섭 제거로 연삭 조정 최소화
 
 ## 교정치료 (Orthodontics)
 
@@ -5589,3 +5598,4 @@ tags: []
 - [[occlusion/patil-2026-masticatory-efficiency-single-implant-crown]] — Patil 2026 · prospective(비무작위, n=60) · 단일체 임플란트 크라운이 3-unit 금속도재 FPD보다 아몬드 분쇄 MP% 우수(3/6/12개월 28.4/32.1/35.7 vs 22.6/25.4/28.3, p=0.001) (DOI 10.7759/cureus.101229)
 - [[prosthetic-materials/zhang-2026-zirconia-restorations-inflammatory-masticatory-function]] — Zhang 2026 · retrospective(성향점수 79 vs 79) · 지르코니아 vs 금속도재 전장관: IL-6·CRP 더 크게 감소, 저작효율 78.6% vs 70.2%, CRP 효과 약 30%는 치은지수 매개 — **관찰연구, 인과 아님** (DOI 10.1097/md.0000000000046823)
 - [[overviews/masticatory-performance-measurement-overview]] — **종합** · 저작성능은 하나의 숫자가 아니다: 표준 검사 부재(COSMIN 40편) → PROM 측정오차 미검증 → 유병률 4.3–61.7% (I²=100%) → 중재 수치 합산 불가(MP% vs 색혼합%) → 지르코니아 축은 "접촉 정확도"에서 멈춘다
+- [[occlusion/risciotti-2024-digital-protocol-to-record-occlusal]] — IOS+PSM 디지털 교합분석 프로토콜 파일럿(37명, 52보철물): 77% 조정 불필요; 교합지 적합 확인이 편심 오류 방지의 핵심 단계
