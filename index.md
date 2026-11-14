@@ -1484,6 +1484,13 @@ tags: []
 - [[dental-materials/zirconia/candido-2022-effect-of-grinding-and-regenerative]] — in-vitro(J Adhes Dent 2022): Y-TZP 연삭 후 열처리(재생 소결) — 단상 변환 역전되나 베니어 도재 결합강도 저하 없음; 연삭→열처리→베니어 가능
 - [[dental-materials/zirconia/chen-2022-effects-of-different-polishing-systems]] — in-vitro(2022, n=48, ST 지르코니아): 교합 조정 후 연마 시스템 5종 비교 — Ra 목표 0.2 µm 이하 달성; 2단계 고무 포인트 계열 최적
 - [[dental-materials/zirconia/agar-2025-effect-of-finishing-protocol-treatments]] — in-vitro(2025, n=60, 초투명 지르코니아): 마무리 프로토콜(연마/글레이징/착색+글레이징) × 칫솔질 10,000회 — 색 안정성 착색+글레이징 최우수(ΔE00≈0.33); 연마군 색차 최대(ΔEab=1.02); 전군 지각역치 이내
+- [[dental-materials/zirconia/elmamooz-2025-evaluation-of-the-effect-of]] — 의자 옆 연삭 후 러버 연마 시 BFS 999.2 MPa (최고), 재유약 시 528.9 MPa (최저); 조정 면적 확대도 BFS 유의하게 증가 (p < 0.0001)
+- [[dental-materials/zirconia/elraggal-2022-effect-of-surface-treatments-on]] — LT 지르코니아 굴곡강도(~1247 MPa) > HT(~813 MPa)이나 파절인성은 HT 우위; 연삭은 모든 종류에서 강도↓, 저압 APA(0.5 bar)는 BruxZir 외 강도↑ (BMC Oral Health 2022)
+- [[dental-materials/zirconia/ergul-2026-optimizing-cad-cam-ceramics-a]] — 반투명 지르코니아(TrZ) vs 리튬 이규산염(LDC) vs ZLC 연삭 후 연마 vs 유약 처리: TrZ는 연마 Ra 유의미하게 낮음, ZLC-P ΔE₀₀ 1.84(임상 허용역치 2.23 미만), 커피 열순환 후 유약군만 Ra 증가
+- [[dental-materials/zirconia/gaonkar-2020-an-in-vitro-study-to]] — eZr·OptraFine 두 키트 비교: OptraFine Ra 0.47 μm 최저, 통계적 유의차 없음; 두 키트 모두 재글레이징 대안 가능
+- [[dental-materials/zirconia/gohil-2026-occlusal-surface-changes-in-single]] — 단관 vs 3본 임플란트 지지 지르코니아 보철물 교합면 마모 비교: 12개월 단관 14.6 μm vs 3본 19.8 μm (p<0.001), 합병증률 9.4% vs 25.0%
+- [[dental-materials/zirconia/gulmez-2025-impact-of-sintering-speed-and]] — 고속 소결은 굴곡강도·반투명도에 유의한 영향 없음(p>0.05); 3Y-TZP 굴곡강도 ~891–1081 MPa, 5Y-PSZ ~508–568 MPa; 이트리아 함량이 지배 변수
+- [[dental-materials/zirconia/kheur-2022-a-comparative-study-on-simulated]] — 의자측 연삭 버 종류·연마 프로토콜 비교: 텅스텐 카바이드 버 금지(FS 496 MPa↓), 다이아몬드 버 + 다이아몬드 연마 페이스트 권장(Ra 0.24 µm)
 - [[dental-materials/zirconia/steiner-2024-zirconia-conditioning-glazing-enamel-wear]] — in-vitro(Springer 2024): 표면 조절 유형(연삭 후 상태) × 유약 지르코니아 법랑질 마모 — 유약 하 표면 상태가 마모 결정; 매끄러운 기저면이 핵심
 - [[dental-materials/zirconia/aljomard-2022-enamel-wear-monolithic-zirconia-sr-ma]] — SR+MA(Wiley 2022): 단일체 지르코니아 법랑질 마모 — 연마 Zr 법랑질 마모 최소; 유약 > 연마; 임상적으로 허용 가능 수준
 - [[dental-materials/zirconia/shah-2024-enamel-wear-zirconia-umbrella-review]] — 우산형 SR(JPIS 2024): 지르코니아 법랑질 마모 in-vitro 연구 포괄 분석 — 연마 지르코니아 법랑질 마모 최소; 표면 거칠기 Ra 0.2µm 이하 목표
@@ -1562,6 +1569,7 @@ tags: []
 - [[digital-workflow/schlenz-2022-transfer-accuracy-digital-conventional-full-arch]] — Schlenz 2022 · in-vitro · 기준체 기반 전악 인상 전이정확도, 구강스캐너 5종(Primescan·Trios 4·Emerald S·CS3600·Medit i500) vs 알지네이트 × 고정성 교정장치 5세팅(자연치/금속·세라믹 브라켓 ±와이어): 브라켓 있는 전 세팅에서 IOS 우위(39~105µm vs CAI 103~212µm)·Primescan 최속(평균 103초), **단 자연치에서는 알지네이트가 최상(21±20µm)** — 교정장치 유무가 우열을 뒤집는다 (DOI 10.1007/s00784-022-04721-5)
 - [[digital-workflow/ku-2022-accuracy-dental-implant-placement-computer-guided]] — Ku 2022 · retrospective (환자 34명/임플란트 89개, CBCT 중첩): 유도수술 입구점 편차 2.69 mm·각도 5.52° vs 가이드 포기 38개(42.7%) 14.53 mm·11.75°; 가이드군 내 무피판이 유피판보다 정확(2.22 vs 3.18 mm, P<0.001)·초기 ISQ도 높음(72.7 vs 55.8) — 포기 사유는 초기안정성 부족 19·해부학적 위험 9·천공 4·스텐트 적합불량 6
 - [[digital-workflow/sui-2026-influence-of-a-digital-versus]] — 후향 코호트(n=239, 베이징대 제1병원): 후방부 단일 임플란트 모놀리식 지르코니아 크라운 디지털(IOS+보조 교합 장치) vs 기존 워크플로우 — 최대·평균 교합 편차·조정 면적·OTR 모두 디지털 우위(P<0.001), ROF 분포 생리적(임플란트↓·인접치↑), 기공실 시간 단축, 조정 필요 크라운 감소(2026)
+- [[digital-workflow/hashemi-2022-fully-digital-versus-conventional-workflows]] — 하악 후방 3유닛 ISFDP 디지털 vs. 기존 워크플로우 전향적 교차시험: 정확도·수동성·교합·미적 평가 동등, 총 제작시간 디지털 유의하게 단축 (p<0.001)
 
 ## 교정치료 (Orthodontics)
 
