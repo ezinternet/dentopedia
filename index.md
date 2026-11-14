@@ -1499,6 +1499,14 @@ tags: []
 - [[dental-materials/zirconia/liu-2023-the-impact-of-different-polishing]] — Y-TZP 크라운 구내 연마: 20,000 RPM에서 치수 손상 역치(5.5°C) 초과(≥8°C), 10,000 RPM은 유의하게 안전(p<.0001); 순환수 모의 치수혈류 최초 적용
 - [[dental-materials/zirconia/lunkad-2025-evaluation-of-surface-roughness-of]] — MMLZ 표면조도: 3종 연마 시스템(EVE Diacera·SS White·Ultradent Jiffy) 모두 플래시 멸균 10주기 후에도 임상 허용 기준(Ra 최대 0.0325 μm, 역치 0.5 μm) 충족; 주기별 차이 없음
 - [[dental-materials/zirconia/mazzir-2026-color-stability-of-extrinsically-colored]] — 외재성 착색 단일체 지르코니아 색 안정성 서술적 고찰: 교합면 조정 >100 μm 시 ΔE00 >1.8 초과, 유약 처리가 연마보다 색 안정성 보존에 우수 (9편 체외 연구 종합)
+- [[dental-materials/zirconia/mielak-2024-alternative-treatments-for-zirconium-oxide]] — 지르코니아 표면처리 6종(연마·연삭·샌드블라스팅·화학부식·레이저·플라즈마) 비교: 단사정상 함량 최소 화학부식 1.8%, 레이저·플라즈마는 조절 가능한 구조+낮은 상변환으로 추천
+- [[dental-materials/zirconia/monteiro-2026-effect-of-occlusal-adjustment-and]] — 4종 단일구조 지르코니아 교합조정 후 연마 vs 재유약: 투명도 보존, 굴곡강도 (Flexural Strength) 소재별 상이(Cercon hT +60%↑ 856 MPa; Lava Plus -60%↓ 229 MPa)
+- [[dental-materials/zirconia/ozkan-2025-effects-of-surface-treatments-ltd]] — 4Y-TZP·6Y-TZP 고투명 지르코니아 표면처리+LTD+pH 복합 평가: 연마+폴리싱 최우수 강도 보존, pH 3+LTD 조합 최대 단사정 22%+강도 30% 감소
+- [[digital-workflow/park-2025-comparison-of-interference-from-eccentric]] — 동적 하악운동 추적 (DJMT) 지르코니아 크라운 편심위 조정량 감소 확인: 67.5 µm vs 91.8 µm (P=.028), 15명 이중맹검 RCT
+- [[dental-materials/zirconia/phatphutthitham-2025-effect-of-grinding-and-polishing]] — 5Y-PSZ 고투명 지르코니아 연삭·연마 2종 프로토콜 비교: Jota 고속 버(프로토콜 II)가 더 낮은 표면조도 달성; Lava Esthetic+EVE 군에서만 굴곡강도 유의 감소(508→424 MPa); 단사정상 상전환 없음
+- [[dental-materials/zirconia/phuntusuntorn-2026-effect-of-surface-adjustment-and]] — 연마(FP) 후 3Y-TZP 굴곡강도 1213→1704 MPa(+40%), 5Y-PSZ 중등도 향상, 6Y-PSZ 무변화; 열수 노화(134°C·5h)는 세 재료 모두 유의한 기계적 변화 없음
+- [[dental-materials/zirconia/pott-2018-polish-of-interface-areas-between]] — 지르코니아·규산염 세라믹·복합레진 인터페이스 구강 내 폴리싱: 3종 다이아몬드 시스템 모두 지르코니아 Ra < 0.20 µm 달성(글레이즈 동등), 혼합 재료 폴리싱 순서 지르코니아→비니어→레진 권장
+- [[dental-materials/zirconia/regulska-2021-analysis-of-the-surface-condition]] — 3Y-TZP 기계적 처리군 XRD 분석: 연마가 연삭보다 단사정상 함량 최소, 경사입사 XRD로 표면농도 구배 확인, SFE 비극성 성분 지배(27–36 mJ/m²)
 - [[dental-materials/zirconia/steiner-2024-zirconia-conditioning-glazing-enamel-wear]] — in-vitro(Springer 2024): 표면 조절 유형(연삭 후 상태) × 유약 지르코니아 법랑질 마모 — 유약 하 표면 상태가 마모 결정; 매끄러운 기저면이 핵심
 - [[dental-materials/zirconia/aljomard-2022-enamel-wear-monolithic-zirconia-sr-ma]] — SR+MA(Wiley 2022): 단일체 지르코니아 법랑질 마모 — 연마 Zr 법랑질 마모 최소; 유약 > 연마; 임상적으로 허용 가능 수준
 - [[dental-materials/zirconia/shah-2024-enamel-wear-zirconia-umbrella-review]] — 우산형 SR(JPIS 2024): 지르코니아 법랑질 마모 in-vitro 연구 포괄 분석 — 연마 지르코니아 법랑질 마모 최소; 표면 거칠기 Ra 0.2µm 이하 목표
