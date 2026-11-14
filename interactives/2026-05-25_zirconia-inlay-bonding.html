@@ -1,9 +1,9 @@
 <!--
 ---
-title: "지르코니아 인레이 접착 SOP — 분기형 의사결정 트리"
+title: "지르코니아 인레이 세팅 SOP — 의사결정 트리 + 자가테스트"
 type: interactive
 date: 2026-05-25
-status: in-progress
+status: done
 category: resto
 agenda: agenda/2026-05-25_zirconia-inlay-bonding-interactive.md
 source_wiki:
@@ -21,7 +21,10 @@ source_wiki:
   - wiki/dental-materials/zirconia/kwon-2026-self-adhesive-resin-cement-zirconia.md
   - wiki/dental-materials/zirconia/lopes-2023-universal-adhesives-zirconia-long-term.md
   - wiki/resin-bonding/samartzi-2021-immediate-dentin-sealing-review.md
-tags: [zirconia, inlay, bonding, sop, interactive]
+  - wiki/resin/theracem-bisco-product-reference.md
+  - wiki/inlay/al-fodeh-2026-monolithic-zirconia-inlays-cement-aging.md
+  - wiki/dental-materials/zirconia/takagaki-2018-saliva-zirconia-cleaning-agent.md
+tags: [zirconia, inlay, bonding, sop, interactive, quiz]
 ---
 -->
 <!DOCTYPE html>
@@ -29,16 +32,16 @@ tags: [zirconia, inlay, bonding, sop, interactive]
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>지르코니아 인레이 접착 SOP</title>
+<title>지르코니아 인레이 세팅 SOP</title>
 <style>
   :root {
     --bg: #fafaf7;
     --ink: #1a1a1a;
     --muted: #6b6b6b;
     --line: #d8d4cc;
-    --doc: #1e4a8a;      /* 원장 = 파랑 */
+    --doc: #1e4a8a;
     --doc-bg: #e8eef9;
-    --hyg: #1a6b3f;      /* 위생사 = 초록 */
+    --hyg: #1a6b3f;
     --hyg-bg: #e6f2ec;
     --warn: #a32020;
     --warn-bg: #fbeaea;
@@ -47,6 +50,11 @@ tags: [zirconia, inlay, bonding, sop, interactive]
     --interp: #5d5d5d;
     --card: #ffffff;
     --shadow: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+    --ok: #2a7d3a;
+    --no: #a32020;
+    --ok-bg: #e6f2ec;
+    --no-bg: #fbeaea;
+    --accent: #1e4a8a;
   }
   * { box-sizing: border-box; }
   body {
@@ -58,7 +66,25 @@ tags: [zirconia, inlay, bonding, sop, interactive]
   }
   h1 { font-size: 24px; margin: 0 0 4px; }
   h2 { font-size: 20px; margin: 0; }
-  .sub { color: var(--muted); font-size: 15.5px; margin-bottom: 18px; }
+  .sub { color: var(--muted); font-size: 15.5px; margin-bottom: 14px; }
+
+  /* ── 탭 ── */
+  .tabs {
+    display: flex; gap: 0; border-bottom: 2px solid var(--line);
+    margin-bottom: 20px;
+  }
+  .tab-btn {
+    padding: 9px 20px; border: none; background: transparent;
+    font-size: 15.5px; font-family: inherit; cursor: pointer;
+    color: var(--muted); border-bottom: 2px solid transparent;
+    margin-bottom: -2px; transition: color .15s, border-color .15s;
+  }
+  .tab-btn.active { color: var(--doc); border-bottom-color: var(--doc); font-weight: 600; }
+  .tab-btn:hover:not(.active) { color: var(--ink); }
+  .tab-panel { display: none; }
+  .tab-panel.active { display: block; }
+
+  /* ── SOP 공통 ── */
   .lane-key {
     display: flex; gap: 12px; flex-wrap: wrap;
     font-size: 14px; margin-bottom: 16px;
@@ -71,20 +97,14 @@ tags: [zirconia, inlay, bonding, sop, interactive]
   .dot.doc { background: var(--doc); }
   .dot.hyg { background: var(--hyg); }
   .dot.warn { background: var(--warn); }
-  .progress {
-    display: flex; gap: 4px; margin: 12px 0 20px;
-  }
-  .progress > div {
-    flex: 1; height: 4px; background: #e5e0d6; border-radius: 2px;
-  }
+  .progress { display: flex; gap: 4px; margin: 12px 0 20px; }
+  .progress > div { flex: 1; height: 4px; background: #e5e0d6; border-radius: 2px; }
   .progress > div.active { background: var(--ink); }
   .progress > div.done { background: var(--strong); }
-
   .step {
     background: var(--card); border: 1px solid var(--line);
     border-radius: 8px; padding: 18px 20px; margin-bottom: 14px;
-    box-shadow: var(--shadow);
-    display: none;
+    box-shadow: var(--shadow); display: none;
   }
   .step.active { display: block; }
   .step-header {
@@ -95,31 +115,21 @@ tags: [zirconia, inlay, bonding, sop, interactive]
     font-size: 13px; font-weight: 600; letter-spacing: 0.08em;
     color: var(--muted); text-transform: uppercase;
   }
-  .lane-tag {
-    font-size: 13px; padding: 2px 8px; border-radius: 10px;
-    font-weight: 600;
-  }
+  .lane-tag { font-size: 13px; padding: 2px 8px; border-radius: 10px; font-weight: 600; }
   .lane-tag.doc { background: var(--doc-bg); color: var(--doc); }
   .lane-tag.hyg { background: var(--hyg-bg); color: var(--hyg); }
-  .lane-tag.both {
-    background: linear-gradient(90deg, var(--doc-bg) 50%, var(--hyg-bg) 50%);
-    color: var(--ink);
-  }
-
+  .lane-tag.both { background: linear-gradient(90deg, var(--doc-bg) 50%, var(--hyg-bg) 50%); color: var(--ink); }
   .question { margin: 8px 0 14px; font-weight: 500; }
   .options { display: flex; flex-direction: column; gap: 8px; }
   .opt {
     border: 1px solid var(--line); border-radius: 6px;
     padding: 12px 14px; cursor: pointer; background: #fff;
-    transition: all 0.15s;
-    text-align: left;
-    font-size: 16.5px; font-family: inherit; color: inherit;
-    width: 100%;
+    transition: all 0.15s; text-align: left;
+    font-size: 16.5px; font-family: inherit; color: inherit; width: 100%;
   }
   .opt:hover { border-color: var(--doc); background: #f5f8ff; }
   .opt.selected { border-color: var(--doc); background: #eef3fc; font-weight: 500; }
   .opt-note { font-size: 14px; color: var(--muted); margin-top: 3px; }
-
   .action {
     background: #fbfaf6; border-left: 3px solid var(--doc);
     padding: 10px 14px; margin: 8px 0; border-radius: 0 4px 4px 0;
@@ -128,83 +138,57 @@ tags: [zirconia, inlay, bonding, sop, interactive]
   .action.warn { border-left-color: var(--warn); background: var(--warn-bg); }
   .action ul { margin: 6px 0 0; padding-left: 18px; }
   .action li { margin-bottom: 3px; }
-  .action-label {
-    font-size: 13px; font-weight: 600; letter-spacing: 0.04em;
-    color: var(--muted); text-transform: uppercase;
-  }
-
-  .conf {
-    display: inline-block; font-size: 12px; padding: 1px 6px;
-    border-radius: 3px; font-weight: 600; margin-right: 4px;
-    vertical-align: middle;
-  }
+  .action-label { font-size: 13px; font-weight: 600; letter-spacing: 0.04em; color: var(--muted); text-transform: uppercase; }
+  .conf { display: inline-block; font-size: 12px; padding: 1px 6px; border-radius: 3px; font-weight: 600; margin-right: 4px; vertical-align: middle; }
   .conf.strong { background: var(--strong); color: white; }
   .conf.consensus { background: var(--consensus); color: white; }
   .conf.interp { background: var(--interp); color: white; }
   .conf.warn { background: var(--warn); color: white; }
-
-  cite {
-    font-size: 13px; color: var(--muted); font-style: normal;
-    display: inline-block; margin-left: 2px;
-  }
-
-  .nav {
-    display: flex; justify-content: space-between; gap: 10px;
-    margin-top: 16px; padding-top: 12px; border-top: 1px solid var(--line);
-  }
-  .nav button {
-    padding: 8px 16px; border: 1px solid var(--line); background: #fff;
-    border-radius: 6px; cursor: pointer; font-size: 16.5px; font-family: inherit;
-  }
+  cite { font-size: 13px; color: var(--muted); font-style: normal; display: inline-block; margin-left: 2px; }
+  .nav { display: flex; justify-content: space-between; gap: 10px; margin-top: 16px; padding-top: 12px; border-top: 1px solid var(--line); }
+  .nav button { padding: 8px 16px; border: 1px solid var(--line); background: #fff; border-radius: 6px; cursor: pointer; font-size: 16.5px; font-family: inherit; }
   .nav button:hover { background: #f5f0e8; }
   .nav button.primary { background: var(--ink); color: white; border-color: var(--ink); }
   .nav button.primary:hover { background: #333; }
   .nav button:disabled { opacity: 0.4; cursor: not-allowed; }
-
-  .summary {
-    background: #fdf9f0; border: 1px solid #d8c98e;
-    padding: 14px 16px; border-radius: 6px; margin-top: 12px;
-  }
+  .summary { background: #fdf9f0; border: 1px solid #d8c98e; padding: 14px 16px; border-radius: 6px; margin-top: 12px; }
   .summary h3 { margin: 0 0 8px; font-size: 16.5px; }
-
-  table.matrix {
-    width: 100%; border-collapse: collapse; font-size: 15.5px; margin: 10px 0;
-  }
-  table.matrix th, table.matrix td {
-    border: 1px solid var(--line); padding: 6px 10px; text-align: left;
-    vertical-align: top;
-  }
+  table.matrix { width: 100%; border-collapse: collapse; font-size: 15.5px; margin: 10px 0; }
+  table.matrix th, table.matrix td { border: 1px solid var(--line); padding: 6px 10px; text-align: left; vertical-align: top; }
   table.matrix th { background: #f0ebe0; font-weight: 600; }
   table.matrix tr.best td:first-child { font-weight: 600; color: var(--strong); }
   table.matrix tr.bad td:first-child { font-weight: 600; color: var(--warn); }
-
-  .ref {
-    font-size: 13px; color: var(--muted); margin-top: 14px;
-    padding-top: 10px; border-top: 1px dashed var(--line);
-  }
-  .restart {
-    text-align: center; margin-top: 20px;
-  }
-  .restart button {
-    background: transparent; border: none; color: var(--muted);
-    font-size: 14px; cursor: pointer; text-decoration: underline;
-  }
+  .ref { font-size: 13px; color: var(--muted); margin-top: 14px; padding-top: 10px; border-top: 1px dashed var(--line); }
+  .restart { text-align: center; margin-top: 20px; }
+  .restart button { background: transparent; border: none; color: var(--muted); font-size: 14px; cursor: pointer; text-decoration: underline; }
   details { margin: 8px 0; }
-  details summary {
-    cursor: pointer; font-size: 15.5px; color: var(--doc);
-    display: inline-flex; align-items: center; gap: 7px;
-    padding: 4px 10px 4px 6px; border-radius: 6px;
-    font-weight: 500;
-    transition: background 0.18s, color 0.18s;
-  }
+  details summary { cursor: pointer; font-size: 15.5px; color: var(--doc); display: inline-flex; align-items: center; gap: 7px; padding: 4px 10px 4px 6px; border-radius: 6px; font-weight: 500; transition: background 0.18s, color 0.18s; }
   details summary:hover { background: var(--doc); color: white; }
   details summary:hover .sum-badge { background: rgba(255,255,255,0.95); color: var(--doc); }
-  .sum-badge {
-    display: inline-block; font-size: 11px; padding: 1px 6px;
-    border-radius: 3px; font-weight: 700; flex-shrink: 0;
-    background: var(--warn); color: white;
-    transition: background 0.18s, color 0.18s;
-  }
+  .sum-badge { display: inline-block; font-size: 11px; padding: 1px 6px; border-radius: 3px; font-weight: 700; flex-shrink: 0; background: var(--warn); color: white; transition: background 0.18s, color 0.18s; }
+
+  /* ── 퀴즈 ── */
+  .quiz-wrap { max-width: 760px; }
+  .quiz-sub { color: var(--muted); font-size: 15px; margin-bottom: 14px; }
+  .quiz-bar { height: 8px; background: #e5e0d6; border-radius: 20px; overflow: hidden; margin: 14px 0 22px; }
+  .quiz-bar > i { display: block; height: 100%; width: 0; background: var(--accent); transition: width .3s; }
+  .qcard { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 18px; margin-bottom: 16px; box-shadow: var(--shadow); }
+  .qn { font-size: .78rem; color: var(--muted); margin-bottom: 4px; }
+  .qt { font-weight: 700; margin-bottom: 12px; font-size: 16.5px; }
+  .qopt { display: block; width: 100%; text-align: left; background: #f8f7f4; border: 1px solid var(--line); color: var(--ink); border-radius: 9px; padding: 11px 13px; margin: 7px 0; cursor: pointer; font-size: 15.5px; font-family: inherit; transition: border-color .15s, background .15s; }
+  .qopt:hover:not(:disabled) { border-color: var(--accent); background: #eef3fc; }
+  .qopt:disabled { cursor: default; }
+  .qopt.correct { border-color: var(--ok); background: var(--ok-bg); }
+  .qopt.wrong { border-color: var(--no); background: var(--no-bg); }
+  .rat { margin-top: 10px; font-size: .86rem; color: var(--muted); border-left: 3px solid var(--line); padding: 8px 12px; display: none; }
+  .rat.show { display: block; }
+  .rat b { color: var(--ink); }
+  .rat a { color: var(--accent); text-decoration: none; }
+  .quiz-score { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 14px 18px; text-align: center; font-weight: 700; margin-top: 8px; }
+  .quiz-score .big { font-size: 1.65rem; color: var(--accent); }
+  .quiz-reset { margin-top: 12px; background: #f0ebe0; border: 1px solid var(--line); color: var(--ink); border-radius: 8px; padding: 9px 16px; cursor: pointer; font-family: inherit; }
+  .quiz-foot { margin-top: 26px; color: var(--muted); font-size: .78rem; text-align: center; }
+  .quiz-foot a { color: var(--accent); text-decoration: none; }
 </style>
 <script>
 /* llm-wiki cache-refresh */
@@ -226,8 +210,16 @@ tags: [zirconia, inlay, bonding, sop, interactive]
 </head>
 <body>
 
-<h1>지르코니아 인레이 접착 SOP <span style="font-size:0.62em;font-weight:normal;color:var(--muted)">(Standard Operating Procedure, 표준 운영 절차)</span></h1>
-<div class="sub">원장 의사결정 + 위생사 어시스트 통합 분기형 트리 · 2026-05-25 · 14편 wiki 페이지 기반</div>
+<h1>지르코니아 인레이 세팅 SOP <span style="font-size:0.62em;font-weight:normal;color:var(--muted)">(Standard Operating Procedure)</span></h1>
+<div class="sub">원장·위생사 통합 분기형 트리 + 자가테스트 · 17편 wiki 페이지 기반</div>
+
+<div class="tabs">
+  <button class="tab-btn active" onclick="switchTab('sop',this)">📋 의사결정 트리</button>
+  <button class="tab-btn" onclick="switchTab('quiz',this)">✏️ 자가테스트</button>
+</div>
+
+<!-- ══════════ TAB 1: SOP ══════════ -->
+<div id="tab-sop" class="tab-panel active">
 
 <div class="lane-key">
   <span><span class="dot doc"></span>원장 (의사결정·시술)</span>
@@ -240,7 +232,7 @@ tags: [zirconia, inlay, bonding, sop, interactive]
 
 <div class="progress" id="progress"></div>
 
-<!-- STEP 1 — 사전 분류 -->
+<!-- STEP 1 -->
 <div class="step active" data-step="1">
   <div class="step-header">
     <span class="step-num">Step 1 · 분류 확인</span>
@@ -272,7 +264,7 @@ tags: [zirconia, inlay, bonding, sop, interactive]
   </div>
 </div>
 
-<!-- STEP 2 — 상아질 처리 (IDS) -->
+<!-- STEP 2 -->
 <div class="step" data-step="2">
   <div class="step-header">
     <span class="step-num">Step 2 · 상아질 측 사전 처리</span>
@@ -300,7 +292,7 @@ tags: [zirconia, inlay, bonding, sop, interactive]
   </div>
 </div>
 
-<!-- STEP 3 — 인레이 내면 처리 -->
+<!-- STEP 3 -->
 <div class="step" data-step="3">
   <div class="step-header">
     <span class="step-num">Step 3 · 인레이 내면 처리 (시적 전)</span>
@@ -335,7 +327,7 @@ tags: [zirconia, inlay, bonding, sop, interactive]
   </div>
 </div>
 
-<!-- STEP 4 — 시적 후 오염 (CRITICAL 분기) -->
+<!-- STEP 4 -->
 <div class="step" data-step="4">
   <div class="step-header">
     <span class="step-num">Step 4 · 시적(Try-in) 후 오염 처리</span>
@@ -367,7 +359,7 @@ tags: [zirconia, inlay, bonding, sop, interactive]
   </div>
 </div>
 
-<!-- STEP 5 — 프라이머 선택 -->
+<!-- STEP 5 -->
 <div class="step" data-step="5">
   <div class="step-header">
     <span class="step-num">Step 5 · 프라이머 선택 및 도포</span>
@@ -403,7 +395,7 @@ tags: [zirconia, inlay, bonding, sop, interactive]
   </div>
 </div>
 
-<!-- STEP 6 — 시멘트 선택 -->
+<!-- STEP 6 -->
 <div class="step" data-step="6">
   <div class="step-header">
     <span class="step-num">Step 6 · 시멘트 선택</span>
@@ -436,7 +428,7 @@ tags: [zirconia, inlay, bonding, sop, interactive]
   </div>
 </div>
 
-<!-- STEP 7 — 시멘테이션 -->
+<!-- STEP 7 -->
 <div class="step" data-step="7">
   <div class="step-header">
     <span class="step-num">Step 7 · 시멘테이션 시술</span>
@@ -509,12 +501,12 @@ tags: [zirconia, inlay, bonding, sop, interactive]
     </ul>
   </div>
   <div class="nav">
-    <button onclick="goTo(6)">← 이전</button>
-    <button class="primary" onclick="goTo(8)">시멘테이션 완료 →</button>
+    <button onclick="sopGoTo(6)">← 이전</button>
+    <button class="primary" onclick="sopGoTo(8)">시멘테이션 완료 →</button>
   </div>
 </div>
 
-<!-- STEP 8 — 마무리 -->
+<!-- STEP 8 -->
 <div class="step" data-step="8">
   <div class="step-header">
     <span class="step-num">Step 8 · 마무리·체크아웃</span>
@@ -544,124 +536,210 @@ tags: [zirconia, inlay, bonding, sop, interactive]
       <li>5년 시점 zirconia inlay 임상 데이터는 RCT 부재. 1년 prospective는 안전 <cite>[behera-2021]</cite>, RBFPD 5년 데이터로 보강 <cite>[bomicke-2025]</cite></li>
     </ul>
   </div>
-  <div class="summary" id="summary">
+  <div class="summary" id="sop-summary">
     <h3>이 케이스 의사결정 요약</h3>
     <div id="summary-list"></div>
   </div>
   <div class="nav">
-    <button onclick="goTo(7)">← 이전</button>
-    <button class="primary" onclick="restart()">처음부터 다시</button>
-  </div>
-</div>
-
-<!-- 네비게이션 (Step 1~6은 옵션 클릭 = 자동 다음) -->
-<div id="back-nav" style="display:none;">
-  <div class="nav">
-    <button id="prev-btn" onclick="goBack()">← 이전</button>
+    <button onclick="sopGoTo(7)">← 이전</button>
+    <button class="primary" onclick="sopRestart()">처음부터 다시</button>
   </div>
 </div>
 
 <div class="ref">
   <strong>출처 (wiki 페이지):</strong>
-  blatz-2018 (APC concept) ·
-  behera-2021 (인레이 1y RCT) ·
-  bomicke-2025 (RBFPD 5y) ·
-  ban-2023 (zirconia 분류) ·
-  silva-2022 (세정 SR+MA, 근거강함) ·
-  genc-2025 (세정 정량) ·
-  al-akhali-2025 (150일 내구성) ·
-  awad-2022 (MDP cleaner) ·
-  comba-2021 (5Y bonding) ·
-  opatragoon-2024 (1회 도포) ·
-  shokry-2022 (매칭 시스템) ·
-  kwon-2026 (SARC 비교) ·
-  lopes-2023 (12mo 열화) ·
-  samartzi-2021 (IDS) ·
-  aromaa-2018 (DPCS 산소억제 메커니즘 — VHN 9.10 vs 4.80) ·
-  vinothkumar-2025 (OIL 처리법 VHN·ΔE 비교: FP&gt;글리세린&gt;NT)
+  blatz-2018 (APC concept) · behera-2021 (인레이 1y RCT) · bomicke-2025 (RBFPD 5y) ·
+  ban-2023 (zirconia 분류) · silva-2022 (세정 SR+MA) · genc-2025 (세정 정량) ·
+  al-akhali-2025 (150일 내구성) · awad-2022 (MDP cleaner) · comba-2021 (5Y bonding) ·
+  opatragoon-2024 (1회 도포) · shokry-2022 (매칭 시스템) · kwon-2026 (SARC 비교) ·
+  lopes-2023 (12mo 열화) · samartzi-2021 (IDS) ·
+  aromaa-2018 (DPCS 산소억제 — VHN 9.10 vs 4.80) · vinothkumar-2025 (OIL 처리법)
 </div>
 
 <div class="restart">
-  <button onclick="restart()">↻ 새 케이스로 재시작</button>
+  <button onclick="sopRestart()">↻ 새 케이스로 재시작</button>
 </div>
 
+</div><!-- /tab-sop -->
+
+<!-- ══════════ TAB 2: 자가테스트 ══════════ -->
+<div id="tab-quiz" class="tab-panel">
+<div class="quiz-wrap">
+  <h2 style="margin:0 0 4px;">지르코니아 인레이 세팅 SOP 자가테스트</h2>
+  <div class="quiz-sub">치위생사 교육 · 5문항 · TheraCem + Ivoclean 프로토콜 · 답을 고르면 정답·해설·근거가 열립니다.</div>
+  <div class="quiz-bar"><i id="quiz-bar"></i></div>
+  <div id="quiz-cards"></div>
+  <div class="quiz-score" id="quiz-score">진행: <span id="quiz-done">0</span>/5 · 정답 <span class="big" id="quiz-pts">0</span></div>
+  <button class="quiz-reset" onclick="quizReset()">↻ 다시 풀기</button>
+  <div class="quiz-foot">출처: <a href="/dentopedia/overviews/ceramic-bonding-hf-silane-contamination-overview" target="_blank">세라믹 접착 종합 overview →</a> · 교육용 요약 — 개별 판단은 위키 원문·원장 확인</div>
+</div>
+</div><!-- /tab-quiz -->
+
 <script>
-  const totalSteps = 8;
-  let currentStep = 1;
-  const history = [];
-  const decisions = [];
+/* ── 탭 전환 ── */
+function switchTab(id, btn) {
+  document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  document.getElementById('tab-' + id).classList.add('active');
+  btn.classList.add('active');
+}
 
-  // 진행 바
-  function renderProgress() {
-    const bar = document.getElementById('progress');
-    bar.innerHTML = '';
-    for (let i = 1; i <= totalSteps; i++) {
-      const d = document.createElement('div');
-      if (i < currentStep) d.className = 'done';
-      else if (i === currentStep) d.className = 'active';
-      bar.appendChild(d);
-    }
+/* ── SOP ── */
+const totalSteps = 8;
+let sopCurrent = 1;
+const sopHistory = [];
+const sopDecisions = [];
+
+function sopRenderProgress() {
+  const bar = document.getElementById('progress');
+  bar.innerHTML = '';
+  for (let i = 1; i <= totalSteps; i++) {
+    const d = document.createElement('div');
+    if (i < sopCurrent) d.className = 'done';
+    else if (i === sopCurrent) d.className = 'active';
+    bar.appendChild(d);
   }
+}
 
-  function show(step) {
-    document.querySelectorAll('.step').forEach(s => s.classList.remove('active'));
-    const target = document.querySelector(`.step[data-step="${step}"]`);
-    if (target) {
-      target.classList.add('active');
-      currentStep = step;
-      renderProgress();
-      target.scrollIntoView({behavior: 'smooth', block: 'start'});
-    }
+function sopShow(step) {
+  document.querySelectorAll('.step').forEach(s => s.classList.remove('active'));
+  const target = document.querySelector(`.step[data-step="${step}"]`);
+  if (target) {
+    target.classList.add('active');
+    sopCurrent = step;
+    sopRenderProgress();
+    target.scrollIntoView({behavior: 'smooth', block: 'start'});
   }
+}
 
-  function goTo(step) {
-    if (step > currentStep) history.push(currentStep);
-    show(step);
-    if (step === totalSteps) renderSummary();
+function sopGoTo(step) {
+  if (step > sopCurrent) sopHistory.push(sopCurrent);
+  sopShow(step);
+  if (step === totalSteps) sopRenderSummary();
+}
+
+function sopRestart() {
+  sopHistory.length = 0;
+  sopDecisions.length = 0;
+  sopShow(1);
+}
+
+function sopRenderSummary() {
+  const list = document.getElementById('summary-list');
+  if (sopDecisions.length === 0) {
+    list.innerHTML = '<em>옵션을 선택하지 않고 진행한 단계가 있습니다.</em>';
+    return;
   }
+  list.innerHTML = '<ol style="margin:0;padding-left:20px;">' +
+    sopDecisions.map(d => `<li><strong>Step ${d.step}:</strong> ${d.label}</li>`).join('') +
+    '</ol>';
+}
 
-  function goBack() {
-    const prev = history.pop();
-    if (prev) show(prev);
-  }
-
-  function restart() {
-    history.length = 0;
-    decisions.length = 0;
-    show(1);
-  }
-
-  function renderSummary() {
-    const list = document.getElementById('summary-list');
-    if (decisions.length === 0) {
-      list.innerHTML = '<em>옵션을 선택하지 않고 진행한 단계가 있습니다.</em>';
-      return;
-    }
-    list.innerHTML = '<ol style="margin:0;padding-left:20px;">' +
-      decisions.map(d => `<li><strong>Step ${d.step}:</strong> ${d.label}</li>`).join('') +
-      '</ol>';
-  }
-
-  // 옵션 클릭 → 결정 기록 + 다음 단계
-  document.querySelectorAll('.opt').forEach(btn => {
-    btn.addEventListener('click', () => {
-      // 같은 step의 다른 옵션 selected 제거
-      const parent = btn.closest('.step');
-      parent.querySelectorAll('.opt').forEach(o => o.classList.remove('selected'));
-      btn.classList.add('selected');
-      const step = parseInt(parent.dataset.step);
-      const next = parseInt(btn.dataset.next);
-      const label = btn.dataset.label;
-      // 이전 동일 step 결정 제거
-      const idx = decisions.findIndex(d => d.step === step);
-      if (idx >= 0) decisions.splice(idx, 1);
-      decisions.push({step, label});
-      decisions.sort((a, b) => a.step - b.step);
-      setTimeout(() => goTo(next), 200);
-    });
+document.querySelectorAll('.step .opt').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const parent = btn.closest('.step');
+    parent.querySelectorAll('.opt').forEach(o => o.classList.remove('selected'));
+    btn.classList.add('selected');
+    const step = parseInt(parent.dataset.step);
+    const next = parseInt(btn.dataset.next);
+    const label = btn.dataset.label;
+    const idx = sopDecisions.findIndex(d => d.step === step);
+    if (idx >= 0) sopDecisions.splice(idx, 1);
+    sopDecisions.push({step, label});
+    sopDecisions.sort((a, b) => a.step - b.step);
+    setTimeout(() => sopGoTo(next), 200);
   });
+});
 
-  renderProgress();
+sopRenderProgress();
+
+/* ── 퀴즈 ── */
+const QUESTIONS = [
+  {
+    q: "지르코니아를 접착할 때 왜 불산(HF)+실란만으로는 결합이 안 되나?",
+    opts: ["지르코니아는 실리카가 없어 HF·실란이 붙을 곳이 없다 — 10-MDP가 필요","HF 농도가 너무 낮아서","실란이 오래되어서","타액 때문에"],
+    ans: 0,
+    rat: "지르코니아에는 실리카가 없어 HF 에칭·실란 결합이 성립하지 않는다. 10-MDP가 ZrO₂와 직접 화학결합하므로 MDP 함유 프라이머/시멘트가 핵심(APC 개념).",
+    cite: "overviews/ceramic-bonding-hf-silane-contamination-overview"
+  },
+  {
+    q: "TheraCem에 대한 설명으로 옳은 것은?",
+    opts: ["실리카 세라믹 전용 시멘트다","칼슘실리케이트·10-MDP 함유 자가접착 레진시멘트로 칼슘·불소를 방출한다","빛을 쬐면 안 되는 화학중합 전용이다","인산으로 활성화해야 한다"],
+    ans: 1,
+    rat: "TheraCem은 칼슘실리케이트+10-MDP 기반 dual-cure 자가접착 레진시멘트로, Ca·불소를 방출하고 pH가 산성→알칼리(~9)로 전환된다. 지르코니아 SBS가 비-MDP 시멘트보다 높다(Mahrous 2020: 39.76 vs 27.04 MPa).",
+    cite: "resin/theracem-bisco-product-reference"
+  },
+  {
+    q: "입안에서 트라이인한 지르코니아 인레이 안쪽면을 접착 전 세정할 때 가장 적절한 것은?",
+    opts: ["37% 인산으로 세정","이소프로필 알코올 솜으로만 닦기","Ivoclean 도포 후 물세척·건조","그냥 물로만 헹굼"],
+    ans: 2,
+    rat: "타액 단백막이 MDP 결합을 차단하므로 Ivoclean(또는 재샌드블라스팅)으로 제거해야 한다. genc 2025에서 샌드블라스팅+Ivoclean 9.3 MPa로 최우수, Ivoclean 단독도 7.21 MPa로 대조군(3.65)보다 우수.",
+    cite: "dental-materials/zirconia/genc-2025-cleaning-protocols-zirconia-bond-strength"
+  },
+  {
+    q: "지르코니아 세정에서 '절대 하지 말 것'에 해당하는 것은?",
+    opts: ["Ivoclean 사용","재샌드블라스팅","37% 인산으로 세정 (인 잔류물이 MDP 결합 방해)","완전 건조"],
+    ans: 2,
+    rat: "인산 세정은 인(P) 잔류물을 남겨 10-MDP 결합을 화학적으로 방해한다(takagaki 2018). 이소프로필 알코올 단독도 무처리보다 낮은 결합강도(3.04 MPa)를 보여 금기.",
+    cite: "dental-materials/zirconia/takagaki-2018-saliva-zirconia-cleaning-agent"
+  },
+  {
+    q: "지르코니아 인레이의 변연 밀폐(marginal fit)에 대한 근거로 옳은 것은?",
+    opts: ["지르코니아 종류(4Y vs 5Y)가 변연간격을 결정한다","시멘트 종류와 노화가 변연간격에 유의한 영향을 준다","어떤 요인도 변연간격에 영향이 없다","노화되면 변연이 오히려 좁아진다"],
+    ans: 1,
+    rat: "al-fodeh 2026: 지르코니아 재료 종류는 변연적합에 유의차 없었고(P>0.05), 시멘트 종류(P=0.031)와 열기계적 노화(P<0.001)가 변연간격을 유의하게 좌우했다. 자가접착 시멘트가 MDP 시멘트보다 간격이 작았다.",
+    cite: "inlay/al-fodeh-2026-monolithic-zirconia-inlays-cement-aging"
+  }
+];
+
+const SITE_BASE = "/dentopedia";
+let quizDone = 0, quizPts = 0;
+
+function quizReset() {
+  quizDone = 0; quizPts = 0;
+  document.getElementById('quiz-done').textContent = '0';
+  document.getElementById('quiz-pts').textContent = '0';
+  document.getElementById('quiz-bar').style.width = '0';
+  buildQuiz();
+}
+
+function buildQuiz() {
+  const container = document.getElementById('quiz-cards');
+  container.innerHTML = '';
+  QUESTIONS.forEach((item, i) => {
+    const card = document.createElement('div'); card.className = 'qcard';
+    const cite = `<a href="${SITE_BASE}/${item.cite}" target="_blank">근거 보기 →</a>`;
+    card.innerHTML = `<div class="qn">Q${i+1}</div><div class="qt">${item.q}</div>`;
+    item.opts.forEach((o, j) => {
+      const b = document.createElement('button'); b.className = 'qopt'; b.textContent = o;
+      b.onclick = () => quizAnswer(card, i, j, b);
+      card.appendChild(b);
+    });
+    const r = document.createElement('div'); r.className = 'rat';
+    r.innerHTML = `<b>해설.</b> ${item.rat} ${cite}`;
+    card.appendChild(r);
+    container.appendChild(card);
+  });
+}
+
+function quizAnswer(card, i, pick, btn) {
+  if (card.dataset.answered) return;
+  card.dataset.answered = "1";
+  const item = QUESTIONS[i];
+  card.querySelectorAll('.qopt').forEach((b, j) => {
+    b.disabled = true;
+    if (j === item.ans) b.classList.add('correct');
+    else if (j === pick) b.classList.add('wrong');
+  });
+  if (pick === item.ans) quizPts++;
+  quizDone++;
+  card.querySelector('.rat').classList.add('show');
+  document.getElementById('quiz-done').textContent = quizDone;
+  document.getElementById('quiz-pts').textContent = quizPts;
+  document.getElementById('quiz-bar').style.width = (quizDone / QUESTIONS.length * 100) + '%';
+}
+
+buildQuiz();
 </script>
 
 </body>
