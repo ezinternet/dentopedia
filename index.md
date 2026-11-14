@@ -3155,6 +3155,7 @@ tags: []
 - [[occlusion/chang-2013-impact-excessive-occlusal-load]] — 1991–2011 문헌고찰: 과도한 교합부하(occlusal overload)가 골결합(osseointegration)된 임플란트의 변연골소실을 일으키는지는 미입증, 생물학적 허용 한계 미상, 고부하 시 주위골 골재형성(remodeling) 활성 증가는 일관 확인
 
 ## 국소마취·진정 (Local Anesthesia / Sedation)
+- [[overviews/local-anesthetic-mechanism-ianb-failure-overview]] — 리도카인 마취 기전 + IANB 실패 메커니즘 종합 (7편, 2026): pKa/pH 비이온형 감소, SIP 실패율 12–85%, 보조마취 위계(ABI 84%>IO 68%>PDL 48%>rIANB 32%), 최선 프로토콜(아세클로페낙+아티카인 IL 87.1%), 완충 리도카인 84%
 - [[overviews/local-anesthesia-category-synthesis-overview]] — Category Synthesis (37편, 2026): 6개 테마 클러스터(하악마취·완충제·해부학적실패·컴퓨터전달·표면마취·합병증) 허브 — 핵심: IANB 단독 hot tooth 실패율 높음, 4% articaine 협측침윤(RR 1.06)·보충(RR 2.02)·이부프로펜 전투약(성공률 20→79%) 순차 대응
 - [[overviews/mandibular-anesthesia-efficacy-ladder]] — Synthesis 2026-06-03 (5편): 하악 마취 4단 ladder — articaine 협측침윤≈IANB(성인·소아), IANB 실패시 보충≈병용(RR~2), articaine 통증우위, N2O 진정 95%
 - [[overviews/topical-anesthetic-injection-pain-overview]] — Synthesis 2026-06-08 (4편): 표면마취로 주사·needle 통증 줄이기 — 위약 대비 효과·농도의존 확실하나 제제간(lidocaine/benzocaine/EMLA) 차이는 blinding 엄격할수록 소실(Subramanian↔Karkoutly 상충), 표면≠주사 완전대체(Wambier SRP), 레버는 약물명보다 농도·제형·도포술기
