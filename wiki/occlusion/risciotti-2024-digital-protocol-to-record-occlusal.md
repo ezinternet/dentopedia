@@ -3,7 +3,7 @@ title: "Digital Protocol to Record Occlusal Analysis in Prosthodontics: A Pilot 
 authors: "Risciotti Emanuele, Squadrito Nino, Montanari Daniele, Iannello Gaetano, Macca Ugo, Tallarico Marco, Cervino Gabriele, Fiorillo Luca, Brand Henk S., Maeda Takeyasu"
 year: 2024
 doi: "10.3390/jcm13051370"
-source: sources/risciotti-2024-digital-protocol-to-record-occlusal.md
+source: risciotti-2024-digital-protocol-to-record-occlusal.md
 category: occlusion
 source_collection: pubmed-text
 evidence_level: prospective
