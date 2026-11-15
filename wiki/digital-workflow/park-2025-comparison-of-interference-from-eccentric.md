@@ -3,7 +3,7 @@ title: "Comparison of interference from eccentric movements of dental crowns fab
 authors: "Park Myung Hyun, Son Keunbada, Jin Myoung-Uk, Kim So-Yeun, Lee Kyu-Bok"
 year: 2025
 doi: "10.4047/jap.2025.17.1.36"
-source: sources/park-2025-comparison-of-interference-from-eccentric.md
+source: park-2025-comparison-of-interference-from-eccentric.md
 category: digital-workflow
 evidence_level: rct
 source_collection: pubmed-text
