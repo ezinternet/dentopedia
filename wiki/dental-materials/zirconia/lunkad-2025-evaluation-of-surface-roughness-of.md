@@ -5,7 +5,7 @@ year: 2025
 doi: null
 pmid: 40055890
 pmcid: PMC11899277
-source: sources/lunkad-2025-evaluation-of-surface-roughness-of.md
+source: lunkad-2025-evaluation-of-surface-roughness-of.md
 category: dental-materials/zirconia
 evidence_level: in-vitro
 source_collection: pubmed-text
