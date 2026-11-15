@@ -5,7 +5,7 @@ year: 2024
 doi: "10.1590/0103-6440202406094"
 pmid: 39699500
 pmcid: "PMC11653993"
-source: sources/soares-2024-optical-properties-and-color-stability.md
+source: soares-2024-optical-properties-and-color-stability.md
 category: dental-materials/zirconia
 source_collection: pubmed-text
 evidence_level: in-vitro
