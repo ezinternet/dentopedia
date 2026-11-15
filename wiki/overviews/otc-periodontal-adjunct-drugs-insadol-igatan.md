@@ -41,7 +41,7 @@ source_papers:
 
 Synthesis of 9 wiki pages on Korea's two dominant OTC periodontal drugs — Insadol (Zea mays unsaponifiable ± Magnoliae cortex, host-modulation) and Igatan/CELC (vitamin C/E + lysozyme + carbazochrome, antioxidant/enzyme/hemostatic).
 
-Mechanistic and animal anti-inflammatory signals are consistent (NF-κB/MAPK suppression in vitro; beagle ligature-model RCT), but human evidence is confined to gingival-inflammation surrogates (GI/BoP only), with no demonstrated PD/CAL benefit beyond SRP.
+Mechanistic and animal anti-inflammatory signals are consistent (NF-κB/MAPK suppression in vitro; beagle ligature-model RCT), but human evidence is confined to gingival-inflammation surrogates (GI/BoP only), with no demonstrated PD/CAL benefit beyond SRP; delivery route may be the key variable — lysozyme/lactoferrin in topical toothpaste shows GI −0.53 and plaque −0.96 (Hu 2025 RCT) whereas the same molecules in oral-tablet form lack equivalent human evidence, suggesting local delivery, not systemic availability, is the mechanism that matters.
 
 The registered-drug evidence base is methodologically weak (Insadol: 4 trials 1982–1994, all methodologically flawed, zero trials since 1994; Igatan: GI only at 4 weeks, PD/CAL NS) — market dominance precedes evidence.
 
