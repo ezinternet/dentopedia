@@ -5,7 +5,7 @@ year: 2025
 doi: null
 pmid: 38942054
 pmcid: PMC11750342
-source: sources/phatphutthitham-2025-effect-of-grinding-and-polishing.md
+source: phatphutthitham-2025-effect-of-grinding-and-polishing.md
 category: dental-materials/zirconia
 evidence_level: in-vitro
 source_collection: pubmed-text
