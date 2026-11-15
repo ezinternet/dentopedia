@@ -3,7 +3,7 @@ title: "The Influence of Surface Preparation, Chewing Simulation, and Thermal Cy
 authors: "Wertz Markus, Fuchs Florian, Hoelzig Hieronymus, Wertz Julia Maria, Kloess Gert, Hahnel Sebastian, Rosentritt Martin, Koenig Andreas, Özcan Mutlu"
 year: 2021
 doi: "10.3390/ma14092133"
-source: sources/wertz-2021-the-influence-of-surface-preparation.md
+source: wertz-2021-the-influence-of-surface-preparation.md
 category: dental-materials/zirconia
 source_collection: pubmed-text
 evidence_level: in-vitro
