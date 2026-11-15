@@ -4,7 +4,7 @@ authors: Kulvarangkun Arjaree, Panyayong Woraphong, Pumpaluk Piyapanna
 year: 2022
 doi: 10.4103/jispcd.JISPCD_107_22
 pmid: 36532324
-source: sources/kulvarangkun-2022-experimental-study-of-surface-roughness.md
+source: kulvarangkun-2022-experimental-study-of-surface-roughness.md
 category: dental-materials/zirconia
 evidence_level: in-vitro
 date: 2026-11-14
