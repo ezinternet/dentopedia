@@ -5,7 +5,7 @@ year: 2019
 doi: 10.4047/jap.2019.11.1.1
 pmid: 30847043
 pmcid: PMC6400711
-source: sources/lee-2019-the-effects-of-surface-grinding.md
+source: lee-2019-the-effects-of-surface-grinding.md
 category: [dental-materials/zirconia]
 evidence_level: in-vitro
 date: 2019-02-28
