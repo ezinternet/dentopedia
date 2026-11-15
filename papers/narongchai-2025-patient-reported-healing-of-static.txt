@@ -1,0 +1,291 @@
+TITLE: Patient‐Reported Healing of Static Computer‐Assisted Sinus Lateral Window Osteotomy: A Randomized Controlled Trial
+AUTHORS: Narongchai Nattakarn, Arunjaroensuk Sirida, Subbalekha Keskanya, Kamolratanakul Paksinee, Pimkhaokham Atiphan, Mattheos Nikos
+JOURNAL: Clinical Implant Dentistry and Related Research
+ID[pmcid]: PMC12125704
+ID[pmcid-ver]: PMC12125704.1
+ID[pmcaid]: 12125704
+ID[pmcaiid]: 12125704
+ID[pmid]: 40448540
+ID[doi]: 10.1111/cid.70057
+ID[publisher-id]: CID70057
+ID[other]: CID-25-088
+
+## ABSTRACT
+ABSTRACT
+ObjectiveThe primary aim was to investigate differences in patient‐reported healing outcomes between static computer‐assisted sinus floor augmentation (SCA‐SFA) and the conventional freehand approach (SFA).
+Material and MethodsPatient‐reported healing outcomes were recorded in visual analog scale (VAS) on days 1–7 and 14, and intra and postoperative complications were assessed on weeks 2 and 4 after surgery. Operation time and operators' assessment of efficacy for SCA‐SFA utility were recorded. Independent t‐tests and Chi‐square exact tests were performed for statistical evaluation between groups.
+ResultsForty patients underwent lateral sinus augmentation (20 freehand‐SFA + 20 SCA‐SFA). No statistically significant difference was found between the two groups with regard to PROMs and intra, postoperative complications, apart from a higher level of swelling for SCA‐SFA patients on day 2 after surgery (p = 0.04). The use of SCA‐SFA significantly reduced the time needed to conduct the window osteotomy (SFA 18.56 ± 12.17 min vs. SCA‐SFA 11.43 ± 4.75 min; p = 0.022) and the total surgery duration (SFA 69.89 ± 20.08 min vs. SCA‐SFA 56.24 ± 16.01 min; p = 0.023).
+ConclusionsWithin the limitations of the study, SCA‐SFA should be preferred when the reduction of surgical time is a priority while the costs of the intervention do not play a major role, and the design of the surgical guide should strive for minimal invasiveness.
+Clinical Trial Registry: TCTR20230427005
+
+## Introduction
+
+The lateral window sinus augmentation is a well‐established surgical procedure, preceding or simultaneous to implant placement in cases of deficient bone volume in the posterior maxilla. Anatomical variations of the maxillary sinus are frequent and include sinus septa, thickness of the residual alveolar ridge [1] or sinus membrane [2], anastomoses of arteries, convexity of the maxillary sinus wall, wide sinus, and also dental root‐shaped configuration [3]. Such variations can confront the operator with intraoperative challenges during the osteotomy on the lateral wall of sinus and predispose to complications that would require expert management, such as, for example, membrane perforation or damage to blood vessels and consequent hemorrhagic events [3, 4].
+
+At present, cone beam computer tomography (CBCT) is the standard diagnostic tool for planning sinus augmentation procedures. CBCT can help indirectly detect arteries in the lateral wall of the maxillary sinus [5, 6], chronic inflammatory conditions, presence of septa, abnormal membrane lining, closure of the ostium, sinus configuration, and other conditions that would interfere with the surgical procedure [7]. Transferring, however, with accuracy the surgical plan to the patients' actual anatomy can be challenging when the surgeon relies on free‐hand surgery. Thus, different workflows and protocols of computer‐assisted implant surgery have been developed [8], with the majority of the available applications, however, focusing on the accuracy of implant placement [9].
+
+Currently, available computer‐assisted design—implant planning software (CAD‐IPS) allows the design of computer‐aided designed/computer‐aided manufactured (CAD/CAM) surgical guide with dual utility: guiding the implant placement, but also the location of the planned position of the lateral window. Such static CAIS (s‐CAIS) technology [10, 11, 12] could have the potential to increase accuracy, reduce duration, invasiveness, and risks of the procedure [13, 14], and consequently also improve the overall patients' experience. In particular, the latter has received increased attention in recent research, with patient‐reported outcome measures (PROMs) seen as an essential supplement to clinical research, offering deeper insight into patients' subjective experience of the use of CAIS [15, 16]. These measures assess the impact of treatment on oral health‐related quality of life [17]. Previous studies have assessed patients' perception and experience with lateral wall sinus floor augmentation with deproteinized bovine bone [18], CAIS in implant placement in the sinus region [19], implant‐supported overdenture, and other means of prosthodontic rehabilitation. Still, there is at present no research comparing patient‐reported outcomes of guided sinus surgery with those of the conventional freehand approach.
+
+The primary objective of this randomized clinical trial was to investigate the patient‐reported healing outcomes of s‐CAIS in sinus augmentation, as compared to the conventional freehand approach. The secondary aims of the study were to investigate clinical outcomes and aspects of efficacy of the use of s‐CAIS in sinus augmentation and identify possible factors that can influence it.
+
+## Materials and Methods
+
+This randomized, double‐blinded controlled clinical trial, with two arms (1 test group and control group) was registered with Thai Clinical Trial Registry (TCTR20230427005, https://www.thaiclinicaltrials.org/export/pdf/TCTR20230427005) and approved by the Human Research Ethics Committee of the Faculty of Dentistry, Chulalongkorn University, Bangkok, Thailand (HREC‐DCU 2023–040). The study was registered on 20th April 2023 and the first patient was enrolled on May 1, 2023. All recognized ethical standards have been followed (Declaration of Helsinki; US Federal Policy for the Protection of Human Subjects; or European Medicines Agency Guidelines for Good Clinical Practice) and the study adhered to CONSORT guidelines (Figure 1). Sample size calculation was conducted via statistical software (G*Power Software, version 3.1.9.4) using postoperative pain score data from Scarano et al. [20] comparing post‐op pain and swelling after sinus lift procedures in different flap designs with an alpha of 0.05 and 0.95 power of test based on two‐sided, two independent t‐tests. Mean and standard deviation of pain scores on day 2 from the two groups of the abovementioned study (38.67 + 6.40 and 29.33 + 7.33) were utilized to calculate the sample size for a similar effect. The common standard deviation was 6.72 and the effect size was 1.39. The minimum total sample size requirement was 30 subjects in total. With 30% compensation for loss to follow‐up, there were 40 subjects in total and 20 subjects per group.
+
+[FIGURE] Allocation CONSORT flow diagram representing data collection points for the intervention group and the comparison group.
+
+### Eligibility Criteria
+
+ASA I‐II Medically healthy patients of 21 years or older who requested the placement of one to two implants in the posterior maxilla with a residual alveolar bone height between 1 and 5 mm at the Oral and Maxillofacial Surgery Department, Faculty of Dentistry, Chulalongkorn University between February 2023 and February 2024 were consecutively invited to participate in the study. Patients who had general contraindications against implant treatment or augmentative procedures (e.g., immune deficiency, advanced systemic diseases, corticosteroid medication); taking oral bisphosphonates; or patients with a need for simultaneous soft tissue augmentation were excluded from this study. Patients who were nonsmokers or light smokers (less than 10 cigarettes/day); with the absence of signs of sinus membrane pathology, rhinosinusitis, or other pathology requiring management and gave written consent were enrolled in the study.
+
+Upon final confirmation of the treatment plan, the patients were randomly allocated to two groups using computerized block randomization (block of 4) [21]. The sequences were then sealed in opaque envelopes containing the code of the control and intervention groups: conventional freehand sinus floor augmentation (SFA‐group: N = 20) and static computer‐assisted sinus floor augmentation (SCA‐SFA group: N = 20).
+
+### Treatment Planning
+
+All patients received a radiographic examination with cone‐beam computerized tomography (Dentiiscan; Nectec). After confirming residual bone height between 1 and 5 mm at the respective implant sites, the radiographic data were analyzed with a focus on the local anatomic conditions, identification of possible implant locations, and identification of the optimal lateral window position.
+
+Patients of the SCA‐SFA group were additionally subjected to intraoral scan (Trios 3; 3Shape A/G). Data from the CBCT in the form of Digital Imaging and Communications in Medicine (DICOM) and the intraoral scan (standard tessellation language, STL) were imported into the implant planning software (coDiagnostiX) and superimposed. After the plan of the implant procedure, the respective surgical guide was designed, including a frame to guide the lateral window osteotomy. The design of the surgical guide was imported as an STL file into the design software (Meshmixer; Autodesk Inc.) to contour and smooth the guide, which was finally exported into the printing software (Netfabb, Autodesk), 3D printed with dental resin (Straumann CARES P10+) and sterilized using an autoclave.
+
+### Surgical Procedures
+
+Patients rinsed with 0.12% chlorhexidine gluconate mouth rinse (C20 Plus+, Osoth Inter Laboratories Co. Ltd.) for 1 min before the surgery, which was conducted under local anesthesia. All surgeries were performed by either two specialists (certified specialists with experience of more than 100 unsupervised sinus augmentation procedures) or two residents in oral and maxillofacial surgery (experience of less than 20 sinus surgery procedures under supervision). Specialists and residents follow the same standard operation protocol and steps as directed by the Department of OMFS Education and Clinical Care protocol. A crestal incision and vertical releasing incisions were made, and a full‐thickness mucoperiosteal flap was elevated to expose the alveolar crest and lateral wall of the maxillary sinus. In the SFA group, the optimal location for the lateral window osteotomy was identified by the surgeon intraoperatively, using a periodontal probe and individual measurements conducted previously on CBCT data. Likewise, implants were placed freehand in the planned position, based on intraoperative measurements with a periodontal probe. In the SCA‐SFA group, a 3D‐printed surgical guide, supported by at least four teeth and/or teeth and bone, was placed, a fit test was performed, and the osteotomy of the lateral window was defined through the guide (Figure 2a–d). Rotary or piezo instruments were utilized for complete osteotomy followed by gentle elevation of the Schneiderian membrane from the sinus floor. If implants were placed simultaneously, the site preparation followed the osteotomy protocol of the manufacturer. After complete membrane elevation, implant site preparation, and implant placement, deproteinized bovine bone was packed into the sinus, and the window was covered with a collagen membrane. Primary closure was achieved with tension‐free 4/0 absorbable braided sutures.
+
+[FIGURE] (a) an example of the 3d‐printed SCA‐SFA surgical guide (b) the surgical guide in place after reflection of the full thickness mucoperiosteal flap (c) removal of the guide after marking of the lateral window (d) augmentation of the sinus and placement of collagen membrane on top of the lateral window.
+
+After surgery, patients were prescribed antibiotics (Amoxicillin 500 mg, three times per day for 7 days, or Clindamycin 300 mg in penicillins‐allergic patients, three times per day for 7 days), analgesics (400 mg of ibuprofen and 500 mg of paracetamol) thrice daily for 3 days and asked to document their intake. Patients were further instructed to use a 0.12% chlorhexidine mouth rinse twice daily for 2 weeks. Panoramic radiographs were taken after surgery for standard postoperative evaluation and documentation purposes, while clinic protocols require CBCT in case of large membrane perforation or other major intraoperative complications. All surgeries were filmed by a light‐mounted camera. The duration of surgery was measured through the timeline of each video by the same observer at every step from the first incision until the completion of the last suture. The observer identified the time committed for (a) the preparation osteotomy of the lateral window, (b) the collagen membrane placement, and (c) the total duration of the surgery. The total duration was defined as the time from the initial cut to the completion of the last suture, minus any time allocated to the placement of implants, to exclude confounding related to diversity in this part of the surgery. Patients were instructed and provided with a questionnaire for PROMs and drug consumption and were requested to input daily recordings (days 1–7, day 14). The questionnaire on the healing experience was adopted by a previously validated PROMs instrument [22, 23]. Each parameter was represented using a 10‐cm visual analog scale (VAS), ranging from 0 (e.g., no swelling) to 10 (e.g., extremely severe swelling). Patients were asked to rate the intensity of each parameter. One examiner was trained with an expert OMFS surgeon to assess the postoperative healing outcomes by means of standardized follow‐up intraoral photographs (Cohen's kappa = 0.83). Intrarater reliability was also assessed using Cohen's Kappa (0.83). All operators completed a survey assessing five aspects of the efficacy of the surgical guide immediately after surgery on a 5‐level Likert Scale.
+
+### Primary Outcomes
+
+Patient‐reported healing outcomes as reported in visual analog scales (VAS) 0–10:
+Patient‐reported wound healing parameters (bleeding, swelling, pain, bruising) [23].Discomfort and symptoms related to sinus surgery (nosebleeds, nasal congestion, rhinorrhea, hyposmia).Daily consumption (yes/no and % number of tablets) of analgesics [23].
+
+### Secondary Outcomes
+
+Prevalence of
+intraoperative (membrane perforation, excessive bleeding, root exposure, flap tearing) andpostoperative complications at weeks 2 and 4 (flap dehiscence, pain/sensitivity on palpation, swelling/obliteration of sulcus, maxillary sinusitis, suppuration/purulent discharge, paresthesia, loss of augmentation, pathological fractures, sequestrum) (Yes/No)Specialist assessed signs of surgical wound healing at weeks 2 and 4: flap closure, swelling, redness, dehiscence, suppuration (Yes/No).Duration of the overall surgery, as well as the duration of specific procedures during the surgery.Operators' assessment of surgical guide efficacy [11] (fit, stability, precision of window preparation, time‐efficiency, vision, and control) on a 5‐level Likert scale (excellent—very poor).
+
+## Statistical Analysis
+
+All data were analyzed with the SPSS Statistics program for Windows, version 29 (SPSS, Chicago, IL, USA). Chi‐square exact tests were used to compare the categorical outcomes, which were the percentage distribution of intra and postsurgical complications, and surgical wound healing at weeks 1 and 2 between the test and control groups. Independent t‐tests were used to compare quantitative variables, which were the mean VAS scores of the patient‐reported healing outcomes, respectively, at day 14, numbers of anti‐inflammatory drugs used, and duration of surgery between control and intervention groups. Repeated measures ANOVA was used to compare intragroup comparisons among healing period times. Descriptive statistics were used to present the operator's assessment of the efficacy questionnaire. Univariate and multivariate linear regression analysis was used to define factors influencing osteotomy time and total duration of surgery including group (SCA‐SFA vs. SFA), location (Quadrant 1 vs. Quadrant 2), number of Implants (1 or 2), operators' experience (specialists or residents). A multivariate model was constructed with stepwise methods. Associations between total patient‐reported healing outcomes and demographics as well as other observer‐assessed outcomes were investigated by means of Spearman's correlation and independent t‐test. In all analyses, p values < 0.05 were considered statistically significant.
+
+## Results
+
+### Baseline Characteristics
+
+A total of 40 patients were screened, enrolled, and operated on (20 SFA group and 20 SCA‐SFA group), while no patients dropped out during the follow‐up period.
+
+No significant differences were found in patient demographic characteristics, site anatomy, procedure type, as well as extent of incisions, and flap design between the two treatment groups (Tables 1 and 2).
+
+[TABLE] Baseline characteristics of the patients, site anatomy, procedure characteristics, and operators' experience level among the two groups.
+Age (mean ± SD) | 56.15 ± 11.81 | 61.45 ± 11.69 | 58.8 ± 11.91 | 0.162
+Gender% (number of cases) | 
+Male | 75% (15) | 50% (10) | 62.5% (25) | 0.095
+a
+Female | 25% (5) | 50% (10) | 37.5% (15) | 
+Side% (number of cases) |  |  |  | 0.376
+a
+Right | 60% (12) | 50% (10) | 55.0% (22) | 
+Left | 40% (8) | 50% (10) | 45.0% (18) | 
+Missing Teeth% (gap size) (number of cases) |  |  |  | 0.371
+a
+1 | 70.0% (14) | 60.0% (12) | 65% (26) | 
+2 | 30.0% (6) | 40.0% (8) | 35% (14) | 
+Augmentation% (number of cases) |  |  |  | 0.624
+a
+Simultaneous implant | 45.0% (9) | 45.0% (9) | 45.0% (18) | 
+Stage‐approach | 55.0% (11) | 55.0% (11) | 55.0% (22) | 
+Operator% (number of cases) |  |  |  | 0.731
+a
+Specialist | 25% (5) | 35% (7) | 30% (12) | 
+Resident | 75% (15) | 65% (13) | 70% (28) | 
+Residual bone height
+(mean ± SD) | 3.53 ± 1.48 | 3.57 ± 1.33 | 3.55 ± 1.39 | 0.928
+Width window (mean ± SD) | 9.9 ± 1.74 | 10.47 ± 3.38 | 10.18 ± 0.42 | 0.507
+Height window (mean ± SD) | 8.15 ± 1.46 | 8.07 ± 1.77 | 8.11 ± 0.25 | 0.885
+
+[TABLE] Incision extent and flap design among the two groups.
+Number of vertical releasing incisions |  |  | 0.881
+0 | 10% (2) | 15.0% (3) | 
+1 | 50.0% (10) | 45.0% (9) | 
+2 | 40% (8) | 40.0% (8) | 
+Length of (mesial) vertical releasing incision | 12.25 (4.53) | 14.35 (4.33) | 0.142
+Length of (distal) vertical releasing incision | 3.21 (4.55) | 5.11 (5.77) | 0.269
+Periosteal releasing incision | 3.80 (8.173) | 4.30 (10.824) | 0.870
+Crestal incision | 14.25 (6.52) | 13.53 (5.96) | 0.720
+
+### Patient‐Reported Healing Outcome Measures
+
+There were no statistically significant differences in the mean VAS scores of pain, bleeding, bruising, rhinorrhea, nasal congestion, hyposmia, and sinus pressure between the freehand group and the SCAIS group (Table 3). However, patients of the SCA‐SFA group reported significantly higher swelling on the 2nd day after surgery (p = 0.04) (Figure 3). ANOVA showed there was a notable time effect, with the mean VAS scores decreasing over time uneventfully after the 2‐week follow‐up (all p < 0.05) except hyposmia(p = 0.058). However, there was no significant interaction between the SCA‐SFA and SFA groups and time, indicating that the reduction in mean VAS scores over time was not significantly different between the SFA and SCA‐SFA groups across all variables assessed (all p > 0.05). When the patients were divided into two groups with regard to the observer's assessment of the healing (uneventful healing vs. any observer remark), a significant association was found on days 3, 5, and 6, where the patients assessed as uneventful also presented with better self‐reported healing outcomes (Table 4).
+
+[TABLE] Patient‐reported healing outcome measures as reported daily by the patients in visual analog scale (VAS) from day 1 to day 14.
+Pain
+SFA | 3.10 ± 3.13 | 2.87 ± 2.52 | 2.73 ± 2.56 | 1.86 ± 2.37 | 0.83 ± 1.04 | 0.83 ± 1.31 | 0.40 ± 0.62 | 0.09 ± 0.25
+SCA‐SFA | 4.08 ± 2.06 | 3.36 ± 1.96 | 2.17 ± 1.90 | 1.46 ± 1.71 | 1.23 ± 1.47 | 0.54 ± 1.08 | 0.22 ± 0.38 | 0.41 ± 1.56
+Bleeding
+SFA | 2.20 ± 2.76 | 1.71 ± 2.15 | 1.10 ± 1.46 | 0.77 ± 1.33 | 0.46 ± 0.74 | 0.21 ± 0.41 | 0.18 ± 0.40 | 0.10 ± 0.35
+SCA‐SFA | 2.37 ± 2.47 | 1.25 ± 2.09 | 1.06 ± 2.05 | 1.05 ± 2.50 | 0.48 ± 1.42 | 0.17 ± 0.43 | 0.10 ± 0.26 | 0.33 ± 1.34
+Bruising
+SFA | 2.11 ± 2.55 | 2.70 ± 2.78 | 2.95 ± 3.28 | 2.21 ± 2.83 | 1.74 ± 2.48 | 1.38 ± 1.97 | 0.85 ± 1.61 | 0.14 ± 0.36
+SCA‐SFA | 1.71 ± 2.27 | 2.07 ± 3.10 | 2.05 ± 3.13 | 2.45 ± 3.28 | 1.81 ± 3.17 | 1.70 ± 2.95 | 1.31 ± 2.36 | 0.24 ± 0.89
+Nosebleed
+SFA | 0.90 ± 1.99 | 0.6 ± 1.35 | 0.20 ± 0.46 | 0.28 ± 0.80 | 0.23 ± 0.78 | 0.33 ± 0.68 | 0.90 ± 1.99 | 0.60 ± 1.35
+SCA‐SFA | 0.64 ± 1.70 | 0.27 ± 1.21 | 0.24 ± 0.86 | 0.13 ± 0.56 | 0.09 ± 0.38 | 0.03 ± 0.12 | 0.64 ± 1.70 | 0.27 ± 1.21
+Rhinorrhea
+SFA | 1.12 ± 2.04 | 1.02 ± 1.59 | 0.81 ± 1.42 | 0.44 ± 0.54 | 0.36 ± 0.54 | 0.38 ± 0.63 | 0.29 ± 0.51 | 0.17 ± 0.40
+SCA‐SFA | 0.88 ± 1.61 | 0.95 ± 1.31 | 0.65 ± 0.88 | 0.65 ± 0.83 | 0.65 ± 1.24 | 0.25 ± 0.44 | 0.15 ± 0.32 | 0.1 ± 0.25
+Nasal congestion
+SFA | 1.25 ± 1.73 | 0.81 ± 1.24 | 0.55 ± 0.92 | 0.44 ± 0.91 | 0.41 ± 0.85 | 0.52 ± 1.05 | 0.44 ± 1.06 | 0.18 ± 0.55
+SCA‐SFA | 1.16 ± 1.70 | 0.77 ± 1.21 | 0.73 ± 1.01 | 0.57 ± 0.73 | 0.33 ± 0.70 | 0.19 ± 0.41 | 0.15 ± 0.32 | 0.03 ± 0.15
+Hyposmia
+SFA | 0.33 ± 0.78 | 0.25 ± 0.56 | 0.18 ± 0.34 | 0.15 ± 0.34 | 0.12 ± 0.34 | 0.12 ± 0.33 | 0.12 ± 0.36 | 0.05 ± 0.14
+SCA‐SFA | 0.31 ± 0.77 | 0.26 ± 0.7 | 0.16 ± 0.43 | 0.1 ± 0.35 | 0.22 ± 0.68 | 0.16 ± 0.57 | 0.03 ± 0.15 | 0 ± 0
+Sinus pressure
+SFA | 0.93 ± 1.92 | 0.88 ± 1.85 | 0.87 ± 1.63 | 0.68 ± 1.45 | 0.72 ± 1.48 | 0.58 ± 1.42 | 0.46 ± 1.22 | 0.12 ± 0.35
+SCA‐SFA | 1.05 ± 1.92 | 1.07 ± 1.74 | 1.11 ± 2.18 | 1.09 ± 1.76 | 0.54 ± 1.21 | 0.38 ± 1.13 | 0.50 ± 1.39 | 0.26 ± 0.78
+Swelling
+SFA | 4.70 ± 2.65 | 4.95 ± 2.85* | 4.62 ± 3.12 | 3.34 ± 2.80 | 2.48 ± 2.21 | 1.81 ± 1.80 | 0.79 ± 1.22 | 0.15 ± 0.28
+SCA‐SFA | 6.15 ± 2.45 | 6.85 ± 2.80* | 6.00 ± 2.38 | 4.40 ± 2.97 | 3.59 ± 2.95 | 2.90 ± 2.95 | 2.01 ± 2.69 | 1.12 ± 2.66
+
+[FIGURE] Mean and standard deviation of swelling as reported daily by the patients in visual analog scale (VAS) from day 1 to day 14. SFA, conventional freehand sinus floor augmentation; SCA‐SFA, static computer‐assisted sinus floor augmentation.
+
+[TABLE] Associations between daily mean of VAS scores of patient‐reported healing outcomes with demographics and observer‐assessed outcomes.
+Age* | r = −0.152 | r = 0.035 | r = 0.011 | r = −0.075 | r = −0.288 | r = −0.541
+a | r = −0.242 | r = −0.101
+Gender ** | 
+Male (N = 25) | 17.75 ± 11.77 | 14.97 ± 9.25 | 13.64 ± 9.03 | 9.82 ± 9.15 | 7.23 ± 7.46 | 6.17 ± 7.13 | 3.98 ± 5.62 | 2.26 ± 6.08
+Female (N = 15) | 17.02 ± 8.53 | 18.56 ± 7.29 | 14.80 ± 6.67 | 13.04 ± 8.05 | 9.63 ± 7.36 | 6.30 ± 5.83 | 4.22 ± 5.63 | 1.15 ± 1.96
+Total surgical time* | r = −0.168 | r = −0.83 | r = 0.115 | r = 0.112 | r = 0.138 | R = 0.111 | r = 0.018 | r = 0.066
+Operators' assessment* | 
+Fit | r = 0.17 | r = 0.309 | r = 0.071 | r = −0.003 | r = 0.034 | r = 0.052 | r = −0.20 | r = 0.014
+Stability | r = −0.210 | r = 0.008 | r = −0.053 | r = −0.117 | r = 0.008 | r = 0.058 | r = −0.025 | r = 0.070
+Precision | r = −0.009 | r = −0.062 | r = −0.308 | r = −0.404 | r = −0.432 | r = −0.301 | r = −0.193 | r = −0.167
+Time‐efficiency | r = 0.065 | r = 0.186 | r = −0.029 | r = 0.193 | r = −0.154 | r = −0.061 | r = 0.050 | r = 0.016
+Vision | r = 0.786 | r = −0.094 | r = −0.435 | r = −0.319 | r = −0.249 | r = −0.098 | r = −0.070 | r = −0.114
+Operator's experience** | 
+Specialist (N = 12) | 17.05 ± 12.26 | 15.38 ± 8.47 | 12.35 ± 4.87 | 8.95 ± 6.31 | 5.32 ± 5.37 | 3.68 ± 4.21 | 2.1 ± 4.21 | 0.92 ± 2.84
+Resident (N = 28) | 17.66 ± 9.98 | 16.71 ± 8.85 | 14.81 ± 9.19 | 11.91 ± 9.63 | 9.34 ± 7.92 | 7.31 ± 7.17 | 4.9 ± 5.91 | 2.23 ± 5.62
+Wound healing | 
+At 2 weeks* | 16.62 ± 9.54 | 15.48 ± 7.96 | 12.68 ± 6.92 | 9.12 ± 6.41 | 6.50 ± 6.2 | 5.1 ± 5.8 | 3.29 ± 5.15 | 0.84 ± 1.84
+Uneventful | 20.88 ± 14.20 | 19.69 ± 10.96 | 19.65 ± 10.67 | 18.65 ± 12.86 | 14.66 ± 8.67 | 10.71 ± 8.00 | 7.2 ± 6.32 | 5.85 ± 9.92
+With observer's remark | (p = 0.443) | (p = 0.333) | (p = 0.029
+a
+) | (p = 0.077) | (p = 0.034
+a
+) | (p = 0.029
+a
+) | (p = 0.074) | (p = 0.196)
+Number of Analgesics** | r = 0.236 | r = 0.372
+a | r = 0.276 | r = 0.302 | r = 0.177 | r = −0.051 | r = 0.273 | —
+
+### Use of Analgesics
+
+Patients in the freehand group consumed significantly less analgesics than those in the SCA‐SFA group on the 1st and 6th day after surgery, while there was no difference noted in any other period (Table 5).
+
+[TABLE] Percentage (%) of the patients reporting use of analgesics (yes/no) overall and in each group for the days followed.
+SFA (N = 20) | 75 | 65 | 55 | 40 | 25 | 5 | 5 | 0
+SCA‐SFA (N = 20) | 100 | 85 | 65 | 55 | 35 | 30 | 10 | 0
+Total (N = 40) | 87.5 | 75 | 60 | 47.5 | 30 | 17.5 | 7.5 | 0
+p | 0.024* | 0.137 | 0.374 | 0.264 | 0.366 | 0.046* | 0.5 | —
+
+### Mean Analgesic Consumption
+
+There was no statistical difference in analgesic consumption between the SFA group and the SCA‐SFA group (Figure 4).
+
+[FIGURE] Mean and standard deviation of the number of analgesic tablets consumed each day, as reported by the patients on a visual analog scale (VAS) from day 1 to day 14. SFA, conventional freehand sinus floor augmentation; SCA‐SFA, static computer‐assisted sinus floor augmentation.
+
+### Intraoperative and Postsurgical Complications
+
+No major intraoperative complications occurred, while in six cases (3 in SFA and 3 in SCA‐SFA) minor perforations (> 10 mm) of the Schneiderian membrane occurred, which were repaired by means of collagen membrane and the procedure continued as planned in all cases. No postsurgical CBCT was necessitated in any of the cases in this study.
+
+Postsurgical flap dehiscence was found in two subjects from the SFA group. One patient in the SFA group experienced a partial loss of augmentation. One patient of the SCA‐SFA group developed maxillary sinusitis with pus discharge diagnosed at 2 weeks after the surgery.
+
+### Specialist‐Assessed Surgical Wound Healing
+
+No difference was found between groups in the healing of the surgical wound during the assessment period of 4 weeks (Table 6).
+
+[TABLE] Percentage of patients (absolute number in parenthesis) with positive records of the five operator‐assessed signs of surgical wound healing at 2 and 4 weeks.
+Flap closure | 2 week | 85.0 (17) | 75 (15) | 80 (32) | 0.347
+4 week | 90.0 (18) | 85.0 (17) | 87.5 (35) | 0.500
+Swollen | 2 week | 15.0 (3) | 5.0 (1) | 10 (4) | 0.302
+4 week | 0 | 0 | 0 | —
+Redness | 2 week | 20.0 (4) | 5.0 (1) | 12.5 (5) | 0.171
+4 week | 5.0 (1) | 0 | 2.5 (1) | 0.500
+Dehiscence | 2 week | 10.0 (2) | 20.0 (4) | 15.0 (6) | 0.331
+4 week | 5.0 (1) | 15 (3) | 10 (4) | 0.302
+Suppuration | 2 week | 0 | 5.0 (1) | 2.5 (1) | 0.500
+4 week | 0 | 5.0 (1) | 2.5 (1) | 0.500
+
+### Duration of Surgery
+
+The SCA‐SFA group showed a significantly shorter duration for the preparation osteotomy of the lateral window, the collagen membrane placement, and the total duration (Table 7). The total duration of the surgery in most cases using SCA‐SFA was consistently less than that of SFA (Figure 5). There was a statistically significant positive correlation between the use of SCA‐SFA and faster window osteotomy time (r = 0.368), as well as total surgical time (r = 0.36). Interestingly, the time required to adjust the surgical guide was skewed by very few cases (Figure 6); in particular, in one case, the guide required approximately 17 min (1046 s) for adjustment and 9 min (563 s) in another. There was no need for adjustment in 15 of 20 cases, while the remaining 3 required adjustments between 1 and 2 min. When the highest outlier case was removed (1046 s), there was still a statistically significant difference in the time required for the osteotomy, including the guide adjustment, with the SCA‐SFA group being faster (p = 0.046).
+
+[TABLE] Duration of procedures and overall surgery in minutes, mean, and standard deviation in parenthesis. Mean difference (95% confidence interval is presented in the first column to the left.
+Flap elevation | 0.25 (−1.47, 1.97) | 6.41 ± 2.64 | 6.53 ± 3.24 | 6.28 ± 1.95 | 0.769
+Adjustment of surgical guide | −1.84 (− 11.33, 7.65) | — | — | 1.84 ± 4.42 | —
+Window osteotomy | 7.14 (1.22, 13.05) | 15.00 ± 9.81 | 18.56 ± 12.17 | 11.43 ± 4.75 | 0.022*
+Membrane elevation | 4.30 (−0.08, 8.68) | 12.99 ± 7.10 | 15.14 ± 7.25 | 10.84 ± 6.41 | 0.054
+Augmentation | 2.14 (–0.52, 4.80) | 7.92 ± 4.24 | 8.99 ± 4.92 | 6.85 ± 3.20 | 0.111
+Suturing | 0.17 (−5.90, 6.24) | 17.85 ± 9.35 | 17.94 ± 8.58 | 17.77 ± 10.29 | 0.955
+Total time | 13.65 (2.02, 25.27) | 63.06 ± 19.21 | 69.89 ± 20.08 | 56.24 ± 16.01 | 0.023*
+
+[FIGURE] Graphic representation of the frequency distribution of the total duration of surgery for the two groups (SFA above—SCA‐SFA below).
+
+[FIGURE] Frequency distribution of the time spent to adjust the surgical guide, with 15 of 20 cases showing perfect fit from start, while one outlier required extraoral adjustment consuming approximately 17 min (1046 s).
+
+The results of multiple linear regression analysis are shown in Table 8. Among the independent variables, only operators' experience (β = 0.358, p = 0.017) and SCA‐SFA (β = 0.321, p = 0.0031) use was significantly associated with operation time. Specialists or use of SCA‐SFA was associated with less total surgical time.
+
+[TABLE] Regression analyses predicting window osteotomy time and total surgical time.
+Group (SCA‐SFA vs. SFA) | 428.30 (−783.26, −73.34) | 0.019* | 463.94 (−805.99, −121.88) | 0.009* | 818.95 (−1516.48, −121.42) | 0.023 | 730.04 (−1388.0, −72.06) | 0.031*
+Operators' experience (Specialists vs. Residents) | 208.31 (−202.63, 619.25) | 0.311 | — | — | 976.06 (226.0, 1726.12) | 0.012* | 889.151 (171.24, 1607.06) | 0.017*
+Location (Quadrant 1 vs. 2) | 309.53 (−60.56, 79.55) | 0.099 | 356.38 (12.61, 700.17) | 0.043* | 171.126 (−578.11, 920.37) | 0.646 | — | —
+Number of implants (1 vs. 2) | 165.59 (−230.94, 562.13) | 0.403 | — | — | 93.14 (−876.22, 689.95) | 0.811 | — | —
+ | R
+2 = 0.228 Adjust R
+2 = 0.186 (p = 0.008) | R
+2 = 0.256 Adjust R
+2 = 0.216 (p = 0.004)
+
+In the prediction of window osteotomy time, there were significant predictors (R2 = 0.228 p = 0.008) with the SCA‐SFA and location both having meaningful impacts. The SCA‐SFA shows a strong negative effect when comparing SCA‐SFA to SFA (β = 0.399, p = 0.009), while Quadrant 1 shows a positive effect compared to Quadrant 2 (β = 0.305, p = 0.0043).
+
+### Operators' Assessment of the Surgical Guide
+
+All operators rated the fit and stability of the surgical guide, which was found to be excellent in about half of the cases, precisely locating the planned window in 45% of the cases (Table 9). With regard to time efficiency, however, most ratings were in the “good” category.
+
+[TABLE] Operators' assessment of the efficacy of the surgical guide in the SCA‐SFA group. Percentage of cases assessed in each of the five levels.
+Fitting of guide | 55.0 | 20.0 | 15.0 | 10.0 | 0
+Stability of guide | 50.0 | 40.0 | 5.0 | 5.0 | 0
+Precision of window | 45.0 | 40.0 | 10.0 | 5.0 | 0
+Time‐efficiency | 40.0 | 45.0 | 15.0 | 0 | 0
+Vision and control | 35.0 | 40.0 | 15.0 | 10.0 | 0
+
+## Discussion
+
+The results of this study suggest that the use of a surgical guide did not result in any less intra and postoperative complications, any better postoperative healing, and patient‐reported outcomes, when compared to conventional freehand surgery. In addition, higher swelling was observed after the use of the surgical guide on day 2, which was also the time point when the swelling peaked, at least as reported by the patient. There might be some reasons for this outcome, possibly related to the need for further superior elevation of the flap in order to position the guide, potentially causing additional trauma due to both periosteal elevation and constant retraction. During the treatment planning phase, the superior margin of the lateral window is planned in the optimal position based on the planned implant and the CBCT. During the actual surgery, however, the surgeon might choose to modify the position of the superior osteotomy and limit the vestibular extension of the flap in case of reduced mouth opening or other anatomic reasons. When using the prefabricated surgical guide, however, the elevation of the flap was essential to the entire length of the guide in order to fit in place, and there was no possibility to modify the flap design. It was also observed that the use of the surgical guide necessitated longer vertical releasing incisions compared to freehand, although this difference was not statistically significant. This might have contributed to the increased postsurgical swelling, as also observed in the study by Cho et al. [24], thus it might be recommended to remove the superior outline of the surgical guide in order to decrease the need for flap extension. Zaniol et al. demonstrated that placing a low window osteotomy position helped to reduce detachment of the mucoperiosteal flap while still effectively elevating the membrane and grafting the sinus [25].
+
+The fact that patient‐reported healing outcomes did not differ in any other aspects between the two groups might reflect the similar procedural steps, flap design, and lateral window dimensions, which allowed for good control of the actual use of the surgical guide. A systematic review on lateral wall sinus floor elevation [26] showed similar healing outcomes with a peak in pain reported 1 day postoperatively and a gradual decline thereafter, observations in alignment with several previous studies [26, 27, 28, 29].
+
+The use of a s‐CAIS guide could effectively reduce the duration of lateral window sinus augmentation surgery and in particular the preparation of the lateral window, which was about 40% faster with s‐CAIS (average 11 min) than when conducted freehand (19 min). This difference might have been also partly responsible for the 20% reduction of the total duration of the surgery with s‐CAIS (56 min) as opposed to freehand (70 min). The guide required adjustment in 5 of 20 cases, which consumed intraoperative time, reaching in one case (outlier) 17 min. When this case was excluded from the analysis, the time required for the osteotomy and guide adjustment was still less in the s‐CAIS group. This is however indicative of the technology: it would deliver superior outcomes in most of the cases; at times however, there will be cases where problems occur that can nullify any anticipated advantages.
+
+The narrower and more symmetric distribution of total surgical duration with SCA‐SFA suggests that it offers more consistent use of time, compared to the traditional SFA method. Specialists, however, were able to complete the procedure on average 15 min faster than residents, assuming all other variables remained constant—a difference that had a greater impact than the use of SCA‐SFA, which reduced surgical time by approximately 12 min. However, this regression model explains only 18% of the variance in surgical time, indicating that other factors, such as the instruments used, the distance of mouth opening, and tissue resilience, may also influence the duration. Baldini et al. reported the overall duration of lateral sinus lift augmentation to be on average 42.62 ± 6.67 min [30], when an expert operator conducted the augmentation through a small lateral window of 6 × 6 mm dimensions. The average window dimensions in this study were larger, closer to 10 × 8 mm. Scarano et al. also reported a surgical duration of 31.6 ± 18.0 min [20]. Patients who undergo longer surgical procedures tend to experience increased postoperative pain [31]. Nevertheless, in this study, the clear advantage in terms of time of the intervention was not sufficient to substantiate any improved healing outcomes, either as reported by the patient or objectively assessed prospectively by the operator.
+
+Sinus Floor Augmentation is generally predictable; the most common complication remains membrane perforation. In the present study, membrane perforation occurred in 15% of the cases, which is similar to previous studies reporting 15.7% [32] and 19.5% [5], mostly occurring during the lateral window osteotomy. All complications encountered in this study were managed intraoperatively without the requirement of any additional procedures or aftercare.
+
+Intraoperative hemorrhage has been reported around 0.4%–2% [3, 32] most frequently due to intraosseous vessel injury which runs along the lateral wall of the maxillary sinus in a transverse position. SCA‐SFA could prevent the prevalence of such hemorrhage to the extent that large arterial intraosseous vessels can be identified in the CBCT and thus design the lateral window accordingly to avoid damaging them (Figure 7). Moreover, SCA‐SFA could prevent osteotomy injuries to adjacent teeth which have also occasionally been reported [32, 33]. Finally, the SCA‐SFA could help to conduct the appropriate design of the window in the case of septa, where some authors have proposed a surgical guide for two windows. Collectively these arguments suggest an increased value of the SCA‐SFA approach in cases of increased complexity, such as the presence of large intraosseous arterial branches, vertical or horizontal septa, and other anatomic challenges.
+
+[FIGURE] A branch of the posterior superior artery is identified in the area approximately in the middle of the lateral window with a partly intraosseous course. The surgical guide can help place the superior osteotomy with precision above the intraosseous component of the arterial branch.
+
+The results of this clinical trial should be seen under the limitations of the methodology. The protocol utilized conducts numerous tests at multiple time points which might increase the risk for type‐1 errors. At the same time, using adjustment methods may reduce the ability to detect true associations in this dataset, which could be inappropriate in the context of this protocol, which has already been utilized and analyzed in this manner in several previous studies [22, 23, 34, 35]. The study involved several operators with different levels of experience. The operators were randomly assigned to the patients and the two groups, aiming to prevent any systemic bias in the distribution of experience in the two groups. There was some trend for specialists to associate with better patient‐reported healing outcomes, which however did not reach significance statistically (Table 4). Although operators were objectively grouped among specialists and residents, there were differences in the level of experience with sinus surgery as well as static CAIS within the groups, which might account to a certain extent for the diversity of outcomes. At the same time, neither the operators nor the patients could be blinded. Although all time measurements were conducted by an independent observer on the basis of recordings, potential bias in the form of a “novelty effect” cannot be excluded from the operators or the patients. Furthermore, some clinical conditions such as flap dehiscence were assessed by the operator in a dichotomous (Y/N) scale which could introduce a tendency towards over‐sensitivity, classifying even minor deviations from the average healing patterns as “Y”. Two cases of flap dehiscence were noted at the 2 weeks examination; however, the pain reported by the respective patients (0, 0.4/10 VAS) was no different from the mean, which suggests the observed dehiscence was of minor clinical impact. Although efforts were taken to standardize the sample as much as possible, the study still included cases with diverse anatomic conditions and residual bone varying between 1 and 5 mm, which can imply differences in clinical management and complexity. Nevertheless, the randomization process secured a similar representation of anatomic conditions in both groups. Moreover, the study was focused on patient‐reported outcomes related to postsurgery healing. Patient‐related outcomes and experience today include a wider array of outcomes aiming to assess, among others, patient satisfaction with care and effect on their physical, mental, emotional, spiritual, and social well‐being. Future studies could offer deeper insights into patients' experience and perceptions by implementing measures of impact on oral health‐related quality of life, functional limitations, satisfaction with, and perceived value of the care delivered, and more.
+
+## Conclusion
+
+The use of static computer‐assisted sinus floor augmentation can reduce the time required for conducting the lateral window osteotomy, as well as the overall time of the surgery, while the design of the surgical guide should strive for minimal invasiveness. Within the limitations of the variability of cases and operating surgeons, SCA‐SFA should be preferred when reduction of surgical time is a priority while costs of the intervention do not play a major role.
+
+## Author Contributions
+
+Sirida Arunjaroensuk, Keskanya Subbalekha, Paksinee Kamolratanakul, Atiphan Pimkhaokham, Nikos Mattheos: conceptualization, methodology, validation, writing – review and editing. Nattakarn Narongchai, Keskanya Subbalekha, Atiphan Pimkhaokham, Nikos Mattheos: investigation. Nattakarn Narongchai: data curation, formal analysis, visualization, writing – original draft. Atiphan Pimkhaokham, Nikos Mattheos: project administration, resources, supervision. Nattakarn Narongchai, Keskanya Subbalekha, Atiphan Pimkhaokham, Nikos Mattheos: investigation.
+
+## Conflicts of Interest
+
+The authors declare no conflicts of interest.
+
+## Supporting information
