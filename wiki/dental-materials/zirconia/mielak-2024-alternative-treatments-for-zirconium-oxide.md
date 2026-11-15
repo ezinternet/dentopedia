@@ -5,7 +5,7 @@ year: 2024
 doi: "10.3390/ma17215175"
 pmid: "39517458"
 pmcid: "PMC11547838"
-source: sources/mielak-2024-alternative-treatments-for-zirconium-oxide.md
+source: mielak-2024-alternative-treatments-for-zirconium-oxide.md
 category: dental-materials/zirconia
 source_collection: pubmed-text
 evidence_level: in-vitro
