@@ -34,7 +34,7 @@ source: synthesis
 ## Three-line Summary
 
 - Five landmark outcome studies converge: obturate to the apical constriction (0–2 mm short of the radiographic apex), with a dense void-free fill and no extrusion; overfilling consistently lowers success.
-- The optimal working length is diagnosis-dependent, not a fixed value: vital/no-lesion cases tolerate (and prefer) a WL farther from the apex, whereas necrosis + apical periodontitis requires a WL close to the apex to debride the infected apical portion.
+- The optimal working length is diagnosis-dependent, not a fixed value: vital/no-lesion cases tolerate (and prefer) a WL farther from the apex, whereas necrosis + apical periodontitis requires a WL close to the apex to debride the infected apical portion. Obturation technique (CLC, WVC, SC, CB) does not determine long-term outcome — Mushtaq 2026 (SR+MA, 84 studies, 11,965 samples) shows equivalent success across techniques, with only a small transient SC disadvantage at 24 months (CLC/CB β +5–7.5%) converging by 3 years — so technique choice should follow operator skill and case anatomy, not expected efficacy rankings.
 - Preoperative pulpal/periapical status is the dominant prognostic factor across every study; filling length is a modifiable but secondary lever.
 
 ## 세줄요약
