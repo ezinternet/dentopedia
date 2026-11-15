@@ -3,7 +3,7 @@ title: "Analysis of surface characteristics of (Y, Nb)-TZP after finishing and p
 authors: "Yoo Seong-keun, Jo Ye-Hyeon, Yeo In-Sung Luke, Yoon Hyung-In, Lee Jae-Hyun, Ahn Jin-Soo, Han Jung-Suk"
 year: 2022
 doi: "10.4047/jap.2022.14.6.335"
-source: sources/yoo-2022-analysis-of-surface-characteristics-of.md
+source: yoo-2022-analysis-of-surface-characteristics-of.md
 category: dental-materials/zirconia
 source_collection: pubmed-text
 evidence_level: in-vitro
