@@ -3,7 +3,7 @@ title: "Reliability of the digital functionally generated path technique for ass
 authors: "Saad Sherine Anwar, Shalaby Yousreya Atteya, Azer Amir Shoukry"
 year: 2024
 doi: "10.1186/s12903-024-05202-9"
-source: sources/saad-2024-reliability-of-the-digital-functionally.md
+source: saad-2024-reliability-of-the-digital-functionally.md
 category: digital-workflow
 source_collection: pubmed-text
 evidence_level: rct
