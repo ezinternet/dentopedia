@@ -3,7 +3,7 @@ title: "Effects of surface treatments, LTD aging, and pH on the mechanical behav
 authors: "Ozkan Ata Secil, Cetintas Sevgi"
 year: 2025
 doi: "10.1186/s12903-025-07473-2"
-source: sources/ozkan-2025-effects-of-surface-treatments-ltd.md
+source: ozkan-2025-effects-of-surface-treatments-ltd.md
 category: dental-materials/zirconia
 source_collection: pubmed-text
 evidence_level: in-vitro
