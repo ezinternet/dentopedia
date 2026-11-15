@@ -2,7 +2,7 @@
 title: "감사 커버리지 갭 — Gemini 파이프라인 건전성 프레임워크 대조"
 type: agenda
 date: 2026-11-15
-status: in-progress
+status: done
 owner: 원장
 priority: P2
 tags: [audit, quality-assurance, pipeline-health]
@@ -22,15 +22,15 @@ Gemini가 제안한 논문 위키 파이프라인 건전성 9항목 프레임워
 # Output
 
 - [x] `AUDITS.md` §커버리지 갭 섹션 추가 (2026-11-15)
-- [ ] `scripts/parse-gap-flag-audit.py` — 항목 2 커버 (파싱 결측 플래그)
-- [ ] `scripts/source-provenance-lint.py` — 항목 3+5 커버 (Provenance + Limitations)
+- [x] `scripts/parse-gap-flag-audit.py` — 항목 2 커버 (파싱 결측 플래그) (2026-11-15)
+- [x] `scripts/source-provenance-lint.py` — 항목 3+5 커버 (Provenance + Limitations) (2026-11-15)
 
 # Done Criteria
 
 - [ ] 9항목 전체가 "커버됨 / 자동화불가 / 신규스크립트" 중 하나로 분류됨
 - [ ] 신규 스크립트 2개 명세 완성 (입력·출력·억제 조건)
 - [ ] `AUDITS.md`에 갭 섹션 반영
-- [ ] `daily-audit.py` AUDITS 리스트에 신규 스크립트 추가 (스크립트 구현 후)
+- [x] `daily-audit.py` AUDITS 리스트에 신규 스크립트 추가 (2026-11-15)
 
 # 갭 분석 요약
 
