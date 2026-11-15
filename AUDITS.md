@@ -87,3 +87,35 @@ Run daily (manual or cron). Watch these over time:
 Audits only compound if someone reads them; leaving that to memory is the weak link. The intended terminal is a one-line badge in the morning-briefing pipeline (STALE overview N건, category-overflow N건, BROKEN link N건) so the day's top signals surface without opening `logs/`. Design: `agenda/2026-07-15_audit-to-briefing-bridge.md`.
 
 Design rationale (audit set): see `agenda/2026-05-26_synthesis-enforcement-setup.md`.
+
+---
+
+## 커버리지 갭 — Gemini 프레임워크 대조 (2026-11-15)
+
+Gemini의 9항목 프레임워크와 현재 26개 감사를 대조한 갭 분석. 근거: `agenda/2026-11-15_audit-coverage-gap-gemini-framework.md`.
+
+### 커버됨 (5/9)
+
+| 항목 | 담당 감사 |
+|---|---|
+| 4. 연구 설계 메타데이터 분리 | `lint.py` — evidence_level vocab 전수 검증 |
+| 6a. 고아 노트 5% 미만 | `orphan-check.py` + `synthesis-backlog.py` |
+| 6b. 깨진 링크 0건 | `link-integrity.py` |
+| 7a. 중복 인제스트 차단 | `doi-duplicate-check.py` |
+| 9. 코퍼스 외 지식 혼입 차단 | `golden-question-check.py` + `[확인]/[미검증]` 출력 태그 |
+
+### 갭 — 현재 감사에 없음 (4/9)
+
+**자동화 불가 — 수동 하이브리드만 가능:**
+
+- **항목 1. 수치 원문 일치율 100%**: 주요 수치($n$, $p$-value, CI)를 원문 PDF와 대조. LLM이 수치를 오독하거나 군(Group)을 뒤섞는 오류는 deterministic 감사로 잡을 수 없다. 권장 절차: 주간 신규 인제스트 10%를 무작위 추출해 `papers/{stem}.pdf` Results 섹션과 수동 대조. 위반 발견 시 `logs/ingest-deviations.md`에 `data-integrity` 유형으로 기록 → `deviation-audit.py`가 Rule-of-Three trigger.
+
+**신규 감사 스크립트로 커버 가능:**
+
+- **항목 2. 파싱 결측 플래그**: `sources/*.md`에 `[원문 표 대조 필요]` 태그가 적절히 쓰이고 있는지 — 최근 30일 인제스트 중 태그 없는 파일 비율. 다단 레이아웃 논문(`pmc-empty-fulltext`계열)에서 태그 의무화 여부 확인. → 제안 스크립트: `parse-gap-flag-audit.py`
+- **항목 3 + 5. 출처 위치 Provenance + 한계점 보존**: `sources/*.md`에 `## Limitations` 섹션이 존재하는가 (항목 5). 주요 결론에 `(Results Table X)` 형태의 출처 주석이 붙어 있는가 (항목 3). → 제안 스크립트: `source-provenance-lint.py`
+
+**부분 커버 — 제시 방식 미검증:**
+
+- **항목 7b. 용어 파편화**: `doi-duplicate-check.py`는 같은 논문의 중복 stem을 잡지만, `BIC` vs `Bone-to-Implant Contact` vs `BIC率`처럼 태그·카테고리가 약어/풀네임/한국어로 파편화되는 경우는 미검사. 작은 코퍼스에서는 수동 태그 감사가 현실적.
+- **항목 8. 상충 근거 병렬 제시 방식**: `find-contradiction-candidates.py`는 갭(엣지 없는 충돌 쌍)을 탐지하지만, 이미 `relations:` 엣지가 달린 쌍의 **답변 내 병렬 제시 방식**은 감사 범위 밖. `golden-question-check.py`의 문항 중 "상충 근거가 있는 주제" 타입을 추가해 답변 품질을 간접 모니터링하는 방향이 현실적.
