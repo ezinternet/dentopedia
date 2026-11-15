@@ -1,0 +1,188 @@
+TITLE: Histological and histomorphometric assessment of lateral window sinus augmentation in severe maxillary atrophy using a mixed allograft with β-TCP/HA and autologous platelet-rich fibrin
+AUTHORS: Nguyen Giang Hoang, Le Khanh Vu Phuong, Le Lam Nguyen, Vo Nhan Van
+JOURNAL: BMC Oral Health
+ID[pmcid]: PMC13366595
+ID[pmcid-ver]: PMC13366595.1
+ID[pmcaid]: 13366595
+ID[pmcaiid]: 13366595
+ID[pmid]: 42050510
+ID[doi]: 10.1186/s12903-026-08332-4
+ID[publisher-id]: 8332
+
+## ABSTRACT
+BackgroundImplants offer superior physiological and functional outcomes; however, their success depends on the availability of adequate local bone volume. In cases of severe maxillary resorption, this approach is often challenged by anatomical limitations such as expanded maxillary sinuses or other features that compromise the residual bone volume.
+ObjectiveThis study aimed to assess histological outcomes of lateral window sinus augmentation performed with a composite graft comprising a 2:1 mixture of allograft (corticocancellous bone; HC Biologics, USA) and a synthetic bone substitute (30% HA/70% β-TCP) combined with autologous platelet-rich fibrin (PRF).
+Materials and methodsThis prospective registered histomorphometric study analyzed 60 biopsy specimens obtained from sinus augmentation sites in a Vietnamese cohort with severely atrophic posterior maxilla (residual bone height ≤ 4 mm). Bone regeneration was evaluated following lateral-window sinus augmentation using a composite graft composed of a 2:1 mixture of allograft (corticocancellous bone; HC Biologics, USA) and a synthetic bone substitute (30% HA/70% β-TCP; Osteon II, Dentium, Korea) combined with autologous platelet-rich fibrin (PRF). Histomorphometric analysis was performed on three non-consecutive sections per specimen using ImageJ. The standardized protocol and relatively large number of biopsies provide clinically relevant histological evidence.
+ResultsThe mean proportion of newly formed bone was 31.28% (95% CI: 26.70%–35.85%), while the mean residual graft material accounted for 15.48% (95% CI: 12.29%–18.68%). Histological evaluation revealed no evidence of inflammatory infiltrates or tissue necrosis. The presence of a well-organized lamellar bone architecture, with Haversian canals and osteocytes embedded within lacunae, indicated advanced bone maturation. At the graft periphery, numerous osteoblasts and osteoclasts were identified, reflecting ongoing bone remodeling. Residual bone height averaged 2.31 ± 0.93 mm. Newly formed bone accounted for 31.28 ± 17.71%, while connective tissue represented 53.23 ± 18.75%. Primary implant stability (ISQ1) was 58.20 ± 6.47 and increased to 74.85 ± 7.68 at six months (ISQ2). ISQ1 correlated strongly with residual bone height (r = 0.626) and inversely with connective tissue (r = − 0.627), and moderately with newly formed bone (r = 0.405) (all p ≤ 0.001).
+ConclusionsWithin the limitations of this prospective single-arm study, sinus augmentation using a composite graft composed of a 2:1 mixture of allograft (corticocancellous bone; HC Biologics, USA) and a synthetic bone substitute (30% HA/70% β-TCP; Osteon II, Dentium, Korea) combined with autologous platelet-rich fibrin (PRF) resulted in favorable histological and histomorphometric outcomes after six months of healing. The regenerated tissue provided a biocompatible osteoconductive environment supporting bone formation within the augmented sinus. Nevertheless, because the study lacked a comparator group, the individual contribution of each graft component cannot be determined, and the findings should be interpreted as descriptive rather than causal evidence.
+Trial registrationClinicalTrials.gov NCT07186166, 30 August 2025. Retrospectively registered.
+
+## Introduction
+
+Loss of posterior maxillary teeth is frequently followed by progressive maxillary sinus pneumatization and alveolar ridge resorption, which may reduce the available vertical bone height for implant placement. These anatomical changes have been widely documented and may complicate implant rehabilitation in the posterior maxilla [1, 2]. Sinus floor elevation (SFE), either via a transalveolar or a lateral window approach, is frequently required to restore adequate bone volume. The selection of technique depends largely on residual bone height, sinus anatomy, and the need to achieve primary implant stability [3, 4]. In general, a transalveolar approach is recommended when residual bone height is ≥ 5 mm, whereas the lateral window technique is preferred when residual bone height is < 5 mm [5–7].
+
+Autogenous bone is traditionally considered the gold standard for grafting due to its osteogenic, osteoinductive, and osteoconductive properties. Nonetheless, its clinical application is limited by donor site morbidity, extended surgical time, and unpredictable resorption rates. These drawbacks have prompted the development of alternative grafting materials, including freeze-dried bone allografts, deproteinized bovine bone mineral (DBBM) xenografts, alloplastic substitutes, and bioactive glasses. Various grafting materials, including allografts, xenografts, and synthetic substitutes, have been widely investigated for sinus augmentation procedures [8–10].
+
+Bone grafting is often combined with the open sinus lift procedure. After creating the lateral window, the sinus membrane is gently elevated, and the space between the sinus floor and membrane is filled with graft material [11]. A key challenge, however, is maintaining a stable blood clot within this space. The use of platelet-rich fibrin (PRF) can strengthen a graft-free sinus lift. Introduced by Choukroun in 2001, PRF is prepared by centrifuging whole blood into three layers: red blood cells, a PRF clot, and cell-poor serum. The PRF clot, rich in fibrin, platelets, leukocytes, and growth factors, supports cell migration, aggregation, proliferation, and differentiation, promotes angiogenesis, and enhances tissue healing and regeneration [7, 12, 13].
+
+In recent years, composite grafts combining allografts with β-tricalcium phosphate (β-TCP) have gained attention as promising alternatives. These biomaterials offer an osteoconductive scaffold while eliminating the need for autogenous bone harvesting, with growing evidence supporting their efficacy in maxillary sinus augmentation [14, 15]. However, most histological studies have been conducted in Europe and North America, while data from Southeast Asia remain scarce. For instance, populations in Vietnam often present with distinct nutritional patterns, lower calcium intake, and higher prevalence of metabolic bone conditions compared with Western cohorts [16, 17]. These factors could potentially alter the biological response to grafting materials. Therefore, generating histological evidence within the Vietnamese population is essential to validate the predictability of composite grafts and to provide region-specific data that can guide clinicians in daily practice. However, histological evidence regarding the performance of composite grafts in severely atrophic posterior maxillae remains limited, particularly in Southeast Asian populations. To address this gap, the present study aimed to evaluate the histological and histomorphometric outcomes six months after lateral window sinus augmentation using a 2:1 mixture of allograft and synthetic bone substitute (30% HA/70% β-TCP) combined with autologous PRF.
+
+This study was designed as a prospective, descriptive histological investigation to characterize tissue composition following sinus augmentation with a composite graft in a Vietnamese cohort. It was not intended to compare graft materials.
+
+## Materials and methods
+
+### Study participants
+
+#### Inclusion criteria
+
+Patients with a residual bone height ≤ 4 mm and a minimum prosthetic space of 5 mm who consented to participate were included for LWSFA in this study. Patients were recruited from the Department of Oral and Maxillofacial Surgery at Can Tho University of Medicine and Pharmacy Hospital. All patients treated at the clinic during the study period who required sinus augmentation were screened for eligibility according to the predefined inclusion and exclusion criteria.
+
+#### Exclusion criteria
+
+Patients with acute or chronic maxillary sinusitis, bleeding disorders, diabetes mellitus, bone metabolic diseases, periodontal disease, or malignancies were excluded. Additionally, individuals taking medications that could affect bone metabolism or hemostasis, such as aspirin, heparin, warfarin, nonsteroidal anti-inflammatory drugs (NSAIDs), or glucocorticoids, were not eligible. Smokers and pregnant women were also excluded from the study.
+
+### Study design
+
+Sixty posterior maxillary edentulous sites in 42 patients with residual bone height ≤ 4 mm and a minimum prosthetic space of 5 mm were enrolled for lateral window sinus augmentation between January 2022 and February 2024 (Fig. 1). All participants were fully informed about the study protocol, potential risks, and complications, and provided written informed consent before their inclusion. Ethical approval was obtained from the Ethics Committee for Biomedical Research at Can Tho University of Medicine and Pharmacy (Decision No. 504/PCT-HĐĐĐ). Trial registration: ClinicalTrials.gov NCT07186166, 30 August 2025. Retrospectively registered.
+
+Fig. 1CONSORT flow diagram
+
+### Calculation formula
+
+The required sample size was calculated using the standard formula for estimating a proportion: n = Z² × p(1 − p) / d², where Z represents the confidence level (95%, Z = 1.96), p is the estimated proportion derived from a previous study (p = 9.09%) [18], and d is the acceptable precision (d = 0.0231).
+
+Some patients contributed more than one sinus site; therefore, a total of 60 grafted sites were obtained from 42 patients. Because observations from the same patient may not be fully independent, the potential clustering effect was considered when interpreting the results. However, as this study was primarily designed as a descriptive histological investigation, analyses were performed at the specimen level, consistent with previous histomorphometric studies of sinus augmentation.
+
+### Study procedure
+
+#### Surgical procedures
+
+##### Phase 1: lateral window sinus floor augmentation (LWSFA) bone graft
+
+Residual bone height (RBH) was assessed using cone-beam computed tomography (CBCT). Measurements were obtained from cross-sectional images perpendicular to the alveolar ridge at the planned implant site. The vertical distance from the crestal alveolar ridge to the sinus floor was recorded using digital imaging software. All measurements were independently performed by two calibrated examiners. A calibration session was conducted prior to the study to ensure measurement consistency and inter-examiner reliability. All patients received prophylactic antibiotics (Amoxicillin with Clavulanic Acid, 1 g) one hour preoperatively, and local anesthesia (2% Lidocaine with Epinephrine 1:100,000) was administered. A crestal incision with mucoperiosteal flap elevation was performed, followed by creation of a lateral window using a piezotome. The Schneiderian membrane was carefully elevated, and the sinus cavity was grafted with a 2:1 ratio of allograft (Corticocancellous bone, HC Biologics, USA) and synthetic bone substitute (30% HA/70% β-TCP, Osteon II, Dentium, Korea). This ratio was selected to balance biological and structural functions: the allograft provides a mineralized matrix resembling native bone architecture, while β-TCP/HA contributes controlled resorption and space maintenance. Ratios favoring the biologic component have been suggested to enhance remodeling while preserving scaffold stability, combined with autologous PRF. Venous blood samples were collected in sterile glass tubes without anticoagulant (BD Vacutainer®, Becton, Dickinson and Company, USA). PRF was prepared according to the Choukroun protocol. The tubes were immediately centrifuged at 2700 rpm for 12 min using a tabletop centrifuge (DM0412, rotor A12-10P, DLAB Scientific Co., Ltd., Beijing, China; catalogue No. 9034002122). After centrifugation, the PRF clot located between the red blood cell fraction and acellular plasma was carefully separated and compressed into membranes using a sterile PRF box [13]. Two PRF membranes were prepared for each surgical site and mixed with the graft material prior to placement in the sinus cavity. This standardized preparation protocol was applied to all patients to ensure consistency in the biological properties of PRF. All sinus augmentation procedures were performed by experienced clinicians trained in sinus augmentation surgery at the same institution, following a standardized surgical protocol to ensure consistency in surgical technique and minimize operator-related variability.
+
+##### Phase 2: the histological analysis of the bone grafts and implant placement
+
+After six months, core biopsies were harvested from the planned implant sites using a 3 mm trephine drill before implant placement. Biopsy specimens were fixed in 10% buffered formalin, decalcified using EDTA solution, embedded in paraffin, and sectioned at approximately 5 μm thickness. Sections were stained with hematoxylin and eosin (H&E) for histological evaluation. Following biopsy retrieval, implant osteotomies were completed and implants placed. Primary stability was measured using the Implant Stability Quotient (ISQ).
+
+#### Histological evaluation
+
+Sections were prepared and stained, then analyzed with ImageJ software to calculate the area fraction of newly formed bone and residual graft particles. Three non-consecutive sections at coronal, middle, and apical levels of the core were analyzed to ensure representativeness of the entire biopsy. Data were expressed as a percentage of the total image surface (Figs. 2 and 3).
+
+Fig. 2Representative example of polygon selection in ImageJ used for tissue segmentation
+
+Fig. 3Quantitative analysis of the biopsy specimen suggests the proportion of occupied areas, categorized as: (1) residual graft material, (2) newly formed bone, and (3) total image area
+
+Areas not identified as mineralized new bone or residual graft particles were classified as connective tissue/bone marrow–like tissue. Empty vascular or marrow spaces within this tissue were included in this category, as they represent physiological marrow compartments rather than void artifacts. Non-tissue processing artifacts were excluded from measurements. Histomorphometric measurements were performed using ImageJ software by two independent examiners who were blinded to the clinical data. Intra- and inter-examiner reproducibility were evaluated prior to analysis to ensure measurement reliability.
+
+### Statistical analysis
+
+Statistical analysis was performed using SPSS software (version 26.0; IBM Corp., Armonk, NY, USA). Data were expressed as mean ± standard deviation (SD), 95% confidence intervals, and ranges. Normality of continuous variables was assessed using the Shapiro–Wilk test, and homogeneity of variance was evaluated using Levene’s test. Exploratory one-way ANOVA was performed to illustrate differences among tissue components.
+
+Because newly formed bone (NB), residual graft material (R), and connective tissue (CT) represent compositional variables that sum to 100%, correlations among these components were interpreted cautiously. Inferential statistics involving these variables were considered exploratory because proportional dependency may influence correlation coefficients.
+
+Given the compositional nature of the data, statistical comparisons among tissue components should be interpreted as exploratory rather than confirmatory. No compositional transformations were applied because the primary objective of the present study was the descriptive characterization of tissue composition within the biopsy specimens.
+
+Because multiple biopsy specimens could originate from the same patient, a potential clustering effect may exist. However, histomorphometric studies of sinus augmentation commonly use the biopsy specimen as the unit of analysis because each core represents a localized microenvironment within the grafted sinus. Therefore, analyses were performed at the specimen level and interpreted with caution. All statistical analyses were performed using two-tailed tests.
+
+Pearson correlation analysis was applied when variables were normally distributed, whereas Spearman correlation was used when normality assumptions were not met. Statistical significance was set at p < 0.05. An independent t-test was used to compare tissue proportions between sexes.
+
+## Results
+
+A total of 42 patients (60 sinus augmentation sites) were included in the study. The mean patient age was 53.57 ± 12.90 years (range: 23–72 years). Sixteen patients were male (38.1%) and 26 were female (61.9%). The mean residual bone height prior to sinus augmentation was 2.31 ± 0.93 mm (range: 0.80–3.90 mm). These baseline characteristics are summarized in Table 1. All 60 sinus augmentation and grafting sites showed uneventful healing. No early implant failures or graft-related complications were recorded during the healing period. Three intraoperative Schneiderian membrane perforations were observed (5.0%) and were successfully managed during surgery. No postoperative infections were observed, and at the one-year follow-up, all implants and prosthetic restorations remained fully functional and stable (100% survival rate).
+
+Table 1Demographic and baseline characteristics of the study populationVariableValuePatients (n)42Sinus augmentation sites (n)60Age (years), mean ± SD53.57 ± 12.90Age range (years)23–72Standard error of age1.9995% CI of mean age49.67–57.47Coefficient of variation (%)24.1Male, n (%)16 (38.1%)Female, n (%)26 (61.9%)Residual bone height (mm), mean ± SD2.31 ± 0.93Residual bone height range (mm)0.80–3.90Values are presented as mean ± standard deviation (SD) or number (percentage). CI confidence interval, CV coefficient of variation, RBH residual bone height
+
+Histological analysis of biopsies obtained six months post-grafting revealed a composite of residual graft particles, newly formed trabecular bone, and connective tissue (Fig. 4). Residual graft material was consistently surrounded by newly formed bone and bone marrow, with abundant vascularization observed throughout the specimens.
+
+Fig. 4Representative histological image of the biopsy specimen showing residual graft material (R), newly formed bone (NB), blood vessels (arrow), and connective tissue (CT)
+
+The intercellular spaces were well-vascularized and filled with connective tissue and bone marrow. No evidence of acute or chronic inflammatory infiltration or foreign body reaction was observed. At higher magnification, histological evaluation revealed newly formed lamellar bone with active osteocytes and a typical lamellar arrangement surrounding Haversian canals, characteristic of mature secondary trabecular bone (Fig. 5).
+
+Fig. 5Residual graft material (R) in direct contact with newly formed bone (NB); Haversian system (arrows) displaying characteristic lamellar striations within bone fragments
+
+At the periphery of the grafted sites, a seamless mineralized interface between residual graft particles and newly formed bone indicated successful integration of the graft material. Numerous osteoblast/osteoclast pairs were observed, suggesting ongoing bone remodeling, with abundant osteocytes within lacunae (Fig. 6).
+
+Fig. 6Bone with numerous osteoblasts (yellow arrows) and osteoclasts (black arrows) adhering along the contour of the grafted material, as observed in multiple biopsy images
+
+Newly formed bone showed viable osteocytes within lacunae and areas of interspersed woven bone (Fig. 7). Osteoblasts were observed in close contact with the surrounding bone matrix in regions of active bone formation. In contrast, the central portions of residual graft particles exhibited empty osteocyte lacunae and lamellar-like structures.
+
+Fig. 7Newly formed bone with osteocyte lacunae filled with viable osteocytes (blue arrows), osteoblasts (yellow arrows) and osteoclasts (black arrows)
+
+Histomorphometric analysis revealed an average newly formed bone of 31.28% (95% CI: 26.70%–35.85%) and residual graft material of 15.48% (95% CI: 12.29%–18.68%). No evidence of inflammatory response or tissue necrosis was identified (Table 2).
+
+Table 2Histomorphometric results of bone biopsies retrieved from sinuses augmented after six monthsDifferent tissue typesin bone biopsy samplesMean ± SD(%)95% CI(Mean)Min - Max(%)Newly formed bone (NB)31.28 ± 17.7126.70–35.852.87–72.19Connective tissue (CT)53.23 ± 18.7448.38–58.0710.70–90.22Residual graft material (R)15.48 ± 12.3312.29–18.680.00–45.09
+
+There was no statistically significant difference in newly formed bone between males and females (p = 0.932). In contrast, the proportion of residual graft material was significantly higher in females than in males (p = 0.036) (Table 3).
+
+Table 3Relationship of newly formed bone and residual graft material with genderMean ± SD(%)p*Newly formed bone (NB)
+Male
+31.03 ± 19.830.932
+Female
+31.44 ± 16.43Residual graft material (R)
+Male
+11.42 ± 9.920.036
+Female
+18.19 ± 13.18Connective tissue (CT)
+Male
+57.53 ± 19.030.148
+Female
+50.35 ± 18.25*Independent Samples T-test
+
+Newly formed bone (NB) was negatively correlated with residual graft material (R) (r = -0.262, p = 0.043) and showed a strong negative correlation with Connective tissue (CT) (r = -0.772, p < 0.0001). In addition, residual graft material was moderately and negatively correlated with Connective tissue (CT) (r = − 0.412, p = 0.001). These findings indicate that an increase in newly formed bone is associated with a decrease in residual graft material, and there is a strong inverse relationship between new bone formation and connective tissue (CT) (Table 4).
+
+Table 4Correlation between Newly Formed Bone (NB), Connective Tissue (CT), and Residual Graft Material (R) in Bone Biopsy Samples from Sinuses Augmented after six monthsNewly formed bone (NB)Residual graft material (R)Connective tissue(CT)
+r
+p*
+r
+p*
+r
+p*NB
+-
+
+-
+-0.2620.043-0.772< 0.0001R
+-
+
+-
+---0.4120.001*Pearson’s correlation coefficient
+
+The mean residual bone height prior to sinus augmentation (RBH0) was 2.31 ± 0.93 mm. Primary implant stability (ISQ1) averaged 58.20 ± 6.47 and increased to 74.85 ± 7.68 at six months (ISQ2). Newly formed bone accounted for 31.28 ± 17.71% of the biopsy area, whereas connective tissue represented 53.23 ± 18.75% (Table 5 and 6).
+
+Table 5Descriptive statistics of clinical and histomorphometric variables (N = 60)VariableMinMaxMean ± SDResidual bone height prior to sinus augmentation (RBH0, mm)0.803.902.31 ± 0.93Primary implant stability at placement (ISQ1)447058.20 ± 6.47Implant stability at 6 months (ISQ2)619474.85 ± 7.68Newly formed bone (%)2.8772.1931.28 ± 17.71Connective tissue (%)10.7090.2253.23 ± 18.75RBH0 residual bone height, ISQ implant stability quotient
+
+Table 6Spearman correlation between primary implant stability (ISQ1) and clinical/histological parametersVariableSpearman’s rp value
+N
+Residual bone height (RBH0)0.626< 0.00160Newly formed bone (%)0.4050.00160Connective tissue (%)-0.627< 0.00160Spearman’s rank correlation coefficient, p two-tailed significance level
+
+Primary implant stability showed a strong positive correlation with residual bone height (r = 0.626, p < 0.001) and a strong negative correlation with connective tissue percentage (r = − 0.627, p < 0.001). A moderate positive correlation was observed between ISQ1 and the percentage of newly formed bone (r = 0.405, p = 0.001). These findings suggest that primary implant stability is more strongly associated with baseline bone height and overall mineralized tissue fraction than with newly formed bone alone. These stability values fall within the range generally associated with predictable osseointegration in clinical implant practice.
+
+Six months after sinus augmentation, connective tissue (CT) was the most abundant tissue in the biopsy samples, with a median of approximately 55–60% (range: ~15–90%). Newly formed bone (NB) accounted for about 25–30% on average, ranging from near 0% to over 70%, indicating considerable variability among samples. Residual graft material (R) represented the lowest proportion, with a median of 10–15% and a narrower distribution (0–45%). Exploratory one-way ANOVA suggested apparent differences among the three tissue components; however, these comparisons should be interpreted cautiously because the variables represent compositional data that sum to 100% (Fig. 8).
+
+Fig. 8Proportions of different tissue types in bone biopsy samples six months after sinus augmentation. Newly formed bone (NB), Residual graft material (R), Connective tissue (CT), (N = 60). Exploratory one-way ANOVA was performed to illustrate differences among tissue components
+
+## Discussion
+
+The demographic characteristics of the present cohort are consistent with those commonly reported in sinus augmentation studies. The mean age of 53.57 years reflects the typical patient population requiring implant rehabilitation in the posterior maxilla, where tooth loss and sinus pneumatization frequently occur with aging. The predominance of female participants (61.9%) may reflect healthcare-seeking patterns rather than biological differences in bone regeneration. Importantly, the mean residual bone height of 2.31 mm confirms that the included sites represented severely atrophic posterior maxillae, a clinical scenario in which the lateral window technique is generally recommended (Table 1). This prospective study suggests that lateral window sinus augmentation with a 2:1 mixture of allograft and synthetic bone substitute (30% HA/70% β-TCP) combined with autologous PRF achieved results comparable to previous reports of bone regeneration [19, 20]. This suggests an optimal balance between HA and β-TCP in the composite: HA contributes to mechanical stability as a slowly resorbable scaffold, while β-TCP undergoes faster degradation, releasing calcium and phosphate ions, thereby promoting vascularization and bone apposition. Together, they ensure both early vascularization and long-term mechanical stability, two fundamental prerequisites for bone maturation and mineralization.
+
+The histological findings support the theoretical complementary mechanisms of allograft and β-TCP/HA in bone regeneration [21, 22]. Allogeneic bone provides an osteoinductive matrix rich in preserved growth factors, promoting recruitment and differentiation of osteoprogenitor cells. When combined with β-TCP/HA, allograft acts as a biological bridge that accelerates integration. The concomitant use of platelet-rich fibrin (PRF) may also have contributed by releasing growth factors (PDGF, VEGF, TGF-β), enhancing angiogenesis and accelerating osteogenesis. However, because PRF was applied in all cases, its independent contribution cannot be fully assessed in this study. Meanwhile, β-TCP/HA functions as a resorbable osteoconductive scaffold, facilitating vascular ingrowth and gradual replacement by vital bone [23]. The identification of lamellar bone, osteocytes in lacunae, and mature Haversian systems within residual particles confirms active remodeling and integration of the graft. These processes collectively contribute to enhanced bone maturation and structural stability within the grafted sinus. The biological rationale for combining allograft, β-TCP/HA, and PRF is based on complementary theoretical mechanisms: allograft provides a mineralized matrix with preserved structure; β-TCP/HA acts as an osteoconductive scaffold with controlled resorption; PRF contributes growth factors and a fibrin matrix. However, because all components were applied simultaneously and no comparator groups were included, the present study cannot determine the individual or synergistic contribution of each element.
+
+Another factor to consider is the concomitant use of platelet-rich fibrin (PRF) during sinus augmentation. PRF has been reported to enhance angiogenesis, provide growth factors, and accelerate wound healing, potentially influencing bone remodeling dynamics [24, 25]. Because PRF was applied uniformly in all cases, its specific contribution to the histomorphometric outcomes could not be distinguished in the present study. Future randomized designs should include subgroups with and without PRF to clarify its independent effect.
+
+The present study revealed no significant sex-related differences in new bone formation, whereas the proportion of residual graft material was significantly higher in females. This observation may reflect subtle biological or hormonal influences on graft remodeling, although the current sample size does not allow definitive conclusions. Beyond sex differences, correlation analysis provided further insights into the dynamics of bone regeneration. Newly formed bone showed an inverse association with residual graft material, suggesting that graft resorption and bone apposition occur simultaneously in a reciprocal manner. A particularly strong negative correlation was observed between new bone and connective tissue. These associations should be interpreted cautiously, as proportional interdependence may contribute to the observed relationships. Moreover, the moderate negative correlation between residual graft material and connective tissue suggests that both components compete within the grafted sinus during healing. Taken together, these findings highlight that the proportional relationships describe the tissue composition at six months but should not be interpreted as direct biological competition. Because the three tissue components represent compositional data that sum to 100%, the observed correlations may partly reflect mathematical dependency rather than direct biological interaction.
+
+A distinctive strength of this study lies in its being the first to provide histological and histomorphometric evidence in a Vietnamese cohort, where nutritional deficiencies (e.g., low calcium intake, vitamin D deficiency) and higher prevalence of metabolic bone disorders are common [26]. These systemic differences may influence graft remodeling, making region-specific data highly relevant for clinical decision-making in Southeast Asia (Vietnam).
+
+A key strength of this study is the histological and histomorphometric evaluation in a Southeast Asian population, where such evidence remains limited. This is particularly relevant as systemic conditions, dietary factors, and bone metabolism may vary across populations, potentially influencing graft outcomes. However, this study has several limitations. The single-arm design without a comparator prevents causal inference regarding the relative effectiveness of the graft components or the superiority/equivalence of this protocol compared with xenografts, autografts, or other substitutes. Observed outcomes reflect tissue response under this specific protocol and patient population only. First, its single-arm design without a comparator limits causal inference regarding superiority over other graft materials. Second, histological evaluation was performed at a single time point (6 months) and relies on 2-D area fraction from small-core biopsies (3 mm), which may not fully represent the entire grafted sinus. Third, the concomitant use of the allograft–β-TCP/HA composite together with autologous PRF may have influenced remodeling dynamics. Finally, although the sample size is relatively large for histomorphometric studies, further multicenter randomized trials with extended follow-up and volumetric imaging (micro-CT or CT/CBCT) are warranted to confirm these findings.
+
+These findings suggest biocompatibility and ongoing remodeling within the grafted sites. Despite a low mean residual bone height (2.31 mm), primary implant stability (ISQ1 = 58.20) was clinically acceptable and increased substantially at six months (ISQ2 = 74.85), suggesting adequate implant stability compatible with successful osseointegration. The strong correlation between primary implant stability and residual bone height (r = 0.626) suggests that native cortical engagement remains a key determinant of primary mechanical stability. Implant stability is known to depend not only on bone quantity but also on bone density and cortical thickness, which directly affect peri-implant stiffness and resonance frequency measurements [9, 25, 27].
+
+The moderate correlation between ISQ1 and newly formed bone (r = 0.405), together with the strong negative association with connective tissue (r = − 0.627), indicates that resonance frequency analysis reflects the overall mineralized tissue fraction and structural continuity rather than histologic bone% alone. These findings are consistent with previous evidence showing that RFA-based stability increases during healing as mineralization and trabecular organization progress [19, 28–30].
+
+Collectively, the increase from ISQ1 to ISQ2 supports the concept of a transition from primary mechanical stability to secondary biological stability, reflecting functional maturation of regenerated bone within the sinus environment.
+
+Future research should focus on randomized controlled comparisons with established graft materials (xenografts/autografts) to determine relative efficacy. Time-series histology (e.g., 3, 6, 12 months) combined with volumetric micro-CT and immunohistochemical analyses would clarify the kinetics and biological mechanisms of graft resorption and bone formation. Additionally, studies stratifying patients by systemic factors (age, vitamin D status, metabolic bone disease) and assessing implant mechanical outcomes (ISQ, insertion torque) are needed to translate histomorphometric findings into long-term clinical recommendations.
+
+## Conclusion
+
+Within the limitations of this prospective single-arm study, the composite graft consisting of a 2:1 mixture of allograft and synthetic bone substitute (30% HA/70% β-TCP) combined with autologous PRF suggests favorable histological and histomorphometric outcomes six months after sinus augmentation. The regenerated tissue provided a biologically compatible environment for implant placement with stable implant survival during follow-up. However, because no control group was included, the relative contribution of individual graft components cannot be determined.
