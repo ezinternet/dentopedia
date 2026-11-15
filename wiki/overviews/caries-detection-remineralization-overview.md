@@ -36,7 +36,7 @@ Synthesis of 8 caries SR/SR+MAs across 5 axes: for detection, DIAGNOdent Pen ach
 
 For root caries, 9-RCT NMA shows no statistical winner among restorative/adhesive strategies (Schmidt 2024) — select by access, hypersensitivity, and hygiene; for secondary caries prevention, GIC = composite ≥ amalgam (Ge 2023 SR+MA, 64 RCTs); adjunct SDF + sealant combination ranks top for lesion arrest/reversal (Urquhart 2019 ADA NMA); fissure sealant vs fluoride varnish for 1st molars is equivalent in dentin caries at high population prevalence, with fluoride varnish cost-effective in mass-screening contexts (Chestnutt 2017 RCT).
 
-Clinical takeaway: detect with vision + ICDAS + DIAGNOdent, not radiographs alone; favor resin infiltration when esthetics drive WSL management; for high-risk root caries add SDF (accept staining); select root-caries restorative materials by patient factors, not efficacy ranking; re-evaluate non-cavitated active lesions at 3–6 months.
+Clinical takeaway: radiographs alone miss up to 71–100% of incipient occlusal lesions (Foros 2021 sensitivity range 0–0.29) — vision + ICDAS + DIAGNOdent is the validated detection sequence for first-line occlusal caries assessment; favor resin infiltration when esthetics drive WSL management; for high-risk root caries add SDF (accept staining); select root-caries restorative materials by patient factors, not efficacy ranking; re-evaluate non-cavitated active lesions at 3–6 months.
 
 ## 세줄요약
 
