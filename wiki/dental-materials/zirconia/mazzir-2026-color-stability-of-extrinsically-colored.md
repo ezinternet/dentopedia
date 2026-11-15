@@ -5,7 +5,7 @@ year: 2026
 doi: null
 pmid: 42077700
 pmcid: PMC13132610
-source: sources/mazzir-2026-color-stability-of-extrinsically-colored.md
+source: mazzir-2026-color-stability-of-extrinsically-colored.md
 source_collection: pubmed-text
 category: dental-materials/zirconia
 evidence_level: narrative-review
