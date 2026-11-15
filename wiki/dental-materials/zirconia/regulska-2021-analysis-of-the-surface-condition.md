@@ -3,7 +3,7 @@ title: "Analysis of the Surface Condition and Changes in Crystallographic Struct
 authors: "Regulska Kinga, Januszewicz Bartłomiej, Klimek Leszek, Palatyńska-Ulatowska Aleksandra, Nocchetti Morena"
 year: 2021
 doi: "10.3390/ma14144042"
-source: sources/regulska-2021-analysis-of-the-surface-condition.md
+source: regulska-2021-analysis-of-the-surface-condition.md
 category: dental-materials/zirconia
 source_collection: pubmed-text
 evidence_level: in-vitro
