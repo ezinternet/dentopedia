@@ -3,7 +3,7 @@ title: "Cutting Efficiency of Diamond Grinders on Composite and Zirconia"
 authors: "Rosentritt Martin, Strasser Thomas, Mueller Maerit-Martha, Schmidt Michael Benno, Ardelean Lavinia Cosmina, Rusu Laura-Cristina"
 year: 2024
 doi: "10.3390/ma17112596"
-source: sources/rosentritt-2024-cutting-efficiency-of-diamond-grinders.md
+source: rosentritt-2024-cutting-efficiency-of-diamond-grinders.md
 category: dental-materials/zirconia
 source_collection: pubmed-text
 evidence_level: in-vitro
