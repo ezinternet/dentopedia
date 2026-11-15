@@ -33,7 +33,7 @@ Two-axis synthesis (3 cohort/review papers): Axis 1 — grip strength as a syste
 
 Grip strength outperforms systolic blood pressure as a mortality predictor in both cohorts; muscle weakness thresholds (≤26 kg men; ≤16 kg women) confer elevated cardiovascular, respiratory, and cancer mortality; sour and bitter taste thresholds rise measurably from age 60–70 but the dietary impact is modest (genetics ~20% of food-preference variance) compared with social/cultural factors.
 
-For geriatric dental practice: a one-minute Jamar dynamometer reading captures physical frailty candidates who may need medical referral or nutritional support; taste complaints in older denture/prosthetic patients should be parsed as presbygeusia baseline versus drug-induced dysgeusia, and denture use itself mechanically reduces taste stimulation independent of aging.
+For geriatric dental practice: a one-minute Jamar dynamometer reading captures physical frailty candidates who may need medical referral or nutritional support; taste complaints in older denture/prosthetic patients should be parsed as presbygeusia baseline versus drug-induced dysgeusia — polypharmacy-driven dysgeusia is the more actionable category since the offending agent can be identified and modified — and denture use itself mechanically reduces taste stimulation independently of aging biology, making prosthetic fit a first-line taste complaint intervention.
 
 ## 세줄요약
 
