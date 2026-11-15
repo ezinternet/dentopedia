@@ -5,7 +5,7 @@ year: 2023
 doi: 10.1002/cre2.778
 pmid: 37608597
 pmcid: PMC10582218
-source: sources/liu-2023-the-impact-of-different-polishing.md
+source: liu-2023-the-impact-of-different-polishing.md
 category: dental-materials/zirconia
 evidence_level: in-vitro
 source_collection: pubmed-text
