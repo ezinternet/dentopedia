@@ -2,7 +2,7 @@
 """
 LLM Wiki — Daily Audit Runner
 
-One entry-point that runs all 26 audits and writes their logs to logs/.
+One entry-point that runs all 28 audits and writes their logs to logs/.
 
 The list below is in AUDITS order — keep them in sync. (2026-07-17: the docstring said
 "14 audits" and omitted five entirely — doi-duplicate-check, overview-coverage-lint,
@@ -208,6 +208,13 @@ AUDITS = [
     # 감사 25개 중 이 위키의 산출물(답변)을 보는 것이 하나도 없었다. 기본은 lex
     # (30문항 5초); 벡터는 1문항 ~20초라 --vec 수동 전용.
     ("golden-question-check.py",          [],   False),
+    # Gemini 프레임워크 갭 대응 — 항목 2(파싱 결측 플래그) 커버.
+    # [원문 표 대조 필요] 플래그가 30일 이상 미해결이면 WARN.
+    # pubmed-abstract 고근거 소스는 별도 INFO 버킷.
+    ("parse-gap-flag-audit.py",           [],   False),
+    # Gemini 프레임워크 갭 대응 — 항목 3+5(Provenance + Limitations) 커버.
+    # 2026-05-27 이후 인제스트 기준. 소급 없음(300건+ 경고 방지).
+    ("source-provenance-lint.py",         [],   False),
 ]
 
 
