@@ -3,7 +3,7 @@ title: "The Impact of Repeated Steam Sterilization Cycles on the Efficacy of Cha
 authors: "Sayed Mohammed E., Lunkad Honey, Mohana Enas Jaber, Mesawa Sara Ahmad, Dowairi Fatimah Ibrahim, Alharbi Emad Aldeen A., Hakami Hayat Ali, Jokhadar Hossam F., Alqahtani Nasser M., Alshehri Abdullah Hasan, Alsubaiy Ebrahim Fihaid, Alqahtani Saeed M., Mohsen Nagam Mohammed, Al Wadei Mohammed H.D., Mattoo Khurshid"
 year: 2024
 doi: null
-source: sources/sayed-2024-the-impact-of-repeated-steam.md
+source: sayed-2024-the-impact-of-repeated-steam.md
 category: dental-materials/zirconia
 source_collection: pubmed-text
 evidence_level: in-vitro
