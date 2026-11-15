@@ -3,7 +3,7 @@ title: "Comparison of surface topography and roughness in different yttrium oxid
 authors: "Shin Hyun-Sub, Lee Joon-Seok"
 year: 2021
 doi: "10.4047/jap.2021.13.4.258"
-source: sources/shin-2021-comparison-of-surface-topography-and.md
+source: shin-2021-comparison-of-surface-topography-and.md
 category: dental-materials/zirconia
 source_collection: pubmed-text
 evidence_level: in-vitro
