@@ -3,7 +3,7 @@ title: "Effect of different surface treatments on surface roughness, phase trans
 authors: "Yahyazadehfar N, Azimi Zavaree M, Shayegh SS, Yahyazadehfar M, Hooshmand T, Hakimaneh SMR"
 year: 2021
 doi: "10.34172/joddd.2021.035"
-source: sources/yahyazadehfar-2021-effect-of-different-surface-treatments.md
+source: yahyazadehfar-2021-effect-of-different-surface-treatments.md
 category: dental-materials/zirconia
 source_collection: pubmed-text
 evidence_level: in-vitro
