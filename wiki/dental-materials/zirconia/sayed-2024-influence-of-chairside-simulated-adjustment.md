@@ -3,7 +3,7 @@ title: "Influence of Chairside Simulated Adjustment (Finishing and Polishing) Pr
 authors: "Sayed Mohammed E., Jain Saurabh, Ageeli Abrar A., Alnajdi Alhanouf K., Zain Asma Ahmed, Alali Maimonah, Alhazmi Abdulaziz Ali Ahmed, Alsubaiy Ebrahim Fihaid, Alshehri Abdullah Hasan, Alshahrani Ahid Amer, Alamri Mohammad, Al Wadei Mohammed H., Jokhadar Hossam F., Mattoo Khurshid"
 year: 2024
 doi: "10.12659/MSM.943404"
-source: sources/sayed-2024-influence-of-chairside-simulated-adjustment.md
+source: sayed-2024-influence-of-chairside-simulated-adjustment.md
 category: dental-materials/zirconia
 source_collection: pubmed-text
 evidence_level: in-vitro
