@@ -6,7 +6,10 @@ status: done
 owner: 원장
 priority: P2
 tags: [audit, quality-assurance, pipeline-health]
-source_wiki: []
+source_wiki:
+output_wiki:
+  - scripts/parse-gap-flag-audit.py
+  - scripts/source-provenance-lint.py
 ---
 
 # Goal
