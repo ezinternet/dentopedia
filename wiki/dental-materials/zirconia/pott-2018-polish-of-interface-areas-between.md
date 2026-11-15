@@ -3,7 +3,7 @@ title: "Polish of interface areas between zirconia, silicate-ceramic, and compos
 authors: "Pott Philipp-Cornelius, Hoffmann Johannes Philipp, Stiesch Meike, Eisenburger Michael"
 year: 2018
 doi: 10.4047/jap.2018.10.4.315
-source: sources/pott-2018-polish-of-interface-areas-between.md
+source: pott-2018-polish-of-interface-areas-between.md
 category: dental-materials/zirconia
 evidence_level: in-vitro
 source_collection: pubmed-text
