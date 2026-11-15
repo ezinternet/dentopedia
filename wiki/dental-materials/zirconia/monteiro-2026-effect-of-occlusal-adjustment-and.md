@@ -5,7 +5,7 @@ year: 2026
 doi: "10.1111/jerd.70084"
 pmid: "41417857"
 pmcid: "PMC13069226"
-source: sources/monteiro-2026-effect-of-occlusal-adjustment-and.md
+source: monteiro-2026-effect-of-occlusal-adjustment-and.md
 category: dental-materials/zirconia
 evidence_level: in-vitro
 source_collection: pubmed-text
