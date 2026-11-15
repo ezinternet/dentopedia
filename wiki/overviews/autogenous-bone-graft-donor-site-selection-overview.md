@@ -33,11 +33,11 @@ relations:
 
 ## Three-line Summary
 
-Synthesis of 7 papers on autogenous bone graft **donor site** selection — a question distinct from graft *material* choice: intraoral sources consistently outperform extraoral (iliac crest) on implant survival at every follow-up point (98.2% vs 85.9% at 24 months, p<0.001, McKenna 2022 SR+MA) and carry far lower donor-site morbidity, while autogenous and allogeneic blocks are broadly equivalent overall (96.23% vs 97.66%, NS, Donkiewicz 2021 SR).
+Synthesis of 8 papers on autogenous bone graft **donor site** selection — a question distinct from graft *material* choice: intraoral sources consistently outperform extraoral (iliac crest) on implant survival at every follow-up point (98.2% vs 85.9% at 24 months, p<0.001, McKenna 2022 SR+MA) and carry far lower donor-site morbidity, while autogenous and allogeneic blocks are broadly equivalent overall (96.23% vs 97.66%, NS, Donkiewicz 2021 SR).
 
 Iliac crest remains a viable last-resort option for large defects intraoral sites cannot supply — Sethi 2020's 25-year, 869-implant cohort reports 95%±2.7% long-term survival with only seroma as donor-site morbidity — but the emerging frontier is not choosing among conventional harvest sites at all: repurposing surgical byproducts (a sinus lateral bony window, a 16-year-old previously-grafted sinus core) as autogenous donor material eliminates the second surgical site entirely, and the retromolar donor site itself heals 89.2% spontaneously by 12 months, supporting sequential re-harvest.
 
-Evidence weight is uneven — the site-hierarchy conclusions rest on strong SR/SR+MA evidence (McKenna, Donkiewicz) and a large retrospective cohort (Sethi), while the repurposing concept rests on small prospective/case-report data (Daoud, Zufia, Park×2) that should be read as proof-of-concept, not yet practice-changing volume.
+Evidence weight is uneven — the site-hierarchy conclusions rest on strong SR/SR+MA evidence (McKenna, Donkiewicz) and a large retrospective cohort (Sethi), while the repurposing concept rests on small prospective/case-report data (Daoud, Zufia, Park×2) that should be read as proof-of-concept, not yet practice-changing volume. Benic 2014 (Periodontology 2000 narrative review) provides the foundational GBR alternative paradigm: native collagen membrane+DBBM for standard horizontal augmentation, autogenous block for large defects, Ti-reinforced PTFE for Class 3 dehiscence — contextualizing when autogenous donor-site selection becomes necessary versus when GBR alone suffices.
 
 ## 세줄요약
 
