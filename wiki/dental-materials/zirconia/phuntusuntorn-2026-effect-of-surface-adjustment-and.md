@@ -6,7 +6,7 @@ doi: "10.1155/ijod/9739387"
 pmid: "42644050"
 pmcid: "PMC13505195"
 journal: "International Journal of Dentistry"
-source: sources/phuntusuntorn-2026-effect-of-surface-adjustment-and.md
+source: phuntusuntorn-2026-effect-of-surface-adjustment-and.md
 category: dental-materials/zirconia
 evidence_level: in-vitro
 source_collection: pubmed-text
