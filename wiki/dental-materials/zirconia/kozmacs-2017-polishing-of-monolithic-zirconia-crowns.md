@@ -3,7 +3,7 @@ title: "Polishing of Monolithic Zirconia Crowns—Results of Different Dental Pr
 authors: Kozmacs Carla, Hollmann Britta, Arnold Wolfgang H., Naumova Ella, Piwowarczyk Andree
 year: 2017
 doi: 10.3390/dj5040030
-source: sources/kozmacs-2017-polishing-of-monolithic-zirconia-crowns.md
+source: kozmacs-2017-polishing-of-monolithic-zirconia-crowns.md
 category: dental-materials/zirconia
 source_collection: pubmed-text
 evidence_level: in-vitro
