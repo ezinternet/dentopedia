@@ -5,7 +5,7 @@ year: 2026
 doi: 10.4047/jap.2026.18.2.103
 pmid: "42087854"
 pmcid: PMC13136545
-source: sources/kim-2026-trueness-and-the-amount-of.md
+source: kim-2026-trueness-and-the-amount-of.md
 category: dental-materials/zirconia
 source_collection: pubmed-text
 evidence_level: prospective
