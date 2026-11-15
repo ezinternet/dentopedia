@@ -3,7 +3,7 @@ title: "Surface Roughness and Hardness of CAD/CAM Ceramic Materials after Polish
 authors: Limpuangthip Nareudee, Poosanthanasarn Ekaluck, Salimee Prarom
 year: 2023
 doi: 10.1055/s-0042-1758065
-source: sources/limpuangthip-2023-surface-roughness-and-hardness-of.md
+source: limpuangthip-2023-surface-roughness-and-hardness-of.md
 category: dental-materials/zirconia
 evidence_level: in-vitro
 source_collection: pubmed-text
