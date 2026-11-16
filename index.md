@@ -4651,6 +4651,7 @@ tags: []
 ### dental-materials/zirconia
 - [[dental-materials/zirconia/nasri-2025-surface-conditioning-zirconia-bonding-umbrella]] — 우산 리뷰(SR 8편, 원저 233편): APA+10-MDP가 가장 검증된 지르코니아 접착 프로토콜, NAC/SIE/펨토초레이저는 유망하나 미성숙 [sr]
 - [[dental-materials/zirconia/davoudi-2025-zirconia-abutments-biological-mechanical-esthetic]] — 우산리뷰(14편 SR/MA, n=6,456명): 지르코니아 지대주는 티타늄 대비 생물학적·심미적으로 동등 이상, 생존율도 통계적 동등(Zr 98.6~98.8% vs Ti 98.62~99.4%) [sr+ma]
+- [[dental-materials/zirconia/hmaidouch-2014-surface-roughness-of-zirconia-for]] — in-vitro(n=30, Rmax): FZ 3단 연삭만으로 유약 수준 회복, 연마 시 유약 이하 조도(2.41 µm); VFZ는 연삭 홈·응축 기포로 연마 후에도 미회복 [in-vitro]
 
 ### artificial-intelligence
 - [[artificial-intelligence/alfaraj-2026-harnessing-ai-prosthodontics-implant-dentistry]] — 보철·임플란트 AI 엄브렐러 리뷰 (11편 SR, 임플란트 식별 ~95.6%, 예후예측 62.4–80.5%, AMSTAR-2 55% critically low) [sr]
