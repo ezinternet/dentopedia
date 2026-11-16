@@ -5612,3 +5612,16 @@ tags: []
 - [[sinus-lift/lateral/sun-2026-lift-with-precision-microsurgical-application]] — Sun 2026 · narrative-review(45편, 1986–2025) · 수술 현미경 기반 미세수술 프로토콜: 창을 5–6 mm까지 축소, 피에조 천공 7–8% vs 회전 버 20–30%, HPISE 성공률 97.2%(353 임플란트/250 상악동), 배율 4–7×→10–15× 단계화 — 장기 RCT 부재 (DOI 10.1002/cap.70041)
 - [[sinus-lift/lateral/wu-2026-the-influence-of-maxillary-lateral]] — Wu 2026 · retrospective(35증례 CBCT) · 무이식 측방거상+동시식립에서 6개월 치조정 골폭 2.08±1.06 mm 감소, 측방골벽 <1 mm 군이 2.45 vs >1 mm 군 1.54 mm로 더 흡수(p=0.01; r=−0.47) — 생존율 100%이나 수평 골소실이 비용 (DOI 10.12669/pjms.42.1.13295)
 - [[sinus-lift/lateral/dima-2026-sinus-plate-augmentation-method-spam]] — Dima 2026 · case-report(SPAM 증례군 8명/24 임플란트) · 상악동 골판을 채취해 측방 골증대에 재사용: 수평골폭 5.99→9.28 mm(술후)→8.37 mm(평균 19.5개월), 순증가 2.55±1.47 mm·생존율 100%·합병증 0 — 제2 공여부 불필요 (DOI 10.3290/j.ohpd.c_2763)
+
+## Batch ingest (added 2026-11-16) — 상악동거상술 이식재·골질·창폐쇄 10편 (미인제스트 papers/*.txt 백로그)
+
+- [[sinus-lift/lateral/correia-2021-porcine-xenograft-vs-autograft-sinus-lift-rct]] — Correia 2021 · rct · split-mouth RCT 12명/24상악동: 돼지 이종골 vs 하악 자가골 골높이증가 8.71 vs 7.81 mm(p=0.26), 경조직 56.0 vs 57.3%(p=0.376) — 재료 효과보다 환자 효과가 큼(p=0.029) (DOI 10.3390/ma14123439)
+- [[sinus-lift/lateral/dominiak-2026-bone-regeneration-sinus-augmentation-lllt-histology]] — Dominiak 2026 · rct · 동종골·이종골 6개월 골증가 7.68 vs 6.87 mm(NS), 635 nm LLLT 병용 이득 없음·경도 염증만 증가(p=0.029) (DOI 10.3390/jfb17040186)
+- [[sinus-lift/lateral/grasso-2020-equine-vs-bovine-bone-sinus-augmentation-rct]] — Grasso 2020 · rct · 말 vs 소 이종골 6개월 신생골 22.20 vs 22.84%(p>0.05), 23상악동 등가 (DOI 10.3390/ma13235520)
+- [[sinus-lift/lateral/handschel-2009-histomorphometric-meta-analysis-sinus-grafting]] — Handschel 2009 · sr+ma · 조직형태계측 30편 메타분석: 4–9개월 자가골 총골부피 유의하게 최고, 9개월 이후 이식재 간 유의차 소멸(역사적 기준선, pooled 수치는 그림만) (DOI 10.1186/1746-160X-5-12)
+- [[sinus-lift/lateral/khijmatgar-2023-residual-bone-height-new-bone-sinus-nma]] — Khijmatgar 2023 · sr+ma · 67 RCT·2405건 NMA, RBH<4mm은 XG+AG, ≥4mm은 Auto가 1순위 — 전 재료 GRADE low (DOI 10.3390/ma16041376)
+- [[sinus-lift/lateral/molnar-2022-piezo-bony-wall-vs-rotary-membrane-sinus-rct]] — Molnár 2022 · rct · 골벽 재위치 vs 콜라겐막 피개 6개월 조직학 동등(신생골 27.8% vs 30.3%, p>0.05) (DOI 10.1007/s00784-022-04494-x)
+- [[sinus-lift/lateral/pesce-2021-residual-bone-height-graft-shrinkage-sinus-sr]] — Pesce 2021 · sr · RCT 21편(412명·533상악동): 6개월 부피감소 XG 7.30% vs 자가골 41.71%, 신생골은 RBH 무관·수직이식 1mm당 1.56% 감소 (DOI 10.3390/jcm10214996)
+- [[sinus-lift/lateral/spinu-2025-collagenated-porcine-xenograft-severe-atrophy-case-series]] — Spînu 2025 · case-report · RBH≤2mm 돼지 이종골 3증례: 수직증가 12.0mm·46.8개월 생존 100%·NB 20–30% (DOI 10.3390/dj13120584)
+- [[sinus-lift/lateral/stacchi-2017-sintered-nanohydroxyapatite-vs-bovine-sinus-rct]] — Stacchi 2017 · rct · 스플릿마우스 28명: NHA vs 우골 신생골 34.9% vs 38.5%(p=0.428), 생존 96.4% — 영가설 채택 (DOI 10.1155/2017/9489825)
+- [[sinus-lift/lateral/zhou-2026-bone-quality-resorbed-posterior-maxilla-osteogenesis]] — Zhou 2026 · retrospective · 후방 상악 원래 골소주 40.0%가 DBBM 거상 후 신생골 18.8%와 약한 양의 상관(r=0.23, p=.04) (DOI 10.1016/j.identj.2025.109397)
