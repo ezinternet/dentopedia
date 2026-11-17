@@ -97,4 +97,4 @@ One hundred disc-shaped MMLZ specimens (Zolid Gen-X, 10 mm × 3 mm) were milled,
 - [[dental-materials/zirconia/mohammadi-bassir-2017-grinding-overglazing-polishing-zirconia]] — grinding vs polishing vs overglazing on zirconia surface characteristics
 - [[dental-materials/zirconia/tachibana-2021-polishing-zirconia-antagonist-wear]] — polished zirconia surface quality and antagonist wear
 - [[dental-materials/zirconia/janyavula-2013-wear-polished-glazed-zirconia-enamel]] — polished vs. glazed zirconia wear and Ra comparison
-- [[dental-materials/zirconia/kheur-2022-chairside-grinding-bur-polishing-protocol]] — chairside grinding and polishing protocol for zirconia
+- [[dental-materials/zirconia/kheur-2022-a-comparative-study-on-simulated]] — chairside grinding and polishing protocol for zirconia
