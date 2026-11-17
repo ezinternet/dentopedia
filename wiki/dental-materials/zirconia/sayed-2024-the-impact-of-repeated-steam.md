@@ -83,5 +83,5 @@ Clinical translation: When using EVE Diacera for HTMLZ adjustment, limit flash s
 ## Related Papers
 
 - [[dental-materials/zirconia/lunkad-2025-evaluation-of-surface-roughness-of]] — companion study (overlapping authorship) comparing 3 polishing kits (EVE Diacera, SS White, Ultradent Jiffy) under ≤10 flash sterilization cycles on MMLZ
-- [[dental-materials/zirconia/pott-2018-zirconia-interface-polishing-mixed-materials]] — polishing of zirconia at mixed-material interfaces
-- [[dental-materials/zirconia/park-2025-djmt-digital-workflow-zirconia-eccentric-adjustment-rct]] — clinical chairside adjustment of HTMLZ in RCT context
+- [[dental-materials/zirconia/pott-2018-polish-of-interface-areas-between]] — polishing of zirconia at mixed-material interfaces
+- [[digital-workflow/park-2025-comparison-of-interference-from-eccentric]] — clinical chairside adjustment of HTMLZ in RCT context
