@@ -1,0 +1,819 @@
+
+
+===== PAGE 1 =====
+The International Journal of Periodontics & Restorative Dentistry
+© 2015 BY QUINTESSENCE PUBLISHING CO, INC. PRINTING OF THIS DOCUMENT IS RESTRICTED TO PERSONAL USE ONLY. 
+NO PART MAY BE REPRODUCED OR TRANSMITTED IN ANY FORM WITHOUT WRITTEN PERMISSION FROM THE PUBLISHER. 
+
+===== PAGE 2 =====
+Volume 35, Number 6, 2015
+803
+©2015 by Quintessence Publishing Co Inc.
+1 Clinical Associate Professor, Ashman Department of Periodontology and Implant Dentistry, 
+Department of Prosthodontics, New York University College of Dentistry, New York,  
+New York, USA.
+2 Private Practice, Atlanta, Georgia, USA.
+3 Clinical Assistant Professor, Department of Prosthodontics, Columbia University School 
+of Dentistry, New York, New York, USA; Clinical Assistant Professor, Department of 
+Periodontology-Oral Implantology, Temple University School of Dentistry, Philadelphia, 
+Pennsylvania, USA; Private Practice, New York, New York, USA.
+4 Clinical Professor, Fundacion Cientifica Buenos Aires, Private Practice,  
+Buenos Aires, Argentina.
+5 Professor and Chair, Implantology Department, John F. Kennedy University,  
+Buenos Aires, Argentina.
+6 Dean and Professor, Department of Periodontics, University of Maryland School of 
+Dentistry, Baltimore, Maryland, USA.
+7 Assistant Professor, Department of Periodontics, University of Maryland School of Dentistry, 
+Baltimore, Maryland, USA.
+8 Clinical Professor, Director of Implant Education, Columbia University College of  
+Dental Medicine, New York, New York, USA. 
+ 
+Correspondence to: Stephen J. Chu, DMD, MSD, CDT, 150 E. 58th Street, Suite 3200,  
+New York, NY 10155, USA. Fax: 212-754-6753. Email: schudmd@gmail.com
+Flapless Postextraction Socket Implant Placement, Part 2: 
+The Effects of Bone Grafting and Provisional Restoration on 
+Peri-implant Soft Tissue Height and Thickness— 
+A Retrospective Study
+This article presents the results of evaluating the changes in peri-implant soft 
+tissue dimensions associated with immediate implant placement into anterior 
+postextraction sockets for four treatment groups: no BGPR (no bone graft, no 
+provisional restoration), PR (no bone graft, provisional restoration), BG (bone 
+graft, no provisional restoration), and BGPR (bone graft, provisional restoration). 
+The vertical distance of the peri-implant soft tissue was greater for grafted sites 
+than for nongrafted ones (2.72 mm vs 2.29 mm, P < .06). The facial soft tissue 
+thickness at the gingival third also was greater for grafted than for nongrafted 
+sites (2.90 mm vs 2.28 mm, P < .008) and for sites with provisional restorations 
+compared to sites without them (2.81 mm vs 2.37 mm, P < .06), respectively. 
+The net gain in soft tissue height and thickness was about 1 mm. The increases 
+in vertical and horizontal dimensions for grafted sites were between 0.5 and 
+1.0 mm, as compared to sites with no bone graft and no provisional restoration. 
+(Int J Periodontics Restorative Dent 2015;35:803–809. doi: 10.11607/prd.2178)
+Implant placement into postextrac-
+tion sockets with a provisional resto-
+ration in nonfunctional occlusion in 
+the maxillary anterior region has in-
+creased in use and clinical relevance 
+since its introduction in the late 
+1980s.1 Treatment procedures are 
+condensed into fewer patient ap -
+pointments, reducing overall treat-
+ment time and increasing patient 
+comfort.2,3 Survival rates reported 
+for immediate implant protocols 
+are comparable to those for de -
+layed procedures with or without 
+provisional restoration and bone 
+grafting.4–6 In addition, positive es -
+thetic outcomes have been report-
+ed regarding midfacial recession 
+depending on implant position, im-
+mediate provisional restoration, and 
+bone grafting.2,3,5,7–10
+Peri-implant soft tissue thick -
+ness, abutment material, and gin -
+gival color all must be in harmony 
+to achieve predictable esthetic 
+and restorative outcomes. Several 
+authors have researched the cor -
+relation between peri-implant soft 
+tissue thickness and its color-mask-
+ing ability.11–17 Even though a con -
+sensus does not exist on how much 
+horizontal peri-implant soft tissue 
+thickness is required, there is agree-
+ment that it has an important effect 
+on esthetics. This ultimately affects 
+implant-abutment selection from a 
+standpoint of restorative material 
+strength. 
+Stephen J. Chu, DMD, MSD, CDT1/Maurice A. Salama, DMD2
+David A. Garber, DDS, BDS2/Henry Salama, DMD2
+Guido O. Sarnachiaro, DDS3/Evangelina Sarnachiaro4
+Sergio Luis Gotta5/Mark A. Reynolds, DDS, MS, PhD6
+Hanae Saito, DDS, MS7/Dennis P. Tarnow, DDS8
+© 2015 BY QUINTESSENCE PUBLISHING CO, INC. PRINTING OF THIS DOCUMENT IS RESTRICTED TO PERSONAL USE ONLY. 
+NO PART MAY BE REPRODUCED OR TRANSMITTED IN ANY FORM WITHOUT WRITTEN PERMISSION FROM THE PUBLISHER. 
+
+===== PAGE 3 =====
+The International Journal of Periodontics & Restorative Dentistry
+804
+Furthermore, the vertical soft 
+tissue thickness is critical for not only 
+peri-implant soft tissue stability but 
+also underlying bone crest levels. 
+The trend in this area of research is 
+toward the conclusion that increasing 
+peri-implant soft tissue thickness in-
+creases the substrate color-masking  
+ability and bone stability.18,19
+One recent paper presented 
+the changes in peri-implant soft tis-
+sue dimensions after placement of 
+a bone graft contained within the 
+crest of bone and palatal to the fa-
+cial plate with an autogenous con -
+nective tissue graft placed above 
+the bone crest. Compared to a 
+procedure in which no connec -
+tive tissue graft was provided, the 
+findings showed a 1-mm gain in 
+peri-implant mucosa thickness as 
+measured 2 mm from the free gin -
+gival margin (FGM). 20 Little else is 
+known about the effects of differ -
+ent treatment procedures on the 
+vertical and horizontal dimensions 
+of the peri-implant soft tissue of 
+immediate postextraction socket 
+implants in the esthetic zone. There-
+fore, this article presents the results 
+of a retrospective cross-sectional 
+comparative cohort evaluation of 
+the vertical and horizontal change in 
+peri-implant soft tissue dimensions 
+associated with four different treat-
+ment types rendered at the time of 
+implant placement.
+Method and materials
+As reported in Part 1 of this study, 
+45 anterior maxillary extraction 
+sockets in 44 patients were treated 
+with immediate implant placement. 
+Of the treated teeth, 70% were 
+maxillary central incisors.21 The pa -
+tients ranged in age from 22 to 75 
+years of age (mean: 48.5 years) and 
+were in good systemic health. Four 
+groups were compared: those re -
+ceiving (1) no bone graft and no 
+provisional restoration (No BGPR), 
+(2) a provisional restoration only (PR),  
+(3) a bone graft only (BG), and  
+(4) both a bone graft and a provi -
+sional restoration (BGPR) (Fig 1).
+The inclusion criteria for im -
+plant replacement were as follows:  
+good systemic health of the pa -
+tient, maxillary anterior teeth (first 
+premolar to first premolar), no 
+periodontal disease or gingival 
+recession, no restoration on the 
+contralateral natural tooth, and 
+no endodontic lesions with labial 
+plate perforation. Exclusion criteria 
+were general medical or psychiat -
+ric contraindications, pregnancy, 
+patients with local or generalized 
+healing limitations, type II or III ex -
+traction sockets,22 bruxism or other 
+destructive parafunctional habits, 
+compromised soft tissue conditions 
+at the surgical or control site, and 
+poor patient compliance.
+The surgical treatment proto -
+col entailed sharp dissection of the 
+supracrestal gingival fibers with a 
+15c scalpel blade. This allowed for 
+atraumatic tooth removal without 
+flap elevation, maintaining the peri-
+osteal blood supply to the labial 
+bone plate. The extraction socket 
+was debrided thoroughly, and an 
+osteotomy was made with a biased 
+palatal placement of the implant to 
+avoid dehiscence of the labial plate 
+and allow sufficient vertical distance 
+for the development of the proper 
+emergence profile of the prosthet-
+ic component in all groups. Pala -
+tal implant placement in anterior  
+Fig 1 The peri-implant soft tissue thickness of four treatment groups were evaluated. (a) No BGPR = no bone graft/no provisional 
+restoration. (b) PR = no bone graft/provisional restoration only. (c) BG = bone graft only/no provisional restoration. (d) BGPR = bone graft/ 
+provisional restoration. 
+a cb d
+© 2015 BY QUINTESSENCE PUBLISHING CO, INC. PRINTING OF THIS DOCUMENT IS RESTRICTED TO PERSONAL USE ONLY. 
+NO PART MAY BE REPRODUCED OR TRANSMITTED IN ANY FORM WITHOUT WRITTEN PERMISSION FROM THE PUBLISHER. 
+
+===== PAGE 4 =====
+Volume 35, Number 6, 2015
+805
+extraction sockets also commonly 
+results in a lack of facial bone im -
+plant contact, referred to as the 
+gap (Fig 2). Tapered non-platform-
+switched internal connection im -
+plants were placed 3 to 4 mm apical 
+to the FGM. Primary stability was 
+obtained from the macro thread de-
+sign at the apical third of the implant 
+and confirmed with hand torque 
+(minimum 25 to 35 Ncm) to facilitate 
+immediate full-contour provisional 
+restoration. According to the treat-
+ment requirements of each group, 
+the labial gap either contained 
+only the blood clot (No BGPR and 
+PR) or was filled with small-particle 
+bone allograft at the time of implant 
+placement (BG and BGPR) (Fig 3).
+Screw-retained provisional res-
+torations were fabricated using auto-
+polymerizing acrylic resin (Super T,  
+American Consolidated) in infraoc-
+clusion for the PR and BGPR groups 
+(Fig 4). The subgingval contours of 
+the provisional restorations con -
+formed to support the peri-implant 
+soft tissues and help protect the 
+blood clot as well as any bone graft 
+particles. A straight healing abut -
+ment was placed for the No BGPR 
+group, and a stock contoured heal-
+ing abutment was placed for the BG 
+group. An adhesive resin-bonded 
+prosthesis was adjusted at the (acryl-
+ic) pontic portion to avoid contact 
+with the healing abutment. The pros-
+thesis was adhesively bonded to the 
+adjacent natural teeth and adjusted 
+in occlusion. Patients were placed 
+on presurgical antibiotics and an an-
+algesic as needed and seen 7 to 14 
+days postoperatively for follow-up.
+After a minimum of 4 months, 
+the resin-bonded prosthesis was re-
+moved for the first time for the No 
+BGPR and BG groups, and a screw-
+retained polyether-ether-ketone 
+(PEEK) abutment with contoured 
+acrylic was joined to the implant. 
+Nonsurgical soft tissue sculpting 
+was performed to shape the peri-
+implant soft tissues. The tissues were 
+allowed to heal for at least 3 addi -
+tional weeks for these groups before 
+final impressions were made. For the 
+PR and BGPR groups, a minimum of 
+5 months of healing was allowed be-
+fore the first removal (disconnection) 
+of the provisional restoration (Fig 
+5). Subsequently, patients returned 
+for implant-level impression making 
+with a monophase impression mate-
+rial (Flexitime, Heraeus Kulzer) and 
+an open-tray technique for the fab-
+rication of a definitive restoration. 
+Implant-level transfer copings were 
+seated, and GC pattern resin (GC 
+America) was used within 1 minute 
+of provisional restoration discon -
+nection to capture the subgingival 
+soft-tissue mucosa profile (Fig 6). 
+The dental laboratory fabricated a 
+gypsum cast that allowed construc-
+tion of a screw-retained noble metal 
+alloy abutment or cement-retained 
+subframe (Fig 7). Custom abutment 
+and metal-ceramic or all-ceramic 
+crowns were fabricated and deliv -
+ered approximately 3 months after 
+the final impression. The definitive 
+crowns were either cement-retained 
+with temporary cement (TempBond 
+NE, Kerr) or screw-retained.23
+The facial peri-implant soft tis -
+sue thickness (labiopalatally) was 
+measured coronoapically from the 
+FGM to the implant-abutment junc-
+tion using a periodontal probe (Fig 
+8), and the peri-implant soft tissue 
+dimensions were measured (Fig 9). 
+The vertical distance from the FGM 
+to the implant shoulder was divid -
+Fig 2 A patient in the BGPR group after 
+palatal placement of the implant with a 
+straight flat contoured abutment to allow 
+placement of a bone graft into the labial 
+gap.
+Fig 3 A bone graft is placed into the labial 
+gap. 
+Fig 4 The straight healing abutment was 
+carefully removed to avoid disturbing the 
+bone graft. Then the provisional restora-
+tion fabricated prior to the bone graft was 
+seated to contain, protect, and maintain the 
+graft during the healing phase of treatment.
+© 2015 BY QUINTESSENCE PUBLISHING CO, INC. PRINTING OF THIS DOCUMENT IS RESTRICTED TO PERSONAL USE ONLY. 
+NO PART MAY BE REPRODUCED OR TRANSMITTED IN ANY FORM WITHOUT WRITTEN PERMISSION FROM THE PUBLISHER. 
+
+===== PAGE 5 =====
+The International Journal of Periodontics & Restorative Dentistry
+806
+ed into three labial-palatal points 
+of reference designated as the gin-
+gival (G), middle (M), and incisal (I) 
+zones, respectively (Fig 10). The 
+middle point of each vertical zone 
+on the gypsum casts (Figs 11a and 
+11b) was measured with a spring-
+loaded dental caliper (Iwanson 
+Decimal Caliper, Asa Dental) sensi-
+tive to 0.1 mm. Mean values were 
+calculated for each peri-implant 
+soft tissue measurement at each 
+Fig 5 After adequate healing to allow the 
+implant and bone graft to integrate  
+(5 months), the provisional restoration was 
+disconnected for the first time. Notice the 
+shape of the ridge contour as well as the 
+peri-implant soft tissue.
+Fig 6 An implant-level impression was 
+made with pattern (acrylic) resin to capture 
+the subgingival profile of the peri-implant 
+sulcus.
+Fig 7 A gypsum (stone) cast was poured to 
+allow fabrication of the definitive restora-
+tion. The gypsum cast was used to measure 
+the peri-implant soft tissue thickness at the 
+G, M, and I zones.
+Fig 8 The coronal-apical dimension or ver-
+tical mucosal tissue height was measured 
+using a periodontal probe from the implant 
+head to the free gingival margin on each 
+gypsum cast.
+Fig 9 The mean values for peri-implant soft tissue for each treatment and zone were 
+recorded and compared. The greatest positive change was noted for the BGPR group and 
+the least for the No BGPR group.
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+.5
+0
+Mean vertical dimension (mm)
+1.2
+1.8
+2.3
+1.4
+2.1
+2.6
+I M G
+1.4
+2.4
+3.1
+1.5
+2.1
+No BGPR
+PR
+BG
+BGPR 2.7
+Fig 10 With a default implant depth of  
+3.0 mm at the time of placement, 3 zones 
+approximately 1.0 mm in vertical height 
+could be measured in its mid-most region.
+Fig 11 Spring-loaded calipers were used to measure the gingival zone of the peri-implant 
+soft tissue thickness.
+a b
+G
+M
+I
+© 2015 BY QUINTESSENCE PUBLISHING CO, INC. PRINTING OF THIS DOCUMENT IS RESTRICTED TO PERSONAL USE ONLY. 
+NO PART MAY BE REPRODUCED OR TRANSMITTED IN ANY FORM WITHOUT WRITTEN PERMISSION FROM THE PUBLISHER. 
+
+===== PAGE 6 =====
+Volume 35, Number 6, 2015
+807
+reference point for zones G, M, and 
+I. One operator at each study site 
+measured each patient’s cast using 
+2.5× magnification optical loupes.
+Data were submitted to regres-
+sion analysis and analysis of covari-
+ance (JMP Version 10, SAS Cary). 
+Stability of the postextraction im -
+plant site was estimated using the 
+contralateral tooth. Statistical signifi-
+cance was set at an α level of .05.
+Results
+The average vertical distance (peri-
+implant soft tissue height) of the 
+implant-abutment junction from the 
+FGM was 2.5 mm. The labial-palatal 
+soft tissue dimensions for zones G, 
+M, and I were 2.7 mm, 2.1 mm, and  
+1.3 mm, respectively.
+In all treatment groups, an av -
+erage of 0.5 mm of vertical collapse 
+or recession of the peri-implant 
+soft tissues was recorded from the 
+time of implant placement to mea-
+surement (Fig 12). The peri-implant 
+soft tissue thickness decreased 
+from zones G and M to zone I. At 
+the most apical extent of the peri-
+implant mucosa, indicative of the 
+implant-abutment interface or con-
+nection, the facial-palatal thickness 
+was always greater than 2 mm in all 
+treatment groups. However, when 
+moving more coronally toward the 
+FGM (0 mm), the tissue thickness 
+always decreased. 
+The vertical distance, or height, 
+of the peri-implant soft tissue was 
+greater for the grafted sites (BG 
+and BGPR) than for the nongrafted 
+sites (No BGPR and PR) (2.72 mm 
+vs 2.29 mm, P < .06). The facial soft 
+tissue thickness (labiopalatally) at 
+the gingival level was also greater 
+for the grafted versus the nongraft-
+ed groups (2.28 mm vs 2.90 mm,   
+P < .008) and for the sites with provi-
+sional restorations (2.81 mm for the 
+PR and BGPR groups vs 2.37 mm 
+for the No BGPR and BG groups,   
+P < .06) (Fig 13). In addition, the facial 
+soft tissue thickness (labiopalatally) 
+was greater at sites that received 
+a bone graft and a provisional res -
+toration (Fig 14) compared to sites 
+without either grafts or restora -
+tions (Fig 15) (3.09 mm vs 2.03 mm,  
+P < .79, respectively). No statistically 
+significant association was observed  
+between bone graft and provisional 
+restoration on the vertical or hori -
+zontal dimension at the incisal and 
+middle levels.
+Fig 14 (left) Gypsum cast of a patient in 
+the BGPR group. The ridge contour as well 
+as the peri-implant soft tissue thickness was 
+robust.
+Fig 15 (right) Gypsum cast of a patient in 
+the No BGPR group. The ridge contour as 
+well as the peri-implant soft tissue thick-
+ness was collapsed and thin. The only area 
+greater than 2.0 mm in thickness was zone 
+G by the head of the implant interface.
+Fig 13 Summary of change in peri-
+implant soft tissue labial-palatal dimension 
+(thickness).
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+.5
+0
+Change in thickness (mm)
+2.7
+BG vs No BG
+P = .06
+2.3
+Fig 12 Summary of change in peri-implant soft tissue dimension (recession).
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+.5
+0
+Recession (mm)
+2.9 2.8
+3.1
+BG vs No BG
+P = .008 P = .06 P = .79
+PR vs No PR BGPR vs No BGPR
+2.3 2.4
+2.0
+© 2015 BY QUINTESSENCE PUBLISHING CO, INC. PRINTING OF THIS DOCUMENT IS RESTRICTED TO PERSONAL USE ONLY. 
+NO PART MAY BE REPRODUCED OR TRANSMITTED IN ANY FORM WITHOUT WRITTEN PERMISSION FROM THE PUBLISHER. 
+
+===== PAGE 7 =====
+The International Journal of Periodontics & Restorative Dentistry
+808
+Discussion
+This study demonstrated that plac-
+ing a bone graft and provisional 
+restoration at the time of immediate 
+postextraction implant placement 
+results in greater peri-implant soft 
+tissue height and thickness in a fa -
+cial-palatal dimension. The net gain 
+in soft tissue height and thickness 
+was about 1 mm in the BGPR group. 
+The buccolingual peri-implant 
+soft tissue increase was most evi -
+dent in zones G and M. This increase 
+was most notable in the BG, PR, and 
+BGPR groups. The increase was 
+above the 2.0 mm tissue-thickness 
+threshold and thus enough to have 
+a color-masking impact regarding 
+implant abutments.14,16 
+Many confounding factors can 
+influence soft tissue thickness, in -
+cluding periodontal phenotype, 
+implant position, and adjacent res-
+torations. The new point to consider 
+is that tissue thickness is a function 
+of not only the implant position, 
+socket anatomy, and shape, but also 
+the extent of collapse of the labial 
+plate resulting from the clinical pro-
+cedure (Figs 2 to 7). In this study, 
+the provisional restorations mirrored 
+contralateral nonrestored natural 
+teeth to provide support.
+In comparison to delayed im -
+plant placement with and with -
+out bone and/or autogenous or 
+allograft soft tissue grafting as 
+reported in the literature, the val -
+ues of labial-palatal dimension 
+for the BG group reported in Fig 
+7 were generally less than those  
+reported by van Brakel et al. 16 This 
+is because measurements were 
+made at 0.5 mm vs 1.0 mm intervals; 
+the thickness of the caliper tip (0.8 
+mm diameter) was the limiting fac -
+tor. Consequently, tissue measure-
+ments at similar reference points 
+were greater, although this may not 
+be clinically relevant or reflective of 
+proper contours accompanying de-
+finitive abutments and restorations.
+No BGPR implants placed ap -
+peared to be more labially po -
+sitioned in the socket than they 
+actually were. The labial tissue col-
+lapses created a false appearance or 
+illusion of labial implant placement. 
+Data in this study, measured 
+at 2.5 mm from the FGM in the BG 
+group (3.1 mm), were very similar 
+to those reported by Nozawa et al 
+(3.2 mm), though the latter study 
+included only three subjects with 
+anterior implant sites. 24 Jung et 
+al reported the greatest value at  
+1.0 mm from the FGM (3.1 mm), 
+using an endodontic file for mea -
+surement, though patients with 
+peri-implant soft tissue thickness of 
+less than 2.0 mm received a connec-
+tive tissue graft prior to definitive 
+measurement.13
+Araújo et al showed that xeno-
+graft particulate material could be 
+incorporated and encapsulated into 
+the peri-implant mucosal tissues 
+with bone grafting and immediate 
+implant placement. 25 These par -
+ticles may act as a benign foreign 
+body where a localized inflammatory 
+response is absent. The question 
+is whether they will be assimilated 
+into the peri-implant mucosa tis -
+sues, thereby increasing their vol -
+ume, specifically the labial-palatal 
+thickness. This volume increase can 
+create a masking effect that would 
+counteract gray-colored abutments 
+and enhance the esthetic outcome 
+without the use of a subepithelial 
+connective tissue graft. What re -
+mains unknown are the effects of 
+subepithelial connective tissue graft-
+ing alone on the peri-implant soft 
+tissue dimensions. Grunder showed 
+the dimensional changes of ridge 
+contour around anterior immedi -
+ate postextraction socket implants 
+with and without connective tissue 
+grafting, with a gain of 0.3 mm and a 
+loss of 1.0 mm, respectively.26 Mea-
+surements were made intraorally at 
+one reference point 3 mm from the 
+FGM representative of the implant- 
+abutment interface, using a peri -
+odontal probe, though peri-implant 
+soft tissue changes were not com -
+pared in the study.
+Limitations of the present study 
+include the retrospective cohort 
+study design and the lack of long-
+term follow-up. There was also no 
+measurement of the preimplant labi-
+al soft tissue thickness. Peri-implant 
+labial tissue dimensions differ from 
+those of the unattached gingiva 
+around natural teeth. For the pres -
+ent study, peri-implant soft tissue di-
+mensions could only be ascertained 
+from the stone casts. Six months has 
+been reported to be a sufficient time 
+for peri-implant soft tissue healing 
+to occur after placement of implants 
+and provisional restorations into ex-
+traction sockets immediately after 
+flapless extraction procedures.20 
+The effect of provisional resto -
+ration alone or bone grafting and 
+provisional restoration at the time of 
+immediate placement were assessed 
+in this study. The effect of soft tissue 
+grafting (ie, subepithelial connective 
+tissue grafting or allograft) or dermis 
+© 2015 BY QUINTESSENCE PUBLISHING CO, INC. PRINTING OF THIS DOCUMENT IS RESTRICTED TO PERSONAL USE ONLY. 
+NO PART MAY BE REPRODUCED OR TRANSMITTED IN ANY FORM WITHOUT WRITTEN PERMISSION FROM THE PUBLISHER. 
+
+===== PAGE 8 =====
+Volume 35, Number 6, 2015
+809
+allografts with provisional restoration 
+or the combination of bone and soft 
+tissue grafting with provisional res-
+toration need further investigation 
+through future research. 
+The results of the present study 
+are consistent with the net gain of 
+1 mm, measured 2 mm from the 
+FGM, previously reported.20 The key 
+difference is the use of a free sub -
+epithelial connective tissue graft to 
+augment the peri-implant soft tis -
+sues (in the previous study) versus 
+bone grafting the peri-implant soft 
+tissue zone in the present study.
+Conclusions
+Placing a bone graft and provisional 
+restoration at the time of anterior 
+tooth extraction increases both the 
+vertical and labial-palatal dimensions 
+by between 0.5 and 1.0 mm, as com-
+pared to placing neither a bone graft 
+nor a provisional restoration at the 
+time of flapless immediate postex -
+traction implant placement. Increas-
+es were most frequently noted in the 
+gingival and middle zones, where 
+thickness gains were above the criti-
+cal soft tissue threshold of 2.0 mm.
+Further research is required 
+to assess the long-term stability 
+of peri-implant soft tissue around 
+provisional restoration supporting 
+implants placed immediately in the 
+flapless postextraction socket. 
+Acknowledgments
+The authors wish to acknowledge Adam J. 
+Mieleszko, CDT, for his assistance in gypsum 
+cast fabrication and caliper measurement. 
+The authors reported no conflicts of interest 
+related to this study.
+References
+ 1. Lazzara RJ. Immediate implant placement 
+into extraction sites: Surgical and restor -
+ative advantages. Int J Periodontics Restor-
+ative Dent 1989;9:332–343.
+ 2. Kan JY, Rungcharassaeng K, Lozada J. Im -
+mediate placement and provisionalization 
+of maxillary anterior single implants: 1-year 
+prospective study. Int J Oral Maxillofac Im-
+plants 2003;18:31–39.
+ 3. Wöhrle PS. Single-tooth replacement in the 
+aesthetic zone with immediate provisional-
+ization: Fourteen consecutive case reports. 
+Pract Periodontics Aesthet Dent 1998;10:  
+1107–1114.
+ 4. Wagenberg B, Froum SJ. A retrospective 
+study of 1925 consecutively placed imme-
+diate implants from 1988 to 2004. Int J Oral 
+Maxillofac Implants 2006;21:71–80.
+ 5. Cooper LF, Raes F, Reside GJ, et al. 
+Comparison of radiographic and clinical 
+outcomes following immediate provision -
+alization of single-tooth dental implants 
+placed in healed alveolar ridges and ex -
+traction sockets. Int J Oral Maxillofac Im -
+plants 2010;25:1222–1232.
+ 6. El-Chaar ES. Immediate placement and 
+provisionalization of implant-supported, 
+single-tooth restorations: A retrospective 
+study. Int J Periodontics Restorative Dent 
+2011;31:409–419.
+ 7. Block MS, Mercante DE, Lirette D, et al. 
+Prospective evaluation of immediate and 
+delayed provisional single tooth resto -
+rations. J Oral Maxillofac Surg 2009;67:  
+89–107.
+ 8. De Rouck T, Collys K, Wyn I, Cosyn J. In -
+stant provisionalization of immediate sin -
+gle-tooth implants is essential to optimize 
+esthetic treatment outcome. Clin Oral Im -
+plants Res 2009;20:566–570.
+ 9. Evans CD, Chen ST. Esthetic outcomes of 
+immediate implant placements. Clin Oral 
+Implants Res 2008;19:73–80.
+10. Tortamano P, Camargo LO, Bello-Silva MS, 
+Kanashiro LH. Immediate implant place -
+ment and restoration in the esthetic zone: 
+A prospective study with 18 months of fol-
+low-up. Int J Oral Maxillofac Implants 2010; 
+25:345–350.
+11. Park SE, Da Silva JD, Weber HP, Ishika -
+wa-Nagai S. Optical phenomenon of 
+peri-implant soft tissue. Part I. Spectro -
+photometric assessment of natural tooth 
+gingiva and peri-implant mucosa. Clin Oral 
+Implants Res 2007;18:569–574.
+12. Ishikawa-Nagai S, Da Silva JD, Weber HP, 
+Park SE. Optical phenomenon of peri-im -
+plant soft tissue. Part II. Preferred implant 
+neck color to improve soft tissue esthetics. 
+Clin Oral Implants Res 2007;18:575–580.
+13. Jung RE, Holderegger C, Sailer I, et al. The 
+effect of all-ceramic and porcelain-fused-
+to-metal restorations on marginal peri-
+implant soft tissue color: A randomized 
+controlled clinical trial. Int J Periodontics 
+Restorative Dent 2008;28:357–365.
+14. Jung RE, Sailer I, Hämmerle CH, Attin T, 
+Schmidlin P. In vitro color changes of soft 
+tissues caused by restorative materials. 
+Int J Periodontics Restorative Dent 2007;  
+27:251–257.
+15. Bressan E, Paniz G, Lops D, et al. Influence 
+of abutment material on the gingival color 
+of implant-supported all-ceramic restora -
+tions: A prospective multicenter study. Clin 
+Oral Implants Res 2011;22:631–637.
+16. van Brakel R, Noordmans HJ, Frenken J, et 
+al. The effect of zirconia and titanium im -
+plant abutments on light reflection of the 
+supporting soft tissues. Clin Oral Implants 
+Res 2011;22:1172–1178.
+17. Takeda T, Ishigami K, Shimada A, Ohki K. 
+A study of discoloration of the gingiva by 
+artificial crowns. Int J Prosthodont 1996;9:  
+197–202.
+18. Linkevicius T, Apse P, Grybauskas S, Puisys 
+A. The influence of soft tissue thickness 
+on crestal bone changes around implants: 
+A 1-year prospective controlled clinical 
+trial. Int J Oral Maxillofac Implants 2009;24: 
+712–719.
+19. Puisys A, Linkevicius T. The influence of 
+mucosal tissue thickening on crestal bone 
+stability around bone-level implants. A 
+prospective controlled clinical trial. Clin 
+Oral Implants Res 2015;26:123–129.
+20. Rungcharassaeng K, Kan JY, Yoshino S, 
+Morimoto T, Zimmerman G. Immediate 
+implant placement and provisionalization 
+with and without a connective tissue graft: 
+An analysis of facial gingival tissue thick -
+ness. Int J Periodontics Restorative Dent 
+2012;32:657–663.
+21. Tarnow DP, Chu SJ, Salama MA, et al. 
+Flapless postextraction socket implant 
+placement in the esthetic zone: Part 1. The 
+effect of bone grafting and/or provisional 
+restoration on facial-palatal ridge dimen -
+sional change—A retrospective cohort 
+study. Int J Periodontics Restorative Dent 
+2014;34:323–331.
+22. Elian N, Cho SC, Froum S, Smith RB, Tar -
+now DP. A simplified socket classification 
+and repair technique. Pract Proced Aesthet 
+Dent 2007;19:99–104; quiz 106.
+23. Wadhwani C, Piñeyro A. Technique for con-
+trolling the cement for an implant crown.  
+J Prosthet Dent 2009;102:57–58.
+24. Nozawa T, Enomoto H, Tsurumaki S, Ito K. 
+Biologic height-width ratio of the buccal 
+supra-implant mucosa. Eur J Esthet Dent 
+2006;1:208–214.
+25. Araújo MG, Linder E, Lindhe J. Bio-Oss 
+collagen in the buccal gap at immediate 
+implants: A 6-month study in the dog. Clin 
+Oral Implants Res 2011;22:1–8.
+26. Grunder U. Crestal ridge width changes 
+when placing implants at the time of tooth 
+extraction with and without soft tissue 
+augmentation after a healing period of 6 
+months: Report of 24 consecutive cases. 
+Int J Periodontics Restorative Dent 2011;31: 
+9–17.
+© 2015 BY QUINTESSENCE PUBLISHING CO, INC. PRINTING OF THIS DOCUMENT IS RESTRICTED TO PERSONAL USE ONLY. 
+NO PART MAY BE REPRODUCED OR TRANSMITTED IN ANY FORM WITHOUT WRITTEN PERMISSION FROM THE PUBLISHER. 
