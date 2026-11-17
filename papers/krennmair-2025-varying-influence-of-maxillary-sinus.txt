@@ -1,0 +1,15 @@
+TITLE: Varying Influence of Maxillary Sinus Dimensions on New Bone Formation With Various Graft Materials in Lateral Window Sinus Augmentation-A Retrospective Study
+AUTHORS: Krennmair S, Weinländer M, Schwarze UY, Malek M, Forstner T, Krennmair G
+JOURNAL: Clinical Implant Dentistry and Related Research
+ID[pmid]: 40183191
+ID[doi]: 10.1111/cid.70014
+NOTE: abstract-only — paywalled, no PMC/open-access full text retrieved. Erratum exists (Clin Implant Dent Relat Res. 2025 Jun;27(3):e70054. doi: 10.1111/cid.70054; PMID 40471090) — this is the original study, not an erratum-only page.
+
+## ABSTRACT
+INTRODUCTION: The present study aimed to evaluate and to compare the influence of anatomical variables such as sinus width (SW), inner maxillary sinus contour length (IMSCL), and residual ridge height (RRH) on new bone formation (%NBF) for deproteinized porcine (DPBM) and bovine bone mineral (DBBM) used for lateral window sinus augmentation (LWSA) grafting.
+
+MATERIAL AND METHODS: For LWSA groups grafted either with DPBM (n = 10) or DBBM (n = 13) a linear- as well as a multivariate-regression analysis was conducted between measured %NBF and radiographically retrospectively assessed anatomical variables (SW/IMSCL/RRH). Correlations as well as regression coefficients (R2) were calculated, evaluating the influence of anatomical variables on %NBF with differentiation between both xenogenic graft materials used.
+
+RESULTS: With no differences for patient-epidemiologic data, for anatomical variables as well as for surgical- and patient-related risk factors, comparison between the two LWSA groups was possible. The linear-regression analysis provided significant correlations between histomorphometrically evaluated %NBF and SW (DPBM: r = -0.660, p = 0.038; DBBM: r = -0.614, p = 0.026) as well as between %NBF and IMSCL (DPBM: r = -0.737; p = 0.015, DBBM: r = -0.573, p = 0.041), but not for RRH. Between SW/IMSCL/RRH and %NBF, regression-coefficients-(R2) of 0.435/0.543/0.258 using DPBM and R2 of 0.377/0.328/0.053 using DBBM represented evidently higher influences of anatomical structures when porcine graft material was applied. The multivariate-regression analysis confirmed the different influence between various xenogenic graft materials on % NBF as well with a pronounced effect for porcine material (DPBM: R2 = 0.591 [59.1%] vs. DBBM: R2 = 0.314 [31.4%]).
+
+CONCLUSION: In LWSA, anatomical structures such as SW and IMSCL significantly affect new bone formation, though with varying effects for different xenogenic (porcine vs. bovine) bone mineral graft materials used.
