@@ -860,6 +860,9 @@ tags: []
 - [[sinus-lift/lateral/galindomoreno-2022-maxillary-sinus-floor-augmentation-comparing]] — Galindo-Moreno 2022 · rct · 소뼈(ABB)+자가골 20:80 vs 돼지골(PBM) 이종골 측방 상악동 split-mouth(10명/20동): 광화조직 29.24% vs 32.51%(p=.570), 잔존 생체재 31.00% vs 31.21%(p>.999) — 돼지골은 DBBM 대체 가능 [PMC전문] (DOI 10.1111/clr.13912)
 - [[sinus-lift/lateral/salgado-peralvo-2023-preventive-antibiotic-therapy-in]] — Salgado-Peralvo 2023 · sr · 측방 상악동거상술 예방적 항생제 SR — 근거 불충분, 사용/미사용 지지 불가, 적절 항생제·기간 미확립 (초록만)
 - [[sinus-lift/lateral/nam-2023-sinus-augmentation-polycaprolactone-tricalcium-phosphate]] — Nam 2023 · animal · 미니피그 5마리/임플란트 20개 동시(1단계) 측방 상악동거상: 튜브형 PCL-TCP 스캐폴드 + hUCMSC + PRP vs PRP 단독 vs 스캐폴드 단독(12주) — 회색도 102.5 vs 58.1(P=0.045)·BIC 0.34 vs 0.09(P=0.016)는 우위이나 Micro-CT BV/TV 4.42% vs 6.73%(P=0.366)는 무차, 임플란트 4/20 소실(모두 PRP 군) (DOI 10.5051/jpis.2300660033)
+- [[sinus-lift/lateral/sane-2026-effectiveness-of-concentrated-growth-factor]] — Sane 2026 · sr+ma (6편/185 상악동, 초록만) · 측방 상악동거상 CGF: 신생골 SMD 0.94(p=0.004)·골밀도 SMD 0.89(p=0.0001) 유의 증가, 골고도·생존율(97–100%)은 무차; EHA+CGF는 미검증 전이 추론 (DOI 10.1007/s12663-026-03192-5)
+- [[sinus-lift/lateral/krennmair-2025-varying-influence-of-maxillary-sinus]] — Krennmair 2025 · retrospective (23동, 초록만, 정정문 있음) · 측방 상악동거상 해부학 변수가 신생골에 미치는 영향은 이식재 의존 — SW·IMSCL은 유의 음상관, RRH는 무관; 다변수 R² 돼지골 0.591 vs 소골 0.314 (DOI 10.1111/cid.70014)
+- [[sinus-lift/lateral/nathani-2025-evaluation-of-the-efficacy-of]] — Nathani 2025 · prospective (단일군 12명 등록/10명 분석, PMC전문) · 잔존골 ≤5mm 측방 거상에서 자가골:30/70 BCP 1:1 + PRF — 6개월 골고도 +8.53mm(p<0.001), 신생골 48.08%·잔존이식재 24.36%, 막천공 0건 (DOI 10.4103/jisp.jisp_30_25)
 
 ## 상악동거상술 — 경치조골·골밀도화 (Sinus Lift: Transcrestal / Osseodensification)
 - [[sinus-lift/transcrestal/huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma]] — Huang 2026 · sr+ma · 무이식(graftless) 경치조 상악동거상 MA 14편(2119부위): 막천공 1%·조기실패 1%·부비동염 없음; motor-OD 34% vs osteotome 0% (GRADE very low) (DOI 10.2340/aos.v85.46021)
