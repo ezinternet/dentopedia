@@ -78,8 +78,8 @@ This in vitro study evaluated the effect of two steam sterilization techniques �
 ## Related Work
 
 - [[dental-materials/zirconia/lunkad-2025-evaluation-of-surface-roughness-of]] — companion study comparing 3 polishing kits (EVE Diacera, SS White, Ultradent Jiffy) under flash sterilization ≤10 cycles on MMLZ; overlapping authorship (Lunkad Honey co-author here)
-- [[dental-materials/zirconia/pott-2018-zirconia-interface-polishing-mixed-materials]] — polishing mixed-material interfaces for zirconia
-- [[dental-materials/zirconia/park-2025-djmt-digital-workflow-zirconia-eccentric-adjustment-rct]] — clinical adjustment and polishing of zirconia in RCT context
+- [[dental-materials/zirconia/pott-2018-polish-of-interface-areas-between]] — polishing mixed-material interfaces for zirconia
+- [[digital-workflow/park-2025-comparison-of-interference-from-eccentric]] — clinical adjustment and polishing of zirconia in RCT context
 
 ## Glossary
 
