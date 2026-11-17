@@ -1,6 +1,6 @@
-# Parse Gap Flag Audit — 2026-11-16
+# Parse Gap Flag Audit — 2026-11-17
 
-- total sources: 4133
+- total sources: 4148
 - pending flags (WARN ≥30d): 0
 - pending flags (INFO <30d): 0
 - abstract-only: 275 (high-evidence: 23)
