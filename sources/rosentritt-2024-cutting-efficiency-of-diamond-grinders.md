@@ -107,9 +107,9 @@ SEM confirmed diamond grain rounding and loss as the dominant wear mechanism; a 
 
 ## Related Work
 
-- [[dental-materials/zirconia/park-2025-djmt-digital-workflow-zirconia-eccentric-adjustment]]
-- [[dental-materials/zirconia/pott-2018-zirconia-interface-polishing-mixed-materials]]
-- [[dental-materials/zirconia/regulska-2021-3y-tzp-xrd-surface-analysis-monoclinic-gradient]]
+- [[digital-workflow/park-2025-comparison-of-interference-from-eccentric]]
+- [[dental-materials/zirconia/pott-2018-polish-of-interface-areas-between]]
+- [[dental-materials/zirconia/regulska-2021-analysis-of-the-surface-condition]]
 
 ## Glossary
 
