@@ -2,7 +2,7 @@
 title: "상악동거상술·측방 — lateral"
 authors: navigation
 year: 2026
-date: 2026-11-16
+date: 2026-11-17
 doi: N/A
 source: navigation
 category: sinus-lift/lateral
@@ -15,20 +15,20 @@ tags: [navigation, category-index, lateral]
 > [!summary] 한국어 핵심요약
 > - **분야**: 상악동거상술·측방
 > - **범위**: Lateral window approach, membrane, grafting materials
-> - **수록 논문**: 130편
+> - **수록 논문**: 133편
 
 ## Three-line Summary
 
 **Scope**: Lateral window approach, membrane, grafting materials
-**Indexed papers**: 130 papers in `wiki/sinus-lift/lateral/`.
+**Indexed papers**: 133 papers in `wiki/sinus-lift/lateral/`.
 
 ## 세줄요약
 
 **분야**: 상악동거상술·측방
-**수록 논문**: 130편
+**수록 논문**: 133편
 **하위 카테고리**: 없음
 
-## Papers in this Category (130)
+## Papers in this Category (133)
 
 | Paper |
 |---|
@@ -83,6 +83,7 @@ tags: [navigation, category-index, lateral]
 | [[koleilat-2023-prf-collagen-sinus-membrane-repair|A Combination of Platelet-Rich Fibrin and Collagen Membranes for Sinus Membrane Repair: A Case Report]] |
 | [[kozuma-2017-chronic-sinusitis-sinus-augmentation-infection|Preoperative Chronic Sinusitis as Significant Cause of Postoperative Infection and Implant Loss After Sinus Augmentation from a Lateral Approach]] |
 | [[krennmair-2024-maxillary-sinus-augmentation-with-anorganic|Maxillary Sinus Augmentation with Anorganic Bovine Bone Mineral of Different Particle Sizes: A Split-Mouth Study with Histomorphometric, Radiographic, and Clinical Analyses]] |
+| [[krennmair-2025-varying-influence-of-maxillary-sinus|Varying Influence of Maxillary Sinus Dimensions on New Bone Formation With Various Graft Materials in Lateral Window Sinus Augmentation-A Retrospective Study]] |
 | [[kukis-2026-prf-modified-graft-materials-in|PRF-Modified Graft Materials in Lateral Sinus Augmentation: A Systematic Review of Histologic Outcome]] |
 | [[lee-2020-cbct-inferior-maxillary-sinus-3d-evaluation|Three-dimensional CBCT based evaluation of the inferior part of the maxillary sinus: Retrospective Study]] |
 | [[lee-2020-msmt-mod-ratio-sinus-augmentation-risk|An Anatomic Study on the Maxillary Sinus Mucosal Thickness and the Distance between the Maxillary Sinus Ostium and Sinus Floor for the Maxillary Sinus Augmentation]] |
@@ -103,6 +104,7 @@ tags: [navigation, category-index, lateral]
 | [[nam-2014-fess-intraoral-implant-related-sinusitis|Treatment of dental implant-related maxillary sinusitis with functional endoscopic sinus surgery in combination with an intra-oral approach]] |
 | [[nam-2023-sinus-augmentation-polycaprolactone-tricalcium-phosphate|Sinus augmentation with poly(ε) caprolactone-β tricalcium phosphate scaffolds, mesenchymal stem cells and platelet rich plasma for one-stage dental implantation in minipigs]] |
 | [[narongchai-2025-patient-reported-healing-of-static|Patient-Reported Healing of Static Computer-Assisted Sinus Lateral Window Osteotomy: A Randomized Controlled Trial]] |
+| [[nathani-2025-evaluation-of-the-efficacy-of|Evaluation of the efficacy of autogenous bone graft in combination with hydroxyapatite and beta-tricalcium phosphate in direct sinus augmentation - A clinical, radiographic, and histologic study]] |
 | [[nemati-2023-membrane-perforation-risk-lateral-sinus|Which factors affect the risk of membrane perforation in lateral window maxillary sinus elevation? A prospective cohort study]] |
 | [[nguyen-2022-analysis-of-acute-sinusitis-related|Analysis of acute sinusitis-related early failed implant surface: a combined histological, electron microscopy, and X-ray spectroscopy approach]] |
 | [[nguyen-2026-histological-and-histomorphometric-assessment-of|Histological and histomorphometric assessment of lateral window sinus augmentation in severe maxillary atrophy using a mixed allograft with β-TCP/HA and autologous platelet-rich fibrin]] |
@@ -126,6 +128,7 @@ tags: [navigation, category-index, lateral]
 | [[sakuma-2020-maxillary-sinus-ostium-edema-cbct|Involvement of the Maxillary Sinus Ostium in the Edematous Processes after Sinus Floor Augmentation: A CBCT Study]] |
 | [[sala-2024-sinus-perforation-outcomes-sr-ma|Clinical Outcomes of Maxillary Sinus Floor Perforation by Dental Implants and Sinus Membrane Perforation during Sinus Augmentation: A Systematic Review and Meta-Analysis]] |
 | [[salgado-peralvo-2023-preventive-antibiotic-therapy-in|Preventive Antibiotic Therapy in Sinus Elevation Procedures: A Systematic Review]] |
+| [[sane-2026-effectiveness-of-concentrated-growth-factor|Effectiveness of Concentrated Growth Factor in Lateral Sinus Augmentation: A Systematic Review and Meta-Analysis with Translational Considerations for Eggshell-Derived Nano-Hydroxyapatite]] |
 | [[sartori-2003-msfa-bio-oss-10year-case-report|Ten-year follow-up in a maxillary sinus augmentation using anorganic bovine bone (Bio-Oss). A case report with histomorphometric evaluation]] |
 | [[scaini-2025-lateral-sinus-floor-elevation-ridge-augmentation|Indications and Regenerative Techniques for Lateral Window Sinus Floor Elevation With Ridge Augmentation]] |
 | [[schiavo-di-flaviano-2024-schneiderian-perforation-implant-survival-sr-ma|Influence of Schneiderian Membrane Perforation on Implant Survival Rate: Systematic Review and Meta-Analysis]] |
