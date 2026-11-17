@@ -49,7 +49,7 @@ Hamilton 2023 SR+MA 정량 효과: facial gap ≥2 mm +3.1 pp(p=0.04), 근관 �
 
 | Stem | Type | Anchor 역할 |
 |---|---|---|
-| immediate-implant/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma | sr+ma | ITI 2023 consensus — selection criteria 정량화 anchor |
+| immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma | sr+ma | ITI 2023 consensus — selection criteria 정량화 anchor |
 | immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr | sr | Type 1A clinical performance — 5년 생존율/MBL/PES |
 | implants/loading-protocol/zhou-2021-placement-loading-protocols-single-implants-sr | sr | site-specific (4부위) × placement × loading matrix |
 | immediate-implant/qian-2024-anterior-maxillary-implants-placement-loading-nma | sr+ma | 상악 전치부 전 protocol 조합 NMA |
