@@ -1,0 +1,659 @@
+12 Volume 19, Supplement, 2004
+Immediate or Early Placement of Implants Following
+Tooth Extraction: Review of Biologic Basis, Clinical
+Procedures, and Outcomes
+Stephen T. Chen, MDSc1/Thomas G. Wilson Jr, DDS2/Christoph H. F. Hämmerle, DMD3
+Purpose: The aim of this article was to review the current literature with regard to survival and success
+rates, along with the clinical procedures and outcomes associated with immediate and delayed
+implant placement. Materials and Methods: A MEDLINE search was conducted of studies published
+between 1990 and June 2003. Randomized and nonrandomized clinical trials, cohort studies, case-
+control studies, and case reports with a minimum of 10 cases were included. Studies reporting on suc-
+cess and survival rates were required to have follow-up periods of at least 12 months. Results: Thirty-
+one articles were identified. Most were short-term reports and were not randomized with respect to
+timing of placement and augmentation methods used. All studies reported implant survival data; there
+were no reports on clinical success. Peri-implant defects had a high potential for healing by regenera-
+tion of bone, irrespective of healing protocol and bone augmentation method. Sites with horizontal
+defects (HD) of 2 mm or less healed by spontaneous bone fill when implants with rough surfaces were
+used. In the presence of HDs larger than 2 mm, or when socket walls were damaged, concomitant
+augmentation procedures with barrier membranes and bone grafts were required. Delayed implant
+placement allowed for resolution of local infection and an increase in the area and volume of soft tis-
+sue for flap adaptation. However, these advantages were diminished by simultaneous buccolingual
+ridge resorption and increased requirements for tissue augmentation. Discussion: Immediate and
+delayed immediate implants appear to be predictable treatment modalities, with survival rates compa-
+rable to implants in healed ridges. Relatively few long-term studies were found. Successful clinical out-
+comes in terms of bone fill of the peri-implant defect were well established. However, there was a
+paucity of data on long-term success as measured by peri-implant tissue health, prosthesis stability,
+and esthetic outcomes. Conclusions: Short-term survival rates and clinical outcomes of immediate
+and delayed implants were similar and were comparable to those of implants placed in healed alveolar
+ridges. 
+INT J ORAL MAXILLOFAC IMPLANTS 2004;19(SUPPL):12–25
+Key words: bone regeneration, dental implants, delayed implants, extraction socket, immediate
+implants, implant survival, literature review 
+S
+ince the first report of the placement of a dental
+implant into a fresh extraction socket, 1 there has
+been increasing interest in this technique for
+implant treatment (for reviews see Schwartz-Arad
+and Chaushu
+2 and Mayfield 3). The advantages of
+immediate implant placement have been reported
+to include reductions in the number of surgical
+interventions and in the treatment time required.
+4,5
+It has also been suggested that ideal orientation of
+the implant,
+6,7 preservation of the bone at the
+extraction site,8–10 and optimal soft tissue esthetics 6
+may be achieved. 
+However, it has been reported that immediate
+implant placement may be adversely affected by the
+presence of infection
+11–13 and lack of soft tissue clo-
+sure and flap dehiscence over the extraction site, 14
+particularly when barrier membranes have been
+used for guided bone regeneration.
+15–20 T reatment
+outcomes for both submerged and nonsubmerged
+placements may be affected by lack of tissue
+volume
+21 and thin tissue biotypes. In addition,
+1Senior Fellow, Centre for Oral Health Science, School of Dental
+Science, The University of Melbourne, Melbourne, Victoria, Aus-
+tralia. 
+2Private Practice, Dallas, Texas. 
+3Professor, Clinic for Fixed and Removable Prosthodontics, Cen-
+ter for Dental and Oral Medicine and Cranio-Maxillofacial
+Surgery, University of Zurich, Switzerland.
+Correspondence to:Dr S. T. Chen, 223 Whitehorse Road, Balwyn
+VIC 3123 Australia. Fax: +61-3-9817-6122. E-mail: schen@mira.net
+12-25 Chen  12/2/04  1:21 PM  Page 12
+
+The International Journal of Oral & Maxillofacial Implants 13
+GROUP 1
+incongruity between the shape of the implant body
+and that of the socket wall may lead to gaps
+between the bone and the implant. At the present
+time, there is a lack of consensus on the need for
+immediate implants and the optimal regenerative
+techniques to be used with them.
+2,3 The clinician
+must therefore decide whether augmentation proce-
+dures are necessary and, if so, the most efficacious
+technique to use. T o overcome the problems of
+immediate implantation, alternative techniques have
+been described, calling for implant placement at
+various intervals following initiation of wound heal-
+ing subsequent to tooth extraction.
+14,22–27
+This article will examine the biologic basis, as
+well as the indications and clinical outcomes, of
+immediate and delayed implant placement. It will
+not deal with techniques for delayed implant place-
+ment following soft and hard tissue augmentation at
+the time of tooth extraction (for a review on this
+topic, see Adriaens
+28). An understanding of extrac-
+tion wound healing and subsequent bone resorp-
+tion, regeneration, and remodeling of the healing
+socket is necessary to provide a basis for reviewing
+the outcomes of implants placed early after tooth
+extraction.
+LITERATURE REVIEW AND 
+SEARCH RESULTS
+A MEDLINE search was conducted to identify
+clinical articles published between 1990 and June
+2003. The search terms used were “immediate” and
+“implants,” “implants” and “extraction sockets,”
+“delayed-immediate” and “implants,” “delayed” and
+“implants,” “delayed implants” and “extraction,”
+“delayed placement” and “implants,” and “early
+placement” and “implants.” In addition, the bibli-
+ographies of 2 review articles were checked for
+appropriate studies.
+2,3 The reference lists of identi-
+fied studies were then searched for additional cita-
+tions. Randomized clinical trials and nonrandom-
+ized cohort studies, case control studies, and case
+series with a minimum of 10 cases were included. In
+addition, studies reporting on success and survival
+rates needed to have follow-up periods of at least 12
+months.
+A total of 31 studies that met the criteria for this
+review were identified. Of these studies, 18 provided
+data on survival rates of immediate and delayed
+implants. Nineteen studies provided clinical, radi-
+ographic, and re-entry data on healing around
+immediate and delayed implants.
+HEALING OF EXTRACTION SOCKETS
+Histologic Events
+The events that occur in a healing extraction socket
+have been identified by examination of animal his-
+tologic material
+29–31 and human biopsies (T able
+1).32–35 Five stages of healing have been described. 34
+In the first stage, an initial clot forms as a coagulum
+of red and white blood cells derived from the circu-
+lation. In the second stage, granulation tissue
+replaces the clot over a 4- to 5-day period. Cords of
+endothelial cells are associated with budding capil-
+laries. In the third stage, connective tissue gradually
+replaces granulation tissue over 14 to 16 days. The
+connective tissue is characterized by the presence of
+spindle-shaped fibroblasts, collagen fibers, and a
+metachromatic ground substance. In the fourth
+stage, calcification of osteoid is apparent, commenc-
+ing at the base and periphery of the socket. Early
+osteoid is seen at the base and periphery of the
+socket by 7 to 10 days. Bone trabeculae almost com-
+pletely fill the socket by 6 weeks. In the fifth stage,
+complete epithelial closure of the socket is achieved
+Table 1 Human Histologic Studies Presenting Data on Osseous Regeneration in
+Extraction Sockets
+First Substantial
+No. of appearance Initial bone fill
+Study Duration patients Sites of osteoid calcification of socket
+Amler et al 50 days Not stated Varied 7 days 18 days 38 days 
+(1960)32 (2⁄3 fill)
+Boyne (1966)33 19 days 12 Maxillary 10 days — —
+teeth
+Amler (1969)34 50 days Not stated Varied 7 days 20 days 40 days 
+(2⁄3 fill)
+Evian et al 16 weeks 10 Varied — 4 to 6 weeks 10 weeks
+(1982)35 (complete fill)
+12-25 Chen  12/2/04  1:21 PM  Page 13
+
+14 Volume 19, Supplement, 2004
+CHEN ET AL
+after 24 to 35 days. Substantial bone fill occurs
+between 5 and 10 weeks. 32–34 By 16 weeks, bone fill
+is complete, with little evidence of osteogenic activ-
+ity at this time.
+35
+Maximum osteoblastic activity, seen as a prolifer-
+ation of cellular and connective tissue elements,
+with osteoblasts laying down osteoid around imma-
+ture islands of bone, occurs between 4 and 6 weeks
+after extraction. After 8 weeks, the osteogenic
+process appears to slow down.
+35
+External Dimensional Changes at 
+Extraction Sockets
+Morphologic changes in healing extraction sockets
+have been described by cephalometric measure-
+ments,
+36,37 study cast measurements,38–41 subtraction
+radiography,41 and direct measurements of the ridge
+following surgical re-entry procedures.39,40,42,43
+Measurements from diagnostic casts allow assess-
+ment of the gross morphologic changes that take
+place during healing and reflect changes in both the
+bone and overlying mucosa.
+41 Approximately 5 to 7
+mm of horizontal or buccolingual ridge reduction,
+representing about 50% of the initial ridge width,
+occurs over a 6- to 12-month period. Most of this
+change takes place during 4 months of healing.
+38,44
+A corresponding apicocoronal or vertical height
+reduction of 2.0 to 4.5 mm accompanies the hori-
+zontal change.
+43,45 Greater apicocoronal changes
+take place at multiple adjacent extraction sites than
+at single extraction sites.
+41,44,45
+The dimensional changes of the bone in healing
+sockets have been reported via intraoperative mea-
+surements (T able 2
+39–43 ). Loss of between 3.1 and
+5.9 mm of buccolingual ridge width was observed in
+studies with observation periods of 4 to 12
+months.
+39–43 Schropp and coworkers measured
+dimensional changes in 46 healing sockets in 46
+patients.
+41 The extraction sites were confined to the
+premolars and molars in both jaws. All but 2
+patients agreed to not wear a prosthetic replace-
+ment during the healing phase. It was found that a
+reduction in buccolingual width of approximately
+50% (from 12.0 to 5.9 mm) took place over a 12-
+month period, with two thirds of this change occur-
+ring in the first 3 months after extraction. These
+changes were slightly greater in molar sites than in
+premolar sites, and in the mandible compared with
+the maxilla. At 3 months after tooth extraction, a
+reduction in apicocoronal ridge height of 0.8 mm
+was noted on the buccal aspect.
+Apicocoronal crestal bone height reductions of
+0.7 to 1.5 mm have been reported after 4 to 6
+months.
+39,40,42,43 In contrast, a gain in ridge height of
+0.4 mm after 12 months was observed in one study.41
+A variety of factors may influence the dimen-
+sional changes of the bone following tooth extrac-
+tion, and it is clear that current knowledge is lim-
+ited in many areas. Systemic factors may include the
+patient’s general health and habits (eg, smoking).
+Local factors include the reasons for extraction, the
+number and proximity of teeth to be extracted, the
+condition of the socket before and after tooth
+extraction, the influence of tissue biotype on heal-
+ing, local differences between sites in the mouth
+and the dental arches, and the type of interim pros-
+thesis used.
+Internal Dimensional Changes Within 
+Extraction Sockets
+Healing events within the socket reduce the dimen-
+sions of the socket over time. Vertical socket height
+reduction of 3 to 4 mm, or approximately 50% of
+the initial socket height, has been reported after 6
+months of healing.
+39,40 Horizontal socket width
+reduction of 4 to 5 mm, or approximately two thirds
+of the original socket width, has been shown to have
+occurred by 6 months of healing.
+39,40,42
+A radiographic analysis using subtraction radiog-
+raphy over a 12-month period confirmed that bone
+formation within the socket occurred simultane-
+ously with loss of alveolar crest height.
+41 Most of
+Table 2 Studies Measuring Mean Apicocoronal and Buccolingual
+Change in Ridge Dimensions Following Tooth Extraction
+Vertical Buccolingual
+Healing change change
+Study time (mo) (mean ± SD) (mean ± SD)
+Lekovic et al (1997)39 6 –0.86 ± 0.14 mm —
+Lekovic et al (1998)40 6 –1.50 ± 0.26 mm — 
+Camargo et al (2000)42 6 1.00 ± 2.25 mm 3.06 ± 2.41 mm
+Iasella et al (2003)43 4 to 6 –0.90 ± 1.60 mm –2.63 ± 2.29 mm
+Schropp et al (2003)41 12 –0.7 mm (–1.4/–0.2)* –5.9 mm (–7.7/–4.7)*
+*Indicates 25th/75th percentiles.
+12-25 Chen  12/2/04  1:21 PM  Page 14
+
+The International Journal of Oral & Maxillofacial Implants 15
+this bone gain and loss occurred in the first 3
+months following tooth extraction. In the same
+study, linear measurements of radiographs showed
+that crestal bone levels at the tooth surfaces adja-
+cent to the extraction sites remained relatively
+unchanged over the 12-month observation period
+(mean 0.1 mm loss). In contrast, mesial and distal
+bone height levels in the extraction sockets were
+reduced by 0.3 mm. The level of bone that regener-
+ated in the extraction sockets did not reach the level
+of the bone at the adjacent teeth.
+Dimensional Changes in Damaged 
+Extraction Sockets
+The rate and pattern of bone resorption may be
+altered if pathologic or traumatic processes have
+damaged one or more of the bony walls of the
+socket. It is likely in these circumstances that
+fibrous tissue may occupy a part of the socket,
+thereby preventing normal healing and osseous
+regeneration from taking place.
+28 There are insuffi-
+cient data on the differences in rates and patterns of
+the healing of intact versus damaged extraction
+sockets.
+Dimensional Changes of the Mucosa
+It is generally believed that the form of the mucosa
+closely follows the changes in the underlying bone.
+An apical shift in the coronal bone may be followed
+by a similar shift in the position of the mucosa.
+However, in a study comparing healing of undis-
+turbed sockets with healing of sockets grafted with
+freeze-dried bone allograft and a collagen mem-
+brane,
+43 the authors reported that the thickness of
+the mucosa at the buccal aspect of the ridge crest
+increased by 0.4 mm after 4 months in the control
+group. The grafted group showed a loss of tissue
+thickness of 0.1 mm. The differences between test
+and control groups were significant. 
+Although complete epithelialization of the socket
+is established by the fifth week of healing, organiza-
+tion and maturation of the collagen in the underly-
+ing lamina propria takes longer to occur. Matrix
+synthesis begins at 7 days and peaks at 3 weeks; this
+is followed by a continuous process of maturation
+until complete tensile strength is restored several
+months later.
+46 Lack of tensile strength in the
+mucosa of healing extraction sockets may result in
+wound dehiscence. Dehiscence rates of 5% to 24%
+have been reported at delayed implant sites treated
+with both resorbable and nonresorbable mem-
+branes, despite the presence of adequate tissue vol-
+ume to achieve primary closure.
+22,47
+CLASSIFICATION OF TIMING OF IMPLANT
+PLACEMENT AFTER TOOTH EXTRACTION
+Several classifications have been proposed for the
+timing of implant placement following tooth extrac-
+tion. In the classification of Wilson and Weber, the
+terms immediate, recent, delayed, and mature are used
+to describe the timing of implant placement in rela-
+tion to soft tissue healing and the predictability of
+guided bone regeneration procedures.
+14 However,
+no guidelines for the time interval associated with
+these terms were provided. In the recent classifica-
+tion of Mayfield, the terms immediate, delayed, and
+late are used to describe time intervals of 0 weeks, 6
+to 10 weeks, and 6 months or more after extraction,
+respectively.
+3 The interval between 10 weeks and 6
+months was not addressed.
+Most of the studies reviewed described immedi-
+ate implant placement as part of the same surgical
+procedure and immediately following tooth extrac-
+tion. The exceptions were Schropp and associates,
+27
+who defined immediate implantation as implants
+placed between 3 and 15 days (mean 10 days) fol-
+lowing tooth extraction, and Gomez-Roman and
+coworkers,
+48 who defined it as occurring between 0
+and 7 days afterward. The majority of studies that
+described delayed implant placement used a delay
+period of 4 to 8 weeks after extraction. In a report
+published by Hämmerle and Lang, placement was
+delayed for 8 to 14 weeks.
+25 In an additional 3
+reports, implant placement was considered delayed
+when it occurred between 6 weeks and 6 months
+after extraction
+47,49 and between 1 week and 9
+months.48 This variation indicates a lack of unifor-
+mity in the interpretation of the terms immediate,
+delayed, and late.
+Thus, it is necessary to introduce clearer defini-
+tions of implant placement that are based on the
+morphologic, dimensional, and histologic changes
+following tooth extraction and on common practice
+derived from clinical experience. 
+CLINICAL OUTCOMES
+Several studies have reported on clinical, radio-
+graphic, and bone defect changes that take place fol-
+lowing placement of immediate and delayed
+implants (T ables 3 and 4). T en studies reported on
+healing of immediate implants only,
+17,18,51–53,57–61
+and 3 studies dealt only with delayed implants.25,54,55
+Several articles compared immediate with delayed
+placement,
+22,27,62 or immediate with late place-
+ment.50,56 A total of 6 papers provided comparative
+data on immediate, delayed, and late place-
+GROUP 1
+12-25 Chen  12/2/04  1:21 PM  Page 15
+
+16 Volume 19, Supplement, 2004
+CHEN ET AL
+ment.10,24,26,47–49 The majority of the comparative
+reports were not randomized with respect to place-
+ment and augmentation techniques. 
+Healing of Immediate and 
+Delayed Implant Sites
+Following observation periods of between 1 and 4.5
+years, no significant differences were reported to
+occur in radiographic crestal bone levels or in prob-
+ing of pockets at immediate, delayed, or late
+implantation sites.
+10,22,48,50,56
+The majority of studies reported that peri-
+implant defects associated with immediate implants
+healed with significant bone fill, irrespective of the
+placement protocol (submerged versus nonsub-
+merged) and augmentation method used.
+51–53,57–61
+However, significantly better bone fill (5.7 mm ver-
+sus 3.2 mm) and less crestal bone resorption were
+reported at immediate implant sites treated with
+demineralized freeze-dried bone combined with
+nonresorbable barrier membranes, versus sites
+treated with a nonresorbable barrier membrane
+alone.
+17 An exception to these positive findings
+above was reported in a study of immediate
+implants in 15 patients.
+18 Substantial bone regener-
+ation was observed histologically in only 3 of 15 tis-
+sue samples taken at the time of membrane
+removal. The results were compromised by wound
+dehiscences that resulted in early exposure of non-
+resorbable membranes in 10 of 15 patients. In other
+studies, premature exposure of nonresorbable mem-
+branes was reported to be associated with reduced
+volumes of regenerated bone in the peri-implant
+defects.
+17,47,60 However, lower incidences of prema-
+ture membrane exposure were observed using colla-
+gen membranes.
+47,58
+Peri-implant defects encountered at the time of
+delayed placement have been reported to heal with
+significant reduction in defect dimensions. In the
+absence of augmentation techniques, defect height
+(DH) reduction was greater at sites with no hori-
+zontal defects (ie, the peri-implant space) compared
+to sites where horizontal defects were present (3.4
+mm versus 1.1 mm).
+54 Highly successful outcomes
+for defect area (DA) reduction (86% to 97% reduc-
+tion) were reported in dehiscence defects treated
+with collagen barrier membranes and anorganic
+bovine bone mineral.
+25,55
+Comparisons between immediate and delayed
+implantation sites showed a trend toward higher
+percentages of DH and DA reduction at delayed
+sites (range between studies for DH, 86% to 97%;
+for DA, 86% to 97%) compared with immediate
+sites (DH 77% to 95%; DA 77% to 95%). The
+exception was in the study of Schropp and cowork-
+ers, in which DH reductions were comparatively
+modest (48% immediate; 34% delayed).
+27 In most
+cases, differences between groups for DH and DA
+reductions were not statistically significant.
+24,47,49
+However, Nemcovsky and colleagues found signifi-
+cantly better DH and DA reduction at delayed sites
+compared with immediate sites.
+62
+Localized pathologic processes may lead to dam-
+age of one or more walls of the extraction socket,
+with the formation of dehiscence defects.
+24,26,27,50,51
+Sockets with dehiscence defects may lack the poten-
+tial for complete bone regeneration, and the risk of
+long-term complications may be increased with
+immediate implants placed at these sites.
+14 How-
+ever, several reports have shown that bone regener-
+ation may be achieved in dehisced sites adjacent to
+immediate implants using a variety of augmentation
+techniques, including a nonresorbable expanded
+polytetrafluoroethylene (e-PTFE) membrane and
+demineralized freeze-dried bone allograft,
+51 a
+resorbable collagen membrane and anorganic
+bovine bone,
+24 and autogenous bone alone. 27,52 In a
+comparative study, significantly greater defect
+height reduction was achieved in dehisced sites with
+delayed compared to immediate implant placement
+(88.8% versus 77.4%).
+26 Interestingly, early place-
+ment (immediate and the earlier delayed) showed
+consistently better reduction of dehiscence defects
+than did late implantation in healed alveolar
+ridges.
+24,26,47,49 Defect morphologies with early
+implantation present with 2 or 3 intact bony walls,
+whereas defects with late implantation tend to pre-
+sent as 1-wall or no-wall defects.
+24 A report that
+70% of 3-wall defects associated with immediate or
+early delayed implants healed without augmentation
+confirms the high potential for bone regeneration at
+these sites.
+27 The location of the implant in relation
+to the socket appears to be a critical determinant of
+the outcome of regenerative treatment at dehisced
+sites. Thus, implants should be placed well within
+the confines of the socket to ensure a maximum
+number of bone walls and to take advantage of the
+healing potential of the socket.
+Survival Rates
+Eighteen studies were identified that fulfilled the
+selection criteria for this review (T able 5
+10,
+11,13,22,24,48,50–54,56,61,63–67 ). Only 4 studies involved
+nonsubmerged healing following immediate place-
+ment.
+48,53,56,63 The majority of studies used a sub-
+merged healing protocol that required a second sur-
+gical procedure for abutment connection. Because
+the study of Polizzi and associates was a 5-year fol-
+low-up of a 3-year report of Grunder and cowork-
+ers, only the former study was included in the
+12-25 Chen  12/2/04  1:21 PM  Page 16
+
+The International Journal of Oral & Maxillofacial Implants 17
+Table 3 Clinical Studies Presenting Clinical and Radiographic Data of Healing at Immediate and Delayed Implant Sites and 
+Comparing Immediate with Delayed or Late Placement
+No. of
+Augmentation patients/implants
+Implant method;* Delayed Observation Mean radiographic Mean probing
+system/ healing (delay period crestal bone loss (mm) pockets (mm)
+Study surface Randomization protocol Immediate period) Late (mean, mo) Immediate Delayed Late Immediate Delayed Late
+Yukna Calcitek/ No 5; SUB 28 †/14 — 28 †/14 6 0.9 — 0.8 3.8 — 3.2 
+(1991)50 HA (REC 0.2) (REC 0.3) 
+Mensdorff- IMZ/HA, No Various: 31/93 36/97 — 12.4 0.5 0.3 — 2.5 1.9 —
+Pouilly et al Brånemark/ 0, 1, 5, 1+3; (6 to 8 wk)
+(1994)
+22 MF SUB
+Brägger et al ITI/TPS No T = 1 only, GroupT:  — GroupC2: 12 — — — T: 2.54; — C2: 
+(1996)
+56 C1 = ND; 15/20; 20/20 C1: 2.47 2.70
+C2 = HS; group C1:
+NSUB 6/8
+Watzek et al IMZ/HA, No Various: 20
+†/97 20 †/26 20 †/11 27.1 1.0 0.8 0.5 1.8 2.9 1.5
+(1995)10 Brånemark/ 0, 1+3, or 4; ( 6-8 (edentulous
+MF SUB wks) sites)
+Gomez- Frialit/HA, No 1% sites 376
+†/86   376 †/164 376 †/446 54 1 1 1 3 3 3
+Roman et al Frialit TPS required; (within 1 (1 wk to (> 9 mo
+(1997)
+48 NSUB wk of 9 mo after after 
+extraction) extraction) extraction)
+When not reported, values were derived from data contained in the original article.
+*0 = no augmentation; 1 = e-PTFE membrane; 2 = collagen membrane; 3 = autogenous bone; 4 = anorganic bovine bone; 5 = hydroxyapatite, 6 = demineralized, freeze-dried bone.
+†Indicates total number of patients for all groups.
+SUB = submerged; NSUB = nonsubmerged; ND = no defects present; HS = healed sites; REC = recession; HA = hydroxyapatite-coated; MF = machine finished; TPS = titanium plasma-sprayed.
+GROUP 1
+12-25 Chen  12/2/04  1:21 PM  Page 17
+
+18 Volume 19, Supplement, 2004
+CHEN ET AL
+Table 4 Clinical Studies Presenting Surgical Re-entry Data on Peri-implant Bone Defect Changes Following Healing at Immediate an d Delayed
+Implant Sites and Comparing Delayed Implant Placement with Immediate and/or Late Implant Placement
+No. of
+patients/implants
+Implant Delayed Late Observation
+system/ Augmentation (delay (delay period
+Study surface Random method* Immediate period) period) (mean, mo) Re-entry bone-defect changes
+Gelb (1993)51 Brånemark/ No Various: 35/50 – – 4 (mandible); Immediate: 100% thread coverage for all techniques, except in 1 case
+MF 1, 1+6, 6; SUB 6 (maxilla) of a no-wall defect treated with treatment 6 only = 76% coverage
+Becker et al Brånemark/ No 3 only; SUB 30/54 Not stated Immediate: VH 5.5 mm reduced to 0.5 mm ‡; HD 3.7 mm reduced to
+(1994)52 MF 0.2 mm‡ (slightly less gain when buccal dehiscence present)
+Gher et al ITI/TPS and Yes Test: 1+6, Test: 20/22; – – 6 Immediate: Crestal bone loss from most coronal bone crest: test = 
+(1994)
+17 Calcitek/HA control: 1 only; control: –1.53 mm , control = –1.59 mm; crestal bone loss from most apical part of
+SUB 16/21 crest: test = +1.39 mm, control = –0.11 mm (
+P < .05 between groups);  
+Bonefill: test = 5.68 mm, control = 3.18 mm (
+P < .05 between groups)
+Lang et al ITI/TPS No 1 only; NSUB 16/21 – – 5 to 7 Immediate: 20 of 21 sites with complete bone regeneration
+(1994)
+53
+Augthun Brånemark/ No 1; SUB 15/20 – – 6 Immediate: Histology: Evidence of bone formation in only 3 of 15
+et al (1995)
+18 MF tissue samples
+Zitzmann Brånemark/ No 2+4; SUB 50 †/25 50 †/21 50 †/23 4 to 6 Immediate: Defect area reduction of 89% ‡
+et al (1996)49 MF (6 wk to 6 mo) (> 6 mo) Delayed: Defect area reduction of 86% ‡
+Late: Defect area reduction of 76%‡
+Zitzmann Brånemark/ Yes 1+4, 2+4; SUB 25 †/27 25 †/17 25 †/40 4 to 6 Immediate: Defect area reduction with e-PTFE membrane = 85% ‡; 
+et al (1997)47 MF (6 wk to 6 mo) (> 6 mo) with collagen membrane = 95% ‡
+Delayed: Defect area reduction with e-PTFE membrane = 94%‡; 
+with collagen membrane = 97%‡
+Late: Defect area reduction with e-PTFE membrane = 80%‡; 
+with collagen membrane = 90%‡
+Nir-Hadar Not stated No 0; SUB – 14/21 – 3 to 6 Delayed: VH of defect 2.5 mm reduced to 0.4 mm with no HD present ‡;
+et al (1998)54 (6 to 8 wk) VH of defect 3.9 mm reduced to 0.5 mm with HD present ‡; 
+HD 1.6 mm reduced to 0 mm‡
+Hämmerle ITI/TPS No 1; NSUB 10/11 – – 5 Immediate: VH reduction from 4.7 mm at baseline to 2.1 mm at 
+et al (1998)
+57 re-entry‡; 94% defect fill‡
+Zitzmann Brånemark/ No 2+4; SUB 75 †/31 75 †/23 75 †/48 4 to 6 Immediate: Defect area reduction of 92% 
+et al (1999)24 MF (6 wk to (> 6 mo) Delayed: Defect area reduction of 92%
+6 mo) Late: Defect area reduction of 80%
+12-25 Chen  12/2/04  1:21 PM  Page 18
+
+The International Journal of Oral & Maxillofacial Implants 19
+Table 4 Clinical Studies Presenting Surgical Re-entry Data on Peri-implant Bone Defect Changes Following Healing at Immediate an d Delayed
+Implant Sites and Comparing Delayed Implant Placement with Immediate and/or Late Implant Placement (continued)
+No. of
+patients/implants
+Implant Delayed Late Observation
+system/ Augmentation (delay (delay period
+Study surface Random method* Immediate period) period) (mean, mo) Re-entry bone-defect changes
+Nemcovsky Calcitek and No 1+4 vs 4 only; 29/33 – – 6 or 9 Immediate: VH reduction from 1.9 mm to 0.3 mm with no 
+and Artzi SteriOss, MF SUB membrane‡; VH reduction from 4.6 mm to 0.7 mm with membrane‡
+(1999)58 and HA
+Nemcovsky Calcitek,/TPS No 2+4; – 21/28 – 6 to 8 Delayed: Defect area reduction of 97%
+et al (2000)
+55 and Calcitek/MTX SUB (5 to 7 wk)
+Van Brånemark/MF No 4 at defects with 15/21 – – 6 Immediate: Defect fill: Complete in 10 sites, partial in 9 sites, 
+Steenberghe HD > 3 mm; SUB bone loss in 2 sites
+et al (2000)
+60
+Rosenquist Brånemark/MF No Homologous  25/34 – – 6 Immediate: VH reduction from 8.5 mm to 0.3 mm ‡
+and Ahmed bone membrane;
+(2000)
+59 SUB
+Hämmerle ITI/TPS No 2+4; NSUB – 10/10 – 6 to 7 Delayed: Defect area reduction of 86% ‡
+and Lang (8 to 14 wk)
+(2001)25
+Goldstein Brånemark/MF No 6 ± barrier 38/47 – – Mean 6.5 Immediate: 100% defect fill
+et al (2002)
+61 and 3i /MF membranes; (27 sites with
+SUB peri-implant 
+defects)
+Nemcovsky Sulzer and SteriOss, No 2+4; SUB 19/23 24/31 – 6 to 8 Immediate: Defect height reduction of 77.4%, defect area reduction  
+et al (2002)
+62 MTX, TPS, and HA (4 to 6 wk) of 90.2% (
+P < .05 between groups)
+Delayed: Defect height reduction of 91.2%, defect area reduction of 97.2% 
+(P < .05 between groups)
+Nemcovsky Sulzer Calcitek/ No All sites with buccal  19/23 25/39 22/40 (HS) 6 to 8 Immediate: Defect height reduction of 77.4%, defe ct area reduction of 90.2%
+and Artzi MTX, TPS, and HA dehiscence defects, (4 to 6 wk) Delayed: Defect height reduction of 88.8%, defect area reduction of 95. 6%
+(2002)26 2+4; SUB Late: Defect height reduction 72.5% (
+P < .05 between the 3 groups); defect
+area reduction of 87.6% (
+P < .05 between the 3 groups)
+Schropp et al 3i /Osseotite/AE Yes 3 (in dehiscence 23/23 23/23 (mean – 6 Immediate: Defect reduction: HW = 48%, ‡ HD = 59%,‡ VH = 48%‡
+(2003)27 defects); SUB (mean 10 d) 14.1 wk) Delayed: Defect reduction: HW = 39%, ‡ HD = 77%,‡ VH = 34%‡
+When not reported, values were derived from data contained in the original article.
+*0 = no augmentation; 1 = e-PTFE membrane; 2 = collagen membrane; 3 = autogenous bone; 4 = anorganic bovine bone; 5 = hydroxyapatite; 6 = demineralized freeze-dried bone allografts.
+†Indicates total number of patients for all groups.
+‡Indicates significant change (P < .05) from baseline within the treatment group.
+AE = acid-etched; MF = machine-finished; TPS = titanium plasma-sprayed; HA = hydroxyapatite coated; MTX = microtextured; HW = horizontal defect width (mesiodistal); HD = horizontal defect depth (buccolin-
+gual); VH = vertical defect height (apicocoronal); SUB = submerged; HS = healed sites; NSUB = nonsubmerged.
+GROUP 1
+12-25 Chen  12/2/04  1:21 PM  Page 19
+
