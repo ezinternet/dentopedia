@@ -1,5 +1,11 @@
 {
   "topics": {
+    "implant-iip-success-criteria": {
+      "query": "(\"immediate implant placement\"[tiab] OR \"immediately placed implant\"[tiab] OR \"immediate placement\"[tiab] OR \"immediate implantation\"[tiab]) AND (classification[tiab] OR criteria[tiab] OR guideline*[tiab] OR consensus[tiab] OR indication*[tiab] OR \"case selection\"[tiab] OR \"decision-making\"[tiab] OR \"success rate\"[tiab] OR survival[tiab])",
+      "ptyp": [],
+      "last_run_edat": "2026/11/17",
+      "note": "IIP 성공 기준 가이드: 증례선택·성공/생존 판정·분류체계·컨센서스·의사결정 프레임워크. 서베일런스 2026-11-17 등록, 신규·on-topic 4편 인제스트(42689035/41590814/40900554/36196906). 전문 미확보 컨센서스 40900553/54/55·40007328 대기."
+    },
     "implant": {
       "query": "(dental implant OR osseointegration OR peri-implantitis)",
       "ptyp": [
@@ -878,6 +884,7 @@
     "36141729",
     "36153477",
     "36161667",
+    "36196906",
     "36231212",
     "36265394",
     "36274166",
@@ -1218,6 +1225,7 @@
     "40872339",
     "40879617",
     "40879619",
+    "40900554",
     "40907029",
     "40914269",
     "40926346",
@@ -1327,6 +1335,7 @@
     "41574557",
     "41577936",
     "41590127",
+    "41590814",
     "41597400",
     "41598741",
     "41622146",
@@ -1570,6 +1579,7 @@
     "42668365",
     "42675477",
     "42686457",
+    "42689035",
     "42707376",
     "42709287",
     "42716468",
@@ -11117,6 +11127,142 @@
       "verdict": "exclude",
       "screened_by": "sonnet",
       "screened_on": "2026/11/13"
+    },
+    "43014846": {
+      "topic": "implant-iip-success-criteria",
+      "edat": "2026",
+      "reason": "off-topic: breast reconstruction immediate implant, not dental IIP",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/17"
+    },
+    "42164705": {
+      "topic": "implant-iip-success-criteria",
+      "edat": "2026",
+      "reason": "off-topic: breast reconstruction immediate implant, not dental IIP",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/17"
+    },
+    "40874076": {
+      "topic": "implant-iip-success-criteria",
+      "edat": "2026",
+      "reason": "off-topic: breast reconstruction immediate implant, not dental IIP",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/17"
+    },
+    "40654454": {
+      "topic": "implant-iip-success-criteria",
+      "edat": "2025",
+      "reason": "already in wiki: liu-2025-iip-iipp-classification-surgical-restorative",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/17"
+    },
+    "42367104": {
+      "topic": "implant-iip-success-criteria",
+      "edat": "2026",
+      "reason": "already in wiki: espada-salgado-2026-immediate-implant-infected-socket-scoping-review",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/17"
+    },
+    "42116334": {
+      "topic": "implant-iip-success-criteria",
+      "edat": "2026",
+      "reason": "already in wiki: wang-2026-immediate-anterior-implant-primary-stability-aesthetic",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/17"
+    },
+    "42279070": {
+      "topic": "implant-iip-success-criteria",
+      "edat": "2026",
+      "reason": "already in wiki: porczyk-2026-minimally-invasive-bone-regeneration-implant",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/17"
+    },
+    "42206127": {
+      "topic": "implant-iip-success-criteria",
+      "edat": "2026",
+      "reason": "PMC13201736 embargoed to 2027-06-01, no retrievable full text now",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/17"
+    },
+    "40900553": {
+      "topic": "implant-iip-success-criteria",
+      "edat": "2025",
+      "reason": "on-topic ORF IEM 2025 consensus but no legal OA full text; abstract too thin for standalone page; await PDF",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/17"
+    },
+    "40900555": {
+      "topic": "implant-iip-success-criteria",
+      "edat": "2025",
+      "reason": "on-topic full-arch narrative review but no OA full text; substantive abstract only; await PDF",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/17"
+    },
+    "40007328": {
+      "topic": "implant-iip-success-criteria",
+      "edat": "2025",
+      "reason": "on-topic postextraction-socket consensus but no OA full text; await PDF",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/17"
+    },
+    "39528756": {
+      "topic": "implant-iip-success-criteria",
+      "edat": "2025",
+      "reason": "bone graft substitutes IIP SR/MA, no OA full text; outside 4-paper shortlist",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/17"
+    },
+    "40047361": {
+      "topic": "implant-iip-success-criteria",
+      "edat": "2025",
+      "reason": "primary stability immediate vs healed SR/MA, no OA full text; outside shortlist",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/17"
+    },
+    "42810678": {
+      "topic": "implant-iip-success-criteria",
+      "edat": "2026",
+      "reason": "autotransplantation vs IIP SR/MA, no OA full text; outside shortlist",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/17"
+    },
+    "41680060": {
+      "topic": "implant-iip-success-criteria",
+      "edat": "2026",
+      "reason": "root-analog implants SR, no OA full text; outside shortlist",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/17"
+    },
+    "42536962": {
+      "topic": "implant-iip-success-criteria",
+      "edat": "2026",
+      "reason": "immediate loading indications review (IIL not IIP placement); no OA full text",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/17"
+    },
+    "40360820": {
+      "topic": "implant-iip-success-criteria",
+      "edat": "2025",
+      "reason": "commentary on Meijer 10-year RCT already in wiki; not standalone candidate",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/11/17"
     }
   }
 }

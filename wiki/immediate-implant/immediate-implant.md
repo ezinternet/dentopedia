@@ -2,7 +2,7 @@
 title: "즉시식립 (general) — immediate-implant"
 authors: navigation
 year: 2026
-date: 2026-10-24
+date: 2026-11-17
 doi: N/A
 source: navigation
 category: immediate-implant
@@ -16,21 +16,21 @@ tags: [navigation, category-index, immediate-implant]
 > - **분야**: 즉시식립 (general)
 > - **범위**: Immediate (type 1) implant placement — foundational socket-healing & post-extraction dimensional change (Araujo/Botticelli/Covani), placement-timing immediate-vs-delayed evidence (the category's defining axis) & overall survival/outcome SRs, flap-vs-flapless, full-arch/edentulous, and cross-cutting …
 > - **하위 카테고리**: [[anatomic-assessment]] · [[esthetic-soft-tissue]] · [[gap-grafting]] · [[infected-socket]] · [[loading-protocol]] · [[molar-septum]] · [[primary-stability]] · [[root-analog]] · [[socket-shield]]
-> - **수록 논문**: 39편
+> - **수록 논문**: 42편
 
 ## Three-line Summary
 
 **Scope**: Immediate (type 1) implant placement — foundational socket-healing & post-extraction dimensional change (Araujo/Botticelli/Covani), placement-timing immediate-vs-delayed evidence (the category's defining axis) & overall survival/outcome SRs, flap-vs-flapless, full-arch/edentulous, and cross-cutting modifiers lacking their own subcategory (systemic/diabetic, digital-guided accuracy, immediate+sinus-elevation adjunct, postoperative infection).
-**Indexed papers**: 39 papers in `wiki/immediate-implant/`.
+**Indexed papers**: 42 papers in `wiki/immediate-implant/`.
 **Sub-categories**: [[anatomic-assessment]], [[esthetic-soft-tissue]], [[gap-grafting]], [[infected-socket]], [[loading-protocol]], [[molar-septum]], [[primary-stability]], [[root-analog]], [[socket-shield]]
 
 ## 세줄요약
 
 **분야**: 즉시식립 (general)
-**수록 논문**: 39편
+**수록 논문**: 42편
 **하위 카테고리**: anatomic-assessment, esthetic-soft-tissue, gap-grafting, infected-socket, loading-protocol, molar-septum, primary-stability, root-analog, socket-shield
 
-## Papers in this Category (39)
+## Papers in this Category (42)
 
 | Paper |
 |---|
@@ -43,14 +43,17 @@ tags: [navigation, category-index, immediate-implant]
 | [[bineviciute-2024-attitudes-surgeons-immediate-implant-survey|Attitudes of Oral Surgeons and Periodontists towards Immediate Dental Implant Placement]] |
 | [[botticelli-2004-immediate-implant-hard-tissue|Hard-tissue alterations following immediate implant placement in extraction sites]] |
 | [[checchi-2017-wide-diameter-immediate-post-extractive|Wide diameter immediate post-extractive implants vs delayed placement of normal-diameter implants in preserved sockets in the molar region: 1-year post-loading outcome of a randomised controlled trial]] |
+| [[chen-2004-immediate-early-placement-implants-tooth-extraction|Immediate or early placement of implants following tooth extraction: review of biologic basis, clinical procedures, and outcomes]] |
 | [[chu-2020-itrt-platform-switched-subcrestal-angle-correction|Immediate Tooth Replacement Therapy in Postextraction Sockets: A Comparative Prospective Study on the Effect of Variable Platform-Switched Subcrestal Angle Correction Implants]] |
 | [[covani-2010-alveolar-ridge-remodelling-single-tooth|Analysis of the Pattern of the Alveolar Ridge Remodelling Following Single Tooth Extraction]] |
+| [[dias-2025-immediate-implant-placement-and-restorations|Immediate Implant Placement and Restorations in Single-Unit and Multiple-Unit FDPs: A Scoping Review of the Current Evidence, Indications, and Clinical Protocols.]] |
 | [[elaskary-2024-vst-immediate-implant-infected-sockets|Soft and hard tissue evaluation for vestibular socket therapy of immediately placed implants in infected and non-infected sockets: a 1-year prospective cohort study]] |
 | [[esposito-2010-fresh-extraction-sockets-immediate-cochrane|Interventions for replacing missing teeth: dental implants in fresh extraction sockets (immediate, immediate-delayed and delayed implants)]] |
 | [[esposito-2017-immediate-immediate-delayed-post-extractive|Immediate, immediate-delayed (6 weeks) and delayed (4 months) post-extractive single implants: 1-year post-loading data from a randomised controlled trial]] |
 | [[esposito-2026-7mm-5mm-immediate-molar-rct|7mm vs 5mm Immediate Post-Extraction Molar Implants: 1-Year Multicenter RCT]] |
 | [[fan-2024-immediate-implant-ridge-preservation-comparative-sr-ma|Comparative efficacy of immediate implant placement and alveolar ridge preservation after tooth extraction: A comprehensive systematic review and meta-analysis of randomized controlled trials]] |
 | [[felice-2016-immediate-immediate-delayed-post-extractive|Immediate, immediate-delayed (6 weeks) and delayed (4 months) post-extractive single implants: 4-month post-loading data from a randomised controlled trial]] |
+| [[findler-2026-clinical-success-rates-of-dental|Clinical Success Rates of Dental Implants with Bone Grafting in a Large-Scale National Dataset]] |
 | [[garcia-sanchez-2022-immediate-vs-delayed-implant-placement-sr-ma|Comparison of clinical outcomes of immediate versus delayed placement of dental implants: A systematic review and meta-analysis]] |
 | [[gotfredsen-2021-patient-perception-timing-concepts-implant|Patient's perception of timing concepts in implant dentistry: A systematic review]] |
 | [[heimes-2025-immediate-implant-full-arch-rehabilitation|Current Evidence in Immediate Implant Placement and Restoration in Full-Arch Situations: A Narrative Review]] |

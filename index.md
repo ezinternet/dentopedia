@@ -5639,3 +5639,10 @@ tags: []
 - [[sinus-lift/lateral/spinu-2025-collagenated-porcine-xenograft-severe-atrophy-case-series]] — Spînu 2025 · case-report · RBH≤2mm 돼지 이종골 3증례: 수직증가 12.0mm·46.8개월 생존 100%·NB 20–30% (DOI 10.3390/dj13120584)
 - [[sinus-lift/lateral/stacchi-2017-sintered-nanohydroxyapatite-vs-bovine-sinus-rct]] — Stacchi 2017 · rct · 스플릿마우스 28명: NHA vs 우골 신생골 34.9% vs 38.5%(p=0.428), 생존 96.4% — 영가설 채택 (DOI 10.1155/2017/9489825)
 - [[sinus-lift/lateral/zhou-2026-bone-quality-resorbed-posterior-maxilla-osteogenesis]] — Zhou 2026 · retrospective · 후방 상악 원래 골소주 40.0%가 DBBM 거상 후 신생골 18.8%와 약한 양의 상관(r=0.23, p=.04) (DOI 10.1016/j.identj.2025.109397)
+
+## Surveillance ingest (added 2026-11-17) — IIP 성공 기준 가이드 4편
+
+- [[immediate-implant/molar-septum/liu-2026-expanded-classification-for-immediate-molar]] — Liu 2026 · consensus(델파이+후향 64례) · 대구치 즉시식립 6범주 분류(A–C 중격 + D/M/P 치근와); A: IT>30N/cm·생존>90%, P: ISQ≥60·조기 MBL 0.11–0.19mm — Smith–Tarnow 확장, 예후검증 아닌 의사결정 보조 (DOI 10.1016/j.jds.2026.01.011)
+- [[immediate-implant/findler-2026-clinical-success-rates-of-dental]] — Findler 2026 · retrospective(158,824 임플란트) · 동시골이식 성공 97.83%, 즉시식립이 실패 독립위험인자(3.08% vs 2.07%, OR 1.487), 실패 70%가 1년 내 — 안정화가설 지지+시기·SES 위험차원 (DOI 10.3390/jfb17010046)
+- [[immediate-implant/dias-2025-immediate-implant-placement-and-restorations]] — Dias 2025 · sr(scoping, 28 SR, abstract-only) · 단일·다장치 FDP 즉시식립/수복 근거지도 — 심미부 단일치에 집중, 대구치·다장치 근거 부족; 핵심 인자 협측벽·치조돌기·간극폭·치은표현형 (DOI 10.11607/ijp.9393)
+- [[immediate-implant/anatomic-assessment/sabri-2022-single-rooted-extraction-socket-classification]] — Sabri 2022(print 2023) · sr(abstract-only) · 발치와 분류 13종 고찰 + 환자관련 인자(전신질환·흡연) 결합 신분류 제안 — 형태 중심 SRP 체계의 맹점 보완 (DOI 10.1111/jerd.12967)

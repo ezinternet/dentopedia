@@ -1088,3 +1088,5 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-11-17 | chu-2015-flapless-postextraction-socket-implant-placement-part2 | source-data-issue | User requested PMID 24804283 (Tarnow 2014 Part 1) but uploaded PDF is Part 2 (Chu 2015, doi 10.11607/prd.2178); ingested as Part 2 after confirming mismatch |
 | 2026-11-17 | sane-2026-effectiveness-of-concentrated-growth-factor | empty-pmc-text | PMC13627601 record present but JATS body_len=0 — built from abstract only, full_text:false |
 | 2026-11-17 | krennmair-2025-varying-influence-of-maxillary-sinus | abstract-only | Paywalled (no PMC/OA copy); abstract-only txt built from PubMed E-utilities; erratum doi 10.1111/cid.70054 noted, original study not erratum-only |
+| 2026-11-17 | dias-2025-immediate-implant-placement-and-restorations | abstract-only | No PMC OA record for PMID 40900554 (ORF IEM 2025 companion scoping review); publisher full text not retrieved, built from PubMed abstract |
+| 2026-11-17 | sabri-2022-single-rooted-extraction-socket-classification | abstract-only | No PMC OA record for PMID 36196906; publisher full text not retrieved, built from PubMed abstract |

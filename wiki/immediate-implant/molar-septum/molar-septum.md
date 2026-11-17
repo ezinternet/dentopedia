@@ -2,7 +2,7 @@
 title: "즉시식립·구치부·치조중격 — molar-septum"
 authors: navigation
 year: 2026
-date: 2026-09-21
+date: 2026-11-17
 doi: N/A
 source: navigation
 category: immediate-implant/molar-septum
@@ -15,20 +15,20 @@ tags: [navigation, category-index, molar-septum]
 > [!summary] 한국어 핵심요약
 > - **분야**: 즉시식립·구치부·치조중격
 > - **범위**: Molar & posterior-site IIP centred on inter-radicular-septum anchorage — Smith-Tarnow A/B/C socket classification, CBCT septum morphology/dimension studies, osseodensification septum expansion, palatal-root-socket anchorage, pre-extractive site preparation, maxillary-molar case-selection guidelines,…
-> - **수록 논문**: 14편
+> - **수록 논문**: 15편
 
 ## Three-line Summary
 
 **Scope**: Molar & posterior-site IIP centred on inter-radicular-septum anchorage — Smith-Tarnow A/B/C socket classification, CBCT septum morphology/dimension studies, osseodensification septum expansion, palatal-root-socket anchorage, pre-extractive site preparation, maxillary-molar case-selection guidelines, molar-IIP survival SR/MA
-**Indexed papers**: 14 papers in `wiki/immediate-implant/molar-septum/`.
+**Indexed papers**: 15 papers in `wiki/immediate-implant/molar-septum/`.
 
 ## 세줄요약
 
 **분야**: 즉시식립·구치부·치조중격
-**수록 논문**: 14편
+**수록 논문**: 15편
 **하위 카테고리**: 없음
 
-## Papers in this Category (14)
+## Papers in this Category (15)
 
 | Paper |
 |---|
@@ -39,10 +39,11 @@ tags: [navigation, category-index, molar-septum]
 | [[deporter-2021-cbct-immediate-maxillary-molar-implant|CBCT data relevant in treatment planning for immediate maxillary molar implant placement]] |
 | [[hassan-2026-implant-stability-following-septal|Implant stability following septal expansion in immediate mandibular molars: a pilot randomized clinical trial comparing piezoelectric surgery and osseodensification]] |
 | [[liu-2024-maxillary-immediate-molar-palatal-root-socket|Maxillary Immediate Molar Implant Placement Into Palatal Root Socket: A Case Report of Two-Year Follow-Up]] |
+| [[liu-2026-expanded-classification-for-immediate-molar|Expanded classification for immediate molar implant placement: Integrating root socket strategies beyond septal bone typing]] |
 | [[matsuda-2016-3d-alveolar-bone-maxillary-first-molar-cbct|Three-Dimensional Alveolar Bone Anatomy of the Maxillary First Molars: A Cone-Beam Computed Tomography Study With Implications for Immediate Implant Placement]] |
 | [[milenkovic-2022-interradicular-septum-classification-iip|Criteria for the Classification of the Interradicular Septum Shape in Maxillary Molars with Clinical Importance for Prosthetic-Driven Immediate Implant Placement]] |
 | [[mustakim-2023-immediate-implant-maxillary-molar-guidelines|Guidance and rationale for the immediate implant placement in the maxillary molar]] |
 | [[pavlovic-2022-interradicular-septum-morphology-molar-iip|Assessment of Maxillary Molars Interradicular Septum Morphological Characteristics as Criteria for Ideal Immediate Implant Placement—The Advantages of Cone Beam Computed Tomography Analysis]] |
 | [[ragucci-2020-immediate-implant-molar-extraction-sockets|Immediate implant placement in molar extraction sockets: a systematic review and meta-analysis]] |
-| [[smith-2013-classification-molar-extraction-immediate-implant|Classification of Molar Extraction Sites for Immediate Dental Implant Placement: Technical Note]] |
+| [[smith-2013-classification-molar-extraction-immediate-implant|Classification of molar extraction sites for immediate dental implant placement: technical note]] |
 | [[yaghmai-2025-palatal-root-socket-all-on-x|Implant Placement in the Palatal Root Socket of Maxillary Molars to Avoid Posterior Cantilevers in All-on-X Treatments]] |

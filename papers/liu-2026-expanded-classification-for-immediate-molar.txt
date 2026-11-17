@@ -1,0 +1,163 @@
+TITLE: Expanded classification for immediate molar implant placement: Integrating root socket strategies beyond septal bone typing
+AUTHORS: Liu Chiun-Lin Steven, Wen Shih-Cheng, Chien Ching-Jung Chang, Du Je-Kang
+JOURNAL: Journal of Dental Sciences
+ID[pmcid]: PMC13536323
+ID[pmcid-ver]: PMC13536323.1
+ID[pmcaid]: 13536323
+ID[pmcaiid]: 13536323
+ID[pmid]: 42689035
+ID[doi]: 10.1016/j.jds.2026.01.011
+ID[publisher-id]: jds-21-2-1190
+
+## ABSTRACT
+Background/purposeThis conceptual development study with exploratory clinical analysis aimed to create and preliminarily evaluate a six-category classification system for immediate implant placement (IIP) in molar extraction sites. IIP in molar regions remains challenging due to complex socket morphology and variable septal bone availability. Existing septal-based classifications (e.g., Smith-Tarnow) may exclude viable cases with favorable root socket anatomy. The system was developed through literature review, CBCT-based anatomical analysis, and Delphi expert consensus, with clinical applicability assessed via retrospective review of 64 M IIP cases.
+Materials and methodsA classification system combining septal bone conditions (Types A-C) and root socket-based anchorage (Types D, M, and P) was developed through literature review, CBCT-based anatomical assessment, retrospective case evaluation, and expert consensus via a Delphi process.
+ResultsType A demonstrated highest predictability (insertion torque >30 N/cm, survival >90 %). Type B commonly required grafting for gaps>2mm, while Type C relied on adequate buccolingual cortical engagement. Types D and M provided reliable anchorage in suitable sockets with careful prosthetic planning. Type P showed consistently high primary stability (ISQ >60), minimal early marginal bone loss (<0.2 mm at 6–24 months), and favorable short-term outcomes, supporting its role as a sinus augmentation alternative in selected maxillary molars.
+ConclusionThe proposed six-category system provides a comprehensive anatomy-based framework for molar IIP, integrating septal and root-specific considerations to expand case selection, shorten treatment time, and maintain predictable outcomes, serving as a decision-making adjunct to comprehensive anatomical and prosthetic assessment.
+
+## Introduction
+
+Immediate implant placement (IIP) in molar extraction sites has shown survival rates broadly comparable to delayed protocols, although its predictability remains influenced by anatomical constraints, socket morphology, and the ability to achieve adequate primary stability.1–5 The Smith-Tarnow classification, which categorizes molar sockets according to septal bone conditions (Types A–C), has long served as a practical reference; however, it may be less applicable in cases where septal bone is reduced or absent.6–8
+
+Recent clinical reports suggest that individual root sockets-particularly the palatal root in maxillary molars-may provide favorable anchorage and adequate stability for immediate placement, even when septal support is limited. 9–12 These findings indicate that a broader assessment incorporating root-specific anatomy may help clinicians identify additional cases that could be managed with IIP, although further evidence is still needed.13
+
+Existing classification frameworks, including those based on healing timing or bone quality, contribute valuable guidance but do not specifically address the anatomical variability within multirooted molar sites.1,14,15 Treating the molar socket as a single unit may therefore overlook distinct morphological features that could influence implant selection and placement strategy.16
+
+Although septal-based systems such as the Smith–Tarnow classification have guided clinical decision-making for over a decade, they remain fundamentally septum-dependent and present several clinically significant limitations. These systems do not fully account for rootspecific anatomy (mesial, distal, or palatal sockets), apical bone availability, or prosthetically driven implant trajectory in multirooted molar sites. Consequently, molars with compromised or absent septa are frequently directed toward delayed protocols or require ultra-wide fixtures, even when individual root sockets could provide adequate primary stability with more favorable biomechanics and safer distances from vital structures such as the maxillary sinus or inferior alveolar nerve.17
+
+Additionally, current septal-only approaches offer limited guidance for borderline or mixed-morphology molars, where residual septal bone coexists with potentially useable individual root sockets, creating diagnostic ambiguity and inconsistent case selection. These gaps highlight the need for a more comprehensive framework that integrates both septal bone conditions and root socketspecific strategies.
+
+In response to these limitations, the present study introduces a six-category classification that combines traditional septal bone-based types (A–C) with three additional categories reflecting individual root socket utilization (Types D, M, and P). This expanded system is intended to provide a more comprehensive, anatomy-oriented framework for IIP planning in molar regions, with the aim of supporting more consistent and predictable clinical decision-making.
+
+Accordingly, this study was designed as a combined conceptual development and exploratory clinical applicability investigation, rather than a formal outcome-based validation trial. The study aimed to develop a six-category, anatomy-based classification system for immediate implant placement (IIP) in molar extraction sites through literature review, CBCT-based anatomical analysis, and expert consensus, and to assess its initial clinical feasibility and applicability via retrospective evaluation of 64 M IIP cases using predefined diagnostic criteria.
+
+## Materials and methods
+
+### Study design
+
+This conceptual development study with exploratory analysis aimed to create a six-category classification system for molar IIP through systematic literature synthesis, CBCT-based anatomical analysis, and expert consensus (development phase), followed by retrospective evaluation of 64 clinical cases to test clinical applicability (exploratory assessment phase).
+
+### Development of preliminary classification categories (literature review and CBCT-based anatomical analysis)
+
+A six-type classification for IIP in molar extraction sites was developed through an integrative process combining a structured literature review, CBCT-based anatomical analysis, retrospective clinical pattern evaluation, and expert consensus. The primary objective was to establish an anatomy-driven framework reflecting both septal bone conditions and individual root socket morphology.
+
+## Literature review
+
+A targeted search of PubMed and MEDLINE databases was performed for peer-reviewed articles published between 2000 and 2023 using the keywords “immediate implant placement,” “molar extraction,” “septal bone,” “root socket anatomy,” and “primary stability.” Studies were screened based on relevance to molar socket morphology, implant stability, and clinical decision-making for IIP, with emphasis on longitudinal studies and systematic reviews.18,19
+
+### CBCT-based anatomical analysis
+
+Representative anonymized CBCT datasets of molar extraction sites were analyzed using specialized planning software (Blue Sky Plan, Blue Sky Bio LLC, Libertyville, IL, USA) to characterize socket morphology, including buccolingual width, presence of the interradicular septum, root divergence, apical bone height, and proximity to the maxillary sinus or inferior alveolar nerve.20,21 Intraobserver reliability for quantitative CBCT measurements (septal height/width, root divergence angles, apical bone height, anatomical clearance) was assessed by repeating analysis on 20 % of cases (n = 13), yielding an intra-class correlation coefficient (ICC) of 0.92 (95 % CI: 0.85–0.97), confirming measurement consistency.
+
+### Clinical case exploratory analysis (retrospective analysis of 64 M IIP cases)
+
+A retrospective review was conducted on 64 consecutive cases of immediate implant placement in molar extraction sites (38 maxillary, 26 mandibular) treated at the Department of Dentistry, Kaohsiung Medical University Hospital, between January 2018 and December 2023.
+
+#### Inclusion criteria
+
+Patients who received immediate implant placement in single molar extraction sites (maxillary or mandibular).Availability of pre-operative and post-operative CBCT imaging suitable for assessment of socket morphology and anatomical constraints.Minimum 12-month clinical and radiographic follow-up after functional loading.Documentation of primary stability parameters at placement (insertion torque and/or ISQ), prosthetic restoration type, and peri-implant bone levels.
+
+#### Exclusion criteria
+
+Multiple adjacent implants involving segmental edentulism or full-arch rehabilitation.Sites with acute uncontrolled infection, untreated periodontal disease, or non-restorable vertical root fractures extending into the furcation.Patients with uncontrolled systemic conditions (e.g., uncontrolled diabetes), history of head and neck radiotherapy, or medications significantly affecting bone metabolism (e.g., high-risk antiresorptives).Heavy smokers (≥20 cigarettes/day) or patients with inadequate records preventing reliable assessment of outcomes.Cases with follow-up shorter than 12 months or incomplete radiographic documentation.
+
+#### Primary stability assessment and gap management
+
+Insertion torque (IT) was recorded using a manual torque wrench during implant placement (N/cm). Resonance frequency analysis (RFA) was performed immediately post-placement and at 4 weeks using Osstell Beacon (Integration Diagnostics AB, Sweden), with ISQ values reported as mean ± SD. Gap management was tailored to socket morphology: Type A/B (self-contained, no graft); Type C/D/ M/P (containment defects, xenograft granules ± resorbable membrane).
+
+### Follow-up and radiographic evaluation
+
+Periapical radiographs were obtained immediately post-placement, at 4 weeks (prosthetic conversion), 3 months, and 12 months. Marginal bone level (MBL) changes were measured from implant platform to first bone-to-implant contact (mesial/distal) using ImageJ software, calibrated against known implant dimensions. MBL change was calculated as ΔMBL = MBL_follow-up - MBL_baseline (mm).
+
+### Protocol characteristics
+
+This retrospective analysis reflects real-world clinical practice rather than standardized prospective protocols. Key characteristics across the 64 cases were:
+
+- Implant systems: Astra Tech® (Osseospeed™ TX; n=37, 58 %) and Osstem® (Hiossen; n = 27, 42 %); both moderately rough hydrophilic surfaces (TiUnite®/ SLActive®).- Dimensions: Platform diameters ranged from 5.0 to 7.0 mm, and lengths from 10 to 13 mm. Platform diameter refers to implant neck diameter at the implant–abutment interface, with a cohort mean of 5.4 ± 0.4 mm, reflecting clinical selection based on socket morphology, bone quality, and prosthetic requirements.- Surgical approach: Flapless (n = 59, 92 %); root sectioning for all multi-rooted sites; primary stability threshold ≥30 N/cm or ISQ ≥60 required for IIP.- Grafting: Xenograft (Bio-Oss®, Geistlich; n = 44, 68 %), allograft (cortical/cancellous 50:50; n = 16, 25 %), no graft (small gaps <2 mm; n = 4, 7 %).- Loading: Immediate provisionalization (non-occlusal; n = 18, 28 %), early loading (6–8 weeks; n = 33, 52 %), conventional (3–4 months; n = 13, 20 %).
+
+Protocol distribution by classification type is summarized in Table 1 (χ2
+P = 0.42, no significant bias).
+
+Data extracted included implant stability at insertion (torque and ISQ), grafting procedures, prosthetic restoration type, and radiographic bone maintenance. All cases met the inclusion criteria for IIP following molar extraction and were evaluated for implant site characteristics, root socket utilization, and primary stability parameters.22,23 All data were de-identified prior to analysis, and the protocol was approved by the Institutional Review Board (IRB No. KMUHIRB-E(I)-20250331).
+
+### Expert consensus and final classification (three-round Delphi process with ≥80 % agreement across five diagnostic domains)
+
+Preliminary classification categories were formed based on anatomical patterns and clinical outcomes identified in the literature and case review. Five evaluative domains-socket morphology, primary stability, anatomical safety, prosthetic feasibility, and long-term radiographic performance were defined. Preliminary categories were reviewed through a three-round Delphi process involving 6 specialists (3 implantologists, 2 prosthodontists, 1 oral radiologist; each with ≥10 years implant experience). Inter-observer reliability testing: Before Delphi rounds, Kappa analysis was conducted on 15 representative CBCT cases (initial κ = 0.78, 95 % CI: 0.62–0.94; post-training/clarification κ = 0.92, 95 % CI: 0.81–0.98). Consensus was defined as ≥80 % agreement;24 final case assignments achieved 100 % agreement across all 64 retrospective cases after round 3.
+
+### Classification criteria and definitions
+
+The final system comprises six distinct types based on septal and root socket anchorage (Figs. 1 and 2):
+
+Type A: Complete septal containment.Type B: Partial septal supportType C: Peripheral socket engagement.Type D: Distal root socket anchorage.Type M: Mesial root socket anchorage.Type P: Palatal root socket anchorage.
+
+### Diagnostic parameters for classification
+
+Each classification type was defined according to standardized diagnostic parameters:
+
+Socket morphology: CBCT assessment of available supporting bone; sockets with ≥3 mm of circumferential septal support were classified as Type A.25,26Primary stability: Sites were considered suitable for IIP when adequate primary stability was anticipated based on bone density, socket morphology, and preoperative CBCT assessment, typically corresponding to insertion torque values around 30 N/cm and ISQ values near or above 60, as suggested in the literature.4,5Anatomical safety: A minimum of 2 mm clearance from the maxillary sinus or inferior alveolar nerve was required, based on preoperative CBCT.6,27Prosthetic emergence profile feasibility: socket axis and angulation were assessed against prosthetic path alignment, using diagnostic wax-ups or virtual planning. Type M and D sockets required verification that implant emergence would not result in severe buccal displacement or prosthetic compromise.28,29Long-term predictability: Marginal bone loss <0.5 mm over 12–24 months was used as an indicator of stability, consistent with prior literature. This benchmark supported inclusion of Types P and D in appropriate scenarios.18,30–33
+
+When multiple socket options appeared feasible, the final type assignment was based on the root socket offering the most favorable balance between anatomical safety, prosthetic alignment potential, and primary stability.
+
+## Results
+
+Among the 64 retrospectively reviewed molar IIP cases, the distribution by classification type was as follows: Type A (n = 12, 19 %), Type B (n = 15, 23 %), Type C (n = 14, 22 %), Type D (n = 10, 16 %), Type M (n = 8, 12 %), and Type P (n = 5, 8 %), reflecting clinically representative prevalence within the cohort (Table 1).
+
+### The novel six-category classification system
+
+A six-category classification system for IIP in molar extraction sites was developed to address the limitations of septal bone-only concepts. The system integrates septal bone morphology (Types A–C) with root socket-specific strategies (Types D, M and P), acknowledging that palatal, mesial, and distal sockets may provide adequate primary stability and favorable mid-term outcomes in well-selected cases. Within the retrospective cohort, Type A and Type P sites were more frequently observed in the maxilla, whereas Types B, C, D, and M were more commonly encountered in mandibular molars. This framework enables a more comprehensive anatomical assessment of molar sockets and may broaden the range of sites considered suitable for IIP. An overview of the classification types is summarized in Table 2, with representative clinical examples illustrated in Figs. 3–8.
+
+Primary stability parameters were recorded descriptively across socket types, with a mean insertion torque of 35 ± 12 N/cm and mean ISQ values of 72 ± 8 at placement and 78 ± 6 at 4 weeks. Mean marginal bone level change at 12 months was −0.4 ± 0.3 mm.
+
+The clinical cases and imaging figures presented (Figs. 3–8) are illustrative examples intended to demonstrate the anatomical characteristics, surgical workflow, and practical application of each classification type. These cases are provided for descriptive and educational purposes and are not intended to serve as evidentiary or outcome-based comparisons among classification categories.
+
+#### Type A: complete septal containment (Fig. 3)
+
+Type A sockets exhibit demonstrate circumferential septal bone surrounding the implant platform,8 typically achieving insertion torque values 30 N/cm5 and survival rates exceeding 90 % in well-selected cases.18 Immediate provisionalization is feasible when adequate primary stability is obtained.34–36 Flapless extraction with root sectioning preserves septal integrity,37 and buccal grafting is required only when facial plate thickness is limited.9,38
+
+#### Type B: partial septal stabilization (Fig. 4)
+
+Type B sockets provide partial septal support and represent an intermediate morphology between Types A and C. Primary stability is generally achievable but more variable because peripheral gaps are commonly present.8 Small gaps (<2 mm) may heal without augmentation, whereas larger defects often require grafting and delayed loading.6,37,39,40 Loss of buccal plate integrity increases the risk of failure and may indicate conversion to a delayed protocol with ridge preservation.3,35,41
+
+#### Type C: peripheral socket engagement (Fig. 5)
+
+Type C sockets lack sufficient septal bone and depend on engagement of peripheral buccal and lingual cortical walls for stability.8 Wide-diameter implants (approximately 6–7 mm) and favorable “hourglass” morphology are often required to obtain reliable cortical anchorage,20 particularly in mandibular second molars where buccolingual ridge width (~9 mm) and cortical thickness are greater (~9 mm).20 These cases demand meticulous CBCT-based planning, careful implant macrodesign selection, and atraumatic site preparation to avoid fracture of thin socket walls.
+
+#### Type D: distal root socket placement (Fig. 6)
+
+Type D refers to IIP performed within the distal root socket when socket length, angulation, and apical bone volume allow stable anchorage. This approach can be applied in both maxillary and mandibular molars. Implants are positioned along a prosthetically driven path within the distal socket, and residual sockets may be grafted to maintain ridge volume and soft-tissue contours.9,14,42 Distal positioning may necessitate angulated abutments to achieve an acceptable emergence profile.29,43
+
+#### Type M: mesial root socket placement (Fig. 7)
+
+Type M refers to implant placement in the mesial root socket, mainly in mandibular molars. The mesial socket frequently offers favorable width, depth, and central bone morphology, making it a viable option when septal support is limited and root divergence is modest.15,21,44–47 Adequate apical bone, sufficient distance from adjacent teeth, and a prosthetically acceptable trajectory are essential to obtain predictable primary stability.29
+
+#### Type P: palatal root socket placement (Fig. 8)
+
+Type P describes implant placement in the palatal root socket of maxillary molars, utilizing the palatal root’s length, dense bone, and biomechanical advantages. Contemporary reports show high insertion torque, ISQ values typically ≥60, minimal marginal bone loss at 6–24 months (0.11–0.19 mm),21 and excellent short-term survival, while often avoiding maxillary sinus augmentation. 10,48,49 Clinical protocols usually include flapless extraction with root sectioning,22,37 palatal socket preparation at a modest palatal inclination (average 9.6°),37 and buccal socket grafting with Xenograft and/or allograft to support ridge contour and soft-tissue thickness.38 Incorporation of Type P recognizes a minimally invasive, biologically favorable option for selected maxillary molars.
+
+## Discussion
+
+IIP in molar sites remains challenging due to variable socket morphology, inconsistent septal bone availability, and the proximity of vital anatomical structures. Although septal-based systems such as the Smith-Tarnow classification have provided a useful reference for more than a decade,8 they remain fundamentally septum-dependent and do not fully incorporate root-specific anatomy, apical bone availability, or prosthetically driven implant trajectory.3,16 Compared with more recent CBCT- or osseodensification-based molar socket classifications, the present system emphasizes prosthetically driven socket selection rather than bone expansion or implant macrodesign alone. Consequently, many sites with reduced or absent septa may be directed toward delayed protocols even when individual mesial, distal, or palatal root sockets could provide adequate primary stability with favorable biomechanics.50
+
+The six-category framework proposed in this study integrates septal bone-based types (A–C) with root socket-based strategies (D, M, P), providing a more anatomy-driven and clinically versatile approach. By incorporating three-dimensional assessment of septal morphology, root divergence, apical bone height, and anatomical limitations,50 the system facilitates selection of the most favorable socket for IIP while maintaining a prosthetically appropriate implant trajectory. This framework may be particularly advantageous in borderline or mixed-morphology molars where residual septal bone coexists with useable individual root sockets. The corresponding treatment hierarchy-prioritizing Type A, followed by Type P in the maxilla and Types D and M when root socket anatomy is favorable, with Types B and C or delayed placement reserved for higher-risk scenarios-supports reproducible case selection, aligns well with digital planning workflows, and promotes consistency across operators. It should be emphasized that the proposed classification system is intended to function as a decision-support framework rather than a replacement for clinician judgment. Final treatment decisions should remain guided by comprehensive CBCT-based anatomical assessment, intraoperative findings, prosthetic planning, and patient-specific risk factors. Within this context, the classification is designed to assist clinicians in organizing anatomical information and standardizing decision-making, while individualized clinical expertise remains essential.
+
+In selected maxillary molars, Type P placement may be considered instead of sinus augmentation when sufficient palatal root length and bone density allow predictable anchorage without violating the sinus floor. This approach is particularly beneficial when buccal residual bone height is inadequate yet palatal height remains favorable, thereby avoiding sinus elevation that would otherwise be required solely to achieve primary stability. Type P may also be advantageous in patients with systemic comorbidities, smoking habits, or sinus anatomy that increases the morbidity or complexity of sinus lift procedures. Under such conditions, palatal socket anchorage offers a minimally invasive, graft-sparing option that maintains stability while reducing procedural risk.
+
+Nevertheless, several borderline conditions warrant staged treatment. These include sockets with insufficient apical bone height (<3–4 mm), acute infection, compromised socket walls, or marked mesial–distal root divergence preventing a prosthetically acceptable trajectory. Cases with thin but dense cortical plates at risk of fracture, or palatal sockets with marginal defects that undermine Type P anchorage, may similarly benefit from ridge preservation followed by delayed implant placement. When CBCT evaluation or intraoperative findings suggest doubtful primary stability or conflicting anatomical versus prosthetic requirements, a delayed approach remains the more predictable option.
+
+Incorrect application of the classification may lead to clinical complications. Misuse of Type P placement in cases with insufficient palatal bone height or excessive palatal inclination may increase the risk of sinus perforation or inadequate primary stability. Inappropriate Type D positioning can compromise prosthetic emergence profile and functional loading, whereas misapplication of Type C in ridges with inadequate buccolingual width or fragile cortical plates may elevate the risk of early implant failure. These considerations underscore the importance of strict adherence to predefined anatomical and prosthetic criteria.
+
+In the present retrospective cohort, no type-specific complication patterns were identified among the 64 included cases during the available follow-up period. No major complications-including early implant failures, sinus perforations, or excessive marginal bone loss (>2 mm at 12 months) were observed across any classification type. Typespecific contraindications and anatomical risk thresholds were predefined and strictly applied during case selection, including avoidance of Type P placement when palatal bone height was <4 mm or sinus floor contact was <1 mm, exclusion of Type D placement when the prosthetic emergence angle exceeded 25° or a buccal wall defect >4 mm was present, and contraindication of Type C placement in sites with buccolingual ridge width <6 mm (Table 3).
+
+Although the absence of complications should not be interpreted as evidence of predictive validity, it supports the internal consistency and clinical plausibility of the proposed contraindication framework when applied within defined anatomical limits. Systematic complication analysis and long-term safety assessment will require future prospective studies and were beyond the scope of this exploratory investigation.
+
+A major contribution of this classification is the integration of Type P placement, which demonstrates high primary stability (ISQ ≥60), minimal early marginal bone loss, and favorable short-term outcomes,4,10,16,48,49 consistent with its robust bone support and advantageous biomechanics. Avoidance of sinus augmentation further aligns with minimally invasive workflows and may enhance patient comfort and treatment efficiency.28,29
+
+A key strength of the system is its reliance on objective and reproducible diagnostic criteria-CBCT-based socket morphology, insertion torque thresholds, and ISQ benchmarks, 4,5,10,14,15 and type-specific indications and contraindications-combined with a clear treatment hierarchy. These features may improve communication between surgical and restorative clinicians while reducing inappropriate case selection,3,11 a known contributor to early IIP failure. These features reduce ambiguity and support more consistent case selection across clinicians with different experience levels. The system’s consistency with minimally invasive workflows,10,14–16 emphasis on socket preservation, and applicability to immediate provisionalization in appropriately selected cases further enhance its clinical practicality (Table 2). The representative clinical cases and imaging figures are included to facilitate understanding of the classification framework and its clinical application, rather than to provide evidentiary support for outcome comparison or effectiveness assessment.
+
+Several limitations should be acknowledged. First, much of the supporting evidence is derived from retrospective or single-center cohorts,44,49 and available outcome data remain largely short-to mid-term3–5,10,14,15,51–54 limiting generalizability and direct inter-type comparisons, particularly in the presence of heterogeneity in surgical techniques and implant systems. These factors underscore the need for multicenter prospective studies.13 Second, accurate application of the proposed classification requires careful CBCT interpretation and meticulous intraoperative socket assessment, rendering the system partly operator-dependent; misclassification may occur in borderline or complex mixed-morphology cases. In addition, key biomechanical and patient-related risk modifiers-such as implant macrodesign, loading strategies, bruxism, periodontal history, and occlusal patterns-are not yet fully incorporated into the current framework.
+
+Importantly, this study should be interpreted as a conceptual development investigation with exploratory clinical applicability, rather than a formal outcome-based, predictive, or comparative validation trial. Although retrospective evaluation of 64 cases demonstrated clinical applicability across all six classification types, the study was not designed or powered to compare long-term outcomes among categories, establish survival superiority, assess predictive accuracy, or determine inter-observer reproducibility. While an exploratory association between socket classification and recorded primary stability parameters was observed (r = 0.67, P < 0.01), this finding should be interpreted descriptively and does not constitute evidence of predictive or outcome-based validity. Definitive validation will require multicenter prospective studies with standardized protocols, formal reliability testing (e.g., κ statistics), and head-to-head comparisons against established classification systems to assess long-term implant survival, marginal bone maintenance, and prosthetic outcomes.
+
+Future refinement should incorporate CBCT-driven quantitative scoring systems14,15 combined with AI-assisted image analysis55–57 to standardize socket interpretation and reduce operator variability. Advances in CBCT technology could incorporate AI-driven automatic identification of implant site classification from Type A through Type P, with real-time alerts for contraindications based on anatomical and stability criteria. Such AI integration would further streamline clinical workflow by automatically suggesting optimal implant sizing and prosthetic axis alignment, enhancing precision, reducing operator variability, and improving overall treatment predictability. Additionally, bone quality and soft tissue conditions warrant deeper integration into future iterations of the classification. Dense bone (Lekholm & Zarb I–II) appears favorable for all six types, whereas low-density bone may justify delayed placement.15 Accumulating evidence also underscores the importance of peri-implant mucogingival stability for long-term outcomes,34 yet this factor is not explicitly represented in the current framework.
+
+Overall, the proposed six-category classification provides a structured, anatomy-based approach that expands treatment possibilities, supports evidence-based decision-making, and may shorten treatment duration in appropriately selected cases. Prospective multicenter validation and incorporation of biomechanical and patient-specific risk factors will be essential to further refine the system and to define its long-term role in molar IIP planning.

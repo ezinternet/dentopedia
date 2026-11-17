@@ -2160,3 +2160,11 @@ Found by manual PDF discovery (not the original scout search), 2026-07-25 — sa
       "Patient satisfaction and masticatory performance of zirconia bar compared to cobalt chromium bar retaining mandibular implant overdenture: A crossover study." — Journal of oral rehabilitation
 - [ ] PMID 37635466 | obs | OA:none | zirconia-crown-function | edat 2023
       "Bite force evaluation at maximal intercuspal position: An in vivo comparative study between stainless steel and zirconia crowns on primary molar teeth." — Journal of the Indian Society of Pedodontics and Preventive Dentistry
+- [x] PMID 42689035 | SR | OA:PMC PMC13536323 | implant-iip-success-criteria | edat 2026 — INGESTED 2026-11-17 (PMC full text) → wiki/immediate-implant/molar-septum/liu-2026-expanded-classification-for-immediate-molar
+      "Expanded classification for immediate molar implant placement: Integrating root socket strategies beyond septal bone typing" — J Dent Sci
+- [x] PMID 41590814 | obs | OA:PMC PMC12843187 | implant-iip-success-criteria | edat 2026 — INGESTED 2026-11-17 (PMC full text) → wiki/immediate-implant/findler-2026-clinical-success-rates-of-dental
+      "Clinical Success Rates of Dental Implants with Bone Grafting in a Large-Scale National Dataset" — J Funct Biomater
+- [x] PMID 40900554 | SR | OA:none | implant-iip-success-criteria | edat 2025 — INGESTED 2026-11-17 (abstract-only) → wiki/immediate-implant/dias-2025-immediate-implant-placement-and-restorations
+      "Immediate Implant Placement and Restorations in Single-Unit and Multiple-Unit FDPs: A Scoping Review of the Current Evidence, Indications, and Clinical Protocols" — Int J Prosthodont
+- [x] PMID 36196906 | SR | OA:none | implant-iip-success-criteria | edat 2023 — INGESTED 2026-11-17 (abstract-only) → wiki/immediate-implant/anatomic-assessment/sabri-2022-single-rooted-extraction-socket-classification
+      "Single-rooted extraction socket classification: A systematic review and proposal of a new classification system based on morphologic and patient-related factors" — J Esthet Restor Dent

@@ -1188,3 +1188,20 @@
 - PMID 42667412 | zirconia-crown-function | edat 2026 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
 - PMID 42698086 | zirconia-crown-function | edat 2026 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
 - PMID 42816344 | zirconia-crown-function | edat 2026 | screened 2026/11/13 | off-topic: biomechanics/material/wear/implant-fixture, no occlusal-function outcome
+- PMID 43014846 | implant-iip-success-criteria | edat 2026 | screened 2026/11/17 | off-topic: breast reconstruction immediate implant, not dental IIP
+- PMID 42164705 | implant-iip-success-criteria | edat 2026 | screened 2026/11/17 | off-topic: breast reconstruction immediate implant, not dental IIP
+- PMID 40874076 | implant-iip-success-criteria | edat 2026 | screened 2026/11/17 | off-topic: breast reconstruction immediate implant, not dental IIP
+- PMID 40654454 | implant-iip-success-criteria | edat 2025 | screened 2026/11/17 | already in wiki: liu-2025-iip-iipp-classification-surgical-restorative
+- PMID 42367104 | implant-iip-success-criteria | edat 2026 | screened 2026/11/17 | already in wiki: espada-salgado-2026-immediate-implant-infected-socket-scoping-review
+- PMID 42116334 | implant-iip-success-criteria | edat 2026 | screened 2026/11/17 | already in wiki: wang-2026-immediate-anterior-implant-primary-stability-aesthetic
+- PMID 42279070 | implant-iip-success-criteria | edat 2026 | screened 2026/11/17 | already in wiki: porczyk-2026-minimally-invasive-bone-regeneration-implant
+- PMID 42206127 | implant-iip-success-criteria | edat 2026 | screened 2026/11/17 | PMC13201736 embargoed to 2027-06-01, no retrievable full text now
+- PMID 40900553 | implant-iip-success-criteria | edat 2025 | screened 2026/11/17 | on-topic ORF IEM 2025 consensus but no legal OA full text; abstract too thin for standalone page; await PDF
+- PMID 40900555 | implant-iip-success-criteria | edat 2025 | screened 2026/11/17 | on-topic full-arch narrative review but no OA full text; substantive abstract only; await PDF
+- PMID 40007328 | implant-iip-success-criteria | edat 2025 | screened 2026/11/17 | on-topic postextraction-socket consensus but no OA full text; await PDF
+- PMID 39528756 | implant-iip-success-criteria | edat 2025 | screened 2026/11/17 | bone graft substitutes IIP SR/MA, no OA full text; outside 4-paper shortlist
+- PMID 40047361 | implant-iip-success-criteria | edat 2025 | screened 2026/11/17 | primary stability immediate vs healed SR/MA, no OA full text; outside shortlist
+- PMID 42810678 | implant-iip-success-criteria | edat 2026 | screened 2026/11/17 | autotransplantation vs IIP SR/MA, no OA full text; outside shortlist
+- PMID 41680060 | implant-iip-success-criteria | edat 2026 | screened 2026/11/17 | root-analog implants SR, no OA full text; outside shortlist
+- PMID 42536962 | implant-iip-success-criteria | edat 2026 | screened 2026/11/17 | immediate loading indications review (IIL not IIP placement); no OA full text
+- PMID 40360820 | implant-iip-success-criteria | edat 2025 | screened 2026/11/17 | commentary on Meijer 10-year RCT already in wiki; not standalone candidate

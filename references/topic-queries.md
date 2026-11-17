@@ -39,6 +39,14 @@ IIP(immediate implant placement)는 핵심어를 풀어 쓰면 osseodensificatio
 ```
 주의: PubMed는 IIP를 `Immediate Dental Implant Loading[MeSH]`로 색인해 IIL(즉시부하)과 섞는다. 식립만 노린다면 abstract 확인 단계에서 IIL(immediate loading/provisionalization)을 한 번 더 분리할 것. MeSH 단독 의존 금지.
 
+#### implant-iip-success-criteria (서베일런스 2026-11-17 등록)
+"기준 가이드" = 증례선택·성공/생존 판정 기준·분류체계·컨센서스·의사결정 프레임워크. IIP phrase에 criteria 축을 교차시킨다(유방 재건 immediate implant 노이즈는 제목 스크리닝에서 제거):
+```
+("immediate implant placement"[tiab] OR "immediately placed implant"[tiab] OR "immediate placement"[tiab] OR "immediate implantation"[tiab])
+AND (classification[tiab] OR criteria[tiab] OR guideline*[tiab] OR consensus[tiab] OR indication*[tiab] OR "case selection"[tiab] OR "decision-making"[tiab] OR "success rate"[tiab] OR survival[tiab])
+```
+보완 축(별도 실행): `("extraction socket"[tiab] AND classification[tiab])`, `(immediate implant[tiab] AND (consensus[tiab] OR "position paper"[tiab]))`. 1차 스크리닝 결과 108개 후보 중 신규·on-topic 4편 인제스트(42689035, 41590814, 40900554, 36196906); PMC 전문 없는 컨센서스 3종(40900553/54/55)·40007328은 전문 확보 대기.
+
 ### endo
 ```
 (root canal OR endodontic OR "vital pulp therapy" OR "pulp capping" OR "irrigation activation")
