@@ -71,6 +71,6 @@ This retrospective study from Peking University First Hospital enrolled 239 pati
 
 ## Related Papers
 
-- [[digital-workflow/zhou-2021-digital-occlusal-analysis-posterior-implant]] — T-Scan III longitudinal occlusal force study for posterior implant crowns (reinforces)
+- [[occlusion/zhou-2021-digital-occlusal-analysis-posterior-implant]] — T-Scan III longitudinal occlusal force study for posterior implant crowns (reinforces)
 - [[digital-workflow/digital-workflow]] — digital workflow clinical evidence overview (extends)
 - [[digital-workflow/lee-2019-full-mouth-rehabilitation-reduced]] — full-arch digital workflow with CBCT + guided surgery integration
