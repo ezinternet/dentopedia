@@ -113,8 +113,8 @@ LRGC 2편은 메타분석 제외(간접 비교만). 수치상 96.1–98.3%로 �
 ## 관련 항목
 
 - [[sources/prott-2024-partial-coverage-restorations-posterior-sr-ma]]
-- [[부분피개수복물 (Partial Coverage Restoration)]]
-- [[세라믹 재료 분류 (Ceramic Classification)]]
+- [[overviews/lithium-disilicate-inlay-onlay-evidence|부분피개수복물 (Partial Coverage Restoration)]]
+- 세라믹 재료 분류 (Ceramic Classification) — 개념 페이지 미작성
 - [[inlay/angeletaki-2016-direct-vs-indirect-inlay-onlay-sr-ma]]
 - [[inlay/abdulrahman-2021-lithium-disilicate-clinical-success-retrospective]]
 
