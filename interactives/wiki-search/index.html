@@ -273,20 +273,66 @@
     font-size: 14px;
   }
 
-  .kbd {
-    display: inline-block;
-    font-size: 11px;
-    padding: 1px 5px;
-    border: 1px solid var(--border);
-    border-radius: 4px;
-    background: var(--tag-bg);
-    color: var(--muted);
-    font-family: monospace;
+  /* qmd status bar */
+  .qmd-bar {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 5px 24px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 12px;
   }
+
+  .qmd-dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    flex-shrink: 0;
+    transition: background 0.3s;
+  }
+  .qmd-dot.up   { background: #2d9e5f; box-shadow: 0 0 0 2px #c3f0d8; }
+  .qmd-dot.down { background: #d9534f; box-shadow: 0 0 0 2px #fad7d6; }
+  .qmd-dot.checking { background: #f0ad4e; animation: pulse 1s infinite; }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.4} }
+
+  .qmd-label { color: var(--muted); }
+  .qmd-label b { color: var(--text); }
+
+  .qmd-start-btn {
+    margin-left: 4px;
+    font-size: 11px;
+    padding: 2px 10px;
+    border-radius: 4px;
+    border: 1px solid var(--accent);
+    background: var(--accent-light);
+    color: var(--accent);
+    cursor: pointer;
+    font-weight: 600;
+    transition: background 0.12s;
+  }
+  .qmd-start-btn:hover { background: var(--accent); color: #fff; }
+  .qmd-start-btn:disabled { opacity: 0.5; cursor: default; }
+
+  .qmd-refresh {
+    background: none;
+    border: none;
+    color: var(--muted);
+    cursor: pointer;
+    font-size: 13px;
+    padding: 0 2px;
+    line-height: 1;
+  }
+  .qmd-refresh:hover { color: var(--accent); }
 </style>
 </head>
 <body>
 
+<div class="qmd-bar" id="qmdBar">
+  <span class="qmd-dot checking" id="qmdDot"></span>
+  <span class="qmd-label" id="qmdLabel">qmd MCP 확인 중…</span>
+  <button class="qmd-start-btn" id="qmdStartBtn" style="display:none" onclick="startQmd()">▶ 시작</button>
+  <button class="qmd-refresh" title="새로고침" onclick="checkQmd()">↻</button>
+</div>
 <header>
   <div class="header-row">
     <div class="logo">🦷 Wiki Search</div>
@@ -323,6 +369,62 @@
 </main>
 
 <script>
+// qmd MCP status
+const qmdDot = document.getElementById('qmdDot');
+const qmdLabel = document.getElementById('qmdLabel');
+const qmdStartBtn = document.getElementById('qmdStartBtn');
+
+async function checkQmd() {
+  qmdDot.className = 'qmd-dot checking';
+  qmdLabel.innerHTML = 'qmd MCP 확인 중…';
+  qmdStartBtn.style.display = 'none';
+  try {
+    const r = await fetch('/api/qmd-status');
+    const d = await r.json();
+    if (d.alive) {
+      qmdDot.className = 'qmd-dot up';
+      qmdLabel.innerHTML = 'qmd MCP <b>연결됨</b> :8181';
+    } else {
+      qmdDot.className = 'qmd-dot down';
+      qmdLabel.innerHTML = 'qmd MCP <b>꺼짐</b>';
+      qmdStartBtn.style.display = '';
+    }
+  } catch {
+    qmdDot.className = 'qmd-dot down';
+    qmdLabel.innerHTML = 'qmd MCP <b>상태 불명</b>';
+    qmdStartBtn.style.display = '';
+  }
+}
+
+async function startQmd() {
+  qmdStartBtn.disabled = true;
+  qmdStartBtn.textContent = '시작 중…';
+  qmdDot.className = 'qmd-dot checking';
+  try {
+    const r = await fetch('/api/qmd-start', { method: 'POST' });
+    const d = await r.json();
+    if (d.ok) {
+      qmdDot.className = 'qmd-dot up';
+      qmdLabel.innerHTML = 'qmd MCP <b>연결됨</b> :8181';
+      qmdStartBtn.style.display = 'none';
+    } else {
+      qmdDot.className = 'qmd-dot down';
+      qmdLabel.innerHTML = `qmd MCP: ${d.message}`;
+      qmdStartBtn.disabled = false;
+      qmdStartBtn.textContent = '▶ 시작';
+    }
+  } catch {
+    qmdDot.className = 'qmd-dot down';
+    qmdLabel.innerHTML = 'qmd MCP 시작 실패';
+    qmdStartBtn.disabled = false;
+    qmdStartBtn.textContent = '▶ 시작';
+  }
+}
+
+// check on load, then every 30s
+checkQmd();
+setInterval(checkQmd, 30000);
+
 const qEl = document.getElementById('q');
 const statusEl = document.getElementById('status');
 const resultsEl = document.getElementById('results');
