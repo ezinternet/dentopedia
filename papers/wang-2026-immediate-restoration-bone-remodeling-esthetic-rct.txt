@@ -1,0 +1,292 @@
+Journal of Dental Sciences Journal of Dental Sciences 
+Volume 21 Issue 3 Article 35 
+2026 
+Impact of immediate restoration on bone remodeling in the Impact of immediate restoration on bone remodeling in the 
+esthetic zone: a randomized clinical trial esthetic zone: a randomized clinical trial 
+Hao-Dong Wang 
+Department of General Dentistry, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School 
+of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; 
+National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai 
+Research Institute of Stomatology, Shanghai, China, whd.1998@163.com 
+Xin-Hai Lin 
+Department of General Dentistry, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School 
+of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; 
+National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai 
+Research Institute of Stomatology, Shanghai, China. 
+Yi-Wen Wu 
+Department of General Dentistry, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School 
+of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; 
+National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai 
+Research Institute of Stomatology, Shanghai, China 
+Hong-Run Zhou 
+Department of General Dentistry, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School 
+of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; 
+National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai 
+Research Institute of Stomatology, Shanghai, China 
+Tai Zhao Wei 
+Department of General Dentistry, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School 
+of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; 
+National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai 
+Research Institute of Stomatology, Shanghai, China 
+See next page for additional authors 
+Follow this and additional works at: https://jds.ads.org.tw/journal 
+Recommended Citation Recommended Citation 
+Wang, Hao-Dong; Lin, Xin-Hai; Wu, Yi-Wen; Zhou, Hong-Run; Wei, Tai Zhao; Chen, Xi; Tang, Yi-Qun; Zhu, Ya-
+Qin; and Jiang, Long (2026) "Impact of immediate restoration on bone remodeling in the esthetic zone: a 
+randomized clinical trial," Journal of Dental Sciences: Vol. 21: Iss. 3, Article 35. 
+Available at: https://jds.ads.org.tw/journal/vol21/iss3/35 
+This Original Article is brought to you for free and open access by Journal of Dental Sciences. It has been accepted 
+for inclusion in Journal of Dental Sciences by an authorized editor of Journal of Dental Sciences. For more 
+information, please contact cpchiang@ntu.edu.tw. 
+Impact of immediate restoration on bone remodeling in the esthetic zone: a Impact of immediate restoration on bone remodeling in the esthetic zone: a 
+randomized clinical trial randomized clinical trial 
+Authors Authors 
+Hao-Dong Wang, Xin-Hai Lin, Yi-Wen Wu, Hong-Run Zhou, Tai Zhao Wei, Xi Chen, Yi-Qun Tang, Ya-Qin Zhu, 
+and Long Jiang 
+This original article is available in Journal of Dental Sciences: https://jds.ads.org.tw/journal/vol21/iss3/35 
+Original Article
+Impact of immediate restor ation on bone
+remodeling in the esthetic zone: A
+r andomized clinical trial
+Hao-Dong W ang
+a,b
+, Xin-Hai Lin
+a
+, Y i-Wen Wu
+a
+,
+Hong-Run Zhou
+a
+, T ai Zhao Wei
+a
+, Xi Chen
+a
+, Y i-Qun T ang
+a
+,
+Y a-Qin Zhu
+a**
+, Long Jiang
+a*
+a
+Department of General Dentistry , Shanghai Ninth People’ s Hospital, Shanghai Jiao T ong University
+School of Medicine, College of Stomatology , Shanghai Jiao T ong University , National Center for
+Stomatology , National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of
+Stomatology , Shanghai Research Institute of Stomatology , Shanghai, China
+b
+Shanghai Xuhui District Dental Center , Shanghai, China
+Received 23 December 2025; accepted 19 February 2026
+A vailable online 1 July 2026
+KEYWORDS
+T ooth injuries;
+Dental implants;
+Dental restoration;
+T reatment outcome;
+Bone resorption;
+Cone-beam computed
+tomography
+Abstract Background/purpose: T raumatic loss of anterior teeth creates esthetic challenges
+and often requires immediate rehabilitation. Although immediate implant placement and
+restoration (IIPR) shortens treatment time, strict primary stability limits its use. A native-
+crown restoration supported by fiber-reinforced composite (FRC) splints may broaden the in-
+dications of immediate restoration, but its effectiveness remains unclear . This randomized
+controlled trial aimed to evaluate the effects of the novel immediate restoration following
+IIP on peri-implant bone remodeling in anterior esthetic zone trauma during osseointegration.
+Materials and methods: T wenty participants undergoing IIP in the anterior maxilla were ran-
+domized into two groups. In the experimental group, immediate restorations were performed
+using patients’ native crowns stabilized with FRC splints, while the control group received con-
+ventional delayed restorations. P eri-implant bone remodeling was quantitatively assessed
+through cone-beam computed tomography (CBCT) at baseline and 4 —5 months postopera-
+tively . Secondary outcomes included gingival healing and implant stability quotient (ISQ).
+Results: Both groups achieved 100% implant survival. Complete soft tissue closure occurred
+within 4—5 months in all cases, with no significant intergroup differences. Similarly , no signif-
+icant intergroup differences were found in peri-implant bone changes at the implant neck
+* Correspond ing author . Departme nt of General Dentistry , Shanghai Ninth P eople’ s Hospital, Shanghai Jiao T ong University School of
+Medicine, 639 Zhizao Ju Road, Huangpu District, Shanghai 200001, China.
+** Correspond ing author . Department of General Dentistry , Shanghai Ninth P eople’ s Hospital, Shanghai Jiao T ong University School of
+Medicine, 639 Zhizao Ju Road, Huangpu District, Shanghai 200001, China.
+E-mail addresses : zyq1590@1 63.com (Y .-Q. Zhu), jianglon g25a@163.c om (L. Jiang).
+https://doi.o rg/10.1016/ j.jds.2025. 07.3456
+1991-7902/ª 2026 Association for Dental Sciences of the Repu blic of China. Publishin g services by Digital Commons. This is an open access article
+under the CC BY -NC-ND license (http://crea tivecommons. org/license s/by-nc-nd/4 .0/).
+T
+a
+i
+w
+a
+n
+ 
+A
+s
+s
+o
+c
+i
+ a t i o n  f o r  D e
+n
+t
+a
+l
+ 
+S
+c
+i
+e
+n
+c
+e
+s
+Available online at https://jds.ads.org.tw/journal/
+Digital Commons
+journal homepage: https://jds .ads.org.tw/ journal/
+Journal of Dental Sciences 21 (2026) 1671—1678
+(P� 0.878) or 2 mm apically (P� 0.667). Mean ISQ values (Experimental: 75.6 � 2.4; Control:
+74.1 � 3.4) showed no significant intergroup difference (P� 0.271).
+Conclusion: The FRC-splinted immediate restoration protocol did not demonstrate additional
+adverse effects on early peri-implant bone remodeling or osseointegration within the observa-
+tion period. It may offer an alternative option for immediate esthetic rehabilitation following
+IIP , particularly in cases where primary stability is limited.
+ª 2026 Association for Dental Sciences of the R epublic of China. Publishing services by Digital
+Commons. This is an open access article under the CC BY -NC-ND license (http://
+creativecommons.org/licenses/by-nc-nd/4.0/).
+Introduction
+Dental trauma predominantly affects the maxillary anterior
+region, commonly recognized as the esthetic zone.
+1
+In se-
+vere and complex cases of dental trauma, tooth extraction
+may represent the sole viable treatment option.
+2
+However ,
+tooth loss, especially in the anterior esthetic zone, is
+generally unacceptable due to the sudden occurrence and
+profound impacts on quality of life.
+3
+These patients
+consequently experience dual detrimental effects involving
+both physical impairment and psychological distress.
+4
+Immediate implant placement (IIP) and restoration
+following extraction of maxillary anterior teeth contribute
+to restoring patient oral health and alleviating psychologi-
+cal stress by rapidly rehabilitating both esthetics and
+function in the anterior esthetic zone.
+5
+With the develop-
+ment of implant technology and the theory of guided bone
+regeneration (GBR), the indications for IIP have been
+correspondingly broadened beyond previously strict
+criteria.
+6
+Recent studies have demonstrated that successful
+osseointegration may still be achieved even in the presence
+of pulpal or periodontal inflammation.
+7
+However , immedi-
+ate restoration following IIP requires strict adherence to
+eligibility criteria, including optimal three-dimensional
+implant positioning, adequate primary implant stability and
+patient compliance, to ensure implant success.
+8,9
+As con-
+ventional immediate restoration protocols rely on directly
+loaded provisional crowns supported by temporary abut-
+ments, adequate primary implant stability is a prerequisite.
+When primary stability is insufficient during IIP , directly
+loaded provisionalization becomes contraindicated, neces-
+sitating either removable provisional prostheses or delayed
+restoration protocols to minimize failure risks.
+10
+However ,
+both approaches provide limited peri-implant soft tissue
+support and are unable to effectively preserve natural
+gingival contour or emergence profile during early healing.
+This may compromise the clinical significance of immediate
+implantation and the patients’ expectations to some
+extent.
+Inspired by post-traumatic splinting therapy for mobile
+teeth, we developed a modified immediate restoration
+strategy in which fiber-reinforced composite (FRC) splints
+are used to bond the patient’ s native crown to the labial
+surfaces of adjacent teeth following IIP .
+11
+Unlike conven-
+tional immediately loaded provisional restorations, this
+protocol provides immediate esthetic rehabilitation
+without direct occlusal loading on the implant. Existing
+evidence demonstrates that FRC splints exhibit exceptional
+load-bearing capacity , maintaining structural integrity
+under maximal occlusal forces generated during parafunc-
+tional movements including bruxism.
+12,13
+Furthermore, use
+of the patient’ s native crown may facilitate preservation of
+the original cervical contour and peri-implant gingival ar-
+chitecture, thereby supporting more favorable esthetic soft
+tissue healing. Nevertheless, clinical evidence regarding
+the safety and biological impact of this non-loaded imme-
+diate restoration approach―particularly its influence on
+peri-implant bone remodeling―remains limited.
+Therefore, this randomized controlled clinical trial was
+designed as a pilot exploratory study to evaluate the ef-
+fects of this novel immediate restoration following IIP on
+peri-implant bone remodeling in anterior esthetic zone
+trauma during osseointegration.
+Materials and methods
+This study was approved by the institutional ethics com-
+mittee (Approval No. SH9H-2022-T358-1). The trial was
+conducted and monitored in accordance with the principles
+of Good Clinical P ractice and followed the CONSOR T
+reporting guidelines. It was prospectively registered at the
+Chinese Clinical T rial R egistry (ChiCTR2300068934). All
+participants provided written informed consent prior to
+enrollment.
+This parallel-group randomized controlled trial assessed
+the safety and the impact on peri-implant bone remodeling
+of a novel immediate restoration protocol using native
+crowns combined with FRC splints (RTD, Saint-E
+´
+gre ` ve,
+France) following IIP in the esthetic zone. The primary
+outcome was labial bone plate change. Secondary out-
+comes were implant survival rate and implant stability
+quotient (ISQ). Labial bone plate thickness at implant sites
+was assessed via cone-beam computed tomography (CBCT)
+at baseline and 4—5 months postoperatively , with ISQ
+measured at the corresponding postoperative interval.
+P atients with traumatic injuries requiring single imme-
+diate implant placement in the maxillary anterior teeth
+were consecutively enrolled from the Department of Gen-
+eral Dentistry . Inclusion criteria included patients aged 18
+years or older who required extraction of traumatized
+maxillary anterior teeth, had intact mesial and distal
+adjacent teeth, a mouth opening of at least 30 mm, and
+stable occlusion of the adjacent dentition. Exclusion
+criteria were insufficient space for implant placement and
+H.-D. W ang, X.-H. Lin, Y .-W . W u et al.
+1672
+restoration, an incomplete labial bone plate, or uncon-
+trolled caries or periodontitis in the adjacent teeth.
+P articipant allocation employed simple randomization.
+Randomization codes were generated using SPSS 21.0 (SPSS
+Inc., Chicago, IL, USA), with the time variable serving as the
+random seed. T o ensure allocation concealment, these
+codes were sealed in opaque envelopes. P articipants
+receiving odd-numbered codes were assigned to the
+experimental group, while even-numbered codes were
+assigned to the control group.
+P articipants were randomly allocated by sequentially
+numbered, opaque, sealed envelopes based on enrollment
+order . The experimental group received immediate restora-
+tion using their native crowns combined with FRC splints
+following IIP , while the control group underwent direct
+closure after IIP with subsequent delayed restoration. Given
+the distinct interventions, participant blinding was
+unachievable; however , radiographic and clinical outcome
+assessors were blinded to group allocation during data mea-
+surement and statistical analysis. Due to the lack of prior
+clinical studies evaluating this specific non-loaded immedi-
+ate restoration protocol, a formal sample size calculation
+could not be performed. Therefore, this trial was designed as
+a pilot exploratory randomized controlled study . A sample
+size of 10 participants per group was determin
