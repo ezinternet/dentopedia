@@ -11,7 +11,7 @@ pdf_filename: sui-2026-influence-of-a-digital-versus.pdf
 
 ## Why Ingested
 
-Retrospective clinical study comparing digital vs. conventional workflow outcomes in posterior monolithic zirconia implant crowns — directly quantifies occlusal accuracy improvement with intraoral scanning + auxiliary occlusal device using T-Scan III. Extends → [[digital-workflow/zhou-2021-digital-occlusal-analysis-posterior-implant]] on occlusal force distribution over time and reinforces → [[digital-workflow/digital-workflow]] overview evidence on digital impression accuracy.
+Retrospective clinical study comparing digital vs. conventional workflow outcomes in posterior monolithic zirconia implant crowns — directly quantifies occlusal accuracy improvement with intraoral scanning + auxiliary occlusal device using T-Scan III. Extends → [[occlusion/zhou-2021-digital-occlusal-analysis-posterior-implant]] on occlusal force distribution over time and reinforces → [[digital-workflow/digital-workflow]] overview evidence on digital impression accuracy.
 
 ## Three-line Summary
 
@@ -83,7 +83,7 @@ Digital workflow incorporating intraoral scanning with auxiliary occlusal device
 
 ## Related Work
 
-- [[digital-workflow/zhou-2021-digital-occlusal-analysis-posterior-implant]] — T-Scan III longitudinal study of implant crown occlusal force, 5 time-points, same clinical question
+- [[occlusion/zhou-2021-digital-occlusal-analysis-posterior-implant]] — T-Scan III longitudinal study of implant crown occlusal force, 5 time-points, same clinical question
 - [[digital-workflow/digital-workflow]] — overview of digital workflow evidence including intraoral scanning accuracy
 - [[digital-workflow/lee-2019-full-mouth-rehabilitation-reduced]] — full-arch digital workflow case
 
