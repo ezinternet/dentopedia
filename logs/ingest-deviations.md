@@ -1085,3 +1085,4 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-11-16 | handschel-2009-histomorphometric-meta-analysis-sinus-grafting | source-data-issue | 이식재별 pooled TBV 가중평균이 본문에 수치로 없고 Fig 2-3 막대그래프로만 제시됨; Table 4의 Zerbo 2004와 Zijderveld 2005 행 수치가 동일(중복 게재 의심) |
 | 2026-11-16 | pesce-2021-residual-bone-height-graft-shrinkage-sinus-sr | other | qmd query 데몬 응답 타임아웃(120s) → 위키링크 후보 탐색을 grep fallback으로 수행; 링크 대상 stem은 ls로 실존 확인 |
 | 2026-11-16 | grasso-2020-equine-vs-bovine-bone-sinus-augmentation-rct | partial-pmc-text | PMC txt lacks Table 1 and reference list; histomorphometric SDs for marrow spaces/residual graft and exact p-values (only 'p>0.05') unavailable |
+| 2026-11-17 | chu-2015-flapless-postextraction-socket-implant-placement-part2 | source-data-issue | User requested PMID 24804283 (Tarnow 2014 Part 1) but uploaded PDF is Part 2 (Chu 2015, doi 10.11607/prd.2178); ingested as Part 2 after confirming mismatch |
