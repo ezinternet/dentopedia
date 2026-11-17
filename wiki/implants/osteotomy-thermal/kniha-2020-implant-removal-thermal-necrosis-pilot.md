@@ -79,4 +79,4 @@ The critical limitation: absence of blood flow in cadaver tissue. Blood flow in 
 - [[implants/osteotomy-thermal/eriksson-1984-heat-caused-drilling-cortical]] — foundational in vivo threshold (47°C/1min); this study adds short-duration (10 s) cadaveric data
 - [[implants/osteotomy-thermal/kniha-2020-temperature-threshold-bone-necrosis-sr]] — concurrent SR from same group; broader animal in vivo synthesis
 - [[implants/osteotomy-thermal/kniha-2023-thermal-osteonecrosis-implant-removal-rat]] — subsequent in vivo rat study from same group validating these thresholds
-- [[overviews/osteotomy-drilling-heat-overview]] — multi-paper synthesis
+- [[overviews/osteotomy-drilling-heat-determinants-irrigation-overview]] — multi-paper synthesis
