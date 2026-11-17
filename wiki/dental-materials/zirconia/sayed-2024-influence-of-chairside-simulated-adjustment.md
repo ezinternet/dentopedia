@@ -84,7 +84,7 @@ Key results: (1) NPM and CZM differed significantly in baseline color despite id
 
 ## Related Papers
 
-- [[dental-materials/zirconia/pott-2018-zirconia-interface-polishing-mixed-materials]] — polishing protocols and surface quality effects on zirconia
-- [[dental-materials/zirconia/regulska-2021-3y-tzp-xrd-surface-analysis-monoclinic-gradient]] — 3Y-TZP surface analysis and monoclinic phase transformation after grinding
-- [[dental-materials/zirconia/park-2025-djmt-digital-workflow-zirconia-eccentric-adjustment-rct]] — clinical adjustment of zirconia in digital workflow context
+- [[dental-materials/zirconia/pott-2018-polish-of-interface-areas-between]] — polishing protocols and surface quality effects on zirconia
+- [[dental-materials/zirconia/regulska-2021-analysis-of-the-surface-condition]] — 3Y-TZP surface analysis and monoclinic phase transformation after grinding
+- [[digital-workflow/park-2025-comparison-of-interference-from-eccentric]] — clinical adjustment of zirconia in digital workflow context
 - [[periodontics/oral-hygiene-instruction]] — chlorhexidine mouthwash in plaque control protocols (clinical context for ChG prescription)
