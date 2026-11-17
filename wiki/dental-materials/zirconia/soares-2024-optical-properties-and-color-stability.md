@@ -76,4 +76,4 @@ The key finding is a clear hierarchy: glaze > polishing > grinding-only for colo
 - [[dental-materials/zirconia/aflatoonian-2025-deglazing-hydrothermal-aging-high-translucent-zirconia]] — deglazing and hydrothermal aging effects on translucent zirconia
 - [[dental-materials/zirconia/agar-2025-effect-of-finishing-protocol-treatments]] — finishing protocol effects on zirconia surface
 - [[dental-materials/zirconia/alfrisany-2019-occlusal-adjustments-zirconia-enamel-wear]] — occlusal adjustment and antagonist enamel wear
-- [[dental-materials/zirconia/pott-2018-zirconia-interface-polishing-mixed-materials]] — polishing at zirconia-porcelain interfaces
+- [[dental-materials/zirconia/pott-2018-polish-of-interface-areas-between]] — polishing at zirconia-porcelain interfaces
