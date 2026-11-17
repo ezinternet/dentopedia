@@ -84,7 +84,7 @@ The key finding was that laser treatment maintained phase composition close to t
 
 ## Related Papers
 
-- [[dental-materials/zirconia/pott-2018-zirconia-interface-polishing-mixed-materials]] — polishing protocols and surface quality of zirconia restorations with mixed material interfaces
-- [[dental-materials/zirconia/regulska-2021-3y-tzp-xrd-surface-analysis-monoclinic-gradient]] — XRD monoclinic phase gradient in 3Y-TZP after surface treatment; directly comparable XRD methodology
-- [[dental-materials/zirconia/phuntusuntorn-2026-3y-tzp-5y-psz-6y-psz-polishing-hydrothermal-aging]] — polishing and hydrothermal aging effects on different Y-TZP generations; complementary aging data
+- [[dental-materials/zirconia/pott-2018-polish-of-interface-areas-between]] — polishing protocols and surface quality of zirconia restorations with mixed material interfaces
+- [[dental-materials/zirconia/regulska-2021-analysis-of-the-surface-condition]] — XRD monoclinic phase gradient in 3Y-TZP after surface treatment; directly comparable XRD methodology
+- [[dental-materials/zirconia/phuntusuntorn-2026-effect-of-surface-adjustment-and]] — polishing and hydrothermal aging effects on different Y-TZP generations; complementary aging data
 - [[dental-materials/zirconia/agar-2025-effect-of-finishing-protocol-treatments]] — finishing/polishing protocol comparison for zirconia; similar surface roughness outcome axis
