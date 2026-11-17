@@ -80,8 +80,8 @@ A within-patient RCT (n=13) compared CAD-CAM zirconia crowns adjusted using bucc
 ## Related Work
 
 - [[digital-workflow/park-2025-comparison-of-interference-from-eccentric]] — Park 2025 digital eccentric adjustment RCT (DJMT)
-- [[dental-materials/zirconia/regulska-2021-surface-analysis-monoclinic-gradient]] — 3Y-TZP XRD surface analysis relevant to grinding-induced phase transformation
-- [[dental-materials/zirconia/pott-2018-interface-polishing-mixed-materials]] — polishing/finishing effects on zirconia
+- [[dental-materials/zirconia/regulska-2021-analysis-of-the-surface-condition]] — 3Y-TZP XRD surface analysis relevant to grinding-induced phase transformation
+- [[dental-materials/zirconia/pott-2018-polish-of-interface-areas-between]] — polishing/finishing effects on zirconia
 - [[occlusion]] — digital occlusal analysis (T-Scan/Occlusense)
 
 ## Glossary
