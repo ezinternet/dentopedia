@@ -1,0 +1,63 @@
+{
+  "deck": "2026-11-17_seminar_megagen-thread-depth-st-vs-deep",
+  "date": "2026-11-17",
+  "title": "ST vs Deep Thread 자가테스트",
+  "emoji": "🔩",
+  "agenda": "agenda/2026-11-17_seminar_megagen-thread-depth-st-vs-deep-slides.md",
+  "source_wiki": [
+    "wiki/overviews/megagen-thread-depth-standard-vs-deep-overview.md",
+    "wiki/implants/isq/kwon-2026-thread-depth-guided-immediate-implant-isq-rct.md",
+    "wiki/implants/isq/baldi-2018-insertion-torque-isq-tapered-knife-edge.md",
+    "wiki/implants/khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review.md"
+  ],
+  "questions": [
+    {
+      "q": "Kwon 2026 RCT에서 deep thread(MDT)가 standard thread(MST)에 비해 유의하게 얻은 것은?",
+      "opts": [
+        "12개월 임플란트 안정성 지수 (ISQ)",
+        "12개월 변연골 소실 (MBL) 감소",
+        "삽입토크 (Insertion Torque) 증가",
+        "각도 정확도 향상"
+      ],
+      "ans": 2,
+      "rat": "Deep은 삽입토크를 유의하게 높였다(≥40 Ncm 달성 14/18 vs 12/18). 반면 ISQ·MBL은 차이 없었고(p>0.30, p=0.65), 각도 편차는 오히려 유의하게 나빠졌다(5.57° vs 3.58°, p=0.029).",
+      "cite": "implants/isq/kwon-2026-thread-depth-guided-immediate-implant-isq-rct"
+    },
+    {
+      "q": "가이드 즉시식립에서 deep thread의 가장 큰 단점은 무엇인가?",
+      "opts": [
+        "초기 삽입토크가 너무 낮다",
+        "각도 편차가 증가한다 (특히 하악 대구치)",
+        "표면 거칠기가 감소한다",
+        "변연골 소실이 유의하게 증가한다"
+      ],
+      "ans": 1,
+      "rat": "매칭 비교에서 각도 편차가 ST 3.58° → Deep 5.57°로 유의하게 증가(p=0.029)했고, 가장 큰 편차 4건(9.2–10.4°) 전부 Deep의 하악 대구치였다. MBL 증가는 없었다(p=0.65).",
+      "cite": "implants/isq/kwon-2026-thread-depth-guided-immediate-implant-isq-rct"
+    },
+    {
+      "q": "Baldi 2018(메가젠 AnyRidge)이 보여준 '토크의 상한'에 대한 올바른 해석은?",
+      "opts": [
+        "토크가 높을수록 ISQ는 계속 선형적으로 증가한다",
+        "50 Ncm 미만에서는 IT–ISQ 상관이 아예 없다",
+        "약 50 Ncm 초과 시 ISQ 추가 이득 없이 실패·나사풀림이 집중된다",
+        "고토크군의 실패는 모두 골질 때문에 발생했다"
+      ],
+      "ans": 2,
+      "rat": ">50 Ncm 평균 68.2 Ncm군에서 ISQ는 중간군 대비 유의한 상승이 없었고(78.0 vs 75.6), 전체 실패 2건(77·80 Ncm)과 나사풀림 대부분이 이 군에 몰렸다. IT–ISQ 상관은 30–50 Ncm 구간에서만 유의(ρ=0.481).",
+      "cite": "implants/isq/baldi-2018-insertion-torque-isq-tapered-knife-edge"
+    },
+    {
+      "q": "저밀도골(D3/D4)과 같이 1차 안정성 확보가 어려운 부위에서 deep thread에 대한 근거의 방향은?",
+      "opts": [
+        "언제나 standard thread가 우월하다",
+        "원추형·큰 직경과 함께 더 깊은 thread depth가 권고된다",
+        "스레드 깊이는 전혀 영향이 없다",
+        "변연골 소실이 반드시 증가한다"
+      ],
+      "ans": 1,
+      "rat": "Khaohoen 2023의 저밀도골 최적화 지침은 원추형, 직경 ≥4 mm, 짧은 pitch, 역버튼 self-tapping과 함께 standard보다 깊은 thread depth를 권고한다. 즉 부위에 따라 deep thread가 유리할 수 있어, 맥락이 결과를 뒤집는다.",
+      "cite": "implants/khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review"
+    }
+  ]
+}
