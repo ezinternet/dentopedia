@@ -76,6 +76,6 @@ The study concludes that delivering (Y, Nb)-TZP restorations in as-milled or gro
 
 ## Related Papers
 
-- [[dental-materials/zirconia/regulska-2021-surface-analysis-monoclinic]] — XRD monoclinic surface analysis on 3Y-TZP after polishing/hydrothermal aging
-- [[dental-materials/zirconia/pott-2018-zirconia-interface-polishing-mixed-materials]] — polishing protocols at zirconia-ceramic interfaces
+- [[dental-materials/zirconia/regulska-2021-analysis-of-the-surface-condition]] — XRD monoclinic surface analysis on 3Y-TZP after polishing/hydrothermal aging
+- [[dental-materials/zirconia/pott-2018-polish-of-interface-areas-between]] — polishing protocols at zirconia-ceramic interfaces
 - [[dental-materials/zirconia/alfrisany-2019-occlusal-adjustments-zirconia-enamel-wear]] — clinical significance of zirconia surface roughness and antagonist enamel wear
