@@ -1,0 +1,18 @@
+TITLE: Effectiveness of Concentrated Growth Factor in Lateral Sinus Augmentation: A Systematic Review and Meta-Analysis with Translational Considerations for Eggshell-Derived Nano-Hydroxyapatite
+AUTHORS: Sane Vikrant Dilip, Kshirsagar Rajesh, Kattimani Vivekanand, Nair Vivek Sunil, Sane Rashmi Vikrant
+JOURNAL: Journal of Maxillofacial & Oral Surgery
+ID[pmcid]: PMC13627601
+ID[pmcid-ver]: PMC13627601.1
+ID[pmcaid]: 13627601
+ID[pmcaiid]: 13627601
+ID[pmid]: 42824566
+ID[doi]: 10.1007/s12663-026-03192-5
+ID[publisher-id]: 3192
+
+## ABSTRACT
+BackgroundThe integration of a nano‑structured scaffold with a biologically active matrix such as Concentrated Growth Factor (CGF) offers a strategy that unites osteoconduction with growth factor–driven osteoinduction. Despite increasing clinical interest, its role in lateral sinus augmentation—particularly when combined with hydroxyapatite—has not been systematically assessed. This review therefore evaluated the effectiveness of CGF in direct sinus augmentation with hydroxyapatite and explored the translational potential of combining eggshell‑derived nano‑hydroxyapatite (EHA) with CGF.
+MethodsThis systematic review and meta-analysis followed PRISMA 2020 guidelines and was registered with PROSPERO (CRD420251148756). Searches of PubMed, Scopus, Web of Science, Cochrane Library, ScienceDirect, and Google Scholar (inception–October 2025), supplemented by manual reference checks, identified eligible randomized controlled trials and comparative clinical studies in adults (≥ 18 years) undergoing direct sinus augmentation. Risk of bias was assessed using RoB 2 and ROBINS-I. Random-effects meta-analyses (RevMan Web) synthesized continuous outcomes as SMD/MD with 95% CIs, and certainty of evidence was appraised using GRADE.
+ResultsSix studies (n = 6; 3 RCTs, 1 three-arm randomized trial, and 2 non-randomized designs) involving 185 sinuses were analyzed. CGF groups demonstrated significantly greater new bone formation than controls (pooled SMD = 0.94; 95% CI 0.30–1.57; p = 0.004; I²=41%). Bone height gain was similar between CGF and controls (SMD = − 0.29; 95% CI − 0.98 to 0.41; p = 0.41; I²=75%). Bone density favoured CGF (SMD = 0.89; 95% CI 0.44–1.34; p = 0.0001; I²=0%). Implant survival remained high (97–100%) without graft-related complications. GRADE certainty was high for bone formation, density, and survival, moderate for height gain. Importantly, none directly assessed EHA + CGF; pooled results reflect CGF, with EHA implications inferred from translational evidence.
+ConclusionsCGF-augmented sinus lifts enhance histologic new bone formation and radiographic bone density, without reducing vertical bone gain or implant survival. Although EHA exhibits strong osteoconductive potential in intraoral applications, direct randomized evidence on the combined EHA + CGF approach in lateral window sinus augmentation remains scarce. Well-designed head-to-head trials comparing EHA + CGF with deproteinized bovine bone mineral (DBBM), with or without CGF, are therefore warranted to establish comparative effectiveness and guide clinical decision-making.
+RegistrationPROSPERO CRD420251148756.
+Supplementary InformationThe online version contains supplementary material available at https://doi.org/10.1007/s12663-026-03192-5.
