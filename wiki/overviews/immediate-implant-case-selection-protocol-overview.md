@@ -31,6 +31,10 @@ source_wiki:
   - wiki/immediate-implant/checchi-2017-wide-diameter-immediate-post-extractive.md
   - wiki/immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma.md
   - wiki/immediate-implant/gap-grafting/meijer-2024-immediate-implant-bony-defect-10year-rct.md
+  - wiki/immediate-implant/dias-2025-immediate-implant-placement-and-restorations.md
+  - wiki/immediate-implant/anatomic-assessment/sabri-2022-single-rooted-extraction-socket-classification.md
+  - wiki/immediate-implant/molar-septum/liu-2026-expanded-classification-for-immediate-molar.md
+  - wiki/immediate-implant/findler-2026-clinical-success-rates-of-dental.md
 relations:
   - type: extends
     target: immediate-implant-decision-ladder
@@ -49,11 +53,15 @@ relations:
 > [!summary] 한국어 핵심요약
 > - 핵심 전제: 발치 후 **즉시 임플란트 식립 (Immediate Implant Placement, IIP, Type 1)** 의 성패는 발치 당일이 아니라 **발치 전 증례 선택(case selection)** 에서 결정된다. 생존율은 프로토콜 전반에서 높지만(검증 조합 기준 90%대 후반; [[overviews/immediate-implant-placement-loading-timing-evidence-overview]]), 심미·연조직 실패는 부적절한 선택에서 주로 발생한다([[immediate-implant/esthetic-soft-tissue/chen-2014-esthetic-outcomes-immediate-early-implant]], [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]]).
 > - **발치 전 게이트(콘빔CT, Cone-Beam Computed Tomography, CBCT + 임상)**: 협측골벽 두께·완전성, 협측 결손 범위, 치근 시상위치(Sagittal Root Position, SRP), 치근단/치주 감염 상태, 연조직 표현형(gingival phenotype), 1차 안정성 확보 가능 골량(치근단·구개측), 보철 주도(3차원) 식립 가능성을 함께 평가한다([[overviews/immediate-implant-decision-ladder]], [[overviews/immediate-implant-conditions]]).
+> - **증례선택 인자의 근거 지도(Dias 2025, 범위고찰 28편; ORF IEM 2025 컨센서스 근거)**: IIP/즉시수복 증례선택 인자를 **해부학적(협측벽 온전성·치조돌기 크기·협측 간극 폭·치은 표현형)/술적/보철적** 축으로 정리. 근거가 전방 단일치 심미부에 집중되고 **구치부·다장치 고정성 보철물(Fixed Dental Prosthesis, FDP)은 얇음** — 이 위키의 구치부 중격·전악 페이지가 부분적으로 보완. 초록전용이라 정량 합성 없음. [[immediate-implant/dias-2025-immediate-implant-placement-and-restorations]]
+> - **분류의 맹점 = 환자 수준 인자(Sabri 2022, 체계적 고찰 13개 분류 + 신규 제안)**: 기존 발치와 분류는 협측 골결손·인접면골·치은 퇴축·연조직 표현형 같은 형태 인자를 반복하되 **전신질환·흡연 등 환자 관련 인자는 거의 누락**. 신규 분류는 형태+환자 인자를 결합 — 해부학 중심 SRP 분류의 blind spot을 보완하라는 직접 시사. 초록전용, 분류 범주는 전문 미확보. [[immediate-implant/anatomic-assessment/sabri-2022-single-rooted-extraction-socket-classification]]
 > - **동시 충족을 요구하는 4조건(보수적 프로토콜)**: ① 감염이 조절/관리 가능할 것 ② 소켓 형태에 끌리지 않는 이상적 **3차원 위치(3-dimensional, 3D)·보철 주도 위치** 확보 ③ 치근단·구개/설측 골에서 충분한 **1차 안정성(Primary Stability)** ④ **도약거리(Jumping Distance)**/협측 갭, 협측벽, 연조직, (필요 시) 임시보철을 포함한 통합 계획. 하나라도 결여되면 조기(Type 2/3)·지연(Type 4) 또는 발치와 보존술(Alveolar Ridge Preservation, ARP)로 전환을 고려한다.
 > - **협측골벽이 관문**: 다발골(Bundle Bone)은 치아 의존적이라 발치 후 흡수되며 즉시식립이 이를 막지 못한다([[immediate-implant/araujo-2005-ridge-alterations-immediate-implant-dog]]). 얇은 벽(≤1 mm)은 큰 수직 흡수와 연관되고([[immediate-implant/esthetic-soft-tissue/chappuis-2013-ridge-alterations-post-extraction-esthetic]]) 연조직 비후가 골소실을 가릴 수 있어([[immediate-implant/esthetic-soft-tissue/chappuis-2015-soft-tissue-alterations]]) 연조직 외형만으로 판정하면 안 된다. 협측에서 **≥2 mm 구개측 위치**가 협측 치조정 보존에 유리하다([[immediate-implant/esthetic-soft-tissue/staas-2026-fiipp-palatal-position-cbct-3year]]).
 > - **도약거리(Jumping Distance)/협측 갭**: 보철 주도·구개측 위치의 결과로 생기는 간극은 예견된 소견이다. 갭/결손 크기·협측벽 두께·심미 위험에 따라 관찰/골대체재 이식/골유도재생(Guided Bone Regeneration, GBR)으로 구분하며, 협측 열개·벽 결손은 단순 갭 충전이 아니라 GBR 결손으로 다뤄야 한다([[immediate-implant/gap-grafting/seyssens-2022-immediate-implant-socket-grafting-sr-ma]], [[immediate-implant/gap-grafting/sanz-2017-bone-graft-gap-immediate-implant-rct]], [[overviews/immediate-implant-soft-tissue-gap-grafting-material-choice]]).
 > - **즉시 임시보철(Immediate Provisionalization)** 은 즉시식립과 별개 결정: 충분한 1차 안정성, 비접촉 교합, 양호한 3D 위치, 연조직 형성에 유리한 보철 외형이 전제될 때 고려한다([[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]], [[overviews/immediate-implant-decision-ladder]]). 전제 미충족 시 치유지대주/맞춤형 치유지대주/지연 보철이 더 안전하다.
 > - **부위 특이성**: 전치부의 유리한 심미 결과를 구치부 광경(wide-diameter) 즉시식립에 일반화하면 안 된다 — 구치부에서는 능선보존+지연/통상 직경이 심미·변연골에서 유리할 수 있다([[immediate-implant/checchi-2017-wide-diameter-immediate-post-extractive]] vs [[immediate-implant/puisys-2022-immediate-implant-placement-vs-early]]). 5년 뒤 변연·유두·방사선상을 방어할 자신이 없으면 단계적 접근이 가장 예측 가능한 선택이다.
+> - **구치부 6범주 분류(Liu 2026, 델파이 컨센서스 + 후향적 64건)**: Smith–Tarnow 중격 A/B/C에 치근와 정착 D(원위)/M(근심)/P(구개)를 더한 해부 기반 증례선택 틀. Type A(완전 중격 봉입)가 최선(삽입토크(Insertion Torque, IT) >30 N/cm·생존 >90%), Type P는 임플란트 안정성 지수(Implant Stability Quotient, ISQ) ≥60·초기 변연골소실(Marginal Bone Loss, MBL) 0.11–0.19mm로 상악동 회피 옵션. 유형별 금기 역치(예: 구개골 <4mm면 Type P 금기) 포함 — **의사결정 보조이며 전향 검증 필요**. [[immediate-implant/molar-septum/liu-2026-expanded-classification-for-immediate-molar]]
+> - **인구 수준 위험은 형태 분류에 없는 축(Findler 2026, 국가 코호트 158,824개)**: 즉시식립은 조기/지연 대비 독립 실패 위험인자(3.08% vs 2.07%, 오즈비(Odds Ratio, OR) 1.487); 남성·상악·낮은 사회경제적 지위(Socioeconomic Status, SES)도 위험. 형태·해부 게이트 합격만으로 충분하지 않음을 실세계 등록자료가 시사 — 단 행정 코딩 설계로 교란 통제 제한. [[immediate-implant/findler-2026-clinical-success-rates-of-dental]]
 
 ## Three-line Summary
 
@@ -125,7 +133,7 @@ Molar sockets add traps (septum morphology, wide/divergent sockets, sinus floor/
 - [[immediate-implant/puisys-2022-immediate-implant-placement-vs-early]] (anterior single-tooth, RCT): comparable PES with operational advantages for immediate in a strictly selected scenario.
 - [[immediate-implant/checchi-2017-wide-diameter-immediate-post-extractive]] (molar, wide-diameter, RCT): ridge preservation + delayed conventional-diameter favored on PES and marginal bone vs wide-diameter immediate.
 
-Anatomic assessment (e.g. SRP, premolar perforation risk, septum classification) and technique selection are therefore site-specific ([[overviews/immediate-implant-decision-ladder]]).
+Anatomic assessment (e.g. SRP, premolar perforation risk, septum classification) and technique selection are therefore site-specific ([[overviews/immediate-implant-decision-ladder]]). Liu 2026 (concept development + Delphi consensus, 64 molars) formalizes this with a **six-category anatomy-based classification** — septal types A (complete containment; IT >30 N/cm, survival >90%), B (partial support), C (peripheral engagement) plus root-socket types D (distal), M (mesial), P (palatal) — with a treatment hierarchy (prioritize A, then P in the maxilla / D–M when root anatomy favors) and explicit contraindication thresholds (e.g. no Type P if palatal bone height <4 mm or sinus contact <1 mm; no Type C if buccolingual width <6 mm). It extends the Smith–Tarnow A–C system ([[immediate-implant/molar-septum/smith-2013-classification-molar-extraction-immediate-implant]]) but is explicitly **decision support, not outcome validation** — prospective multicenter validation is pending ([[immediate-implant/molar-septum/liu-2026-expanded-classification-for-immediate-molar]]; see also [[overviews/maxillary-molar-palatal-root-socket-iip]]).
 
 ## 6. Immediate Provisionalization Is a Separate Decision
 
@@ -168,6 +176,10 @@ Placement timing and restoration/loading timing are distinct variables ([[overvi
 - [[immediate-implant/checchi-2017-wide-diameter-immediate-post-extractive]]
 - [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]]
 - [[immediate-implant/gap-grafting/meijer-2024-immediate-implant-bony-defect-10year-rct]]
+- [[immediate-implant/dias-2025-immediate-implant-placement-and-restorations]] — scoping review (28 SRs): anatomical/surgical/prosthetic factor map; evidence concentrated in anterior single units, thin for molars/multiunit FDPs (abstract-only)
+- [[immediate-implant/anatomic-assessment/sabri-2022-single-rooted-extraction-socket-classification]] — SR of 13 socket classifications + new system adding patient-level factors (systemic disease, smoking) to morphology (abstract-only)
+- [[immediate-implant/molar-septum/liu-2026-expanded-classification-for-immediate-molar]] — six-category anatomy-based molar IIP classification (A/B/C + D/M/P), Delphi consensus, decision-support not validated
+- [[immediate-implant/findler-2026-clinical-success-rates-of-dental]] — national cohort (158,824 implants): immediate placement an independent failure risk indicator (OR 1.487), male/maxillary/low-SES modifiers
 
 ## Wiki Coverage Caveat
 
