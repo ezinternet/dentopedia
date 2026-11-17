@@ -70,5 +70,5 @@ Null hypothesis ("no significant difference between groups") was **refuted**.
 ## Related Papers
 
 [[digital-workflow/park-2025-comparison-of-interference-from-eccentric]]
-[[dental-materials/zirconia/regulska-2021-surface-analysis-monoclinic-gradient]]
-[[dental-materials/zirconia/pott-2018-interface-polishing-mixed-materials]]
+[[dental-materials/zirconia/regulska-2021-analysis-of-the-surface-condition]]
+[[dental-materials/zirconia/pott-2018-polish-of-interface-areas-between]]
