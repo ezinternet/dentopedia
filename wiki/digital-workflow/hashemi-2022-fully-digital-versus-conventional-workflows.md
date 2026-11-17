@@ -86,6 +86,6 @@ The null hypothesis was accepted for most outcomes: impression accuracy (linear 
 ## Related Papers
 
 - [[digital-workflow/sui-2026-influence-of-a-digital-versus]] — retrospective cohort (n=239) also comparing digital vs. conventional workflow for posterior implant crowns; digital superior in occlusal accuracy metrics
-- [[digital-workflow/cappare-2019-conventional-versus-digital-impressions-for]] — RCT comparing conventional vs. digital impressions for full-arch screw-retained maxillary rehabilitations; comparable outcomes
+- [[implants/full-arch/cappare-2019-conventional-versus-digital-impressions-for]] — RCT comparing conventional vs. digital impressions for full-arch screw-retained maxillary rehabilitations; comparable outcomes
 - [[digital-workflow/schlenz-2022-transfer-accuracy-digital-conventional-full-arch]] — transfer accuracy comparison for full-arch digital vs. conventional
 - [[digital-workflow/digital-workflow]] — digital workflow overview
