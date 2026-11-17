@@ -78,7 +78,7 @@ Fine polishing (P3) produced Ra values below the 0.2 µm clinical threshold for 
 
 ## Related Papers
 
-- [[dental-materials/zirconia/pott-2018-zirconia-interface-polishing-mixed-materials]] — polishing mixed zirconia/ceramic interfaces
-- [[dental-materials/zirconia/regulska-2021-3y-tzp-xrd-surface-analysis-monoclinic-gradient]] — XRD monoclinic surface gradient in 3Y-TZP
-- [[dental-materials/zirconia/park-2025-djmt-digital-workflow-zirconia-eccentric-adjustment-rct]] — clinical eccentric adjustment of zirconia with digital workflow
-- [[dental-materials/zirconia/phuntusuntorn-2026-3y-tzp-5y-psz-6y-psz-polishing-hydrothermal-aging]] — polishing and hydrothermal aging across 3Y/5Y/6Y-PSZ
+- [[dental-materials/zirconia/pott-2018-polish-of-interface-areas-between]] — polishing mixed zirconia/ceramic interfaces
+- [[dental-materials/zirconia/regulska-2021-analysis-of-the-surface-condition]] — XRD monoclinic surface gradient in 3Y-TZP
+- [[digital-workflow/park-2025-comparison-of-interference-from-eccentric]] — clinical eccentric adjustment of zirconia with digital workflow
+- [[dental-materials/zirconia/phuntusuntorn-2026-effect-of-surface-adjustment-and]] — polishing and hydrothermal aging across 3Y/5Y/6Y-PSZ
