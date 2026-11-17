@@ -66,6 +66,6 @@ NR = not separately reported in paired comparison text; overall method effect si
 
 ## Related Papers
 
-- [[dental-materials/zirconia/kheur-2022-chairside-grinding-bur-polishing-protocol]] — 지르코니아 연삭·연마 프로토콜 (chairside grinding)
-- [[dental-materials/zirconia/gulmez-2025-speed-sintering-3y-tzp-4y-psz-5y-psz]] — 소결 조건에 따른 지르코니아 특성
-- [[dental-materials/zirconia/gohil-2026-occlusal-wear-single-vs-3-unit-implant-zirconia]] — 임플란트 지지 지르코니아의 교합면 마모
+- [[dental-materials/zirconia/kheur-2022-a-comparative-study-on-simulated]] — 지르코니아 연삭·연마 프로토콜 (chairside grinding)
+- [[dental-materials/zirconia/gulmez-2025-impact-of-sintering-speed-and]] — 소결 조건에 따른 지르코니아 특성
+- [[dental-materials/zirconia/gohil-2026-occlusal-surface-changes-in-single]] — 임플란트 지지 지르코니아의 교합면 마모
