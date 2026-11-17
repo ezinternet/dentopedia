@@ -1086,3 +1086,5 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-11-16 | pesce-2021-residual-bone-height-graft-shrinkage-sinus-sr | other | qmd query 데몬 응답 타임아웃(120s) → 위키링크 후보 탐색을 grep fallback으로 수행; 링크 대상 stem은 ls로 실존 확인 |
 | 2026-11-16 | grasso-2020-equine-vs-bovine-bone-sinus-augmentation-rct | partial-pmc-text | PMC txt lacks Table 1 and reference list; histomorphometric SDs for marrow spaces/residual graft and exact p-values (only 'p>0.05') unavailable |
 | 2026-11-17 | chu-2015-flapless-postextraction-socket-implant-placement-part2 | source-data-issue | User requested PMID 24804283 (Tarnow 2014 Part 1) but uploaded PDF is Part 2 (Chu 2015, doi 10.11607/prd.2178); ingested as Part 2 after confirming mismatch |
+| 2026-11-17 | sane-2026-effectiveness-of-concentrated-growth-factor | empty-pmc-text | PMC13627601 record present but JATS body_len=0 — built from abstract only, full_text:false |
+| 2026-11-17 | krennmair-2025-varying-influence-of-maxillary-sinus | abstract-only | Paywalled (no PMC/OA copy); abstract-only txt built from PubMed E-utilities; erratum doi 10.1111/cid.70054 noted, original study not erratum-only |
