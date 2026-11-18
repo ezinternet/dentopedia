@@ -1,0 +1,580 @@
+<!--
+---
+title: "음주 × 발치·임플란트 — chairside 판독기"
+type: interactive
+date: 2026-11-19
+status: done
+category: systemic-disease
+source_wiki:
+  - wiki/overviews/alcohol-extraction-implant-surgery-risk-overview.md
+  - wiki/implants/survival/boroomand-2026-alcohol-consumption-dental-implant-failure-sr-ma.md
+  - wiki/implants/peri-implantitis/galarraga-vinueza-2025-peri-implant-disease-risk-factors.md
+  - wiki/implants/survival/bhatia-2024-alcohol-consumption-implant-success-retrospective.md
+  - wiki/implants/survival/da-rocha-coelho-2021-evaluation-of-the-association.md
+  - wiki/implants/survival/de-deco-2015-extended-alcohol-intake-osseointegration-rats.md
+  - wiki/implants/survival/doring-2025-postoperative-abstinence-restores-osseointegration.md
+  - wiki/oral-surgery/rech-2021-bleeding-oral-surgery-liver-cirrhosis-sr.md
+  - wiki/oral-surgery/medina-2018-bleeding-dental-extractions-liver-cirrhosis.md
+  - wiki/oral-surgery/fenelon-2023-osteomyelitis-jaw-major-complications-risk-factors.md
+  - wiki/drug/systemic-disease/desai-2023-alcohol-withdrawal-syndrome-head-neck-cancer.md
+tags: [alcohol, ethanol, heavy-drinking, dose-response, implant-failure, peri-implantitis, liver-cirrhosis, bleeding, osteomyelitis, alcohol-withdrawal, dry-socket, counseling, decision-tool]
+agenda: agenda/2026-11-19_alcohol-risk-chairside-tool.md
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>음주 × 발치·임플란트 — chairside 판독기</title>
+<style>
+  :root{
+    --bg:#f4f6f9; --card:#ffffff; --ink:#1a2230; --muted:#5c6778; --line:#dde3ec;
+    --accent:#284b63; --accent-soft:#e8eef4; --teal:#2f7d6d; --teal-soft:#e4f2ee;
+    --warn:#b4452b; --warn-soft:#fbe9e4; --gold:#8a5f00; --gold-soft:#f8efd8;
+    --ok:#1f7a3a; --ok-soft:#e7f4eb; --gap:#5b4b8a; --gap-soft:#eeebf7;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;font-family:"Noto Sans KR",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--bg);color:var(--ink);line-height:1.6;}
+  .wrap{max-width:1000px;margin:0 auto;padding:28px 18px 64px;}
+  header{border-bottom:2px solid var(--accent);padding-bottom:14px;margin-bottom:6px;}
+  h1{margin:0 0 6px;color:var(--accent);font-size:1.75rem;letter-spacing:-.01em;}
+  .sub{margin:0;color:var(--muted);font-size:.9rem;}
+  .sub a{color:var(--accent);}
+  .grid{display:grid;grid-template-columns:1.05fr .95fr;gap:16px;margin-top:18px;}
+  @media (max-width:880px){.grid{grid-template-columns:1fr;}}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px;}
+  .card + .card{margin-top:16px;}
+  h2{margin:0 0 8px;color:var(--accent);font-size:1.12rem;}
+  h3{margin:14px 0 4px;font-size:.98rem;}
+  .lead{margin:0 0 14px;color:var(--muted);font-size:.85rem;}
+  .row{margin-bottom:12px;}
+  label{display:block;font-weight:600;font-size:.88rem;margin-bottom:6px;}
+  select,input[type="number"]{width:100%;padding:10px 11px;border:1px solid var(--line);border-radius:8px;font-size:.92rem;background:#fff;color:var(--ink);}
+  .pair{display:grid;grid-template-columns:1fr 1fr;gap:10px;}
+  .checks{display:grid;grid-template-columns:1fr 1fr;gap:8px;}
+  @media (max-width:560px){.checks,.pair{grid-template-columns:1fr;}}
+  .check{display:flex;gap:8px;align-items:flex-start;padding:9px 10px;border:1px solid var(--line);border-radius:8px;background:#fcfdff;font-size:.85rem;}
+  .check input{margin-top:3px;}
+  .pillrow{display:flex;flex-wrap:wrap;gap:8px;margin:4px 0 10px;}
+  .pill{display:inline-block;padding:4px 10px;border-radius:999px;font-size:.76rem;font-weight:700;}
+  .p-high{background:var(--warn-soft);color:var(--warn);}
+  .p-mod{background:var(--gold-soft);color:var(--gold);}
+  .p-low{background:var(--ok-soft);color:var(--ok);}
+  .p-info{background:var(--accent-soft);color:var(--accent);}
+  .p-gap{background:var(--gap-soft);color:var(--gap);}
+  .tag{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.72rem;font-weight:700;padding:2px 7px;border-radius:6px;white-space:nowrap;}
+  .t-hi{background:var(--warn-soft);color:var(--warn);}
+  .t-md{background:var(--gold-soft);color:var(--gold);}
+  .t-ok{background:var(--ok-soft);color:var(--ok);}
+  .t-unc{background:#eef1f5;color:var(--muted);}
+  .t-gap{background:var(--gap-soft);color:var(--gap);}
+  .finding{border-top:1px solid var(--line);padding:12px 0 2px;}
+  .finding:first-child{border-top:0;padding-top:0;}
+  .finding h4{margin:0 0 4px;font-size:.92rem;color:var(--ink);}
+  .finding p{margin:0;font-size:.86rem;color:#33414f;}
+  .finding .src{display:block;margin-top:4px;font-size:.75rem;color:var(--muted);}
+  .btn{display:inline-block;margin-top:6px;cursor:pointer;border:1px solid var(--accent);background:var(--accent);color:#fff;padding:10px 16px;border-radius:8px;font-weight:700;font-size:.88rem;}
+  .btn:hover{opacity:.92;}
+  .note{margin-top:12px;padding:11px 12px;border-left:3px solid var(--gold);background:#fafbfc;border-radius:0 8px 8px 0;font-size:.79rem;color:var(--muted);}
+  .warnbox{margin-top:10px;padding:11px 12px;border-left:3px solid var(--warn);background:var(--warn-soft);border-radius:0 8px 8px 0;font-size:.82rem;color:#6f2b1c;}
+  .gapbox{margin-top:10px;padding:11px 12px;border-left:3px solid var(--gap);background:var(--gap-soft);border-radius:0 8px 8px 0;font-size:.82rem;color:#3f3465;}
+  table{width:100%;border-collapse:collapse;font-size:.82rem;margin-top:10px;}
+  th,td{border-bottom:1px solid var(--line);padding:8px;text-align:left;vertical-align:top;}
+  th{color:var(--accent);background:var(--accent-soft);font-weight:700;}
+  tr.dim td{opacity:.45;}
+  tr.hit td{background:#fffdf2;}
+  .small{font-size:.76rem;color:var(--muted);}
+  .bars{margin:14px 0 4px;}
+  .brow{display:grid;grid-template-columns:118px 1fr 104px;gap:10px;align-items:center;margin-bottom:9px;font-size:.82rem;}
+  .track{position:relative;height:20px;background:#eef1f5;border-radius:4px;overflow:hidden;}
+  .fill{height:100%;border-radius:4px 0 0 4px;}
+  .f-low{background:#9bc4b8;}
+  .f-null{background:#b9c2cc;}
+  .f-high{background:#d98a72;}
+  .refline{position:absolute;top:-3px;bottom:-3px;left:31.25%;width:0;border-left:1.5px dashed #7b8798;}
+  .axis{display:grid;grid-template-columns:118px 1fr 104px;gap:10px;font-size:.72rem;color:var(--muted);}
+  .axis span:nth-child(2){position:relative;height:14px;}
+  .axis i{position:absolute;font-style:normal;transform:translateX(-50%);}
+  .dual{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:6px;}
+  @media (max-width:720px){.dual{grid-template-columns:1fr;}}
+  .say,.dont{border-radius:10px;padding:14px;}
+  .say{background:var(--ok-soft);border:1px solid #cfe6d7;}
+  .dont{background:#fdf3f0;border:1px solid #f3d7cd;}
+  .say h3,.dont h3{margin:0 0 8px;font-size:.9rem;}
+  .say h3{color:var(--ok);} .dont h3{color:var(--warn);}
+  .say ul,.dont ul{margin:0;padding-left:18px;}
+  .say li,.dont li{font-size:.84rem;margin:5px 0;}
+  .script{background:#fcfdff;border:1px solid var(--line);border-radius:10px;padding:14px;margin-top:10px;}
+  .script p{margin:0 0 9px;font-size:.9rem;}
+  .script p:last-child{margin-bottom:0;}
+  .script .hl{background:linear-gradient(transparent 60%,#fde68a 60%);font-weight:700;}
+  footer{margin-top:20px;font-size:.75rem;color:var(--muted);text-align:center;}
+  details{margin-top:10px;}
+  summary{cursor:pointer;font-size:.84rem;color:var(--accent);font-weight:600;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>음주 × 발치·임플란트 — chairside 판독기</h1>
+    <p class="sub">
+      문진 30초 → <b>무엇을 물을지 / 무엇을 말해도 되는지 / 어디서 근거가 멈추는지</b>.
+      근거: 위키 보유 10편 종합 — <a href="https://ezinternet.github.io/dentopedia/#/page/wiki%2Foverviews%2Falcohol-extraction-implant-surgery-risk-overview" target="_blank" rel="noopener">alcohol-extraction-implant-surgery-risk-overview</a> (2026-11-19).
+      교육·상담 보조용이며 개별 진단·치료를 대체하지 않습니다. <b>이 도구는 위험 점수를 계산하지 않습니다</b> — 보유 근거에 g/day 문턱값이 없기 때문입니다.
+    </p>
+  </header>
+
+  <div class="grid">
+    <section class="card">
+      <h2>1) 문진 입력</h2>
+      <p class="lead">음주는 "예/아니오"가 아니라 <b>양·패턴</b>으로. 이진 문진이 바로 OR 0.87(중립)을 만든 변수입니다.</p>
+
+      <div class="row">
+        <label for="exposure">음주 패턴</label>
+        <select id="exposure">
+          <option value="none">비음주 (현재·과거 모두 해당 없음)</option>
+          <option value="light">경도·사회적 음주 (가끔, 취하지 않음)</option>
+          <option value="moderate" selected>중등도 (규칙적이지만 과음은 아님)</option>
+          <option value="heavy">과량 음주 (주 1회 이상 과음·블랙아웃)</option>
+          <option value="dependent">의존·매일 음주 (끊으면 금단 증상)</option>
+        </select>
+      </div>
+
+      <div class="row">
+        <label for="context">계획 시술</label>
+        <select id="context">
+          <option value="implant-new">임플란트 신규 식립</option>
+          <option value="implant-maint">임플란트 유지관리 (주위염 점검)</option>
+          <option value="extraction" selected>발치 (소켓 치유·건성발치와)</option>
+          <option value="jaw-surgery">악골 수술·골수염·광범위 감염</option>
+          <option value="sedation">진정·전신마취·입원 동반 시술</option>
+        </select>
+      </div>
+
+      <div class="row">
+        <label>함께 볼 전신·행동 인자</label>
+        <div class="checks">
+          <label class="check"><input type="checkbox" id="c_cirrhosis"> 간경변·만성 간질환 진단</label>
+          <label class="check"><input type="checkbox" id="c_smoke"> 현재 흡연</label>
+          <label class="check"><input type="checkbox" id="c_malnut"> 영양실조·최근 체중감소</label>
+          <label class="check"><input type="checkbox" id="c_exposure"> 임플란트 골노출·비치유 창상</label>
+        </div>
+      </div>
+
+      <div class="row" id="labrow">
+        <label>검사값 (있으면 입력 · 없으면 비움)</label>
+        <div class="pair">
+          <input type="number" id="plt" placeholder="혈소판 (×10³/µL)" min="1" max="600" step="1">
+          <input type="number" id="inr" placeholder="INR" min="0.8" max="8" step="0.1">
+        </div>
+      </div>
+
+      <button class="btn" id="run">판독하기</button>
+
+      <div class="note">
+        <b>왜 숫자 점수가 없나</b>: 보유 10편 중 g/day로 음주량을 보고한 연구가 <b>0편</b>입니다. 용량 층(light/moderate/heavy)은 연구마다 정의가 다르고, Döring 2025는 10–15% 에탄올 물, de Deco 2015는 용량 미기재입니다. 따라서 여기서는 "근거 범위 안/밖"만 표시합니다.
+      </div>
+    </section>
+
+    <aside class="card">
+      <h2>2) 판독 결과</h2>
+      <div class="pillrow" id="pills"></div>
+      <div id="findings">
+        <p class="small" style="margin:0;">입력 후 <b>판독하기</b>를 누르세요.</p>
+      </div>
+    </aside>
+  </div>
+
+  <section class="card">
+    <h2>3) 용량이 변수다 — 같은 결과(임플란트 실패) 안에서</h2>
+    <p class="lead">Boroomand 2026 SR+MA (관찰연구 9편). 막대는 교차비 (Odds Ratio, OR), 점선은 OR 1.0(무관).</p>
+
+    <div class="bars">
+      <div class="brow">
+        <div>저·중등도 음주</div>
+        <div class="track"><div class="fill f-low" style="width:12.5%"></div><div class="refline"></div></div>
+        <div><b>OR 0.40</b> <span class="small">(0.21–0.76)</span></div>
+      </div>
+      <div class="brow">
+        <div>전체 음주 (이진)</div>
+        <div class="track"><div class="fill f-null" style="width:27.2%"></div><div class="refline"></div></div>
+        <div><b>OR 0.87</b> <span class="small">(0.50–1.51)</span></div>
+      </div>
+      <div class="brow">
+        <div>과량 음주</div>
+        <div class="track"><div class="fill f-high" style="width:86.9%"></div><div class="refline"></div></div>
+        <div><b>OR 2.78</b> <span class="small">(2.08–3.91)</span></div>
+      </div>
+      <div class="axis">
+        <span></span>
+        <span><i style="left:0">0</i><i style="left:31.25%">1.0</i><i style="left:62.5%">2.0</i><i style="left:93.75%">3.0</i></span>
+        <span></span>
+      </div>
+    </div>
+
+    <div class="note">
+      세 층은 <b>같은 결과</b>입니다. 저·중등도 층의 역방향(0.40)은 저자들이 <b>교란</b>(건강한 음주자 효과 — 소득·치과 방문·비흡연)으로 해석했습니다. <b>"가벼운 음주는 임플란트에 좋다"는 어떤 형태로도 환자에게 말하지 않습니다.</b>
+    </div>
+    <div class="warnbox">
+      <b>반대 신호도 실재한다</b>: da Rocha Coelho 2021 (594명 / 임플란트 2,537개)은 <b>"alcohol abuse"를 이진 변수</b>로 넣었을 때 조기 실패와 무관했습니다(P ≥ .12). 두 연구의 불일치는 대부분 <b>노출 측정 방식</b> 차이입니다 — 용량을 쪼개면 신호가 나타나고, 합치면 사라집니다.
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>4) 근거 카드 — 10편</h2>
+    <p class="lead">선택한 맥락과 무관한 행은 흐리게 표시됩니다. 수치는 모두 <b>집단 추정치</b>이며 개별 환자의 확률이 아닙니다.</p>
+    <table id="evtable">
+      <thead>
+        <tr><th>논문</th><th>설계</th><th>수치</th><th>임상적 의미 / 한계</th></tr>
+      </thead>
+      <tbody>
+        <tr data-ctx="implant-new implant-maint">
+          <td>Boroomand 2026</td><td><span class="tag t-md">SR+MA</span></td>
+          <td>과량 <b>OR 2.78</b> (2.08–3.91) / 전체 0.87 (0.50–1.51) / 저·중등도 0.40 (0.21–0.76)</td>
+          <td>실패 신호는 <b>과량에만</b>. 9편 모두 관찰연구, g/day 문턱값 없음.</td>
+        </tr>
+        <tr data-ctx="implant-maint">
+          <td>Galarraga-Vinueza 2025</td><td><span class="tag t-md">SR+MA</span></td>
+          <td>주위염 <b>OR 2.07</b> (1.49–2.85), I²=0.0%, 3편, Egger p=0.271</td>
+          <td>방향은 같지만 <b>다른 결과</b>(질환). 3편뿐 → 저자 표현 "제한적 근거".</td>
+        </tr>
+        <tr data-ctx="implant-new implant-maint">
+          <td>Bhatia 2024</td><td><span class="tag t-unc">후향</span></td>
+          <td>주위염 <b>과량 46.2% vs 저·중등도 11.5%</b>, 중앙 발생 31.3 ± 22.2개월</td>
+          <td>절대 발생률이라 상담에 유용. <b>표본 수 미기재</b> → 위험 추정치로 쓰지 말 것.</td>
+        </tr>
+        <tr data-ctx="implant-new">
+          <td>da Rocha Coelho 2021</td><td><span class="tag t-unc">후향</span></td>
+          <td>2,537 임플란트, EIF 5.68%, alcohol abuse <b>P ≥ .12</b> (두 수준 모두)</td>
+          <td>반대 신호. 이진 노출 + <b>조기 실패만</b> 본 결과 — 용량을 안 쪼갠 설계.</td>
+        </tr>
+        <tr data-ctx="implant-new">
+          <td>de Deco 2015</td><td><span class="tag t-ok">동물</span></td>
+          <td>래트 35마리(분석 27), 노출 0·3·4·5·6개월 → <b>BIC 단조 감소</b>, 치근단부 최대</td>
+          <td>기전: 기간이 길수록 골접촉↓. Ca 정상·인산 상승 → 단순 광물 결핍 아님.</td>
+        </tr>
+        <tr data-ctx="implant-new extraction">
+          <td>Döring 2025</td><td><span class="tag t-ok">동물</span></td>
+          <td>마우스 10–15% 에탄올 3개월 → <b>수술 시점 금주</b> 시 골형성·계면강도 대조군 수준</td>
+          <td><b>정형외과 모델</b>(경골, 구강 세균막 없음). 술전 금주 <b>기간</b>을 정당화하지 않음.</td>
+        </tr>
+        <tr data-ctx="extraction jaw-surgery">
+          <td>Rech 2021</td><td><span class="tag t-md">SR</span></td>
+          <td>7편, 혈소판 16,000–216,000/mm³, INR &lt;4, 출혈 <b>0–8.9%</b></td>
+          <td>국소 지혈로 대부분 조절 → "간경변 = 수혈" 기본값 아님.</td>
+        </tr>
+        <tr data-ctx="extraction">
+          <td>Medina 2018</td><td><span class="tag t-unc">후향</span></td>
+          <td>190내원/333치아, 술중 6.31%·술후 12건, <b>국소지혈 초과 0건</b>; 혈소판 P=0.026, adj R²=0.16</td>
+          <td>혈소판 <b>수</b>는 16%만 설명 → 기능 문제. 16k 이상 + INR &lt;3이면 술전 수혈 불필요.</td>
+        </tr>
+        <tr data-ctx="jaw-surgery">
+          <td>Fenelon 2023</td><td><span class="tag t-unc">후향</span></td>
+          <td>54명, 주요합병증 17명(31.5%); 음주 <b>41.2% vs 10.8%</b> (p=0.025)</td>
+          <td>흡연(p=0.018)·영양실조(p=0.027)와 동반, <b>다변수 보정 없음</b> → "숙주 예비력" 묶음으로.</td>
+        </tr>
+        <tr data-ctx="sedation extraction jaw-surgery">
+          <td>Desai 2023</td><td><span class="tag t-unc">논평</span></td>
+          <td>금단 = 의료·수술 합병증↑, 재원기간↑, 비용↑ (수치 미보고)</td>
+          <td>방향만. 치과용 프로토콜·용량 없음 → 할 일은 <b>선별과 의뢰</b>.</td>
+        </tr>
+      </tbody>
+    </table>
+    <div class="gapbox">
+      <b>표에 없는 것 — 건성발치와</b>: 발치 후 가장 흔한 합병증인데, 위키가 보유한 위험인자 문헌은 <b>음주를 변수로 측정하지 않습니다</b>. "음주가 건성발치와를 늘린다"도, "무관하다"도 이 위키는 말할 수 없습니다 — 후자는 측정 자체가 없기 때문입니다.
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>5) 말해도 되는 것 / 말하면 안 되는 것</h2>
+    <div class="dual">
+      <div class="say">
+        <h3>✓ 근거가 받쳐주는 문장</h3>
+        <ul>
+          <li>과량 음주는 임플란트 <b>실패</b>와 연관 (OR 2.78) — 흡연과 같은 자리에서 상담</li>
+          <li>임플란트 <b>주위염</b>도 별도로 연관 (OR 2.07) — 시점이 더 늦다</li>
+          <li>"음주 여부"로 물으면 신호가 사라진다 (전체 OR 0.87) → <b>양·패턴</b>으로 문진</li>
+          <li>간경변 출혈은 0–8.9%, <b>국소지혈로 조절</b> — 수혈 기본값 아님</li>
+          <li>과량 음주 + 진정/GA/입원 → <b>금단 위험</b>, 내과·중독의학과 의뢰</li>
+          <li>건성발치와는 <b>근거 공백</b>이라고 말하는 것</li>
+        </ul>
+      </div>
+      <div class="dont">
+        <h3>✗ 하지 말아야 할 말</h3>
+        <ul>
+          <li>"가벼운 음주는 임플란트에 좋습니다" — OR 0.40은 교란</li>
+          <li>"수술 전 2주 금주하세요" — 그 기간을 시험한 연구 없음</li>
+          <li>"술 끊으면 100% 성공합니다" — 관찰연구, 인과 아님</li>
+          <li>"음주가 건성발치와를 만듭니다" — 측정된 적 없음</li>
+          <li>"혈소판 정상이니 출혈 없습니다" — 수치는 16%만 설명</li>
+          <li>"간경변 환자는 발치 금지입니다" — 출혈은 국소로 조절됨</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>6) 환자 설명 스크립트 (자동 구성)</h2>
+    <p class="lead">선택한 패턴·시술·인자에 맞춰 문장을 조립합니다. 그대로 읽지 말고 환자 말로 바꿔 쓰세요.</p>
+    <div class="script" id="script"></div>
+    <details>
+      <summary>이 스크립트가 인용하는 근거 보기</summary>
+      <p class="small" style="margin:8px 0 0;">
+        Boroomand 2026 (실패 OR) · Galarraga-Vinueza 2025 (주위염 OR) · Bhatia 2024 (발생률, 표본 수 미기재) · da Rocha Coelho 2021 (반대 신호) · de Deco 2015 (BIC) · Döring 2025 (수술 시점 금주, 정형외과) · Rech 2021 / Medina 2018 (간경변 출혈) · Fenelon 2023 (골수염) · Desai 2023 (금단).
+        전체 해석: <a href="https://ezinternet.github.io/dentopedia/#/page/wiki%2Foverviews%2Falcohol-extraction-implant-surgery-risk-overview" target="_blank" rel="noopener">overview</a>.
+      </p>
+    </details>
+  </section>
+
+  <footer>LLM Wiki interactive · 2026-11-19 · light-only · evidence-grounded decision aid · 근거 10편 / 위험 점수 없음</footer>
+</div>
+
+<script>
+/* llm-wiki cache-refresh */
+const PAGE_VERSION = '20261119-v1';
+const _VK = 'alcohol_extraction_implant_ver';
+const _HK = 'alcohol_extraction_implant_hidden';
+
+try {
+  const sv = localStorage.getItem(_VK);
+  if (sv && sv !== PAGE_VERSION) { localStorage.setItem(_VK, PAGE_VERSION); location.reload(true); }
+  else localStorage.setItem(_VK, PAGE_VERSION);
+} catch(e) {}
+document.addEventListener('visibilitychange', function () {
+  if (document.hidden) {
+    try { localStorage.setItem(_HK, Date.now()); } catch(e) {}
+  } else {
+    try {
+      var ht = parseInt(localStorage.getItem(_HK) || '0', 10);
+      if (ht && (Date.now() - ht) > 30 * 60 * 1000) {
+        localStorage.setItem(_HK, '0');
+        location.reload(true);
+      }
+    } catch(e) {}
+  }
+});
+
+(function(){
+  var $ = function(id){ return document.getElementById(id); };
+  var expEl = $('exposure'), ctxEl = $('context');
+  var pills = $('pills'), findings = $('findings'), script = $('script');
+
+  function pill(text, cls){
+    var s = document.createElement('span');
+    s.className = 'pill ' + cls;
+    s.textContent = text;
+    pills.appendChild(s);
+  }
+
+  function finding(title, tagText, tagCls, bodyHtml, src){
+    var d = document.createElement('div');
+    d.className = 'finding';
+    var h = document.createElement('h4');
+    h.innerHTML = title + ' <span class="tag ' + tagCls + '">' + tagText + '</span>';
+    var p = document.createElement('p');
+    p.innerHTML = bodyHtml;
+    d.appendChild(h); d.appendChild(p);
+    if (src) {
+      var s = document.createElement('span');
+      s.className = 'src';
+      s.innerHTML = src;
+      d.appendChild(s);
+    }
+    findings.appendChild(d);
+  }
+
+  function para(text){
+    var p = document.createElement('p');
+    p.innerHTML = text;
+    script.appendChild(p);
+  }
+
+  function build(){
+    pills.innerHTML = '';
+    findings.innerHTML = '';
+    script.innerHTML = '';
+
+    var e = expEl.value, ctx = ctxEl.value;
+    var cirrh = $('c_cirrhosis').checked,
+        smoke = $('c_smoke').checked,
+        malnut = $('c_malnut').checked,
+        exposed = $('c_exposure').checked;
+    var plt = parseFloat($('plt').value), inr = parseFloat($('inr').value);
+
+    /* ---------- exposure pill + first finding ---------- */
+    if (e === 'none') {
+      pill('비음주', 'p-low');
+    } else if (e === 'light') {
+      pill('경도·사회적', 'p-low');
+    } else if (e === 'moderate') {
+      pill('중등도', 'p-mod');
+    } else if (e === 'heavy') {
+      pill('과량 음주', 'p-high');
+    } else {
+      pill('의존·매일 음주', 'p-high');
+    }
+
+    var ctxLabels = {
+      'implant-new': '임플란트 신규',
+      'implant-maint': '임플란트 유지관리',
+      'extraction': '발치',
+      'jaw-surgery': '악골 수술',
+      'sedation': '진정·전신마취'
+    };
+    pill(ctxLabels[ctx] || '시술', 'p-info');
+    if (cirrh) pill('간경변', 'p-mod');
+    if (smoke) pill('흡연', 'p-mod');
+    if (malnut) pill('영양실조', 'p-mod');
+
+    if (e === 'heavy') {
+      finding('실패 위험 — 과량 층', '수렴', 't-hi',
+        '과량 음주에서 임플란트 실패 <b>OR 2.78</b> (95% CI 2.08–3.91). 전체 음주군은 0.87로 중립이므로, 이 환자에게 의미 있는 것은 "음주"가 아니라 <b>"과량"</b>입니다.',
+        'Boroomand 2026 SR+MA · 관찰연구 9편 · 인과 아님');
+    } else if (e === 'dependent') {
+      finding('최우선 — 금단이 치유보다 급하다', '방향 근거', 't-unc',
+        '매일 음주·금단 증상은 술후 합병증·재원기간·비용 증가와 연관됩니다. 치과의 역할은 프로토콜 시행이 아니라 <b>선별과 의뢰</b>입니다.',
+        'Desai 2023 논평 · 수치·용량 미보고');
+      finding('실패 위험 — 과량과 같은 층으로 취급', '수렴', 't-hi',
+        '의존 음주는 사실상 과량 층에 속합니다. 실패 <b>OR 2.78</b> (2.08–3.91)을 같은 상담에 넣으세요.',
+        'Boroomand 2026');
+    } else if (e === 'moderate' || e === 'light') {
+      finding('저·중등도 — 역방향 연관은 함정', '불일치', 't-unc',
+        '저·중등도 층 <b>OR 0.40</b> (0.21–0.76)은 보호효과가 아니라 <b>교란</b>으로 해석됩니다(소득·치과 방문·비흡연). 이 층을 근거로 안심시키지도, "적당히 마시면 좋다"고 말하지도 않습니다.',
+        'Boroomand 2026 · 저자 해석');
+    } else {
+      finding('비음주 — 물을 것이 남아 있다', '문진', 't-md',
+        '과거 <b>기간</b>과 총량을 물으세요. 래트에서 노출 기간이 길수록 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC)이 단조 감소했습니다.',
+        'de Deco 2015 동물 · 치근단부 결손 최대');
+    }
+
+    /* ---------- context findings ---------- */
+    if (ctx === 'implant-new') {
+      finding('골유착 — 용량 의존', '동물 기전', 't-ok',
+        '노출 기간이 길수록 BIC가 낮아지고 결손은 <b>치근단부</b>에 집중됩니다. 혈청 Ca은 정상, 인산은 상승 — 단순 광물 결핍이 아니라 <b>리모델링 교란</b>입니다.',
+        'de Deco 2015 · 래트 35마리(분석 27)');
+      finding('가역성 — 있지만 프로토콜은 아니다', '동물 기전', 't-ok',
+        '마우스에서 수술 <b>시점</b>에 에탄올을 끊자 골형성·계면강도가 대조군 수준으로 회복. 단 정형외과(경골) 모델이고 금주는 수술 시점에 시작 — <b>술전 며칠을 말해주지 않습니다</b>.',
+        'Döring 2025 · 10–15% 에탄올 3개월');
+    }
+    if (ctx === 'implant-maint' || ctx === 'implant-new') {
+      finding('임플란트주위염 — 별도 결과', '제한적 근거', 't-md',
+        '주위염 <b>OR 2.07</b> (1.49–2.85, I²=0.0%, 3편). 실패와 같은 방향이지만 <b>다른 결과</b>이고 시점이 늦습니다. 단일 코호트에서는 과량 46.2% vs 저·중등도 11.5%, 중앙 31.3개월.',
+        'Galarraga-Vinueza 2025 · Bhatia 2024 (표본 수 미기재)');
+    }
+    if (ctx === 'extraction') {
+      finding('건성발치와 — 근거가 없다', '근거 공백', 't-gap',
+        '보유한 발치와 위험인자 문헌은 <b>음주를 변수로 측정하지 않았습니다</b>. 연관을 주장할 근거도, 무관을 주장할 근거도 없습니다. 환자에게는 <b>모른다</b>고 말하는 것이 정확합니다.',
+        '문헌 공백 · 흡연·난발치가 지배적 변수');
+    }
+    if (ctx === 'jaw-surgery') {
+      finding('골수염 주요합병증 — 숙주 예비력', '단일변수', 't-md',
+        '주요합병증군에서 음주 <b>41.2% vs 10.8%</b> (p=0.025). 같은 표에 흡연(76.5% vs 37.8%, p=0.018)·영양실조(17.6% vs 0%, p=0.027)·최근 임플란트(41.2% vs 5.4%, p=0.003)가 있고 <b>다변수 보정이 없습니다</b> — 하나의 "숙주 예비력" 묶음으로 읽으세요.',
+        'Fenelon 2023 · 54명 / 17사건');
+      if (exposed) {
+        finding('골노출 = 불응성 과정', '예후 인자', 't-hi',
+          '임상적 골노출은 불응성 경과와 연관(p=0.030). 과량 음주자의 비치유 임플란트 부위는 <b>watch-and-wait 대상이 아닙니다</b>.',
+          'Fenelon 2023');
+      }
+    }
+    if (ctx === 'sedation') {
+      finding('금단 — 진정·전신마취 전 필수 확인', '방향 근거', 't-unc',
+        '과량 음주력은 알코올 금단 증후군 (Alcohol Withdrawal Syndrome, AWS) 위험입니다. 계획에 진정·전신마취·입원이 있으면 그 정보는 <b>내과·중독의학과로</b> 넘어가야 합니다. 위키는 중증도 척도·벤조디아제핀 용량을 보유하지 않습니다.',
+        'Desai 2023');
+    }
+
+    /* ---------- bleeding panel ---------- */
+    var labCtx = cirrh || (!isNaN(plt)) || (!isNaN(inr));
+    if (labCtx) {
+      var pltOk = (!isNaN(plt) ? plt >= 16 : null);
+      var inrVal = (!isNaN(inr) ? inr : null);
+      var body, tagTxt, tagCls, srcTxt = 'Rech 2021 SR · Medina 2018 (190내원/333치아)';
+
+      if (inrVal !== null && inrVal >= 4) {
+        tagTxt = '근거 범위 밖'; tagCls = 't-hi';
+        body = 'INR ' + inrVal + ' — 보유 SR의 포함 기준(&lt;4) <b>밖</b>입니다. 이 영역에 대한 이 위키의 근거는 없습니다. <b>혈액내과 협진</b>이 먼저이고, 국소지혈 계획은 그다음입니다.';
+      } else if ((pltOk === false) || (inrVal !== null && inrVal >= 3)) {
+        tagTxt = '경계'; tagCls = 't-md';
+        body = (pltOk === false ? '혈소판 ' + plt + '×10³/µL — 두 연구의 하한(16,000/mm³) <b>미만</b>. ' : '')
+             + (inrVal !== null && inrVal >= 3 && inrVal < 4 ? 'INR ' + inrVal + ' — Rech SR 범위(&lt;4) 안이지만 Medina 코호트 기준(INR &lt;3) <b>밖</b>. ' : '')
+             + '<b>협진을 고려</b>하고, 국소지혈(봉합·지혈제·스플린트·압박·재내원 경로)을 계획하세요.';
+      } else if (pltOk === true && inrVal !== null && inrVal < 3) {
+        tagTxt = '근거 범위 안'; tagCls = 't-ok';
+        body = '혈소판 ≥16,000/mm³ + INR &lt;3 — Medina 2018 기준으로 <b>술전 수혈이 기본값이 아닙니다</b>. 국소지혈 계획으로 진행. 단 혈소판 <b>수</b>는 출혈의 16%(adj R²=0.16)만 설명하므로, 수치가 정상이어도 술중 출혈은 날 수 있습니다.';
+      } else {
+        tagTxt = '판정 보류'; tagCls = 't-unc';
+        body = '혈소판과 INR을 <b>둘 다</b> 입력해야 경계 판정이 됩니다(Medina 기준: 혈소판 ≥16 + INR &lt;3). 한쪽만으로는 이 위키의 근거 범위를 판정할 수 없습니다.';
+      }
+
+      finding('출혈 — 간경변/혈액학적 맥락', tagTxt, tagCls, body, srcTxt);
+      finding('출혈이 나도 대부분 국소로 끝난다', '수렴', 't-ok',
+        'SR 7편에서 출혈 <b>0–8.9%</b>(혈소판 16,000–216,000/mm³, INR &lt;4), 단일 코호트 190내원에서 술중 6.31%·술후 12건 — <b>국소지혈을 초과한 사건 0건</b>.',
+        'Rech 2021 · Medina 2018');
+    }
+
+    /* ---------- co-factor note ---------- */
+    if (smoke || malnut) {
+      var co = [];
+      if (smoke) co.push('현재 흡연');
+      if (malnut) co.push('영양실조·체중감소');
+      finding('동반 인자 — 분리 불가', '교란', 't-unc',
+        co.join(' · ') + ' — 악골 골수염 데이터에서 음주는 흡연·영양실조와 <b>같은 표에</b> 있고 보정되지 않았습니다. 세 인자를 하나의 숙주 위험으로 묶어 상담하세요.',
+        'Fenelon 2023 · 다변수 모델 없음');
+    }
+
+    /* ---------- script ---------- */
+    para('말씀드릴 내용은 연구 근거에 기반한 일반적인 정보이고, 개인 상태에 따라 달라집니다.');
+
+    if (e === 'heavy' || e === 'dependent') {
+      para('지금 드시는 양은 임플란트를 잃을 가능성과 관련이 있습니다. 연구에서는 과량 음주하는 분들이 임플란트를 잃을 확률이 약 <b>2~3배</b>였고, 임플란트 주위에 염증이 생기는 비율도 더 높았습니다.');
+      para('중요한 것은 "술을 드시느냐"가 아니라 <b>얼마나 자주, 얼마나 많이</b>이기 때문에 여쭤보는 것입니다. 술을 줄이거나 끊는 것이 도움이 될 가능성은 있지만, 몇 배 좋아진다고 약속드릴 수는 없습니다.');
+    } else if (e === 'light' || e === 'moderate') {
+      para('가끔 드시는 정도는 이 연구들에서 임플란트 실패와 뚜렷한 관련이 없었습니다. 다만 이것은 <b>"술이 임플란트에 좋다"는 뜻이 아닙니다</b> — 연구마다 음주량을 재는 방식이 달라서, 안전하다고 말할 수 있는 용량은 알 수 없습니다.');
+    } else {
+      para('현재는 드시지 않는다고 하셨습니다. 혹시 과거에 많이 드신 시기가 있었다면 말씀해 주세요 — 동물 연구에서는 음주 기간이 길수록 임플란트와 뼈가 붙는 면적이 줄었습니다.');
+    }
+
+    if (ctx === 'extraction') {
+      para('발치 후에 생기는 마른 소켓(건성발치와)과 음주의 관계는 아직 연구가 없습니다. 그래서 저는 "술 때문에 생긴다"거나 "술은 상관없다"고 단정해서 말씀드리지 않습니다. 대신 흡연이나 어려운 발치처럼 알려진 요인을 줄이고, 발치 후 관리 지침을 지키는 것이 지금 할 수 있는 일입니다.');
+    }
+    if (ctx === 'implant-new' || ctx === 'implant-maint') {
+      para('임플란트는 뼈와 붙는 과정과, 붙은 뒤 잇몸 주변을 관리하는 과정이 따로 있습니다. 음주는 두 쪽 모두에 관련이 있다는 보고가 있지만, 특히 <b>많이 드시는 경우</b>에 신호가 뚜렷합니다. 정기 점검과 구강위생이 그만큼 중요해집니다.');
+    }
+    if (ctx === 'jaw-surgery') {
+      para('뼈 감염이 있는 상태에서는 몸의 회복 여력이 중요합니다. 음주, 흡연, 영양 상태가 함께 영향을 주는 것으로 보고되어 있어서, 수술 전에 이 세 가지를 같이 확인합니다.');
+      if (exposed) para('지금처럼 뼈가 드러나 있는 부위는 회복이 더디게 진행될 수 있어, 경과를 지켜보기만 하지 않고 더 적극적으로 확인할 예정입니다.');
+    }
+    if (labCtx) {
+      if (tagTxt === '근거 범위 안') {
+        para('간경변이 있으시더라도, 현재 혈소판과 응고 수치(INR) 범위에서는 연구상 대부분 <b>국소 지혈</b>로 출혈이 조절되었습니다. 수혈을 미리 준비해야 한다는 뜻은 아닙니다. 다만 출혈이 생길 수 있어 지혈 계획을 세우고, 집에 가셔서 출혈이 계속되면 바로 연락 주시도록 안내드립니다.');
+      } else if (tagTxt === '경계') {
+        para('현재 수치는 이 연구들이 다룬 범위의 경계에 있습니다. 출혈 위험을 낮추기 위해 지혈 계획을 세우고, 필요하면 내과 선생님과 상의하겠습니다.');
+      } else if (tagTxt === '근거 범위 밖') {
+        para('현재 응고 수치는 제가 가진 연구들의 범위를 벗어납니다. 발치 전에 내과·혈액내과 선생님과 먼저 상의하는 것이 안전합니다.');
+      }
+    }
+    if ((e === 'heavy' || e === 'dependent') && (ctx === 'sedation' || $('c_cirrhosis').checked)) {
+      para('그리고 한 가지 더 — 술을 매일 드시던 분이 갑자기 끊으면 몸에 금단 증상이 생길 수 있습니다. 이건 치과에서 혼자 관리할 부분이 아니라서, 진정이나 전신마취가 필요한 경우에는 담당 내과 선생님께 미리 말씀드리는 것이 좋습니다.');
+    }
+    if (e === 'heavy' || e === 'dependent') {
+      para('몇 주 전부터 끊으라고 구체적으로 말씀드리지는 않겠습니다. 그 기간을 비교한 연구가 아직 없기 때문입니다. 대신 줄이거나 끊는 것을 목표로 함께 계획을 세우고, 필요하면 상담 기관을 안내드리겠습니다.');
+    }
+
+    /* ---------- evidence table highlighting ---------- */
+    var rows = document.querySelectorAll('#evtable tbody tr');
+    for (var i = 0; i < rows.length; i++) {
+      var tags = (rows[i].getAttribute('data-ctx') || '').split(' ');
+      var match = tags.indexOf(ctx) !== -1;
+      rows[i].className = match ? 'hit' : 'dim';
+    }
+  }
+
+  $('run').addEventListener('click', build);
+  ['exposure','context','c_cirrhosis','c_smoke','c_malnut','c_exposure','plt','inr'].forEach(function(id){
+    $(id).addEventListener('change', build);
+  });
+  build();
+})();
+</script>
+</body>
+</html>

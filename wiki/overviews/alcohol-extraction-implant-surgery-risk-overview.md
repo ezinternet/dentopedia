@@ -42,6 +42,10 @@ relations:
 > - **결론 9 — 가장 큰 근거 공백: 건성발치와 (Dry Socket, Alveolar Osteitis).** 발치 후 최대 흔한 합병증인데, 건성발치와 위험인자 문헌(36편 확인)은 **음주를 변수로 측정하지 않는다** — 흡연·경구피임제·난발치가 지배적이다. "음주가 건성발치와를 늘린다"는 이 위키는 **주장할 수 없다**.
 > - **실행 요약**: (a) 음주는 "예/아니오"가 아니라 **양·패턴**으로 문진 (b) 과량군은 흡연과 같은 자리에 두고 술전 상담 (c) 간경변 병력은 INR·혈소판 확인 + 국소지혈 계획, 수혈 기본값 아님 (d) 과량 음주력은 금단 위험으로 보고 의뢰 (e) "가벼운 음주가 임플란트를 보호한다"는 어떤 형태로도 환자에게 말하지 않는다.
 
+> [!tip] Chairside 도구
+> **[[interactives/2026-11-19_alcohol-extraction-implant-decision-tool]]** — 음주 패턴 5단계 + 시술 + 간경변/혈소판/INR을 넣으면 결과 카드(골유착·주위염·출혈·감염·금단·건성발치와)와 환자 스크립트를 조립한다. **위험 점수는 계산하지 않는다** — 보유 10편에 g/day 문턱값이 없기 때문에, 도구가 표시하는 것은 "근거 범위 안/경계/범위 밖"뿐이다.
+
+
 ## Three-line Summary
 
 Synthesis of 10 held papers answering what alcohol changes about tooth extraction and implant surgery: three meta-analyses / systematic reviews, three retrospective cohorts, two animal experiments, one review-commentary, and one contradicting cohort.
@@ -169,7 +173,31 @@ What can honestly be said: alcohol impairs bone healing in animal models, and bo
 - A multivariable model separating alcohol from smoking and malnutrition in jaw infection.
 - Peri-implantitis data with dose stratification — the current OR 2.07 rests on three studies with binary exposure.
 
+## 10. Chairside use — from page to 30-second decision
+
+The tool at [[interactives/2026-11-19_alcohol-extraction-implant-decision-tool]] is the executable form of this page. It asks five things (drinking pattern, planned procedure, cirrhosis, smoking/malnutrition, sedation), then returns outcome-specific cards instead of a score. The reason it draws no risk percentage is stated on its face: no held study reports grams of ethanol per day, so any numeric risk output would be invented.
+
+The one place it does make a judgement is the bleeding panel, because two held sources give explicit denominators and thresholds:
+
+| Platelets (×10³/µL) | INR | Reading |
+|---|---|---|
+| ≥ 16 | < 3 | Within the Medina 2018 range — transfusion is not the default; plan local haemostasis |
+| ≥ 16 | 3–3.9 | Inside the Rech 2021 review (< 4) but outside the Medina cohort criterion — refer and plan local measures |
+| < 16 | any | Below both sources' lower bound — outside the held evidence; haematology input first |
+| any | ≥ 4 | Outside the Rech 2021 inclusion criterion — outside the held evidence |
+
+**What to say, and what not to say.** The most reusable artifact of this synthesis is the boundary between the two columns; the tool reproduces it, and it is worth keeping on the wall.
+
+| Say | Do not say |
+|---|---|
+| Heavy drinking is associated with implant failure (OR 2.78) and peri-implantitis (OR 2.07) | "Light drinking is good for implants" — OR 0.40 is confounding |
+| "How much, how often" — the binary question produces the null (OR 0.87) | "Stop two weeks before surgery" — no held study tests a pre-operative window |
+| Cirrhotic bleeding is 0–8.9% and usually controlled locally | "Cirrhosis means no extraction" / "platelets are normal, so no bleeding" |
+| Heavy intake + sedation/GA → withdrawal risk, refer | "Alcohol causes dry socket" — never measured |
+
 ## Related Papers
+
+- [[interactives/2026-11-19_alcohol-extraction-implant-decision-tool]] — this page as a chairside tool (5-step intake → outcome cards → patient script).
 
 - [[overviews/systemic-host-risk-factors-implant-survival-overview]] — the parent risk-stratification hub; alcohol was absent from it before this synthesis.
 - [[overviews/peri-implantitis-risk-assessment-overview]] — where the OR 2.07 now sits among the other peri-implantitis indicators.
