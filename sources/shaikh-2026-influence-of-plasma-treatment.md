@@ -18,6 +18,22 @@ Systematic review + meta-analysis of 14 in vitro studies (search through Jan 202
 ## 한줄요약
 SR+MA (14개 연구, 검색일 2026-01): 플라즈마 처리가 지르코니아 전단결합강도를 미처리 대비 유의하게 향상(SMD 3.04; 95% CI 1.76-4.32); 공기분사연마(Airborne Particle Abrasion, APA)와 동등; 냉온 대기압 플라즈마(Cold Atmospheric Plasma, CAP) + 10-MDP 프라이머 병용이 최고 효과.
 
+## Three-line Summary
+
+Shaikh et al. (2026) published the first PROSPERO-registered systematic review and meta-analysis (CRD42025640563) synthesising 14 in vitro studies on plasma surface treatment of dental zirconia, assessing effects on shear bond strength (SBS) and hydrophilicity. All 14 studies were in vitro, published between 2016 and 2024, covering diverse plasma types (cold atmospheric plasma, atmospheric pressure plasma jet, dielectric barrier discharge), gases (argon, helium, air, oxygen), and exposure conditions.
+
+Meta-analysis demonstrated that plasma treatment significantly improves zirconia shear bond strength versus untreated surfaces (SMD 3.04; 95% CI 1.76–4.32; p<0.0001), with high heterogeneity (I²=89%). Comparison against sandblasting showed no statistically significant difference in the primary analysis (SMD 0.89, p=0.18), though sensitivity analysis excluding the directionally discordant Kim 2024 study (which found composition-dependent effects in 3Y-TZP) yielded significance (SMD 1.49, p=0.01). The combination of cold atmospheric plasma (CAP) with 10-MDP primer emerged as the optimal protocol for immediate and aged bond strength.
+
+The finding that plasma does not alter bulk zirconia crystal structure or induce phase transformation—unlike sandblasting—positions plasma as a potentially preferable alternative for bioCAD/CAM zirconia systems where structural integrity is a priority. All evidence was in vitro; no clinical studies were identified, and high heterogeneity (I²≥87% across all comparisons) limits pooled estimate interpretation. Future standardisation of plasma parameters and clinical trial evidence remain major research needs.
+
+## 세줄요약
+
+샤이크 등(2026)은 최초 PROSPERO 등록 SR+MA(CRD42025640563)로 치과용 지르코니아 플라즈마 표면 처리에 관한 14개 시험관 내 연구(2016–2024)를 종합해 전단결합강도(Shear Bond Strength, SBS)와 친수성에 대한 효과를 메타분석했다. 냉온 대기압 플라즈마(Cold Atmospheric Plasma, CAP), 대기압 플라즈마 젯(Atmospheric Pressure Plasma Jet, APPJ), 유전체 장벽 방전 등 다양한 플라즈마 유형과 가스 조건을 포함했다.
+
+메타분석 결과: 플라즈마 처리는 미처리 대비 지르코니아 SBS를 유의하게 향상시켰다(SMD 3.04; 95% CI 1.76–4.32; p<0.0001). 공기분사연마(Airborne Particle Abrasion, APA) 대비 비교에서는 1차 분석 비유의(SMD 0.89, p=0.18), 민감도 분석에서 유의(SMD 1.49, p=0.01). 냉온 대기압 플라즈마(CAP) + 10-MDP 프라이머 병용이 즉시 및 에이징 후 결합강도 최고값을 보였다.
+
+플라즈마 처리가 지르코니아 결정 구조 변화나 상전이를 유발하지 않는다는 점은 APA와의 중요한 차별점이다. 그러나 14편 모두 시험관 내 연구이고 이질성이 매우 높아(I²≥87%), 임상 연구와 프로토콜 표준화가 시급한 과제로 남는다.
+
 ## 1. Document Information
 - Journal: Cureus 2026;18(3):e105752
 - PMID: 42037895 | PMC: PMC13104016 | DOI: 10.7759/cureus.105752
