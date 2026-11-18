@@ -6,7 +6,7 @@ date: 2024-06-01
 doi: "10.1002/14651858.CD007693.pub3"
 source: wong-2024-topical-fluoride-cause-dental-fluorosis.md
 category: [caries]
-confidence: sr
+evidence_level: sr
 text_path: /Users/oracleneo/llm-wiki/papers/wong-2024-topical-fluoride-cause-dental-fluorosis.txt
 text_filename: wong-2024-topical-fluoride-cause-dental-fluorosis.txt
 source_collection: pubmed-text
