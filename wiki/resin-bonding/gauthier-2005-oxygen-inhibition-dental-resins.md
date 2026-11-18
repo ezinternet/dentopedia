@@ -6,7 +6,7 @@ date: 2005-08-01
 doi: "10.1177/154405910508400808"
 source: gauthier-2005-oxygen-inhibition-dental-resins.md
 category: resin-bonding
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-abstract
 tags: [oxygen-inhibition, degree-of-conversion, raman-spectroscopy, viscosity, filler]
 relations:
