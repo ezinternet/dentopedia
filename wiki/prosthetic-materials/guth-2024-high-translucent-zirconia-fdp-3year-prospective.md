@@ -6,7 +6,7 @@ date: 2024-12-16
 doi: "10.1007/s00784-024-06084-5"
 source: guth-2024-high-translucent-zirconia-fdp-3year-prospective.md
 category: [prosthetic-materials]
-confidence: prospective
+evidence_level: prospective
 text_path: /Users/oracleneo/llm-wiki/papers/guth-2024-high-translucent-zirconia-fdp-3year-prospective.txt
 text_filename: guth-2024-high-translucent-zirconia-fdp-3year-prospective.txt
 source_collection: pubmed-text
