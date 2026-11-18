@@ -1,6 +1,6 @@
 <!--
 ---
-title: "고딕아치 세미나 — 3장 요약 카드"
+title: "고딕아치 세미나 — 세 장짜리 이야기"
 type: interactive
 date: 2026-11-18
 status: done
@@ -20,12 +20,12 @@ agenda: agenda/2026-11-18_gothic-arch-seminar-3card-brief.md
 <html lang="ko">
 <head>
 <meta charset="utf-8">
-<title>고딕아치 세미나 — 3장 요약 카드</title>
+<title>고딕아치 세미나 — 세 장짜리 이야기</title>
 <style>
   @page { size: A4 portrait; margin: 0; }
   :root{
-    --ink:#14181c; --sub:#5a6470; --line:#d6dbe1; --accent:#0f766e;
-    --accent-soft:#e6f2f0; --warn:#9a3412; --warn-soft:#fdf3ee; --bg:#fff;
+    --ink:#1c2126; --sub:#616b76; --line:#dfe3e7; --accent:#0f766e;
+    --accent-soft:#eef6f4; --warn:#a13c1c; --warn-soft:#fdf4ef; --bg:#fff;
   }
   *{ box-sizing:border-box; }
   html,body{ margin:0; padding:0; background:#eceff2; }
@@ -35,67 +35,66 @@ agenda: agenda/2026-11-18_gothic-arch-seminar-3card-brief.md
   }
   .sheet{
     width:210mm; height:297mm; margin:0 auto; background:var(--bg);
-    padding:15mm 14mm 12mm; display:flex; flex-direction:column;
-    font-size:9.6pt; line-height:1.42; page-break-after:always; break-after:page;
+    padding:14mm 15mm 11mm; display:flex; flex-direction:column;
+    font-size:9.8pt; line-height:1.52; page-break-after:always; break-after:page;
   }
-  .sheet:last-child{ page-break-after:auto; break-after:auto; }
-  @media screen{ .sheet{ box-shadow:0 0 0 1px #d6dbe1, 0 2mm 7mm rgba(0,0,0,.08); margin:8mm auto; } }
+  .sheet:last-of-type{ page-break-after:auto; break-after:auto; }
+  @media screen{ .sheet{ box-shadow:0 0 0 1px #d6dbe1, 0 2mm 7mm rgba(0,0,0,.07); margin:8mm auto; } }
   @media print{ .pdfbar{ display:none !important; } }
 
-  /* header */
-  .kicker{ font-size:7pt; letter-spacing:.16em; text-transform:uppercase; color:var(--accent); font-weight:700; }
-  .cardno{ float:right; font-size:8pt; font-weight:700; color:var(--sub); letter-spacing:.08em; }
-  h1{ font-size:20pt; line-height:1.2; margin:2.5mm 0 2mm; letter-spacing:-0.02em; }
-  h1 small{ display:block; font-size:9.5pt; font-weight:500; color:var(--sub); letter-spacing:0; margin-top:1.6mm; line-height:1.4; }
-  header{ border-bottom:2.2px solid var(--ink); padding-bottom:3mm; margin-bottom:4mm; }
-  .oneline{ font-size:11pt; font-weight:700; color:var(--accent); line-height:1.4; margin:0 0 1mm; }
+  /* 머리 */
+  .kicker{ font-size:7.4pt; letter-spacing:.1em; color:var(--accent); font-weight:600; }
+  .cardno{ float:right; font-size:8pt; color:#9aa3ad; }
+  h1{ font-size:19pt; line-height:1.3; margin:5mm 0 3mm; letter-spacing:-.025em; font-weight:700; }
+  h1 small{ display:block; font-size:9.4pt; font-weight:400; color:var(--sub); letter-spacing:0; margin-top:2.6mm; line-height:1.55; }
+  header{ border-bottom:1px solid var(--line); padding-bottom:4mm; margin-bottom:5mm; }
 
-  /* blocks */
-  section{ margin-bottom:4mm; break-inside:avoid; }
-  h2{
-    font-size:10pt; margin:0 0 2mm; padding-bottom:1.2mm; border-bottom:1px solid var(--ink);
-    display:flex; align-items:baseline; gap:2mm; letter-spacing:-0.01em;
-  }
-  h2 .no{ font-size:8pt; color:var(--accent); font-weight:700; }
-  h2 .tag{ margin-left:auto; font-size:7pt; font-weight:600; color:var(--sub); letter-spacing:.05em; }
-  p{ margin:0 0 2mm; }
+  /* 본문 */
+  .lead{ font-size:10.8pt; line-height:1.58; font-weight:600; margin:0 0 4mm; }
+  .lead em{ font-style:normal; color:var(--accent); }
+  p{ margin:0 0 3mm; }
   p:last-child{ margin-bottom:0; }
   b{ font-weight:700; }
-  em{ font-style:normal; color:var(--warn); font-weight:600; }
+  .soft{ color:var(--sub); font-size:8.8pt; line-height:1.5; }
 
-  ul{ margin:0; padding-left:4mm; }
-  li{ margin-bottom:1.2mm; }
+  h2{
+    font-size:11pt; font-weight:700; margin:5mm 0 2.4mm; letter-spacing:-.015em;
+    padding-left:3mm; border-left:2.5px solid var(--accent); line-height:1.4;
+  }
+  h2:first-of-type{ margin-top:1mm; }
+
+  ul{ margin:0 0 3mm; padding-left:4.6mm; }
+  li{ margin-bottom:1.8mm; }
   li::marker{ color:var(--accent); }
 
-  table{ width:100%; border-collapse:collapse; font-size:8.6pt; margin:1mm 0 2mm; }
-  th{ text-align:left; font-weight:600; color:var(--sub); border-bottom:1.2px solid var(--line); padding:1.2mm 1.4mm 1.2mm 0; font-size:7.6pt; }
-  td{ border-bottom:1px solid #eef1f4; padding:1.3mm 1.4mm 1.3mm 0; vertical-align:top; }
-  td.num{ font-variant-numeric:tabular-nums; white-space:nowrap; }
+  .quote{
+    background:var(--accent-soft); padding:3.6mm 4.6mm; margin:4mm 0;
+    font-size:10.6pt; line-height:1.62; font-weight:600;
+  }
+  .quote .who{ display:block; font-size:8.8pt; font-weight:400; color:var(--sub); margin-top:2mm; }
+  .caution{
+    background:var(--warn-soft); border-left:2.5px solid var(--warn);
+    padding:3.2mm 4mm; margin:4mm 0; font-size:9.2pt; line-height:1.6;
+  }
+  .aside{ font-size:8.8pt; color:var(--sub); line-height:1.55; margin-top:2.4mm; }
+
+  table{ width:100%; border-collapse:collapse; font-size:9.2pt; margin:2.4mm 0 3mm; }
+  th{ text-align:left; font-weight:600; color:var(--sub); border-bottom:1px solid var(--ink); padding:1.6mm 1.6mm 1.6mm 0; font-size:8.4pt; }
+  td{ border-bottom:1px solid #eef1f3; padding:1.8mm 1.6mm 1.8mm 0; vertical-align:top; }
   tr:last-child td{ border-bottom:0; }
 
-  .callout{ border-left:2.8px solid var(--accent); background:var(--accent-soft); padding:2.6mm 3mm; font-size:9pt; margin:0 0 2.5mm; line-height:1.45; }
-  .warnbox{ border-left-color:var(--warn); background:var(--warn-soft); }
-  .stat-row{ display:grid; grid-template-columns:repeat(3,1fr); gap:2.5mm; margin:2mm 0 3mm; }
-  .stat{ border:1px solid var(--line); padding:2.4mm 2.6mm; }
-  .stat .big{ font-size:14pt; font-weight:700; letter-spacing:-0.02em; line-height:1.1; color:var(--accent); }
-  .stat .lab{ font-size:7.4pt; color:var(--sub); margin-top:1mm; line-height:1.35; }
+  .moment{
+    border-top:1px solid var(--ink); padding-top:4mm; margin-top:auto;
+  }
+  .moment .lbl{ font-size:8pt; letter-spacing:.06em; color:var(--accent); font-weight:600; margin-bottom:2mm; }
+  .moment .say{ font-size:10.6pt; line-height:1.62; font-weight:600; }
 
-  .badge{ display:inline-block; font-size:6.8pt; font-weight:700; padding:.2mm 1.2mm; border-radius:2px; vertical-align:.3mm; }
-  .g{ background:#d9f0e2; color:#14532d; }
-  .y{ background:#fbf0cc; color:#713f12; }
-  .w{ background:#e8eaed; color:#3b4048; }
-
-  .talk{ border:1.4px solid var(--accent); padding:2.6mm 3mm; font-size:8.8pt; margin:1mm 0 2.5mm; }
-  .talk .q{ font-weight:700; color:var(--accent); }
-  .talk .a{ margin-top:1mm; }
-
-  .takeaway{ border-top:2.2px solid var(--ink); padding-top:2.6mm; margin-top:auto; }
-  .th{ font-size:7pt; letter-spacing:.14em; text-transform:uppercase; color:var(--accent); font-weight:700; margin-bottom:1.8mm; }
-  .tg{ display:grid; grid-template-columns:1fr 1fr; gap:4mm; font-size:8.6pt; line-height:1.45; }
-  .tg b{ display:block; font-size:8.8pt; margin-bottom:.6mm; }
-
-  footer{ border-top:1px solid var(--line); padding-top:1.8mm; margin-top:3mm; display:flex; justify-content:space-between; font-size:6.8pt; color:var(--sub); }
-  footer .sig{ color:var(--ink); font-weight:600; }
+  footer{
+    border-top:1px solid var(--line); padding-top:2.4mm; margin-top:4.5mm;
+    display:flex; justify-content:space-between; gap:5mm;
+    font-size:7.6pt; color:var(--sub); line-height:1.45;
+  }
+  footer .sig{ color:var(--ink); font-weight:600; white-space:nowrap; }
 </style>
 <script>
 /* llm-wiki cache-refresh */
@@ -117,183 +116,120 @@ agenda: agenda/2026-11-18_gothic-arch-seminar-3card-brief.md
 </head>
 <body>
 
-<!-- ======================= CARD 1 ======================= -->
+<!-- ======================= 1장 ======================= -->
 <div class="sheet">
   <header>
     <span class="cardno">1 / 3</span>
-    <div class="kicker">Gothic Arch Seminar · Thesis</div>
-    <h1>CR은 점이 아니라<br>“재현 가능한 과두 영역”이다
-      <small>2026 SR+MA가 오버뷰의 핵심 명제를 최고 근거 등급으로 확인했다 — 세미나의 중심 문장.</small>
+    <div class="kicker">고딕아치 세미나 · 먼저 할 이야기</div>
+    <h1>우리가 오래 찾아온<br>‘정확한 중심위’라는 건<br>사실 없었습니다
+      <small>작년까지 우리는 술식을 고르면 과두가 한 점에 정확히 놓인다고 배웠습니다. 올해 나온 메타분석은 그 질문 자체를 다시 묻게 합니다.</small>
     </h1>
   </header>
 
-  <div class="callout">
-    <b>한 문장 결론.</b> 중심위(Centric Relation, CR)는 특정 술식이 찍는 단일 점이 아니라 <b>재현 가능한 과두 영역(reproducible condylar region)</b>이다. 그래서 <em>단일 술식의 동등성·우월성을 확정할 수 없다.</em> — Huang 2026 (sr+ma)
+  <p class="lead">중심위(Centric Relation, CR)는 특정 술식이 찍어주는 <em>한 점</em>이 아니라, <em>재현 가능한 과두의 영역</em>입니다. 어느 술식이 더 정확한지 가릴 수 없는 이유도 여기에 있습니다. — Huang 2026, 체계적 문헌고찰·메타분석</p>
+
+  <h2>먼저 숫자를 하나 보겠습니다</h2>
+  <p>Huang 2026은 1,693편을 훑어 12편을 남겼습니다. maximum intercuspation position(MIP, 최대 교두감합위)을 0점으로 잡고, 술식별로 과두가 얼마나 움직였는지 모았습니다.</p>
+  <table>
+    <tr><th>숔식</th><th>MIP와의 거리</th></tr>
+    <tr><td>고딕아치, 양수조작, 능동운동</td><td>세 축 모두 차이 없음</td></tr>
+    <tr><td>턱끝유도</td><td>수직축만 · SMD 1.17 (P=0.02)</td></tr>
+    <tr><td>파워중심위</td><td>세 축 모두 움직임 (X 0.35 · Y 0.76 · Z 0.66)</td></tr>
+  </table>
+  <p class="aside">측정은 X 시상면·Y 수직·Z 횡단면, DerSimonian–Laird random effects. 다만 논문마다 결과가 너무 달라서(I² 대부분 90% 이상) 저자들도 "우월한 술식은 없다"고 했습니다.</p>
+
+  <h2>그런데 왜 어떤 논문은 고딕아치가 최고라 할까요</h2>
+  <p>질문이 달랐습니다. Bhagat 2025는 "얼마나 다시 같은 자세가 나오는가"를 물어 디지털 고딕아치를 1등(~0.98)으로 뽑았습니다. 반면 Singh 2026이 split-cast를 기준으로 오차를 재니 nick-and-notch 0.15/0.23mm, 구내 고딕아치 0.42/0.51mm, 구외 고딕아치 0.74/0.86mm로 <b>정적 기록이 더 정확</b>했습니다. 잘 재현되는 것과 기준에 가까운 것은 다른 이야기입니다.</p>
+
+  <div class="caution">
+    Jász 2024는 "고딕아치 정점이 앞쪽이다"라고 했고, Huang 2026은 "MIP와 차이가 없다"고 합니다. 모순이 아닙니다. 재는 단위(SMD vs mm)와 기준이 달랐습니다. <b>크기는 작고, 방향은 앞쪽, 유의성은 연구마다 갈린다</b>고 함께 기억하시면 됩니다.
   </div>
 
-  <div class="stat-row">
-    <div class="stat"><div class="big">12편</div><div class="lab">Huang 2026 SR+MA<br>총 1,693편 스크리닝</div></div>
-    <div class="stat"><div class="big">I² &gt; 90%</div><div class="lab">대부분 축의 이질성<br>→ “승자 없음” 선언</div></div>
-    <div class="stat"><div class="big">0축</div><div class="lab">고딕아치·양수·능동운동<br>MIP와 유의차 無</div></div>
+  <div class="moment">
+    <div class="lbl">오늘 가져갈 문장</div>
+    <div class="say">"어느 게 정답이냐"보다 "무엇을 재고 계신 거냐"를 먼저 묻게 되었습니다. 정답은 술식이 아니라 영역입니다.</div>
   </div>
-
-  <section>
-    <h2><span class="no">01</span> MIP를 0점으로 잡고 풀링한 결과 <span class="tag">Huang 2026 · J Dent Sci</span></h2>
-    <table>
-      <tr><th>CR 기록 술식</th><th>MIP 대비 과두변위</th><th>해석</th></tr>
-      <tr><td>고딕아치 / 양수조작 / 능동운동</td><td class="num">전 3축 유의차 無</td><td>MIP와 구분 안 됨</td></tr>
-      <tr><td>턱끝유도 (Chin-point)</td><td class="num">Y축만 · SMD 1.17<br>(P=0.02, I²=98%)</td><td>수직 변위만</td></tr>
-      <tr><td>파워중심위 (Power-centric)</td><td class="num">X 0.35 · Y 0.76 · Z 0.66<br>(모두 P&lt;0.00001급)</td><td>3축 모두 변위</td></tr>
-    </table>
-    <p style="font-size:8.4pt;color:var(--sub)">측정: X 시상면 · Y 수직 · Z 횡단면, DerSimonian–Laird random effects.</p>
-  </section>
-
-  <section>
-    <h2><span class="no">02</span> 왜 “재현성 ≠ 정확도”인가 <span class="tag">오버뷰 역설</span></h2>
-    <ul>
-      <li><b>재현성 위계</b>(Bhagat 2025): 디지털 고딕아치 ~0.98 &gt; 턱끝유도 ~0.79 &gt; 삼킴 ~0.62 — <b>고딕아치가 1위</b>.</li>
-      <li><b>정적 기준 대비 오차</b>(Singh 2026, split-cast): nick-and-notch 0.15/0.23mm &lt; 구내 고딕 0.42/0.51 &lt; 구외 고딕 0.74/0.86 — <b>고딕아치는 오차가 더 큼</b>.</li>
-      <li><b>방향도 크기만큼 중요</b>(Jász 2024): 고딕아치 정점은 전방+하방, 턱 후퇴법은 후방 압박 — 다만 <b>전부 ±1mm 이내</b>, 후방 압박만 피하면 임상 허용.</li>
-    </ul>
-  </section>
-
-  <div class="warnbox callout" style="font-size:8.4pt">
-    <b>읽는 법 주의.</b> Jász 2024는 “고딕아치가 전방”이라 했고 Huang 2026은 “MIP와 유의차 無”라 한다 — 모순이 아니라 <b>지표(SMD vs mm)와 기준이 다르다</b>. “크기는 작고 방향은 전방, 유의성은 연구별로 갈린다”로 함께 읽을 것.
-  </div>
-
-  <div class="takeaway">
-    <div class="th">Card 1 Takeaway — 세미나에서 딱 한 줄</div>
-    <div class="tg">
-      <div><b>“그래서 어느 게 정답이죠?”</b>정답은 술식이 아니라 <b>영역</b>이다. 재현은 잘 되지만 절대 위치는 기준에 따라 흔들린다.</div>
-      <div><b>근거 등급</b>Huang 2026 <span class="badge g">sr+ma</span> + Singh 2026 <span class="badge y">in-vitro</span> + Jász 2024 <span class="badge y">in-vivo</span></div>
-    </div>
-  </div>
-  <footer><span class="sig">고딕아치 세미나 · 2026-11-18</span><span>근거: wiki/overviews/gothic-arch-jaw-relation-recording-overview.md (18편 종합)</span></footer>
+  <footer><span class="sig">고딕아치 세미나 · 2026-11-18</span><span>근거: 18편 종합 오버뷰 · Huang 2026(체계적 문헌고찰·메타분석), Bhagat 2025, Singh 2026, Jász 2024</span></footer>
 </div>
 
-<!-- ======================= CARD 2 ======================= -->
+<!-- ======================= 2장 ======================= -->
 <div class="sheet">
   <header>
     <span class="cardno">2 / 3</span>
-    <div class="kicker">Gothic Arch Seminar · Tension</div>
-    <h1>균열 두 개로 청중을 깨우기
-      <small>“다들 그렇게 알고 계셨죠?” — 같은 디지털 트레이서, 다른 체위 결론 / 기록값은 달라도 임상 성과는 같다.</small>
+    <div class="kicker">고딕아치 세미나 · 잠깐 멈춰 될 지점</div>
+    <h1>같은 기계, 다른 결론<br>그리고 다른 숫자,<br>같은 결과
+      <small>청중이 고개를 드는 지점입니다. 두 개만 던지면 충분합니다.</small>
     </h1>
   </header>
 
-  <section>
-    <h2><span class="no">01</span> 논쟁 A — “디지털 고딕아치 = 체위 무관?” <span class="tag">Bhagat vs Abbad</span></h2>
-    <table>
-      <tr><th>연구</th><th>체위 결론</th><th>수치</th></tr>
-      <tr><td>Bhagat 2025</td><td>디지털 고딕아치 <b>체위 무관</b></td><td class="num">재현성 ~0.98</td></tr>
-      <tr><td>Abbad 2019<br>(n=24 무치악, MATLAB 구내 디지털 트레이서)</td><td><em>앙와위 &gt; 직립</em> 유의<br>직립–앙와위 일치도 매우 약함</td><td class="num">3.80 vs 5.12<br>P=0.0001<br>r=−0.130, P=0.535</td></tr>
-    </table>
-    <div class="callout warnbox" style="font-size:8.6pt">
-      둘 다 <b>자체제작 디지털 구내 트레이서</b>인데 결론이 갈렸다 → “디지털이니 체위 무관”이라 단정하지 말고 <b>기록 체위를 통제·명시</b>하라. (Abbad 논문에 내부 보고 불일치 n=24 vs 25, r vs r² — 수치는 주의해서 인용.)
-    </div>
-  </section>
+  <h2>"디지털이면 자세에 안 영향받죠?"</h2>
+  <p>Bhagat 2025는 자체 제작 디지털 구내 트레이서로 "체위와 무관하다"고 했습니다. Abbad 2019도 디지털 구내 트레이서를 썼는데, 무치악 24명에서 <b>누운 자세가 선 자세보다 재현성이 훨씬 높았습니다</b>(평균 3.80 대 5.12, P=0.0001). 두 자세 간 일치도는 매우 약했습니다(r=−0.130, P=0.535).</p>
+  <p>같은 계열 장비인데 결론이 갈렸습니다. "디지털이라 괜찮다"고 넘어가지 말고, <b>어떤 자세로 기록했는지 차트에 남기는 쪽</b>이 안전합니다. Abbad 논문에는 표본 수와 상관계수 표기가 서로 어긋나는 부분이 있어 수치는 조금 조심해서 인용하시면 좋습니다.</p>
 
-  <section>
-    <h2><span class="no">02</span> 논쟁 B — “기록 위치가 다르면 우리가 틀린 건가?” <span class="tag">Thakur 2012</span></h2>
-    <ul>
-      <li>완전 무치악 <b>28명</b>, 정적 왁스기록 vs 구외 고딕아치로 CR·수평과로각(HCG) 기록.</li>
-      <li>두 방법의 CR <b>일치율은 7.14%뿐</b> — 왁스가 고딕보다 <b>전방 71.42%</b>, 후방 21.43%.</li>
-      <li>고딕아치가 HCG는 더 높았지만 <b>유의차 無</b>(P&gt;0.05), <b>Woelfel 주관평가도 항목별 유의차 없음</b>.</li>
-      <li>→ <b>기록 위치 불일치가 임상 성과 차이로 직결되지는 않는다.</b> <span class="badge w">abstract-only</span></li>
-    </ul>
-    <p style="font-size:8.4pt;color:var(--sub)">같은 고딕아치라도 Thakur는 “왁스 대비 후방”, Jász 2024는 “MIP 대비 전방” — <b>기준이 다르면 방향도 달라진다.</b> 상호 비교 불가.</p>
-  </section>
-
-  <section>
-    <h2><span class="no">03</span> 고전 1차 근거의 혈통 (백필 4편) <span class="tag">전부 abstract-only</span></h2>
-    <table>
-      <tr><th>연구</th><th>오버뷰에서의 역할</th><th>핵심 수치</th></tr>
-      <tr><td>Kattadiyil 2021 <span class="badge w">consensus</span></td><td>합의문 — 술식 6종 정밀도 유사, <b>술자 숙련도가 결정 변수</b></td><td class="num">3,500→291편</td></tr>
-      <tr><td>Keshvad 2003</td><td>de Moraes 2021 SR이 풀링한 <b>원천 3way 데이터</b></td><td class="num">0.03~1.6mm<br>양수 최고·고딕 최저</td></tr>
-      <tr><td>Rahman 2004</td><td>추적판 경사 기하가 기록점을 옮기는 <b>장치 기전</b></td><td class="num">n=5 · 탭핑점이<br>고딕 정점보다 전방</td></tr>
-    </table>
-  </section>
-
-  <div class="talk">
-    <div class="q">Q. 청중에게 던질 질문</div>
-    <div class="a">“두 논문이 같은 기계로 ‘체위 무관’ vs ‘앙와위 우위’를 말하면, 여러분은 오늘 환자에서 <b>어떤 자세로</b> 기록하시고 차트에 적으시겠습니까?” — 토론 유도 후 <b>‘한 자세 고정 + 자세 명시’</b>로 수렴.</div>
+  <h2>"기록값이 다르면 우리가 틀린 건가요?"</h2>
+  <p>Thakur 2012가 무치악 28명에서 왁스 기록과 구외 고딕아치를 비교했습니다. CR이 서로 일치한 경우는 <b>7.14%뿐</b>이었고, 왁스가 고딕보다 앞쪽인 경우가 71.42%, 뒤쪽이 21.43%였습니다. 고딕아치가 수평과로각(HCG)은 더 높게 나왔지만 유의한 차이는 아니었고(P&gt;0.05), Woelfel 주관평가에서도 항목별 차이가 없었습니다.</p>
+  <div class="quote">
+    위치는 거의 안 맞았는데, 만들어진 의치의 임상 성과는 같았습니다.<span class="who">기록값의 불일치가 곧 임상적 열등은 아니라는 뜻입니다. (Thakur 2012, 초록만 공개)</span>
   </div>
+  <p>같은 고딕아치라도 Thakur에서는 "왁스보다 뒤쪽", Jász 2024에서는 "MIP보다 앞쪽"이라 나옵니다. 기준이 바뀌면 방향도 바뀝니다. 두 숫자를 놓고 어느 쪽이 맞느냐고 비교하시면 안 됩니다.</p>
 
-  <div class="takeaway">
-    <div class="th">Card 2 Takeaway — 세미나에서 딱 한 줄</div>
-    <div class="tg">
-      <div><b>술식을 바꾸기 전에 기준을 먼저 물어라.</b> 체위도 기준이고, split-cast도 기준이고, MIP도 기준이다. 같은 술식도 기준이 바뀌면 다른 답을 준다.</div>
-      <div><b>근거 등급</b>Abbad 2019 <span class="badge y">in-vivo</span> · Thakur 2012 <span class="badge w">abstract</span> · Kattadiyil 2021 <span class="badge w">consensus</span></div>
-    </div>
+  <h2>뿌리를 조금만 더 거슬러 올라가면</h2>
+  <p>우리가 흔히 인용하는 체계적 문헌고찰들에도 아래 오래된 논문들이 들어 있습니다. 이번에 함께 정리해 두었습니다.</p>
+  <ul>
+    <li><b>Kattadiyil 2021</b> — 술식 여섯 가지의 정밀도가 비슷하다는 합의문입니다. 재료는 PVS와 폴리에터가 무난했고, 결국 <b>술자 숙련도가 갈리는 지점</b>이라고 했습니다.</li>
+    <li><b>Keshvad 2003</b> — de Moraes 2021 SR이 모은 원래 데이터입니다. 14명에서 양수조작이 가장 재현성이 높고 고딕아치가 가장 낮았으며, 변이는 0.03~1.6mm였습니다.</li>
+    <li><b>Rahman 2004</b> — 추적판 기울기에 따라 기록점이 어떻게 옮겨가는지를 본 연구입니다. 반쯤 기울인 판이 탭핑점을 가장 최대 교두감합위에 가깝게 모았고, 어느 장비에서나 탭핑 접촉점은 고딕아치 정점보다 앞에 있었습니다. 표본은 5명뿐이라 기전으로만 읽어주세요.</li>
+  </ul>
+
+  <div class="moment">
+    <div class="lbl">청중에게 던질 질문</div>
+    <div class="say">"두 팀이 같은 기계로 '자세 무관'과 '누운 자세 우위'를 말하면, 여러분은 오늘 환자를 어느 자세로 기록하고 차트에 적으시겠습니까?" <span class="soft">— 잠깐 토론을 받고, '한 자세로 고정하고 그 자세를 적는다'로 정리하시면 자연스럽습니다.</span></div>
   </div>
-  <footer><span class="sig">고딕아치 세미나 · 2026-11-18</span><span>초록 기반 수치는 과장 금지 — 오버뷰 Axis 7 / 백필 섹션 참조</span></footer>
+  <footer><span class="sig">고딕아치 세미나 · 2026-11-18</span><span>Abbad 2019(무치악 24명) · Thakur 2012(28명, 초록만) · Kattadiyil 2021(합의문) · Keshvad 2003(14명) · Rahman 2004(5명) — 모두 초록 기반</span></footer>
 </div>
 
-<!-- ======================= CARD 3 ======================= -->
+<!-- ======================= 3장 ======================= -->
 <div class="sheet">
   <header>
     <span class="cardno">3 / 3</span>
-    <div class="kicker">Gothic Arch Seminar · Chairside</div>
-    <h1>“뭐가 제일 좋나요?”에 답하는 법
-      <small>최적은 기준 의존적이다 — 목적에 따라 도구를 고른다. 세미나를 의자결정 규칙으로 닫는 장.</small>
+    <div class="kicker">고딕아치 세미나 · 마지막에 꺼낼 이야기</div>
+    <h1>"뭐가 제일 좋나요?"<br>라는 질문을<br>되묻는 법
+      <small>세미나를 이 문장으로 닫으시면, 사람들은 술식 이름 대신 질문을 기억하고 돌아갑니다.</small>
     </h1>
   </header>
 
-  <div class="callout">
-    <b>만능 답변 프레임.</b> “무엇을 최적화하시겠습니까?”를 먼저 묻는다. <b>정밀도·시간</b>이면 왁스웨이퍼+양수조작, <b>과두위 포착</b>이면 고딕아치 첨단의 중심지지점(Central Bearing Point, CBP). — Utz 2023 (n=81 유치악)
+  <p class="lead">"<em>무엇을 가장 중요하게 보시겠습니까?</em>"를 먼저 묻습니다. 정밀도와 시간이 중요하면 왁스웨이퍼에 양수조작, 과두 위치를 잡는 게 중요하면 고딕아치 정점의 중심지지점(central bearing point, CBP)입니다. — Utz 2023, 유치악 81명</p>
+
+  <h2>세 팀이 사실 같은 말을 했습니다</h2>
+  <p>Utz 2023에서는 CBP와 다른 CR 기록 사이의 중간 거리가 0.73±0.24mm(0~3.19mm), 기록법끼리는 0.48~0.79mm였습니다. 거의 모두 아주 조금씩 달랐지만 재현성과 표준편차는 비슷했습니다. 정밀도와 시간은 왁스웨이퍼·양수조작이, 과두위는 CBP가 가장 좋았습니다.</p>
+  <p>Huang 2026은 인구 수준에서 같은 결론을 냈고, Kattadiyil 2021은 술식 간 차이가 크지 않다며 술자 숙련도를 결정 변수로 꼽았습니다. 결국 <b>"최적"은 목적에 따라 달라진다</b>는 말입니다.</p>
+
+  <h2>그래서 오늘 뭐를 쓰냐면</h2>
+  <ul>
+    <li>능선이 괜찮고 협조적인 표준 무치악이라면 잘 만든 <b>정적 기록</b>(nick-and-notch, 정밀 후퇴 왁스)이 오차가 가장 적습니다.</li>
+    <li>신경근 조절이 어렵거나, 습관적으로 앞으로 물거나, 능선이 심하게 흡수됐거나, 전악을 재건한다면 <b>고딕아치</b>가 유리합니다. 특히 구내·디지털 형태가 시각적으로 정점을 확인하기 좋습니다.</li>
+    <li>손으로 유도할 때는 턱끝유도를 <b>가벼운 1~2lb 힘으로, 5~10분 충분히 이완한 뒤</b>에 하세요. 수직 방향으로만 조금 움직인다고 보시면 됩니다. <b>뒤로 강하게 밀어 넣는 술식은 피합니다.</b></li>
+    <li>삼킴·연하법은 첫 선택에서 빼두시는 게 좋습니다. 재현성이 가장 낮고(0.62), 독립된 두 연구가 모두 가장 약하다고 했습니다. 장점은 4분 정도의 시간뿐입니다.</li>
+    <li>교합기의 수평과로각만 필요하시면 파노라마방사선촬영(OPG)으로 충분합니다(Potdukhe 2023, 325명 메타분석).</li>
+  </ul>
+
+  <h2>'디지털'이라고 하면 한 번 더 물어보세요</h2>
+  <p>추적장치 자체를 디지털로 만든 길은 성공했습니다. Zhou 2023의 CAD/CAM 구내 고딕아치는 기존 방식과 0.5mm 안에서 일치했고 의자시간도 57.5분에서 41.9분으로 줄었습니다.</p>
+  <p>반대로 추적을 없애고 <b>턱운동 추적만으로 대체하려는 길은 아직 덜 익었습니다</b>. Li 2022는 환자에서 0.76~1.35mm 오차가 났고, 저자도 개선이 필요하다고 했습니다. 같은 장비가 교합기 위에서는 112~133μm를 기록했으니, bench 숫자를 그대로 환자에게 가져오면 안 됩니다. 이 분야 전체도 4,779편 중 10편이 전부입니다(Ribeiro 2024).</p>
+
+  <div class="moment">
+    <div class="lbl">마지막 문장</div>
+    <div class="say">좋은 기록은 정확한 숫자가 아니라 <b>다시 나오고, 기준이 분명하고, 술자가 편한 위치</b>입니다. 우리가 가져갈 것은 장치가 아니라 그 기준입니다.</div>
   </div>
-
-  <section>
-    <h2><span class="no">01</span> highest ‘best’는 없다 — 세 근거가 같은 답 <span class="tag">Utz · Huang · Kattadiyil</span></h2>
-    <table>
-      <tr><th>근거</th><th>말하는 방식</th><th>임상 규칙</th></tr>
-      <tr><td>Utz 2023 <span class="badge w">abstract</span></td><td>CBP vs 타 CR기록 중앙거리 <b>0.73±0.24mm</b> (0~3.19mm), 기록법 간 0.48~0.79mm</td><td>정밀도·시간=왁스+양수 / 과두위=CBP</td></tr>
-      <tr><td>Huang 2026 <span class="badge g">sr+ma</span></td><td>고딕·양수·능동 MIP와 유의차 無, I²&gt;90%</td><td>우월성 확정 불가 · 술자 판단</td></tr>
-      <tr><td>Kattadiyil 2021 <span class="badge w">consensus</span></td><td>술식 6종 정밀도 유사, PVS·폴리에터 우수</td><td><b>술자 숙련도가 결정 변수</b></td></tr>
-    </table>
-  </section>
-
-  <section>
-    <h2><span class="no">02</span> 원장 결정 트리 <span class="tag">오버뷰 종합</span></h2>
-    <ul>
-      <li><b>표준 무치악·양호한 능선</b> → 잘 만든 <b>정적 기록</b>(nick-and-notch / 정밀 후퇴 왁스)이 오차 최소.</li>
-      <li><b>신경근 제어 저하·습관성 전방폐구·심한 흡수릉·전악 기능재건</b> → <b>고딕아치</b>(특히 구내·디지털) — 시각적 정점 확인 + 기능위 포착.</li>
-      <li><b>수동 조작 시</b> → 턱끝유도는 <b>가벼운 1~2lb 힘·5~10분 탈프로그래밍</b>, 수직축 변위만 고려. <em>후방 압박 술식은 회피.</em></li>
-      <li><b>삼킴/연하법은 1차에서 제외</b> — 독립 두 연구가 최약 수렴(재현성 0.62, 유일하게 유의 열등), 장점은 4분 시간 절약뿐.</li>
-      <li><b>교합기 수평과로각만 필요</b> → OPG가 GAT의 실용적 대체(Potdukhe 2023 SR+MA, n=325).</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2><span class="no">03</span> 디지털을 말할 때 갈라지는 두 길 <span class="tag">함정</span></h2>
-    <div class="stat-row" style="grid-template-columns:1fr 1fr;">
-      <div class="stat" style="border-color:#9ac5bd"><div class="big">&lt;0.5mm ✓</div><div class="lab"><b>추적장치 디지털화</b><br>Zhou 2023 CAD/CAM 구내 GAT — 성공.<br>의자시간 57.5→41.9분 단축</div></div>
-      <div class="stat" style="border-color:#e6a88e"><div class="big">0.76–1.35mm</div><div class="lab"><b>턱운동추적 대체</b><br>Li 2022 — 저자도 “개선 필요”, 임상 미달.<br>벤치 112~133μm → 구강 6~10배 열화</div></div>
-    </div>
-    <p style="font-size:8.6pt">“디지털이니 정확하겠지”가 아니라 <b>어느 갈래인지</b>를 물어야 한다. 근거 자체도 얇다 — 디지털 악간관계 scoping review는 4,779편 중 <b>10편</b>만 포함(Ribeiro 2024).</p>
-  </section>
-
-  <div class="talk" style="border-color:var(--warn)">
-    <div class="q" style="color:var(--warn)">마지막 슬라이드 문장</div>
-    <div class="a"><b>좋은 기록은 ‘정확한 숫자’가 아니라 ‘재현 가능하고, 기준이 분명하며, 술자가 편한 위치’다.</b> 우리가 팔아야 할 것은 장치가 아니라 재현성과 판단 기준이다. <span class="badge g">Huang 2026 sr+ma</span></div>
-  </div>
-
-  <div class="takeaway">
-    <div class="th">Card 3 Takeaway — 세미나 클로징</div>
-    <div class="tg">
-      <div><b>질문 3개로 닫아라</b>① 무엇을 최적화? ② 어떤 기준(체위·split-cast·MIP)? ③ 술자가 잘하는가? — 이 3개가 남으면 세미나는 기억된다.</div>
-      <div><b>근거 등급</b>Utz 2023 <span class="badge w">abstract</span> · Zhou 2023 <span class="badge y">prospective</span> · Potdukhe 2023 <span class="badge g">sr+ma</span></div>
-    </div>
-  </div>
-  <footer><span class="sig">고딕아치 세미나 · 2026-11-18</span><span>전체 18편 종합: wiki/overviews/gothic-arch-jaw-relation-recording-overview.md</span></footer>
+  <footer><span class="sig">고딕아치 세미나 · 2026-11-18</span><span>Utz 2023(81명, 초록만) · Huang 2026(체계적 문헌고찰·메타분석) · Kattadiyil 2021(합의문) · Zhou 2023 · Li 2022 · Potdukhe 2023(메타분석) · Ribeiro 2024</span></footer>
 </div>
 
 <!-- 배포사이트 카드에서 바로 인쇄·공유 — PDF 다운로드 바 -->
-<div class="pdfbar" style="max-width:210mm;margin:0 auto;padding:5mm 4mm;background:#0f766e;color:#fff;text-align:center;page-break-after:avoid;break-after:avoid;">
-  <div style="font-size:10pt;font-weight:700;margin-bottom:1.5mm;">📄 세미나용 3장 PDF (A4)</div>
+<div class="pdfbar" style="max-width:210mm;margin:0 auto;padding:5mm 4mm;background:#0f766e;color:#fff;text-align:center;">
+  <div style="font-size:10pt;font-weight:700;margin-bottom:1.5mm;">📄 세미나용 세 장 PDF (A4)</div>
   <a href="2026-11-18_gothic-arch-seminar-3card-brief.pdf" download
      style="display:inline-block;background:#fff;color:#0f766e;font-size:9.5pt;font-weight:700;text-decoration:none;padding:2mm 6mm;border-radius:3px;">PDF 다운로드 / 인쇄 →</a>
-  <div style="font-size:7.5pt;color:#d7f0ec;margin-top:1.8mm;">3장 요약 · 재현 가능한 과두 영역 / 균열 두 개 / 의자결정 규칙 · 근거 18편 종합</div>
+  <div style="font-size:7.5pt;color:#d7f0ec;margin-top:1.8mm;">정확한 중심위는 없다 / 같은 기계 다른 결론 / "뭐가 제일 좋나요" 되묻기 · 근거 18편 종합</div>
 </div>
 
 </body>
