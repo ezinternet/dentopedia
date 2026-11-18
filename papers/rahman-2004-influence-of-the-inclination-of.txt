@@ -1,0 +1,38 @@
+TITLE: Influence of the inclination of the plate of an intra-oral tracing device on the condylar position registered by tapping movement
+AUTHORS: Rahman MD, Kohno S, Kobayashi H, Sawada K
+JOURNAL: J Oral Rehabil. 2004 Jun;31(6):546-53
+ID[pmid]: 15189311
+ID[doi]: 10.1111/j.1365-2842.2004.01190.x
+
+## ABSTRACT (abstract-only — full text not retrieved)
+1. J Oral Rehabil. 2004 Jun;31(6):546-53. doi: 10.1111/j.1365-2842.2004.01190.x.
+
+Influence of the inclination of the plate of an intra-oral tracing device on the 
+condylar position registered by tapping movement.
+
+Rahman MD(1), Kohno S, Kobayashi H, Sawada K.
+
+Author information:
+(1)Removable Prosthodontics, Graduate School of Medical and Dental Sciences, 
+Niigata University, Niigata City, Japan.
+
+The object of this study was to determine the best inclination of the intra-oral 
+tracing device to get optimum condylar position with the registration of tapping 
+movement. Three appliances with different tracing plate inclinations were used 
+in five healthy subjects. The tracing plates were set at 0 degrees to occlusal 
+plane (horizontal); at the angle formed by drawing a line from condylar point to 
+the stylus position at occlusal plane (inclined); then at the angle half to 
+inclined (half-inclined). Subjects made Gothic arch and tapping movements (n = 
+30) at a 30 mm interincisal distance with the head Camper plane horizontal. The 
+incisal and condylar points were tracked with a 6-degree-of-freedom jaw movement 
+tracking system. The location of gothic arch apex, the distribution and mean 
+position of 30 tapping points from intercuspal position were analyzed in incisal 
+and condylar point between the appliances. Data were analyzed with repeated 
+measures one-way anova. Results showed that mean position of tapping points were 
+significantly different among the appliances. Half-inclined appliance recorded 
+tapping points in a convergent area nearer to intercuspal position (IP) than 
+other appliances. In all appliances, the contact points of the tapping movement 
+were anterior to Gothic arch apex.
+
+DOI: 10.1111/j.1365-2842.2004.01190.x
+PMID: 15189311 [Indexed for MEDLINE]
