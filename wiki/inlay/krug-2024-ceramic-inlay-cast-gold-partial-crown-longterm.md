@@ -6,7 +6,7 @@ date: 2024-05-03
 doi: "10.1007/s00784-024-05682-7"
 source: krug-2024-ceramic-inlay-cast-gold-partial-crown-longterm.md
 category: [inlay]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-abstract
 pmid: "38702521"
 tags: [inlay, onlay, ceramic, cast-gold, cgpc, partial-crown, long-term, retrospective, survival, gold-crown, empress]
