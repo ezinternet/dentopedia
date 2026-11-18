@@ -20,6 +20,22 @@ In vitro + split-mouth clinical study (n=10, 20 implants, 14-week ISQ follow-up)
 
 In vitro + split-mouth 임상 연구 (n=10, 임플란트 20개, 14주 ISQ 추적): 사포처리 산부식 (SA) 티타늄에 자외선 조사 시 세포 증식(48시간) 및 임플란트 안정성지수 (Implant Stability Quotient, ISQ; 측정 주기 3·4·6)에서 유의 개선, 1형 콜라겐 생성은 차이 없음.
 
+## Three-line Summary
+
+Santos Pavei et al. (2026) reported a combined in vitro and split-mouth clinical study evaluating the effects of ultraviolet photofunctionalization (UV-PF) on sandblasted acid-etched (SA) titanium implant surfaces. The in vitro arm assessed contact angle, surface roughness (Ra), cell viability, cell proliferation, and type I collagen production on SA titanium disks; the clinical arm tracked implant stability quotient (ISQ) biweekly over 14 weeks in 10 patients receiving two implants each (one UV-irradiated, one control, contralateral sites).
+
+The in vitro findings showed UV irradiation significantly decreased contact angle and increased Ra in SA titanium (p<0.05), and significantly improved cell proliferation at 48 hours (p<0.05) while not affecting cell viability or type I collagen production. Clinically, UV-irradiated implants achieved significantly greater ISQ values at measurement intervals 3, 4, and 6 of the 14-week follow-up, consistent with an accelerated early osseointegration signal, though intervals 1, 2, and 5 did not reach significance.
+
+A notable null finding was that type I collagen production was unaffected by UV-PF, suggesting the technique influences early cell attachment and proliferation kinetics rather than late-stage extracellular matrix synthesis. The 5-minute UV pre-treatment duration was shorter than most published protocols (typically 12–48 hours or 15–20 minutes in clinical studies), and the lack of wavelength specification limits mechanistic interpretation in relation to the wavelength-dependent hydrocarbon removal literature (Houshmand 2023).
+
+## 세줄요약
+
+산토스 파베이 등(2026)은 사포처리 산부식(Sandblasted Acid-etched, SA) 티타늄 임플란트 표면에 대한 자외선 광기능화(Ultraviolet Photofunctionalization, UV-PF) 효과를 시험관 내 연구와 split-mouth 임상 연구를 병행해 평가했다. 시험관 내 연구에서는 SA 티타늄 디스크의 접촉각·거칠기·세포 증식·콜라겐 생성을, 임상 연구에서는 10명 환자의 임플란트 안정성지수(Implant Stability Quotient, ISQ)를 14주간 격주 추적했다.
+
+시험관 내 결과: UV 조사는 SA 티타늄의 접촉각을 유의하게 감소시키고(p<0.05) Ra를 증가시켰으며, 48시간 시점 세포 증식을 유의하게 향상시켰다(p<0.05). 세포 생존율과 1형 콜라겐 생성은 차이가 없었다. 임상 결과: UV 처리 임플란트가 측정 주기 3·4·6에서 유의하게 높은 ISQ를 보였다(p<0.05), 조기 골유합 가속화 신호와 일치한다.
+
+1형 콜라겐 비변화는 UV-PF가 초기 세포 부착·증식 역학에는 영향을 미치나 후기 세포외기질 합성에는 영향이 없음을 시사한다. 5분 UV 처치 시간은 대부분의 프로토콜보다 짧고 파장이 명시되지 않아 기전 해석에 한계가 있다.
+
 ## 1. Document Information
 
 - Journal: Odontology (2026 Apr 1; online ahead of print)
