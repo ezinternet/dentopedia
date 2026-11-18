@@ -1,0 +1,40 @@
+TITLE: Is There "A Best" Centric Relation Record? Centric Relation Records, Condyle Positions, and Their Practical Significance.
+AUTHORS: Utz KH, Lückerath W, Schwarting P, Noethlichs W, Büttner R, Grüner M, Fuß E, Stark H
+JOURNAL: Int J Prosthodont. 2023 May-June;36(3):262-272
+ID[pmid]: 36484682
+ID[doi]: 10.11607/ijp.7786
+
+## ABSTRACT (abstract-only — full text not retrieved)
+1. Int J Prosthodont. 2023 May-June;36(3):262–272. doi: 10.11607/ijp.7786. Epub 
+2022 Dec 6.
+
+Is There "A Best" Centric Relation Record? Centric Relation Records, Condyle 
+Positions, and Their Practical Significance.
+
+Utz KH, Lückerath W, Schwarting P, Noethlichs W, Büttner R, Grüner M, Fuß E, 
+Stark H.
+
+PURPOSE: To investigate if and how the positions of condyles in centric relation 
+(CR) varied from each other using different CR records.
+MATERIALS AND METHODS: Condylar positions in CR were repeatedly recorded by four 
+licensed clinicians in 81 stomatognathically healthy, fully dentate subjects 
+with six different types of CR records. The maxillary casts were mounted in 
+articulators after individual facebow transfer, and the mandibular casts were 
+mounted with a central bearing point (CBP) registration on the tip of the Gothic 
+arch. Mean values from three registrations of the centric condylar positions 
+with each of the six methods were calculated, and comparative calculations were 
+made.
+RESULTS: The median spatial distances of the condylar positions between the CBP 
+and all other CR records was 0.73 ± 0.24 mm (0 to 3.19 mm). The median spatial 
+values between the condylar positions of the different CR records ranged from 
+0.48 to 0.79 mm. Statistically, the positions of almost all types of 
+registration were slightly different from each other.
+CONCLUSION: Different CR records reproduce slightly different positions of the 
+mandible, which is especially true for CBP registration, whereas 
+reproducibilities and SDs between registrations are similar. Unrefined wax-wafer 
+registrations using bimanual manipulation have proven particularly successful 
+with regard to precision and time requirements, as has CBP registration with 
+regard to condylar position.
+
+DOI: 10.11607/ijp.7786
+PMID: 36484682 [Indexed for MEDLINE]
