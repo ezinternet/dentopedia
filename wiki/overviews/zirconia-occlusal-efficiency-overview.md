@@ -26,6 +26,14 @@ tags: [zirconia, crown, occlusal-efficiency, masticatory, monolithic, veneered, 
 
 > **Synthesis across 20+ studies (2008–2026):** Monolithic zirconia crowns achieve 0% chipping and superior occlusal efficiency versus veneered zirconia (5–11.1% chipping), but intraoral LTD progresses from 6 months with localized monoclinic clusters; APA+MDP surface treatment dominates bond strength, and bruxism reduces marginal integrity to 31.60%. RBFPD/IRFPD with APA+MDP protocol reach 89–97.4% 10-year survival, while CFPD (50–52%) should be avoided.
 
+## 세줄요약
+
+이 오버뷰는 20편 이상(2008–2026) 연구를 종합해 지르코니아 크라운과 교합 효율의 관계를 체계적으로 정리한다. 모놀리식 지르코니아는 베니어드 대비 치핑(Chipping) 0%로 저작 효율 관련 기술적 합병증을 최소화하며, 구강 내 저온분해(Low-Temperature Degradation, LTD)는 ISO 25% 임계치를 5년 내 초과하지 않아 임상 파절에 직접적 영향이 제한적이다.
+
+접착 표면처리에서 공기분사연마(Airborne Particle Abrasion, APA) + 10-MDP 프라이머 조합이 지르코니아 크라운 결합 강도의 지배 변수이며, 플라즈마·연마 순차적 병용은 오히려 결합 강도를 저하시킬 수 있다. 이갈이증 환자에서는 모놀리식 지르코니아 마진 완전성이 31.60%까지 저하될 수 있다.
+
+레진결합형가공의치(Resin-Bonded Fixed Partial Denture, RBFPD) 및 인레이유지형가공의치(Inlay-Retained Fixed Partial Denture, IRFPD)에서 APA+MDP 프로토콜이 10년 생존율 97.4%·89.0%를 달성하며, 교합 접촉 정확도가 생존율의 핵심 결정인자다. 캔틸레버 고정성가공의치(Cantilever Fixed Partial Denture, CFPD)는 50–52% 생존율로 사용이 권장되지 않는다.
+
 ## summary
 
 ### 1. 서론: 교합 효율과 지르코니아 크라운의 관계
