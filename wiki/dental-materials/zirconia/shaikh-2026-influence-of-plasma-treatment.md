@@ -24,6 +24,22 @@ Systematic review and meta-analysis of 14 in vitro studies (Jan 2026): plasma su
 ## 한줄요약
 SR+MA (14개 연구, 검색일 2026-01): 플라즈마 처리가 지르코니아 전단결합강도를 미처리 대비 유의하게 향상(SMD 3.04; 95% CI 1.76-4.32); 공기분사연마 (Airborne Particle Abrasion, APA)와 동등; 냉온 대기압 플라즈마 (Cold Atmospheric Plasma, CAP) + 10-MDP 프라이머 병용이 최고 효과.
 
+## Three-line Summary
+
+Shaikh et al. (2026) conducted a PROSPERO-registered systematic review and meta-analysis (CRD42025640563) of 14 in vitro studies (2016–2024) from 10 countries examining plasma surface treatment of zirconia, covering diverse plasma types including CAP, APPJ, and atmospheric low-temperature plasma with oxygen/argon/nitrogen/multi-gas compositions. Using random-effects robust Poisson regression (RevMan 5.4), the meta-analysis quantified the effect of plasma on zirconia shear bond strength (SBS).
+
+Plasma treatment significantly improved SBS versus untreated zirconia (SMD 3.04; 95% CI 1.76–4.32; I²=89%; p<0.00001). Plasma versus sandblasting was not statistically significant in the primary analysis (SMD 0.89, p=0.18) but reached significance after sensitivity analysis excluding one outlier (SMD 1.49, p=0.01). Combined CAP + 10-MDP primer produced the best results across multiple studies, and one long-term study (Bunz 2021) showed plasma-associated protocol had the best 250-day aging durability.
+
+High heterogeneity (I²=89–90%) reflects the lack of standardised plasma protocols across laboratories, identified as the primary evidence gap. A critical outlier finding (Kim 2024) showed that plasma alone reduced SBS in 3Y-TZP but improved it in (Y,Nb)-TZP when combined with APA, suggesting that zirconia composition moderates the plasma response. The review identifies CAP + 10-MDP primer as the synergistic protocol with superior combined immediate and long-term aged bond strength.
+
+## 세줄요약
+
+샤이크 등(2026)은 PROSPERO 등록 SR+MA(CRD42025640563)로 14개 연구(2016–2024, 10개국)를 종합해 지르코니아 플라즈마 표면처리의 전단결합강도(SBS) 개선 효과를 정량화했다. 다양한 플라즈마 종류(냉온 대기압 플라즈마(CAP), APPJ, 대기압 저온 플라즈마, 산소/아르곤/질소)를 포함한다.
+
+플라즈마가 미처리 대비 SBS를 유의하게 향상(SMD 3.04; 95% CI 1.76–4.32; I²=89%). 플라즈마 대 샌드블라스팅: 주분석 비유의(SMD 0.89, p=0.18), 민감도 분석에서 유의(SMD 1.49, p=0.01). CAP+10-MDP 프라이머 조합이 즉시·장기 결합 강도 모두 최고.
+
+높은 이질성(I²=89–90%)은 표준화된 플라즈마 프로토콜 부재를 반영한다. 주목할 이상치: 김 2024에서 플라즈마 단독이 3Y-TZP SBS는 감소, (Y,Nb)-TZP에서는 APA 병용 시 증가—지르코니아 조성이 플라즈마 반응을 조절함을 시사한다. 임상 프로토콜 권고: CAP + 10-MDP 프라이머 조합.
+
 ## Summary
 Plasma treatment of zirconia surfaces modifies the outermost atomic layer, increasing surface energy and wettability without bulk structural changes. This SR+MA (PROSPERO CRD42025640563) searched 5 databases through January 2026 and included 14 in vitro studies (2016-2024). Meta-analysis showed plasma significantly improves shear bond strength vs untreated zirconia (SMD 3.04; 95% CI 1.76-4.32; I²=89%; p<0.00001). Plasma vs sandblasting was not significant in primary analysis (SMD 0.89, ns) but reached significance in sensitivity analysis excluding one outlier (SMD 1.49, p=0.01). Combined CAP + 10-MDP primer produced the best results across multiple studies, and one long-term study (Bunz 2021) showed plasma-associated protocol had the best 250-day aging durability.
 
