@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: "10.2340/biid.v13.46767"
 source: aburawa-2026-effect-of-a-silicon-carbide.md
 category: dental-materials/zirconia
-confidence: in-vitro
+evidence_level: in-vitro
 text_path: /Users/oracleneo/llm-wiki/papers/aburawa-2026-effect-of-a-silicon-carbide.txt
 text_filename: aburawa-2026-effect-of-a-silicon-carbide.txt
 source_collection: pubmed-text
