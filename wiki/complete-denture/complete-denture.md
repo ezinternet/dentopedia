@@ -2,7 +2,7 @@
 title: "총의치·가철성보철 — complete-denture"
 authors: navigation
 year: 2026
-date: 2026-11-12
+date: 2026-11-18
 doi: N/A
 source: navigation
 category: complete-denture
@@ -15,23 +15,24 @@ tags: [navigation, category-index, complete-denture]
 > [!summary] 한국어 핵심요약
 > - **분야**: 총의치·가철성보철
 > - **범위**: Complete/removable denture prosthodontics — occlusal vertical dimension (OVD/VDO) determination (rest position, freeway space, anthropometric/facial, phonetics, cephalometric), jaw relation records, signs of excessive/reduced VD, edentulous prosthodontics.
-> - **수록 논문**: 50편
+> - **수록 논문**: 53편
 
 ## Three-line Summary
 
 **Scope**: Complete/removable denture prosthodontics — occlusal vertical dimension (OVD/VDO) determination (rest position, freeway space, anthropometric/facial, phonetics, cephalometric), jaw relation records, signs of excessive/reduced VD, edentulous prosthodontics.
-**Indexed papers**: 50 papers in `wiki/complete-denture/`.
+**Indexed papers**: 53 papers in `wiki/complete-denture/`.
 
 ## 세줄요약
 
 **분야**: 총의치·가철성보철
-**수록 논문**: 50편
+**수록 논문**: 53편
 **하위 카테고리**: 없음
 
-## Papers in this Category (50)
+## Papers in this Category (53)
 
 | Paper |
 |---|
+| [[abbad-2019-validity-and-reliability-of-intraoral|Validity and reliability of intraoral conventional tracer and intraoral digital tracer in different positions for recording horizontal jaw relation in edentulous patients]] |
 | [[abou-ayash-2023-implant-supported-fixed-complete-dentures|Treatment effect of implant-supported fixed complete dentures and implant overdentures on patient-reported outcomes: A systematic review and meta-analysis]] |
 | [[alhajj-2017-occlusal-vertical-dimension-complete-denture-review|Determination of occlusal vertical dimension for complete dentures patients: an updated review]] |
 | [[aung-2025-mini-dental-implants-mandibular-overdenture-sr|Ball versus other attachments in mini implant retained overdenture: a systematic review and meta-analysis]] |
@@ -45,6 +46,7 @@ tags: [navigation, category-index, complete-denture]
 | [[fayad-2025-vertical-dimension-determination-prosthodontics-review|Vertical Dimension in Prosthodontics Theory and Practice (Part II): A Comprehensive Review of Vertical Dimension Determination in Prosthodontics From Classical Methods to Digital Innovation]] |
 | [[feng-2025-expert-consensus-digital-complete-denture|Expert consensus on digital restoration of complete dentures]] |
 | [[goyal-2026-anthropometric-methods-vertical-dimension-occlusion-sr-ma|Correlation of anthropometric methods with standard method of recording the vertical dimension of occlusion: A systematic review and meta-analysis]] |
+| [[huang-2026-evaluation-of-condylar-position-displacement|Evaluation of condylar position displacement using various centric relation recording techniques based on maximum intercuspation position: A systematic review and meta-analysis]] |
 | [[jafarpour-2024-cadcam-versus-traditional-complete-dentures|CAD/CAM versus traditional complete dentures: A systematic review and meta-analysis of patient- and clinician-reported outcomes and costs]] |
 | [[jasz-2024-centric-relation-methods-digital-mandibular-motion|Different methods of determining centric relation – comparison with a digital mandibular motion analyser]] |
 | [[jofre-2010-splinting-mini-implants-marginal-bone-loss-rct|Effect of splinting mini-implants on marginal bone loss: a biomechanical model and clinical randomized study with mandibular overdentures]] |
@@ -79,6 +81,7 @@ tags: [navigation, category-index, complete-denture]
 | [[tayari-2024-implant-supported-overdenture-failures-sr|Risk factors for implant-supported overdenture failures: A systematic review]] |
 | [[taylor-2021-longevity-complete-dentures-sr-ma|Longevity of complete dentures: A systematic review and meta-analysis]] |
 | [[thu-2024-digital-complete-denture-clinical-laboratory|Which clinical and laboratory procedures should be used to fabricate digital complete dentures? A systematic review]] |
+| [[utz-2023-best-centric-relation-record-condyle|Is There \"A Best\" Centric Relation Record? Centric Relation Records, Condyle Positions, and Their Practical Significance.]] |
 | [[yeung-2023-functional-neuroplasticity-denture-rehabilitation-fmri|Functional Neuroplasticity of Adults with Partial or Complete Denture Rehabilitation with or without Implants: Evidence from fMRI Studies]] |
 | [[yoo-2023-implant-surveyed-crown-rpd-disabled-patients|New oral rehabilitation method in disabled patients using implants - Implant surveyed crown retained RPD]] |
 | [[zhou-2023-digital-intraoral-gothic-arch-device-centric-relation|A clinical application study of a digitally manufactured simple intraoral Gothic arch-tracing device in determining the centric relation of complete dentures]] |
