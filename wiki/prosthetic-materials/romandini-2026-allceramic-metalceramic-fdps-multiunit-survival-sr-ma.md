@@ -6,7 +6,7 @@ date: 2026-08-07
 doi: "10.11607/ijp.9666"
 source: romandini-2026-allceramic-metalceramic-fdps-multiunit-survival-sr-ma.md
 category: [prosthetic-materials]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-abstract
 tags: [fdp, zirconia, metal-ceramic, survival, multi-unit, systematic-review, meta-analysis]
 relations:
