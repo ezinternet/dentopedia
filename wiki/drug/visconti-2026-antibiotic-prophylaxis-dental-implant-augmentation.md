@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: "10.1002/14651858.CD016385"
 source: visconti-2026-antibiotic-prophylaxis-dental-implant-augmentation.md
 category: [drug]
-confidence: sr
+evidence_level: sr
 text_path: /Users/oracleneo/llm-wiki/papers/visconti-2026-antibiotic-prophylaxis-dental-implant-augmentation.txt
 text_filename: visconti-2026-antibiotic-prophylaxis-dental-implant-augmentation.txt
 source_collection: pubmed-text
