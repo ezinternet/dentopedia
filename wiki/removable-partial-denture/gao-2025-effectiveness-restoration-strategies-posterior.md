@@ -6,7 +6,7 @@ date: 2025-05-01
 doi: "10.1111/clr.14444"
 source: gao-2025-effectiveness-restoration-strategies-posterior.md
 category: removable-partial-denture
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: ""
 pdf_filename: ""
 source_collection: pubmed-abstract
