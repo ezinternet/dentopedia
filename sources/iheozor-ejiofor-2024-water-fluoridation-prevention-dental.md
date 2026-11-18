@@ -18,6 +18,22 @@ Cochrane SR (157 non-randomised studies, pub3): contemporary evidence for water 
 ## 한줄요약
 코크란 SR (관찰연구 157편, pub3): 수돗물 불소화 (Community Water Fluoridation, CWF)의 현대적 우식 예방 근거는 매우 제한적·낮은 확신도; 불소증과의 연관성은 확립.
 
+## Three-line Summary
+
+This 2024 Cochrane systematic review (pub3) is the most comprehensive synthesis of evidence on community water fluoridation (CWF), incorporating 157 non-randomised studies and updating prior versions from 2015. The review stratified evidence by pre- and post-1975 (the threshold for widespread fluoride toothpaste adoption) and found that while older evidence suggests caries prevention, contemporary post-1975 evidence for CWF initiation is very limited and rated as very low certainty due to confounding from background fluoride sources and non-randomised study designs.
+
+A key policy-relevant conclusion is that it is currently not possible to confidently determine the magnitude of CWF's caries-preventive effect in modern populations, where fluoride toothpaste is universally used. The association between water fluoridation and dental fluorosis—predominantly non-aesthetic—was confirmed, though this objective was not updated with new studies in this version.
+
+The review highlights a fundamental methodological limitation: randomised controlled trials are not feasible for population-level water fluoridation, leaving all evidence at inherent risk of confounding. This context is essential for interpreting CWF policy decisions alongside complementary evidence from topical fluoride interventions (SDF, fluoride varnish) that operate through individual delivery mechanisms.
+
+## 세줄요약
+
+2024년 코크란 체계적 문헌 고찰(pub3)은 수돗물 불소화(Community Water Fluoridation, CWF)에 관한 가장 포괄적인 근거 종합으로 157편의 비무작위 연구를 분석했다. 1975년 이후(불소 치약 보급 이후) 현대 근거는 매우 제한적이고 불확실성이 매우 높으며, 1975년 이전 근거는 우식 예방 효과를 시사하지만 현대 집단에 적용하기 어렵다.
+
+치아 불소증(Dental Fluorosis)과 수돗물 불소화의 연관성은 확립됐으나 대부분 비미관적(non-aesthetic) 수준이다. 불소 치약의 광범위 보급 이후 CWF 단독 효과를 분리하기 어렵다는 점이 현대 근거의 근본적 한계다.
+
+무작위 대조시험(Randomised Controlled Trial, RCT)이 윤리적·물류적으로 불가능한 집단 중재 연구의 본질적 제약으로 인해 모든 근거가 비무작위 설계에 의존한다. CWF 정책 결정은 개인 불소 도포(SDF, 불소 바니시)의 근거와 함께 종합적으로 고려돼야 한다.
+
 ## 1. Document Information
 - Journal: Cochrane Database of Systematic Reviews, 2024
 - DOI: 10.1002/14651858.CD010856.pub3
