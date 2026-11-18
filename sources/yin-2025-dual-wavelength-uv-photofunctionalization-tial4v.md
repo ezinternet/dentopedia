@@ -23,6 +23,22 @@ In vitro + in vivo animal study (3D-printed porous Ti6Al4V, rabbit condyle model
 
 In vitro + in vivo 동물 연구 (3D 프린팅 다공성 Ti6Al4V, 토끼 과두부 결손): 복합 파장 자외선 (UV-AC, 270+365 nm)이 단일 UVC(270 nm) 또는 UVA(365 nm)보다 골아세포 인산분해효소 (Alkaline Phosphatase, ALP) 활성·친수성·골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) 모두 우수하였으며, 접착-세포골격-핵 기계적신호전달 경로를 통해 작용함을 확인.
 
+## Three-line Summary
+
+Yin et al. (2025) conducted an in vitro and in vivo animal study comparing the effects of single-wavelength UVC (270 nm), single-wavelength UVA (365 nm), and dual-wavelength UV combining both (UV-AC: 270 + 365 nm) on 3D-printed porous Ti6Al4V implants, using rat BMSCs for in vitro assessment and a rabbit bilateral femoral condyle defect model for in vivo evaluation. This study directly tested whether combining two UV wavelengths provides synergistic benefits exceeding either wavelength alone—a question not addressed by prior single-wavelength studies including Houshmand 2023 (which showed UVC removes carbon while UVB only improves contact angle).
+
+UV-AC produced synergistic improvements in contact angle (near-superhydrophilic), ALP activity at day 14, and BIC and osteoid bone ratio in vivo—all significantly better than either G270 (UVC only) or G365 (UVA only) alone. The mechanistic investigation demonstrated that UV-AC's advantage operates through an adhesion–cytoskeleton–nuclear mechanotransduction pathway: upregulated focal adhesion proteins (integrin β1, vinculin, talin), more organised F-actin/myosin cytoskeletal structures, and higher nuclear YAP translocation compared to single-wavelength groups. UV photofunctionalization left the mechanical properties (compressive strength, elastic modulus) of the 3D-printed scaffold statistically unchanged.
+
+The finding that dual-wavelength UV provides synergistic effects has implications for UV-PF device design and protocol optimisation, suggesting that future devices incorporating both UVC and UVA sources may outperform current single-wavelength clinical devices. Limitations include the use of porous 3D-printed Ti6Al4V rather than conventional SLA implants, and the lack of direct surface carbon (XPS) quantification to confirm the mechanistic link between UV-AC and enhanced hydrocarbon removal.
+
+## 세줄요약
+
+인 등(2025)은 3D 프린팅 다공성 Ti6Al4V 임플란트에서 단일 파장 UVC(270 nm), UVA(365 nm), 복합 파장 UV-AC(270+365 nm) 세 조건을 쥐 골수 중간엽줄기세포(Bone Marrow Mesenchymal Stem Cell, BMSC) 시험관 내 실험과 토끼 대퇴과 결손 동물 모델로 비교했다. 하우스만드 2023이 단일 파장 연구에서 UVC만 탄소 제거 실효를 보인 것에서 나아가, 두 파장 조합의 시너지 효과 여부를 최초로 직접 검증했다.
+
+UV-AC는 접촉각(초친수성에 근접)·14일 ALP 활성·in vivo 골-임플란트 접촉률(Bone-to-Implant Contact, BIC)·골유양골 비율 모두에서 단일 파장 군을 유의하게 상회하는 시너지 효과를 보였다. 기전 분석에서 UV-AC는 초점 부착 단백(인테그린 β1·빈쿨린·탈린) 발현, F-액틴/미오신 세포골격 조직화, YAP 핵이전 모두 가장 높아 접착–세포골격–핵 기계적신호전달 경로를 통한 작용이 확인됐다. UV 처치는 3D 프린팅 지지체의 기계적 물성에 영향을 주지 않았다.
+
+복합 파장 UV가 단일 파장보다 우월하다는 발견은 차세대 UV-PF 장비 설계 방향(UVC+UVA 통합 광원)에 함의를 제공한다. 한계: 통상적인 SLA 임플란트가 아닌 3D 프린팅 다공성 임플란트 사용, XPS 표면 탄소 정량화 미시행(메커니즘은 추론 수준).
+
 ## 1. Document Information
 
 - Journal: Materials Today Bio, vol. 35, art. 102581 (2025)
