@@ -1,0 +1,156 @@
+TITLE: Validity and reliability of intraoral conventional tracer and intraoral digital tracer in different positions for recording horizontal jaw relation in edentulous patients
+AUTHORS: Abbad Nikhil Bharat, Srivastava Rajeev, Choukse Vivek, Sharma Vandana
+JOURNAL: The Journal of the Indian Prosthodontic Society
+ID[pmcid]: PMC6482625
+ID[pmcid-ver]: PMC6482625.1
+ID[pmcaid]: 6482625
+ID[pmcaiid]: 6482625
+ID[pmid]: 31040550
+ID[doi]: 10.4103/jips.jips_269_18
+ID[publisher-id]: JIPS-19-159
+
+## ABSTRACT
+Aim:The purpose of the study is to evaluate and compare the horizontal mandibular positions recorded between intraoral conventional tracer and intraoral digital tracer in upright and supine position.
+Materials and Methods:Twenty-four edentulous patients with well-formed ridge and adequate interarch distance space were selected. MATLAB software was assimilated with intraoral digital tracer and was utilized in the study for recording the horizontal movements of the mandible, i.e., gothic arch tracing by intraoral digital tracer and was observed on a laptop with the help of MATLAB Software. For each subject, multiple mandibular readings were recorded and analyzed through software, and similar readings were recorded with conventional intraoral tracers. The comparison between intraoral conventional tracer and intraoral digital tracer was done to assess the reliability. Moreover, the consistency of recording horizontal mandibular position was also compared between upright and supine position.
+Results:The data were procured and utilized in comparison for different positions revealed statistically significant difference by using Student's Paired t-test. The test resulted in supine position better compared to upright position (P = 0.0001). The association between supine position with upright position was calculated using Fischer's exact test, and it was also found to be statistically significant (P = 0.002). The Pearson's Correlation analysis was performed to check the agreement between upright and supine position and very weak downhill correlation (r2= −0.130) was observed between the two variables.
+Conclusion:On evaluation and comparison of horizontal mandibular position, it was found that the intraoral digital tracing technique is more valid compared to conventional intraoral tracer technique. It was also observed that the consistency of reproducibility in recording horizontal mandibular position in supine position is significantly higher than upright position.
+
+## INTRODUCTION
+
+Due to digitalization, there is progressing innovation and transition in many fields. Similarly, advances in dentistry also correlate with the assimilation of the digital field in diagnostic sciences. With this in mind, the study aims to revolutionize the method of intraoral tracing by introducing a digital component to it.
+
+Since the introduction of needlepoint tracer by Gysi in 1910, remained the most widely accepted method to record centric relation.[1] The conventional tracer along with its modification has proven to provide accurate readings. Nandini et al.[2] have done the experimental study in determining centric relation and concluded the order of efficiency: intraoral tracer being the most accurate followed by functiograph, Chandra tracer, checkbite, and hight tracer. Nevertheless, one of the drawbacks of these methods are readings cannot be visualized and stored. Hence, the study hypothesizes the introduction of a digital intraoral tracer for troubleshooting the problem. Hence, the MATLAB software which records the data in all dimensions was incorporated with intraoral digital tracer device which helped in visualizing the tracing made intraorally on the laptop screen. This is the first study which has recorded the horizontal mandibular position using MATLAB software, Maharastra.
+
+The aim of the study was to estimate and compare the reproducibility of horizontal mandibular relation recorded in upright and supine position by intraoral digital tracing technique and validity between intraoral conventional tracer and intraoral digital tracer.
+
+## MATERIALS AND METHODS
+
+Twenty-four edentulous patients who met the inclusion and exclusion criteria for the study were selected. The approval from Institutional Ethics Committee was procured to carry out the study and was conducted in the department of prosthodontics, crown bridge and implantology and consent was taken from the selected individuals.
+
+### Inclusion criteria
+
+Subjects with both maxillary and mandibular complete edentulous archesWell-formed maxillary and mandibular ridges help for better stability of tracerInter ridge distance 22 mm or more gives the adequate space for placing tracer.
+
+### Exclusion criteria
+
+Subjects with macroglossiaLimited mouth openingSigns and symptoms of temporomandibular joint disordersPoor neuromuscular controlExtraction socket.
+
+### Methodology
+
+By implementing the conventional technique for impressions, the final impression was made, and master cast was obtained using dental stone. Heat cure acrylic denture base was fabricated on master cast with heat cure acrylic resin (Acrayln-H). The permanent bases obtained were finished polished and working cast (Kalrock, Kalabhai, India) was obtained out of them and occlusal rims were prepared on it which was adjusted in the patient's mouth to register the maxillomandibular relations. Orientation jaw relation was recorded with the help of Facebow (Hanau Springbow), and the maxillary cast was mounted on semi-adjustable articulator (Hanau Wide Vue II). Then, at conventionally established vertical dimension, the tentative centric relation was registered and was transferred to the articulator. For the attachment of intraoral tracer's assembly, the occlusal rims were reduced to obtain sufficient space for the attachment of central bearing plate and intraoral digital tracers. A custom modified central bearing screw in the form of stylus was fabricated for the study. The screw was fabricated using CNC machine (DX200, Die, and tools) [Figures 1 and 2]. The central bearing plate and screw were attached to maxillary occlusal rim through modeling wax. The adjustment of the central bearing device was done in such a way that stylus was above the level of occlusal rim. A specially customized intraoral digital tracing device was fabricated (Invention India) [Figure 3]. The digital tracer was attached to lower mandibular wax rim and stabilized with modeling wax (Prodent Modelling Wax), and similarly, the tracers for the conventional intraoral tracer was attached to Maxillary and Mandibular occlusal rim. The central bearing plate and screw were attached to maxillary occlusal rim through modeling wax. The central bearing plate along with graph paper was attached to mandibular occlusal rim with modeling wax [Figure 4].
+
+[FIGURE] Central bearing plate
+
+[FIGURE] Custom modified screw
+
+[FIGURE] Intraoral digital tracing plate
+
+[FIGURE] Maxillary central bearing device and mandibular central plate with graph
+
+### Recording apparatus customized intraoral digital tracing device
+
+The system consisted of three parts namely intraoral digital tracer, extraoral digitizer circuit, and a laptop having MATLAB analysis software program. MATLAB software allows plotting of functions and data having integrated graph-plotting features. The function plot can be used to produce a graph from two vectors X and Y. A resistance intraoral digital tracer (2.5 cm × 3.5 cm) (400–500 mg in weight) was connected to an extraoral digitizer control circuit, to an A/D converter with input to a laptop through a MAX 232C interface [Figures 5–7].
+
+[FIGURE] Extraoral circuit
+
+[FIGURE] Maxillary rim with stylus and mandibular rim with digital tracer
+
+[FIGURE] Stylus touching the intraoral digital tracer
+
+The principle behind this technique is, when the stylus comes in contact with intraoral digital tracer co-ordinates (X, Y) are obtained on the laptop. The readings were recorded in both upright and supine positions. The readings with conventional Intra oral tracer were confirmed with Intraoral digital tracer to check the validity.
+
+### Evaluation of intraoral digital tracing guidance system
+
+In intraoral tracing technique, subjects were seated comfortably in chair. Both occlusal rims with their respective central bearing devices and intraoral digital tracer were placed in subject's mouth. The subject was then asked to close the mouth lightly until the stylus comes in contact with intraoral digital tracer. After confirming contact between stylus and intraoral digital tracer, the subjects were asked to close the mouth in the most retruded position, followed by guiding the subjects to move the mandible on left side and right side.
+
+After lateral movement, the subject was asked to move mandible in retruded position followed by forward and backward movement and rest in the original position. The form of tracing in the shape of arrowhead was evident on the laptop screen. The apex of this arrowhead tracing determines X and Y Co-ordinates [Figure 8]. After readings were obtained in upright position, similar procedure was performed in supine position [Figures 9 and 10].
+
+[FIGURE] MATLAB software
+
+[FIGURE] After consent recording of horizontal mandibular position in upright position
+
+[FIGURE] After consent recording of horizontal mandibular position in supine position
+
+### Evaluation of conventional intraoral tracer
+
+Similarly, subjects were asked to seat comfortably in both positions upright and supine to carry out intra oral tracing procedure. The stylus marker touching graph paper on mandibular occlusal rim was placed in the mouth, and all lateral movements from starting point (Centric point) were carried out [Figure 11]. Marking on the plotted graph paper was to check the reproducibility in both upright and supine position. Reproducibility of conventional intraoral tracer was confirmed with reproducibility of digital tracer in both positions, and the procedure is shown in brief in Flow Chart 1.
+
+[FIGURE] Conventional Intra oral tracer stylus touching plate with graph
+
+[FIGURE] The chart depicts the how the study was executed
+
+All the readings obtained in upright and supine position for the guidance system were analyzed statistically.
+
+## RESULTS
+
+This clinical study evaluated and compared the horizontal mandibular positions produced by intraoral digital tracer in upright and supine positions.
+
+Student's Paired t-test was applied to compare the readings obtained from intraoral digital tracing in both supine and upright positions. It was found the values were significantly higher in supine position (P = 0.0001) [Table 1].
+
+[TABLE] Comparison of readings obtained from Intra oral tracing in supine position and intraoral tracing upright position
+Mean | 3.8000 | 5.1200
+Median | 4 (0-5) | 5 (3-7)
+SD | 0.81650 | 1.33292
+P | 0.0001
+
+The association of intraoral tracing in supine position with upright position was calculated using Fischer's exact test. Significant difference in frequency distribution of various observations was noted (P = 0.002).
+
+Correlation analysis using Pearson's correlation was applied to check the agreement between supine and upright position and very weak downhill correlation with no significance (P = 0.535) was found between two variables [Table 2].
+
+[TABLE] Correlation analysis of Intraoral tracing in upright position and intraoral tracing in supine position
+Intraoral tracing upright position
+Pearson correlation | 1 | −0.130
+Significant (two-tailed) | - | 0.535
+n | 25 | 25
+Intraoral tracing supine position
+Pearson correlation | −0.130 | 1
+Significant (two-tailed) | 0.535 | -
+n | 25 | 25
+
+[Graph 1] shows the mean of reproducibility of horizontal mandibular position in intraoral tracing techniques in upright and supine position. The frequency mean reproducibility determined by the intraoral tracing techniques in upright was 3.8 and in supine position was 5.12. This graph concludes intraoral tracing techniques in supine position generates maximum reproducibility compared to other techniques.
+
+[FIGURE] Comparison of reproducibility (median) determine by the Light chin guidance and intraoral tracing technique in supine position
+
+Graph 2 shows the bar chart correlating intraoral tracing technique between upright and supine position. Supine position shows significantly higher values than upright position.
+
+[FIGURE] Bar chart correlating using Pearson's correlation was performed to check the agreement between supine and upright position
+
+## DISCUSSION
+
+The accurate recording and transfer of jaw relation from the edentulous patient to the articulator is essential for the restoration of speech, function, facial appearance, and comfort of the patient's stomatognathic system. This in vivo study evaluates and compares the reproducibility of horizontal mandibular position recorded by intraoral tracing technique in upright versus supine position using a digital device.
+
+Centric relation is considered as a repeatable reference relationship which helps us to coordinate the occlusion. The patient's body position and guidance methods used by the clinician may alter centric relation position. There is no consensus yet on the optimal technique for determining centric relation with reference to the physiological concept.
+
+Rubel[34] in 1866 initially explained the graphic recording method which was further modified and accepted as one of the accurate methods for recording centric relation. In 1929 it was conluded that tracing technique had only a 5° error, whereas wax and compound bites had a 25° error.Nosti[6] stated that intraoral tracing method was preferred for obtaining consistent and accurate position of the mandible at a comfortable vertical dimension of occlusion. However, till date, the horizontal jaw relation with digital tracers combining MATLAB software has not been discussed.
+
+The advantage of digital tracer over conventional tracing method, namely visualizing, data storage, repeatable accessibility, this tracer can be used for edentulous, dentulous and even for the temporomandibular joint disorder patients.
+
+In this study, 24 clinically healthy edentulous patients were selected, and their frequency of reproducibility of readings was obtained from digital tracing device in upright and supine position. In the upright position, mean reproducibility of horizontal mandibular position determined by intraoral tracing technique was 3.8, and in supine position the mean reproducibility value was 5.12.
+
+In this study, we found that supine position was better than upright position for recording horizontal mandibular position by digital tracing method. A similar study by Watanabe[78] stated that intraoral gothic arch tracing showed more accurate reproducibility of mandibular position in supine as compared to upright position. He also explained that after intraoral tracing, bimanual manipulation in supine was much closer than in upright position. Light chin guidance showed large variation in upright position compared to supine position.
+
+In a study by Lund et al.,[9] Moller et al.,[10] Tripodakis et al.[11] similar result was obtained in relation to position i.e., supine was better than upright, but the technique used the study was conventional method. It stated that the supine position is suitable for recording the most retruded position of the mandible compared to the upright because there is reduced activity of lateral pterygoid muscle in supine position.
+
+The reason for following intraoral gothic arch tracing over other method has proven to provide more accurate recording. In the study by Jones PM[1] EL-Aramany et al.,[5] Smith[12] Langer and Michman[13] Myer et al.,[14] Linsen et al.[15] and Sabarigirinathan et al.[16] stated that intraoral gothic arch tracing was the most precise (repeatable) method compared to other centric jaw relation methods. The use of an intraoral tracing device with central bearing point improves the accuracy and the reliability of the recording of centric relation in any complete denture technique. Accurate records for centric jaw relation can be made with many techniques, but the chances of error were more in tactile techniques as compared to intraoral tracing technique. Stated that the skill of the dentist and cooperation of the patient are probably the most important factors in securing an accurate centric relation record.
+
+Many studies have been conducted by Watanabe[8] in relation to intraoral digital tracer, the horizontal mandibular positions were observed using both the digital gothic arch tracing device and diagnostic dentures before insertion and after 1 and 3 months following insertion. The gothic arch (GoA) and tapping point after 50 times (TaP) were produced by free tracing with the patient in the upright position and supine position. The patient did not report any pain or discomfort, and therefore the definitive dentures were fabricated using the centric relation position.
+
+The limitation of this intraoral digital tracing method is it is difficult to transfer this record to virtual articulator. Very limited data are available on the intraoral digital tracing since in our study, we found that intraoral digital tracing provides the most accurate reading. Hence, more research in the field of digital tracing method needs to be considered.
+
+## CONCLUSION
+
+Within the limitations of vivo study following conclusions can be drawn:
+
+Intraoral digital tracing method to record horizontal mandibular position is a better technique compared to the conventional method in relation to visualization and accuracy.The horizontal mandibular position recorded in supine position gives more accurate readings as compared to upright position.
+
+### Declaration of patient consent
+
+The authors certify that they have obtained all appropriate patient consent forms. In the form the patient(s) has/have given his/her/their consent for his/her/their images and other clinical information to be reported in the journal. The patients understand that their names and initials will not be published and due efforts will be made to conceal their identity, but anonymity cannot be guaranteed.
+
+### Financial support and sponsorship
+
+Nil.
+
+### Conflicts of interest
+
+There are no conflicts of interest.
