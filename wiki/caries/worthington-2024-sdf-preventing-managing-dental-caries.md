@@ -6,7 +6,7 @@ date: 2024-11-01
 doi: "10.1002/14651858.CD012718.pub2"
 source: worthington-2024-sdf-preventing-managing-dental-caries.md
 category: [caries]
-confidence: sr
+evidence_level: sr
 text_path: /Users/oracleneo/llm-wiki/papers/worthington-2024-sdf-preventing-managing-dental-caries.txt
 text_filename: worthington-2024-sdf-preventing-managing-dental-caries.txt
 source_collection: pubmed-text
