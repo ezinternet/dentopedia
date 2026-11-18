@@ -23,6 +23,22 @@ Nationwide cross-sectional survey (n=300 Turkish dentists) found median knowledg
 
 전국 단면연구 (n=300, 터키 치과의사) — 중앙값 지식 점수 11/16, 응급 처치 역량을 느끼는 비율은 40%에 불과, 아나필락시스·고혈압 위기·뇌전증 발작에서 결정적 지식 격차 확인.
 
+## Three-line Summary
+
+Nationwide cross-sectional survey (n=300 Turkish dentists, 66.6% response rate) using a 16-scenario knowledge questionnaire and Likert-scale attitude/preparedness instrument to characterize emergency readiness in clinical practice.
+
+Median knowledge score was 11/16; only 40% felt clinically competent to manage emergencies; critical knowledge gaps identified for anaphylaxis, hypertensive crisis, and epileptic seizures despite adequate performance on common scenarios (syncope, bleeding).
+
+Emergency drug/equipment availability significantly correlated with self-perceived competence; avoidance of high-risk patients was a frequent consequence of low preparedness, underscoring the clinical safety implications.
+
+## 세줄요약
+
+전국 단면연구 (n=300, 터키 치과의사, 응답률 66.6%): 16개 시나리오 설문 + 리커트 태도·준비도 척도로 응급 처치 준비도 측정.
+
+중앙값 지식 점수 11/16; 40%만 응급 처치 역량 보유 느낌; 아나필락시스·고혈압 위기·뇌전증 발작에서 결정적 지식 격차 (일반 시나리오인 실신·출혈은 양호).
+
+응급 장비·약품 구비가 역량 자기 인식과 유의하게 연관; 준비도 낮은 치과의사에서 고위험 환자 회피 행동 빈번 — 임상 안전 함의.
+
 ## 1. Document Information
 
 - Journal: Healthcare (Basel), Vol. 14, No. 6, 2026
