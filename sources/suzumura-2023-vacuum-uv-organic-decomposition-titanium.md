@@ -23,6 +23,22 @@ In vitro study (grade 4 cp-Ti + grade 5 Ti-6Al-4V + PMMA; methylene blue as mode
 
 In vitro 연구 (상업용 티타늄, 메틸렌블루 모델 유기분자): 진공자외선 (VUV, 172 nm 크세논 엑시머 램프)이 1분 처리로 UVC(2%)·고에너지UVC(36%)·전용UV장비(42%) 대비 57% 유기물 분해 달성; 이산화티타늄 광촉매 기여도는 ~20–25%에 불과.
 
+## Three-line Summary
+
+Suzumura et al. (2023) from the UCLA Ogawa group conducted an in vitro study comparing vacuum ultraviolet (VUV, 172 nm xenon excimer) against three other UV sources—standard UVC (254 nm), high-energy UVC (HUVC, TheraBeam Affiny), and proprietary UV (PUV, SuperOsseo)—for organic molecule decomposition on commercially pure titanium and Ti-6Al-4V surfaces, using methylene blue as a model organic surrogate for hydrocarbon contamination. The study addressed a critical practical bottleneck: conventional UV photofunctionalization protocols require 12–48 hours, limiting chairside clinical utility.
+
+VUV irradiation decomposed 57% of coated methylene blue within 1 minute, far exceeding UVC (2%), HUVC (36%), and PUV (42%). The study also quantified that TiO₂ photocatalysis accounts for only approximately 20–25% of total decomposition across all UV sources, establishing that direct UV photolysis—dependent on photon energy—is the dominant mechanism rather than surface chemistry. This mechanistic finding explains why shorter wavelengths achieve faster decomposition through photon energy exceeding the bond dissociation threshold of organics adsorbed on titanium.
+
+A practically significant finding was that quartz ampoule containment does not significantly reduce VUV efficacy, enabling sterile sealed packaging during treatment and solving the problem of recontamination between unpacking and implant placement. The main clinical translation challenge is that VUV at 172 nm is absorbed by atmospheric oxygen and requires nitrogen purging or sealed quartz containment for delivery, and the VUV device used (xenon excimer) was research-grade rather than commercially available at the time of publication.
+
+## 세줄요약
+
+스즈무라 등(2023)은 UCLA 오가와 그룹에서 티타늄 표면 유기물 분해에 진공자외선(Vacuum Ultraviolet, VUV, 172 nm 크세논 엑시머)이 표준 UVC(254 nm)·고에너지 UVC(HUVC)·전용 UV(PUV) 대비 얼마나 빠른지를 메틸렌 블루(탄화수소 오염 대리 물질)로 정량 비교했다. 현재 자외선 광기능화(UV Photofunctionalization, UV-PF) 프로토콜은 12–48시간을 요구해 임상 적용에 실질적 장애가 된다는 문제를 겨냥했다.
+
+VUV는 1분 처리로 메틸렌 블루 57% 분해(UVC 2%, HUVC 36%, PUV 42%)를 달성했다. 이산화티타늄(TiO₂) 광촉매 기여도는 ~20–25%에 불과해, 주요 메커니즘은 광자 에너지에 의한 직접 광분해임이 확인됐다—짧은 파장일수록 더 높은 광자 에너지로 티타늄 흡착 유기물의 결합 해리 임계를 초과한다.
+
+석영 앰플 밀봉이 VUV 효율을 유의하게 저하시키지 않아 개봉-식립 사이 오염 방지 무균 포장 처리가 가능하다. 주요 임상 번역 장애: VUV(172 nm)는 대기 중 산소에 흡수되어 질소 퍼지 또는 석영 용기가 필요하고, 본 연구에 사용된 장비는 연구용 시제품이다.
+
 ## 1. Document Information
 
 - Journal: Journal of Functional Biomaterials, 14(1), art. 11 (January 2023)
