@@ -6,7 +6,7 @@ date: 2024-08-22
 doi: "10.1111/clr.14344"
 source: lam-2024-alveolar-ridge-preservation-in-posterior.md
 category: bone-regeneration/ridge-preservation
-confidence: rct
+evidence_level: rct
 text_path: /Users/oracleneo/llm-wiki/papers/lam-2024-alveolar-ridge-preservation-in-posterior.txt
 text_filename: lam-2024-alveolar-ridge-preservation-in-posterior.txt
 source_collection: pubmed-text
