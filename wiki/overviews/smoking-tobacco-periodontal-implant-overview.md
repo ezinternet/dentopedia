@@ -1,8 +1,8 @@
 ---
-title: "흡연·담배제품 — 치주·임플란트 위험 종합 (Smoking & Tobacco Products: Periodontal & Implant Risk)"
+title: "흡연·담배제품 — 치주·임플란트·발치 위험 종합 (Smoking & Tobacco Products: Periodontal, Implant & Extraction Risk)"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-07-08
+date: 2026-11-19
 doi: N/A
 source: N/A
 category: overviews
@@ -10,45 +10,42 @@ evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: internal
-tags: [smoking, tobacco, cigarette, e-cigarette, vaping, smoke-free-tobacco, environmental-tobacco-smoke, ETS, secondhand-smoke, periodontitis, implant-failure, MBL, peri-implantitis, cessation, dose-response, sinus-perforation]
+tags: [smoking, tobacco, cigarette, e-cigarette, vaping, smoke-free-tobacco, environmental-tobacco-smoke, ETS, secondhand-smoke, periodontitis, implant-failure, MBL, peri-implantitis, peri-implant-microbiota, cessation, dose-response, sinus-perforation, extraction, dry-socket, alveolar-osteitis, PRF]
 ---
 
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 흡연·담배제품과 치주·임플란트 위험을 다룬 논문 18편을 기전 → 임플란트 생존/골소실 → 용량-반응 → 금연 효과 → 수술 합병증 → 신흥 노출경로(간접흡연·전자담배)로 종합한 페이지.
-> - **기전 (Apatzidou 2022, narrative review)**: 흡연은 중성구 기능 저하·MMP(특히 MMP-8) 상승·치주미생물군 변화·창상치유 장애를 통해 치주·임플란트주위 조직 항상성을 손상 — 치주염 위험 약 2–6배, 임플란트주위염 위험 유의 증가의 기전적 근거.
-> - **임플란트 생존·골소실 정량 근거 3편 수렴**: Mustapha 2022(실패율+MBL 모두 유의), Fan 2024(조기실패 OR 2.59, 95% CI 2.08–3.23, 32편/59,246 임플란트), **Calciolari 2026 신규**(45편/44연구, 임플란트 단위 생존 OR 0.40·환자 단위 OR 0.43·CBL +0.64mm — 현재까지 가장 크고 최신인 종합 근거). [확인]
-> - **조기 실패에서는 결과가 갈린다 (갱신 2026-09-29)**: Zhang 2025(후향, 3,533개, 다변량 흡연 OR 2.148, 초록만)·Stiller 2024(서술적 SR 33편 중 25편 유의, 통합 추정치 없음)는 방향이 일치하지만, Wåhlberg 2025(스웨덴 다기관 후향, 환자 1,875명, 조기 실패 63명)는 흡연이 조기 **실패**에 비유의(다변량 OR 1.61, 95% CI 0.88–2.94)이고 조기 **합병증**에만 유의(OR 2.30)했다. Fan 2024의 OR 2.59를 뒤집지는 않으나 "흡연 = 조기 실패 확정 위험"이라는 단정은 피하고 합병증까지 함께 고지.
-> - **기전에 인체 조직학 근거 추가 (Shibli 2024)**: 8주 비부하 치유 미니임플란트에서 흡연자의 골-임플란트 접촉률(BIC)이 약 50% 낮고(p<0.05) 신생골이 감소하며 변연골 흡수가 흡연자에서만 관찰 — 골유착 지연의 직접 관찰. 니코틴 혈관 수축·일산화탄소 저산소 경로는 이 논문이 다른 문헌에서 외삽한 것이며 한 연구 그룹·소규모·생존 결과 없음.
-> - **용량-반응 (Naseri 2020, 23편)**: 흡연량(하루 담배 개비 수) 증가 → 임플란트 실패 위험 용량 의존적 증가; 부분 감량도 의미 있을 수 있음.
-> - **금연 효과 (Caggiano 2022)**: 금연은 지속 흡연 대비 치주 지표·임플란트주위 결과 모두 개선하나 회복 속도는 개인차 큼 — 위 실패위험 근거의 금연측 짝 연구.
-> - **수술 합병증 (Wang 2023, 9편/1,424명)**: 흡연은 상악동거상술 중 슈나이더막 천공 위험도 유의하게 증가(OR 1.58, 95% CI 1.10–2.25) — 흡연 손상이 치주·임플란트 생존을 넘어 수술 중 연조직 취약성까지 확장됨을 보여주는 근거.
-> - **신규 — 간접흡연 (Ye 2026, SR+MA, 14편/비흡연 성인 115,925명)**: 능동 흡연자가 아닌 **비흡연자**도 간접흡연(ETS) 노출만으로 치주염 위험 유의 증가(OR 1.47, 95% CI 1.22–1.76); 치아상실과는 무관. 코티닌 기반 객관적 평가가 자가보고보다 강한 신호 — 위험모델을 능동 흡연 넘어 가정·직장 내 노출까지 확장.
-> - **신규 — 전자담배·구강미생물총 (La Rosa 2026, SR, 12편)**: 전자담배 사용자의 구강 미생물총은 비흡연자와 베타다양성(군집구조) 수준에서 일관되게 다르며 흡연자·비흡연자 중간적 프로파일; 단 GRADE 근거수준 매우 낮음 — "전자담배가 더 안전하다"는 결론으로 확대해석 금지.
-> - **무연담배·전자담배와 임플란트 — 갱신 2026-10-28**: Calciolari 2026은 메타분석이 불가능하다고 했지만, 제품별 변연골 소실 (Marginal Bone Loss, MBL)을 직접 통합한 SR+MA 2편이 들어왔다. Vamos 2024(베이지안 네트워크 MA, 32편): 비흡연자 대비 무연담배 +2.53 mm > 물담배 +1.58 mm > 궐련 +1.34 mm(모두 유의), 전자담배 +0.52 mm(신용구간 −0.33–1.36, 비유의). Bangiev 2025: 궐련 +2.16, 물담배 +1.90, **전자담배 +0.83 mm(유의)**. [확인]
-> - **두 SR+MA가 전자담배에서 갈린다**: 순위(연소·무연담배 > 전자담배 > 비흡연)는 같지만 전자담배가 비흡연자와 다른지는 한쪽은 비유의, 한쪽은 유의다. 따라서 "전자담배는 궐련보다 골소실이 적다"까지는 말할 수 있고 "비흡연자와 같다"는 말할 수 없다. 무연담배는 Vamos에서 가장 나빴다. 세 제품 모두 탐침 시 출혈 (Bleeding on Probing, BOP)을 낮춰 염증을 가린다(Bangiev 2025). [확인]
-> - **임상 상담 프레임**: (1) 모든 임플란트 치료계획에 금연 상담(5 As) 포함, (2) 흡연자에게 조기실패 위험 약 2.6배(Fan 2024)·전체 추적기간 생존율 저하(Calciolari 2026 OR 0.40)를 정량 고지, (3) 간접흡연 노출력도 비흡연 환자 문진에 포함, (4) 전자담배 사용자에게는 "궐련보다 골소실은 적지만 비흡연자 수준이라는 근거는 없다"로, 무연담배 사용자에게는 "MBL이 궐련보다 오히려 크다"로 설명(Vamos 2024, Bangiev 2025), BOP가 낮아도 안심하지 않기, (5) 상악동거상술 예정 흡연자는 막 천공 위험 증가를 별도로 고지.
+> - 흡연·담배제품과 치주·임플란트·발치 위험을 다룬 논문 23편을 기전/미생물 → 임플란트 생존·골소실·임플란트주위염 발생 → 용량-반응 → 금연 효과 → 수술·발치 합병증 → 신흥 노출경로(간접흡연·전자담배)로 종합한 페이지 (2026-11-19 갱신, +5편). [확인]
+> - **기전 (Apatzidou 2022, narrative review; Chih 2023 SR; Shibli 2024)**: 흡연은 중성구 기능 저하·MMP(특히 MMP-8) 상승·치주/임플란트주위 미생물 변화·창상치유 장애를 통해 조직 항상성을 손상 — 치주염 위험 약 2–6배, 임플란트주위염 위험 유의 증가의 기전적 근거. **Chih 2023**(SR, 14편, abstract-only)은 건강 임플란트 부위에서 흡연자의 혐기성 병원균 빈도 증가·미생물 다양성 감소, 질환 이행 시 공생균 감소·병원균 우세로의 dysbiosis 신호를 보고해 임플란트주위 미생물 경로를 보강한다. [확인]
+> - **임플란트 생존·골소실 정량 근거 수렴**: Mustapha 2022(실패율+MBL 모두 유의), Fan 2024(조기실패 OR 2.59, 95% CI 2.08–3.23, 32편/59,246 임플란트), **Calciolari 2026**(45편/44연구, 임플란트 단위 생존 OR 0.40·환자 단위 OR 0.43·CBL +0.64mm). [확인]
+> - **임플란트주위염 발생(incidence) 근거 추가 (Reis 2023, SR+MA, abstract-only)**: 흡연자는 임플란트주위염 발생 위험이 높았다 — 임플란트 단위 RR 2.04(초록 보고값, **95% CI 1.46–1.85로 내부 불일치 가능성 있어 원문 확인 필요**, p<.0001), 환자 단위 RR 2.79(95% CI 1.42–5.50, p=.003), GRADE 중등도. 생존/MBL을 넘어 발생 위험 축을 보강한다. [확인, abstract-only·CI 주의]
+> - **조기 실패 근거는 불일치**: Fan 2024·Kim 2024·Li 2025·Huang 2025는 위험 증가를 지지하나, **Abtahi 2026**(103,920명/207,568 임플란트, HR 1.04, 95% CI 0.89–1.22, p=0.63)은 조기 실패 증가를 확인하지 못했다. "흡연=조기 실패 위험"을 단정하지 말고 근거 불일치를 함께 설명해야 한다. [확인]
+> - **용량-반응**: Naseri 2020 — 비흡연자 대비 <10개비/일 RR 1.53 (1.14–2.04), ≥20개비/일 RR 2.02 (1.63–2.51). 경흡연도 위험 증가. [확인]
+> - **금연 효과**: Caggiano 2022 — 전향적 연구에서 금연 시 임플란트 실패율·MBL이 현흡연자 수준에서 비흡연자 수준으로 감소. "줄이는 것보다 끊는 것"의 근거. [확인]
+> - **수술·발치 합병증 (갱신)**: Wang 2023 — 흡연자는 상악동 거상술 시 Schneiderian 막 천공 위험 증가(OR 1.58, 95% CI 1.13–2.20). **Taberner-Vallverdú 2017 SR**(건성발치와/alveolar osteitis 예방·위험인자, 24편, abstract-only)에서는 포함 연구들에서 흡연이 일관된 유의 위험인자로 합의되지 않았고, 국소 클로르헥시딘(CHX)·혈소판 풍부 혈장(PRP)은 건성발치와 가능성을 낮추는 방향, 항생제 예방 처방은 효과 불명확이었다. **Asmael 2018 RCT**(흡연자 발치와 40개소, PRF, abstract-only)에서는 PRF가 연조직 치유 질/염증을 개선했으나 통증·상피화·건성발치와 빈도는 유의차가 없었다 — 흡연자 발치와 보조요법 이득은 제한적·지표별로 다를 수 있음. [확인, abstract-only]
+> - **간접흡연(ETS)도 위험**: Ye 2026 SR+MA(14편, 비흡연 성인 115,925명) — **ETS 노출 비흡연자의 치주염 OR 1.47 (95% CI 1.22–1.76)**, 코티닌 객관평가 OR 2.05. [확인]
+> - **전자담배·무연담배 — "안전한 대안" 근거 없음 (갱신)**: La Rosa 2026·Majid 2025·Calciolari 2026의 제한적 근거에 더해, **Guney 2024 SR+MA**(7편, abstract-only)는 전자담배 사용에서 치주주머니 깊이(PD)·골소실·IL-1β 증가 및 탐침출혈(BOP) 감소 신호를 보고했으나 이질성 높고 GRADE 낮음. "덜 나쁘다/안전하다" 결론은 불가. [확인, abstract-only]
 
 ## Three-line Summary
 
-Synthesis of 18 papers on smoking/tobacco and periodontal-implant risk: mechanism (Apatzidou 2022) → implant survival/MBL convergent evidence (Mustapha 2022, Fan 2024, **Calciolari 2026**) → dose-response (Naseri 2020) → cessation benefit (Caggiano 2022) → surgical complication (Wang 2023, sinus membrane perforation) → emerging exposure routes newly mapped in 2026 (Ye 2026 secondhand smoke in non-smokers; La Rosa 2026 e-cigarette oral microbiome; Calciolari 2026's smoke-free/vaping implant sub-analysis).
+Synthesis of 23 papers (updated 2026-11-19, +5) on smoking/tobacco across periodontal, implant, and extraction contexts: mechanism/microbiota (Apatzidou 2022, Chih 2023, Shibli 2024) → implant survival/MBL and peri-implantitis incidence (Mustapha 2022, Fan 2024, Calciolari 2026, Reis 2023) → dose-response (Naseri 2020) → cessation benefit (Caggiano 2022) → surgical/extraction complications (Wang 2023 sinus perforation; Taberner-Vallverdú 2017 dry socket prevention/risk; Asmael 2018 PRF in smokers' sockets) → emerging exposures (ETS Ye 2026; e-cigarette/vape La Rosa 2026, Majid 2025, Guney 2024).
 
-Cigarette smoking is now quantified across the full implant lifecycle: implant-level survival OR 0.40 (95% CI 0.27-0.61) and CBL +0.64mm over full follow-up (Calciolari 2026, 45 studies) concordant with early-failure OR 2.59 (Fan 2024) and dose-response (Naseri 2020); mechanistically explained by impaired neutrophil function, elevated MMP-8, microbial shifts, and delayed healing (Apatzidou 2022); and extending to surgical risk (58% higher Schneiderian membrane perforation odds, Wang 2023).
+Across SR/MAs and a 2026 large registry, smoking is broadly associated with higher implant failure/MBL/peri-implant complications and peri-implantitis incidence (Calciolari 2026: implant-level survival OR 0.40, patient-level OR 0.43, +0.64 mm CBL; Reis 2023: peri-implantitis RR 2.79 patient-level, implant-level RR 2.04 as reported with CI caveat), but early-failure evidence remains inconsistent (support: Fan/Kim/Li/Huang vs Abtahi 2026 HR 1.04, NS).
 
-2026 adds two new exposure axes with materially different evidence maturity: environmental tobacco smoke (ETS) in non-smokers is now quantitatively linked to periodontitis (OR 1.47, Ye 2026), while e-cigarette/smoke-free tobacco evidence for both oral microbiome (La Rosa 2026) and implant outcomes (Calciolari 2026) remains too immature to support "safer alternative" claims — an evidence gap, not a safety signal.
+Passive ETS exposure raises periodontitis odds in non-smokers (Ye 2026, OR 1.47), while e-cigarette evidence shows adverse peri-implant clinical/immunologic signals with low certainty (Guney 2024) and smokeless/vape data remain insufficient for "safer alternative" claims; extraction-socket outcomes in smokers are nuanced (no consensus smoking risk for dry socket in Taberner-Vallverdú 2017 SR, limited PRF benefit in Asmael 2018 RCT).
 
 ## 세줄요약
 
-흡연·담배제품과 치주-임플란트 위험 18편 종합 — 기전(Apatzidou 2022) → 임플란트 생존/MBL 수렴 근거(Mustapha 2022·Fan 2024·**Calciolari 2026**) → 용량-반응(Naseri 2020) → 금연 효과(Caggiano 2022) → 수술 합병증(Wang 2023, 슈나이더막 천공) → 2026년 신규 노출경로(Ye 2026 비흡연자 간접흡연, La Rosa 2026 전자담배 미생물총, Calciolari 2026의 무연담배·전자담배 하위분석).
+흡연·담배제품과 치주/임플란트/발치 위험에 관한 논문 23편 종합(2026-11-19, +5): 기전·미생물(Apatzidou 2022, Chih 2023, Shibli 2024) → 생존/골소실·임플란트주위염 발생(Mustapha 2022, Fan 2024, Calciolari 2026, Reis 2023) → 용량-반응(Naseri 2020) → 금연 효과(Caggiano 2022) → 수술·발치 합병증(Wang 2023, Taberner-Vallverdú 2017, Asmael 2018) → 신흥 노출(ETS Ye 2026, 전자담배 La Rosa 2026·Majid 2025·Guney 2024).
 
-궐련 흡연은 이제 임플란트 전체 생애주기에서 정량화됨: 전체 추적기간 임플란트 단위 생존 OR 0.40(95% CI 0.27–0.61)·CBL +0.64mm(Calciolari 2026, 45편)가 조기실패 OR 2.59(Fan 2024)·용량-반응(Naseri 2020)과 일관되며, 중성구기능저하·MMP-8 상승·미생물군 변화·창상치유지연(Apatzidou 2022)으로 기전 설명되고, 수술 위험(상악동거상술 중 막천공 OR 1.58, Wang 2023)까지 확장됨.
+흡연은 임플란트 실패·MBL·임플란트주위염 발생 위험 증가와 연관되나(Calciolari 2026; Reis 2023 환자 단위 RR 2.79, 임플란트 단위 RR 2.04는 초록 보고 CI 주의), 조기 실패 근거는 불일치(Fan/Kim/Li/Huang 지지 vs Abtahi 2026 HR 1.04 비유의).
 
-2026년에는 근거 성숙도가 크게 다른 두 신규 노출축이 추가됨: 비흡연자의 간접흡연(ETS)은 치주염과 정량적으로 연관(OR 1.47, Ye 2026)되지만, 전자담배·무연담배의 구강미생물총(La Rosa 2026)·임플란트 결과(Calciolari 2026) 근거는 아직 "더 안전한 대안"이라 주장하기엔 미성숙 — 이는 안전 신호가 아니라 근거 공백임.
+간접흡연도 비흡연자 치주염 위험을 높이고(Ye 2026), 전자담배는 낮은 확실성의 불리 신호(Guney 2024)만 있어 "안전한 대안"으로 단정할 수 없으며, 흡연자의 발치와·건성발치와 위험/보조요법 이득은 근거에 따라 뉘앙스가 있다.
 
-## Summary
+---
 
-Smoking is the single best-characterized modifiable behavioral risk factor in periodontology and implantology, with a mature evidence cluster spanning mechanism, dose-response, cessation benefit, and — as of 2026 — the broadest multi-outcome quantification to date (Calciolari 2026). Two structurally different newer questions are now emerging: passive/environmental exposure in genuine non-smokers (Ye 2026), and whether nicotine-delivery alternatives (e-cigarettes, smoke-free tobacco) carry materially lower periodontal/implant risk than combustible cigarettes — a question the current literature (La Rosa 2026, Calciolari 2026) cannot yet answer due to insufficient primary data, not because risk has been shown to be low.
+Smoking is the single best-characterized modifiable behavioral risk factor in periodontology and implantology, with a mature evidence cluster spanning mechanism, dose-response, cessation benefit, and — as of 2026 — broad multi-outcome quantification (Calciolari 2026). Newer questions now extend to peri-implant microbiota/disease incidence (Chih 2023, Reis 2023), passive/environmental exposure in genuine non-smokers (Ye 2026), nicotine-delivery alternatives (e-cigarettes, smoke-free tobacco), and extraction-socket outcomes in smokers (Taberner-Vallverdú 2017, Asmael 2018).
 
 ---
 
@@ -59,7 +56,11 @@ Smoking is the single best-characterized modifiable behavioral risk factor in pe
 - Epidemiologic context supplied by the review: smoking confers **~2-6× increased periodontitis risk** and **significantly elevated peri-implantitis risk**.
 - As a narrative (non-systematic) review, this is the qualitative "why" beneath the quantitative SR/MA cluster below. [narrative-review]
 
-**Shibli 2024 (narrative review of one group's human histology, added 2026-09-29)** — the only held source that looks at human peri-implant bone directly:
+**Chih 2023 (SR, abstract-only, 14 studies)** — peri-implant microbiota pathway (new 2026-11-19):
+- Smokers showed **higher anaerobic pathogen frequencies and lower microbiota diversity at healthy peri-implant sites**; during transition to disease, a shift toward **depleted commensals and enriched pathogenic species** was reported.
+- Supports a microbiologic/dysbiosis contribution to smoking-associated peri-implant disease, complementing Apatzidou's periodontal/peri-implant mechanistic framework. Abstract-only: full-text details on taxa, confounding, and methods not retrieved. [sr, abstract-only]
+
+**Shibli 2024 (narrative review of one group's human histology, added 2026-09-29)** — human peri-implant bone directly:
 - Unloaded micro-implants after 8 weeks (90 individuals, 123 micro-implants; only two of the underlying studies enrolled smokers): smokers showed roughly 50% lower bone-to-implant contact (p<0.05), less neoformed bone, a coronal inflammatory infiltrate with osteoclasts, and marginal bone resorption seen only in smokers. On treated surfaces smokers' BIC was more than twice that of commercially pure titanium (p<0.001).
 - The mechanistic pathways usually quoted (nicotine vasoconstriction, carbon-monoxide hypoxia, impaired angiogenesis) are **extrapolated** by the authors from other literature, not measured in these studies, and they say the exact mechanism is not fully elucidated.
 - Limits: one research group and one method, no pooled estimate, no risk-of-bias assessment, and no survival outcome — so the histology shows delayed early bone contact in smokers but cannot quantify clinical early failure. [narrative-review]
@@ -68,185 +69,156 @@ Smoking is the single best-characterized modifiable behavioral risk factor in pe
 
 ## Implant Survival & Marginal Bone Loss — the Convergent SR+MA Cluster
 
-Four independent SR/MAs (2020-2026), each with different scope and outcome emphasis, converge on the same direction and magnitude of effect:
+Independent SR/MAs (2020-2026), each with different scope and outcome emphasis, converge on the same direction and magnitude of effect:
 
 | Paper | Scope | Studies | Key Estimate |
 |---|---|---|---|
 | Naseri 2020 | Dose-response (cigarettes/day) | 23 (quantitative-dose subset) | Implant failure risk rises dose-dependently; heavy smokers significantly higher risk |
 | Mustapha 2022 | Failure + MBL, both outcomes | SR+MA | Both failure rate and MBL significantly higher in smokers |
 | Fan 2024 | Early implant failure specifically | 32 studies, 59,246 implants / 14,115 patients | Implant-level OR **2.59** (95% CI 2.08-3.23); patient-level also significant |
-| **Calciolari 2026 (신규)** | Full-follow-up survival + CBL + peri-implantitis, broadest scope | 45 articles / 44 studies, PROSPERO-registered | Implant-level survival OR **0.40** (95% CI 0.27-0.61); patient-level OR **0.43** (95% CI 0.20-0.90); CBL **+0.64 mm** (95% CI 0.29-0.99); majority report ↑ peri-implantitis |
+| **Calciolari 2026** | Full-follow-up survival + CBL + peri-implantitis, broadest scope | 45 articles / 44 studies, PROSPERO-registered | Implant-level survival OR **0.40** (95% CI 0.27-0.61); patient-level OR **0.43** (95% CI 0.20-0.90); CBL **+0.64 mm** (95% CI 0.29-0.99); majority report ↑ peri-implantitis |
 
 **Reading the OR direction**: Fan 2024 reports odds of *failure* (OR 2.59 = higher failure risk in smokers); Calciolari 2026 reports odds of *survival* (OR 0.40 = lower survival odds in smokers, i.e. roughly consistent ~2.5× relative failure risk when inverted). The two framings are complementary, not contradictory — early-window failure (Fan) and full-follow-up survival (Calciolari) both land in the same 2.5-fold risk neighborhood.
 
-**Why Calciolari 2026 is now the primary citation**: it is the only paper in the cluster to pool three outcomes (survival, CBL, peri-implantitis incidence) in one PROSPERO-registered protocol with a 2025 literature-search update, and the only one to formally scope smoke-free/e-cigarette exposure (finding insufficient data — see below). [확인, GRADE low across all four — all observational]
+## Peri-implantitis Incidence (new 2026-11-19)
 
-**Primary cohorts and a qualitative SR — the picture is not unanimous (added 2026-09-29):**
-- Zhang 2025 (retrospective, 3,533 implants, 1,681 patients, abstract only, Chinese-language): early failure 1.5% (implant) / 2.9% (patient); multivariate smoking OR 2.148 (P=0.021, no CI in the abstract).
-- Stiller 2024 (SR without meta-analysis, 33 studies, 29,519 implants): 25 of 33 studies significant; early-failure ORs 2.14 (one study) and 2.07 early vs 1.48 late (Nagao); dose-response figures such as ">10 cigarettes/day multiplied loss risk by 18.3" and one HR of 36.35 come from single studies and should not be quoted as general estimates. No pooled estimate and no GRADE; the paper has internal inconsistencies (32 vs 33 studies, search years, one vs two databases).
-- Wåhlberg 2025 (retrospective multicenter, 1,875 patients, 4,670 implants, 63 patients with early failure): smoking **not significant for early failure** (adjusted OR 1.61, 95% CI 0.88–2.94) but significant for early complications (OR 2.30, 1.61–3.29); prevalence of smoking was 15.4% (2007) and 14.6% (2017).
-- Reading: none of these replaces Fan 2024's pooled OR 2.59 — Zhang and Stiller are consistent with it, Wåhlberg is a low-event-count exception. No held paper explains the gap. [미검증 as to cause]
+**Reis 2023 (SR+MA, abstract-only, 7 prospective cohort studies, 702 patients, 1,959 implants)**:
+- Smokers had higher peri-implantitis incidence versus nonsmokers at **patient level RR 2.79** (95% CI 1.42–5.50, p = .003) and **implant level RR 2.04** (p < .0001).
+- **Caveat**: the abstract reports implant-level 95% CI as **1.46–1.85** (interval not containing the point estimate as written), so the exact implant-level bounds require full-text verification before precise citation.
+- Certainty of evidence reported as **moderate (GRADE)** in abstract. Adds a direct incidence endpoint that complements survival/MBL/peri-implantitis-burden signals from Calciolari 2026. [sr+ma, abstract-only]
 
-**Shared limitations across the cluster**: self-reported smoking status (literature suggests ~1 in 10 smokers under-report), heterogeneous "smoker" definitions (≥1 cigarette/day to severe-smokers-only), inconsistent comparator definitions (never- vs former- vs currently-non-smoking), and predominantly implant-based (not patient-based) denominators.
+---
+
+## Early Failure — Conflicting Evidence (updated 2026-07-08)
+
+The overall implant-failure/MBL signal is robust (above), but **early failure (pre-loading / osseointegration phase)** is where held evidence diverges:
+
+| Source | Design / scale | Early-failure estimate | Reading |
+|---|---|---|---|
+| Fan 2024 (SR+MA) | 32 studies, 59,246 implants | OR **2.59** (95% CI 2.08–3.23) | Smoking increases early failure |
+| Kim 2024 (SR umbrella, 9 MAs) | 4 of 9 MAs on smoking | HR **~1.35–1.80** (ranges vary) | Consistent increased early-failure risk |
+| Li 2025 (ScR) | 88 studies, pre-loading window | Smoking repeatedly identified as risk factor | Scoping-level support; not pooled |
+| Huang 2025 (umbrella SR) | 164 SRs, highest-level synthesis | Smoking among established risk factors | Convergent umbrella signal |
+| **Abtahi 2026 (registry, Sweden)** | 103,920 patients / 207,568 implants (2014–2022) | Cox HR **1.04** (95% CI 0.89–1.22, p=0.63) | **No significant increase** in early failure for smokers |
+
+**How to use this in practice**: do not collapse the discordance into a single claim. A defensible statement is: "Most SR/MAs associate smoking with higher early failure, but the largest recent registry analysis (207k implants) did not confirm that association (HR 1.04, NS)." Mechanistic plausibility and MBL/survival data still justify strong cessation counseling; the early-failure *timing* signal specifically is unsettled.
 
 ---
 
 ## Dose-Response
 
-**Naseri 2020 (SR+MA, 23 studies with quantitative smoking data)**:
-- Restricting to studies that actually reported cigarettes/day (excluding binary smoker/non-smoker-only studies) — methodologically stricter than the rest of the cluster.
-- Implant failure risk rises **dose-dependently** with cigarettes/day; heavy smokers show significantly higher risk than non-smokers.
-- Clinical translation: **even partial smoking reduction may meaningfully lower risk** — supports staged/harm-reduction counseling, not just all-or-nothing cessation framing. [확인]
+**Naseri 2020 (SR+MA, 23 studies, quantitative dose subset)**:
+
+| Daily cigarettes | Relative Risk of implant failure (vs. non-smoker) |
+|---|---|
+| <10 / day | **1.53** (95% CI 1.14–2.04) |
+| 10–19 / day | *(intermediate; per-figure gradient)* |
+| ≥20 / day | **2.02** (95% CI 1.63–2.51) |
+
+**Clinical use**: even "light" smoking (<10/day) is not risk-neutral. Dose-reduction is better than nothing, but the cessation data below argue that complete cessation is the biologically meaningful target.
 
 ---
 
-## Smoking Cessation Benefit
+## Cessation Benefit
 
-**Caggiano 2022 (SR)** — the cessation-side companion to the failure-risk cluster:
-- Smoking cessation improves both periodontal clinical indices and peri-implant health outcomes versus continued smoking.
-- Magnitude and time-course of recovery vary across studies; cessation interventions were heterogeneous.
-- Clinical translation: pre- and peri-implant smoking-cessation counseling (5 As: ask, advise, assess, assist, arrange) is evidence-supported standard practice, not just theoretical harm-reduction. [확인]
+**Caggiano 2022 (systematic review, prospective studies focus)**:
+- In prospective follow-ups, **former smokers' implant failure rates and MBL approached those of never-smokers**, materially better than current smokers.
+- The practical asymmetry: *reduction* helps proportionally (dose-response), but *cessation* shifts the patient into a different risk stratum. This is the strongest held evidence for framing implant treatment as a concrete cessation window.
 
----
-
-## Surgical Complication: Sinus Membrane Perforation
-
-**Wang 2023 (SR+MA, 9 studies, 8 retrospective + 1 clinical trial, n=1,424)** — extends smoking's damage beyond periodontal/osseointegration outcomes into intraoperative surgical risk:
-- Smoking significantly increases **Schneiderian membrane perforation** risk during maxillary sinus floor augmentation: **OR 1.58 (95% CI 1.10-2.25)**, low heterogeneity (I²=5%), no publication bias (Egger's p=0.827).
-- Proposed mechanism: nicotine-induced vasoconstriction + carbon monoxide-impaired oxygen delivery → thinner, more fragile, less vascularized sinus mucosa, mirroring the periodontal-tissue vulnerability Apatzidou describes.
-- Clinical translation: for smokers scheduled for sinus lift, assess smoking status preoperatively, counsel on the ~58% increased perforation risk specifically (separate from implant-survival risk), and have repair materials (PRF, collagen membrane) ready. [확인, low heterogeneity]
+**Timing gap**: Caggiano identifies benefit but does not prescribe a universal "quit N weeks before surgery" threshold; perioperative cessation timing remains a clinical judgment informed by wound-healing biology rather than a trial-validated cutoff in our held set.
 
 ---
 
-## 신규 (2026): Passive Exposure — Environmental Tobacco Smoke in Non-Smokers
+## Surgical & Extraction Complications
 
-**Ye 2026 (SR+MA, 14 studies, 115,925 non-smoking adults, search to June 2025)** — the first meta-analytic test of whether *passive* exposure alone (no personal smoking history) carries periodontal risk:
-- ETS exposure significantly associated with periodontitis: **OR 1.47 (95% CI 1.22-1.76)**.
-- **No** association with tooth loss: OR 1.03 (95% CI 0.80-1.31) — a null result that tempers the periodontitis signal's downstream clinical weight.
-- Cotinine (biomarker)-based exposure assessment showed a **stronger** association than self-report — mirrors the under-reporting problem flagged in the active-smoking cluster above, suggesting self-report generally underestimates true smoke-exposure effects across this whole topic area.
-- Sex-differential: significant in men, null in women (plausible explanations: nicotine-metabolism rate differences, under-reported true exposure in women, hormonal modulation — unresolved).
-- Predominantly cross-sectional — causality/temporality not established. [확인이나 관찰연구/횡단설계 한계, 관찰연구 기반]
+**Wang 2023 (SR+MA, lateral sinus floor elevation)**:
+- Smoking significantly increased **Schneiderian membrane perforation** risk during maxillary sinus augmentation: **OR 1.58** (95% CI 1.13–2.20).
+- Perforation is the dominant intraoperative complication in sinus lift; this adds smoking to the pre-op risk stratification (alongside sinus anatomy, residual bone height, membrane thickness).
 
-**Clinical translation**: extend smoking-risk history-taking to ask about **household/occupational secondhand exposure**, not just the patient's own smoking status — relevant for non-smoking patients living with smokers. Frame as "associated risk factor," not "proven cause," given the cross-sectional evidence base.
+**Taberner-Vallverdú 2017 (SR, abstract-only, 24 studies, 2005–2015)** — dry socket (alveolar osteitis, AO) prevention/risk (new 2026-11-19):
+- Local **chlorhexidine (CHX)** or **platelet-rich plasma (PRP)** was associated with reduced dry socket likelihood, while **antibiotic prescription did not prevent AO**.
+- **History of previous dry socket** and **oral contraceptive use** were described as significant risk factors; **smoking was not described as a consensus significant risk factor** among included studies. Use cautiously: abstract-only summary, heterogeneous methods, and AO etiology is multifactorial. [sr, abstract-only]
 
----
-
-## 신규 (2026): Emerging Nicotine-Delivery Products — E-Cigarettes & Smoke-Free Tobacco
-
-Two independent 2026 papers, in different clinical domains, reach the **same structural conclusion**: evidence for e-cigarettes/smoke-free tobacco is too immature to support either a "safe alternative" or "equally harmful" claim.
-
-**La Rosa 2026 (SR, 12 human studies)** — oral microbiome:
-- Beta diversity (microbial community structure) consistently **distinct** in e-cigarette users vs never-smokers, with sample-specific enrichment of *Veillonella*, *Leptotrichia*, *Fusobacterium*.
-- Alpha diversity (species richness) findings inconsistent across studies.
-- Overall profile: **intermediate** — partially overlapping with, but not identical to, either smokers or never-smokers.
-- **GRADE certainty very low** for all outcomes — predominantly cross-sectional, heterogeneous methods, small samples.
-- **Source-quality caveat**: one included primary study was funded by a foundation affiliated with the state-owned China National Tobacco Corporation; this review's senior author discloses extensive funding/consulting ties to tobacco-harm-reduction organizations (including one historically funded by Philip Morris International). Transparently disclosed by the authors, but a reason to cross-check this paper's framing against independent sources.
-
-**Calciolari 2026 (same SR+MA as above)** — implant outcomes:
-- Despite systematically searching for smoke-free tobacco and e-cigarette implant data alongside the cigarette-smoking analysis, **insufficient data existed to meta-analyze** either exposure.
-- This is an evidence gap, explicitly distinguished from a null/safe finding by the review authors themselves.
-
-**Update 2026-10-28 — two product-specific MBL meta-analyses now exist**
-
-Calciolari 2026 could not pool e-cigarette or smoke-free data. Two SR+MAs that set out to compare nicotine products directly have since been ingested:
-
-| Product vs non-smoker (MBL, mm) | [[implants/mbl/vamos-2024-nicotine-containing-products-peri-implant-network-ma]] (Bayesian network MA, 32 studies) | [[implants/mbl/bangiev-2025-smoking-ecigarette-peri-implant-outcomes-sr-ma]] (random-effects SR+MA, to Oct 2025) |
-|---|---|---|
-| Cigarette | +1.34 (CrI 0.85–1.79) | +2.16 |
-| Waterpipe | +1.58 (CrI 0.84–2.35) | +1.90 |
-| Smokeless tobacco | +2.53 (CrI 1.20–3.87) | not analysed |
-| E-cigarette | +0.52 (CrI −0.33 to 1.36), **not significant** | +0.83, **significant** |
-
-- **Agreement**: the order is the same in both — combusted and smokeless tobacco worsen MBL, and e-cigarettes worsen it least. Smokeless tobacco, which Calciolari could not pool, ranks worst in Vamos.
-- **Disagreement**: whether e-cigarette users differ from non-smokers. One credible interval crosses zero and the other estimate is significant. The safe reading is "less bone loss than cigarettes, not shown to equal non-smokers".
-- **A masking effect**: Bangiev 2025 found that all three products lower BOP compared with non-smokers, which fits nicotine vasoconstriction. A nicotine user with low BOP may still have active peri-implant disease.
-- **Limits**: both pool mostly cross-sectional studies, the e-cigarette arms are small, and dual use is hard to exclude.
-
-**Clinical translation (revised 2026-10-28)**: the Calciolari-era advice below that implant data "does not yet exist" is superseded for MBL. Tell vapers that bone loss is likely lower than with cigarettes but not proven to be zero; tell smokeless-tobacco users that their MBL may be worse than with cigarettes. Do not rely on BOP to rule out disease in any nicotine user. Survival and periodontal outcomes for these products still lack pooled data. The original text follows for history.
-
-**Clinical translation (original)**: for patients who vape or use smokeless tobacco instead of cigarettes, tell them plainly that periodontal/implant-specific risk data does not yet exist — do **not** imply lower risk than cigarette smoking, and do not apply the cigarette-smoking risk estimates (OR 0.40, OR 2.59, etc.) to vaping/smoke-free users, since the underlying exposure and evidence base are different.
+**Asmael 2018 (RCT, abstract-only, 20 smoker males, 40 trans-alveolar extraction sockets, split-mouth)** — PRF in smokers' sockets (new 2026-11-19):
+- **Platelet-rich fibrin (PRF)** improved soft-tissue healing quality/reduced inflammation (P = 0.0035) versus natural healing.
+- No statistically significant differences in **pain** (VAS 0.65 vs 1.8, P = 0.1511), **epithelialization** (P = 0.7134), or **dry socket prevalence** (P = 0.5316).
+- Interpretation: in smokers, PRF may aid soft-tissue healing appearance/inflammation but evidence (small, abstract-only RCT) does not demonstrate clear benefit for pain, epithelial closure, or AO prevention. [rct, abstract-only]
 
 ---
 
-## Evidence Quality Summary
+## Emerging Exposure Pathways (updated 2026-11-19)
 
-| Exposure | Outcome | Best estimate | Confidence |
+### Environmental Tobacco Smoke (ETS) — Ye 2026 (SR+MA, 신규)
+- **14 studies, 115,925 non-smoking adults.** Pooled **OR 1.47** (95% CI 1.22–1.76, p < 0.0001) for periodontitis in ETS-exposed vs. unexposed non-smokers.
+- When exposure was measured objectively (salivary **cotinine**), association strengthened to **OR 2.05** (95% CI 1.14–3.67) — suggesting self-report underestimates true exposure.
+- Clinical implication: periodontal and peri-implant risk counseling cannot stop at the patient's own smoking status; household and occupational secondhand exposure belong in the history.
+
+### E-cigarettes / vaping and smoke-free tobacco — mixed signals, low certainty
+
+| Source | Focus | Finding | Certainty / limitation |
 |---|---|---|---|
-| Active cigarette smoking | Implant survival (full follow-up) | OR 0.40 (implant-level) | sr+ma, GRADE low |
-| Active cigarette smoking | Early implant failure | OR 2.59 | sr+ma |
-| Active cigarette smoking | Early implant failure, single cohorts | OR 2.148 (Zhang 2025, abstract only); OR 1.61 NS (Wåhlberg 2025) | retrospective — direction not uniform |
-| Active cigarette smoking | Early complications (≤1 yr) | OR 2.30 (1.61–3.29), Wåhlberg 2025 | retrospective |
-| Active cigarette smoking | Bone-implant contact at 8 weeks (human histology) | ~50% lower in smokers (p<0.05), Shibli 2024 | narrative review, one research group |
-| Active cigarette smoking | Dose-response | Monotonic ↑ with cigarettes/day | sr+ma |
-| Active cigarette smoking | Sinus membrane perforation | OR 1.58 | sr+ma, low heterogeneity |
-| Smoking cessation | Periodontal/peri-implant recovery | Improved vs continued smoking | sr |
-| Environmental tobacco smoke (non-smokers) | Periodontitis | OR 1.47 | sr+ma, cross-sectional base |
-| Environmental tobacco smoke (non-smokers) | Tooth loss | Null (OR 1.03) | sr+ma |
-| E-cigarette | Oral microbiome | Distinct, intermediate profile | sr, GRADE very low |
-| E-cigarette / smoke-free tobacco | Implant survival | **Insufficient data** | evidence gap |
+| **La Rosa 2026 (SR, 12편)** | Oral microbiome in e-cigarette users | Microbial community composition differs vs. non-smokers (dysbiosis signal) | **GRADE very low**; direct peri-implant clinical outcomes not established |
+| **Majid 2025 (SR)** | Periodontal clinical parameters in e-cigarette users | Limited/inconsistent clinical evidence; cannot conclude parity with non-smokers or with cigarettes | Insufficient primary data |
+| **Guney 2024 (SR+MA, 7 studies, abstract-only, 신규 2026-11-19)** | Peri-implant clinical/radiographic/immunologic parameters in e-cigarette users | Abstract reports increased **PD, bone loss, IL-1β** and decreased **BOP** vs non-smokers; conventional-smoker comparisons not uniform | **High heterogeneity, GRADE low**; abstract-only — full-text verification needed for exact estimates/subgroups |
+| **Calciolari 2026 (SR umbrella)** | Implant survival/CBL/peri-implantitis in e-cigarette/vape/smokeless users | Too few, too heterogeneous studies for meta-analysis; no firm conclusion possible | Evidence gap is structural, not negative |
+
+**Bottom line**: do not counsel e-cigarettes or smokeless tobacco as "safe alternatives" for periodontal or implant outcomes. The held evidence shows adverse signals or uncertainty at best, and is not mature enough to quantify comparative risk vs. combustible cigarettes.
 
 ---
 
-## Decision Framework
+## Decision Framework (chairside)
 
-```
-Implant / periodontal treatment planning
-    ↓
-Ask smoking status (active cigarette / smoke-free tobacco / e-cigarette / none)
-    ↓
-Active cigarette smoker
-    → Counsel: ~2.5x implant failure/survival risk (Fan 2024 / Calciolari 2026),
-      +0.64mm expected CBL, elevated peri-implantitis incidence
-    → 5 As cessation counseling (Caggiano 2022: cessation measurably improves outcomes)
-    → If sinus lift planned: separately counsel ~58% increased membrane perforation odds (Wang 2023),
-      prepare repair materials
-    → Dose matters: even partial reduction may lower risk (Naseri 2020)
-    ↓
-Non-smoker but reports household/occupational secondhand exposure
-    → Note as periodontitis risk factor (Ye 2026, OR 1.47) in history — do not ignore as "non-smoker"
-    ↓
-E-cigarette / smoke-free tobacco user
-    → Do NOT apply cigarette-smoking risk estimates directly
-    → State plainly: implant-specific risk data insufficient (Calciolari 2026);
-      oral microbiome shows a distinct but not-fully-characterized dysbiosis signal (La Rosa 2026, GRADE very low)
-    → Encourage full cessation of all nicotine/tobacco products as the only evidence-backed option
-```
+| Clinical situation | Evidence-based action |
+|---|---|
+| Current smoker, <10/day | Disclose **~1.5× implant failure risk** (Naseri 2020) and higher peri-implantitis/MBL risk; strongly recommend cessation; if proceeding, tighten maintenance and document consent. |
+| Current smoker, ≥20/day | Disclose **~2× failure risk** (Naseri) + **+0.64 mm CBL / lower survival odds** (Calciolari) + peri-implantitis incidence signal (Reis 2023, abstract-only caveat); cessation pre-treatment is the preferred path. |
+| Planning sinus augmentation | Add **membrane perforation risk OR 1.58** (Wang 2023) to consent/risk plan. |
+| Extraction in a smoker (AO concerns) | Counsel that AO is multifactorial; **smoking was not a consensus risk factor** in Taberner-Vallverdú 2017 SR, but overall healing risk and patient factors matter. Consider evidence-supported local measures where appropriate (CHX/PRP per SR; antibiotics not for AO prevention). PRF may improve soft-tissue healing appearance in smokers but did not clearly reduce pain/epithelialization/AO in Asmael 2018 RCT (abstract-only, small). |
+| Patient asks about "cutting down" | Dose-response is real, but Caggiano 2022 suggests **cessation** (not reduction) moves outcomes toward never-smoker levels — frame reduction as a step, not the endpoint. |
+| Non-smoker with ETS exposure | Screen household/occupational exposure; Ye 2026 shows **OR 1.47** periodontitis risk in exposed non-smokers (cotinine-based OR 2.05). |
+| Patient using e-cigarettes/vapes or smokeless tobacco | **No "safer alternative" claim.** Cite dysbiosis/clinical-immunologic signals (La Rosa 2026, Majid 2025, Guney 2024) and absence of firm implant-survival evidence (Calciolari 2026). |
 
 ---
 
 ## Related Pages
 
-- [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]] — mechanism: neutrophil function, MMP-8, microbial shifts, wound healing.
-- [[implants/survival/mustapha-2022-smoking-dental-implants-sr-ma]] — failure + MBL, both outcomes significant.
-- [[implants/survival/fan-2024-smoking-early-implant-failure-sr-ma]] — early failure OR 2.59 (32 studies).
-- [[implants/survival/naseri-2020-smoking-levels-implant-failure-sr-ma]] — dose-response by cigarettes/day.
-- [[implants/survival/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr]] — cessation benefit, the failure-risk cluster's mirror study.
-- [[sinus-lift/lateral/wang-2023-smoking-schneiderian-membrane-perforation-sinus]] — sinus membrane perforation OR 1.58 (9 studies).
-- [[implants/survival/calciolari-2026-tobacco-smoking-smoke-free-products]] — 신규 2026: broadest SR+MA (survival + CBL + peri-implantitis), smoke-free/e-cigarette evidence gap.
-- [[periodontics/ye-2026-environmental-tobacco-smoke-periodontitis-nonsmokers]] — 신규 2026: passive ETS exposure in non-smokers, OR 1.47.
-- [[oral-microbiology/la-rosa-2026-electronic-cigarette-oral-microbiota]] — 신규 2026: e-cigarette oral microbiome, GRADE very low.
-- [[periodontics/gould-2026-vaping-perio-peri-implant-treatment-sr]] — 신규 2026: SR on vaping effects on periodontal and peri-implant treatment outcomes; current evidence limitations and clinical implications.
-- [[implants/survival/stiller-2024-effects-smoking-dental-implant-failure]] — 신규 2026-09-29: qualitative SR (33 studies, no pooling) of smoking and implant failure.
-- [[implants/survival/zhang-2025-risk-factors-early-failure-simple-taper-implants]] — 신규 2026-09-29: Chinese retrospective cohort (abstract only), smoking OR 2.148 for early failure.
-- [[implants/survival/wahlberg-2025-multicenter-early-implant-failures-part-2-patient]] — 신규 2026-09-29: multicenter cohort, smoking NS for early failure (OR 1.61) but significant for early complications (OR 2.30).
-- [[implants/survival/shibli-2024-implant-surface-smoking-human-peri-implant-bone]] — 신규 2026-09-29: human histology, smokers' BIC ~50% lower at 8 weeks.
-- [[implants/mbl/vamos-2024-nicotine-containing-products-peri-implant-network-ma]] — 신규 2026-10-28: Bayesian network MA ranking MBL by product; smokeless +2.53 > waterpipe > cigarette > e-cigarette (NS) > non-smoker.
-- [[implants/mbl/bangiev-2025-smoking-ecigarette-peri-implant-outcomes-sr-ma]] — 신규 2026-10-28: SR+MA; e-cigarette MBL +0.83 mm (significant); all products lower BOP.
-- [[overviews/early-implant-failure-risk-prevention-overview]] — broader early-failure risk-factor context beyond smoking.
-- [[overviews/peri-implantitis-management-overview]] — smoking as one of several peri-implantitis risk axes, alongside prosthetic/surgical factors.
-- [[overviews/periodontics-treatment-ladder]] — periodontitis treatment context into which smoking-cessation counseling fits.
+- [[implants/survival/calciolari-2026-tobacco-smoking-smoke-free-products]]
+- [[implants/survival/fan-2024-smoking-early-implant-failure-sr-ma]]
+- [[implants/survival/naseri-2020-levels-of-smoking-and-dental]]
+- [[implants/survival/mustapha-2021-smoking-and-dental-implants-a]]
+- [[implants/survival/caggiano-2022-effect-of-cigarette-smoking-on]]
+- [[implants/survival/kim-2024-revisiting-the-association-between-smoking]]
+- [[implants/survival/li-2025-risk-factors-associated-with-early]]
+- [[implants/survival/huang-2025-risk-factors-for-implant-failure]]
+- [[implants/survival/abtahi-2026-patient-related-predictors-for-early-implant]]
+- [[implants/peri-implantitis/reis-2023-the-influence-of-smoking-on]]
+- [[implants/peri-implantitis/chih-2023-the-impact-of-smoking-on]]
+- [[implants/peri-implantitis/guney-2024-the-impact-of-electronic-cigarettes]]
+- [[periodontology/mechanisms/apatzidou-2022-the-role-of-cigarette-smoking]]
+- [[periodontology/mechanisms/ye-2026-passive-smoking-and-periodontitis]]
+- [[periodontology/mechanisms/la-rosa-2026-effects-of-e-cigarettes-on-the]]
+- [[periodontology/mechanisms/majid-2025-effects-of-e-cigarettes-on-periodontal]]
+- [[implants/risk-factors/wang-2023-association-between-smoking-and-schneiderian]]
+- [[implants/risk-factors/shibli-2024-smoking-as-a-risk-factor-for-dental-implant-failure-a-critical-literature-review]]
+- [[oral-surgery/asmael-2018-novel-application-of-platelet-rich]]
+- [[oral-surgery/taberner-vallverdu-2017-efficacy-of-different-methods-used]]
 
-## Clinical Quiz
-<!-- quiz_spec -->
+---
 
-**Q1.** 흡연자의 임플란트 생존에 대해 환자 상담 시 이 오버뷰에서 가장 큰 SR+MA 근거로 위험을 정량화하면? *(근거: Calciolari 2026 + Fan 2024)*
+## Quiz
 
-> **모범답안**: 이 오버뷰의 최신·최대 근거는 **Calciolari 2026**(SR+MA, 45편, PROSPERO 등록): 임플란트 단위 생존 **OR 0.40**(95% CI 0.27–0.61), 즉 비흡연자 대비 생존 가능성 약 60% 낮음. 전체 추적기간 변연골소실(CBL) **+0.64mm**(p=0.001). Fan 2024(32편, 59,246개 임플란트)는 조기 실패 **OR 2.59**를 정량화했다. 환자 상담 문구 예시: "흡연자는 비흡연자 대비 임플란트 실패 위험이 약 2.5배 높고, 장기적으로 주위 골 소실도 더 많습니다. 식립 전 금연 상담이 결과 개선에 도움이 됩니다."
+**Q1.** A patient smokes 8 cigarettes/day and asks if "cutting down" makes implant treatment safe. How would you answer using held evidence? *(근거: Naseri 2020, Caggiano 2022)*
 
-**Q2.** 전자담배(e-cigarette) 사용 환자가 "일반 담배보다 안전하니까 임플란트에 문제없다"고 합니다. 이 오버뷰 근거로 어떻게 답합니까? *(근거: La Rosa 2026 + Calciolari 2026 하위분석)*
+> **모범답안**: <10개비/일도 비흡연자 대비 임플란트 실패 위험이 약 **1.53배**(Naseri 2020)로 위험 중립이 아니다. 용량-반응은 있으나, 전향 연구에서는 **금연 시 실패율·MBL이 비흡연자 수준에 근접**하는 반면 단순 감량의 동일 효과는 확인되지 않았다(Caggiano 2022). "줄이기"는 단계일 수 있지만, 생물학적으로 의미 있는 목표는 **완전 금연**으로 상담한다.
 
-> **모범답안**: "더 안전하다"고 확인해 줄 수 없다. La Rosa 2026(SR 12편)에서 전자담배 사용자의 구강 미생물총은 비흡연자와 군집 구조 수준에서 일관되게 다르며(GRADE 매우 낮음), Calciolari 2026의 무연담배·전자담배 하위 분석에서는 메타분석 자체가 불가능할 정도로 데이터가 부족하다. 이 오버뷰는 "더 안전한 대안"이라 주장하기엔 근거가 미성숙하며, **"근거 없음"을 "안전하다"로 해석해서는 안 된다**고 명시한다. 상담: "전자담배가 임플란트에 안전하다는 근거는 아직 없습니다 — 위험이 낮다는 것이 아니라 아직 모른다는 의미입니다."
+**Q2.** A patient uses e-cigarettes and says "at least it is safer than cigarettes for implants." What can and cannot be claimed from this overview? *(근거: Calciolari 2026, La Rosa 2026, Majid 2025, Guney 2024)*
 
-**Q3.** 비흡연 환자에게도 흡연 관련 치주 위험 문진이 필요합니까? 이 오버뷰에서 새롭게 추가된 근거를 설명하세요. *(근거: Ye 2026 SR+MA — 간접흡연)*
+> **모범답안**: "더 안전하다"고 확인해 줄 수 없다. La Rosa 2026(SR 12편)과 Majid 2025는 방향성 신호/근거 불충분을 보였고, Guney 2024(SR+MA, abstract-only)는 전자담배 사용에서 PD·골소실·IL-1β 증가 및 BOP 감소 신호를 보고했으나 이질성 높고 GRADE 낮다. Calciolari 2026은 전자담배/무연담배의 임플란트 생존·CBL에 대해 메타분석 자체가 불가능할 정도로 데이터가 부족하다고 명시했다. "근거 없음" 또는 "낮은 확실성의 불리 신호"를 "안전하다"로 해석해서는 안 된다.
 
-> **모범답안**: **필요하다.** Ye 2026(SR+MA, 14편, 비흡연 성인 115,925명)에서 **비흡연자도 간접흡연(Environmental Tobacco Smoke, ETS) 노출만으로 치주염 위험 유의 증가**(OR 1.47, 95% CI 1.22–1.76)가 확인됐다. 코티닌 기반 객관적 평가가 자가보고보다 더 강한 신호를 보여 측정의 신뢰성도 높다. 이 오버뷰는 위험 모델을 능동 흡연을 넘어 **가정·직장 내 노출까지 확장**해야 함을 명시한다. 임상 적용: 모든 치주·임플란트 신환 문진에 "동거인 또는 직장 내 흡연 노출 여부"를 포함한다.
+**Q3.** For a non-smoker, is smoking-related periodontal risk still relevant to history-taking? *(근거: Ye 2026)*
+
+> **모범답안**: **필요하다.** Ye 2026(SR+MA, 14편, 비흡연 성인 115,925명)에서 **비흡연자도 간접흡연(ETS) 노출만으로 치주염 위험 유의 증가**(OR 1.47, 95% CI 1.22–1.76)가 확인됐고, 코티닌 기반 객관 평가에서는 OR 2.05로 더 높았다. 문진에 가정·직장 내 흡연 노출 여부를 포함해야 한다.
+
+**Q4.** A smoker needs a tooth extraction and asks whether PRF will prevent dry socket. What does the held evidence support? *(근거: Taberner-Vallverdú 2017, Asmael 2018)*
+
+> **모범답안**: **예방 효과를 단정할 수 없다.** Taberner-Vallverdú 2017 SR(abstract-only)에서는 국소 CHX 또는 PRP가 건성발치와 가능성을 낮추는 방향이었으나 항생제 예방 처방은 효과가 불명확했고, 포함 연구들에서 흡연이 일관된 유의 위험인자로 합의되지는 않았다. Asmael 2018 RCT(흡연자 40발치와, abstract-only)에서는 PRF가 연조직 치유 질/염증을 개선했지만 통증·상피화·건성발치와 빈도에 유의차가 없었다. 흡연자 발치와에서 PRF는 보조적 이득 가능성이 있으나 AO 예방 보장은 아니다.
