@@ -6,7 +6,7 @@ date: 2026-07-01
 doi: "10.1002/14651858.CD016359"
 source: takahashi-2026-nasoalveolar-moulding-therapy-orofacial.md
 category: [orthodontics]
-confidence: sr
+evidence_level: sr
 text_path: /Users/oracleneo/llm-wiki/papers/takahashi-2026-nasoalveolar-moulding-therapy-orofacial.txt
 text_filename: takahashi-2026-nasoalveolar-moulding-therapy-orofacial.txt
 source_collection: pubmed-abstract
