@@ -26,6 +26,9 @@ relations:
     target: kim-2013-implant-stability-retrospective-rfa-isq
   - type: extends
     target: won-2008-smartpeg-sterilization-rfa-implant-stability
+  - type: extends
+    target: stability-dip-fixture-treatment-decision-overview
+    note: "adds the intervention layer downstream of this measurement ladder — which surface/surgical lever to pick once a dip is measured, allocated by bone quality and site"
 ---
 
 ## 한국어 핵심요약
@@ -175,6 +178,7 @@ ISQ와 삽입토크(IT)는 보완 지표(상관 r=0.44, I²>90%, Tisci 2026 SR+M
 
 ## Related overviews
 
+- [[overviews/stability-dip-fixture-treatment-decision-overview]] — **NEW** (2026-11-17): 측정 다음 단계 — measured dip에 대응할 처치를 골질·부위별로 배정한 결정표
 - [[overviews/isq-loading-threshold]] — ISQ 임계값 종합 매트릭스 (기존)
 - [[overviews/sinus-lift-isq-loading-timing]] — Sinus elevation ISQ 궤적 (기존)
 - [[overviews/implants-clinical-decision-ladder]] — 임플란트 일반
