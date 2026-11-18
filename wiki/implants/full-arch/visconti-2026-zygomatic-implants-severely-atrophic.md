@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: "10.1002/14651858.CD004151.pub4"
 source: visconti-2026-zygomatic-implants-severely-atrophic.md
 category: [implants/full-arch]
-confidence: sr
+evidence_level: sr
 text_path: /Users/oracleneo/llm-wiki/papers/visconti-2026-zygomatic-implants-severely-atrophic.txt
 text_filename: visconti-2026-zygomatic-implants-severely-atrophic.txt
 source_collection: pubmed-text
