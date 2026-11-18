@@ -6,7 +6,7 @@ date: 2022-03-13
 doi: "10.1016/j.jmbbm.2022.105170"
 source: lim-2022-oxygen-shielding-glycerin-vacuum-3d-printed.md
 category: dental-materials
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-abstract
 tags: [glycerin, oxygen-inhibition, post-polymerization, 3d-printing, degree-of-conversion, denture-base]
 relations:
