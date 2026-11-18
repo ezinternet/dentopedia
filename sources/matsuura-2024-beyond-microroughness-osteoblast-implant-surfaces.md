@@ -23,6 +23,22 @@ Narrative review (UCLA Ogawa group): three non-coating surface strategies — na
 
 서사 리뷰 (UCLA Ogawa 그룹): 나노결절 텍스처링·메소 텍스처링·자외선 광기능화 (Ultraviolet Photofunctionalization, UV-PF) 3가지 비코팅 전략이 거친 티타늄 표면의 골아세포 "생물학적 딜레마"(증식↓분화↑의 역상관)를 해소해 증식·분화 동시 향상을 달성함을 종합.
 
+## Three-line Summary
+
+Matsuura et al. (2024) from the UCLA Ogawa group authored a narrative review addressing the "biological dilemma of osteoblast kinetics"—the well-established inverse correlation between osteoblast proliferation and differentiation on microrough titanium surfaces (Runx2-mediated)—as the fundamental unsolved problem of current implant surface design. The review synthesized evidence for three non-coating surface strategies: nanonodular texturing (TiO₂-sputtered soft-edge surfaces), meso-scale texturing, and ultraviolet photofunctionalization (UV-PF), each shown to simultaneously enhance both proliferation and differentiation rather than trading one for the other.
+
+Nanonodular texturing demonstrated 3–5× higher osteoblast attachment at 6 hours and approximately 2× greater proliferation compared to knife-edge microrough surfaces, with maintained differentiation markers and 3-fold greater biomechanical osseointegration in rat femur models. UV-PF's specific contribution was characterised as a "physicochemical surface reset"—removing the hydrocarbon carbon contamination pellicle (biological aging) that suppresses initial cell recruitment and shifting the starting conditions so that both proliferative and differentiative kinetics operate from a clean, superhydrophilic baseline.
+
+The clinical significance is that UV-PF is surface-agnostic (compatible with any topography including nanonodular and meso-scale textures) and can be applied immediately before implant placement to restore the biological activity that is lost during storage. This review frames the hydrocarbon pellicle as a modifiable obstacle to osseointegration rather than an inevitable material property, providing mechanistic rationale for UV-PF integration into clinical workflows.
+
+## 세줄요약
+
+마쓰우라 등(2024)은 UCLA 오가와 그룹의 서사 리뷰로, 거친 티타늄 표면에서 골아세포 증식과 분화가 역상관하는 "생물학적 딜레마(Biological Dilemma of Osteoblast Kinetics)"를 현재 임플란트 표면 설계의 근본 미해결 과제로 규정했다. 이를 극복하는 비코팅 전략 3가지—나노결절 텍스처링·메소 텍스처링·자외선 광기능화(Ultraviolet Photofunctionalization, UV-PF)—가 증식·분화를 동시에 향상시킴을 종합했다.
+
+나노결절 텍스처링은 6시간 시점 골아세포 부착을 3–5배 증가시키고, 분화 마커 유지하에 쥐 대퇴골 압출력(생체역학 골유합)을 3배 향상시켰다. UV-PF는 보관 중 티타늄 표면을 덮는 탄화수소 오염층(생물학적 노화)을 제거해 초친수성 상태를 복원하는 "물리화학적 표면 리셋"으로 규정됐다.
+
+UV-PF는 표면 형태와 무관하게(Surface-agnostic) 적용 가능해 나노결절·메소 텍스처링과 조합 가능하다. 임플란트 식립 직전 UV-PF 처치로 보관 중 손실된 생물학적 활성을 회복시킨다는 임상적 함의가 핵심이며, 탄화수소 피막을 불가피한 재료 특성이 아닌 수정 가능한 골유합 장애 인자로 재개념화한다.
+
 ## 1. Document Information
 
 - Journal: International Journal of Implant Dentistry, 10(1), art. 35 (July 2024)
