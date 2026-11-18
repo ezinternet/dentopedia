@@ -50,6 +50,9 @@ relations:
   - type: reinforces
     target: implants/surface/trisi-2003-bone-implant-contact-machined-dual-acid-etched
     note: "early human split-surface histomorphometry (2003, n=11) — dual acid-etched BIC 47.81% vs machined 19.00% at just 2 months, gap widening in low-density bone; the historical human-data anchor for the roughened-vs-machined direction this overview and czumbel-2019 (failure-rate RCT SR+MA) already establish"
+  - type: extends
+    target: stability-dip-fixture-treatment-decision-overview
+    note: "assigns this overview's surface axis (SLA/CA/SLActive/UV-PF) to bone-quality and site decision cells; carries forward the D3/D4 dip-removal thesis into an allocation matrix"
 ---
 
 ## 한국어 핵심요약
@@ -377,6 +380,7 @@ LLM-Wiki `implants/surface/` 35편+ (2026-06까지 15편+횡단인용 3편; 2026
 
 ## Related Overviews
 
+- [[overviews/stability-dip-fixture-treatment-decision-overview]] — **NEW** (2026-11-17): 이 페이지의 표면 축을 골질(D1–D4)×부위 결정표에 배정; SLA/CA/SLActive/UV-PF/OD/플라즈마 5가지를 어디에 쓸지
 - [[overviews/isq-loading-threshold]] — 표면별 stability dip과 부하 결정
 - [[overviews/sinus-lift-technique-selection]] — OD 술기 (표면처리 보완)
 - [[overviews/immediate-implant-conditions]] — 즉시식립에서 표면 선택
