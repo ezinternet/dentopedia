@@ -25,6 +25,22 @@ First SR+MA (7 RCTs, 186 participants) of VST for IIP in compromised sockets: 99
 
 VST(전정접근 소켓 치료)를 이용한 즉시식립에 대한 첫 SR+MA(RCT 7편, 186명): 임플란트 생존율 99.5%·연조직 양호하나, 비교군 대비 협측골판 두께 유의차 없음(GRADE 근거수준 매우 낮음).
 
+## Three-line Summary
+
+Soliman et al. (2026) published the first systematic review and meta-analysis (PROSPERO CRD42026128872) exclusively evaluating vestibular socket therapy (VST) for immediate implant placement (IIP) in compromised sockets, synthesising 7 RCTs involving 186 participants. VST, first described in 2020 by Elaskary, is a minimally invasive technique using vestibular tunnel access and a flexible cortical xenogeneic membrane to reconstruct a deficient buccal plate without crestal incision. The review assessed buccal bone plate thickness (primary outcome), implant survival, marginal mucosal level (MML), and pink esthetic score (PES).
+
+Overall implant survival was 99.5% (185/186) across all 7 trials, with no shield exposures, peri-implantitis, or dehiscences reported. Meta-analysis of 3 VST-versus-alternative trials showed no statistically significant difference in buccal bone plate thickness at any level (crestal +0.24 mm, mid-root +0.32 mm, apical +0.19 mm; all NS; I²=45–82%), though GRADE certainty was very low for all bone-thickness outcomes. VST demonstrated minimal mid-facial recession and stable papillae, with 91.6% of patients achieving PES >10 in one trial.
+
+A critical limitation is that all 7 included RCTs originated from one closely related Egyptian investigator network, with the VST originator (Elaskary) co-authoring this review, which substantially limits geographic generalisability and introduces potential reviewer bias. The maximum follow-up was 12 months; longer-term dimensional stability data are lacking. The bone-shielding sub-protocol (Elaskary 2024 trial) showed significantly greater crestal and mid-root bone thickness than the dual-zone comparator, suggesting the crestal cortical membrane barrier may be the critical determinant of VST's buccal bone preservation effect.
+
+## 세줄요약
+
+솔리만 등(2026)은 전정접근 소켓 치료(Vestibular Socket Therapy, VST)를 이용한 즉시식립(Immediate Implant Placement, IIP)을 평가한 첫 SR+MA(PROSPERO CRD42026128872)로 RCT 7편(186명)을 종합했다. VST는 2020년 엘라스카리가 처음 기술한 최소 침습 기법으로, 치조정 절개 없이 전정 터널 접근과 유연성 피질골 이종 차단막을 사용해 협측골판 결손을 재건한다.
+
+7개 전체 시험에서 임플란트 생존율 99.5%(185/186), 차단막 노출·임플란트 주위염·열개 없음. 3개 VST-대안군 비교 메타분석에서 협측골판 두께는 모든 수준에서 유의차 없었다(치조정 +0.24mm, 치근 중앙 +0.32mm, 근단 +0.19mm; 모두 비유의; I²=45–82%). GRADE 근거수준 전 골 두께 결과 매우 낮음. 연조직: 최소 협측 퇴축·안정적 치간유두, PES>10 달성률 91.6%(1개 시험).
+
+결정적 한계: 7개 RCT 전부가 동일 이집트 연구자 네트워크 소속이고 VST 창안자가 이 리뷰 공저자다—지역 일반화 가능성과 검토자 편향에 주의가 필요하다. 최대 추적 12개월, 장기 안정성 데이터 없음. 골 차단 하위 프로토콜이 대안군 대비 치조정·치근 중앙 골 두께에서 유의하게 우수해, 치조정 피질 차단이 VST 협측골 보존의 핵심 결정 인자일 가능성이 있다.
+
 ## 1. Document Information
 
 - Journal: Dentistry Journal 14(9):538, 2026 (MDPI, open access)
