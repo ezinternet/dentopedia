@@ -1,0 +1,49 @@
+TITLE: Comparison of the replicability of routinely used centric relation registration techniques
+AUTHORS: Keshvad A, Winstanley RB
+JOURNAL: J Prosthodont. 2003 Jun;12(2):90-101
+ID[pmid]: 12964681
+ID[doi]: 10.1016/S1059-941X(03)00036-6
+
+## ABSTRACT (abstract-only — full text not retrieved)
+1. J Prosthodont. 2003 Jun;12(2):90-101. doi: 10.1016/S1059-941X(03)00036-6.
+
+Comparison of the replicability of routinely used centric relation registration 
+techniques.
+
+Keshvad A(1), Winstanley RB.
+
+Author information:
+(1)Department of Adult Dental Care, School of Clinical Dentistry, University of 
+Sheffeld, Sheffield, UK.
+
+PURPOSE: This study was conducted to determine statistically the most repeatable 
+mandibular position of 3 centric relation methods.
+MATERIALS AND METHODS: Three centric relation recording methods commonly 
+reported in the literature were selected: bimanual mandibular manipulation with 
+a jig, chin point guidance with a jig, and Gothic arch tracing. Fourteen healthy 
+adult volunteers (7 males and 7 females), with an average age of 26.61 +/- 4.20 
+years and no history of extractions, temporomandibular joint dysfunction, or 
+orthodontic treatment, were selected for the study. Accurate casts were mounted 
+on an articulator (Denar D4A) by means of a facebow and maximum intercuspation 
+silicone registration record. A mechanical 3-dimensional mandibular position 
+indicator was constructed and mounted on the articulator enabling the operator 
+to analyze the mandibular positions in 3 spatial axes (x, anteroposterior; y, 
+superoinferior; z, mediolateral shift). Each centric relation method was 
+recorded four times on each subject (at baseline, 1 hour, 1 day, and 1 week at 
+approximately the same time of day). Records were transferred to the 
+articulator, and data were extracted using a stereomicroscope modified to accept 
+the mandibular position indicator.
+RESULTS: Variability within subjects ranged from 0.03 mm (left-side z axis for 
+the bimanual method) to 1.6 mm (left-side y axis for the Gothic arch method). To 
+indicate the least variable (most repeatable) method a comparison was made using 
+the F test. The bimanual method was the most consistent, showing between 10.11 
+(p = 1) and 0.438 (p = 0.005) times less variation than the Gothic arch method 
+(the least consistent). The repeatability of the chin point guidance method was 
+somewhere between the other 2 methods.
+CONCLUSIONS: The results of this study showed that of the 3 centric relation 
+methods evaluated, the bimanual manipulation method positioned the condyles in 
+the temporomandibular joint with a more consistent repeatability than the other 
+2 methods, whereas the Gothic arch was the least consistent method.
+
+DOI: 10.1016/S1059-941X(03)00036-6
+PMID: 12964681 [Indexed for MEDLINE]
