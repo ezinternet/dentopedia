@@ -6,7 +6,7 @@ date: 2024-10-01
 doi: "10.1002/14651858.CD010856.pub3"
 source: iheozor-ejiofor-2024-water-fluoridation-prevention-dental.md
 category: [caries]
-confidence: sr
+evidence_level: sr
 text_path: /Users/oracleneo/llm-wiki/papers/iheozor-ejiofor-2024-water-fluoridation-prevention-dental.txt
 text_filename: iheozor-ejiofor-2024-water-fluoridation-prevention-dental.txt
 source_collection: pubmed-text
