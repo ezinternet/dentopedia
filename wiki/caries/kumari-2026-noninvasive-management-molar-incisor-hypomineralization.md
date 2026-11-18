@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: "10.1002/14651858.CD016369"
 source: kumari-2026-noninvasive-management-molar-incisor-hypomineralization.md
 category: [caries]
-confidence: sr
+evidence_level: sr
 text_path: /Users/oracleneo/llm-wiki/papers/kumari-2026-noninvasive-management-molar-incisor-hypomineralization.txt
 text_filename: kumari-2026-noninvasive-management-molar-incisor-hypomineralization.txt
 source_collection: pubmed-text
