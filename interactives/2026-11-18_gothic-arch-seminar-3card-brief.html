@@ -40,6 +40,7 @@ agenda: agenda/2026-11-18_gothic-arch-seminar-3card-brief.md
   }
   .sheet:last-child{ page-break-after:auto; break-after:auto; }
   @media screen{ .sheet{ box-shadow:0 0 0 1px #d6dbe1, 0 2mm 7mm rgba(0,0,0,.08); margin:8mm auto; } }
+  @media print{ .pdfbar{ display:none !important; } }
 
   /* header */
   .kicker{ font-size:7pt; letter-spacing:.16em; text-transform:uppercase; color:var(--accent); font-weight:700; }
@@ -96,6 +97,23 @@ agenda: agenda/2026-11-18_gothic-arch-seminar-3card-brief.md
   footer{ border-top:1px solid var(--line); padding-top:1.8mm; margin-top:3mm; display:flex; justify-content:space-between; font-size:6.8pt; color:var(--sub); }
   footer .sig{ color:var(--ink); font-weight:600; }
 </style>
+<script>
+/* llm-wiki cache-refresh */
+(function(){
+  var HK='_cr_h_2026_11_18_gothic_arch_seminar_3card_bri';
+  var THRESHOLD=30*60*1000;
+  document.addEventListener('visibilitychange',function(){
+    if(document.hidden){
+      try{localStorage.setItem(HK,Date.now());}catch(e){}
+    }else{
+      try{
+        var t=parseInt(localStorage.getItem(HK)||'0');
+        if(t&&(Date.now()-t)>THRESHOLD){localStorage.setItem(HK,'0');location.reload(true);}
+      }catch(e){}
+    }
+  });
+})();
+</script>
 </head>
 <body>
 
@@ -268,6 +286,14 @@ agenda: agenda/2026-11-18_gothic-arch-seminar-3card-brief.md
     </div>
   </div>
   <footer><span class="sig">고딕아치 세미나 · 2026-11-18</span><span>전체 18편 종합: wiki/overviews/gothic-arch-jaw-relation-recording-overview.md</span></footer>
+</div>
+
+<!-- 배포사이트 카드에서 바로 인쇄·공유 — PDF 다운로드 바 -->
+<div class="pdfbar" style="max-width:210mm;margin:0 auto;padding:5mm 4mm;background:#0f766e;color:#fff;text-align:center;page-break-after:avoid;break-after:avoid;">
+  <div style="font-size:10pt;font-weight:700;margin-bottom:1.5mm;">📄 세미나용 3장 PDF (A4)</div>
+  <a href="2026-11-18_gothic-arch-seminar-3card-brief.pdf" download
+     style="display:inline-block;background:#fff;color:#0f766e;font-size:9.5pt;font-weight:700;text-decoration:none;padding:2mm 6mm;border-radius:3px;">PDF 다운로드 / 인쇄 →</a>
+  <div style="font-size:7.5pt;color:#d7f0ec;margin-top:1.8mm;">3장 요약 · 재현 가능한 과두 영역 / 균열 두 개 / 의자결정 규칙 · 근거 18편 종합</div>
 </div>
 
 </body>
