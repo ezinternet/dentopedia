@@ -18,6 +18,22 @@ Randomized controlled pilot (n=28, 4 months): DBBM granules or DBBM-C block ARP 
 ## 한줄요약
 상악 후방 발치 랜덤화 대조 파일럿 (n=28, 4개월): DBBM 입자 또는 DBBM-C 블록 치조제보존술이 치조골 높이 손실 방지, 상악동 공기화 감소(-3.7% vs +3.9%, p=0.03), 측방 상악동 거상 필요를 89%→~42%로 감소시킴.
 
+## Three-line Summary
+
+Lam et al. (2024) conducted a randomised controlled pilot study (n=28) at two university clinics and one private practice in Brisbane, comparing unassisted socket healing against two DBBM-based alveolar ridge preservation (ARP) protocols—DBBM granules and DBBM-collagen (DBBM-C) block—after posterior maxillary extraction. The study employed 3D volumetric CBCT sinus analysis at 4 months, making it the first prospective RCT to quantify ARP's effect on maxillary sinus pneumatization as a primary surgical outcome.
+
+ARP with both DBBM formulations significantly prevented mid-ridge height loss compared to control (control −2.7 mm; DBBM granules +0.9 mm; DBBM-C +1.0 mm) and reduced sinus pneumatization (control +3.9% vs DBBM granules −3.7% volume change, p=0.03). Most clinically actionable: the need for lateral sinus floor elevation (SFE) based on residual bone height <8 mm threshold fell from 89% in control to approximately 42% in both ARP groups, representing a near-halving of the surgical burden.
+
+The two ARP materials (DBBM granules vs DBBM-C block) showed no statistically significant difference in any outcome, suggesting clinical equivalence for this indication. Limitations include the pilot sample size (n≈9–10 per group), Geistlich funding creating potential commercial bias, and lack of implant placement outcomes. The 4-month follow-up represents the pre-implant planning timepoint only.
+
+## 세줄요약
+
+람 등(2024)은 상악 후방부 발치 후 무처치 치유 대비 두 가지 탈단백화 이종골(Deproteinized Bovine Bone Mineral, DBBM) 기반 치조제보존술(Alveolar Ridge Preservation, ARP) 프로토콜(DBBM 입자 vs DBBM-콜라겐 블록)을 비교하는 무작위 대조 파일럿 연구(n=28, 추적 4개월)를 시행했다. 3차원 용적 콘빔전산화단층촬영(CBCT) 분석을 통한 상악동 공기화 정량화가 1차 결과 지표로 채택된 최초의 전향적 RCT다.
+
+DBBM 양 군 모두 치조골 높이 손실을 유의하게 방지했고 상악동 공기화를 억제했다(대조군 +3.9% vs DBBM 입자군 −3.7%, p=0.03). 임상적으로 가장 중요한 결과: 잔존 치조골 높이(Residual Bone Height, RBH) <8mm 기준의 측방 상악동 거상(Sinus Floor Elevation, SFE) 필요 비율이 대조군 89%에서 ARP 군 약 42%로 감소했다.
+
+두 ARP 재료(DBBM 입자 vs DBBM-C 블록) 간 유의한 차이는 없었다. 파일럿 연구(군당 n≈9–10), 게이슬리히 기금 편향, 임플란트 식립 결과 미평가가 한계다. 그러나 치조제보존술이 상악동 거상 필요성을 약 절반으로 감소시킬 수 있다는 임상적 함의는 상악 후방부 임플란트 계획에 중요한 근거다.
+
 ## 1. Document Information
 - Journal: Clinical Oral Implants Research 2024;35(12):1568–1584
 - PMID: 39165113 | PMC: PMC11629457 | DOI: 10.1111/clr.14344
