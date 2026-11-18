@@ -7,7 +7,7 @@ doi: "10.1111/cid.12845"
 pmid: "31755640"
 source: liu-2019-reactive-soft-tissue-primary-closure-posterior.md
 category: immediate-implant/gap-grafting
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-abstract
 tags: []
 ---
