@@ -6,7 +6,7 @@ date: 2023-06-20
 doi: "10.1111/clr.14117"
 source: humm-2023-zirconia-titanium-abutments-13year-rct.md
 category: [prosthetic-materials]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-abstract
 tags: [zirconia, abutment, titanium, implant, rct, long-term, posterior, periimplant]
 relations:
