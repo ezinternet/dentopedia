@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: "10.2340/biid.v13.45563"
 source: alnazzawi-2026-role-of-cold-atmospheric.md
 category: dental-materials/zirconia
-confidence: in-vitro
+evidence_level: in-vitro
 text_path: /Users/oracleneo/llm-wiki/papers/alnazzawi-2026-role-of-cold-atmospheric.txt
 text_filename: alnazzawi-2026-role-of-cold-atmospheric.txt
 source_collection: pubmed-text
