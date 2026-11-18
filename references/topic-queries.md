@@ -587,3 +587,28 @@ ptyp: SR, MA, Review
 
 **라우팅**: `wiki/dental-materials/zirconia/` + 오버뷰 후보 `zirconia-occlusal-contact-accuracy-overview` (저작효율 오버뷰와 **분리** — 합치면 "접촉 정확도 = 기능" 비약이 박힌다).
 
+### alcohol-oral-surgery (음주 × 발치·임플란트·구강외과)
+
+**목적**: 음주(에탄올)를 **노출 변수**로 두고 발치·임플란트·구강외과 결과(실패·주위염·골유착·출혈·감염·금단)를 다룬 문헌. 재료·용제로서의 "ethanol/polyvinyl alcohol"은 노이즈.
+
+**stem A — 임플란트·치유 축** (state.json 본문 + AND):
+```
+("alcohol drinking"[tiab] OR "alcohol consumption"[tiab] OR alcoholism[tiab] OR "alcohol use"[tiab] OR ethanol[tiab] OR alcohol[tiab]) AND ("dental implant"[tiab] OR "dental implants"[tiab] OR osseointegration[tiab] OR "peri-implantitis"[tiab] OR "bone-implant interface"[tiab])
+```
+
+**stem B — 발치·안전 축** (백필 시 추가):
+```
++("tooth extraction"[tiab] OR "tooth extractions"[tiab] OR "oral surgery"[tiab] OR "alveolar osteitis"[tiab] OR "dry socket"[tiab] OR osteomyelitis[tiab] OR "alcohol withdrawal"[tiab] OR "liver cirrhosis"[tiab])
+```
+
+**ptyp**: 없음(`[]`).
+
+**노이즈 주의**:
+- **"polyvinyl alcohol"(PVA)**, 에탄올을 **용제**로 쓰는 접착·소독 논문 — 스크리닝 1차 컷.
+- 알코올 **소독제**(chlorhexidine+alcohol) 비교 연구 — 감염관리 축이지 음주 축이 아니다.
+- 알코올성 간질환 자체의 병태생리(간섬유화 등) — 치과 결과변수가 없으면 제외.
+
+**시드 sweep(2026-11-19)**: 광역 질의 4 + 정제 질의 6 → 고유 PMID ~400 → 후보 40편 초록 정독 → **keep 9**(그중 1편 `40489307`은 기존 인제스트 → 보강). 인제스트 8편. **핵심 결론**: ①신호는 "음주 여부"가 아니라 **과량**(전체 OR 0.87 vs 과량 2.78) ②주위염 OR 2.07(3편, I²=0.0) ③가역성 근거 1편(마우스, 술후 금주) ④간경변 출혈 0–8.9%·국소지혈 충분 ⑤**건성발치와는 공백** — 위험인자 문헌 36편이 음주를 측정하지 않음.
+
+**라우팅**: `wiki/implants/survival/` (실패 OR) 또는 `wiki/oral-surgery/` (출혈·감염) + 오버뷰 `alcohol-extraction-implant-surgery-risk-overview`. **우선 점검**: 기존 `da-rocha-coelho-2021-evaluation-of-the-association`(알코올 null)과 `galarraga-vinueza-2025-peri-implant-disease-risk-factors`(주위염 OR 2.07)가 이미 있으므로, 신규 후보는 **용량 층화 여부**로 먼저 걸러라.
+

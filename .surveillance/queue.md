@@ -2168,3 +2168,21 @@ Found by manual PDF discovery (not the original scout search), 2026-07-25 — sa
       "Immediate Implant Placement and Restorations in Single-Unit and Multiple-Unit FDPs: A Scoping Review of the Current Evidence, Indications, and Clinical Protocols" — Int J Prosthodont
 - [x] PMID 36196906 | SR | OA:none | implant-iip-success-criteria | edat 2023 — INGESTED 2026-11-17 (abstract-only) → wiki/immediate-implant/anatomic-assessment/sabri-2022-single-rooted-extraction-socket-classification
       "Single-rooted extraction socket classification: A systematic review and proposal of a new classification system based on morphologic and patient-related factors" — J Esthet Restor Dent
+- [x] PMID 41766036 | obs | OA:none | alcohol-oral-surgery | edat 2026 — INGESTED 2026-11-19 (방법: abstract-only) → wiki/implants/survival/boroomand-2026-alcohol-consumption-dental-implant-failure-sr-ma
+      "The association between alcohol consumption and dental implant failure: a systematic review and meta-analysis. — Oral Maxillofac Surg"
+- [x] PMID 41231916 | animal | OA:none | alcohol-oral-surgery | edat 2025 — INGESTED 2026-11-19 (방법: abstract-only) → wiki/implants/survival/doring-2025-postoperative-abstinence-restores-osseointegration
+      "Postoperative Abstinence Restores Osseointegration Impaired by Ethanol Consumption in a Murine Tibial Implant Model. — J Bone Joint Surg Am"
+- [x] PMID 24471800 | animal | OA:none | alcohol-oral-surgery | edat 2015 — INGESTED 2026-11-19 (방법: abstract-only) → wiki/implants/survival/de-deco-2015-extended-alcohol-intake-osseointegration-rats
+      "Extended Periods of Alcohol Intake Negatively Affects Osseointegration in Rats. — J Oral Implantol"
+- [x] PMID 38595494 | obs | OA:PMC PMC11000997 | alcohol-oral-surgery | edat 2024 — INGESTED 2026-11-19 (방법: PMC full text) → wiki/implants/survival/bhatia-2024-alcohol-consumption-implant-success-retrospective
+      "Impact of the Habit of Alcohol Consumption on the Success of the Implants: A Retrospective Study. — J Pharm Bioallied Sci"
+- [x] PMID 33250169 | SR | OA:none | alcohol-oral-surgery | edat 2021 — INGESTED 2026-11-19 (방법: abstract-only) → wiki/oral-surgery/rech-2021-bleeding-oral-surgery-liver-cirrhosis-sr
+      "Risk of bleeding during oral surgery in patients with liver cirrhosis: A systematic review. — J Am Dent Assoc"
+- [x] PMID 29705406 | obs | OA:none | alcohol-oral-surgery | edat 2018 — INGESTED 2026-11-19 (방법: abstract-only) → wiki/oral-surgery/medina-2018-bleeding-dental-extractions-liver-cirrhosis
+      "Bleeding during and after dental extractions in patients with liver cirrhosis. — Int J Oral Maxillofac Surg"
+- [x] PMID 37510830 | obs | OA:PMC PMC10380926 | alcohol-oral-surgery | edat 2023 — INGESTED 2026-11-19 (방법: PMC full text) → wiki/oral-surgery/fenelon-2023-osteomyelitis-jaw-major-complications-risk-factors
+      "Identifying Risk Factors Associated with Major Complications and Refractory Course in Patients with Osteomyelitis of the Jaw: A Retrospective Study. — J Clin Med"
+- [x] PMID 36841965 | review | OA:none | alcohol-oral-surgery | edat 2023 — INGESTED 2026-11-19 (방법: abstract-only) → wiki/drug/systemic-disease/desai-2023-alcohol-withdrawal-syndrome-head-neck-cancer
+      "Approach and Management of Alcohol Withdrawal Syndrome in Operative Head and Neck Cancer Patients. — Otolaryngol Head Neck Surg"
+- [x] PMID 40489307 | SR+MA | OA:PMC PMC12273760 | alcohol-oral-surgery | edat 2025 — ALREADY INGESTED (기존 stem 유지, 2026-11-19 alcohol OR 2.07 메타수치로 보강) → wiki/implants/peri-implantitis/galarraga-vinueza-2025-peri-implant-disease-risk-factors
+      "Prevalence, incidence, systemic, behavioral, and patient-related risk factors and indicators for peri-implant diseases: An AO/AAP systematic review and meta-analysis" — J Periodontol

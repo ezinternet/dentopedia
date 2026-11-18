@@ -142,6 +142,8 @@ Peri-implant mucositis is the reversible precursor to peri-implantitis, making i
 
 **Risk-factor umbrella reviews:**
 - [[implants/peri-implantitis/giok-2024-risk-factors-peri-implantitis-umbrella]] — 41 meta-analyses; periodontitis OR 3.84, smoking RR 2.07 "highly suggestive"
+- [[implants/peri-implantitis/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — AO/AAP SR+MA; **alcohol OR 2.07 (1.49–2.85), I² = 0.0%, 3 studies** — a behavioral indicator this page's risk picture should carry alongside smoking
+- [[overviews/alcohol-extraction-implant-surgery-risk-overview]] — the dedicated alcohol synthesis (dose stratification, mechanism, and why the low-dose inverse association must not be read as protection)
 - [[implants/peri-implantitis/tarce-2025-peri-implantitis-risk-assessment-pira-part1]] — PiRA Part 1; 49 SRs, 10 patient-related factors; no multifactorial weighting
 
 **Periodontal status at placement:**

@@ -57,7 +57,21 @@ AO/AAP Best-Evidence Consensus systematic review and meta-analysis of 102 studie
 **Risk indicators for peri-implant mucositis**: periodontitis, obesity, smoking habits
 **Risk indicators for peri-implantitis**: periodontitis, diabetes mellitus, smoking habits, alcohol consumption
 
+### Meta-analysed effects behind the risk indicators
+
+| Indicator | Effect summary (patient level) | I² | Egger p |
+|---|---|---|---|
+| Smoking → peri-implantitis | OR 2.27 (95% CI 1.68–3.06) | 65.2% | 0.4827 |
+| **Alcohol → peri-implantitis** (3 studies) | **OR 2.07 (95% CI 1.49–2.85)** | **0.0%** | 0.271 |
+
+- Alcohol's three contributing studies reported patient-level ORs from 1.71 to 2.89 (the highest, Costa et al., OR 2.9, 95% CI 1.09–4.14, p = 0.01).
+- Homogeneity (I² = 0.0%) despite only three studies means the *direction* is stable, not that the estimate is precise.
+- The authors' own caveat: alcohol's association is supported by **limited evidence**, dose/frequency are unexamined, and more studies are needed before treating it as a confirmed risk factor.
+- Mechanistic rationale offered is host immunity — reduced neutrophil, macrophage, and T-cell function — not a direct effect on bone.
+
 ## Related Papers
 - [[implants/peri-implantitis/derks-2015-peri-implant-health-disease-epidemiology]] — earlier SR+MA (43% mucositis, 22% peri-implantitis)
 - [[implants/peri-implantitis/berglundh-2018-peri-implant-diseases-conditions-consensus]] — case definitions applied
 - [[implants/peri-implantitis/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP CPG incorporating risk factor profile
+- [[implants/survival/boroomand-2026-alcohol-consumption-dental-implant-failure-sr-ma]] — the failure-outcome counterpart: heavy-drinking OR 2.78 (2.08–3.91); same exposure, different endpoint
+- [[implants/survival/bhatia-2024-alcohol-consumption-implant-success-retrospective]] — primary cohort behind the alcohol signal: 46.2% peri-implantitis in heavy drinkers vs 11.5% in light/moderate
