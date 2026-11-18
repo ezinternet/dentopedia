@@ -18,6 +18,22 @@ In vitro pilot (n=30 4Y-PSZ specimens, 5,000 thermocycles): APA (37.0 MPa) produ
 ## 한줄요약
 인비트로 파일럿 (n=30, 4Y-PSZ, 5,000회 열순환): 공기분사연마 (Airborne Particle Abrasion, APA, 37.0 MPa)가 탄화규소 버(SiC bur, 20.8 MPa)나 APA+SiC(24.9 MPa) 대비 유의하게 높은 전단결합강도; SiC 버는 대안·보조수단으로 권장 불가.
 
+## Three-line Summary
+
+In vitro pilot (n=30, 4Y-PSZ, 5,000 thermocycles) testing whether the SiC ceramic repair bur (Cimara system) can substitute or supplement APA for primary zirconia cementation using MDP-containing resin cement.
+
+APA alone produced the highest SBS (37.0 MPa), significantly outperforming SiC bur alone (20.8 MPa) and APA + SiC bur (24.9 MPa); adding the SiC bur after APA worsened rather than improved bond strength (large effect η²=0.762).
+
+SiC bur cannot be recommended as an alternative or adjunct to APA for primary zirconia cementation; MDP-containing cement with APA remains the reference protocol.
+
+## 세줄요약
+
+인비트로 파일럿 (n=30, 4Y-PSZ, 5,000회 열순환): SiC 버 (Cimara 시스템)가 1차 지르코니아 접착에서 공기분사연마 (Airborne Particle Abrasion, APA)를 대체·보완할 수 있는지 검증.
+
+APA 단독 (37.0 MPa) > APA+SiC (24.9 MPa) > SiC 단독 (20.8 MPa); APA 후 SiC 버 추가는 결합강도 (Shear Bond Strength, SBS)를 오히려 감소시킴 (대효과 크기 η²=0.762).
+
+SiC 버는 1차 지르코니아 접착의 APA 대안·보조수단으로 권장 불가; 10-MDP 시멘트 + APA 조합이 여전히 표준.
+
 ## 1. Document Information
 - Journal: Biomaterials Investigations in Dentistry 2026;13:46767
 - PMID: 42668905 | PMC: PMC13525429 | DOI: 10.2340/biid.v13.46767
