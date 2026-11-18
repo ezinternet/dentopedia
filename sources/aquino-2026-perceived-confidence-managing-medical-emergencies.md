@@ -23,6 +23,22 @@ Cross-sectional study (n=100, Brazil) found 82% of dental students felt unprepar
 
 단면연구 (n=100, 브라질 치과대학생) — 82%가 응급 처치 미준비 느낌, 자기 확신도 (Perceived Confidence)는 기술 교육·실기 훈련·감성지능 (Emotional Intelligence, EI) 에 의해 유의하게 예측됨.
 
+## Three-line Summary
+
+Cross-sectional study (n=100, Brazil) examining perceived confidence in managing medical emergencies among clinical-year dental students, with concurrent assessment of technical knowledge, practical training, and emotional intelligence (EI) using the TEIQue-SF.
+
+82% of students felt unprepared for emergencies and 91% reported inability to administer injectable medications; perceived confidence was significantly predicted by technical training, practical training, and EI scores, with EI independently correlating with diagnostic preparedness (p=0.04).
+
+Purely cognitive training is insufficient; EI represents a psychoemotional, modifiable predictor of emergency readiness that dental curricula should address alongside practical skills.
+
+## 세줄요약
+
+단면연구 (n=100, 브라질 치과대학생): 의료 응급 처치 자기 확신도 (Perceived Confidence)와 기술 교육·실기 훈련·감성지능 (Emotional Intelligence, EI) 연관성 평가, TEIQue-SF 사용.
+
+82% 미준비 느낌, 91% 주사제 투여 불가; 자기 확신도는 기술 교육·실기 훈련·EI에 의해 유의하게 예측됨 (p<0.05); EI는 진단 준비도와 독립적으로 연관 (p=0.04).
+
+인지 훈련만으로 부족하며, EI는 수정 가능한 정서적 역량으로 치과대학 응급 교육과정에 포함 필요.
+
 ## 1. Document Information
 
 - Journal: European Journal of Dental Education, Vol. 30, Issue 4, pp. 1864–1868 (2026)
