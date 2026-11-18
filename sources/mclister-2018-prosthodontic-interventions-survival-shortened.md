@@ -16,6 +16,22 @@ SR of 10 RCT/prospective/cohort studies concluding there is insufficient evidenc
 ## 한줄요약
 단축치열궁 성인 환자에서 10편(RCT 3편 포함)을 체계 검토한 결과, 어느 보철 전략도 우월하다는 충분한 근거가 없음 (J Dent 2018).
 
+## Three-line Summary
+
+McLister et al. (2018) conducted a PROSPERO-registered systematic review (CRD42017064851) of 10 studies—including 3 RCTs—examining the effectiveness of prosthodontic interventions and survival of remaining teeth in adult patients with shortened dental arches (SDA: 3–5 posterior occluding pairs per side). This represented the first systematic review to simultaneously address tooth survival, prosthetic survival, and OHRQoL in SDA patients, drawing on the multinational evidence base including the German multicentre RCT (Wöstmann), the McKenna Irish/UK RCT, and several European cohort studies.
+
+The primary conclusion was that there is insufficient evidence to recommend one tooth replacement strategy over another for adults with SDA, as heterogeneity across studies precluded meta-analysis and study reporting was inconsistent with CONSORT standards. No single strategy—RPD, fixed dental prosthesis (FDP), implant, or conservative SDA maintenance—demonstrated clear superiority across the three outcome axes simultaneously.
+
+The review's clinical significance lies in its support for individualised decision-making rather than a universal protocol for SDA patients, and its identification of standardised reporting requirements for future trials. The finding that OHRQoL with SDA was comparable to prosthetically restored patients in some studies aligns with the McKenna 2018 RCT result, while the absence of definitive evidence on tooth survival rates reflects a gap in long-term SDA research.
+
+## 세줄요약
+
+맥리스터 등(2018)은 PROSPERO 등록 체계적 문헌 고찰(CRD42017064851)로 단축치열(Shortened Dental Arch, SDA) 성인 환자의 보철 중재 효과와 잔존치 생존에 관한 10편(RCT 3편 포함)을 검토했다. 독일 다기관 RCT(보스트만), 맥케나 아일랜드/영국 RCT, 유럽 코호트들을 포함한 가장 광범위한 SDA 보철 근거를 종합한 첫 체계 검토다.
+
+주요 결론: 성인 SDA 환자에서 어느 보철 전략(RPD·FDP·임플란트·SDA 유지)도 우월하다는 충분한 근거가 없다. 이질성으로 메타분석이 불가능했고, CONSORT 기준에 맞지 않는 불균질한 보고 형식이 문제로 지적됐다.
+
+이 연구는 SDA 환자 관리에서 개별화된 임상 의사결정을 지지하는 근거 틀을 제공하며, 향후 무작위 임상시험의 표준화된 결과 보고 필요성을 강조한다. 일부 연구에서 OHRQoL이 보철 치료군과 동등하다는 발견은 맥케나 2018 RCT 결과와 일관된다.
+
 ## 1. Document Information
 - **Journal:** Journal of Dentistry
 - **Volume/Pages:** 78: 31–39
