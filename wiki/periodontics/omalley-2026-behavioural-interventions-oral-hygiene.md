@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: "10.1002/14651858.CD012049.pub2"
 source: omalley-2026-behavioural-interventions-oral-hygiene.md
 category: [periodontics]
-confidence: sr
+evidence_level: sr
 text_path: /Users/oracleneo/llm-wiki/papers/omalley-2026-behavioural-interventions-oral-hygiene.txt
 text_filename: omalley-2026-behavioural-interventions-oral-hygiene.txt
 source_collection: pubmed-text
