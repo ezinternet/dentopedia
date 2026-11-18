@@ -6,7 +6,7 @@ date: 2026-03-01
 doi: "10.7759/cureus.105752"
 source: shaikh-2026-influence-of-plasma-treatment.md
 category: dental-materials/zirconia
-confidence: sr+ma
+evidence_level: sr+ma
 text_path: /Users/oracleneo/llm-wiki/papers/shaikh-2026-influence-of-plasma-treatment.txt
 text_filename: shaikh-2026-influence-of-plasma-treatment.txt
 source_collection: pubmed-text
