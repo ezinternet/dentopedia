@@ -116,6 +116,9 @@ tags: []
 - [[implants/soft-tissue/kim-2009-blood-vessels-peri-implant-mucosa]] — 동물실험(성견 6마리, 대구외지 2009): 무피판 (Flapless) 임플란트 주위 점막 혈관 수 51.4 vs 피판 38.2개(p<0.05); 무피판이 연조직 혈관분포 유의하게 우수
 - [[implants/lee-2018-unilateral-mastication-bone-density-alveolus]] — 단면연구(CBCT, n=25, Chonnam 2018): 편측 저작측 치조골 골밀도가 반대측보다 견치·소구치·대구치 유의하게 높음(p<0.05); 하악 대구치 차이 최대(103 HU)
 - [[implants/peri-implantitis/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — SR+MA(102편, 13,030명): 점막염 46%·임플란트 주위염 21%; 치주염·흡연·당뇨·비만이 주요 위험지표
+- [[implants/peri-implantitis/reis-2023-the-influence-of-smoking-on]] — Reis 2023 · SR+MA (7편 전향적 코호트, 702명/1,959 임플란트, abstract-only) · 흡연 vs 비흡연 임플란트 주위염 위험: 임플란트 단위 RR 2.04(초록 보고 CI 1.46–1.85, p<.0001), 환자 단위 RR 2.79(1.42–5.50, p=.003), GRADE 중등도 근거
+- [[implants/peri-implantitis/chih-2023-the-impact-of-smoking-on]] — Chih 2023 · SR (14편, abstract-only) · 흡연자 임플란트 주위 미생물총: 건강 부위 혐기성 병원균↑·다양성↓, 건강→질환 이행 시 공생균↓·병원성 종↑로 dysbiosis 양상
+- [[implants/peri-implantitis/guney-2024-the-impact-of-electronic-cigarettes]] — Guney 2024 · SR+MA (7편, 2017–2023, abstract-only) · 전자담배와 임플란트 주위 건강: PD·골소실·IL-1β 증가, BOP 감소 보고(풀링 효과크기 초록 미제시)
 - [[implants/premnath-2012-stress-distribution-bone-density-fea]] — 3D FEA(8모델): 원통형 > 나사형 응력분산; 최대 응력은 D1–D4 모두 치조정부; 저밀도 골에 원통형 설계 유리
 - [[implants/munjal-2015-implants-low-density-bone-d3d4]] — 전향적(n=14, D3/D4, 12개월): MaestroTM 생존율 92.3%; 골소실 통계적 유의차 없음; 저밀도 골 금기 아님
 - [[implants/raghavan-2025-bone-density-implant-dentistry-review]] — 서술적 고찰: Misch D1–D4·HU 기준값·저밀도 골 임플란트 술식 조정(OD·지연부하) 임상 지침
@@ -2091,6 +2094,8 @@ tags: []
 - [[oral-surgery/third-molar/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] — SR (16 papers, 2,176 coronectomies): IAN injury 0.59%, lingual nerve 0.22%, infection 3.95%, root re-extraction 5.28%; low-risk alternative to third molar extraction
 - [[oral-surgery/dinkova-2025-local-hemostasis-oral-surgery-review]] — Narrative review (51 studies): oxidized cellulose/gelatin >85% standard cases; TXA mouthwash 50–60% bleeding reduction; fibrin sealants 70–90% high-risk patients
 - [[oral-surgery/heng-2007-smoking-postextraction-complications-female-inmates]] — Retrospective cohort (n=219): smoking, mandibular third molars, surgical trauma → significant risk factors for postextraction complications incl. alveolar osteitis (19.6% overall, 5.0% dry socket)
+- [[oral-surgery/asmael-2018-novel-application-of-platelet-rich]] — Asmael 2018 · RCT (흡연자 20명, 발치와 40개, 분할 비교, abstract-only) · PRF 적용 시 연조직 치유/염증 개선(P=0.0035), 통증·상피화·dry socket 예방·발치와 폐쇄는 NS
+- [[oral-surgery/taberner-vallverdu-2017-efficacy-of-different-methods-used]] — Taberner-Vallverdú 2017 · SR (24편, 2005–2015, abstract-only) · dry socket 예방: 국소 CHX/PRP 위험 감소, 예방적 항생제 효과 없음; 흡연은 위험인자로 합의 없음(연령·감염력·발치난이도는 일관)
 - [[oral-surgery/mahmoudi-2023-gelatin-hemostatic-sponge-extraction-rct]] — Split-mouth double-blind RCT (n=26): novel cross-linked gelatin sponge > Gelfoam; absorbed blood 3.97 vs 6.32g (p<0.05); pain VAS lower (p<0.05); 0 vs 1 dry socket
 - [[oral-surgery/third-molar/hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr]] — SR (BMC Oral Health 2025): PRF 발치 소켓 적용 → 건성치조염 발생 유의하게 감소, 통증·부종·개구제한 모두 대조군 대비 유의한 개선
 - [[oral-surgery/third-molar/peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma]] — SR+MA (JOMS 2024;82:73-92): 하악 IAN 고위험 제3대구치에서 치관절제술은 완전 발치 대비 IAN 손상 위험 유의하게 감소; 재수술률 5–12%; 잔존근 이동 ~2–3 mm/2년

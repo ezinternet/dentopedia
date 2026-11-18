@@ -1,0 +1,15 @@
+TITLE: The impact of smoking on peri-implant microbiota: A systematic review
+AUTHORS: Chih SM; Cheng CD; Chen SH; Sung CE; Huang RY; Cheng WC
+JOURNAL: Journal of dentistry
+YEAR: 2023
+DATE: 2023-06-01
+DOI: 10.1016/j.jdent.2023.104525
+PMID: 37088258
+SOURCE: PubMed abstract (full text not retrieved)
+
+## ABSTRACT
+OBJECTIVES: Peri-implantitis is associated with bacterial plaque biofilms and with patients who have a history of periodontitis. Smoking is a risk factor for periodontitis, but the relationship between smoking and peri‑implantitis is unclear. The aim of this systematic review was to assess evidence ascertaining the relationship between smoking and peri‑implant microbiota.
+DATA SOURCES: An electronic search was conducted in the MEDLINE/PubMed, Embase and Scopus® databases in duplicate up to January 2023 without language restrictions. Studies were considered eligible for inclusion if they involved evaluation of the peri‑implant microbiota of smokers and nonsmokers. Methodological quality was assessed with the adapted Newcastle-Ottawa scale.
+STUDY SELECTION: Fourteen studies were identified for inclusion in the present study, and 85.7% of the studies were defined as medium to high methodological quality. Overall, the evidence presented in this review was limited to medium to high methodological quality. The data indicates that significantly higher frequencies of anaerobic pathogens are detectable in healthy peri‑implant tissues of smokers. A lower diversity of microbiota was observed in healthy peri‑implant sites of smokers. In the transition from clinically healthy to a diseased status, smoking shaped a reduced peri‑implant microbiota by depleting commensal and enriching pathogenic species.
+CONCLUSIONS: The composition of peri‑implant microbiota may be influenced by smoking. More studies are needed to determine the impact of smoking on peri‑implant microbiota.
+CLINICAL SIGNIFICANCE: In the transition from clinically healthy to a diseased status, smoking shaped a reduced peri‑implant microbiota by depleting commensal and enriching pathogenic species. The composition of peri‑implant microbiota may be influenced by smoking.

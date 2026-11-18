@@ -1,0 +1,14 @@
+TITLE: The influence of smoking on the incidence of peri-implantitis: A systematic review and meta-analysis
+AUTHORS: Reis INRD; do Amaral GCLS; Hassan MA; Villar CC; Romito GA; Spin-Neto R; Pannuti CM
+JOURNAL: Clinical oral implants research
+YEAR: 2023
+DATE: 2023-06-01
+DOI: 10.1111/clr.14066
+PMID: 36939434
+SOURCE: PubMed abstract (full text not retrieved)
+
+## ABSTRACT
+OBJECTIVE: The aim of this study was to systematically analyze the influence of smoking on the incidence of peri-implantitis.
+MATERIALS AND METHODS: The search was performed in the National Library of Medicine (MEDLINE-PubMed), SCOPUS, EMBASE, and ISI Web of Science databases (finished on November 30, 2022). Systematic review and meta-analysis were conducted according to PRISMA statement. Prospective cohort studies that evaluate the incidence of peri-implantitis in smokers and non-smokers were included. Two authors independently searched for eligible studies, screened titles, and abstracts, did the full-text analysis, extracted data, and performed the risk-of-bias assessment. The results were summarized through random-effects meta-analyses. The GRADE method was used to determine the certainty of evidence.
+RESULTS: A total of 7 studies with 702 patients and 1959 implants were included for analysis. The meta-analysis revealed a significant difference between smokers and non-smokers for the risk of peri-implantitis in the implant-based (p < .0001) and patient-based analysis (p = .003). A strong association between smoking and the risk for peri-implantitis was verified at the implant level (RR: 2.04, 95% CI: 1.46-1.85) and the patient level (RR: 2.79, 95% CI: 1.42-5.50).
+CONCLUSIONS: Moderate certainty evidence suggests that smoking is associated with peri-implantitis compared to non-smoking at the patient and implant levels.

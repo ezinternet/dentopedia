@@ -1,0 +1,16 @@
+TITLE: The impact of electronic cigarettes on peri-implant health: A systematic review and meta-analysis
+AUTHORS: Guney Z; Altingoz SM; Has H; Serdar MA; Kurgan S
+JOURNAL: Journal of dentistry
+YEAR: 2024
+DATE: 2024-04-01
+DOI: 10.1016/j.jdent.2024.104883
+PMID: 38360396
+SOURCE: PubMed abstract (full text not retrieved)
+
+## ABSTRACT
+OBJECTIVES: Recent literature suggests that the use of electronic cigarette (e-cigarette) is a substantial contributing factor to the unsuccessful outcomes of dental implant procedures. Our aim was to systematically review the effect of e-cigarette use on clinical (PI, PD, BOP), radiographic (bone loss), and immunologic (IL-1β) peri‑implant parameters.
+DATA: Main search terms used in combination: electronic cigarette, peri‑implantitis, vaping.
+SOURCES: An electronic search was undertaken for MEDLINE, EMBASE, COCHRANE, and SCOPUS databases between 2017 and 2023.
+STUDY SELECTION: The study protocol was developed according to PRISMA guidelines, and the focus question was formulated according to the PICO strategy. No restriction was accepted regarding language or year to avoid selection bias; the initial database search yielded 49 publications. Following the selection process, only seven studies met the inclusion criteria. Seven studies were statistically analyzed via MedCalc program. A pooled effect was deemed statistically significant if the p-value was less than 0.05.
+CONCLUSION: Electronic cigarettes cause an increase in probing depth, bone loss, and the level of IL-1β, one of the bone destruction mediators in the tissues around the implant, and a decrease in bleeding on probing.
+CLINICAL SIGNIFICANCE: E-cigarette is a potential risk factor for the healing process and the results of implant treatment, similar to cigarettes. Performing clinical research to evaluate the e-cigarette effect on peri‑implantitis in an age and gender-match population is needed.
