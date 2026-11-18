@@ -6,7 +6,7 @@ date: 2026-07-11
 doi: "10.2186/jpr.JPR_D_25_00327"
 source: koyama-2026-effects-occlusal-contact-loss-preferred.md
 category: removable-partial-denture
-confidence: rct
+evidence_level: rct
 pdf_path: ""
 pdf_filename: ""
 source_collection: pubmed-abstract
