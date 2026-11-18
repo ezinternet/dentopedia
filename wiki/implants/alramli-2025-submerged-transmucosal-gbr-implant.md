@@ -7,7 +7,7 @@ doi: "10.1111/clr.70083"
 pmid: "41454450"
 source: alramli-2025-submerged-transmucosal-gbr-implant.md
 category: implants
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-abstract
 tags: []
 ---
