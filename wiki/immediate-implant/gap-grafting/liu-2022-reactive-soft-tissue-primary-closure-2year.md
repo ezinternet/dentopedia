@@ -7,7 +7,7 @@ doi: "10.1016/j.ijom.2022.02.002"
 pmid: "35183402"
 source: liu-2022-reactive-soft-tissue-primary-closure-2year.md
 category: immediate-implant/gap-grafting
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-abstract
 relations:
   - type: extends
