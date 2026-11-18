@@ -15,20 +15,20 @@ tags: [navigation, category-index, complete-denture]
 > [!summary] 한국어 핵심요약
 > - **분야**: 총의치·가철성보철
 > - **범위**: Complete/removable denture prosthodontics — occlusal vertical dimension (OVD/VDO) determination (rest position, freeway space, anthropometric/facial, phonetics, cephalometric), jaw relation records, signs of excessive/reduced VD, edentulous prosthodontics.
-> - **수록 논문**: 53편
+> - **수록 논문**: 57편
 
 ## Three-line Summary
 
 **Scope**: Complete/removable denture prosthodontics — occlusal vertical dimension (OVD/VDO) determination (rest position, freeway space, anthropometric/facial, phonetics, cephalometric), jaw relation records, signs of excessive/reduced VD, edentulous prosthodontics.
-**Indexed papers**: 53 papers in `wiki/complete-denture/`.
+**Indexed papers**: 57 papers in `wiki/complete-denture/`.
 
 ## 세줄요약
 
 **분야**: 총의치·가철성보철
-**수록 논문**: 53편
+**수록 논문**: 57편
 **하위 카테고리**: 없음
 
-## Papers in this Category (53)
+## Papers in this Category (57)
 
 | Paper |
 |---|
@@ -50,6 +50,8 @@ tags: [navigation, category-index, complete-denture]
 | [[jafarpour-2024-cadcam-versus-traditional-complete-dentures|CAD/CAM versus traditional complete dentures: A systematic review and meta-analysis of patient- and clinician-reported outcomes and costs]] |
 | [[jasz-2024-centric-relation-methods-digital-mandibular-motion|Different methods of determining centric relation – comparison with a digital mandibular motion analyser]] |
 | [[jofre-2010-splinting-mini-implants-marginal-bone-loss-rct|Effect of splinting mini-implants on marginal bone loss: a biomechanical model and clinical randomized study with mandibular overdentures]] |
+| [[kattadiyil-2021-what-materials-and-reproducible-techniques|What Materials and Reproducible Techniques May Be Used in Recording Centric Relation? Best Evidence Consensus Statement]] |
+| [[keshvad-2003-comparison-of-the-replicability-of|Comparison of the replicability of routinely used centric relation registration techniques]] |
 | [[khan-2023-index-finger-length-vertical-dimension-edentulous-rct|Correlation of index finger length to vertical dimensions of occlusion for edentulous patients and their satisfaction: a randomized controlled trial]] |
 | [[khorasani-2024-3d-printed-vs-milled-complete|Are There Clinical Differences Between 3D-Printed and Milled Complete Dentures? A Systematic Review and Meta-analysis]] |
 | [[koay-2024-comparative-effectiveness-denture-adhesives|Comparative effectiveness of types of denture adhesives in enhancing retention and function of complete dentures: a systematic review with network meta-analysis]] |
@@ -64,6 +66,7 @@ tags: [navigation, category-index, complete-denture]
 | [[patel-2025-implant-overdenture-attachment-systems-sr-ma|Comparative Evaluation of Various Implant Overdenture Attachment Systems in Terms of Survival Rate, Tissue Response, and Patient Satisfaction: A Systematic Review and Meta-Analysis]] |
 | [[potdukhe-2023-extraoral-gothic-arch-condylar-guidance-sr-ma|Evaluation of accuracy between extraoral Gothic arch tracing and various other methods assessing horizontal condylar guidance angle in completely edentulous patients: A systematic review and meta-analysis]] |
 | [[prasad-2024-attachment-systems-mandibular-implant|Attachment systems for mandibular implant-supported overdentures: A systematic review and meta-analysis of randomized controlled trials]] |
+| [[rahman-2004-influence-of-the-inclination-of|Influence of the inclination of the plate of an intra-oral tracing device on the condylar position registered by tapping movement]] |
 | [[refai-2026-occlusion-disocclusion-implant-overdentures-splinted|Evaluation of occlusion and disocclusion time in immediately loaded implant overdentures retained by two splinted versus non-splinted interforaminal implants: A randomized clinical trial]] |
 | [[ribeiro-2024-maxillomandibular-relationship-record-cad-cam-complete-dentures|Maxillomandibular relationship record methods for computer-engineered complete dentures: a scoping review]] |
 | [[sanjeevan-2021-efficiency-simplified-versus-traditional-denture|Efficiency of simplified versus traditional denture fabrication methods: A systematic review and meta-analysis]] |
@@ -80,6 +83,7 @@ tags: [navigation, category-index, complete-denture]
 | [[sutariya-2021-mandibular-implant-supported-overdenture-systematic|Mandibular implant-supported overdenture: A systematic review and meta-analysis for optimum selection of attachment system]] |
 | [[tayari-2024-implant-supported-overdenture-failures-sr|Risk factors for implant-supported overdenture failures: A systematic review]] |
 | [[taylor-2021-longevity-complete-dentures-sr-ma|Longevity of complete dentures: A systematic review and meta-analysis]] |
+| [[thakur-2012-a-comparative-evaluation-of-static|A Comparative Evaluation of Static and Functional Methods for Recording Centric Relation and Condylar Guidance: A Clinical Study]] |
 | [[thu-2024-digital-complete-denture-clinical-laboratory|Which clinical and laboratory procedures should be used to fabricate digital complete dentures? A systematic review]] |
 | [[utz-2023-best-centric-relation-record-condyle|Is There \"A Best\" Centric Relation Record? Centric Relation Records, Condyle Positions, and Their Practical Significance.]] |
 | [[yeung-2023-functional-neuroplasticity-denture-rehabilitation-fmri|Functional Neuroplasticity of Adults with Partial or Complete Denture Rehabilitation with or without Implants: Evidence from fMRI Studies]] |
