@@ -6,7 +6,7 @@ date: 2018-02-21
 doi: "10.1016/j.jdent.2018.02.003"
 source: mclister-2018-prosthodontic-interventions-survival-shortened.md
 category: removable-partial-denture
-confidence: sr
+evidence_level: sr
 pdf_path: ""
 pdf_filename: ""
 source_collection: pubmed-abstract
