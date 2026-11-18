@@ -24,6 +24,22 @@ In vitro (Yonsei, Korea): UV-treated Ti stored in distilled water maintained hyd
 
 In vitro (연세대학교): UV 처리 후 증류수 보관한 티타늄은 28일 후에도 직후 UV 또는 DBD 플라즈마 처리 직후와 동등한 친수성·골아세포 활성을 유지했으나, 진공 건식 및 대기 보관은 그렇지 않았다.
 
+## Three-line Summary
+
+In vitro study (Yonsei University) comparing UV irradiation versus DBD plasma treatment on Grade IV machined titanium and evaluating the effect of three 28-day storage conditions (distilled water, vacuum desiccator, ambient air) on surface chemistry, hydrophilicity, and osteoblast activity.
+
+UV and DBD plasma produced equivalent immediate surface hydrophilicity, protein adsorption, and MC3T3-E1 osteoblast adhesion; UV-treated titanium stored in distilled water maintained these biological properties for 28 days, while vacuum and ambient-air storage did not due to hydrocarbon recontamination.
+
+Wet storage (distilled water) is essential to preserve UV photofunctionalization benefit; without it, the activated surface reverts to hydrophobic state; DBD plasma (ACTILINK-type) is an immediate-treatment equivalent to UV.
+
+## 세줄요약
+
+인비트로 (연세대학교): UV 조사 vs 유전체 장벽 방전 플라즈마 (Dielectric Barrier Discharge, DBD) 처리 티타늄 표면 비교 + 3가지 28일 보관 조건(증류수·진공 건조기·대기) 평가 — 표면 화학·친수성·골아세포 활성.
+
+UV와 DBD 플라즈마는 즉시 처리 후 표면 친수성·단백질 흡착·골아세포 부착 동등; 증류수 보관 UV 티타늄은 28일 후에도 동등한 생물학적 활성 유지, 진공·대기 보관은 탄화수소 재오염으로 효과 소멸.
+
+습식 보관(증류수)이 광기능화 (Photofunctionalization) 효과 유지에 필수; DBD 플라즈마는 즉시 처리 기준으로 UV와 동등.
+
 ## 1. Document Information
 
 - Journal: Dental Materials, 2017;33(12):1426-1435
