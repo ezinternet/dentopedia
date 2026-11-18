@@ -6,7 +6,7 @@ date: 2015-06-08
 doi: "10.1016/j.jdent.2015.05.008"
 source: liang-2015-effects-removable-dental-prostheses-masticatory.md
 category: removable-partial-denture
-confidence: sr
+evidence_level: sr
 pdf_path: ""
 pdf_filename: ""
 source_collection: pubmed-abstract
