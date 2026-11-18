@@ -26,6 +26,22 @@ Scoping review (PRISMA-ScR, 77 studies, 31 decontamination + 46 osseointegration
 
 범위형 체계적 고찰 (PRISMA-ScR, 77편, 탈오염 31+골유합 46): CAP는 전임상 수준에서 일관된 항균 효과와 골유합 개선을 보이나, 치주염주위염 임상 근거는 아직 부족하다.
 
+## Three-line Summary
+
+Shahraki et al. (2026) conducted a PRISMA-ScR scoping review synthesising 77 studies—31 on implant surface decontamination and 46 on osseointegration enhancement—to provide the first integrated dual-domain systematic synthesis of cold atmospheric plasma (CAP) for peri-implantitis management. Prior reviews had addressed either antibacterial effects (Alqutaibi 2023, Jungbauer 2021) or osseointegration (Barausse et al.) in isolation; this review's integration of both domains within a single PRISMA-ScR framework represents the most comprehensive CAP synthesis available as of July 2026.
+
+For decontamination, the review found consistent antibacterial effects with argon-based CAP (60–180 seconds, 2–5 mm distance), including significant CFU reduction in multispecies peri-implant biofilms with the most efficacy when CAP was combined with mechanical debridement. For osseointegration, preclinical animal studies demonstrated substantial improvements in BIC and BAFO values, though Jang et al.'s finding that osseointegration benefits diminish between 4 and 8 weeks post-treatment introduces a temporal limitation for CAP's clinical utility in delayed loading protocols.
+
+The review identifies extreme protocol heterogeneity—exposure times ranging from 10 seconds to 18 minutes, working gases including argon, helium, air, and O₂, and distances of 1–30 mm—as the primary obstacle to standardised clinical translation. No clinical trials were included, as all evidence was preclinical. The absence of human clinical trial data for CAP in peri-implantitis remains the critical gap before clinical recommendations can be made.
+
+## 세줄요약
+
+샤라키 등(2026)은 PRISMA-ScR 범위형 체계적 고찰로 임플란트 표면 탈오염(31편)과 골유합 향상(46편) 두 영역을 통합한 77편의 연구를 종합했다. 이전 리뷰들이 항균 효과(알쿠타이비 2023, 융바우어 2021)나 골유합(바라우세 등)을 각각 단독으로 다뤘던 것과 달리, 이중 영역 통합 종합으로서 2026년 7월 현재 가장 포괄적인 냉온 대기압 플라즈마(Cold Atmospheric Plasma, CAP) 근거 종합이다.
+
+탈오염: 아르곤 기반 CAP(60–180초, 2–5mm)이 다종균 임플란트 주위 생물막에 유의한 세균 감소를 보였으며, CAP+기계적 세정 병용이 단독 사용보다 우수했다. 골유합: 전임상 동물 연구에서 골-임플란트 접촉률(Bone-to-Implant Contact, BIC) 및 골점유율(Bone Area Fraction Occupied, BAFO) 대폭 향상이 보고됐으나, 장(Jang) 등의 연구에서 골유합 편익이 4주 → 8주로 가면서 감소함을 확인해 임시적 한계가 있다.
+
+CAP 임상 연구는 단 한 편도 없어 치주염주위염에 대한 임상 권고를 내리기에 근거가 불충분하다. 프로토콜의 극단적 이질성(노출 시간 10초–18분, 작동 가스 아르곤/헬륨/공기/O₂, 거리 1–30mm)이 임상 표준화의 주요 장애물이다.
+
 ## 1. Document Information
 
 - Journal: BMC Oral Health, 2026;26(1)
