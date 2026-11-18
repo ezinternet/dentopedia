@@ -6,7 +6,7 @@ date: 2026-07-01
 doi: "10.1002/jper.70084"
 source: cecchinato-2026-biomaterial-used-to-counteract-ridge.md
 category: bone-regeneration/ridge-preservation
-confidence: rct
+evidence_level: rct
 text_path: /Users/oracleneo/llm-wiki/papers/cecchinato-2026-biomaterial-used-to-counteract-ridge.txt
 text_filename: cecchinato-2026-biomaterial-used-to-counteract-ridge.txt
 source_collection: pubmed-text
