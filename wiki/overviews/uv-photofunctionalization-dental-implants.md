@@ -15,6 +15,9 @@ relations:
   - type: extends
     target: implants/surface/houshmand-2023-uv-photofunctionalization-sla-titanium-disks
     note: "adds a same-batch UVB-vs-UVC head-to-head EDS comparison showing wavelength choice matters — UVB improves wettability without significantly reducing surface carbon/nitrogen"
+  - type: extends
+    target: stability-dip-fixture-treatment-decision-overview
+    note: "assigns UV-PF to the D4/atrophic/aged-fixture cell of a bone-quality × site matrix alongside four other dip-directed treatments"
 ---
 
 ## 한국어 핵심요약
@@ -141,6 +144,7 @@ Dorigatti 2015 (in vitro, polymicrobial oral biofilm under saliva + blood) estab
 
 ## Related Overviews
 
+- [[overviews/stability-dip-fixture-treatment-decision-overview]] — **NEW** (2026-11-17): UV-PF allocated to D4/atrophic/aged-fixture/complex-case cell among five dip-directed treatments
 - [[overviews/plasma-surface-treatment-dental-implants]] — sibling chairside re-activation technology (plasma); same biological-aging rationale, parallel speed-not-magnitude pattern
 - [[overviews/implant-surface-comparison]] — broader surface-modification landscape into which UV-PF fits as a D3/time-axis intervention
 - [[overviews/early-implant-failure-risk-prevention-overview]] — UV-PF as a mitigating surface strategy for compromised-host early-failure risk (diabetes, poor bone)
