@@ -18,6 +18,9 @@ relations:
   - type: extends
     target: implants/surface/wagstaffe-2019-rgd-tripeptide-adsorption-titania-surfaces
     note: "adds the chemical identity of the hydrocarbon contamination plasma removes — small organic acids chemisorbed via carboxylate-cation bridging, not oil/grease; previously this cluster only established that 'hydrocarbon' accumulates, not what it chemically is"
+  - type: refines
+    target: stability-dip-fixture-treatment-decision-overview
+    note: "that overview flags plasma as early-stability acceleration rather than demonstrated dip elimination (Stacchi 2025 both arms dipped at 21 d), narrowing this cluster's 'no dip' claim from the uncontrolled Kim 2025 cohort"
 ---
 
 ## 한국어 핵심요약
@@ -192,3 +195,7 @@ Related existing wiki:
 ## Sibling overview — UV photofunctionalization
 
 UV photofunctionalization is the **sibling re-activation technology** to cold plasma: same biological-aging premise (hydrocarbon removal → superhydrophilic, high-energy surface; topography unchanged), but a separate and now larger clinical base. The quantitative MA referenced above (Pesce 2020) is in fact UV-driven; UV-specific clinical evidence has since strengthened — a photofunctionalization-specific SR+MA (Lang 2022: OSI MD=2.13, p=0.007; 2-month ISQ MD=3.48, p=0.04), a split-mouth RCT in controlled diabetics (Krishna 2025: higher 3-month ISQ/OSI, less 9-month crestal bone loss), a fractal-analysis split-mouth RCT (Farsiani 2025: peri-implant trabecular FD ↑), and a 2026 systematic review reframing UV as a *surface-agnostic, positive-sum* strategy (Komatsu 2026). For the consolidated UV evidence see **[[overviews/uv-photofunctionalization-dental-implants]]** (15 papers). The plasma vs UV through-line is identical: both buy early-healing *speed*, neither has demonstrated a higher final endpoint or long-term loaded-survival advantage, and (2026-08) both target the same chemically-identified organic-acid contamination layer (Wagstaffe 2019) — with the UV cluster's Houshmand 2023 finding (wettability ≠ decontamination proof) applying as a methodological caution to plasma protocol validation as well.
+
+## Decision-layer overview
+
+- [[overviews/stability-dip-fixture-treatment-decision-overview]] — **NEW** (2026-11-17): this cluster's plasma evidence is assigned to the aged-fixture / low-initial-ISQ / short-fixture cell, with the explicit caveat that controlled data (Stacchi 2025: both arms dipped at 21 d) support early acceleration, not dip elimination — narrowing the "no dip" claim from the uncontrolled Kim 2025 cohort.
