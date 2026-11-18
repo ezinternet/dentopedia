@@ -22,6 +22,22 @@ In-vitro confocal Raman study (Gauthier 2005, J Dent Res 84:725) demonstrating t
 
 공형광 Raman 분광법으로 점도 증가 → 산소확산 억제 → 표면 중합전환도(DC) 향상 확인; 필러는 산소확산↑/점도↑ 상충 효과; 110°C 이상 → 산소억제층(OIL) 완전 제거.
 
+## Three-line Summary
+
+Gauthier et al. (2005, Université de Montréal/McGill) used confocal Raman micro-spectroscopy to map the degree of conversion (DC) gradient from the surface to the bulk of light-cured dental resins, investigating how viscosity, filler content, and polymerization temperature modulate oxygen diffusion and thereby affect near-surface polymerization. The study provided the first rigorous physicochemical characterisation of oxygen-inhibited layer (OIL) formation mechanisms in dental resins.
+
+Higher viscosity resins showed reduced oxygen diffusivity, translating to greater DC near the surface. Filler particles created competing effects: increasing oxygen diffusivity through micro-channels while also raising overall viscosity; the net DC effect depended on formulation-specific balance. Polymerization above approximately 110°C eliminated OIL entirely, while below this threshold OIL persisted regardless of other variables.
+
+These findings provide the physicochemical mechanism underlying clinical oxygen-barrier strategies (glycerin gel, mylar strips), confirming that OIL thickness and DC are controlled by material properties rather than being immutable features of the system. The 110°C threshold for complete OIL elimination is foundational for heated-resin and heated-curing protocols. The confocal Raman depth-profiling methodology established here enabled precise OIL characterisation beyond bulk FTIR measurements, and this study remains the fundamental mechanistic reference for all subsequent glycerin oxygen-shielding studies (Suh 2004, Lim 2022).
+
+## 세줄요약
+
+가우티에 등(2005)은 공형광 Raman 마이크로 분광법으로 광중합 치과 레진의 표면-벌크 간 중합전환도(Degree of Conversion, DC) 기울기를 매핑하고, 점도·필러 함량·중합 온도가 산소 확산을 통해 표면 근방 중합에 어떤 영향을 미치는지 규명했다. 치과 레진의 산소억제층(Oxygen-Inhibited Layer, OIL) 형성 메커니즘에 대한 최초의 엄격한 물리화학적 특성 규명이다.
+
+고점도 레진은 산소 확산 계수를 낮춰 표면 DC를 향상시켰다. 필러는 마이크로 채널을 통한 산소 확산 증가와 전체 점도 증가라는 상충 효과를 일으켰다—순효과는 배합별로 다르다. ~110°C 이상의 중합은 OIL을 완전 제거했다.
+
+이 발견들은 임상 산소차단 전략(글리세린 젤, 마일러 스트립)의 물리화학적 작용 기전을 확립하며, OIL 두께와 DC가 재료 물성으로 제어 가능함을 확인한다. 110°C 임계치는 가열 레진·가열 경화 프로토콜의 기초가 된다. 이 연구는 이후 모든 글리세린 산소차단 연구(수 2004, 림 2022)의 근본 기전 참고문헌으로 남아 있다.
+
 ## Summary
 
 Gauthier et al. (2005) used confocal Raman micro-spectroscopy to map the degree of conversion (DC) gradient from the surface to the bulk of light-cured dental resins. The authors tested whether viscosity, filler content, and polymerization temperature modulate oxygen diffusion and thereby affect near-surface polymerization. Higher viscosity resins showed reduced oxygen diffusivity, translating to greater DC near the surface without necessarily reducing OIL depth. Filler particles created competing effects: increasing oxygen diffusivity through micro-channels while also raising overall viscosity; the net DC effect depended on balance. Polymerization above approximately 110°C eliminated OIL entirely. These findings provide the physicochemical mechanism underlying clinical oxygen-barrier strategies (glycerin gel, mylar strips), confirming that OIL thickness and DC are controlled by material properties.
