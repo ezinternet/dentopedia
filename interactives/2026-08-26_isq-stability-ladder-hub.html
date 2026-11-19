@@ -3,12 +3,13 @@
 title: "ISQ 안정성 사다리 허브 — 측정·보정·부하결정"
 type: interactive
 date: 2026-10-06
-updated: 2026-10-06  # alzoubi-2024(플랫폼 직경=2차 ISQ 예측인자 B=5.25); trisi-2009(IT 35Ncm plateau 연질골)
+updated: 2026-11-19  # stability-dip-fixture-treatment-decision-overview 추가 (2026-11-17): 측정 후 dip 대응 처치 배정표 — D3/D4·상악엔 친수성/UV-PF/OD, 하악 D1/D2엔 tapered+고IT
 status: done
 category: implant-stability
 source_wiki:
   - wiki/overviews/implants-isq-stability-ladder.md
   - wiki/overviews/isq-loading-threshold.md
+  - wiki/overviews/stability-dip-fixture-treatment-decision-overview.md
   - wiki/implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq.md
   - wiki/implants/isq/huang-2017-multivariate-regression-isq-prediction.md
   - wiki/implants/isq/kim-2013-implant-stability-retrospective-rfa-isq.md
@@ -201,6 +202,7 @@ svg{max-width:100%;height:auto}
     <text x="570" y="205" font-size="11.5" fill="#5A6472" text-anchor="middle">90일</text>
   </svg>
   <div class="stop"><b>60일 이전에는 프로토콜을 바꾸지 않는다.</b> 딥은 90일까지 자연 회복한다. <span class="cite">Balshi 2005, 전향 n=344 Brånemark, 생존율 98.5%</span></div>
+  <div class="info"><b>Dip을 미리 줄일 수 있나?</b> D3/D4·상악 구치부에서 dip이 예상되면 <b>식립 전</b> 처치 선택으로 dip 폭을 줄이거나 없앨 수 있다 — ① 친수성·생체활성 나노표면(Canullo 2024: D4에서 dip 제거), ② 자외선 광기능화(UV-PF; Seol 2017: 2주 내 dip 없이 ISQ 69→81), ④ 골밀도화(D3/D4+상악동). 하악은 dip 없이 단조 증가하므로 대응 처치 불필요. 배정표 →&nbsp;<a href="stability-dip-fixture-treatment-decision-overview.html" style="color:var(--green-dark);font-weight:600">Stability Dip 처치 배정표</a> <span class="cite">stability-dip-fixture-treatment-decision-overview, 2026-11-17</span></div>
   <div class="warn" id="dipRisk"></div>
 </div>
 
@@ -247,6 +249,7 @@ svg{max-width:100%;height:auto}
     <a class="tool" data-k="sim" href="2026-06-02_isq-rfa-loading-simulator-v1.html"><b>ISQ·RFA 통합 시뮬레이터</b><span>측정 → 치유 궤적 → 부하결정 시뮬레이션</span></a>
     <a class="tool" data-k="dev" href="2026-08-18_ist-vs-isq-device-selector.html"><b>IST vs ISQ 기기 선택기</b><span>Osstell(RFA) vs Anycheck(DCA) — 측정자 독립성·신뢰도</span></a>
     <a class="tool" data-k="mill" href="2026-08-18_under-milling-itv-isq-calculator.html"><b>Under-milling ITV·ISQ 예측기</b><span>저밀도골에서 언더밀링으로 1차 안정성 끌어올리기</span></a>
+    <a class="tool" data-k="dip" href="stability-dip-fixture-treatment-decision-overview.html"><b>Stability Dip 처치 배정표</b><span>D3/D4·상악 dip 대응 — 친수성 표면·UV-PF·OD·테이퍼 배정 결정표</span></a>
     <a class="tool" data-k="flex" href="isq-flex-constant-explorer.html"><b>ISQ ↔ 측방변위 탐색기</b><span>ISQ 수치가 실제 미세동요로 얼마인지</span></a>
     <a class="tool" data-k="dof" href="rfa-2dof-frequency-simulator.html"><b>RFA 2-DOF 시뮬레이터</b><span>강성·공진주파수·미세변위의 물리</span></a>
   </div>
@@ -258,6 +261,7 @@ svg{max-width:100%;height:auto}
   <b>신규 (2026-09-22 ~ 10-05):</b> Alzoubi 2024 (후향 n=305): 플랫폼 직경만 유의한 <b>2차 ISQ 예측인자</b> (B=5.25, p&lt;0.0001, adj. R²=0.25) — 길이·부하 프로토콜·동시 골이식 유의 불명, 연조직 부위서 더 큰 직경 선택이 2차 안정성 전략의 핵심.
   Trisi 2009 (in-vitro, 120 임플란트·3 골밀도·5 토크·1800 측정): IT↑ → 마이크로모션↓ (ρ=−0.54), <b>연질골에서 45 Ncm plateau</b> 없이 최대 IT 35 Ncm에서도 마이크로모션 &gt;90 µm — 연질골 즉시부하 금기 근거 직접 지지.
   Bayarchimeg 2013 (in-vitro PU 폼): IT–ISQ 상관 균질골에서 r=0.82 (p&lt;0.001) 강함, 피질 두께·해면골 밀도·드릴 직경 독립 변동 시 약화 — "1차 안정성은 다인자, IT 단독으로 ISQ 예측 불가" 지지.<br>
+  <b>신규 (2026-11-17 overview 연계):</b> stability-dip-fixture-treatment-decision-overview — 5가지 처치(① 친수성 나노표면, ② UV-PF, ③ CAP, ④ OD, ⑤ 테이퍼+고IT)를 D1–D4 × 부위별로 배정한 결정 매트릭스. 상악 즉시식립 2–4주 dip (GEE b=−2.607, p=0.009) vs 하악 단조증가 (24주 81.47 vs 78.23, p=0.018) — 부위 축이 골질만큼 결정적. Canullo 2024: D4에서 친수성 표면이 dip 제거 (T45 74.97 vs SLA 73.44, p&lt;0.05).<br>
   임상 판단을 대체하지 않는다.
 </footer>
 </div>
