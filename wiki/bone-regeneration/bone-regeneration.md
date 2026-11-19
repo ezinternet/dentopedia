@@ -2,7 +2,7 @@
 title: "골재생 (general) — bone-regeneration"
 authors: navigation
 year: 2026
-date: 2026-11-10
+date: 2026-11-19
 doi: N/A
 source: navigation
 category: bone-regeneration
@@ -16,21 +16,21 @@ tags: [navigation, category-index, bone-regeneration]
 > - **분야**: 골재생 (general)
 > - **범위**: Guided bone regeneration (GBR), barrier membranes (collagen/crosslinked/PTFE), bone graft substitutes (DBBM/BCP/β-TCP) & biomaterials, horizontal/vertical augmentation, peri-implantitis GBR, animal/biomechanics models.
 > - **하위 카테고리**: [[ridge-preservation]]
-> - **수록 논문**: 115편
+> - **수록 논문**: 116편
 
 ## Three-line Summary
 
 **Scope**: Guided bone regeneration (GBR), barrier membranes (collagen/crosslinked/PTFE), bone graft substitutes (DBBM/BCP/β-TCP) & biomaterials, horizontal/vertical augmentation, peri-implantitis GBR, animal/biomechanics models.
-**Indexed papers**: 115 papers in `wiki/bone-regeneration/`.
+**Indexed papers**: 116 papers in `wiki/bone-regeneration/`.
 **Sub-categories**: [[ridge-preservation]]
 
 ## 세줄요약
 
 **분야**: 골재생 (general)
-**수록 논문**: 115편
+**수록 논문**: 116편
 **하위 카테고리**: ridge-preservation
 
-## Papers in this Category (115)
+## Papers in this Category (116)
 
 | Paper |
 |---|
@@ -68,6 +68,7 @@ tags: [navigation, category-index, bone-regeneration]
 | [[elrefaei-2025-3d-printed-scaffolds-ridge-augmentation|Customized 3D-Printed Scaffolds for Alveolar Ridge Augmentation: A Scoping Review of Workflows, Technology, and Materials]] |
 | [[enislidis-2006-staged-ridge-splitting-implant-mandible|Preliminary report on a staged ridge splitting technique for implant placement in the mandible: a technical note]] |
 | [[esposito-2009-horizontal-vertical-bone-augmentation-cochrane|Cochrane SR: Horizontal and Vertical Bone Augmentation Techniques for Dental Implant Treatment]] |
+| [[ferraz-2023-bone-grafts-dental-medicine-overview-autografts|Bone Grafts in Dental Medicine: An Overview of Autografts, Allografts and Synthetic Materials]] |
 | [[friedmann-2002-ossix-vs-ptfe-gbr-histomorphometry|Histological assessment of augmented jaw bone utilizing a new collagen barrier membrane compared to a standard barrier membrane to protect a granular bone substitute material]] |
 | [[friedmann-2011-rct-cross-linked-vs-non-crosslinked-lateral-augmentation|Randomized controlled trial on lateral augmentation using two collagen membranes: morphometric results on mineralized tissue compound]] |
 | [[friedmann-2022-horizontal-augmentation-gbr-dog|Horizontal Augmentation of Chronic Mandibular Defects by the Guided Bone Regeneration Approach: A Randomized Study in Dogs]] |
