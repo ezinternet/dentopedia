@@ -2378,6 +2378,7 @@ tags: []
 - [[overviews/sinus-lift-membrane-material-perforation-repair-overview]] — **하위 오버뷰** (모체 클러스터 0–1): 슈나이데리안 막 물성(천공 탄성계수 ≈ 신장의 2배), 적절 수복 시 임플란트 손실 4%, 기구 선택(천공률 10%↑ → 생존 odds 55%↓)
 - [[overviews/sinus-lift-perforation-risk-anatomy-overview]] — **하위 오버뷰** (모체 클러스터 2): 중격 33.2%(횡방향 86%), 막 낭종 HR 27.75, 흡연 OR 1.58, 잔존 골 높이·OMC·PSAA 위험
 - [[overviews/psaa-hemorrhage-management-lateral-sinus-lift-overview]] — **NEW Overview** (3편, 2026-11-19): 측방창 상악동거상술 PSAA 출혈 관리 종합 — 해부(Gulec 2025·Urechescu 2026): 검출 68–70%·점막하형 최다·대직경→동저/치조정 접근; 창높이 4분류(>11mm→골내형 p=0.004); 술중 전략(Basma 2021): 대직경 PSAA 피에조 기구로 슈나이더막과 함께 en-bloc 거상→출혈 없음
+- [[overviews/lateral-window-design-size-position-overview]] — **NEW Overview** (8편, 2026-11-19): 측방창 크기·수직 위치·수평 위치 계획 종합 — 창 크기≠천공위험(Alalshaikh 2024); 작은 창→골성숙↑(Sun 2026); 수직위치=PSAA 위험(Urechescu 4분류, >11mm p=0.004; Gulec ~16mm); 수평위치=중격(Henriques 33%, Yang OR 4.03); 측벽두께 ≥1.25mm 기구선택 임계값(Monje 2016)
 - [[overviews/sinus-lift-technique-timing-sinusitis-overview]] — **하위 오버뷰** (모체 클러스터 3–4): 3년 흡수 동등, 술 전 만성 부비동염 1순위 위험, 측방 1.35% vs 치조정 0.00%, 관골 sinus-slot 21.62%
 - [[overviews/sinus-lift-graft-material-prf-overview]] — **하위 오버뷰** (모체 클러스터 5): PRF+DBBM 신생골 +7.07%(ISQ 무차이), BCP 조직계측 우위·생존 자료 없음, dpDTM 소규모 RCT 1편, 이식 용량 참조
 - [[overviews/sinus-lift-isq-loading-timing]] — 상악동거상술 ISQ 궤적 및 부하 시기: 술식별(2단계LSA/TSFE동시) × RBH × 이식재별 ISQ 수치와 부하 가능 시점 총정리 (7편 합성)
