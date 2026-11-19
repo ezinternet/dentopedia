@@ -50,7 +50,7 @@ relations:
 
 ## Three-line Summary
 
-Synthesis of 24 papers (2011–2026) from Korean university hospitals and dental schools — a core set of 14 plus 10 Bundang papers on complications, technique and materials added 2026-11-10. The core 14: 8 long-term implant-survival cohorts, 2 narrow/short-implant cohorts, 1 one-year long-neck cohort, 1 SR+MA on short-implant overdentures, 1 antiresorptive-drug cohort and 1 failure-prediction study; almost all single-centre retrospective designs.
+Synthesis of 34 papers (2011–2026) from Korean university hospitals and dental schools — a core set of 14 plus 10 Bundang papers on complications, technique and materials added 2026-11-10, plus 10 related papers (survival benchmarks, SR+MAs, and risk-factor studies) referenced in the evidence sections. The core 14: 8 long-term implant-survival cohorts, 2 narrow/short-implant cohorts, 1 one-year long-neck cohort, 1 SR+MA on short-implant overdentures, 1 antiresorptive-drug cohort and 1 failure-prediction study; almost all single-centre retrospective designs.
 
 Implant-level cumulative survival clustered at 95–98% for 5–10+ years (range 92.5% for a fracture-prone RBM implant to 98.3% in a disability cohort); late failures were mostly peri-implantitis or mechanical fracture, and no risk factor replicated across cohorts except a recurring, sparsely supported overdenture signal.
 
@@ -58,7 +58,7 @@ These figures are a local benchmark rather than causal evidence: event counts we
 
 ## 세줄요약
 
-한국 대학병원·치과대학병원 24편(2011–2026) 종합 — 핵심 14편 + 2026-11-10 추가된 분당서울대병원 계열 10편(합병증·술식·재료). 핵심 14편: 장기 생존율 코호트 8편, 좁은·짧은 임플란트 코호트 2편, 1년 롱넥 코호트 1편, 짧은 임플란트 지지 피개의치 SR+MA 1편, 골흡수억제제 코호트 1편, 실패 예측 1편이며 대부분 단일기관 후향 설계.
+한국 대학병원·치과대학병원 34편(2011–2026) 종합 — 핵심 14편 + 2026-11-10 추가된 분당서울대병원 계열 10편(합병증·술식·재료) + 연관 연구 10편(생존 벤치마크·SR+MA·위험인자). 핵심 14편: 장기 생존율 코호트 8편, 좁은·짧은 임플란트 코호트 2편, 1년 롱넥 코호트 1편, 짧은 임플란트 지지 피개의치 SR+MA 1편, 골흡수억제제 코호트 1편, 실패 예측 1편이며 대부분 단일기관 후향 설계.
 
 임플란트 단위 누적생존율은 5–10년 이상에서 95–98%에 몰려 있고(고정체 파절 취약 RBM 임플란트 92.5% ~ 장애 환자 코호트 98.3%), 후기 실패는 임플란트주위염 또는 기계적 파절이 주였으며 코호트 간 재현된 위험인자는 피개의치 신호 정도뿐이었다.
 
