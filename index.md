@@ -2377,6 +2377,7 @@ tags: []
 - [[overviews/sinus-lift-lateral-2026-synthesis]] — 측방창 (Lateral Window) 상악동거상술 슈나이더 막 천공 (SMP) 위험·수복 종합 (2026-05-20 신규 20편): Soares 2024 SR+MA 수복 시 임플란트 소실률 4%·무손상과 동등, septa OR 4.03 (Yang 2024), PRF/e-PRF 단독 막 100% 생존 (Estrin 2025), >10 mm tack-collagen 술식 (Tian 2026)
 - [[overviews/sinus-lift-membrane-material-perforation-repair-overview]] — **하위 오버뷰** (모체 클러스터 0–1): 슈나이데리안 막 물성(천공 탄성계수 ≈ 신장의 2배), 적절 수복 시 임플란트 손실 4%, 기구 선택(천공률 10%↑ → 생존 odds 55%↓)
 - [[overviews/sinus-lift-perforation-risk-anatomy-overview]] — **하위 오버뷰** (모체 클러스터 2): 중격 33.2%(횡방향 86%), 막 낭종 HR 27.75, 흡연 OR 1.58, 잔존 골 높이·OMC·PSAA 위험
+- [[overviews/psaa-hemorrhage-management-lateral-sinus-lift-overview]] — **NEW Overview** (3편, 2026-11-19): 측방창 상악동거상술 PSAA 출혈 관리 종합 — 해부(Gulec 2025·Urechescu 2026): 검출 68–70%·점막하형 최다·대직경→동저/치조정 접근; 창높이 4분류(>11mm→골내형 p=0.004); 술중 전략(Basma 2021): 대직경 PSAA 피에조 기구로 슈나이더막과 함께 en-bloc 거상→출혈 없음
 - [[overviews/sinus-lift-technique-timing-sinusitis-overview]] — **하위 오버뷰** (모체 클러스터 3–4): 3년 흡수 동등, 술 전 만성 부비동염 1순위 위험, 측방 1.35% vs 치조정 0.00%, 관골 sinus-slot 21.62%
 - [[overviews/sinus-lift-graft-material-prf-overview]] — **하위 오버뷰** (모체 클러스터 5): PRF+DBBM 신생골 +7.07%(ISQ 무차이), BCP 조직계측 우위·생존 자료 없음, dpDTM 소규모 RCT 1편, 이식 용량 참조
 - [[overviews/sinus-lift-isq-loading-timing]] — 상악동거상술 ISQ 궤적 및 부하 시기: 술식별(2단계LSA/TSFE동시) × RBH × 이식재별 ISQ 수치와 부하 가능 시점 총정리 (7편 합성)
