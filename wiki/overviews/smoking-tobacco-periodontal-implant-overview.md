@@ -16,7 +16,7 @@ tags: [smoking, tobacco, cigarette, e-cigarette, vaping, smoke-free-tobacco, env
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 흡연·담배제품과 치주·임플란트·발치 위험을 다룬 논문 23편을 기전/미생물 → 임플란트 생존·골소실·임플란트주위염 발생 → 용량-반응 → 금연 효과 → 수술·발치 합병증 → 신흥 노출경로(간접흡연·전자담배)로 종합한 페이지 (2026-11-19 갱신, +5편). [확인]
+> - 흡연·담배제품과 치주·임플란트·발치 위험을 다룬 논문 15편(인제스트 완료)을 기전/미생물 → 임플란트 생존·골소실·임플란트주위염 발생 → 용량-반응 → 금연 효과 → 수술·발치 합병증 → 신흥 노출경로(간접흡연·전자담배)로 종합한 페이지 (2026-11-19 갱신; Kim 2024·Li 2025·Huang 2025·Abtahi 2026·Majid 2025는 본문 인용·미인제스트). [확인]
 > - **기전 (Apatzidou 2022, narrative review; Chih 2023 SR; Shibli 2024)**: 흡연은 중성구 기능 저하·MMP(특히 MMP-8) 상승·치주/임플란트주위 미생물 변화·창상치유 장애를 통해 조직 항상성을 손상 — 치주염 위험 약 2–6배, 임플란트주위염 위험 유의 증가의 기전적 근거. **Chih 2023**(SR, 14편, abstract-only)은 건강 임플란트 부위에서 흡연자의 혐기성 병원균 빈도 증가·미생물 다양성 감소, 질환 이행 시 공생균 감소·병원균 우세로의 dysbiosis 신호를 보고해 임플란트주위 미생물 경로를 보강한다. [확인]
 > - **임플란트 생존·골소실 정량 근거 수렴**: Mustapha 2022(실패율+MBL 모두 유의), Fan 2024(조기실패 OR 2.59, 95% CI 2.08–3.23, 32편/59,246 임플란트), **Calciolari 2026**(45편/44연구, 임플란트 단위 생존 OR 0.40·환자 단위 OR 0.43·CBL +0.64mm). [확인]
 > - **임플란트주위염 발생(incidence) 근거 추가 (Reis 2023, SR+MA, abstract-only)**: 흡연자는 임플란트주위염 발생 위험이 높았다 — 임플란트 단위 RR 2.04(초록 보고값, **95% CI 1.46–1.85로 내부 불일치 가능성 있어 원문 확인 필요**, p<.0001), 환자 단위 RR 2.79(95% CI 1.42–5.50, p=.003), GRADE 중등도. 생존/MBL을 넘어 발생 위험 축을 보강한다. [확인, abstract-only·CI 주의]
@@ -29,7 +29,7 @@ tags: [smoking, tobacco, cigarette, e-cigarette, vaping, smoke-free-tobacco, env
 
 ## Three-line Summary
 
-Synthesis of 23 papers (updated 2026-11-19, +5) on smoking/tobacco across periodontal, implant, and extraction contexts: mechanism/microbiota (Apatzidou 2022, Chih 2023, Shibli 2024) → implant survival/MBL and peri-implantitis incidence (Mustapha 2022, Fan 2024, Calciolari 2026, Reis 2023) → dose-response (Naseri 2020) → cessation benefit (Caggiano 2022) → surgical/extraction complications (Wang 2023 sinus perforation; Taberner-Vallverdú 2017 dry socket prevention/risk; Asmael 2018 PRF in smokers' sockets) → emerging exposures (ETS Ye 2026; e-cigarette/vape La Rosa 2026, Majid 2025, Guney 2024).
+Synthesis of 15 ingested papers (updated 2026-11-19; 5 additional papers cited in-text but not yet ingested: Kim 2024, Li 2025, Huang 2025, Abtahi 2026, Majid 2025) on smoking/tobacco across periodontal, implant, and extraction contexts: mechanism/microbiota (Apatzidou 2022, Chih 2023, Shibli 2024) → implant survival/MBL and peri-implantitis incidence (Mustapha 2022, Fan 2024, Calciolari 2026, Reis 2023) → dose-response (Naseri 2020) → cessation benefit (Caggiano 2022) → surgical/extraction complications (Wang 2023 sinus perforation; Taberner-Vallverdú 2017 dry socket prevention/risk; Asmael 2018 PRF in smokers' sockets) → emerging exposures (ETS Ye 2026; e-cigarette/vape La Rosa 2026, Majid 2025, Guney 2024).
 
 Across SR/MAs and a 2026 large registry, smoking is broadly associated with higher implant failure/MBL/peri-implant complications and peri-implantitis incidence (Calciolari 2026: implant-level survival OR 0.40, patient-level OR 0.43, +0.64 mm CBL; Reis 2023: peri-implantitis RR 2.79 patient-level, implant-level RR 2.04 as reported with CI caveat), but early-failure evidence remains inconsistent (support: Fan/Kim/Li/Huang vs Abtahi 2026 HR 1.04, NS).
 
@@ -37,7 +37,7 @@ Passive ETS exposure raises periodontitis odds in non-smokers (Ye 2026, OR 1.47)
 
 ## 세줄요약
 
-흡연·담배제품과 치주/임플란트/발치 위험에 관한 논문 23편 종합(2026-11-19, +5): 기전·미생물(Apatzidou 2022, Chih 2023, Shibli 2024) → 생존/골소실·임플란트주위염 발생(Mustapha 2022, Fan 2024, Calciolari 2026, Reis 2023) → 용량-반응(Naseri 2020) → 금연 효과(Caggiano 2022) → 수술·발치 합병증(Wang 2023, Taberner-Vallverdú 2017, Asmael 2018) → 신흥 노출(ETS Ye 2026, 전자담배 La Rosa 2026·Majid 2025·Guney 2024).
+흡연·담배제품과 치주/임플란트/발치 위험에 관한 인제스트 완료 15편 종합(2026-11-19): 기전·미생물(Apatzidou 2022, Chih 2023, Shibli 2024) → 생존/골소실·임플란트주위염 발생(Mustapha 2022, Fan 2024, Calciolari 2026, Reis 2023) → 용량-반응(Naseri 2020) → 금연 효과(Caggiano 2022) → 수술·발치 합병증(Wang 2023, Taberner-Vallverdú 2017, Asmael 2018) → 신흥 노출(ETS Ye 2026, 전자담배 La Rosa 2026·Majid 2025·Guney 2024).
 
 흡연은 임플란트 실패·MBL·임플란트주위염 발생 위험 증가와 연관되나(Calciolari 2026; Reis 2023 환자 단위 RR 2.79, 임플란트 단위 RR 2.04는 초록 보고 CI 주의), 조기 실패 근거는 불일치(Fan/Kim/Li/Huang 지지 vs Abtahi 2026 HR 1.04 비유의).
 
@@ -184,22 +184,17 @@ The overall implant-failure/MBL signal is robust (above), but **early failure (p
 
 - [[implants/survival/calciolari-2026-tobacco-smoking-smoke-free-products]]
 - [[implants/survival/fan-2024-smoking-early-implant-failure-sr-ma]]
-- [[implants/survival/naseri-2020-levels-of-smoking-and-dental]]
-- [[implants/survival/mustapha-2021-smoking-and-dental-implants-a]]
-- [[implants/survival/caggiano-2022-effect-of-cigarette-smoking-on]]
-- [[implants/survival/kim-2024-revisiting-the-association-between-smoking]]
-- [[implants/survival/li-2025-risk-factors-associated-with-early]]
-- [[implants/survival/huang-2025-risk-factors-for-implant-failure]]
-- [[implants/survival/abtahi-2026-patient-related-predictors-for-early-implant]]
+- [[implants/survival/naseri-2020-smoking-levels-implant-failure-sr-ma]]
+- [[implants/survival/mustapha-2022-smoking-dental-implants-sr-ma]]
+- [[implants/survival/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr]]
+- [[implants/survival/shibli-2024-implant-surface-smoking-human-peri-implant-bone]]
 - [[implants/peri-implantitis/reis-2023-the-influence-of-smoking-on]]
 - [[implants/peri-implantitis/chih-2023-the-impact-of-smoking-on]]
 - [[implants/peri-implantitis/guney-2024-the-impact-of-electronic-cigarettes]]
-- [[periodontology/mechanisms/apatzidou-2022-the-role-of-cigarette-smoking]]
-- [[periodontology/mechanisms/ye-2026-passive-smoking-and-periodontitis]]
-- [[periodontology/mechanisms/la-rosa-2026-effects-of-e-cigarettes-on-the]]
-- [[periodontology/mechanisms/majid-2025-effects-of-e-cigarettes-on-periodontal]]
-- [[implants/risk-factors/wang-2023-association-between-smoking-and-schneiderian]]
-- [[implants/risk-factors/shibli-2024-smoking-as-a-risk-factor-for-dental-implant-failure-a-critical-literature-review]]
+- [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]]
+- [[periodontics/ye-2026-environmental-tobacco-smoke-periodontitis-nonsmokers]]
+- [[oral-microbiology/la-rosa-2026-electronic-cigarette-oral-microbiota]]
+- [[sinus-lift/lateral/wang-2023-smoking-schneiderian-membrane-perforation-sinus]]
 - [[oral-surgery/asmael-2018-novel-application-of-platelet-rich]]
 - [[oral-surgery/taberner-vallverdu-2017-efficacy-of-different-methods-used]]
 
