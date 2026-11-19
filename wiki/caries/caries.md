@@ -2,7 +2,7 @@
 title: "우식 — caries"
 authors: navigation
 year: 2026
-date: 2026-08-29
+date: 2026-11-19
 doi: N/A
 source: navigation
 category: caries
@@ -15,20 +15,20 @@ tags: [navigation, category-index, caries]
 > [!summary] 한국어 핵심요약
 > - **분야**: 우식
 > - **범위**: Caries detection, risk assessment, minimal intervention dentistry, fluoride, fissure sealants, ICDAS, stepwise/selective excavation
-> - **수록 논문**: 48편
+> - **수록 논문**: 53편
 
 ## Three-line Summary
 
 **Scope**: Caries detection, risk assessment, minimal intervention dentistry, fluoride, fissure sealants, ICDAS, stepwise/selective excavation
-**Indexed papers**: 48 papers in `wiki/caries/`.
+**Indexed papers**: 53 papers in `wiki/caries/`.
 
 ## 세줄요약
 
 **분야**: 우식
-**수록 논문**: 48편
+**수록 논문**: 53편
 **하위 카테고리**: 없음
 
-## Papers in this Category (48)
+## Papers in this Category (53)
 
 | Paper |
 |---|
@@ -55,12 +55,14 @@ tags: [navigation, category-index, caries]
 | [[hajishafiee-2023-ssb-taxation-sugars-caries-umbrella|Effect of sugar-sweetened beverage taxation on sugars intake and dental caries: an umbrella review of a global perspective]] |
 | [[hamdi-2024-orthodontic-adhesives-enamel-remineralization|Remineralization and anti-demineralization effect of orthodontic adhesives on enamel surrounding orthodontic brackets: a systematic review of in vitro studies]] |
 | [[hu-2026-acidic-microenvironment-caries-pulpitis-periapical-review|pH-driven progression: Dental caries to pulpal and periapical disorders]] |
+| [[iheozor-ejiofor-2024-water-fluoridation-prevention-dental|Cochrane SR: Water Fluoridation for the Prevention of Dental Caries]] |
 | [[jkda-2023-61-7-004|Type and Characteristics of Fluoride varnish]] |
 | [[kakudate-2020-evidence-practice-gap-pbrn|Evidence-practice Gap in Minimal Intervention Dentistry: Findings from a Dental Practice-based Research Network]] |
 | [[kakudate-2024-evidence-practice-gap-japan-brazil|The Evidence-Practice Gap in Minimal Intervention Dentistry: An International Comparison Between Dentists in Japan and Brazil]] |
 | [[kashbour-2020-sealants-versus-fluoride-varnishes-decay|Pit and fissure sealants versus fluoride varnishes for preventing dental decay in the permanent teeth of children and adolescents]] |
 | [[konukman-turker-2026-hall-vs-modified-hall-primary-molars-rct|Two-year outcomes of hall technique and modified hall technique in deep carious lesions of primary molars: a randomized clinical trial]] |
 | [[kumar-2026-fluoride-varnish-caries-prevention-cost-effectiveness-sr-ma|Fluoride varnish for preventing dental caries among children: a systematic review and meta-analysis of cost-effectiveness studies]] |
+| [[kumari-2026-noninvasive-management-molar-incisor-hypomineralization|Cochrane Protocol: Non-invasive Management of Molar-Incisor Hypomineralization (MIH) in Children]] |
 | [[li-2015-microbiota-black-stain-primary-dentition|Analysis of the Microbiota of Black Stain in the Primary Dentition]] |
 | [[malcangi-2023-enamel-remineralization-techniques-sr|Analysis of Dental Enamel Remineralization: A Systematic Review of Technique Comparisons]] |
 | [[meyer-lueckel-2019-intervene-root-caries-process-sr-ma|How to Intervene in the Root Caries Process? Systematic Review and Meta-Analyses]] |
@@ -75,7 +77,10 @@ tags: [navigation, category-index, caries]
 | [[schwendicke-2021-cavitated-dentine-carious-lesions-treatment-nma|Interventions for treating cavitated or dentine carious lesions]] |
 | [[unal-2025-clear-aligner-attachment-remineralization-diagnodent|Comparative effectiveness of remineralization agents on attachment-associated enamel demineralization in clear aligner patients: A 6-Month DIAGNOdent-Based controlled clinical trial]] |
 | [[urquhart-2019-nonrestorative-treatments-caries-network-meta-analysis|Nonrestorative Treatments for Caries: A Systematic Review and Network Meta-Analysis]] |
+| [[wong-2024-topical-fluoride-cause-dental-fluorosis|Cochrane SR: Topical Fluoride as a Cause of Dental Fluorosis in Children]] |
+| [[worthington-2024-sdf-preventing-managing-dental-caries|Cochrane SR: Topical Silver Diamine Fluoride (SDF) for Preventing and Managing Dental Caries]] |
 | [[xie-2023-white-spot-lesion-therapies-sr-nma|Comparison of therapies of white spot lesions: a systematic review and network meta-analysis]] |
+| [[yahya-2026-smoking-induced-changes-saliva-composition-tongue|Smoking-induced changes in saliva composition and tongue coating]] |
 | [[yin-2025-arginine-dentifrice-childhood-caries-rct|Arginine Dentifrices and Childhood Caries Prevention: A Randomized Clinical Trial]] |
 | [[zheng-2023-oral-gut-microbiome-black-stain-caries|Oral microbiome and gut microbiome of early black stain and dental caries in preschool children]] |
 | [[zheng-2025-silver-diamine-fluoride-vs-varnish-caries-prevention-rct|Randomized Clinical Trial on Caries Prevention of Silver Diamine Fluoride]] |
