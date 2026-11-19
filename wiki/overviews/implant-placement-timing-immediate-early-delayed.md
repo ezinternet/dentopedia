@@ -31,7 +31,7 @@ tags: [overview, placement-timing, immediate-implant, early-placement, delayed-i
 
 ## Three-line Summary
 
-Synthesis of 12 papers (2 landmark RCTs, 2 SR+MAs, multiple narrative reviews; including the 2026 Yang RCT) plus a 2026 national-cohort addition (Findler 2026) on ITI Type 1–4 placement timing: across the spectrum, implant survival is broadly equivalent in selected cases, but the esthetic/biological cost falls on immediate (Type 1) placement — Tonetti 2017 RCT (n=124) shows immediate needs more augmentation (72% vs 44%), more wound failures (26% vs 5%), and more inadequate pink esthetics (42% vs 19% inadequate) compared to 12-week delayed placement.
+Synthesis of 15 papers (2 landmark RCTs, 2 SR+MAs, multiple narrative reviews; including the 2026 Yang RCT) plus a 2026 national-cohort addition (Findler 2026) on ITI Type 1–4 placement timing: across the spectrum, implant survival is broadly equivalent in selected cases, but the esthetic/biological cost falls on immediate (Type 1) placement — Tonetti 2017 RCT (n=124) shows immediate needs more augmentation (72% vs 44%), more wound failures (26% vs 5%), and more inadequate pink esthetics (42% vs 19% inadequate) compared to 12-week delayed placement.
 
 Early (Type 2/3) placement is the risk-balanced hedge: Bassir 2019 SR+MA (12 studies) shows early placement matches immediate/delayed for failure rate while losing less marginal bone than immediate (WMD −0.14 mm); periapical lesion >5 mm is the dominant real-world contraindication to immediate (Bineviciute 2024, 186 clinicians survey); and large bony-defect sockets can still reach delayed-equivalent 10-year outcomes with immediate + GBR + deferred provisional (Meijer 2024 RCT), though this is operator-dependent.
 
@@ -39,7 +39,7 @@ The Cochrane review (Esposito 2010, 7 RCTs) cautions that "immediate-delayed" (4
 
 ## 세줄요약
 
-12편 종합(RCT 2, SR+MA 2, 서술고찰 다수; 2026 Yang RCT 포함) + 2026 국가 코호트 추가분(Findler 2026): ITI Type 1–4 시점 전반에서 선택된 증례의 임플란트 생존율은 대체로 동등하나, 심미·생물학적 비용은 즉시(Type 1) 식립에 집중 — Tonetti 2017 RCT(n=124)에서 즉시식립이 12주 지연 대비 골증대 필요(72% vs 44%)·창상실패(26% vs 5%)·부적절 심미(42% vs 19%) 더 많음.
+15편 종합(RCT 2, SR+MA 2, 서술고찰 다수; 2026 Yang RCT 포함) + 2026 국가 코호트 추가분(Findler 2026): ITI Type 1–4 시점 전반에서 선택된 증례의 임플란트 생존율은 대체로 동등하나, 심미·생물학적 비용은 즉시(Type 1) 식립에 집중 — Tonetti 2017 RCT(n=124)에서 즉시식립이 12주 지연 대비 골증대 필요(72% vs 44%)·창상실패(26% vs 5%)·부적절 심미(42% vs 19%) 더 많음.
 
 조기(Type 2/3) 식립이 위험 균형 hedge: Bassir 2019 SR+MA(12편)에서 조기는 즉시·지연과 실패율 동등 + 즉시보다 MBL이 적음(WMD −0.14mm); 근단병소 >5mm가 즉시식립의 지배적 실세계 금기(Bineviciute 2024, 설문 186명); 큰 골결손도 즉시+GBR+지연 임시보철로 10년 지연 동등 결과 가능(Meijer 2024 RCT) — 단, 술자 의존적.
 
