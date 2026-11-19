@@ -872,6 +872,8 @@ tags: []
 - [[sinus-lift/lateral/sane-2026-effectiveness-of-concentrated-growth-factor]] — Sane 2026 · sr+ma (6편/185 상악동, 초록만) · 측방 상악동거상 CGF: 신생골 SMD 0.94(p=0.004)·골밀도 SMD 0.89(p=0.0001) 유의 증가, 골고도·생존율(97–100%)은 무차; EHA+CGF는 미검증 전이 추론 (DOI 10.1007/s12663-026-03192-5)
 - [[sinus-lift/lateral/krennmair-2025-varying-influence-of-maxillary-sinus]] — Krennmair 2025 · retrospective (23동, 초록만, 정정문 있음) · 측방 상악동거상 해부학 변수가 신생골에 미치는 영향은 이식재 의존 — SW·IMSCL은 유의 음상관, RRH는 무관; 다변수 R² 돼지골 0.591 vs 소골 0.314 (DOI 10.1111/cid.70014)
 - [[sinus-lift/lateral/nathani-2025-evaluation-of-the-efficacy-of]] — Nathani 2025 · prospective (단일군 12명 등록/10명 분석, PMC전문) · 잔존골 ≤5mm 측방 거상에서 자가골:30/70 BCP 1:1 + PRF — 6개월 골고도 +8.53mm(p<0.001), 신생골 48.08%·잔존이식재 24.36%, 막천공 0건 (DOI 10.4103/jisp.jisp_30_25)
+- [[sinus-lift/lateral/urechescu-2026-psaa-localization-lateral-window-sinus]] — 후향 CBCT (n=1152 상악동, 루마니아): PSAA 검출 68.1%·점막하 48.6%·골내 17.6%; 동저 거리 8.3±4.3mm; 대형창(>11mm)에서 골내형 유의 증가(p=0.004) — 측방창 높이별 PSAA 위험도 4분류 체계 (DOI 10.1186/s12903-026-08146-4)
+- [[sinus-lift/lateral/basma-2021-large-artery-management-maxillary-sinus]] — 증례보고: CT 확인 대직경 PSA 분지를 피에조전기 기구로 슈나이더막과 함께 출혈 없이 거상 → 대직경 PSAA 발견 시 절제 대신 "막과 함께 거상" 전략으로 출혈 합병증 예방 (DOI 10.1002/cap.10104)
 
 ## 상악동거상술 — 경치조골·골밀도화 (Sinus Lift: Transcrestal / Osseodensification)
 - [[sinus-lift/transcrestal/huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma]] — Huang 2026 · sr+ma · 무이식(graftless) 경치조 상악동거상 MA 14편(2119부위): 막천공 1%·조기실패 1%·부비동염 없음; motor-OD 34% vs osteotome 0% (GRADE very low) (DOI 10.2340/aos.v85.46021)
