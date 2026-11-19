@@ -582,6 +582,8 @@ tags: []
 - [[bone-regeneration/ridge-preservation/jiang-2024-efficacy-reactive-soft-tissue-alveolar]] — 전향적 코호트 (44명 모집/40명 완료, ChiCTR2200061459): 골결손 발치와 ARP에서 반응성 연조직 (Reactive Soft Tissue, RST) vs 콜라겐 스펀지 (Collagen Sponge, CS), 양군 DBBM — 수평 골증가 4.37/5.57/4.16 vs 3.57/4.66/2.97 mm('비슷함', p 미제시), 치유지수 14일째 6 vs 7 (p=0.003), 각화점막폭 (Keratinized Mucosa Width, KMW)·신생골 비율 차이 없음 → RST 이점은 초기 연조직 치유에 국한 (abstract-only)
 - [[bone-regeneration/ridge-preservation/li-2026-effect-reactive-soft-tissue-combined]] — 후향 코호트 (제4형 중증결손 구치부 40부위, 6개월 CBCT): RST + 주입형 혈소판농축피브린 (injectable Platelet-Rich Fibrin, iPRF) + DBBM 실링 vs 콜라겐막+스펀지 골유도재생술 (Guided Bone Regeneration, GBR) — 치조정 수직 변화 (T2−T1) +0.34 vs −0.88 mm (p=0.023), 이식재 잔존율 92.84% vs 68.04% (p=0.003), 수평 폭경·단기 생존 (양군 100%) 동등 (abstract-only)
 
+- [[bone-regeneration/ferraz-2023-bone-grafts-dental-medicine-overview-autografts]] — 자가골·동종골·이종골·합성골을 비교한 2023년 narrative review: 자가골은 골형성·골유도·골전도 모두 갖춘 gold standard이나 공여부 이환율·공급 제한, 이종골(Bio-Oss, Ca/P 1.67)은 치과에서 가장 널리 쓰이나 골유도성 논란, 합성재(인산칼슘 시멘트·HA·TCP·생활성유리·폴리머)는 가용성·조작성이 장점이나 임계크기(>5 mm) 결손에서 골유도성 부족; 중간엽세포·성장인자 결합 시 신생골 형성이 가장 좋았고 인체 비교연구 필요.
+
 ## PDRN — 폴리데옥시리보뉴클레오티드 (Polydeoxyribonucleotide)
 - [[overviews/pdrn-dentistry-evidence-synthesis]] — Synthesis 2026-05-31 (17편 종합): 기전(A2A 수용체+salvage pathway) 탄탄. 근거가 둘로 갈림 — **진통·항염**은 human 근거 강함(발치 RCT 1 + TMJ 후향코호트 1 + 비치과 SR/MA 2), **재생**은 전부 animal·in vitro·zone/outcome 한정·시간 전엽(초기 가속 후 종점 수렴); 1차 골유착(BIC/BAFO)·연조직 volume 무차이; dose 비선형; autograft 대체 미입증; MRONJ 기전 근거 추가; 저위험 adjunct로 합리적.
 - [[pdrn/ku-2025-polydeoxyribonucleotide-pdrn-dentistry-narrative-review]] — Narrative review (Tissue Eng Regen Med 2026, SNUBH): PDRN(50-1500 kDa salmon DNA fragment) 기전(A2A receptor + salvage pathway)·치과 indication(GBR·TMJ·peri-implantitis·MRONJ) 정리. PDRN 카테고리 anchor paper.
@@ -2333,6 +2335,7 @@ tags: []
 - [[bone-biology/chang-2021-osteon-structure-turnover-regeneration]] — Tissue Eng Part B narrative-review(2021): 피질골 기능단위 오스테온(하버시안계) 계층구조(6단계: 콜라겐→라멜라→오스테온→피질골) + 시멘트라인 균열편향·LCN 기계감지 + BMU 회전율(주기 4–6개월, 연간 2–5%) + 노화 효과; 피질골 재생 생체공학 전략 개관
 - [[bone-biology/franchi-2005-peri-implant-osteogenesis-health-osteoporosis]] — Micron narrative-review(2005): 임플란트 주위 골형성 조직학 타임라인 — 비섬유성 석회화층(1일)→우븐본(3–7일)→수복성 소주골(1–2주)→층판골(6–12주); 접촉·원거리 골형성 동시 기전; 골다공증에서 우븐본 단계 연장·층판골 전환 지연
 - [[bone-biology/hakimiha-2025-photobiomodulation-enhances-osteogenesis-in-oral]] — Hakimiha 2025 · sr · 광생물조절(PBM)이 구강·지방유래 MSC 골형성분화를 증진 SR(1104건 중 체외 19편, QUIN 평가): 유의 파장 660–1064nm·에너지밀도 2–6 J/cm²에서 ALP·RUNX2·OCN 상승·광물화 증가, Wnt/β-catenin·BMP/Smad·PI3K/Akt 활성화 — 임상 전이 근거 없음 (초록만) (DOI 10.1016/j.pdpdt.2025.105238)란트 주위 골형성 조직학 타임라인 — 비섬유성 석회화층(1일)→우븐본(3–7일)→수복성 소주골(1–2주)→층판골(6–12주); 접촉·원거리 골형성 동시 기전; 골다공증에서 우븐본 단계 연장·층판골 전환 지연
+- [[bone-biology/florencio-silva-2015-biology-bone-tissue-structure-function]] — 2015년 서술적 리뷰로 4종 골세포와 BMU 3단계 골개량, 골세포(90–95%, 수명 25년)의 라쿠나-캐나리쿨라 기계감지와 개량 조율, RANKL/RANK/OPG 파골세포 형성, 오스테오칼신·FGF23의 내분비 기능 및 골다공증·골경화증 불균형을 정리.
 
 ## 종합 (Overviews)
 - [[overviews/alcohol-extraction-implant-surgery-risk-overview]] — Synthesis 2026-11-19 신설 (10편: SR+MA 2·SR 1·후향 3·동물 2·논평 1·반대 코호트 1): **음주 × 발치·임플란트 수술** 종합. 명제 = "음주 여부"가 아니라 **용량** — 전체 음주 OR 0.87(중립) vs 과량 **OR 2.78**(2.08–3.91), 주위염 **OR 2.07**(1.49–2.85, I²=0.0%, 3편); 코호트 실측 주위염 과량 46.2% vs 저·중등도 11.5%(발현 31.3±22.2개월, 표본수 미기재); 기전 2축(래트 BIC↓ vs 숙주면역↓); **가역성 1편**(마우스 수술 직후 금주 → 계면강도 회복, 단 정형외과·술전 금주기간 미입증); 간경변 발치 출혈 0–8.9% 전부 국소지혈·INR<3/PLT>16k면 수혈 불필요(PLT 수는 16%만 설명); 악골 골수염 합병증 음주 41.2% vs 10.8%(p=0.025, 흡연·영양실조와 미분리); 금단(AWS)은 선별·의뢰. **공백: 건성발치와 문헌은 음주를 측정하지 않음 — 연관 주장 불가**. 8단계 결정 사다리 포함
@@ -2716,6 +2719,8 @@ tags: []
 - [[caries/ge-2023-glass-ionomer-secondary-caries-sr-ma]] — SR+MA(Dent Mater 2023, 64 RCT/8,310 GIC vs 5,857 amalgam/composite): GIC 이차우식 예방 — 아말감 대비 유의 우세(영구치 RR 0.20·유치 RR 0.55), 레진 컴포지트와는 동등; cGIC=RMGIC
 - [[caries/schmidt-2024-root-caries-restorative-adhesive-nma]] — SR+NMA(J Dent 2024, 9 RCT/1,263 lesion): 치근우식 수복 — 24개월 2-3ER/CC 또는 RMGIC가 GIC 대비 경향 우세(OR 2.05–2.65) but NS, CINeMA 신뢰도 낮음; 근거기반 우선순위 결정 불가
 
+
+- [[caries/yahya-2026-smoking-induced-changes-saliva-composition-tongue]] — 흡연자 38명·비흡연자 40명 횡단면 연구: 타액 완충능 유의 저하(p=0.002), 설태 두께(p=0.008)·분포면적(p=0.000) 유의 증가, 타액 유량·pH는 비유의 — 설태·타액 분석의 충치 위험평가 통합 제안.
 
 ## 식편압입·치간이개 (Food Impaction / Proximal Contact Loss)
 - [[food-impaction/atieh-2026-open-proximal-contacts-peri-implant-diseases]] — Atieh 2026 · sr+ma · 개방근위접촉 5편·4882임플란트: 주위점막염 위험↑(RR 1.74)이나 골소실·탐침깊이·주위염은 비유의
