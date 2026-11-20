@@ -2,7 +2,7 @@
 title: "종합 — overviews"
 authors: navigation
 year: 2026
-date: 2026-11-10
+date: 2026-11-20
 doi: N/A
 source: navigation
 category: overviews
@@ -15,20 +15,20 @@ tags: [navigation, category-index, overviews]
 > [!summary] 한국어 핵심요약
 > - **분야**: 종합
 > - **범위**: Synthesis pages spanning multiple categories
-> - **수록 논문**: 375편
+> - **수록 논문**: 388편
 
 ## Three-line Summary
 
 **Scope**: Synthesis pages spanning multiple categories
-**Indexed papers**: 375 papers in `wiki/overviews/`.
+**Indexed papers**: 388 papers in `wiki/overviews/`.
 
 ## 세줄요약
 
 **분야**: 종합
-**수록 논문**: 375편
+**수록 논문**: 388편
 **하위 카테고리**: 없음
 
-## Papers in this Category (375)
+## Papers in this Category (388)
 
 | Paper |
 |---|
@@ -36,6 +36,7 @@ tags: [navigation, category-index, overviews]
 | [[abutment-screw-preload-joint-stability-overview|Abutment Screw Preload, Torque Loss & Screw-Joint Stability — preload mechanics, settling, retightening, connection design & fatigue]] |
 | [[adhesive-bonding-strategies-overview|접착·결합 전략 — Universal·SE·E&R·오염 대처·간접수복 본딩 종합]] |
 | [[ai-dentistry-reviews-2024-2025-synthesis|AI in Dentistry and Healthcare — Cluster Synthesis (2024–2026)]] |
+| [[alcohol-extraction-implant-surgery-risk-overview|Alcohol → Tooth Extraction & Implant Surgery — Risk, Timing, and Where the Evidence Stops]] |
 | [[antibiotics-comprehensive-overview|Dental Antibiotics Comprehensive Overview]] |
 | [[antiseptic-mouthrinse-chlorhexidine-essential-oil-overview|항균 가글 화학적 치면세균막 조절 종합 — 클로르헥시딘 vs 에센셜오일]] |
 | [[apical-patency-endodontic-outcome-overview|Apical Patency — Clinical Evidence & Decision Framework]] |
@@ -58,6 +59,8 @@ tags: [navigation, category-index, overviews]
 | [[btx-orofacial-applications-overview|보툴리눔독소(BTX) 구강안면 임상 적용 — 종합]] |
 | [[buccal-plate-anatomy-socket-biology-anterior-maxilla-overview|Buccal Plate Anatomy, Socket Healing Biology, and Soft Tissue Masking: Foundations for Anterior Maxillary Implant Planning]] |
 | [[buffered-modified-local-anesthetics-overview|Buffered & Modified Local Anesthetics in Dentistry — Efficacy, Onset, and Special-Population Overview]] |
+| [[bundle-bone-gap-management-immediate-implants-overview|Bundle Bone, Gap Management, and Immediate Implants — Periospot Article Overview (2026 Update)]] |
+| [[bundle-bone-structural-vulnerability-gap-grafting-evidence-overview|Bundle Bone Structural Vulnerability and Buccal-Gap Grafting at Immediate Implants — Evidence from Ingested Studies]] |
 | [[c-shaped-canal-anatomy-prevalence-overview|C-shaped Root Canal Anatomy: Prevalence, Geography & Clinical Management — 12-paper synthesis]] |
 | [[canal-shaping-glidepath-niti-fatigue-overview|Canal Shaping — Glide Path Geometry, Biological Cost, NiTi Fatigue & Sterilization 종합]] |
 | [[caries-biomimetic-remineralization-orthodontic-pediatric-crown-overview|교정 처치 주변 재광화 및 소아 전치부 크라운 선택 — 바이오마임틱 HA·교정장치 부위·지르코니아 크라운 종합]] |
@@ -178,6 +181,7 @@ tags: [navigation, category-index, overviews]
 | [[ian-nerve-injury-management-overview|하치조신경·설신경 손상 — 역학·분류·시간기반 관리 프로토콜 종합 (IAN/LN Injury: Epidemiology, Classification & Time-Based Management)]] |
 | [[immediate-dentin-sealing-evidence-synthesis|즉시 상아질 밀봉 (Immediate Dentin Sealing, IDS) 근거 종합 — in-vitro 강함 vs 임상 POS 논쟁]] |
 | [[immediate-implant-anatomic-safety-overview|Immediate Implant Placement — Site-Specific Anatomic Safety & CBCT Margins Overview]] |
+| [[immediate-implant-case-selection-protocol-overview|Immediate Implant Placement — Case-Selection Protocol (Pre-extraction Gate, 3D Position, Primary Stability, Gap & Soft-Tissue Plan)]] |
 | [[immediate-implant-conditions|즉시식립 (Immediate Implant Placement, Type-1) — 가능 조건·실패 위험인자·심미 결과 매트릭스]] |
 | [[immediate-implant-decision-ladder|Immediate Implant Placement — Decision Ladder (Type 1 vs 2/3/4, IIPP, Socket Shield)]] |
 | [[immediate-implant-esthetic-soft-tissue-overview|Overview: Esthetic-Zone Soft Tissue & Immediate Provisionalization in Immediate Implants]] |
@@ -215,6 +219,7 @@ tags: [navigation, category-index, overviews]
 | [[implants-isq-stability-ladder|Implant Stability Quotient (ISQ / RFA) — Measurement·Threshold·Loading Decision Ladder]] |
 | [[implants-soft-tissue-km-augmentation-techniques|Peri-Implant KM Augmentation — Surgical Technique Selection Guide]] |
 | [[interdental-cleaning-devices-synthesis|Interdental Cleaning Devices — Floss vs Interdental Brush vs Water Flosser vs Toothpick Method: Evidence Synthesis]] |
+| [[intrasocket-reactive-tissue-preserve-vs-remove-overview|발치와내 반응성 조직 — 보존 vs 제거 (Intrasocket Reactive Tissue: Preserve or Remove)]] |
 | [[invisalign-itero-digital-workflow-accuracy-overview|Invisalign + iTero: 디지털 워크플로우와 이동 정확도 종합]] |
 | [[irrigation-activation-comparison|근관세정 (Root Canal Irrigation) 활성화법·세정액·임상결과 종합 — 36편 매트릭스]] |
 | [[isq-loading-threshold|임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 부하 결정 임계값 — Confidence 등급별 매트릭스]] |
@@ -222,8 +227,10 @@ tags: [navigation, category-index, overviews]
 | [[korean-dental-practice-management-overview|한국 치과 개원 환경 — 법적 판례·인력 분포 현황 종합]] |
 | [[korean-university-hospital-implant-survival-cohorts-overview|Dental Implant Survival in Korean University-Hospital Cohorts — Long-Term Survival, Failure Modes & Risk Factors (2011–2026)]] |
 | [[last-lipid-emulsion-dental-overview|Local Anesthetic Systemic Toxicity (LAST) and Lipid Emulsion Rescue in Dental Practice]] |
+| [[lateral-window-design-size-position-overview|Lateral Window Design — Size and Position Planning for Sinus Floor Elevation]] |
 | [[lithium-disilicate-inlay-onlay-evidence|리튬디실리케이트 Inlay/Onlay/부분피개 — 임상 근거 종합]] |
 | [[local-anesthesia-category-synthesis-overview|Local Anesthesia in Dentistry — Category Synthesis Overview]] |
+| [[local-anesthetic-mechanism-ianb-failure-overview|Local Anesthetic Mechanism and IANB Failure in Inflamed Pulp: A Synthesis]] |
 | [[local-hemostasis-agents-overview|Local Hemostatic Agents in Dentistry — Context-Dependent Selection Overview]] |
 | [[low-absent-primary-stability-implant-success-overview|Implants Without (or With Low) Primary Stability — How They Succeed: A Clinical Synthesis]] |
 | [[mandibular-anesthesia-efficacy-ladder|하악 마취 효율 ladder — IANB·articaine 침윤·보충주사·진정 종합]] |
@@ -231,9 +238,11 @@ tags: [navigation, category-index, overviews]
 | [[mandibular-canal-nutrient-canal-cbct-anatomy-overview|하악관 변이·영양관 방사선 해부 — 이분/삼분하악관·영양관·전신질환 연관 종합]] |
 | [[mandibular-third-molar-management-overview|Mandibular Third Molar — Impaction Pathology, Extraction Indication & Management (하악 사랑니 — 매복 병리·발치 적응증·관리 종합)]] |
 | [[masticatory-muscle-pain-evidence-synthesis-2026|Masticatory (Myogenous) Muscle Pain — 2026 Evidence Update Layer over the Existing TMD Ladders (24 SR/MA/NMA)]] |
+| [[masticatory-performance-measurement-overview|Masticatory Performance Is Not One Number — why the measurement instrument, not the material, decides what a 'chewing efficiency' claim means]] |
 | [[maxillary-molar-palatal-root-socket-iip|Maxillary Molar Immediate Implant — Palatal Root Socket Anchorage (Decision Synthesis)]] |
 | [[maxillary-sinus-incidental-cbct-pathology-overview|Overview: Incidental Maxillary Sinus Pathology on CBCT — Prevalence Spectrum, Antrolith Deep-Dive, and Implant/Sinus-Lift Triage]] |
 | [[mb2-detection-strategy|상악 대구치 MB2 탐지 전략 지도 — 인구집단별 유병률 × 탐지 기법 매트릭스]] |
+| [[megagen-thread-depth-standard-vs-deep-overview|Standard Thread (ST) vs Deep Thread Fixture — Megagen-Adjacent Evidence on Thread Depth Trade-offs]] |
 | [[miniscrew-stability-overview|교정 미니스크류 (TAD) 안정성·실패율 종합]] |
 | [[misch-papers-overview|Misch 논문 종합 — 골질·설계·교합·크라운높이·생존 정의 (1993–2025)]] |
 | [[myofunctional-elastodontic-orthodontics-overview|근기능교정·탄성교정(Myofunctional / Elastodontic Orthodontics) 종합]] |
@@ -313,6 +322,7 @@ tags: [navigation, category-index, overviews]
 | [[progressive-loading-implant-crown-evidence-overview|점진적 부하 (Progressive Loading) — 임플란트 크라운 인체 근거 종합: 방향은 일관되나 규모·설계가 약한 소규모 연구군]] |
 | [[prosthetic-materials-decision-ladder|Prosthetic Materials — Crown·Bridge·Implant Prosthesis Decision Ladder]] |
 | [[provisional-pediatric-crown-material-selection-overview|임시 크라운 재료 선택과 소아 유치 전장 크라운 유지율 비교]] |
+| [[psaa-hemorrhage-management-lateral-sinus-lift-overview|PSAA Hemorrhage Management in Lateral-Window Sinus Floor Elevation — Overview]] |
 | [[pulpal-neurogenic-inflammation-counter-systems-overview|치수 신경성 염증과 내인성 제동장치 — 브레이크는 조용히 고장난다 (Pulpal Neurogenic Inflammation and Its Counter-Systems)]] |
 | [[radiology-category-synthesis-overview|Dental Radiology — Category Synthesis Overview]] |
 | [[rct-protocol-comprehensive|근관치료 정립된 프로토콜 — 충전까지 5단계 종합 (RCT Protocol: Access to Obturation)]] |
@@ -350,13 +360,14 @@ tags: [navigation, category-index, overviews]
 | [[sinus-lift-pseudocyst-mrc-overview|상악동거상술 — 점액낭종 (Pseudocyst) · 점액저류낭종 (MRC) 동반 임플란트 의사결정 종합 (2026)]] |
 | [[sinus-lift-technique-selection|상악동거상술 (Sinus Lift) 술식 선택 — 잔존골 높이별 알고리듬과 위험인자 매트릭스]] |
 | [[sinus-lift-technique-timing-sinusitis-overview|Lateral-Window Sinus Lift — Procedural Variants, Timing and Sinusitis Prevention (Sub-overview)]] |
-| [[smoking-tobacco-periodontal-implant-overview|흡연·담배제품 — 치주·임플란트 위험 종합 (Smoking & Tobacco Products: Periodontal & Implant Risk)]] |
+| [[smoking-tobacco-periodontal-implant-overview|흡연·담배제품 — 치주·임플란트·발치 위험 종합 (Smoking & Tobacco Products: Periodontal, Implant & Extraction Risk)]] |
 | [[socket-preservation-arp-overview|발치와 보존술(ARP) — 분류·재료 선택·치유기전·임플란트 충분성 종합]] |
 | [[socket-preservation-classification-healing-biology-overview|발치와 보존술(ARP) — 소켓 분류·해부 예측·치유 생물학 종합 (Socket Classification, Anatomical Predictors & Healing Biology)]] |
 | [[socket-preservation-graft-material-dimensional-outcomes-overview|발치와 보존술(ARP) — 이식재 선택과 치수 결과 종합 (Graft Material Selection & Dimensional Outcomes)]] |
 | [[socket-preservation-prf-biologics-implant-sufficiency-overview|발치와 보존술(ARP) — PRF·생물제제·임플란트 충분성·대구치 부위 종합 (PRF, Biologics, Implant Sufficiency & Molar Sites)]] |
 | [[socket-shield-technique-overview|Socket Shield Technique (SST) — Evidence Synthesis & Decision Framework]] |
 | [[spray-and-stretch-tmd-myofascial-synthesis|Spray-and-Stretch (Vapocoolant) for Masticatory Myofascial Pain — 2026 Synthesis]] |
+| [[stability-dip-fixture-treatment-decision-overview|Stability Dip 대응 픽스쳐 처리 — 골질·부위별 결정 매트릭스]] |
 | [[statin-bone-healing-implant-osseointegration-overview|Statins, Hyperlipidemia & Dental Bone Healing: Implant Osseointegration and Socket Preservation Overview]] |
 | [[statistical-abbreviations-cheatsheet|Statistical Abbreviations Cheatsheet for Dental Literature]] |
 | [[study-design-primer-dental-research|Study Design Primer for Dental Research Readers]] |
@@ -403,7 +414,9 @@ tags: [navigation, category-index, overviews]
 | [[watanabe-toothpick-method-toothbrushing-synthesis|Watanabe Toothpick Method (이쑤시개법) of Toothbrushing — Evidence Synthesis]] |
 | [[worn-dentition-rehabilitation-direct-indirect-strategy-overview|Worn Dentition Rehabilitation — Direct vs Indirect Minimally Invasive Strategy]] |
 | [[zirconia-block-overview|지르코니아 블록 — 제조·결함·소결·선택 종합 (CAD/CAM Blank)]] |
+| [[zirconia-chairside-adjustment-polishing-overview|Chairside Adjustment and Polishing of Monolithic Zirconia — Roughness, Strength, Phase, Color, and Protocol]] |
 | [[zirconia-fracture-mechanisms-overview|지르코니아 파절 기전 종합 — 왜 가장 강한 치과 세라믹이 부러지는가]] |
 | [[zirconia-implant-clinical-outcomes|Overview: Zirconia Dental Implants — Survival, Marginal Bone Loss, and Patient-Reported Outcomes]] |
 | [[zirconia-material-clinical-overview|치과용 지르코니아 — 재료과학·세대분류·생존율·LTD·파절수리 종합]] |
+| [[zirconia-occlusal-efficiency-overview|Zirconia Crowns and Occlusal Efficiency — Clinical Evidence Overview]] |
 | [[zirconia-types-clinical-selection|Zirconia Types — 3Y vs 4Y vs 5Y vs UHTZ Clinical Selection]] |
