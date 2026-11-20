@@ -197,6 +197,8 @@ grade별 강도 spectrum(축 1)은 in vitro 중심이므로, 최신 임상 데�
 
 ## Related Papers
 
+- See also [[overviews/zirconia-chairside-adjustment-polishing-overview]] — finishing after chairside adjustment (roughness, strength, phase, color, protocol; 35 papers, 2026-11-20)
+
 ### spine (본문 인용)
 
 - [[dental-materials/zirconia/ban-2023-dental-zirconia-types-development-review]] — grade 발전사·결정학 spine
