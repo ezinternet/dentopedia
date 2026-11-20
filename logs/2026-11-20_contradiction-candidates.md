@@ -7,8 +7,8 @@
 **대상은 키워드에 가장 가까운 링크로 특정한다.** 같은 줄의 나머지 링크는 충돌 표현의 대상이라는 근거가 없어 Tier 2(`AMBIG→`)로 강등된다 — 버리지 않으니 진짜 대상이 강등됐다면 Tier 2에서 찾을 수 있다.
 
 - Tier 1 (대상 지목됨, actionable): **3**
-- Tier 2 (대상 불명/soft, review): **272**
-- (억제됨) 이미 typed 엣지·supersession 포인터가 있어 제외: **392** · 부정문 제외: **201** · 검토·불필요 대장: **430** · 동일 줄 비최근접으로 Tier 2 강등: **18**
+- Tier 2 (대상 불명/soft, review): **273**
+- (억제됨) 이미 typed 엣지·supersession 포인터가 있어 제외: **392** · 부정문 제외: **202** · 검토·불필요 대장: **430** · 동일 줄 비최근접으로 Tier 2 강등: **18**
 
 ## Tier 1 — 판단 후 엣지 달 후보 (page → 지목된 target)
 
@@ -859,6 +859,10 @@
 - `primary-vs-secondary-implant-healing-closure-overview` [overviews] (HIGH-no-target, 'contradict' · 반박·충돌)
   - **근거 문장**: 1. **No implant RCT demonstrates that open healing reduces infection or major complications.** The implant literature measures esthetic and dimensional outcomes. The morbidity evidence lives entirely in the third-molar cluster, where the largest trial found equivalence (Takadoum 2022) and the smaller ones found advantage (Pachipulusu 2018) — a genuine unresolved conflict, flagged by a `contradicts
   - ▸ 출발(`primary-vs-secondary-implant-healing-closure-overview`) 세줄: "임플란트 봉합에 1차(일차) 힐링이 낫나, 2차(개방) 힐링이 낫나"라는 chairside 질문을, 매복 사랑니 봉합 군과 분리해 임플란트 개방치유 문헌만으로 답한다 — 둘은 다른 질문에 답하고 둘째는 임플란트로 전이되지 않는다. **즉시식립(IIP)·치조제 보존술(ARP)·막 기반 GBR 전체를 관통해, 억지로 만들어낸 무장력 일차봉합이 우위라는 근거는 없다.** RCT 1편(n=46명/48개)에서 개방치유가 12개월 분홍 심미 지수(PES)에서 유의하게 우수(MD 1.49, 95% CI 0.
+
+- `zirconia-chairside-adjustment-polishing-overview` [overviews] (HIGH-no-target, 'Contradict' · 반박·충돌)
+  - **근거 문장**: ## Axis 3 — Phase Transformation: Contradictory Detection, Consistent Direction
+  - ▸ 출발(`zirconia-chairside-adjustment-polishing-overview`) 세줄: 이 종합 페이지는 모놀리식 지르코니아 (Monolithic Zirconia) 체어사이드 교합조정 후 마무리 방법에 관한 보유 35편(실험실 33·서술 리뷰 1·전향 임상 1)을 표면조도 (Ra)·굴곡강도·상변태 (t→m)·색/투광성·실무 프로토콜(키트·회전속도·발열·멸균) 5축으로 정리한다. 다이아몬드 버 연삭 후 지르코니아 전용 키트 연마는 조도를 글레이즈 수준 이하(Ra ~0.2–0.5 µm)로 되돌리고 강도도 가장 높은 반면, 조정 후 재글레이징은 강도 최저(529 vs 999 MPa), 텅
 
 - `tmj-dislocation-recurrence-prevention-overview` [overviews] (HIGH-no-target, 'contradict' · 반박·충돌)
   - **근거 문장**: ### 2.2 Dextrose prolotherapy — a real contradiction, resolved by comparator
