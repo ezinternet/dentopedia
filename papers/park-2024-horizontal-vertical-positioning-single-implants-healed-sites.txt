@@ -1,0 +1,18 @@
+TITLE: Proposal regarding horizontal and vertical positioning of single implants placed in healed sites: Effect on cervical crown form and the need for bone grafting.
+AUTHORS: Park JW, Goodacre CJ, Kan JYK, Lozada J, Al-Ardah A
+JOURNAL: J Prosthet Dent
+CITATION: Epub 2024-06-25; J Prosthet Dent 2025;133(3):827-837
+ID[pmid]: 38918155
+ID[doi]: 10.1016/j.prosdent.2024.05.027
+FULL_TEXT: false (abstract-only — no PMC full text; retrieved via PubMed MCP 2026-11-21)
+
+ABSTRACT:
+STATEMENT OF PROBLEM: When single implants are placed in healed sites, guidelines are lacking on the horizontal and vertical implant positions that optimize cervical crown form and the implant locations that would require bone grafting to develop the optimal crown form.
+
+PURPOSE: The purpose of this clinical study was to evaluate the cervical contour of wax patterns formed on casts of single implants placed in healed sites and to determine which horizontal and vertical implant positions produced the best cervical crown form and which indicated the need for bone grafting.
+
+MATERIAL AND METHODS: Fifty-eight wax patterns were fabricated on casts where implants had been placed in healed sites without bone grafting. The wax patterns were subjectively assessed by 5 dental faculty members and 5 graduate students as having good, fair, or poor cervical crown form. Horizontal measurements were made between the facial surface of the implant and a round metal wire connecting the gingival zeniths of the adjacent teeth. Vertical measurements were also made between the wire and implant platform. The subjective assessments along with the horizontal and vertical implant position measurements were used to propose guidelines for optimal implant placement in healed sites.
+
+RESULTS: Horizontal distances of 2.0 to 3.0 mm produced good cervical crown contours, with distances >3.0 mm and <2.0 mm resulting in fair or poor assessments. Vertical distances of 3.0 to 4.0 mm were judged to have good cervical crown contour, whereas depths of 1.0 mm or less were assessed as poor.
+
+CONCLUSIONS: Based on the subjective assessment of wax patterns formed on casts of single implants placed in healed sites, a guideline of 2.0 to 3.0 mm is proposed for the horizontal distance between a line connecting the adjacent gingival zeniths and the facial surface of the implant. A vertical distance guideline of 3.0 to 4.0 mm is proposed between the adjacent gingival zeniths and the implant platform.

@@ -1,0 +1,18 @@
+TITLE: Gingival zenith level, position, and symmetry: A systematic review and meta-analysis.
+AUTHORS: Martins FV, Mattos de Santana CM, Magno MB, Maia LC, Fonseca EM, Barcellos de Santana R
+JOURNAL: J Prosthet Dent
+CITATION: J Prosthet Dent 2025;134(5):1603-1618
+ID[pmid]: 38704322
+ID[doi]: 10.1016/j.prosdent.2024.03.031
+FULL_TEXT: false (abstract-only — no PMC full text; retrieved via PubMed MCP 2026-11-21)
+
+ABSTRACT:
+STATEMENT OF PROBLEM: The gingival zenith (GZ) influences the line angle position in the emergence profile and the axial inclination of the crown. Irregularities in GZ symmetry and contour have a negative impact on dental esthetics. GZ location is not consistently distal to the crown's long axis; instead, it tends to be more distal in anterior teeth. The GZ levelling of the lateral incisor is often described as either level with or slightly above the zenith line connecting the central incisor and canine teeth, but there are also reports of GZ being aligned apically to the zenith line. Controversial reports persist regarding GZ positioning, magnitude, and location, potentially leading to inadequate positioning and levelling of the GZ in esthetic restorative therapy.
+
+PURPOSE: The purpose of this systematic review and meta-analysis was to assess the scientific evidence related to GZ level, position, and symmetry in maxillary incisors and canines.
+
+MATERIAL AND METHODS: This study adhered to the population, variable, outcome (PVO) criteria and the preferred reporting items for systematic reviews and meta-analysis (PRISMA) checklist. Cross-sectional studies involving healthy adults with complete dentition of the maxillary anterior sextant were subjected to prevalence analysis and quantitative measurement to assess the gingival zenith level and position. Data were extracted, and methodological quality was appraised using the Joanna Briggs Institute critical appraisal checklist for analytical cross-sectional studies. Certainty of evidence was evaluated through the grading of recommendations, assessment, development, and evaluation (GRADE) system.
+
+RESULTS: The GZs were distally positioned, coinciding with the tooth axis or mesially positioned in, respectively, 96%, 3%, and 1% on central incisors; 84%, 14%, and 1% on lateral incisors; and 43%, 44%, and 5% on canines. GZ distal positioning was greater in central incisors, followed by lateral incisors and canines. In lateral incisors, the GZ was levelled coronally in 82% of the population. Contralateral symmetry was observed for GZ levelling and positioning. The certainty of the evidence was very low for all comparisons.
+
+CONCLUSIONS: The frequency and magnitude of the distal position of the GZ increased the more anterior the tooth. Axially, the GZ was frequently levelled coronally to the zenith line. The contralateral positioning and levelling of the GZ was symmetrical.

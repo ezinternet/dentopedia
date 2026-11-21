@@ -2,7 +2,7 @@
 title: "골재생·치조제보존 — ridge-preservation"
 authors: navigation
 year: 2026
-date: 2026-11-10
+date: 2026-11-21
 doi: N/A
 source: navigation
 category: bone-regeneration/ridge-preservation
@@ -15,20 +15,20 @@ tags: [navigation, category-index, ridge-preservation]
 > [!summary] 한국어 핵심요약
 > - **분야**: 골재생·치조제보존
 > - **범위**: Alveolar ridge preservation (ARP) / socket preservation — post-extraction dimensional changes (Araujo/Tan/Schropp), ARP efficacy SR/MA & Cochrane, grafting materials & sealing/socket-seal, flap vs flapless, biologics/PRF, esthetic-zone ARP, ARP→implant outcomes
-> - **수록 논문**: 109편
+> - **수록 논문**: 110편
 
 ## Three-line Summary
 
 **Scope**: Alveolar ridge preservation (ARP) / socket preservation — post-extraction dimensional changes (Araujo/Tan/Schropp), ARP efficacy SR/MA & Cochrane, grafting materials & sealing/socket-seal, flap vs flapless, biologics/PRF, esthetic-zone ARP, ARP→implant outcomes
-**Indexed papers**: 109 papers in `wiki/bone-regeneration/ridge-preservation/`.
+**Indexed papers**: 110 papers in `wiki/bone-regeneration/ridge-preservation/`.
 
 ## 세줄요약
 
 **분야**: 골재생·치조제보존
-**수록 논문**: 109편
+**수록 논문**: 110편
 **하위 카테고리**: 없음
 
-## Papers in this Category (109)
+## Papers in this Category (110)
 
 | Paper |
 |---|
@@ -48,6 +48,7 @@ tags: [navigation, category-index, ridge-preservation]
 | [[benekou-2025-histological-arp-vs-spontaneous-healing-sr-ma|Histological Outcomes of Alveolar Ridge Preservation vs Spontaneous Healing: A Systematic Review and Meta-Analysis of Randomized Controlled Trials]] |
 | [[canullo-2021-arp-biomaterials-dimensional-nma|Dimensional and histomorphometric evaluation of biomaterials used for alveolar ridge preservation: a systematic review and network meta-analysis]] |
 | [[cardaropoli-2003-bone-tissue-formation-extraction|Dynamics of bone tissue formation in tooth extraction sites — an experimental study in dogs]] |
+| [[carranza-2016-alveolar-dimensional-changes-osseous-zenith|Alveolar dimensional changes relevant to implant placement after minimally traumatic tooth extraction with primary closure]] |
 | [[cecchinato-2026-biomaterial-used-to-counteract-ridge|Biomaterial used to counteract ridge reduction following the removal of adjacent teeth: A randomized controlled multicenter study]] |
 | [[che-2024-alveolar-ridge-preservation-review|Navigating Alveolar Ridge Preservation: Techniques, Materials, and Clinical Implications]] |
 | [[cho-2017-compressive-force-graft-ridge-preservation|Effects of different compressive forces on bone graft materials during alveolar ridge preservation]] |

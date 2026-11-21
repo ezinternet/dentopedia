@@ -2,7 +2,7 @@
 title: "치주치료 — periodontics"
 authors: navigation
 year: 2026
-date: 2026-10-22
+date: 2026-11-21
 doi: N/A
 source: navigation
 category: periodontics
@@ -16,21 +16,21 @@ tags: [navigation, category-index, periodontics]
 > - **분야**: 치주치료
 > - **범위**: Periodontal disease, classification, regeneration/root-coverage, SPT, periodontal-systemic links, general periodontics not covered by a subcategory.
 > - **하위 카테고리**: [[host-modulation]] · [[non-surgical-instrumentation]] · [[oral-hygiene-instruction]]
-> - **수록 논문**: 81편
+> - **수록 논문**: 84편
 
 ## Three-line Summary
 
 **Scope**: Periodontal disease, classification, regeneration/root-coverage, SPT, periodontal-systemic links, general periodontics not covered by a subcategory.
-**Indexed papers**: 81 papers in `wiki/periodontics/`.
+**Indexed papers**: 84 papers in `wiki/periodontics/`.
 **Sub-categories**: [[host-modulation]], [[non-surgical-instrumentation]], [[oral-hygiene-instruction]]
 
 ## 세줄요약
 
 **분야**: 치주치료
-**수록 논문**: 81편
+**수록 논문**: 84편
 **하위 카테고리**: host-modulation, non-surgical-instrumentation, oral-hygiene-instruction
 
-## Papers in this Category (81)
+## Papers in this Category (84)
 
 | Paper |
 |---|
@@ -50,6 +50,7 @@ tags: [navigation, category-index, periodontics]
 | [[botelho-2022-umbrella-review-oral-systemic|An umbrella review of the evidence linking oral health and systemic noncommunicable diseases]] |
 | [[cairo-2025-root-coverage-single-grd-sr|Clinician- and patient-reported outcomes following the surgical treatment of single gingival recession defects: A systematic review]] |
 | [[caton-2018-classification-scheme-periodontal-periimplant-diseases|A new classification scheme for periodontal and peri-implant diseases and conditions - Introduction and key changes from the 1999 classification (2017 World Workshop)]] |
+| [[chu-2009-gingival-zenith-positions-levels-maxillary-anterior|Gingival zenith positions and levels of the maxillary anterior dentition]] |
 | [[corana-2024-salivary-proteomics-novel-biomarkers-periodontitis-sr|Salivary Proteomics for Detecting Novel Biomarkers of Periodontitis: A Systematic Review]] |
 | [[corekci-2025-deepithelialized-gingival-graft-lprf-recession-rct|Root coverage and patient-reported outcomes of de-epithelialized gingival graft with and without leukocyte platelet-rich fibrin in multiple recession defects: a split-mouth randomized trial]] |
 | [[cosin-villanueva-2024-micrornas-gingival-crevicular-fluid-periodontal|Study of microRNAs in Gingival Crevicular Fluid as Periodontal Diseases Biomarkers: Systematic Review]] |
@@ -91,11 +92,13 @@ tags: [navigation, category-index, periodontics]
 | [[liang-2025-cemental-tear-diagnosis-treatment-consensus|Expert consensus on the diagnosis and treatment of cemental tear]] |
 | [[mahintach-2026-ha-vs-emd-intrabony-defects-sr-ma|Hyaluronic Acid vs EMD for Intrabony Defects: SR+MA]] |
 | [[manresa-2018-supportive-periodontal-therapy-cochrane-sr|Supportive periodontal therapy (SPT) for maintaining the dentition in adults treated for periodontitis]] |
+| [[martins-2024-gingival-zenith-level-position-symmetry-sr-ma|Gingival zenith level, position, and symmetry: A systematic review and meta-analysis]] |
 | [[maybodi-2022-periodontal-treatment-sle-disease-activity-rct|Effect of periodontal treatment on serum inflammatory parameters and disease activity in patients with systemic lupus erythematosus: A randomized controlled trial]] |
 | [[mucogingival-surgery-apf-fgg-ctg|치주성형 술식 — APF · FGG · CTG 구분과 적응증]] |
 | [[murugaiyan-2024-porphyromonas-gingivalis-strains-periodontal|Defining Porphyromonas gingivalis strains associated with periodontal disease]] |
 | [[nibali-2016-tooth-loss-furcation-involvement-sr-ma|Tooth loss in molars with and without furcation involvement – a systematic review and meta-analysis]] |
 | [[ohshima-2002-egf-saliva-oral-epithelial-migration|Physiologic levels of epidermal growth factor in saliva stimulate cell migration of an oral epithelial cell line, HO-1-N-1]] |
+| [[omalley-2026-behavioural-interventions-oral-hygiene|Cochrane SR: Behavioural Interventions for Improving Oral Hygiene in Adults with Periodontal Diseases]] |
 | [[padilla-avallos-2026-supracrestal-tissue-attachment-biologic-width|Supracrestal Tissue Attachment (Biologic Width) in Clinical Practice: A Narrative Review]] |
 | [[papantonatou-2026-ctg-vs-vcmx-implant-placement-rct|CTG vs VCMX Soft-Tissue Augmentation at Implant Placement: RCT]] |
 | [[papapanou-2018-periodontitis-classification-consensus-2017|Periodontitis: Consensus report workgroup 2, 2017 World Workshop on Classification]] |

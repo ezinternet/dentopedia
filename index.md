@@ -5685,3 +5685,12 @@ tags: []
 - [[immediate-implant/findler-2026-clinical-success-rates-of-dental]] — Findler 2026 · retrospective(158,824 임플란트) · 동시골이식 성공 97.83%, 즉시식립이 실패 독립위험인자(3.08% vs 2.07%, OR 1.487), 실패 70%가 1년 내 — 안정화가설 지지+시기·SES 위험차원 (DOI 10.3390/jfb17010046)
 - [[immediate-implant/dias-2025-immediate-implant-placement-and-restorations]] — Dias 2025 · sr(scoping, 28 SR, abstract-only) · 단일·다장치 FDP 즉시식립/수복 근거지도 — 심미부 단일치에 집중, 대구치·다장치 근거 부족; 핵심 인자 협측벽·치조돌기·간극폭·치은표현형 (DOI 10.11607/ijp.9393)
 - [[immediate-implant/anatomic-assessment/sabri-2022-single-rooted-extraction-socket-classification]] — Sabri 2022(print 2023) · sr(abstract-only) · 발치와 분류 13종 고찰 + 환자관련 인자(전신질환·흡연) 결합 신분류 제안 — 형태 중심 SRP 체계의 맹점 보완 (DOI 10.1111/jerd.12967)
+
+## Surveillance ingest (added 2026-11-21) — 치은 정점 (Gingival Zenith) × 출현윤곽 6편
+
+- [[periodontics/martins-2024-gingival-zenith-level-position-symmetry-sr-ma]] — Martins 2024(print 2025) · sr+ma(abstract-only) · 치은 정점 원심/치축/근심: 중절치 96/3/1%, 측절치 84/14/1%, 견치 43/44/5%; 측절치 82%가 정점선보다 치관측, 좌우 대칭 — GRADE 매우 낮음 (DOI 10.1016/j.prosdent.2024.03.031)
+- [[periodontics/chu-2009-gingival-zenith-positions-levels-maxillary-anterior]] — Chu 2009 · cross-sectional(20명·240부위, abstract-only) · 중절치 GZP 원심 평균 1 mm, 측절치 0.4 mm, 견치 97.5% 중앙; 측절치 GZL ~1 mm 치관측 — 표준 기준값 원출처 (DOI 10.1111/j.1708-8240.2009.00242.x)
+- [[immediate-implant/esthetic-soft-tissue/gonzalez-martin-2020-contour-management-implant-restorations-emergence-profiles]] — González-Martín 2020 · narrative-review(abstract-only) · 임계/하임계 윤곽(critical/subcritical contour) 2구역 개념 — 치은연 높이·정점·순측 윤곽·색조를 조절하는 즉시/지연 임시수복 원칙 (DOI 10.11607/prd.4422)
+- [[implants/park-2024-horizontal-vertical-positioning-single-implants-healed-sites]] — Park 2024(print 2025) · cross-sectional(왁스업 58개, abstract-only) · 인접치 정점선 기준 수평 2–3 mm·수직 3–4 mm에서 치경부 치관 형태 양호, 수직 ≤1 mm 불량 → 범위 이탈 시 골이식 고려 (DOI 10.1016/j.prosdent.2024.05.027)
+- [[implants/farronato-2020-implant-abutment-connection-buccal-zenith-rct]] — Farronato 2020 · rct(104명·188개) · 5° 원뿔(AnyRidge) vs 45° 연결: 협측 정점 점막 높이 3.32 vs 2.70 mm, 두께 4.37 vs 3.93 mm(p=0.047) — 군집 미보정 상관분석, 가설 생성 수준 (DOI 10.1186/s12903-020-1037-5)
+- [[bone-regeneration/ridge-preservation/carranza-2016-alveolar-dimensional-changes-osseous-zenith]] — Carranza 2016 · prospective(CT 20명, abstract-only) · 발치 6개월 "골 정점" 수직 2.1 ± 1.7 mm·수평 1.8 ± 0.8 mm 변위; 중간 높이 순측골 <0.7 mm면 >3 mm 변위 (PMID 27731479, DOI 없음)
