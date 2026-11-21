@@ -2,7 +2,7 @@
 title: "상악동거상술 (Sinus Lift) 술식 선택 — 잔존골 높이별 알고리듬과 위험인자 매트릭스"
 authors: synthesis (llm-wiki)
 year: 2026
-date: 2026-09-14
+date: 2026-11-21
 type: overview
 category: [overviews]
 tags: [sinus-lift, lateral-window, transcrestal, RBH, residual-bone-height, osseodensification, membrane-perforation, schneiderian, graft-material]
@@ -47,6 +47,7 @@ source: synthesis
 > - 대천공 (≥10mm) 후 즉시 재시도는 동물실험상 신생골 50% 감소 → 2단계로 전환 권장. [미검증]
 > - 이식재 (graft) 종류는 생존율·최종 ISQ에 영향 없음 (DBBM·자가골·합성 HA/β-TCP 동등); 결정화도 (crystallinity) 가 높으면 ISQ 회복이 빠르고, 선택은 흡수 프로파일·비용 기준 (Del Fabbro 2025). [확인]
 > - 비이식 (graft-free) TSFE: 잔존골이 임플란트 길이의 약 50% 이상 확보되면 이식재 불요 — 혈병/PRF만으로 생존율 97.9%, 수직 골증대 (VBG) 3.8mm (Duan 2017 SR+MA). [확인]
+> - **단, 저 잔존골(RBH ≤5mm)에서는 반대 신호**: Shahood 2024(전향, 126 임플란트)는 이종골+농축성장인자(Concentrated Growth Factor, CGF) 이식이 무이식보다 골증대·통증에서 우위, 이식량이 생존 예측인자 — Sansupakorn 2024 RCT(무이식 동등)와 RBH·이식재·설계가 달라 무용론은 "RBH 충분 + 일차 안정성 확보" TSFE에 한정. [확인]
 > - 비이식 경치조골 거상의 천공 안전성은 **술식 의존적** — 통합 슈나이더막 천공률 1% (95% CI 0–6%)로 낮으나(Huang 2026 SR+MA, 14편/2,119부위), 천공 이질성의 66.9%를 잔존골 높이가 아닌 술식이 설명: 전통 오스테오톰 (OSFE) 0% vs 모터구동 골밀도화 (motor-driven Osseodensification, OD) 34% — graftless 자체보다 *어떤* 경치조골 술식인지가 천공을 좌우 (GRADE 매우 낮음). [근거중간]
 > - 차폐막 (barrier membrane) 루틴 사용은 근거 부족 — 생존·골형성·합병증 모두 유의차 없어 천공 봉합·연조직 차단 시에만 선택적 사용 (Starch-Jensen 2019). [확인]
 > - **근거 반전 사례**: 2003년 메타회귀(Wallace)는 "막 피개 시 생존율↑"였으나, 2019년 RCT-only SR+MA(Starch-Jensen)가 같은 변수만 떼어 재검증하자 유의차 소멸 — 오래된 이질적 메타회귀가 이후 엄밀한 RCT-only 분석에서 미재현된 사례로 읽는다. [확인]
@@ -230,6 +231,10 @@ CBCT에서 반드시 확인할 항목 (기존 6항목 → 8항목으로 확장, 
 **결론 [확인]**: PRF/PRGF는 DBBM에 추가 시 조직형태계측적 골 전환율을 개선하지만, 임플란트 안정성(ISQ/RFA) 및 생존율에는 무영향 — **조기 부하 결정 근거로 사용 불가**. PRP는 PRGF·PRF와 달리 잔류이식재 감소 효과 없음(계열 선택 중요). 이식재 생존율 중립 결론은 유지되나, 이식재 전환 속도는 BCP > DBBM, PRF/PRGF+DBBM > DBBM 단독.
 
 **신규 근거 (2026-06) — 경치조골(TSFE/OSFE) "graft 무용론" 강화**: Sansupakorn 2024 RCT(OSFE, BCP graft vs no-graft)와 Volpe 2022(혈병·collagen sponge)·Zhao 2018 RCT는 경치조골 거상에서 **이식재 없이 혈병/공간유지만으로도 임플란트 생존·골형성이 동등**함을 시사. RBH가 충분한 TSFE에서 routine grafting의 부가가치는 제한적. [확인] (단, 측방창·저 RBH에는 외삽 주의) **상위 근거 보강**: Duan 2017 SR+MA(22편/864 임플란트, 측방창+경치조골 포괄)가 무이식 거상 동시식립 생존율 97.9%·VBG 3.8mm를 정량화 — graft-free 근거를 sr+ma 수준으로 격상. [확인] 한편 생물학적 보조재(CGF) 측면에서 Al-Aroomi 2024 SR(13편)은 CGF가 신생골·술후 후유증을 개선하는 경향을 보고하나 이질성·RCT 부족으로 확정 불가 — 이식재 무용론과 보조재 효용은 별개 축으로 해석. [미검증]
+
+**[2026-11-21] 반대 신호 — 저 RBH에서는 이식이 이길 수 있다**: Shahood 2024(전향 3군, 임플란트 126개, **RBH ≤5mm** OSFE)에서는 Bio-Oss Collagen+CGF가 무이식·Bio-Oss 단독보다 동내 골증대가 크고 총 골흡수·통증(VAS)이 적었으며, **이식량이 생존의 독립 예측인자**였다 — Sansupakorn 2024(RCT, 단일 소구치·대구치 부위, BCP vs 무이식 무차이)와 정면으로 갈린다. 두 연구는 ① RBH 적응 범위(≤5mm vs 단일치 일반 부위) ② 이식재(이종골+자가 성장인자 vs 합성 BCP) ③ 설계(전향 비무작위 vs RCT)가 모두 달라 같은 질문에 대한 반대 답으로 읽을 수 없다. **결론**: "graft 무용론"은 RBH가 충분하고 일차 안정성이 확보되는 TSFE에 한정하고, RBH ≤5mm에서는 이식(특히 이종골+CGF)을 배제하지 말 것. 저 RBH 근거는 단일기관 비무작위 1편이라 확실성은 낮다. [확인]
+
+**[2026-11-21] DBBM 장기 흡수 — 불일치 유지**: Mordenfeld 2010(전향, 11.5년 재진입 생검 11개, DBBM 80%+자가골 20%)은 입자 크기·면적이 6개월 생검·미사용 입자와 같아 **임상적으로 의미 있는 흡수 없음**(잔존 DBBM 17.3%)을 보였고, Sartori 2003(증례 1례, Bio-Oss 단독)은 입자 비율이 ~70%→~30%→~13%(8개월→2년→10년)로 **점진 흡수**를 보였다. 이식재 조성·측정법·개인차가 달라 어느 쪽도 일반화 근거가 아니며, 근거 무게는 Mordenfeld(전향 다수 생검)가 더 크다. 임상 함의: DBBM은 "영구 골전도 지지체"에 가깝게 행동한다고 보되 "전혀 흡수 안 됨"으로 단정하지 말 것 — 생존율 중립 결론(§4.1 상단)과는 독립된 조직학 축이다. [확인]
 
 ### 4.2 차폐막 사용
 
