@@ -16,21 +16,21 @@ tags: [navigation, category-index, periodontics]
 > - **분야**: 치주치료
 > - **범위**: Periodontal disease, classification, regeneration/root-coverage, SPT, periodontal-systemic links, general periodontics not covered by a subcategory.
 > - **하위 카테고리**: [[host-modulation]] · [[non-surgical-instrumentation]] · [[oral-hygiene-instruction]]
-> - **수록 논문**: 84편
+> - **수록 논문**: 86편
 
 ## Three-line Summary
 
 **Scope**: Periodontal disease, classification, regeneration/root-coverage, SPT, periodontal-systemic links, general periodontics not covered by a subcategory.
-**Indexed papers**: 84 papers in `wiki/periodontics/`.
+**Indexed papers**: 86 papers in `wiki/periodontics/`.
 **Sub-categories**: [[host-modulation]], [[non-surgical-instrumentation]], [[oral-hygiene-instruction]]
 
 ## 세줄요약
 
 **분야**: 치주치료
-**수록 논문**: 84편
+**수록 논문**: 86편
 **하위 카테고리**: host-modulation, non-surgical-instrumentation, oral-hygiene-instruction
 
-## Papers in this Category (84)
+## Papers in this Category (86)
 
 | Paper |
 |---|
@@ -86,6 +86,7 @@ tags: [navigation, category-index, periodontics]
 | [[john-2017-network-meta-analysis-studies-included|Network Meta-Analysis of Studies Included in the Clinical Practice Guideline on the Nonsurgical Treatment of Chronic Periodontitis]] |
 | [[joseph-2024-systematic-review-meta-analysis-randomized|Systematic review and meta-analysis of randomized controlled trials evaluating the efficacy of non-surgical periodontal treatment in patients with concurrent systemic conditions]] |
 | [[jung-2019-periodontitis-spt-disease-progression-sr|Disease Progression in Periodontitis Patients After Treatment with Supportive Periodontal Therapy: A Systematic Review]] |
+| [[kolte-2019-gingival-angle-zenith-angle-thickness|Assessment and correlation of gingival angle, gingival zenith angle, and gingival thickness: a cross-sectional study]] |
 | [[kwon-2021-current-concepts-management-periodontitis|Current Concepts in the Management of Periodontitis]] |
 | [[lamichhane-2025-crown-margins-marginal-adaptation-periodontal|Comparison of periodontal status between abutment and non-abutment teeth in patients with fixed dental prosthesis]] |
 | [[lee-2025-prevalence-classification-factors-cemental-tears|Prevalence, Classification and Factors Associated With Cemental Tears—A Retrospective Observational Cross-Sectional Study in a Postgraduate Endodontic Clinic]] |
@@ -102,6 +103,7 @@ tags: [navigation, category-index, periodontics]
 | [[padilla-avallos-2026-supracrestal-tissue-attachment-biologic-width|Supracrestal Tissue Attachment (Biologic Width) in Clinical Practice: A Narrative Review]] |
 | [[papantonatou-2026-ctg-vs-vcmx-implant-placement-rct|CTG vs VCMX Soft-Tissue Augmentation at Implant Placement: RCT]] |
 | [[papapanou-2018-periodontitis-classification-consensus-2017|Periodontitis: Consensus report workgroup 2, 2017 World Workshop on Classification]] |
+| [[pawar-2011-gingival-zenith-redefining-esthetics|Gingival zenith and its role in redefining esthetics: A clinical study]] |
 | [[qiao-2020-rheumatoid-arthritis-risk-periodontitis-sr-ma|Rheumatoid arthritis risk in periodontitis patients: A systematic review and meta-analysis]] |
 | [[santamaria-2026-gr-nccl-treatment-decision-tree|An updated evidence-based recommendation for the treatment of gingival recession associated with non-carious cervical lesions]] |
 | [[sanz-2020-treatment-stage-i-iii-periodontitis-efp|Treatment of stage I–III periodontitis—The EFP S3 level clinical practice guideline]] |

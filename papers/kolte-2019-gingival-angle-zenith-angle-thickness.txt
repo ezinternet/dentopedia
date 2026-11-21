@@ -1,0 +1,18 @@
+TITLE: Assessment and correlation of gingival angle, gingival zenith angle, and gingival thickness: a cross-sectional study.
+AUTHORS: Kolte A, Kolte R, Shirke P, Ahuja C
+JOURNAL: Int J Esthet Dent
+CITATION: Int J Esthet Dent 2019;14(2):198-208
+ID[pmid]: 31061999
+ID[doi]: None
+FULL_TEXT: false (abstract-only — no PMC full text; retrieved via PubMed MCP 2026-11-21)
+
+ABSTRACT:
+BACKGROUND: In the maxillary esthetic zone, gingival tissue characteristics play an important role in designing and achieving a beautiful smile. The gingival line, gingival angle (GA), and gingival zenith angle (GZA) can provide an insight into the dimensional soft tissue requisites in procedures involving reconstruction of the papillae and gingival margins. The hypothesis of the present study was that these parameters could be influenced by an individual's gender and age.
+
+PURPOSE: The present study aimed to evaluate the GA, GZA, and gingival thickness (GT) in the maxillary anterior teeth and to correlate these findings with the age and gender of the study patients.
+
+MATERIALS AND METHODS: In 160 periodontally healthy patients equally divided into two groups (Group I: 21 to 40 years; Group II: 41 to 60 years) with equitable gender distribution were evaluated for the parameters of GA, GZA, and GT in the maxillary anterior teeth.
+
+RESULTS: The mean values of GA and GZA were consistently lower for female patients in both the age groups for the three tooth types - central incisor (CI), lateral incisor (LI), and canine (CA). The mean GT values for females and males in Group I was 1.15 ± 0.21 and 2.56 ± 0.26 mm, while for Group II it was 1.13 ± 0.21 and 2.54 ± 0.27 mm, respectively, indicating the presence of a thick gingival biotype in males.
+
+CONCLUSION: The results of the present study reveal that GA and GZA are greater in males than in females, irrespective of age. A significantly higher GT was observed in males than in females. However, there was no evident direct correlation between GA and GZA or between GZA and GT.

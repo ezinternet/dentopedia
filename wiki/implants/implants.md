@@ -16,21 +16,21 @@ tags: [navigation, category-index, implants]
 > - **분야**: 임플란트
 > - **범위**: Implant macrogeometry/thread & design, osseointegration biology, abutment & connection, bone quality/density, FEA stress analysis, failure risk factors & systemic-condition effects, flapless vs flapped surgery, zirconia vs titanium implants, prosthesis misfit — topics without their own subcategory.
 > - **하위 카테고리**: [[full-arch]] · [[isq]] · [[loading-protocol]] · [[mbl]] · [[osseodensification]] · [[osteotomy-thermal]] · [[peri-implantitis]] · [[short-narrow]] · [[soft-tissue]] · [[surface]] · [[survival]] · [[vertical-ridge-augmentation]] · [[vitamin-d]]
-> - **수록 논문**: 95편
+> - **수록 논문**: 96편
 
 ## Three-line Summary
 
 **Scope**: Implant macrogeometry/thread & design, osseointegration biology, abutment & connection, bone quality/density, FEA stress analysis, failure risk factors & systemic-condition effects, flapless vs flapped surgery, zirconia vs titanium implants, prosthesis misfit — topics without their own subcategory.
-**Indexed papers**: 95 papers in `wiki/implants/`.
+**Indexed papers**: 96 papers in `wiki/implants/`.
 **Sub-categories**: [[full-arch]], [[isq]], [[loading-protocol]], [[mbl]], [[osseodensification]], [[osteotomy-thermal]], [[peri-implantitis]], [[short-narrow]], [[soft-tissue]], [[surface]], [[survival]], [[vertical-ridge-augmentation]], [[vitamin-d]]
 
 ## 세줄요약
 
 **분야**: 임플란트
-**수록 논문**: 95편
+**수록 논문**: 96편
 **하위 카테고리**: full-arch, isq, loading-protocol, mbl, osseodensification, osteotomy-thermal, peri-implantitis, short-narrow, soft-tissue, surface, survival, vertical-ridge-augmentation, vitamin-d
 
-## Papers in this Category (95)
+## Papers in this Category (96)
 
 | Paper |
 |---|
@@ -51,6 +51,7 @@ tags: [navigation, category-index, implants]
 | [[chi-2024-customized-angled-abutment-tooth-inclination-fea|Design and Biomechanical Analysis of a Customized Angled Abutment Based on Tooth Inclination for Immediate Implant Placement in the Anterior Maxilla]] |
 | [[chrcanovic-2014-flapless-vs-conventional-implant-surgery-ma|Flapless versus Conventional Flapped Dental Implant Surgery: A Meta-Analysis]] |
 | [[cicciu-2023-buccal-palatal-bone-thickness-marginal|Influence of buccal and palatal bone thickness on post-surgical marginal bone changes around implants placed in posterior maxilla: a multi-centre prospective study]] |
+| [[cooper-2021-abutment-interfaces-anterior-single-implants-5year-rct|A 5-Year Esthetic RCT Assessment of Anterior Maxillary Single-Tooth Implants with Different Abutment Interfaces]] |
 | [[coyac-2019-preclinical-model-links-osseo-densification-misfit|A preclinical model links osseo-densification due to misfit and osseo-destruction due to stress/strain]] |
 | [[cunha-2008-implant-location-mandibular-rpd-fea|Evaluation of the Influence of Location of Osseointegrated Implants Associated with Mandibular Removable Partial Dentures]] |
 | [[dambrosio-2026-clinical-risk-medico-legal-implications|Clinical Risk and Medico-Legal Implications in Zygomatic Implant Rehabilitation: An Umbrella Review of Systematic Reviews]] |

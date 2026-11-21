@@ -1121,3 +1121,18 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-11-21 | farronato-2020-implant-abutment-connection-buccal-zenith-rct | source-data-issue | ± values (0.12-0.18 mm) likely SE not SD; ratio labelled MT/MH in Results but MH/MT in abstract; group test via Pearson correlation without clustering |
 | 2026-11-21 | farronato-2020-implant-abutment-connection-buccal-zenith-rct | step-skipped | Cloud session: eutils.ncbi.nlm.nih.gov blocked by proxy, pubmed-fetch-fulltext.py failed; full text saved from PubMed MCP get_full_text_article instead |
 | 2026-11-21 | martins-2024-gingival-zenith-level-position-symmetry-sr-ma | qmd-unavailable | Cloud session: qmd not installed; wikilink targets found via grep/ls; ingest-one.py --finish not used (pushes to main) — manual commit on claude/ branch, qmd update/embed deferred to local machine |
+| 2026-11-21 | su-2010-implant-abutment-crown-contour-critical-subcritical | abstract-only | No PMC full text; pubmed-text artifact from PubMed MCP abstract |
+| 2026-11-21 | chu-2019-restorative-emergence-profile-single-tooth-implants | abstract-only | No PMC full text; pubmed-text artifact from PubMed MCP abstract |
+| 2026-11-21 | calazans-neto-2026-abutment-design-peri-implant-esthetic-sr-ma | abstract-only | No PMC full text; pubmed-text artifact from PubMed MCP abstract |
+| 2026-11-21 | cooper-2021-abutment-interfaces-anterior-single-implants-5year-rct | abstract-only | No PMC full text; pubmed-text artifact from PubMed MCP abstract |
+| 2026-11-21 | wittneben-2013-dynamic-compression-technique-soft-tissue-conditioning | abstract-only | No PMC full text; pubmed-text artifact from PubMed MCP abstract |
+| 2026-11-21 | benli-2026-platform-switching-esthetic-outcomes-sr | abstract-only | No PMC full text; pubmed-text artifact from PubMed MCP abstract |
+| 2026-11-21 | kolte-2019-gingival-angle-zenith-angle-thickness | abstract-only | No PMC full text; pubmed-text artifact from PubMed MCP abstract |
+| 2026-11-21 | su-2010-implant-abutment-crown-contour-critical-subcritical | no-doi | PubMed record has no DOI; dedup via --title |
+| 2026-11-21 | kolte-2019-gingival-angle-zenith-angle-thickness | no-doi | PubMed record has no DOI; dedup via --title |
+| 2026-11-21 | barwacz-2024-cadcam-abutment-morphology-implant-outcomes | duplicate-skip | PMID 39641983 / DOI 10.1111/clr.14389 surfaced in zenith surveillance; already held |
+| 2026-11-21 | calazans-neto-2026-abutment-design-peri-implant-esthetic-sr-ma | relation-judgment | contradicts edges to liu-2025 and seijas-naya-2025: RCT-only SR+MA null on shape vs their shape effects; taxonomy lumps convex into straight |
+| 2026-11-21 | pawar-2011-gingival-zenith-redefining-esthetics | source-data-issue | Abstract 'below or on (17%)' vs discussion 'frequently below (75.7%)'; LID ± char garbled; tables absent from PMC text; 'photographed' vs photography avoided |
+| 2026-11-21 | benli-2026-platform-switching-esthetic-outcomes-sr | category-judgment | PS esthetic/soft-tissue SR routed to implants/soft-tissue rather than implants/mbl where PS bone papers live |
+| 2026-11-21 | chu-2019-restorative-emergence-profile-single-tooth-implants | date-fallback | PubMed pub year 2019 but citation vol 40(1) (IJPRD 2020 volume); stem/date use PubMed 2019 |
+| 2026-11-21 | su-2010-implant-abutment-crown-contour-critical-subcritical | qmd-unavailable | Cloud session: no qmd; manual commit on claude/ branch; qmd update/embed deferred to local |

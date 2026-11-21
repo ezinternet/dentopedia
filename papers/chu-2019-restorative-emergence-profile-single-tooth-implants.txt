@@ -1,0 +1,10 @@
+TITLE: Restorative Emergence Profile for Single-Tooth Implants in Healthy Periodontal Patients: Clinical Guidelines and Decision-Making Strategies.
+AUTHORS: Chu SJ, Kan JY, Lee EA, Lin GH, Jahangiri L, Nevins M, Wang HL
+JOURNAL: Int J Periodontics Restorative Dent
+CITATION: Int J Periodontics Restorative Dent 2019;40(1):19-29
+ID[pmid]: 31815969
+ID[doi]: 10.11607/prd.3697
+FULL_TEXT: false (abstract-only — no PMC full text; retrieved via PubMed MCP 2026-11-21)
+
+ABSTRACT:
+The peri-implant soft tissue seal consists of a connective tissue cuff and a junctional epithelium that is different from the arrangement of periodontium around a natural tooth. However, the peri-implant soft tissue complex lacks Sharpey's fibers, thus offering less resistance to clinical probing and biofilm penetration compared to the natural dentition. Therefore, the proper restorative emergence profile design is essential to facilitate favorable esthetic outcomes and maintain peri-implant health. The aim of this article is to review the currently available evidence related to the design of subgingival (critical and subcritical) and supragingival contours of the implant restorative emergence profile (IREP) as well as provide a flowchart for decision-making in clinical practice. Theoretically, the subgingival contours of the crown/abutment complex should mimic the morphology of the root and the cervical third of the anatomic crown as much and as often as possible. However, this is highly dependent upon the three-dimensional spatial position of the implant relative to the hard and soft tissue complex, in addition to the location of the definitive restoration. Frequently, a convex critical contour is required on the facial aspect of a palatally or incisally positioned implant to support an adequate gingival-margin architecture. Conversely, if the implant is placed too far facially, then a flat or concave contour is recommended. In instances where soft tissue support is not needed, the subcritical area may be undercontoured to increase the thickness, height, and stability of the soft tissue cuff.

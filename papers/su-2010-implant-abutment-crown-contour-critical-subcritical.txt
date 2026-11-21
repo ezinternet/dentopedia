@@ -1,0 +1,10 @@
+TITLE: Considerations of implant abutment and crown contour: critical contour and subcritical contour.
+AUTHORS: Su H, Gonzalez-Martin O, Weisgold A, Lee E
+JOURNAL: Int J Periodontics Restorative Dent
+CITATION: Int J Periodontics Restorative Dent 2010;30(4):335-43
+ID[pmid]: 20664835
+ID[doi]: None
+FULL_TEXT: false (abstract-only — no PMC full text; retrieved via PubMed MCP 2026-11-21)
+
+ABSTRACT:
+Adequately contoured implant restorations need to transition from the circumferential design of the implant head to the correct cervical tooth anatomy. The implant abutment may be used to effect this transition provided there is sufficient running room. Implant restorations have been described as overcontoured, flat, and undercontoured. It has been shown that overcontouring will generally cause apical positioning of the gingival margin, while undercontouring will induce the opposite effect. However, these terms have been applied arbitrarily and without allocating specific determinants. Furthermore, the concept of "contour" as originally adapted from tooth-supported restorations needs to be redefined as it pertains to implant dentistry. Two distinct zones within the implant abutment and crown are defined as critical contour and subcritical contour. Any alteration of critical or subcritical contour can modify the soft tissue profile. The purpose of this paper is to determine the effect of abutment contour modifications at these zones on the peri-implant soft tissues, including the gingival margin level, papillae height, gingival architecture, labial alveolar profile, and gingiva color.

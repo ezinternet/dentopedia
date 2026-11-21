@@ -5694,3 +5694,14 @@ tags: []
 - [[implants/park-2024-horizontal-vertical-positioning-single-implants-healed-sites]] — Park 2024(print 2025) · cross-sectional(왁스업 58개, abstract-only) · 인접치 정점선 기준 수평 2–3 mm·수직 3–4 mm에서 치경부 치관 형태 양호, 수직 ≤1 mm 불량 → 범위 이탈 시 골이식 고려 (DOI 10.1016/j.prosdent.2024.05.027)
 - [[implants/farronato-2020-implant-abutment-connection-buccal-zenith-rct]] — Farronato 2020 · rct(104명·188개) · 5° 원뿔(AnyRidge) vs 45° 연결: 협측 정점 점막 높이 3.32 vs 2.70 mm, 두께 4.37 vs 3.93 mm(p=0.047) — 군집 미보정 상관분석, 가설 생성 수준 (DOI 10.1186/s12903-020-1037-5)
 - [[bone-regeneration/ridge-preservation/carranza-2016-alveolar-dimensional-changes-osseous-zenith]] — Carranza 2016 · prospective(CT 20명, abstract-only) · 발치 6개월 "골 정점" 수직 2.1 ± 1.7 mm·수평 1.8 ± 0.8 mm 변위; 중간 높이 순측골 <0.7 mm면 >3 mm 변위 (PMID 27731479, DOI 없음)
+
+## Surveillance ingest (added 2026-11-21, 2차) — 치은 정점 × 임계/하임계 윤곽·연결부 후속 8편
+
+- [[immediate-implant/esthetic-soft-tissue/su-2010-implant-abutment-crown-contour-critical-subcritical]] — Su 2010 · narrative-review(abstract-only) · 임계/하임계 윤곽 개념 원출처: 과풍융 → 치은연 근단, 저풍융 → 반대 (PMID 20664835, DOI 없음)
+- [[implants/soft-tissue/chu-2019-restorative-emergence-profile-single-tooth-implants]] — Chu 2019 · narrative-review(abstract-only) · 위치 조건부 윤곽 규칙: 구개·절단측 식립 → 협측 임계 윤곽 볼록, 협측 식립 → 평탄/오목, 하임계 저풍융 (DOI 10.11607/prd.3697)
+- [[implants/soft-tissue/calazans-neto-2026-abutment-design-peri-implant-esthetic-sr-ma]] — Calazans Neto 2026 · sr+ma(RCT 10편, abstract-only) · 좁은(오목) vs 직선 지대주 MBL·PD·PES 무차이(SMD 0.08/−0.05/−0.12), 정점 등 2차 결과도 무차이 — 형태 레버 명제와 상충 (DOI 10.1111/jopr.70180)
+- [[implants/cooper-2021-abutment-interfaces-anterior-single-implants-5year-rct]] — Cooper 2021 · rct(141명, 5년, abstract-only) · 원뿔 MBL −0.16 vs 평면 −0.92 vs PS −0.81 mm(P<.0005)이나 점막 정점 변화는 전 군 미미(P>.60) (DOI 10.11607/jomi.8333)
+- [[immediate-implant/esthetic-soft-tissue/wittneben-2013-dynamic-compression-technique-soft-tissue-conditioning]] — Wittneben 2013 · case-report(술식, abstract-only) · 동적 압박 술식: 임시수복으로 점막 정점·유두·삼각 윤곽을 인접치와 조화 (DOI 10.11607/prd.1268)
+- [[implants/soft-tissue/benli-2026-platform-switching-esthetic-outcomes-sr]] — Benli 2026 · sr(24편, abstract-only) · 플랫폼 스위칭이 PES·유두·점막 정점 변화 개선 보고 — 메타분석 없음 (DOI 10.11607/jomi.11299)
+- [[periodontics/pawar-2011-gingival-zenith-redefining-esthetics]] — Pawar 2011 · cross-sectional(35명) · 치은선 각도 좌 86.7° > 우 84.6°, 견치 정점 근단 — 측절치 비율 17% vs 75.7% 내부 불일치 (DOI 10.4103/0972-124X.84382)
+- [[periodontics/kolte-2019-gingival-angle-zenith-angle-thickness]] — Kolte 2019 · cross-sectional(160명, abstract-only) · 정점 각도는 여성에서 작고 연령 무관, 치은 두께(여 1.1 vs 남 2.5 mm)와 무상관 (PMID 31061999, DOI 없음)

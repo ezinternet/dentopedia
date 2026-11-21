@@ -1,0 +1,10 @@
+TITLE: Peri-implant soft tissue conditioning with provisional restorations in the esthetic zone: the dynamic compression technique.
+AUTHORS: Wittneben JG, Buser D, Belser UC, Brägger U
+JOURNAL: Int J Periodontics Restorative Dent
+CITATION: Int J Periodontics Restorative Dent 2013;33(4):447-55
+ID[pmid]: 23820704
+ID[doi]: 10.11607/prd.1268
+FULL_TEXT: false (abstract-only — no PMC full text; retrieved via PubMed MCP 2026-11-21)
+
+ABSTRACT:
+An optimal esthetic implant restoration is a combination of a visually pleasing prosthesis and surrounding peri-implant soft tissue architecture. This article introduces a clinical method, the dynamic compression technique, of conditioning soft tissues around bone-level implants with provisional restorations in the esthetic zone. The technique has several goals: to establish an adequate emergence profile; to recreate a balanced mucosa course and level in harmony with the gingiva of the adjacent teeth, including papilla height/width, localization of the mucosal zenith and the tissue profile's triangular shape; as well as to establish an accurate proximal contact area with the adjacent tooth/implant crown.
