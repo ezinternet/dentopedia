@@ -76,6 +76,14 @@ h1{font-size:20px;font-weight:500;margin-bottom:4px}
 (function(){
   var HK='_cr_h_third_molar_drug_protocol_decision_tree';
   var THRESHOLD=30*60*1000;
+  /* OPERATIONS.md §7 — 콘텐츠 업데이트 시 PAGE_VERSION 범프 */
+  const PAGE_VERSION='20261121-v1';
+  var VK='_cr_v_third_molar_drug_protocol_decision_tree';
+  try{
+    var sv=localStorage.getItem(VK);
+    if(sv&&sv!==PAGE_VERSION){localStorage.setItem(VK,PAGE_VERSION);location.reload(true);}
+    else localStorage.setItem(VK,PAGE_VERSION);
+  }catch(e){}
   document.addEventListener('visibilitychange',function(){
     if(document.hidden){
       try{localStorage.setItem(HK,Date.now());}catch(e){}
