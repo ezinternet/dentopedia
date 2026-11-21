@@ -72,6 +72,31 @@ agenda: agenda/2026-11-19_smoking-tobacco-risk-counselor.md
   footer{margin-top:18px;font-size:.76rem;color:var(--muted);text-align:center;}
   .btn{display:inline-block;margin-top:10px;cursor:pointer;border:1px solid var(--accent);background:var(--accent);color:#fff;padding:9px 14px;border-radius:8px;font-weight:600;font-size:.88rem;}
 </style>
+<script>
+/* llm-wiki cache-refresh */
+(function(){
+  var HK='_cr_h_2026_11_19_smoking_tobacco_risk_counselo';
+  var THRESHOLD=30*60*1000;
+  /* OPERATIONS.md §7 — 콘텐츠 업데이트 시 PAGE_VERSION 범프 */
+  const PAGE_VERSION='20261121-v1';
+  var VK='_cr_v_2026_11_19_smoking_tobacco_risk_counselo';
+  try{
+    var sv=localStorage.getItem(VK);
+    if(sv&&sv!==PAGE_VERSION){localStorage.setItem(VK,PAGE_VERSION);location.reload(true);}
+    else localStorage.setItem(VK,PAGE_VERSION);
+  }catch(e){}
+  document.addEventListener('visibilitychange',function(){
+    if(document.hidden){
+      try{localStorage.setItem(HK,Date.now());}catch(e){}
+    }else{
+      try{
+        var t=parseInt(localStorage.getItem(HK)||'0');
+        if(t&&(Date.now()-t)>THRESHOLD){localStorage.setItem(HK,'0');location.reload(true);}
+      }catch(e){}
+    }
+  });
+})();
+</script>
 </head>
 <body>
 <div class="wrap">
