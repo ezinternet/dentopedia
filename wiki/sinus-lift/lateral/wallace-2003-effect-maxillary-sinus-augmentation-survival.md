@@ -14,11 +14,16 @@ source_url: https://pubmed.ncbi.nlm.nih.gov/14971260/
 text_path: /Users/oracleneo/llm-wiki/papers/wallace-2003-effect-maxillary-sinus-augmentation-survival.txt
 text_filename: wallace-2003-effect-maxillary-sinus-augmentation-survival.txt
 tags: [sinus-lift, lateral-window, implant-survival, meta-regression, grafting-technique, barrier-membrane, osteotome]
+superseded_by: starch-jensen-2019-sinus-augmentation-barrier-membrane-window
+superseded_scope: partial
 relations:
   - type: contradicts
     target: starch-jensen-2019-sinus-augmentation-barrier-membrane-window
     note: "Wallace's meta-regression found higher implant survival with lateral-window membrane coverage; Starch-Jensen 2019's 6-RCT SR+MA found no significant survival difference with vs without membrane. Same clinical question, opposite conclusion."
 ---
+
+> [!note] Partially superseded → [[sinus-lift/lateral/starch-jensen-2019-sinus-augmentation-barrier-membrane-window]]
+> **Membrane-coverage axis only.** Starch-Jensen 2019 (SR+MA, 6 RCTs) found no survival, new-bone or complication difference with vs without lateral-window membrane, overturning this meta-regression's membrane benefit (43 studies, only 3 RCTs). Still current here: the historical 91.8% lateral-window survival baseline and the rough-surface / particulate-graft associations, which the newer review did not test. (set 2026-11-21)
 
 *abstract-only — full text not retrieved (no PMC record; not open access)*
 
