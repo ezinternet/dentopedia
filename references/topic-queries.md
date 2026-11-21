@@ -253,7 +253,7 @@ ingest 라우팅: 치실/치간칫솔/구강세정기 효능 RCT·SR → `period
 
 **라우팅**: `pdrn/` + 오버뷰 `pdrn-dentistry-evidence-synthesis`.
 
-**현황 (2026-06-19)**: 17편 보유. 2026-06 신규: jeon-2026 (in vitro 기전 — 오스테오블라스트 선택적 활성화, 오스테오클라스트 무영향).
+**현황 (2026-11-21)**: `wiki/pdrn/` 25편 보유. 2026-11-21 서베일런스 edat 2026/09/21–11/21 창 신규 3편 **인제스트 완료**: 43017077 → [[pdrn/lee-2026-polydeoxyribonucleotide-and-polynucleotide-effects-in]](비치과 근골격계 SR이나 TMJ·최대개구 포함, PMC OA) · 43059186 → [[pdrn/lee-2026-early-bone-regeneration-with-different]](토끼 두개골 결손 PDRN 제형 A/B/C head-to-head — 위키 제형 표준화 공백, JPIS publisher OA) · 42883322 → [[pdrn/jeong-2026-polydeoxyribonucleotide-promotes-longitudinal-bone-growth]](전신 성장판·간 IGF-1/JAK2-STAT5 기전, **cross-domain·기전 참고용**, PMC OA). pdrn `last_run_edat` 2026/11/21. 이전 2026-06 신규: jeon-2026 (in vitro 기전 — 오스테오블라스트 선택적 활성화, 오스테오클라스트 무영향).
 
 ---
 

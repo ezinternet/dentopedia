@@ -2186,3 +2186,9 @@ Found by manual PDF discovery (not the original scout search), 2026-07-25 — sa
       "Approach and Management of Alcohol Withdrawal Syndrome in Operative Head and Neck Cancer Patients. — Otolaryngol Head Neck Surg"
 - [x] PMID 40489307 | SR+MA | OA:PMC PMC12273760 | alcohol-oral-surgery | edat 2025 — ALREADY INGESTED (기존 stem 유지, 2026-11-19 alcohol OR 2.07 메타수치로 보강) → wiki/implants/peri-implantitis/galarraga-vinueza-2025-peri-implant-disease-risk-factors
       "Prevalence, incidence, systemic, behavioral, and patient-related risk factors and indicators for peri-implant diseases: An AO/AAP systematic review and meta-analysis" — J Periodontol
+- [x] PMID 43017077 | SR | OA:PMC PMC13752129 (CC BY) | pdrn | edat 2026/10/28 — INGESTED 2026-11-21 (방법: PMC full text) → wiki/pdrn/lee-2026-polydeoxyribonucleotide-and-polynucleotide-effects-in
+      "Polydeoxyribonucleotide and polynucleotide effects in musculoskeletal disorders: a systematic review." — Frontiers in Pharmacology (2026, epub 2026-10-28)
+- [x] PMID 43059186 | animal | OA:none | pdrn | edat 2026/11/20 — INGESTED 2026-11-21 (방법: JPIS publisher OA PDF, CC BY-NC) → wiki/pdrn/lee-2026-early-bone-regeneration-with-different
+      "Early bone regeneration with different polydeoxyribonucleotide formulations in a rabbit calvarial model: a comparative micro-CT and histological study." — Journal of Periodontal & Implant Science (2026, epub 2026-10-12; edat 2026-11-20)
+- [x] PMID 42883322 | in-vivo/in-vitro (mechanism) | OA:PMC PMC13666977 (CC BY) | pdrn | edat 2026/10/07 — INGESTED 2026-11-21 (방법: PMC full text) → wiki/pdrn/jeong-2026-polydeoxyribonucleotide-promotes-longitudinal-bone-growth
+      "Polydeoxyribonucleotide Promotes Longitudinal Bone Growth Through the Hepatic JAK2-STAT5/IGF-1 Axis Involving A2A Receptor Signaling." — Molecules (Basel) (2026, epub 2026-10-07)
