@@ -2,7 +2,7 @@
 title: "임플란트·연조직 — soft-tissue"
 authors: navigation
 year: 2026
-date: 2026-10-21
+date: 2026-11-21
 doi: N/A
 source: navigation
 category: implants/soft-tissue
@@ -15,32 +15,35 @@ tags: [navigation, category-index, soft-tissue]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·연조직
 > - **범위**: Peri-implant soft tissue augmentation — keratinized mucosa (KM) width/thickness, buccal dehiscence (PSTD), soft tissue substitutes (xenogeneic collagen matrix vs autograft FGG/CTG), second-stage surgery, vestibuloplasty
-> - **수록 논문**: 46편
+> - **수록 논문**: 49편
 
 ## Three-line Summary
 
 **Scope**: Peri-implant soft tissue augmentation — keratinized mucosa (KM) width/thickness, buccal dehiscence (PSTD), soft tissue substitutes (xenogeneic collagen matrix vs autograft FGG/CTG), second-stage surgery, vestibuloplasty
-**Indexed papers**: 46 papers in `wiki/implants/soft-tissue/`.
+**Indexed papers**: 49 papers in `wiki/implants/soft-tissue/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·연조직
-**수록 논문**: 46편
+**수록 논문**: 49편
 **하위 카테고리**: 없음
 
-## Papers in this Category (46)
+## Papers in this Category (49)
 
 | Paper |
 |---|
 | [[barwacz-2024-cadcam-abutment-morphology-implant-outcomes|Effect of CAD/CAM Abutment Morphology on the Outcomes of Implant Therapy: A Randomized Controlled Trial]] |
 | [[bassetti-2016-soft-tissue-augmentation-second-stage-sr|Soft tissue augmentation procedures at second-stage surgery: a systematic review]] |
+| [[benli-2026-platform-switching-esthetic-outcomes-sr|Assessing the Esthetic Impact of Platform-Switching Implant Designs: A Systematic Review of Clinical Evidence]] |
 | [[bhatavadekar-2012-peri-implant-soft-tissue-management-narrative|Peri-implant soft tissue management: Where are we?]] |
 | [[bhowmick-2022-flapless-conventional-soft-tissue-esthetics|Flapless vs conventional flap: soft tissue response and esthetics with titanium collar implants]] |
 | [[blaskovic-2021-peri-implant-soft-tissue-augmentation-review|Peri-Implant Soft Tissue Augmentation]] |
 | [[bressan-2024-iao-consensus-peri-implant-soft-tissues|Consensus Report by the Italian Academy of Osseointegration on the Importance of Peri-Implant Soft Tissues]] |
 | [[bruschi-2014-partial-thickness-flap-keratinized-gingiva-implant|Clinical study of flap design to increase the keratinized gingiva around implants: 4-year follow-up]] |
 | [[cairo-2019-soft-tissue-augmentation-implant-sites-rct-sr-ma|Surgical procedures for soft tissue augmentation at implant sites. A systematic review and meta-analysis of randomized controlled trials]] |
+| [[calazans-neto-2026-abutment-design-peri-implant-esthetic-sr-ma|Impact of prosthetic abutment design on peri-implant clinical and esthetic outcomes: A systematic review and meta-analysis of randomized controlled trials]] |
 | [[canullo-2020-titanium-abutment-surface-peri-implant-tissue-ma|Titanium abutment surface modifications and peri-implant tissue behavior: a systematic review and meta-analysis]] |
+| [[chu-2019-restorative-emergence-profile-single-tooth-implants|Restorative Emergence Profile for Single-Tooth Implants in Healthy Periodontal Patients: Clinical Guidelines and Decision-Making Strategies]] |
 | [[dadlani-2024-efficacy-xenogeneic-collagen-matrices-augmenting|Efficacy of Xenogeneic Collagen Matrices in Augmenting Peri-Implant Soft Tissue: A Systematic Review and Meta-Analysis]] |
 | [[de-greef-2023-mesh-fgg-keratinized-mucosa-implant|The expanded mesh free gingival graft: A novel approach to increase the width of keratinized mucosa]] |
 | [[han-2021-apf-keratinized-gingiva-implant-ridge-augmentation|The gain in keratinized gingiva using apically positioned flap during implant placement with and without ridge augmentation: A comparative prospective study]] |

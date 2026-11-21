@@ -10,7 +10,7 @@ evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
-tags: [emergence-profile, abutment-design, healing-abutment, customized-healing-abutment, one-abutment-one-time, abutment-surface, mucosal-recession, marginal-bone-loss, emergence-angle, abutment-height, junctional-epithelium, splinted-implants, peri-implant-soft-tissue, esthetics, overview]
+tags: [emergence-profile, abutment-design, healing-abutment, customized-healing-abutment, one-abutment-one-time, abutment-surface, mucosal-recession, marginal-bone-loss, emergence-angle, abutment-height, junctional-epithelium, splinted-implants, peri-implant-soft-tissue, esthetics, gingival-zenith, critical-contour, subcritical-contour, implant-position, implant-abutment-connection, overview]
 source_papers:
   - wiki/implants/soft-tissue/canullo-2020-titanium-abutment-surface-peri-implant-tissue-ma.md
   - wiki/implants/rios-santos-2020-one-abutment-one-time-rct.md
@@ -29,6 +29,20 @@ source_papers:
   - wiki/implants/mbl/nunes-2025-final-prosthetic-abutment-insertion-time-oaot.md
   - wiki/implants/mbl/liu-2025-abutment-shape-marginal-bone-loss-crestal-bone-remodeling.md
   - wiki/implants/mbl/calatrava-2024-effect-one-time-placement-definitive-abutment.md
+  - wiki/periodontics/martins-2024-gingival-zenith-level-position-symmetry-sr-ma.md
+  - wiki/periodontics/chu-2009-gingival-zenith-positions-levels-maxillary-anterior.md
+  - wiki/periodontics/pawar-2011-gingival-zenith-redefining-esthetics.md
+  - wiki/periodontics/kolte-2019-gingival-angle-zenith-angle-thickness.md
+  - wiki/immediate-implant/esthetic-soft-tissue/su-2010-implant-abutment-crown-contour-critical-subcritical.md
+  - wiki/immediate-implant/esthetic-soft-tissue/gonzalez-martin-2020-contour-management-implant-restorations-emergence-profiles.md
+  - wiki/implants/soft-tissue/chu-2019-restorative-emergence-profile-single-tooth-implants.md
+  - wiki/immediate-implant/esthetic-soft-tissue/wittneben-2013-dynamic-compression-technique-soft-tissue-conditioning.md
+  - wiki/implants/park-2024-horizontal-vertical-positioning-single-implants-healed-sites.md
+  - wiki/bone-regeneration/ridge-preservation/carranza-2016-alveolar-dimensional-changes-osseous-zenith.md
+  - wiki/implants/farronato-2020-implant-abutment-connection-buccal-zenith-rct.md
+  - wiki/implants/cooper-2021-abutment-interfaces-anterior-single-implants-5year-rct.md
+  - wiki/implants/soft-tissue/benli-2026-platform-switching-esthetic-outcomes-sr.md
+  - wiki/implants/soft-tissue/calazans-neto-2026-abutment-design-peri-implant-esthetic-sr-ma.md
 relations:
   - type: extends
     target: ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr
@@ -50,6 +64,12 @@ relations:
     target: seijas-naya-2025-concave-straight-abutment-bone-rct
   - type: refines
     target: canullo-2020-titanium-abutment-surface-peri-implant-tissue-ma
+  - type: refines
+    target: calazans-neto-2026-abutment-design-peri-implant-esthetic-sr-ma
+  - type: extends
+    target: chu-2019-restorative-emergence-profile-single-tooth-implants
+  - type: refines
+    target: farronato-2020-implant-abutment-connection-buccal-zenith-rct
 ---
 
 ## 한국어 핵심요약
@@ -74,24 +94,35 @@ relations:
 > - **형태 × 높이 교호작용 RCT (Seijas Naya 2025)**: 오목(Slim/concave) vs 직선(straight) 지대주 24개월 이중맹검 RCT(n=68). 오목 군이 MBL 유의하게 낮음(p=0.006–0.026). **결정적 발견**: 직선형에서는 지대주 높이↑ → MBL 증가(p<0.01)이지만, **오목형에서는 높이↑ → MBL 감소(역방향, p<0.01)**. 즉 "높이가 클수록 유리하다"는 원칙은 **오목 지대주를 선택했을 때만 성립** — 직선 지대주에서 높이를 키우면 오히려 불리할 수 있음.
 > - 임상 takeaway: ① 전치부·협측은 **오목/평탄(under-contoured) 윤곽**·낮은 출현각도(~32° 목표) — 볼록은 잉여 연조직을 의도적으로 밀어낼 때만 ② **지대주 높이 ≥2 mm, 가능하면 3 mm** 우선(골 보존; 단 오목 지대주 선택 시에만 높이 증가 효과가 보호 방향으로 작동) ③ 표면 처리·OAOT는 골/연조직 결정 인자가 아니므로 다른 이유(워크플로·심미)로 선택 ④ 맞춤형 치유지대주로 윤곽을 조기 형성 ⑤ 모든 형태 결정은 baseline 연조직 두께에 종속.
 > - **Ra 0.2 µm 임계값의 원출처(Bollen 1997, 2026-10-28 추가)**: Pirc 2026이 제시한 "표면조도 <0.2 µm Ra" 연마 목표는 Bollen 1997 서술 리뷰에서 나온 값이다. 이 아래로는 세균 부착이 더 줄지 않고, 위로는 조도에 비례해 치태가 늘어난다. 구강 내 경조직 일반에 대한 1997년 초록 근거라 임플란트 지대주에 대한 직접 검증은 아니다. [확인]
+> - **치은 정점 (Gingival Zenith) 축 신설 (2026-11-21, 14편)**: 출현윤곽 설계의 *목표점*이 생겼다. 자연치 기준값 — 중절치 정점은 치축보다 평균 1 mm 원심, 측절치 0.4 mm, 견치는 97.5%가 중앙; 측절치 정점은 중절치–견치 정점선보다 ~1 mm 치관측(Chu 2009). SR+MA(Martins 2024)도 원심 편위 비율 중절치 96%·측절치 84%·견치 43%, 측절치 82%가 정점선보다 치관측으로 같은 방향 — 단 GRADE 매우 낮음.
+> - **정점을 움직이는 레버 = 임계 윤곽 (Critical Contour)**: 과풍융은 치은연을 대체로 근단으로, 저풍융은 반대로 이동(Su 2010, 개념 원출처). 하임계 윤곽 (Subcritical Contour)은 연조직 부피·순측 윤곽을 담당. 실행 술식은 임시수복물 동적 압박 술식 (Dynamic Compression Technique, Wittneben 2013) — 모두 전문가 의견·술식 수준.
+> - **"볼록은 나쁘다"의 조건화 (Chu 2019)**: 구개측·절단측 식립이면 치은연을 받치려 협측 임계 윤곽을 *볼록*하게, 협측 식립이면 *평탄/오목*하게, 하임계부는 저풍융. Siegenthaler 2022의 볼록 퇴축 OR 12.69를 뒤집는 게 아니라 "볼록은 구개측 임플란트용 도구"로 범위를 좁힌다.
+> - **식립 위치가 윤곽의 전제**: 인접치 정점 연결선 기준 임플란트 순면까지 수평 2–3 mm, 플랫폼까지 수직 3–4 mm에서 치경부 형태 양호, 수직 ≤1 mm 불량(Park 2024, 왁스업 주관평가). 협측·얕은 식립은 넓은 출현각·볼록 윤곽을 강제 — 각도·형태 축의 상류 원인.
+> - **정점 아래 골 (Osseous Zenith)**: 발치 6개월 수직 2.1 ± 1.7 mm·수평 1.8 ± 0.8 mm 변위, 중간 높이 순측골 <0.7 mm면 >3 mm 변위(Carranza 2016, n=20) — 위 수직 3–4 mm 창을 graft 없이 확보할 수 있는지를 결정.
+> - **연결부 (Connection) 축 신설 — 골엔 영향, 정점엔 불확실**: 5년 RCT(Cooper 2021, 141명)에서 원뿔 연결 MBL −0.16 vs 평면 −0.92 vs PS −0.81 mm(P<.0005)지만 점막 정점 변화는 전 군 미미(P>.60). 1년 RCT(Farronato 2020)는 5° 원뿔이 45° 대비 협측 정점 점막 높이 3.32 vs 2.70 mm로 컸으나 군집 미보정·구치부 84%로 가설 수준. PS 심미 SR(Benli 2026)은 정점 개선을 보고하나 메타분석 없음.
+> - **형태 레버 명제에 대한 반대 근거 (Calazans Neto 2026, RCT 10편 SR+MA)**: 좁은(오목) vs 직선 지대주에서 MBL·PD·PES 모두 무차이(SMD 0.08/−0.05/−0.12, p≥0.51), 정점 등 2차 결과도 무차이. 판단: 이 리뷰는 볼록을 "직선" 군에 합쳐 볼록 vs 오목 대비(Siegenthaler)를 분리하지 못했다 → **"오목 vs 선형 지대주는 큰 차이 없음"으로 읽고, "볼록 회피" 명제는 유지**하되 확실성 표현을 한 단계 낮춘다.
+> - **자연치 정점 형태와 조직 두께는 별개 변수**: 정점 각도는 여성에서 작고 연령·치은 두께와 무상관(Kolte 2019); 좌우 소폭 비대칭 보고(Pawar 2011, 내부 수치 불일치) vs 대칭(Martins 2024).
+> - **정점 축 임상 takeaway**: ① 인접 정점선 기준 수평 2–3 mm·수직 3–4 mm로 식립 ② 임계 윤곽으로 정점을 중절치 원심·견치 중앙에 배치 ③ 볼록 임계 윤곽은 구개측 식립에서 치은연 지지가 필요할 때만 ④ 하임계는 저풍융 ⑤ 정점 지지골(중간 높이 순측골)을 CBCT로 사전 평가.
 
 ## Three-line Summary
 
-Synthesis of 17 papers (3 SR+MA, 2 SR, 1 scoping review, 4 RCTs, 1 retrospective, 2 preclinical animal, plus narrative review and clinical studies) across four abutment-related levers — emergence-profile shape/angle, abutment surface modification, disconnection policy, and customized healing abutments — plus digital emergence-profile transfer.
+Synthesis of 31 papers across seven abutment/restoration levers — emergence-profile shape/angle, abutment surface, disconnection policy, customized healing abutments, digital profile transfer, and (added 2026-11-21) the gingival/mucosal zenith target and the implant–abutment connection — spanning SR+MA, RCT, cohort, cross-sectional, preclinical, and narrative/technique evidence.
 
-Emergence-profile shape and angle is the dominant driver: convex profile carries ~13× the anterior recession risk vs concave (Siegenthaler 2022) and 2.3× the peri-implantitis rate in an SR+MA (RR 2.32; Atieh 2023); a W/H-derived ~32° angle halves molar recession (Wang 2022); EA >30° raises MBL significantly in RCT-only SR+MA (Liu 2025); dog-model RCTs establish a dose-response angle→MBL/seal-failure mechanism (~4× MBL at 80° vs 20°; keep <40°); abutment surface modification shows no reliable tissue benefit; OAOT shows a modest but now SR+MA-confirmed bone benefit in PS+conical implants (MD −0.23 mm; Abayov 2026 + Nunes 2025), but height ≥2 mm remains the dominant bone lever.
+Emergence-profile shape and angle remain the strongest levers (convex recession OR 12.69, Siegenthaler 2022; convex peri-implantitis RR 2.32, Atieh 2023; EA >30° MBL +0.19 mm, Liu 2025; ~4× MBL at 80° vs 20° in dogs), height ≥2 mm buffers the angle penalty (Misch 2025), but an RCT-only SR+MA found no MBL/PD/PES difference between concave and straight abutments (Calazans Neto 2026); natural-tooth zenith targets (central ~1 mm distal, canine centred, lateral ~1 mm coronal; Chu 2009, Martins 2024) and zenith-referenced placement (2–3 mm horizontal, 3–4 mm vertical; Park 2024) define where the contour should put the margin, while connection design changes bone (conical −0.16 vs ~−0.8/−0.9 mm at 5 y) but not zenith position (Cooper 2021).
 
-The actionable levers are contour (concave/under-contoured anteriorly), emergence angle (<40°, ideally <30°), and transmucosal abutment height (≥2 mm), all conditioned on baseline soft-tissue thickness; scan the provisional (not the tissue) to transfer the sculpted profile digitally.
+Place the implant inside the zenith-referenced window, use the critical contour to set the zenith (convex only to support the margin over a palatal implant; Chu 2019), undercontour the subcritical zone, keep the angle narrow and the abutment tall, condition on soft-tissue thickness, and transfer the profile by scanning the provisional.
 
 ## 세줄요약
 
-17편 종합(SR+MA 3·SR 2·scoping review 1·RCT 4·후향 1·전임상 동물 2·기타): 출현윤곽 형태·각도, 지대주 표면 처리, 분리 횟수, 맞춤형 치유지대주, 디지털 윤곽 전달 5축 평가.
+31편 종합: 출현윤곽 형태·각도, 지대주 표면, 분리 횟수, 맞춤형 치유지대주, 디지털 윤곽 전달에 더해 (2026-11-21) 치은/점막 정점 (Zenith) 목표와 임플란트-지대주 연결부 축까지 7개 레버를 SR+MA·RCT·코호트·단면·전임상·술식 근거로 평가.
 
-출현윤곽 형태·각도가 지배 인자: 전치부 볼록은 오목 대비 퇴축 위험 ~13배(Siegenthaler 2022) + SR+MA에서 임플란트주위염 위험비(RR, Risk Ratio) 2.32(Atieh 2023); 구치부 W/H 기반 ~32° 각도가 퇴축 절반(Wang 2022); EA >30° SR+MA에서 MBL +0.19mm 유의 증가·볼록형은 CBR +0.56mm(Liu 2025); 개 모델이 각도→골소실 용량반응 인과 확립(80° vs 20° ~4배, ≥60° 접합상피 붕괴); 표면 처리는 조직 이득 없음; OAOT는 PS+원뿔 임플란트에서 소폭 유의 골 이득 확인(MD −0.23mm, 두 SR+MA); 높이 ≥2 mm가 각도 패널티를 완충(Misch 2025).
+형태·각도가 여전히 가장 강한 레버(볼록 퇴축 OR 12.69, 볼록 주위염 RR 2.32, EA >30° MBL +0.19 mm, 개 모델 80° vs 20° ~4배)이고 높이 ≥2 mm가 각도 패널티를 완충하나, RCT 한정 SR+MA는 오목 vs 직선 지대주 MBL·PD·PES 무차이(Calazans Neto 2026); 자연치 정점 기준(중절치 ~1 mm 원심·견치 중앙·측절치 ~1 mm 치관측)과 정점선 기준 식립 창(수평 2–3 mm·수직 3–4 mm)이 윤곽의 목표를 정의하고, 연결부는 골(원뿔 −0.16 vs ~−0.8/−0.9 mm, 5년)은 바꾸되 정점 위치는 바꾸지 않음(Cooper 2021).
 
-실효 레버: 윤곽(전치 오목/언더컨투어), 출현각도(<40°, 이상 <30°), 경점막 지대주 높이(≥2 mm) — 모두 기저 연조직 두께에 종속; 디지털 전달 시 조직 직접 스캔이 아닌 임시보철 스캔(간접법)으로 윤곽 보존.
+정점선 기준 창 안에 식립 → 임계 윤곽으로 정점 배치(볼록은 구개측 식립의 치은연 지지용만) → 하임계 저풍융 → 좁은 각도·높은 지대주 → 연조직 두께 조건 → 임시보철 스캔으로 전달.
 
 ## Summary
+
+> Update 2026-11-21: sub-axis (f) (gingival/mucosal zenith — target, contour lever, placement, osseous zenith), sub-axis (g) (implant–abutment connection), and an RCT-only counter-evidence SR+MA (Calazans Neto 2026) under (d) were added; the paper counts in the paragraph below describe the original synthesis.
 
 A peri-implant restoration interfaces with the soft and hard tissues through four distinct, separable abutment-related levers: the abutment's **surface**, how often it is **disconnected/reconnected**, whether the healing abutment is **customized** to anatomy, and the **shape/angle of the emergence profile** the prosthesis presents to the mucosa. The wiki holds ten papers — three RCTs, two SRs, one scoping review, one SR+MA, one retrospective cohort, and two preclinical animal studies — that each interrogate one or more of these levers. Read together they sort the levers into a clear hierarchy: **shape and angle govern the tissue; surface and disconnection do not.**
 
@@ -147,9 +178,29 @@ Atieh 2023 and Liu 2025 converge: **the profile's convexity is a peri-implantiti
 
 **Seijas Naya 2025** (double-blind RCT, 21 patients, 68 implants; Galimplant IPX hexagonal internal connection, 4 mm diameter, 10 mm length; straight vs concave/Slim antirotational abutments at 2 or 3 mm height; one-abutment-one-time, screw-retained; 24 months) is the first RCT to directly cross-classify **abutment shape × abutment height** on MBL. Concave abutments showed significantly less MBL than straight abutments across all radiographic measurements at 24 months (p=0.006–0.026), with the early benefit (significant at 8 weeks and 6 months) sustained. The study's most distinctive finding is a **height × shape interaction** (p<0.01): in the straight-abutment group, greater height was *positively* associated with MBL (i.e., taller straight abutments fared worse), whereas in the concave group, greater height *mitigated* bone loss (i.e., taller concave abutments fared better). This means the generally accepted rule that "taller abutments protect bone" applies only when the abutment is concave — **a taller straight abutment may not confer the expected protective benefit and may even be counter-productive.** The proposed mechanism is that a concave design creates additional supracrestal space for soft-tissue accommodation; a straight/convex design at greater height may instead increase the compressive tissue load. This finding extends Misch 2025 by adding a *shape* dimension to the height axis and provides the first controlled human evidence for the concave-abutment bone-preservation advantage.
 
+**Counter-evidence — an RCT-only SR+MA finds no shape effect (added 2026-11-21).** **Calazans Neto 2026** (PRISMA 2020 SR+MA restricted to RCTs; 10 RCTs, 3–60 months, 6 pooled; RoB 2.0: high 2, some concerns 5, low 3; GRADE overall moderate; abstract-only) grouped abutments as narrowed (concave/curved), straight (linear/convex/cylindrical), or widened. Narrowed vs straight showed **no difference in MBL (SMD 0.08, p=0.66), PD (SMD −0.05, p=0.80), or PES (SMD −0.12, p=0.51)**, and no difference in secondary outcomes including the mid-facial mucosal zenith; technical complications were rare and mostly in concave abutments. This is the strongest single challenge in the wiki to the shape thesis. In this page's reading it is largely a definitional mismatch: "straight" pools convex with linear and cylindrical designs, so the contrast is concave-vs-heterogeneous rather than concave-vs-convex (the Siegenthaler contrast), and the comparison is abutment profile rather than crown emergence angle. It conflicts more directly with Seijas Naya 2025 (concave < straight MBL) and Liu 2025 (convex/wide → more CBR), which point the other way on related contrasts. Net effect on the thesis: **"avoid convex" stands; "concave beats linear" is now uncertain**, and the confidence language for the shape lever drops one step until the full text shows the per-RCT categorization.
+
 ### Sub-axis (e) — Capturing/transferring the shape: indirect digital scanning beats direct
 
 A favorable emergence profile is only clinically useful if it survives the transfer from provisional to definitive restoration. Mikulás 2025 (SR, 24 studies — 1 pilot RCT, 2 cross-sectional, 4 cross-over, 12 case reports, 5 dental techniques; mostly maxillary esthetic zone) compared three digital impression workflows against the conventional elastomeric method (CM) for recording the submucosal emergence profile. The verdict: **indirect scanning** — an extraoral scan of the removed implant-supported provisional restoration (ISPR), superimposed onto the in-situ scan — most faithfully captures the EP and approaches CM, whereas **direct scanning** (intraoral scan immediately after ISPR removal) suffers significant, rapid soft-tissue collapse once mucosal support is lost: ~200–500 μm immediately, up to ~1 mm by 20 minutes (Li, Galibourg, Joda). The pilot RCT (Ling) found direct-scan labial EP deviation 1.87 mm vs indirect 0.75 mm, with comparable pink esthetic scores. This is the **delivery/transfer lever for the shape axis** — the same logic as Ruhstorfer's customized healing abutments (sub-axis c), one step downstream: having sculpted the contour with the provisional, scan the *provisional*, not the collapsing tissue, to carry that contour to the final crown. Caveats: planned meta-analysis was not interpretable (high heterogeneity); most studies moderate-to-high RoB; no agreed clinically acceptable EP-discrepancy threshold.
+
+### Sub-axis (f) — The gingival/mucosal zenith: the target the contour aims at (added 2026-11-21)
+
+Sub-axes (c)–(e) describe *how* to shape the transmucosal profile; they never said *where the margin should end up*. The zenith — the most apical point of the facial gingival/mucosal margin — supplies that target, and a small cluster of papers now connects it to implant position, contour, and the bone underneath.
+
+**Natural-tooth reference values.** Chu 2009 (20 healthy young adults, 240 sites, cast calipers; abstract-only) gives the canonical numbers: central-incisor zenith **~1 mm distal** to the crown's bisecting midline (all centrals distal), laterals **~0.4 mm**, canines centred in **97.5%**; the lateral-incisor zenith sits **~1 mm coronal** to the line joining central and canine zeniths. Martins 2024 (SR+MA of cross-sectional studies; abstract-only) reproduces the gradient — distal zenith in **96% / 84% / 43%** of centrals / laterals / canines, lateral zenith coronal to the zenith line in **82%**, contralateral symmetry — but at **very low GRADE certainty**. Two small studies add texture rather than rules: Pawar 2011 (n=35) reports a canine-apical gingival line (GLA <90°) with a ~2° directional left–right asymmetry, but its lateral-incisor proportion is internally inconsistent (17% vs 75.7%); Kolte 2019 (n=160; abstract-only) finds zenith angle smaller in women, unaffected by age, and **uncorrelated with gingival thickness** (thickness ~1.1 mm F vs ~2.5 mm M) — i.e., zenith shape and tissue phenotype are separate design inputs.
+
+**The restorative lever that moves the zenith: the critical contour.** Su 2010 (concept origin; abstract-only) splits the restoration's transmucosal part into a **critical contour** (just below the margin) and a **subcritical contour** (toward the platform) and states the working rule: **overcontouring generally moves the gingival margin apically, undercontouring the opposite**; either zone can change margin level, papillae, architecture, labial profile, and color. González-Martín 2020 restates the model for immediate and delayed provisionals, naming the zenith among the outcomes the zones control. Chu 2019 turns it into a **position-conditional decision rule**: a palatally or incisally placed implant often needs a **convex facial critical contour** to support the margin; a facially placed implant gets a **flat or concave** contour; the subcritical zone may be **undercontoured** to thicken and stabilize the cuff. Wittneben 2013 describes the chairside execution (dynamic compression technique with the provisional), listing zenith localization as an explicit end-point. All four are expert opinion/technique papers — they define vocabulary and procedure, not effect sizes.
+
+**This refines, not reverses, the shape thesis.** Chu 2019's "convex when the implant is palatal" sits alongside Siegenthaler 2022's convex OR 12.69 for recession: convexity is a tool for supporting the margin over a palatal implant, not a default, and thin tissue (Siegenthaler) still argues against it.
+
+**Placement is upstream of contour.** Park 2024 (58 wax-ups on healed-site single implants, 10 raters; abstract-only) referenced implant position to a wire across the adjacent teeth's zeniths: **horizontal 2.0–3.0 mm** (zenith line → implant facial surface) and **vertical 3.0–4.0 mm** (zenith line → platform) gave good cervical crown form; vertical **≤1.0 mm** was poor, and out-of-window positions were flagged as grafting indications. In this page's reading, a facial or shallow implant forces an abrupt transition from platform to margin — the wide angle and convex buccal contour that sub-axis (d) associates with bone loss and recession — so the zenith-referenced window is the placement-side way to stay out of that corner (an inference; Park measured esthetic form, not tissue outcomes).
+
+**The bone under the zenith.** Carranza 2016 (n=20, CT at <24 h and 6 months after atraumatic extraction with primary closure; abstract-only) followed the **osseous zenith** (crest apical to the gingival zenith): vertical displacement **2.1 ± 1.7 mm** (range 0.2–7.5) and horizontal **1.8 ± 0.8 mm**; crestal facial width did not predict displacement, but **mid-level facial width <0.7 mm predicted >3 mm**. This determines whether Park's 3–4 mm vertical window is reachable without grafting.
+
+### Sub-axis (g) — Implant–abutment connection: changes bone, not clearly the zenith (added 2026-11-21)
+
+**Cooper 2021** (multicenter RCT, 141 subjects, anterior maxillary single implants, healed ridges, immediate provisionalization, 5 years; abstract-only) compared conical, flat-to-flat, and platform-switched interfaces. MBL change was **−0.16 ± 0.45 (conical) vs −0.92 ± 0.70 (flat-to-flat) vs −0.81 ± 1.06 mm (PS)**, P<.0005, but **mucosal zenith change was minimal in every group (P>.60)**, with similar papillae and BoP 16–19%. Attrition was heavy (141 → 88 evaluable). **Farronato 2020** (RCT, 104 patients / 188 PS implants, 12-month provisional; PMC full text) found the 5° conical connection supported taller and thicker buccal-zenith mucosa than a 45° internal hex (MH 3.32 vs 2.70 mm; MT 4.37 vs 3.93 mm; MT/MH associated with group, p=0.047), but tested groups with Pearson correlation on implant-level data without clustering adjustment, was 84% posterior, and compared whole implant systems. **Benli 2026** (SR, 24 in vivo studies, no meta-analysis; abstract-only) reports PS improving PES, papillae, and zenith change. Read together: connection design is a real **bone** lever (conical advantage consistent with sub-axis (b)'s PS+conical OAOT data), but the **zenith** effect is unresolved — the longest, three-arm RCT shows none.
 
 ### Evidence table
 
@@ -173,6 +224,20 @@ A favorable emergence profile is only clinically useful if it survives the trans
 | [[implants/munoz-2025-1mm-3mm-abutments-7year-rct]] | RCT | 37 pt / 63 implants (7 y) | (b) height — long-term | 3-mm abutment: MBL significantly lower than 1-mm at 7 y (p<0.001); peri-implantitis 3.2% vs 18.2% (NS, p=0.158 due to dropout) |
 | [[implants/seijas-naya-2025-concave-straight-abutment-bone-rct]] | RCT | 21 pt / 68 implants (24 mo) | (d) shape × height interaction | Concave < straight MBL (p=0.006–0.026); **critical interaction**: height ↑ → MBL ↓ in concave group, but MBL ↑ in straight group (p<0.01) — tall abutment protective *only* with concave design |
 | [[prosthetic-materials/mikulas-2025-digital-impression-accuracy-peri-implant-emergence-profile-sr]] | SR | 24 studies (esthetic zone) | (e) capture/transfer | Indirect scan (scan the provisional) ≈ conventional; direct scan collapses ~200–500 μm → ~1 mm by 20 min |
+| [[implants/soft-tissue/calazans-neto-2026-abutment-design-peri-implant-esthetic-sr-ma]] | SR+MA (RCTs only) | 10 RCTs (6 pooled) | (d) shape — counter-evidence | Narrowed vs straight: MBL SMD 0.08 (p=0.66), PD −0.05 (p=0.80), PES −0.12 (p=0.51) — no difference; convex lumped into "straight" |
+| [[periodontics/chu-2009-gingival-zenith-positions-levels-maxillary-anterior]] | cross-sectional | 20 pt / 240 sites | (f) zenith target | Central zenith ~1 mm distal, lateral 0.4 mm, canine centred 97.5%; lateral ~1 mm coronal to zenith line |
+| [[periodontics/martins-2024-gingival-zenith-level-position-symmetry-sr-ma]] | SR+MA | cross-sectional studies (n not in abstract) | (f) zenith target | Distal zenith 96/84/43% (central/lateral/canine); lateral coronal in 82%; symmetric; GRADE very low |
+| [[periodontics/pawar-2011-gingival-zenith-redefining-esthetics]] | cross-sectional | 35 | (f) zenith target | GLA L 86.7° vs R 84.6° (canine zenith apical); ~2° asymmetry; internal 17% vs 75.7% inconsistency |
+| [[periodontics/kolte-2019-gingival-angle-zenith-angle-thickness]] | cross-sectional | 160 | (f) zenith target | Zenith angle smaller in females, no age effect, no correlation with gingival thickness |
+| [[immediate-implant/esthetic-soft-tissue/su-2010-implant-abutment-crown-contour-critical-subcritical]] | narrative review | — | (f) zenith lever | Critical/subcritical contour defined; overcontour → apical margin, undercontour → opposite |
+| [[immediate-implant/esthetic-soft-tissue/gonzalez-martin-2020-contour-management-implant-restorations-emergence-profiles]] | narrative review | — | (f) zenith lever | Critical/subcritical guidelines for immediate and delayed provisionals; zenith among controlled outcomes |
+| [[implants/soft-tissue/chu-2019-restorative-emergence-profile-single-tooth-implants]] | narrative review | — | (f) zenith lever × position | Palatal/incisal implant → convex critical contour; facial implant → flat/concave; undercontour subcritical |
+| [[immediate-implant/esthetic-soft-tissue/wittneben-2013-dynamic-compression-technique-soft-tissue-conditioning]] | technique | — | (f) zenith execution | Dynamic compression with provisional; zenith localization as explicit target |
+| [[implants/park-2024-horizontal-vertical-positioning-single-implants-healed-sites]] | cross-sectional (wax-ups) | 58 | (f) placement | From adjacent zenith line: horizontal 2–3 mm, vertical 3–4 mm good; vertical ≤1 mm poor |
+| [[bone-regeneration/ridge-preservation/carranza-2016-alveolar-dimensional-changes-osseous-zenith]] | prospective | 20 | (f) bone under zenith | 6-mo osseous zenith shift: vertical 2.1 ± 1.7, horizontal 1.8 ± 0.8 mm; mid-level facial bone <0.7 mm → >3 mm |
+| [[implants/cooper-2021-abutment-interfaces-anterior-single-implants-5year-rct]] | RCT | 141 pt (5 y) | (g) connection | MBL conical −0.16 vs flat −0.92 vs PS −0.81 mm (P<.0005); zenith change minimal all groups (P>.60) |
+| [[implants/farronato-2020-implant-abutment-connection-buccal-zenith-rct]] | RCT | 104 pt / 188 implants (1 y) | (g) connection | 5° vs 45° connection: buccal-zenith MH 3.32 vs 2.70 mm, MT 4.37 vs 3.93 mm (p=0.047); unclustered analysis |
+| [[implants/soft-tissue/benli-2026-platform-switching-esthetic-outcomes-sr]] | SR | 24 studies | (g) connection | PS reported to improve PES, papillae, zenith change; no meta-analysis |
 
 ### Reconciliation — why the axes diverge
 
@@ -185,6 +250,11 @@ A favorable emergence profile is only clinically useful if it survives the trans
 - **Abutment height and shape are not independent — they interact.** Seijas Naya 2025 shows that the height axis works in *opposite* directions depending on abutment shape: taller concave abutment → less MBL; taller straight abutment → more MBL (interaction p<0.01). This resolves an apparent inconsistency in the literature and means the three variables (height, angle, shape) form a single interacting system rather than independent additive risks. The practical corollary: select a concave abutment *before* increasing height, or a height increase may backfire.
 - **The long-term durability of the height advantage is now supported.** Muñoz 2025 (7 years, n=63) confirms that the MBL benefit of a taller abutment (1 mm vs 3 mm) seen at 12 months persists across 7 years (p<0.001). The peri-implantitis prevention signal (3.2% vs 18.2%) is numerically large but statistically unresolved due to ~43% dropout — a longer, adequately powered RCT is needed.
 - **Evidence caveats.** Wang and Canullo are abstract-only/short-term; Ruhstorfer is qualitative (no MA, 5 small studies); Siegenthaler's absolute recession magnitudes are near probe error; Muñoz 2025 is underpowered for peri-implantitis (~43% dropout); Seijas Naya 2025 has no control arm and small n. The *direction* (favor concave/low-angle/tall design, customize early, ignore surface/disconnection) is consistent; precise effect sizes are not fully nailed down.
+
+- **The zenith gives the shape axis a target, and position comes before contour (added 2026-11-21).** Sub-axes (c)–(e) tune the contour; sub-axis (f) says where it should place the margin (natural-tooth zenith values) and shows that the contour can only do so when the implant sits inside a zenith-referenced window (Park 2024) over enough mid-level facial bone (Carranza 2016). The convex-contour exception (Chu 2019) is a position-driven exception, consistent with — not contrary to — Siegenthaler's recession data.
+- **Calazans Neto 2026 lowers confidence in "concave beats straight", not in "avoid convex".** Its null pooled result conflicts with Seijas Naya 2025 and Liu 2025 on related contrasts, but its "straight" category includes convex, linear, and cylindrical designs. The evidence that convex profiles harm the margin (Siegenthaler RCT, Atieh SR+MA) is untouched; the advantage of concave over linear is now contested.
+- **Connection changes bone but not demonstrably the zenith.** Cooper 2021's 5-year three-arm RCT separates the two: conical interfaces lost far less bone, yet the zenith barely moved in any arm. Farronato 2020's 1-year zenith-dimension difference is methodologically weak, and Benli 2026's PS-esthetic SR has no pooled estimate. Bone and mucosal-margin outcomes should not be assumed to move together.
+- **Zenith evidence is low-tier.** The natural-tooth values come from small cross-sectional samples (SR+MA at very-low GRADE); the contour lever and conditioning technique are expert opinion; Park 2024 used subjective wax-up grading; five of the fourteen added papers are abstract-only. Use the zenith values as design defaults, not thresholds.
 
 ### Clinical decision
 
@@ -204,10 +274,30 @@ A favorable emergence profile is only clinically useful if it survives the trans
 - Prefer a **customized (anatomically shaped) healing abutment** when you want the emergence profile contoured during healing — especially immediate placement in esthetic sites or large posterior sockets — to reduce delivery-time compressive pain and streamline the (digital) workflow; there is no measured biological/esthetic downside (Ruhstorfer 2024).
 - Do **not** rely on **abutment surface modification** to control plaque, bleeding, or pocket depth — it is not a reliable lever (Canullo 2020).
 
+**Zenith target, placement, and contour sequencing (added 2026-11-21).**
+- **Plan from the zenith.** Default targets: central-incisor zenith ~1 mm distal to the crown midline, lateral ~0.4 mm, canine centred; lateral zenith ~1 mm coronal to the central–canine line (Chu 2009; Martins 2024, very-low certainty). Match the contralateral tooth when it is healthy.
+- **Place inside the zenith-referenced window.** Measured from a line across the adjacent zeniths: implant facial surface 2–3 mm palatal, platform 3–4 mm apical; avoid ≤1 mm depth (Park 2024). Before extraction, read the **mid-level** facial bone on CBCT — <0.7 mm predicts >3 mm loss of the bone under the zenith (Carranza 2016) and argues for grafting or a staged approach.
+- **Set the zenith with the critical contour; free the subcritical.** Convex facial critical contour only when a palatal/incisal implant leaves the margin unsupported; flat/concave for a facial implant; undercontour the subcritical zone (Chu 2019; Su 2010). Condition the margin with the provisional before final impression (Wittneben 2013), then transfer by scanning the provisional (Mikulás 2025).
+- **Connection choice is a bone decision.** Prefer conical/PS-conical interfaces for crestal bone (Cooper 2021), but do not expect the connection to fix a zenith problem — contour and position do that.
+
 **Capturing the profile for the definitive crown.**
 - When transferring a provisional-sculpted emergence profile digitally, **scan the removed provisional (indirect method)** and superimpose it, rather than scanning the soft tissue directly after provisional removal — direct scanning loses the submucosal contour to rapid collapse (~200–500 μm immediately, up to ~1 mm within 20 min) (Mikulás 2025). If a direct scan is unavoidable, capture it within seconds. Conventional elastomeric impression with a customized coping remains the gold-standard comparator.
 
 ## Related Papers
+- [[periodontics/chu-2009-gingival-zenith-positions-levels-maxillary-anterior]] — zenith axis (f): natural-tooth zenith reference values (1 mm / 0.4 mm / centred / ~1 mm coronal)
+- [[periodontics/martins-2024-gingival-zenith-level-position-symmetry-sr-ma]] — zenith axis (f): SR+MA of zenith position/level/symmetry, very-low GRADE
+- [[periodontics/pawar-2011-gingival-zenith-redefining-esthetics]] — zenith axis (f): gingival line angle and directional asymmetry (internally inconsistent figures)
+- [[periodontics/kolte-2019-gingival-angle-zenith-angle-thickness]] — zenith axis (f): zenith angle by sex; no correlation with gingival thickness
+- [[immediate-implant/esthetic-soft-tissue/su-2010-implant-abutment-crown-contour-critical-subcritical]] — zenith lever (f): critical/subcritical contour origin
+- [[immediate-implant/esthetic-soft-tissue/gonzalez-martin-2020-contour-management-implant-restorations-emergence-profiles]] — zenith lever (f): provisional contour guidelines
+- [[implants/soft-tissue/chu-2019-restorative-emergence-profile-single-tooth-implants]] — zenith lever (f): position-conditional convex/concave rule
+- [[immediate-implant/esthetic-soft-tissue/wittneben-2013-dynamic-compression-technique-soft-tissue-conditioning]] — zenith execution (f): dynamic compression technique
+- [[implants/park-2024-horizontal-vertical-positioning-single-implants-healed-sites]] — placement (f): zenith-referenced 2–3 mm / 3–4 mm window
+- [[bone-regeneration/ridge-preservation/carranza-2016-alveolar-dimensional-changes-osseous-zenith]] — bone under the zenith (f): osseous-zenith displacement after extraction
+- [[implants/cooper-2021-abutment-interfaces-anterior-single-implants-5year-rct]] — connection axis (g): 5-y RCT, bone differs, zenith does not
+- [[implants/farronato-2020-implant-abutment-connection-buccal-zenith-rct]] — connection axis (g): buccal-zenith mucosal dimensions by connection angle
+- [[implants/soft-tissue/benli-2026-platform-switching-esthetic-outcomes-sr]] — connection axis (g): PS esthetic SR
+- [[implants/soft-tissue/calazans-neto-2026-abutment-design-peri-implant-esthetic-sr-ma]] — shape axis (d) counter-evidence: RCT-only SR+MA, no shape effect
 - [[implants/soft-tissue/canullo-2020-titanium-abutment-surface-peri-implant-tissue-ma]] — surface axis (a): SR+MA showing no short-term soft-tissue effect of titanium surface modification; establishes surface as a non-lever
 - [[implants/rios-santos-2020-one-abutment-one-time-rct]] — disconnection axis (b): RCT finding OAOT confers no bone benefit vs repeated disconnection, but height ≥2 mm does — contradicts the disconnection-avoidance rationale
 - [[implants/ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr]] — customization axis (c): SR showing customized healing abutments deliver the favorable emergence shape during healing with no downside; the delivery vehicle for the shape lever
