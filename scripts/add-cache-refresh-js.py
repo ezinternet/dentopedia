@@ -3,7 +3,8 @@
 기존 interactives/*.html 에 캐시 갱신 JS를 일괄 삽입한다.
 
 삽입 위치: </head> 바로 앞
-삽입 내용: 30분 이상 백그라운드 탭으로 있다가 복귀 시 hard-reload (visibilitychange).
+삽입 내용: 30분 이상 백그라운드 탭으로 있다가 복귀 시 hard-reload (visibilitychange)
+           + PAGE_VERSION 불일치 시 reload (OPERATIONS.md §7).
            (인덱스 ?v= 파라미터가 메인 경로를 커버하므로 직접 접근·북마크 보완용)
 
 멱등(idempotent): 이미 삽입된 파일은 스킵한다.
@@ -13,6 +14,7 @@ AUTO 도구(매 배포 재생성): 스킵한다.
 """
 import re
 import sys
+from datetime import date
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -28,6 +30,14 @@ CACHE_JS_TEMPLATE = """\
 (function(){{
   var HK='_cr_h_{key}';
   var THRESHOLD=30*60*1000;
+  /* OPERATIONS.md §7 — 콘텐츠 업데이트 시 PAGE_VERSION 범프 */
+  const PAGE_VERSION='{version}';
+  var VK='_cr_v_{vkey}';
+  try{{
+    var sv=localStorage.getItem(VK);
+    if(sv&&sv!==PAGE_VERSION){{localStorage.setItem(VK,PAGE_VERSION);location.reload(true);}}
+    else localStorage.setItem(VK,PAGE_VERSION);
+  }}catch(e){{}}
   document.addEventListener('visibilitychange',function(){{
     if(document.hidden){{
       try{{localStorage.setItem(HK,Date.now());}}catch(e){{}}
@@ -59,11 +69,12 @@ def process(path: Path) -> str | None:
     date_raw = str(fields.get("date", "")).strip()
     if date_raw.upper() == "AUTO":
         return "skipped-auto"
-    if MARKER in text:
+    if MARKER in text or "PAGE_VERSION" in text:
         return "already"
     # filename stem → safe key (alphanumeric+underscore, max 40 chars)
     key = re.sub(r"[^a-z0-9]", "_", path.stem.lower())[:40]
-    js_block = CACHE_JS_TEMPLATE.format(key=key)
+    vkey = re.sub(r"[^a-z0-9]", "_", path.stem.lower())  # VK는 잘라내지 않음(40자 절단 시 키 충돌 실측)
+    js_block = CACHE_JS_TEMPLATE.format(key=key, vkey=vkey, version=date.today().strftime('%Y%m%d') + '-v1')
     if "</head>" in text:
         new_text = text.replace("</head>", js_block + "</head>", 1)
     else:
