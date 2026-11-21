@@ -609,6 +609,9 @@ tags: []
 - [[pdrn/marenzi-2015-lprf-postextraction-socket-healing-splitmout]] — Prospective split-mouth RCT (n=26, 108 extractions): L-PRF socket filling → pain VAS 3.2 vs 4.1, mHI 4.8 vs 5.1 at 7 days; growth factor release >7 days; practical for private practice
 - [[pdrn/choi-2026-role-pdrn-musculoskeletal-biotherapy-review]] — Narrative review (Int J Mol Sci 2026, Kangwon Natl Univ): PDRN dual mechanism (A2A receptor agonism + nucleotide salvage) → anti-inflammatory, VEGF angiogenesis, collagen synthesis; OA cartilage protection, tendon repair, radiculopathy; mechanism reference for dental regeneration applications (2026)
 - [[pdrn/chmielewski-2024-aprf-oral-maxillofacial-surgery-sr]] — SR (38 articles, PRISMA): A-PRF reduces postoperative pain, enhances graft integration, improves epithelialization; growth factor release up to 10 days; large blinded RCTs lacking
+- [[pdrn/lee-2026-polydeoxyribonucleotide-and-polynucleotide-effects-in]] — 근골격계 PDRN/PN 체계적 고찰(비치과, TMJ는 7부위 중 하나): 13,267건 → 38편(임상 28·전임상 10) 포함, VAS/NRS·WOMAC/MMO 그룹 내 개선이나 그룹 간 유의성은 부위·HA 비교군에 따라 상이, GRADE 근거 확신도 low~very low, 이상반응 보고 불완전·비일관
+- [[pdrn/lee-2026-early-bone-regeneration-with-different]] — 토끼 16마리 6 mm 두개골 결손에서 3종 상용 PDRN 제형 직접 비교: 2주 골부피/조직부피비(BV/TV) PDRN-A 22.85%±0.88% vs 대조군 18.24%±3.12%, 6주 PDRN-A 25.33%±2.82%·PDRN-B 23.84%±2.25% vs 대조군 19.33%±1.94%, 조직계측학 신생골도 PDRN-A 최고 — 제형 표준화 공백을 메운 최초 head-to-head 근거(전임상·표본 수 작음).
+- [[pdrn/jeong-2026-polydeoxyribonucleotide-promotes-longitudinal-bone-growth]] — In vivo·기전 (Molecules 2026, 수컷 ICR 마우스 n=30, 경구 PDRN 5주): **비치과 cross-domain** 성장판 연구 — ZM241385가 A2AR 개입 확인, 간 JAK2-STAT5/IGF-1↑·혈청 IGF-1↑(GH·IGFBP-3 불변)·체장·성장판 두께·micro-CT 개선; 치과 위키에서는 기전 참고용, 전신 종장 성장을 치조골·임플란트 재생으로 외삽 금지.
 
 ## 즉시식립 (Immediate Implant)
 - [[immediate-implant/chen-2004-immediate-early-placement-implants-tooth-extraction]] — Chen, Wilson & Hämmerle 2004 · narrative-review · 발치 후 즉시·조기 식립의 생물학적 근거·임상 절차·결과 리뷰 (31편, IJOMI Suppl, PMID 15635942)
