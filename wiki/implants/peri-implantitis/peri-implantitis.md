@@ -2,7 +2,7 @@
 title: "임플란트·주위염 — peri-implantitis"
 authors: navigation
 year: 2026
-date: 2026-11-19
+date: 2026-11-22
 doi: N/A
 source: navigation
 category: implants/peri-implantitis
@@ -15,20 +15,20 @@ tags: [navigation, category-index, peri-implantitis]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·주위염
 > - **범위**: Peri-implantitis prevalence, risk factors, non-surgical/surgical treatment, surface decontamination, GBR for peri-implant defects
-> - **수록 논문**: 97편
+> - **수록 논문**: 98편
 
 ## Three-line Summary
 
 **Scope**: Peri-implantitis prevalence, risk factors, non-surgical/surgical treatment, surface decontamination, GBR for peri-implant defects
-**Indexed papers**: 97 papers in `wiki/implants/peri-implantitis/`.
+**Indexed papers**: 98 papers in `wiki/implants/peri-implantitis/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·주위염
-**수록 논문**: 97편
+**수록 논문**: 98편
 **하위 카테고리**: 없음
 
-## Papers in this Category (97)
+## Papers in this Category (98)
 
 | Paper |
 |---|
@@ -85,6 +85,7 @@ tags: [navigation, category-index, peri-implantitis]
 | [[kotsakis-2025-microbial-dysbiosis-titanium-release-peri-implantitis|Microbial Dysbiosis, Titanium Release, and Peri-implantitis]] |
 | [[lanzetti-2024-full-arch-prostheses-supportive-peri-implant-care|How often should implant-supported full-arch dental prostheses be removed for supportive peri-implant care to maintain peri-implant health? A systematic review]] |
 | [[lee-2025-self-powered-oxygen-microbubble|Self-Powered Oxygen Microbubble Generator for Decontamination of Anaerobic Biofilm-Fouled Bioimplants]] |
+| [[lee-2026-simultaneous-implant-placement-surgical-management|Simultaneous Implant Placement with Surgical Management of Adjacent Compromised Sites: Case Reports with 3-Year Follow-Up]] |
 | [[li-2025-inflammatory-response-dental-implant-surgery|Analysis of inflammatory response and its factors after dental implant surgery in patients with type 2 diabetes]] |
 | [[lin-2025-influence-of-prosthetic-designs|The influence of prosthetic designs on peri-implant bone loss: An AO/AAP systematic review and meta-analysis]] |
 | [[liu-2026-efficacy-of-adjunctive-antibiotics-compared|Efficacy of adjunctive antibiotics compared to non-antibiotic therapies following mechanical debridement for peri-implantitis: A systematic review and meta-analysis of randomized controlled trials]] |
