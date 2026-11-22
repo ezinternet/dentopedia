@@ -19,7 +19,7 @@ tags: [periodontics, classification, non-surgical, regeneration, spt, peri-impla
 > - 이 페이지는 `periodontics/` 27편 이상을 **6축**(분류 → 비외과 → 외과·재생 → 급성/복합병소 → 유지치료 → 치주성형)으로 묶은 spine으로, 2017 World Workshop 분류 → 단계별 치료 → 유지치료(Supportive Periodontal Therapy, SPT)의 표준 흐름을 따른다.
 > - **분류(모든 진단의 출발점)**: 2017 새 분류는 Staging I–IV(중증도) + Grading A–C(진행속도/반응성) (Papapanou 2018). 전신질환 발현·치은점막·외상성 교합도 독립축 (Jepsen 2018).
 > - **비외과 치료**: 유럽치주학회(EFP) S3 가이드라인의 단계별 표준 — 행동변화 → 치석제거·치근활택술(Scaling and Root Planing, SRP) ± 보조 → 외과 → SPT (Sanz 2020). SRP가 강한 권고, 전신 독시사이클린 추가 효과는 작음(PPD 0.2–0.4 mm).
-> - **외과·재생**: 골내결손에서 재생술은 단순 판막술 (Open Flap Debridement, OFD)보다 치주낭 깊이 (PPD)·임상부착수준 (CAL) 우위 (Stavropoulos 2021 NMA, 30 RCT; EMD 단독도 OFD 대비 CAL +1.14 mm, Miron 2026). **"병용 > 단독"은 한정해야 한다** — 법랑기질유도체 (Enamel Matrix Derivative, EMD)에 골이식을 더해도 CAL 이득은 없고(+0.05 mm, 비유의) 방사선 결손 충만만 증가(+0.80 mm, Hasuike 2024); 예외는 이종골 병용 CAL +0.79 mm (Miron 2026). 조직유도재생술 (GTR)+이식재 vs GTR 단독은 신규 직접 근거가 없어 Stavropoulos 판정이 유지된다. 5년 이상에서는 GTR의 OFD 대비 우위가 비유의(CAL 1.52 mm, p=0.06, 확실성 낮음, Wang 2025 초록). 상세: [[overviews/periodontal-regeneration-gtr-emd-intrabony-overview]].
+> - **외과·재생**: 골내결손에서 재생술은 단순 판막술 (Open Flap Debridement, OFD)보다 치주낭 깊이 (PPD)·임상부착수준 (CAL) 우위 (Stavropoulos 2021 NMA, 30 RCT; EMD 단독도 OFD 대비 CAL +1.14 mm, Miron 2026). **"병용 > 단독"은 한정해야 한다** — 법랑기질유도체 (Enamel Matrix Derivative, EMD)에 골이식을 더해도 CAL 이득은 없고(+0.05 mm, 비유의) 방사선 결손 충만만 증가(+0.80 mm, Hasuike 2024); Miron 2026 전문도 CAL +0.33 mm(95% CI 0.02–0.64)로 미미하며 출판 편향 강하게 의심·GRADE 매우 낮음 (초록의 '이종골 +0.79 mm'는 본문 결과에 없음). 조직유도재생술 (GTR)+이식재 vs GTR 단독은 신규 직접 근거가 없어 Stavropoulos 판정이 유지된다. 5년 이상에서는 GTR의 OFD 대비 우위가 비유의(CAL 1.52 mm, 95% CI −0.06~3.10, p=0.06, 확실성 낮음, Wang 2025 전문; OFD도 기저 대비 CAL 2.49 mm). 상세: [[overviews/periodontal-regeneration-gtr-emd-intrabony-overview]].
 > - **유지치료(SPT)**: 3–6개월 주기가 치아 보존에 유리하나 일률 권고 근거는 부족 → 환자 위험도(staging·grading·흡연·당뇨)별 cadence 조정.
 > - **급성 병소**: 치주농양은 배농·debridement가 1차, 항생제는 전신증상·확산 시에만 보조 (Herrera 2014/2018). 괴사성 치주질환은 숙주 면역상태로 분류.
 > - **치수치주복합병변**: 파절/천공 여부 + 치주염 동반 여부로 분류해 예후·치료 결정 (Herrera 2018); 외과 시 근관 미세수술 + 동시 GTR·이식재·유두보존 피판으로 **장력 없는 1차 폐쇄**가 make-or-break (Sharma 2014).
@@ -58,7 +58,7 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 1. **2017 새 분류 — Staging I-IV (중증도) + Grading A-C (진행속도/반응성). 모든 진단의 출발점** — Papapanou 2018 consensus. [확인]
 2. **EFP S3 guideline — 행동변화 → SRP ± 보조 → 외과 → SPT의 step-wise 표준** — Sanz 2020 (stage I-III), Herrera 2022 (stage IV). [확인]
 3. **SRP가 비수술 치료 강한 권고. 전신 doxycycline 추가 PPD 0.2-0.4 mm 감소 (효과 작음)** — Smiley 2015 가이드라인. [확인]
-4. **골내 결손 재생술이 OFD보다 PPD·CAL 유의 우위** — Stavropoulos 2021 NMA (30 RCT, 3-20y). [확인] **단, "병용이 단독 우위"는 GTR + 이식재에 한정된 간접 비교 결론이다.** EMD 축의 직접 비교(RCT 메타분석)에서는 EMD + 골이식이 EMD 단독보다 CAL·PD를 개선하지 못했다(CAL +0.05 mm, PD +0.27 mm, 비유의; 방사선 충만만 +0.80 mm — Hasuike 2024; Miron 2026도 병용 무이득, 이종골만 CAL +0.79 mm). 장기(≥5년) OFD 대비 우위도 미확정(Wang 2025, 초록만). [확인]
+4. **골내 결손 재생술이 OFD보다 PPD·CAL 유의 우위** — Stavropoulos 2021 NMA (30 RCT, 3-20y). [확인] **단, "병용이 단독 우위"는 GTR + 이식재에 한정된 간접 비교 결론이다.** EMD 축의 직접 비교(RCT 메타분석)에서는 EMD + 골이식이 EMD 단독보다 CAL·PD를 개선하지 못했다(CAL +0.05 mm, PD +0.27 mm, 비유의; 방사선 충만만 +0.80 mm — Hasuike 2024; Miron 2026 전문은 CAL +0.33 mm로 미미·근거 확실성 매우 낮음). 장기(≥5년) OFD 대비 우위도 미확정(Wang 2025, 전문). [확인]
 5. **SPT 3-6개월 cadence가 치아 보존에 유리. 일률적 권고 근거 부족 — 환자 위험 stratification 필요** — Manresa 2018 Cochrane, Farooqi 2015 SR. [확인]
 6. **급성 치주농양 — 배농·debridement 1차, 항생제는 전신증상·확산 시 보조; 괴사성 치주질환 — 숙주 면역상태로 분류; 치수치주복합병변 — 파절·천공 여부 + 치주염 동반 여부로 분류 (예후·치료 결정인자)** — Herrera 2018 (2017 World Workshop). [확인]
 7. **복합 치수치주병변의 외과 처치 — 근관 미세수술 + 동시 골이식·차폐막·유두보존 피판으로 1차 폐쇄 달성이 핵심** — Sharma 2014 narrative review. [확인]
@@ -123,8 +123,8 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 |---|---|---|
 | [[periodontics/host-modulation/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] | sr+ma (NMA, 30 RCT, 3-20y) | 골내결손 재생 — GTR+이식재·EMD+이식재가 OFD 우위. 병용 > 단독(간접 NMA) — **EMD 축은 아래 Hasuike 2024·Miron 2026이 한정** |
 | [[periodontics/hasuike-2024-enamel-matrix-derivative-monotherapy-versus]] | sr+ma (RCT 12개 연구, 12개월) | EMD + 골이식 vs EMD 단독: CAL +0.05·PD +0.27 mm 비유의, 방사선 충만 +0.80 mm만 유의 |
-| [[periodontics/miron-2026-30-years-of-enamel-matrix]] | sr+ma (67 RCT, 초록만) | EMD vs OFD CAL +1.14 mm; 골이식 병용 무이득(이종골 CAL +0.79 mm 예외); 비흡수성 차폐막이 EMD보다 PPD 1.08 mm 더 감소 |
-| [[periodontics/wang-2025-long-term-clinical-outcomes-of]] | sr+ma (17 RCT, ≥5년, 초록만) | GTR 기저 대비 CAL +3.27 mm 유지, OFD 대비 1.52 mm p=0.06 비유의, 확실성 낮음 |
+| [[periodontics/miron-2026-30-years-of-enamel-matrix]] | sr+ma (67 RCT, 전문) | EMD vs OFD CAL +1.14 mm; EMD+골이식 vs EMD CAL +0.33 mm(미미, 출판편향 의심); GTR vs EMD 전체 비유의, 비흡수성 차폐막 하위군만 PPD 1.08 mm 더 감소; GRADE 매우 낮음 |
+| [[periodontics/wang-2025-long-term-clinical-outcomes-of]] | sr+ma (17 RCT, ≥5년, 전문) | GTR 기저 대비 CAL +3.27 mm 유지, OFD 대비 1.52 mm p=0.06 비유의, 확실성 낮음 |
 | [[periodontics/nibali-2016-tooth-loss-furcation-involvement-sr-ma]] | sr+ma (21편) | 치근분지부 침범 — SPT 10-15y 발치 위험 2.21배. 3도 포함 대부분 보존 가능 |
 | [[implants/survival/roccuzzo-2022-implants-periodontitis-history-20year-prospective]] | prospective (20y) | 치주염력 임플란트 생존 81% vs 비병력 91%. SPT 순응도 결정적 |
 | [[implants/survival/marty-2024-implant-treated-periodontitis-sr-ma]] | sr+ma (10편) | 치주염력 환자 — peri-implantitis 위험 ~4.8배 |
@@ -414,7 +414,7 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 - 축 6c 시멘트질 열개 = [확인] (Liang 2025 consensus, 근거기반은 case-report 위주 Level 4) + [근거중간] (Lee 2025 cross-sectional n=445).
 - [[periodontics/jafari-2026-clinical-efficacy-of-bioactive-glass]] — 신규 2026-10-28: SR+MA (12 RCTs, 406 defects): bioactive glass alone — PD reduction MD 1.27 mm, CAL gain MD 1.49 mm; moderate–high heterogeneity; abstract only.
 
-<!-- thesis-reviewed: 2026-11-22 — axis 3 "combination > monotherapy" narrowed to GTR + graft; EMD + graft adds no CAL (Hasuike 2024, Miron 2026); ≥5-y superiority over OFD unproven (Wang 2025) -->
+<!-- thesis-reviewed: 2026-11-22 — axis 3 "combination > monotherapy" narrowed to GTR + graft; EMD + graft adds no or trivial CAL (Hasuike 2024 +0.05 ns; Miron 2026 full text +0.33, very low certainty); ≥5-y superiority over OFD unproven (Wang 2025 full text) -->
 
 ## Clinical Quiz
 <!-- quiz_spec -->
