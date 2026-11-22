@@ -19,7 +19,7 @@ tags: [periodontics, classification, non-surgical, regeneration, spt, peri-impla
 > - 이 페이지는 `periodontics/` 27편 이상을 **6축**(분류 → 비외과 → 외과·재생 → 급성/복합병소 → 유지치료 → 치주성형)으로 묶은 spine으로, 2017 World Workshop 분류 → 단계별 치료 → 유지치료(Supportive Periodontal Therapy, SPT)의 표준 흐름을 따른다.
 > - **분류(모든 진단의 출발점)**: 2017 새 분류는 Staging I–IV(중증도) + Grading A–C(진행속도/반응성) (Papapanou 2018). 전신질환 발현·치은점막·외상성 교합도 독립축 (Jepsen 2018).
 > - **비외과 치료**: 유럽치주학회(EFP) S3 가이드라인의 단계별 표준 — 행동변화 → 치석제거·치근활택술(Scaling and Root Planing, SRP) ± 보조 → 외과 → SPT (Sanz 2020). SRP가 강한 권고, 전신 독시사이클린 추가 효과는 작음(PPD 0.2–0.4 mm).
-> - **외과·재생**: 골내결손에서 조직유도재생술(GTR)+이식재·법랑기질단백(EMD)+이식재가 단순 판막술(OFD)보다 PPD·임상부착수준(CAL) 우위, 병용 > 단독 (Stavropoulos 2021 NMA, 30 RCT).
+> - **외과·재생**: 골내결손에서 재생술은 단순 판막술 (Open Flap Debridement, OFD)보다 치주낭 깊이 (PPD)·임상부착수준 (CAL) 우위 (Stavropoulos 2021 NMA, 30 RCT; EMD 단독도 OFD 대비 CAL +1.14 mm, Miron 2026). **"병용 > 단독"은 한정해야 한다** — 법랑기질유도체 (Enamel Matrix Derivative, EMD)에 골이식을 더해도 CAL 이득은 없고(+0.05 mm, 비유의) 방사선 결손 충만만 증가(+0.80 mm, Hasuike 2024); 예외는 이종골 병용 CAL +0.79 mm (Miron 2026). 조직유도재생술 (GTR)+이식재 vs GTR 단독은 신규 직접 근거가 없어 Stavropoulos 판정이 유지된다. 5년 이상에서는 GTR의 OFD 대비 우위가 비유의(CAL 1.52 mm, p=0.06, 확실성 낮음, Wang 2025 초록). 상세: [[overviews/periodontal-regeneration-gtr-emd-intrabony-overview]].
 > - **유지치료(SPT)**: 3–6개월 주기가 치아 보존에 유리하나 일률 권고 근거는 부족 → 환자 위험도(staging·grading·흡연·당뇨)별 cadence 조정.
 > - **급성 병소**: 치주농양은 배농·debridement가 1차, 항생제는 전신증상·확산 시에만 보조 (Herrera 2014/2018). 괴사성 치주질환은 숙주 면역상태로 분류.
 > - **치수치주복합병변**: 파절/천공 여부 + 치주염 동반 여부로 분류해 예후·치료 결정 (Herrera 2018); 외과 시 근관 미세수술 + 동시 GTR·이식재·유두보존 피판으로 **장력 없는 1차 폐쇄**가 make-or-break (Sharma 2014).
@@ -36,7 +36,7 @@ tags: [periodontics, classification, non-surgical, regeneration, spt, peri-impla
 
 ## Three-line Summary
 
-Decision ladder synthesizing 27+ periodontics/ papers across 6 axes: (1) 2017 World Workshop Staging I–IV × Grading A–C classification; (2) non-surgical SRP ± adjunct (EFP S3 step-wise); (3) surgical/regeneration (GTR+graft/EMD+graft > OFD, Stavropoulos 2021 NMA, 30 RCTs); (4) SPT at 3–6-month cadence risk-stratified; (5) acute/combined lesions; (6) mucogingival surgery.
+Decision ladder synthesizing 27+ periodontics/ papers across 6 axes: (1) 2017 World Workshop Staging I–IV × Grading A–C classification; (2) non-surgical SRP ± adjunct (EFP S3 step-wise); (3) surgical/regeneration (regeneration > OFD at ~1 year, Stavropoulos 2021 NMA; adding a graft to EMD gives no CAL gain, Hasuike 2024; ≥5-year superiority over OFD unproven, Wang 2025); (4) SPT at 3–6-month cadence risk-stratified; (5) acute/combined lesions; (6) mucogingival surgery.
 
 SRP is strongly recommended; systemic doxycycline adds only 0.2–0.4 mm PPD beyond SRP; SRP lowers HbA1c ~0.4–0.6% (Simpson 2022 Cochrane) and cardiovascular markers; periodontitis history raises peri-implantitis risk ~4.8×.
 
@@ -44,7 +44,7 @@ Extended axes added: RA↔periodontitis bidirectional connection (Dolcezza 2024 
 
 ## 세줄요약
 
-치주치료 6축 — ①2017 분류(Staging I–IV × Grading A–C) ②비외과 치료(SRP ± 보조, EFP S3 단계별) ③외과·재생(GTR/EMD+이식재, NMA 우위) ④유지치료(Supportive Periodontal Therapy, SPT) ⑤급성/복합 병소 ⑥치주성형술(APF/FGG/CTG).
+치주치료 6축 — ①2017 분류(Staging I–IV × Grading A–C) ②비외과 치료(SRP ± 보조, EFP S3 단계별) ③외과·재생(재생술 > OFD; EMD는 단독이 기본, 골이식 추가는 CAL 무이득) ④유지치료(Supportive Periodontal Therapy, SPT) ⑤급성/복합 병소 ⑥치주성형술(APF/FGG/CTG).
 
 SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소); SRP가 당뇨 HbA1c ~0.4–0.6% 감소(Simpson 2022 코크란)·심혈관 위험표지자 감소; 치주염력이 임플란트 주위염(peri-implantitis) 위험 ~4.8배.
 
@@ -58,7 +58,7 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 1. **2017 새 분류 — Staging I-IV (중증도) + Grading A-C (진행속도/반응성). 모든 진단의 출발점** — Papapanou 2018 consensus. [확인]
 2. **EFP S3 guideline — 행동변화 → SRP ± 보조 → 외과 → SPT의 step-wise 표준** — Sanz 2020 (stage I-III), Herrera 2022 (stage IV). [확인]
 3. **SRP가 비수술 치료 강한 권고. 전신 doxycycline 추가 PPD 0.2-0.4 mm 감소 (효과 작음)** — Smiley 2015 가이드라인. [확인]
-4. **골내 결손 재생술 (GTR + 이식재, EMD + 이식재)이 OFD보다 PPD·CAL 유의 우위. 병용이 단독 우위** — Stavropoulos 2021 NMA (30 RCT, 3-20y). [확인]
+4. **골내 결손 재생술이 OFD보다 PPD·CAL 유의 우위** — Stavropoulos 2021 NMA (30 RCT, 3-20y). [확인] **단, "병용이 단독 우위"는 GTR + 이식재에 한정된 간접 비교 결론이다.** EMD 축의 직접 비교(RCT 메타분석)에서는 EMD + 골이식이 EMD 단독보다 CAL·PD를 개선하지 못했다(CAL +0.05 mm, PD +0.27 mm, 비유의; 방사선 충만만 +0.80 mm — Hasuike 2024; Miron 2026도 병용 무이득, 이종골만 CAL +0.79 mm). 장기(≥5년) OFD 대비 우위도 미확정(Wang 2025, 초록만). [확인]
 5. **SPT 3-6개월 cadence가 치아 보존에 유리. 일률적 권고 근거 부족 — 환자 위험 stratification 필요** — Manresa 2018 Cochrane, Farooqi 2015 SR. [확인]
 6. **급성 치주농양 — 배농·debridement 1차, 항생제는 전신증상·확산 시 보조; 괴사성 치주질환 — 숙주 면역상태로 분류; 치수치주복합병변 — 파절·천공 여부 + 치주염 동반 여부로 분류 (예후·치료 결정인자)** — Herrera 2018 (2017 World Workshop). [확인]
 7. **복합 치수치주병변의 외과 처치 — 근관 미세수술 + 동시 골이식·차폐막·유두보존 피판으로 1차 폐쇄 달성이 핵심** — Sharma 2014 narrative review. [확인]
@@ -121,7 +121,10 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[periodontics/host-modulation/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] | sr+ma (NMA, 30 RCT, 3-20y) | 골내결손 재생 — GTR+이식재·EMD+이식재가 OFD 우위. 병용 > 단독 |
+| [[periodontics/host-modulation/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] | sr+ma (NMA, 30 RCT, 3-20y) | 골내결손 재생 — GTR+이식재·EMD+이식재가 OFD 우위. 병용 > 단독(간접 NMA) — **EMD 축은 아래 Hasuike 2024·Miron 2026이 한정** |
+| [[periodontics/hasuike-2024-enamel-matrix-derivative-monotherapy-versus]] | sr+ma (RCT 12개 연구, 12개월) | EMD + 골이식 vs EMD 단독: CAL +0.05·PD +0.27 mm 비유의, 방사선 충만 +0.80 mm만 유의 |
+| [[periodontics/miron-2026-30-years-of-enamel-matrix]] | sr+ma (67 RCT, 초록만) | EMD vs OFD CAL +1.14 mm; 골이식 병용 무이득(이종골 CAL +0.79 mm 예외); 비흡수성 차폐막이 EMD보다 PPD 1.08 mm 더 감소 |
+| [[periodontics/wang-2025-long-term-clinical-outcomes-of]] | sr+ma (17 RCT, ≥5년, 초록만) | GTR 기저 대비 CAL +3.27 mm 유지, OFD 대비 1.52 mm p=0.06 비유의, 확실성 낮음 |
 | [[periodontics/nibali-2016-tooth-loss-furcation-involvement-sr-ma]] | sr+ma (21편) | 치근분지부 침범 — SPT 10-15y 발치 위험 2.21배. 3도 포함 대부분 보존 가능 |
 | [[implants/survival/roccuzzo-2022-implants-periodontitis-history-20year-prospective]] | prospective (20y) | 치주염력 임플란트 생존 81% vs 비병력 91%. SPT 순응도 결정적 |
 | [[implants/survival/marty-2024-implant-treated-periodontitis-sr-ma]] | sr+ma (10편) | 치주염력 환자 — peri-implantitis 위험 ~4.8배 |
@@ -131,7 +134,7 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 | [[periodontics/demolon-2026-periodontitis-bone-loss-signaling-pathways]] | narrative-review | 치조골 소실 분자기전 — RANKL/OPG → NF-κB·JAK/STAT·MAPK·PI3K/Akt → NFATc1 수렴; "trained osteoclastogenesis"; denosumab·JAK억제제·천연화합물 치료 후보 |
 
 **임상 ladder (외과·재생·임플란트)**:
-1. **Intrabony defect 잔존** (재평가 후 PPD ≥ 6mm, 3-wall 결손) → GTR (membrane) + 이식재 (DBBM/EMD) 병용. 단독보다 NMA 우위.
+1. **Intrabony defect 잔존** (재평가 후 PPD ≥ 6mm, 골내 성분 ≥ 3 mm) → 재생술. **기본은 EMD(또는 PRF·HA 등 동등 생물학제제) 단독** — 골이식 추가는 CAL 이득이 없으므로(Hasuike 2024) 비지지형 결손의 공간 유지·방사선 충만이 목표일 때만. 차폐막 GTR(± 이식재)은 PPD 감소가 더 크고(Miron 2026) 장기 자료가 있으나 술식 민감성 비교 근거는 미보유. 상세 결정 틀은 [[overviews/periodontal-regeneration-gtr-emd-intrabony-overview]].
 2. **수평 결손** (1-wall) → 재생 불가, OFD + 보철적 보상.
 3. **Furcation Class I** — SRP + 술자 의존 보존 → SPT 3mo.
 4. **Furcation Class II-III** — 재생 시도 (특히 mandibular II) 또는 hemisection·root resection·발치 + 임플란트.
@@ -411,12 +414,14 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 - 축 6c 시멘트질 열개 = [확인] (Liang 2025 consensus, 근거기반은 case-report 위주 Level 4) + [근거중간] (Lee 2025 cross-sectional n=445).
 - [[periodontics/jafari-2026-clinical-efficacy-of-bioactive-glass]] — 신규 2026-10-28: SR+MA (12 RCTs, 406 defects): bioactive glass alone — PD reduction MD 1.27 mm, CAL gain MD 1.49 mm; moderate–high heterogeneity; abstract only.
 
+<!-- thesis-reviewed: 2026-11-22 — axis 3 "combination > monotherapy" narrowed to GTR + graft; EMD + graft adds no CAL (Hasuike 2024, Miron 2026); ≥5-y superiority over OFD unproven (Wang 2025) -->
+
 ## Clinical Quiz
 <!-- quiz_spec -->
 
 **Q1.** 깊은 골내결손(infrabony defect)이 있는 치주염 IV기 환자를 치료합니다. 단순 판막술(Open Flap Debridement, OFD)과 재생술(치조직유도재생술(GTR)+이식재 또는 법랑기질단백(EMD)+이식재) 중 이 오버뷰의 권장 선택과 근거를 설명하세요. *(근거: 축 3 — Stavropoulos 2021 NMA)*
 
-> **모범답안**: 이 오버뷰는 GTR+이식재 또는 EMD+이식재가 OFD보다 PPD·임상부착수준(CAL) 모두 유의하게 우위라고 명시한다(Stavropoulos 2021 NMA, 30 RCT, 3–20년 추적). 병용이 단독보다 우위이므로 골내결손에서 재생술 병용 프로토콜을 선택한다. 단, 단계별 치료(비외과 SRP 먼저)를 거친 후 외과를 결정하는 EFP S3 step-wise 원칙을 따른다.
+> **모범답안**: 재생술이 OFD보다 PPD·임상부착수준(CAL) 모두 유의하게 우위이므로(Stavropoulos 2021 NMA, 30 RCT, 3–20년 추적) 재생술을 선택한다. 다만 재료는 "많이 얹을수록 좋다"가 아니다 — EMD에 골이식을 더해도 CAL 이득이 없으므로(Hasuike 2024) EMD 단독을 기본으로 하고, 골이식은 비지지형 결손의 공간 유지가 필요할 때 추가한다. 5년 이상 OFD 대비 우위는 아직 확정되지 않았다고 설명한다(Wang 2025). 단, 단계별 치료(비외과 SRP 먼저)를 거친 후 외과를 결정하는 EFP S3 step-wise 원칙을 따른다.
 
 **Q2.** 치주염 Stage III Grade B로 치료 완료 후 임플란트 식립을 계획하는 환자입니다. 이 오버뷰가 제시하는 임플란트 관련 위험과 사전 조건을 설명하세요. *(근거: 전신효과·peri-implantitis 축)*
 
