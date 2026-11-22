@@ -1,0 +1,17 @@
+TITLE: CALCIUM PHOSPHATE GRAFTS COMBINED WITH GUIDED TISSUE REGENERATION IN THE TREATMENT OF PERIODONTAL BONY DEFECTS- A SYSTEMATIC REVIEW AND META-ANALYSIS.
+AUTHORS: Monireh Kouhi, Saba Yousefi, Zahra Sadat Sajadi-Javan, Erfan Sadeghi, Omid Savabi, Mohammadjavad Shirani
+JOURNAL: The journal of evidence-based dental practice {'volume': '24', 'issue': '4', 'pages': '102022'}
+DATE: {'year': '2024', 'month': 'Dec'}
+PMID: 39631969
+DOI: 10.1016/j.jebdp.2024.102022
+TYPES: ['Journal Article', 'Systematic Review', 'Meta-Analysis']
+FULL_TEXT: false (abstract-only — no PMC record)
+
+ABSTRACT
+BACKGROUND: The objective of this systematic review is to assess the clinical outcomes of intrabony and furcation defects treated using a regenerative approach with calcium phosphate (CP) grafts combined plus guided tissue regeneration (GTR) membrane in comparison to open flap debridement (OFD).
+
+METHOD: A review protocol was created under PRISMA checklist to find randomized clinical trials (RCTs) in English that compared CPs plus GTR with OFD in humans with intrabony and/or furcation defects. Both electronic and manual searches were conducted. The studied outcomes were probing pocket depth (PD) and clinical attachment level (CAL). To evaluate the treatment effect, a random effects model using restricted maximum likelihood method was performed to estimate the pooled effect size and corresponding 95% confidence interval. The quality assessment of the included studies was performed using Cochrane risk of bias tools version 5.1.0.
+
+RESULTS: Out of the 451 records identified, 7 studies were subjected to meta-analysis after discarding duplicates and excluding the studies that did not meet the inclusion criteria. While treated sites were intrabony defects in 5 papers, 2 studies focused on furcation defects. Based on the findings of the meta-analysis, the weighted mean difference (WMD) of 1.536 mm (95% CI -0.933 to 2.139) and 1.601 mm (95% CI -0.727 to 2.474) was obtained for CAL gain and PD reduction, respectively, in intrabony defects. The differences between CP grafts plus GTR groups and OFD groups for CAL gain and PD reduction were statistically significant. Similarly, for furcation defects, the application of CP grafts with GTR resulted in adjunctive advantages over OFD in terms of CAL gain (WMD of 1.807 mm; 95% CI 0.346-3.268), and PD reduction (WMD of 1.519 mm, 95% CI 1.215-4.253). The analysis on the limited number of study on furcation treatment revealed a statistically significant difference in CAL gain between CP grafts plus GTR groups and OFD groups, but a nonsignificant difference for PD reduction.
+
+CONCLUSION: The results revealed that calcium phosphate grafts combined with GTR are superior to OFD in the healing of periodontal intrabony and furcation defects, considering the limitations of the present systematic review.
