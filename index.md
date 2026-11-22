@@ -1259,6 +1259,9 @@ tags: []
 - [[periodontics/non-surgical-instrumentation/zhao-2021-the-effect-of-drug-dose]] — Zhao 2021 · sr+ma · AMX+MET 용량/기간 SR+MA — 500/500 mg 고용량 우월, 투여기간(3–10일) 차이 없음 (초록만)
 - [[periodontics/non-surgical-instrumentation/kondreddy-2025-the-effect-of-adjunctive-antimicrobial]] — Kondreddy 2025 · sr · 48 RCT(2,755명, 2010–2024): AMX/MET CAL +0.47 mm, PPD −0.30 mm; 3일=7일 요법
 - [[periodontics/non-surgical-instrumentation/sesha-2026-systemic-antibiotics-as-adjuncts-in]] — Sesha 2026 · sr+ma(umbrella) · Stage III/IV 치주염 항생제 우산리뷰 2편; CCA=52.9%; AMX+MTZ 중등도 근거; EFP S3 선택적 사용 일치
+- [[periodontics/rodriguez-2026-innovations-in-microsurgery-the-role]] — 비침습 관류영상(LSCI ~10 μm·113 fps, US 64 μm) 치주 미세수술 가설 고찰; 직접 근거 없음, 판막 거상 시 관류 50% 감소·장력≤0.1 N (DOI 10.1002/cap.70042)
+- [[periodontics/saleh-2022-impact-of-the-periodontal-phenotype-in]] — 전층점막골막판(FTF) 거상 12개월 후 인접치 골소실은 임상적으로 미미(≤0.4 mm, 수직 P=0.013, 근심 −0.31±0.30 mm), 연조직 두께 무관·기저 골 두께(>2 mm)가 재형성 좌우 (DOI 10.1002/JPER.21-0591)
+- [[periodontics/kaner-2017-early-healing-events-after-periodontal]] — 치주수술 30명(EMD/BCP 18, SCL 12) 2주 초기 치유: D1 IL-1β 39배·IL-6 39배 급증, IL-10 0.25~0.4배 감소, 플랩 열개 EMD/BCP 72% vs SCL 25%(p=0.024) (DOI 10.3390/ijms18020283)
 
 ## 보철재료 (Prosthetic Materials)
 - [[prosthetic-materials/sailer-2015-allceramic-metalceramic-fdps-survival-complication-sr]] — Sailer 2015 · sr · 전세라믹 vs 금속도재관 단단관 SR(67편, 2006–2013): LD/알루미나/지르코니아 생존율 금속도재관 동등; 도재 열등, 지르코니아 치핑↑
@@ -3682,6 +3685,8 @@ tags: []
 - [[suture-wound-closure/nobuto-2005-microvascular-response-periosteum-angiogenesis-bone]] — 성견 12마리: 점막골막판 수술 후 7·14일째 사인상 (Sinusoid) 신생혈관이 박리된 골막 혈관신을 채우며 파골/조골 활성이 병행되고, 21·28일째 혈관신은 퇴행 후 성긴 망상구조로 재구성 — 골막 박리는 단순 탈혈관화가 아니라 혈관신생 (Angiogenesis)-골 리모델링 연쇄를 유도 (abstract-only)
 - [[suture-wound-closure/nobuto-2005-microvascular-response-periosteum-3d-observation]] — 성견 9마리 점막골막판 (Mucoperiosteal Flap) 수술 후 3·5·7일 골막 (Periosteum) 혈관총의 3차원 혈관주조 (Vascular Cast) 관찰 — 3일차 싹돋움 (Sprouting)·가교 (Bridging)·내감식 (Intussusception) 신생혈관 + 혈액섬 (Blood Island) 유사 구조, 5–7일차 정맥동 모양 성숙(연속성 증가·내피 얇아짐) — 골막 박리 후 골막 혈관계의 강력한 재혈관화 능력 입증 (abstract-only)
 - [[suture-wound-closure/mclean-1995-vascular-changes-following-mucoperiosteal-flap]] — 개 4마리 형광혈관조영술 (Fluorescein Angiography): 점막골막판 거상만으로 판막 혈류 유의 감소(≥3일 지속, 치간부 7일), 혈관외 확산은 모세관내 순환보다 빨리·더 넓게 회복 — 플랩 거상 자체가 유의한 혈관 외상을 유발한다는 직접 증거 (abstract-only)
+- [[suture-wound-closure/wood-1972-alveolar-crest-reduction-following-full]] — 1972 JOP 43(3):141–144 전층판막 대 부분층판막 후 치조정 감소 역사적 논문; PDF가 출판사 랜딩페이지(4쪽)라 본문·수치 미확보(full_text:false), 인용 이정표용 (DOI 10.1902/jop.1972.43.3.141)
+- [[suture-wound-closure/fickl-2011-bone-loss-after-full-thickness-and]] — 비글견 5마리 분할구강·4개월 조직계측: 전층·부분층 판막 모두 수직골소실·파골활성 증가, 부분층이 대체로 적은 골소실(변이 큼)이나 완전 방지는 못함 (초록만, DOI 10.1111/j.1600-051X.2010.01658.x)
 
 ## 임플란트 — 수직 골증대술 (Implants: Vertical Ridge Augmentation)
 - [[implants/vertical-ridge-augmentation/alshikh-2026-titanium-mesh-peek-mesh-horizontal-ridge-rct]] — Alshikh 2026 · rct · 수평골증대(14명/28부위) prebent Ti vs 맞춤 PEEK 메시: 선형증대 동등, PEEK 골량·흡수량↑(비율흡수 ~동일)
