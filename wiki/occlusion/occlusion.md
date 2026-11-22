@@ -2,7 +2,7 @@
 title: "교합 — occlusion"
 authors: navigation
 year: 2026
-date: 2026-11-13
+date: 2026-11-22
 doi: N/A
 source: navigation
 category: occlusion
@@ -15,20 +15,20 @@ tags: [navigation, category-index, occlusion]
 > [!summary] 한국어 핵심요약
 > - **분야**: 교합
 > - **범위**: Occlusal analysis (digital/T-Scan vs articulating paper), implant occlusion, occlusal overload, occlusal scheme/adjustment
-> - **수록 논문**: 77편
+> - **수록 논문**: 79편
 
 ## Three-line Summary
 
 **Scope**: Occlusal analysis (digital/T-Scan vs articulating paper), implant occlusion, occlusal overload, occlusal scheme/adjustment
-**Indexed papers**: 77 papers in `wiki/occlusion/`.
+**Indexed papers**: 79 papers in `wiki/occlusion/`.
 
 ## 세줄요약
 
 **분야**: 교합
-**수록 논문**: 77편
+**수록 논문**: 79편
 **하위 카테고리**: 없음
 
-## Papers in this Category (77)
+## Papers in this Category (79)
 
 | Paper |
 |---|
@@ -40,6 +40,7 @@ tags: [navigation, category-index, occlusion]
 | [[biren-2025-virtual-articulator-occlusal-contacts-increased-vertical-dimension|Evaluation of relative deviations in virtual articulators for simulating occlusal contacts at increased vertical dimensions]] |
 | [[bozhkova-2021-occlusal-indicators-dental-practice-survey|Occlusal Indicators Used in Dental Practice: A Survey Study]] |
 | [[bueno-2018-cyclically-loaded-implants-loading-sessions|Bone healing response in cyclically loaded implants: Comparing zero, one, and two loading sessions per day]] |
+| [[campino-2019-association-between-traumatic-occlusal-forces|Association between traumatic occlusal forces and periodontitis: A systematic review]] |
 | [[chang-2013-impact-excessive-occlusal-load|Impact of excessive occlusal load on successfully-osseointegrated dental implants: a literature review]] |
 | [[christou-2007-three-dimensional-changes-unopposed-molars-adults|Three-dimensional changes in the position of unopposed molars in adults]] |
 | [[craddock-2004-incidence-overeruption-occlusal-interferences-unopposed|A study of the incidence of overeruption and occlusal interferences in unopposed posterior teeth]] |
@@ -90,6 +91,7 @@ tags: [navigation, category-index, occlusion]
 | [[podaropoulos-2020-progressive-static-load-overloading-dogs|The Influence of Progressive Static Load on the Ability of Dental Implants to Withstand Overloading Forces: An Experimental Study in Dogs]] |
 | [[qadeer-2023-occlusal-contacts-maximum-intercuspation-dentate|Number of occlusal contacts during maximum intercuspation in dentate adults: A systematised review]] |
 | [[rani-2024-bite-registration-materials-vertical-relationship-accuracy|Assessment of the Capability to Accurately Capture the Vertical Relationship by the Various Bite Registration Materials]] |
+| [[risciotti-2024-digital-protocol-to-record-occlusal|Digital Protocol to Record Occlusal Analysis in Prosthodontics: A Pilot Study]] |
 | [[romanos-2003-bone-implant-interface-loading-conditions-monkey|Bone-Implant Interface Around Titanium Implants Under Different Loading Conditions: A Histomorphometrical Analysis in the Macaca fascicularis Monkey]] |
 | [[rovira-lastra-2026-articulating-paper-accuracy-occlusal-points|Clinical Strategies to Improve the Accuracy of Articulating Paper for Detecting Occlusal Contact Points in Adults with Natural Dentitions]] |
 | [[sadowsky-2019-occlusal-overload-dental-implants-review|Occlusal overload with dental implants: a review]] |
