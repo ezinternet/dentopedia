@@ -2,7 +2,7 @@
 title: "Overview: Esthetic-Zone Soft Tissue & Immediate Provisionalization in Immediate Implants"
 type: synthesis
 category: overviews
-date: 2026-07-29
+date: 2026-11-22
 source_papers:
   - wiki/immediate-implant/esthetic-soft-tissue/buser-2017-implant-placement-timing-post-extraction-esthetic.md
   - wiki/immediate-implant/esthetic-soft-tissue/evans-2008-esthetic-outcomes-immediate-implant.md
@@ -21,6 +21,8 @@ source_papers:
   - wiki/immediate-implant/esthetic-soft-tissue/cosyn-2026-buccal-dehiscence-morphotype-regenerative-strategy-iip.md
   - wiki/immediate-implant/esthetic-soft-tissue/zadikian-2026-open-healing-immediate-implant-mucosa.md
   - wiki/immediate-implant/esthetic-soft-tissue/wu-2026-immediate-provisionalization-natural-crown-frc.md
+  - wiki/immediate-implant/esthetic-soft-tissue/wang-2026-immediate-restoration-bone-remodeling-esthetic-rct.md
+  - wiki/immediate-implant/esthetic-soft-tissue/chu-2015-flapless-postextraction-socket-implant-placement-part2.md
   - wiki/immediate-implant/esthetic-soft-tissue/nechita-2026-guided-provisionalization-emergence-profile-esthetic-zone.md
   - wiki/immediate-implant/esthetic-soft-tissue/staas-2026-fiipp-palatal-position-cbct-3year.md
   - wiki/immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp.md
@@ -62,6 +64,7 @@ tags: [palatal-positioning, sagittal-root-position, emergence-angle, placement-t
 > - **즉시 임시수복(immediate provisionalization)의 가치 — 선형지표만 보면 과소평가**: 생존율은 안 바꾸지만(~97% 동등) **연조직 윤곽·유두·emergence profile 보존**에 유리. 단, 선형 변연레벨 지표로는 치유지대주와 유의차 없을 수 있고(Chan 2019 RCT, n=40), 체적 분석으로 보면 즉시보철군이 협측 부피 손실을 유의하게 줄인다(11.9% vs 17.4%, P=0.04; Wang 2020). **선형으로 null ≠ 심미적으로 동등** — 측정 방법이 결론을 바꿀 수 있다.
 > - **즉시보철의 유두 이득**: 기존 RCT에서 선형 변연레벨 차이가 없어도 유두 높이(Papillary Height, PH)에는 즉시보철이 유의한 이점(MD −0.519 mm, P=0.028; Kinaia 2017 SR+MA). 협측 생체형이 두꺼울수록 MFR도 유의하게 줄어든다(MD −0.478 mm, P<0.001).
 > - **임시수복의 전제조건**: 충분한 일차안정성(보통 ≥35 N·cm 또는 임플란트안정지수 ISQ ≥70). 안정성이 부족하면 비-임플란트지지 대안(자연치관+섬유강화복합 FRC 스플린트)으로 PES 유지 가능(9.0 vs 6.3, p=0.005) (Wu 2026).
+> - **[2026-11-22] 비임플란트지지 임시보철이 해가 없음을 RCT로 확인**: 외상성 상악 전치 즉시식립에서 자연치관+FRC 고정 즉시수복은 지연수복과 경부 골변화(P=0.878)·ISQ(75.6 vs 74.1)·생존(100%)이 같았다(Wang 2026, n=20). 연조직 이득은 입증되지 않았다. 갭 골이식과 임시보철을 함께 쓰면 협측 연조직이 ~1 mm 두꺼웠지만 후향·모형 측정이다(Chu 2015, 45 소켓). [확인]
 > - **결합조직이식(Connective Tissue Graft, CTG/SCTG)의 효과**: 정중협측 퇴축을 줄이고(~0.4–0.7 mm 보존; Seyssens 2021) 협측조직두께·PES를 높이며(상피하 SCTG: 두께 +0.74 mm, PES +0.79; Aldhohrah 2022), 1년 RCT에서 부피손실을 ~5배 감소(퇴축 −0.74 mm vs 골이식 −0.98, 맞춤치유지대주 단독 −1.54; Fettouh 2024). CTG의 이득은 협측 collapse 감소(2–5 mm 구간)에 집중되며, 중안모 치은연(Mid-facial Gingival Margin) 위치 자체는 CTG 유무 무관하게 유사하게 이동함 (Jiang 2020 RCT, 3D CBCT). 단 RCT-only 합성에서는 협측 치은레벨 차이가 비유의 경향(Torra-Moneny 2024) — CTG는 레벨을 '증가'보다 '유지'시킨다. Lambert 2025 SR(11 RCT/CCT)에서도 CTG는 정중협측 퇴축 −0.38 mm(유의)로 감소하나 핑크심미점수(PES)·환자보고결과(Patient-Reported Outcomes, PRO)에는 유의차 없음 — 퇴축 보존과 심미점수 향상은 서로 다른 축.
 > - **CTG는 두께가 얇을 때 우선**: 네트워크 메타분석에서 연조직두께(Soft Tissue Thickness, STT)를 유의하게 늘린 것은 CTG뿐이나 대부분 재료간 차이는 비유의; 단층 이종 콜라겐 매트릭스가 PES 순위 1위 — 얇은 케이스만 CTG, 그 외엔 대체재로 충분 (Azadi 2025). DBBM+콜라겐(DBBM+C) 소켓이식도 즉시 임시수복과 병행 시 연조직 높이 및 협설측 골폭 유의 보존 (Girlanda 2019 RCT).
 > - **협측 간극(buccal gap) 관리가 경조직의 핵심**: 간극 >2 mm는 Type 1A 생존을 +3.1 PP 올린다(근관감염 부재 +2.6 PP; Hamilton 2023). 간극은 이식재로 채우고, 열개(dehiscence) 소켓은 morphotype에 따라 재생전략을 단계화하되 Type III(열개+안면퇴축)와 인접치까지 확장된 결손은 **절대금기** (Cosyn 2026).
@@ -167,6 +170,7 @@ Assess buccal wall + biotype + infection + gap **before** committing.
 ### 3. Buccal gap — graft it (the hard-tissue lever)
 
 - A facial gap **>2 mm is favorable** (+3.1 PP survival; Hamilton 2023) and should be filled with a slow-resorbing graft (e.g., DBBM/xenograft) — gap management outweighs provisionalization for hard-tissue outcome (Pitman 2022).
+- **Graft + provisional together look additive for soft tissue** (Chu 2015, retrospective, 45 flapless anterior sockets): grafted sites had thicker facial mucosa at the gingival third (2.90 vs 2.28 mm, P<.008). Provisionalized sites had thicker gingiva (2.81 vs 2.37 mm). Graft plus provisional versus neither gave the largest difference (3.09 vs 2.03 mm), but that comparison was not significant. The net ~1 mm gain sits above the 2 mm masking threshold. This is cast-measured, without baseline thickness, and so hypothesis-generating. It agrees in direction with the Pitman 2022 hard-tissue ranking (gap graft first, provisional second).
 - For dehisced sockets, match graft + barrier to morphotype-tiered regenerative potential (Cosyn 2026): modified trimodal (barrier omitted) for high-potential, four-pillar + barrier (± composite/autogenous bone) for moderate/low.
 
 ### 4. Soft-tissue graft — CTG or not? (the thin-phenotype lever)
@@ -179,7 +183,7 @@ Assess buccal wall + biotype + infection + gap **before** committing.
 ### 5. Provisionalize or not? (the contour/papilla lever)
 
 - **Primary stability adequate (≈≥35 N·cm / ISQ ≥70)** → place an immediate **non-occlusal** screw-retained provisional to shape emergence profile and support papillae (Kan 2003, Pitman 2022, Qin 2023). Survival is unchanged; the gain is soft-tissue contour.
-- **Primary stability inadequate** → use a non-implant-supported provisional (natural crown + FRC splint; Wu 2026) or a customized healing abutment / open-healing seal — open healing matches primary closure for MML and favors the mesial papilla (Zadikian 2026).
+- **Primary stability inadequate** → use a non-implant-supported provisional (natural crown + FRC splint; Wu 2026, and now a comparative RCT: Wang 2026, n=20 traumatic anterior maxilla — bone change at the implant neck P=0.878, ISQ 75.6 vs 74.1, P=0.271, survival 100% in both arms versus conventional delayed restoration) or a customized healing abutment / open-healing seal — open healing matches primary closure for MML and favors the mesial papilla (Zadikian 2026).
 - **Guided/digital workflow** → guide-delivered (even indexless) provisionals are feasible with favorable 1-yr tissue stability (Nechita 2026).
 - **Always keep the provisional out of occlusion**; immediate functional occlusal loading is a separate, higher-risk decision (excluded from the soft-tissue evidence base; Zadikian 2026).
 
@@ -190,7 +194,7 @@ Assess buccal wall + biotype + infection + gap **before** committing.
 - **Substitute vs autograft.** Whether xenogeneic collagen matrices truly equal CTG for long-term level (not just PES) needs powered head-to-head RCTs.
 - **Dehiscence framework is unvalidated.** Cosyn 2026's 11-morphotype → 3-strategy scheme is conceptual; it needs prospective CBCT/histology/outcome validation before it can be a standard.
 - **Open healing evidence is shallow and short.** Zadikian 2026 is ~92% anterior, intact-wall, mostly ≤6-month follow-up — long-term and compromised-socket data are missing.
-- **Provisionalization alternatives are exploratory.** Wu 2026 (n=20) and Nechita 2026 (n=20, single-arm, 95% female) are feasibility signals, not comparative proof.
+- **Provisionalization alternatives are exploratory.** Wu 2026 (n=20) and Nechita 2026 (n=20, single-arm, 95% female) are feasibility signals. Wang 2026 (n=20 RCT, 4–5 months) now shows that the FRC-splinted native crown does no harm to early bone remodeling or ISQ. It does not show a soft-tissue *benefit*, and it is pilot-scale. Short-term non-inferiority is supported; long-term superiority is not.
 - **Severe pre-existing bone loss forcing palatal placement *beyond* the studied protocol is not directly evidenced.** Every palatal-positioning paper here (Evans 2008, Cosyn 2026, Staas 2026) studies a *deliberate, modest* offset (≤2–4 mm) applied to an otherwise adequate ridge — none studies the rescue scenario where severe pre-existing labial/buccal bone loss forces a substantially deeper palatal shift. In that scenario, prognosis likely depends more on remaining labial bone thickness (Yang 2019) and final prosthetic emergence-angle design (Wang 2022) than on the position decision itself, but no paper in this synthesis tests the extreme-shift scenario head-to-head against staged augmentation (e.g., GBR then ideally-positioned implant) — a real decision this wiki cannot yet adjudicate.
 - **Volumetric outcome reporting is rare and underused.** Chan 2019 and Wang 2020 (same cohort) demonstrate that linear metrics and volumetric metrics on identical patients can yield opposite conclusions. The broader evidence base relies almost entirely on 2D/linear measures, meaning clinically relevant contour-preservation benefits of interventions (provisionalization, CTG) may be systematically underestimated in pooled analyses. Future reviews should require volumetric outcome reporting as a pre-specified endpoint.
 - **CTG decoupling is under-explored.** Jiang 2020 shows CTG reduces buccal tissue collapse but not mid-facial gingival margin migration — a distinction absent from most CTG trials. This means "volume" and "margin level" should be tracked as separate outcomes, not assumed to move together. No trial has prospectively powered on both endpoints simultaneously.
@@ -198,6 +202,11 @@ Assess buccal wall + biotype + infection + gap **before** committing.
 
 ## Related Papers
 
+
+### 신규 통합 (2026-11-22) — 비임플란트지지 임시보철 RCT·이식+임시보철 연조직
+
+- [[immediate-implant/esthetic-soft-tissue/wang-2026-immediate-restoration-bone-remodeling-esthetic-rct]] — RCT (n=20, 외상성 상악 전치): 자연치관+섬유강화 복합레진 (Fiber-Reinforced Composite, FRC) 고정 즉시수복 vs 지연수복 — 경부 골변화(P=0.878)·ISQ(75.6 vs 74.1) 무차이, 양군 생존 100%. Wu 2026 타당성 신호를 비교 근거로 보강 (해 없음 확인, 이득 미입증).
+- [[immediate-implant/esthetic-soft-tissue/chu-2015-flapless-postextraction-socket-implant-placement-part2]] — 후향 (45 소켓): 무절개 즉시식립에서 갭 골이식은 협측 점막 두께(2.90 vs 2.28 mm), 임시보철은 치은 두께(2.81 vs 2.37 mm) 증가; 병용 시 ~1 mm 순증가 (병용 vs 무처치는 비유의). 석고모형 측정·기저치 없음.
 
 ### 신규 통합 (2026-07-29) — 식립시기·즉시보철 체적분석·CTG 해리·DBBM+C·생체형 정량화
 
