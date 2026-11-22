@@ -2,7 +2,7 @@
 title: "치주치료 — periodontics"
 authors: navigation
 year: 2026
-date: 2026-11-21
+date: 2026-11-22
 doi: N/A
 source: navigation
 category: periodontics
@@ -16,21 +16,21 @@ tags: [navigation, category-index, periodontics]
 > - **분야**: 치주치료
 > - **범위**: Periodontal disease, classification, regeneration/root-coverage, SPT, periodontal-systemic links, general periodontics not covered by a subcategory.
 > - **하위 카테고리**: [[host-modulation]] · [[non-surgical-instrumentation]] · [[oral-hygiene-instruction]]
-> - **수록 논문**: 86편
+> - **수록 논문**: 90편
 
 ## Three-line Summary
 
 **Scope**: Periodontal disease, classification, regeneration/root-coverage, SPT, periodontal-systemic links, general periodontics not covered by a subcategory.
-**Indexed papers**: 86 papers in `wiki/periodontics/`.
+**Indexed papers**: 90 papers in `wiki/periodontics/`.
 **Sub-categories**: [[host-modulation]], [[non-surgical-instrumentation]], [[oral-hygiene-instruction]]
 
 ## 세줄요약
 
 **분야**: 치주치료
-**수록 논문**: 86편
+**수록 논문**: 90편
 **하위 카테고리**: host-modulation, non-surgical-instrumentation, oral-hygiene-instruction
 
-## Papers in this Category (86)
+## Papers in this Category (90)
 
 | Paper |
 |---|
@@ -72,6 +72,7 @@ tags: [navigation, category-index, periodontics]
 | [[gualtieri-2025-mcaf-gingival-recession-sr-ma|Modified Coronally Advanced Flaps: A Systematic Review and Meta-Analysis]] |
 | [[hajaj-2025-marginal-tooth-preparation-periodontal-health|Influence of Marginal Tooth Preparation Designs on Periodontal Health and Long-Term Stability: A Narrative Review]] |
 | [[hamasni-2017-biologic-width-restorative-dentistry|Comparison of the Clinical Biological Width with the Published Standard Histologic Mean Values]] |
+| [[hasuike-2024-enamel-matrix-derivative-monotherapy-versus|Enamel matrix derivative monotherapy versus combination therapy with bone grafts for periodontal intrabony defects: An updated review]] |
 | [[he-2023-demystifying-connection-between-periodontal|Demystifying the Connection Between Periodontal Disease and Chronic Kidney Disease - An Umbrella Review]] |
 | [[herrera-2014-acute-periodontal-lesions|Acute periodontal lesions]] |
 | [[herrera-2018-acute-periodontal-lesions-periodontal-abscesses|Acute periodontal lesions (periodontal abscesses and necrotizing periodontal diseases) and endo-periodontal lesions]] |
@@ -87,6 +88,7 @@ tags: [navigation, category-index, periodontics]
 | [[joseph-2024-systematic-review-meta-analysis-randomized|Systematic review and meta-analysis of randomized controlled trials evaluating the efficacy of non-surgical periodontal treatment in patients with concurrent systemic conditions]] |
 | [[jung-2019-periodontitis-spt-disease-progression-sr|Disease Progression in Periodontitis Patients After Treatment with Supportive Periodontal Therapy: A Systematic Review]] |
 | [[kolte-2019-gingival-angle-zenith-angle-thickness|Assessment and correlation of gingival angle, gingival zenith angle, and gingival thickness: a cross-sectional study]] |
+| [[kouhi-2024-calcium-phosphate-grafts-combined-with|Calcium Phosphate Grafts Combined With Guided Tissue Regeneration in the Treatment of Periodontal Bony Defects: A Systematic Review and Meta-Analysis]] |
 | [[kwon-2021-current-concepts-management-periodontitis|Current Concepts in the Management of Periodontitis]] |
 | [[lamichhane-2025-crown-margins-marginal-adaptation-periodontal|Comparison of periodontal status between abutment and non-abutment teeth in patients with fixed dental prosthesis]] |
 | [[lee-2025-prevalence-classification-factors-cemental-tears|Prevalence, Classification and Factors Associated With Cemental Tears—A Retrospective Observational Cross-Sectional Study in a Postgraduate Endodontic Clinic]] |
@@ -95,6 +97,7 @@ tags: [navigation, category-index, periodontics]
 | [[manresa-2018-supportive-periodontal-therapy-cochrane-sr|Supportive periodontal therapy (SPT) for maintaining the dentition in adults treated for periodontitis]] |
 | [[martins-2024-gingival-zenith-level-position-symmetry-sr-ma|Gingival zenith level, position, and symmetry: A systematic review and meta-analysis]] |
 | [[maybodi-2022-periodontal-treatment-sle-disease-activity-rct|Effect of periodontal treatment on serum inflammatory parameters and disease activity in patients with systemic lupus erythematosus: A randomized controlled trial]] |
+| [[miron-2026-30-years-of-enamel-matrix|30 Years of Enamel Matrix Derivative (EMD): Biological Foundations and Systematic Review With Meta-Analyses Across Multiple Clinical Indications]] |
 | [[mucogingival-surgery-apf-fgg-ctg|치주성형 술식 — APF · FGG · CTG 구분과 적응증]] |
 | [[murugaiyan-2024-porphyromonas-gingivalis-strains-periodontal|Defining Porphyromonas gingivalis strains associated with periodontal disease]] |
 | [[nibali-2016-tooth-loss-furcation-involvement-sr-ma|Tooth loss in molars with and without furcation involvement – a systematic review and meta-analysis]] |
@@ -116,6 +119,7 @@ tags: [navigation, category-index, periodontics]
 | [[srimaneepong-2022-fixed-prosthetic-restorations-periodontal-health|Fixed Prosthetic Restorations and Periodontal Health: A Narrative Review]] |
 | [[stahli-2024-clinical-evaluation-novel-protocol-supportive|Clinical evaluation of a novel protocol for supportive periodontal care: A randomized controlled clinical trial]] |
 | [[tsilingaridis-2026-biofilm-induced-gingivitis-children-adolescents|Dental Biofilm–Induced Gingivitis in Children and Adolescents Without Known Systemic Involvement: A Systematic Review]] |
+| [[wang-2025-long-term-clinical-outcomes-of|Long-term clinical outcomes of periodontal regeneration of intrabony defects: A systematic review and meta-analysis]] |
 | [[wang-2026-long-term-periodontal-peri-implant-tissue-stability|Long-term periodontal and peri-implant tissue stability under supportive therapy]] |
 | [[watanabe-2025-prgf-vs-prp-gingival-epithelial|A Comparative Analysis of Cell Proliferation and Wound Closure in Cultured Gingival Epithelial Cells Using Plasma Rich in Growth Factors and Platelet-Rich Plasma Containing Leukocytes]] |
 | [[yang-2020-new-classification-system-periodontal-peri-implant|The New Classification System for Periodontal and Peri-implant Diseases and Conditions: A Review of the 2017 Workshop]] |
