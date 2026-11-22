@@ -63,6 +63,9 @@ PRISMA-guided electronic and manual search for RCTs of regeneration in intrabony
 | GTR vs OFD | CAL 1.52 mm (95% CI 0.06-3.10), p = 0.06; PD 0.89 mm (95% CI 0.22-1.99), p = 0.115 |
 | Certainty | Low for CAL and PD; high for recession |
 
+> [!warning] Abstract internal inconsistency (noted 2026-11-22)
+> The GTR-vs-OFD 95% CIs as printed in the abstract (CAL 0.06–3.10; PD 0.22–1.99) exclude zero, yet the reported p-values (0.06; 0.115) are non-significant. One of the two is likely a transcription error in the abstract; verify against the full text before citing either number as decisive.
+
 ## Related Papers
 - [[periodontics/host-modulation/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — NMA reporting regenerative superiority over OFD; this review shows the OFD contrast is not conclusive at ≥5 y
 - [[periodontics/miron-2026-30-years-of-enamel-matrix]] — EMD adds 1.00 mm PPD and 1.14 mm CAL over OFD in intrabony defects (shorter-term pooled RCTs)
