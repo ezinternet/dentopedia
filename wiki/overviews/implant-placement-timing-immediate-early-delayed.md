@@ -2,7 +2,7 @@
 title: "Implant Placement Timing — Immediate vs Early vs Delayed (ITI Type 1–4)"
 authors: Synthesis (Claude)
 year: 2026
-date: 2026-11-17
+date: 2026-11-22
 doi: N/A
 source: synthesis
 category: overviews
@@ -18,6 +18,7 @@ tags: [overview, placement-timing, immediate-implant, early-placement, delayed-i
 > [!summary] 한국어 핵심요약
 > - 발치 후 식립 시점을 ITI 분류(Chen & Buser)로 본 통합 페이지 — Type 1 즉시(당일), Type 2 조기(연조직 치유, 4–8주), Type 3 조기(부분 골치유, 12–16주), Type 4 지연(≥6개월).
 > - 핵심 질문은 생존율이 아니라(전 시점 높음) **치료시간/내원횟수 vs 심미·생물학적 위험의 trade-off**.
+> - **[2026-11-22] 분류의 기원 연결**: Chen 2004(서술 리뷰, 31편)는 이 페이지가 쓰는 Type 1–4 용어의 원전이다. 당시에도 단기 생존은 시점과 무관했고 ≤2 mm 수평 결손은 자연 충전됐다. 다만 장기 연조직·심미 근거가 없다고 명시했다. 명제 1(생존은 시점 무관)은 2004년부터 일관되고, 쟁점이 심미·위험 분배로 옮겨간 배경이다. [확인]
 > - 명제 1 — 선택된 증례에서 생존율은 시점 무관(timing-agnostic). **[2026-09-14 신규] Yang 2026 RCT(n=220, 1년)에서 즉시 95.45% vs 지연 92.73%(P=0.391) — 확인.** 단 즉시군이 분홍 심미 점수 (Pink Esthetic Score, PES) +0.84, 백색 심미 점수 (White Esthetic Score, WES) +0.55, 구강건강영향지수 14 (Oral Health Impact Profile-14, OHIP-14) -0.95(낮을수록 좋음, 즉시 우위) 모두 P<0.001로 유의하게 우수 — 생존율 동등 + 삶의 질 즉시 우위.
 > - **[2026-11-17 신규] 명제 1에 대한 실세계 반론(Findler 2026, 국가 코호트 158,824개)**: 선별된 RCT와 달리 전국 등록자료에서는 **즉시식립이 독립 실패 위험인자**(실패 3.08% vs 조기/지연 2.07%, 오즈비(Odds Ratio, OR) 1.487, p<0.000)였고 실패의 70%가 1년 내. 즉시식립 자체가 위험을 높인다는 Tonetti 2017·Esposito 2010의 방향과 같은데, "선택된 증례" 조건이 깨지는 실세계 규모에서 그 기술 민감성이 드러남. 단 행정 코딩 설계·무작위배정 아님 — 인과 아닌 위험 연관으로 해석. [[immediate-implant/findler-2026-clinical-success-rates-of-dental]]
 > - 명제 2 — **즉시(Type 1) 식립이 위험을 집중**시킨다: Tonetti 2017 RCT(n=124)에서 즉시 vs 12주 지연 — 골증대 필요 72% vs 44%, 창상실패 26% vs 5%, 부적절 분홍심미점수(Pink Esthetic Score, PES) 42% vs 19%.
@@ -64,6 +65,7 @@ A fourth comparison — **immediate-delayed (4–8 wk soft-tissue healing only, 
 |---|---|---|---|
 | [[immediate-implant/tonetti-2017-immediate-vs-delayed-implant-timing-rct]] | rct | 124 pt, multicenter | Immediate vs 12-wk delayed: augmentation 72% vs 44%, wound failure 26% vs 5%, inadequate PES 42% vs 19% → limit immediate where esthetics matter. |
 | [[immediate-implant/bassir-2019-early-implant-placement-protocols-sr-ma]] | sr+ma | 12 studies | Early ≈ immediate/delayed for failure; early loses less MBL than immediate (WMD −0.14 mm). |
+| [[immediate-implant/chen-2004-immediate-early-placement-implants-tooth-extraction]] | narrative-review (historical) | 31 studies, MEDLINE 1990–2003 | Origin of the Type 1–4 timing vocabulary used here. Short-term survival of immediate/early ≈ healed-ridge placement; horizontal defects ≤2 mm often fill spontaneously around rough surfaces, larger ones need membrane/graft. Flags that long-term tissue and esthetic evidence was absent — the gap later RCTs (Tonetti 2017, Yang 2026) address. |
 | [[immediate-implant/esthetic-soft-tissue/buser-2017-implant-placement-timing-post-extraction-esthetic]] | narrative-review | esthetic zone | "When immediate, when early, when late?" — the canonical decision framework. |
 | [[immediate-implant/esthetic-soft-tissue/chen-2014-esthetic-outcomes-immediate-early-implant]] | (esthetic outcomes) | esthetic zone | Esthetic outcomes by timing; early placement favorable risk profile. |
 | [[immediate-implant/thoma-2026-timing-dental-implant-placement-past]] | narrative-review | — | Contemporary perspective on placement timing (past/present/future). |
@@ -104,6 +106,10 @@ A fourth comparison — **immediate-delayed (4–8 wk soft-tissue healing only, 
 ### 신규 추가 (2026-09-20)
 
 - [[immediate-implant/ron-canelos-2026-immediate-versus-delayed-dental-implant]] — **우산형 리뷰 프로토콜(PRISMA-P, BMJ Open 2026;16:e119635)**: 발치 후 즉시(Type I, ≤10일) vs 지연(Type IV, 4–6개월) 식립을 비교하는 SR들을 종합할 계획 — 결과 미공개; 이 비교의 미래 고수준 합성으로 추적 필요. (umbrella-review protocol, 2026)
+
+### 신규 추가 (2026-11-22)
+
+- [[immediate-implant/chen-2004-immediate-early-placement-implants-tooth-extraction]] — 서술 리뷰 (31편, 1990–2003): ITI 식립시기 분류의 기원 문헌. 즉시·조기 식립의 단기 생존은 치유된 치조제와 동등하고, ≤2 mm 수평 결손은 거친 표면 임플란트 주위에서 자연 충전된다. 장기 연조직·심미 근거 부재를 지적했고, 이 공백을 이후 RCT들이 채웠다. (narrative-review, 2004)
 
 ### 신규 추가 (2026-11-17)
 
