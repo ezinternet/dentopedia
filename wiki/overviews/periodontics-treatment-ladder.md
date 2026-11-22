@@ -292,7 +292,7 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 ## Phase 2 확장 후보 (Stub)
 
 - [ ] `wiki/overviews/spt-protocol-by-risk.md` — staging·grading + risk factor별 SPT cadence 깊은 lookup.
-- [ ] `wiki/overviews/periodontal-regeneration-techniques.md` — GTR · EMD · 골이식재 head-to-head NMA 분석 + 오옥시스테롤 전임상 위치.
+- [x] [[overviews/periodontal-regeneration-gtr-emd-intrabony-overview]] — GTR · EMD · 골이식재 종합 (2026-11-22 작성; 오옥시스테롤 전임상 위치는 미포함).
 - [ ] `wiki/overviews/furcation-management.md` — Furcation Class별 옵션 (보존 · hemisection · 발치+임플란트).
 - [ ] `wiki/overviews/aggressive-grade-c-protocols.md` — Grade C 빠른 진행 환자 protocol + antibiotics adjunct.
 - [ ] `wiki/overviews/endo-perio-lesion-decision.md` — 치수치주복합병변 감별·처치 lookup (축 3b 깊이 확장).
