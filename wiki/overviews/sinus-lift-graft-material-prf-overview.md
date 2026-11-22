@@ -2,11 +2,11 @@
 title: "Lateral-Window Sinus Lift — Graft Materials, PRF Adjunct and Graft Volume (Sub-overview)"
 authors: synthesis page (split from sinus-lift-lateral-2026-synthesis)
 year: 2026
-date: 2026-10-21
+date: 2026-11-22
 category: overviews
 evidence_level: synthesis
 source_collection: internal
-tags: [overview, sinus-lift, lateral-window, sub-overview, prf, dbbm, bcp, dpdtm, graft-volume, histomorphometry, network-meta-analysis, allograft, autograft, carbonate-apatite]
+tags: [overview, sinus-lift, lateral-window, sub-overview, prf, dbbm, bcp, dpdtm, graft-volume, histomorphometry, network-meta-analysis, allograft, autograft, carbonate-apatite, cgf, lllt, graft-shrinkage, sinus-width, residual-bone-height]
 source: synthesis
 relations:
   - type: extends
@@ -40,18 +40,25 @@ relations:
 > - **골유도성 인산칼슘(BCPN, 바늘형 미세표면)**: 양 모델에서 입자형보다 신생골이 많았고, 사람 RCT 10명에서 자가골과 안정성·높이·신생골이 비슷했다(van 2023, 초록만). 표면 형상이 재료 등급만큼 중요하다는 신호다. [확인]
 > - 종합 한 줄: 기본 선택은 DBBM ± PRF이고, BCP는 신생골 최대화, 동종골은 공급원 대안, dpDTM은 자가 공급원이라는 근거로 고르는 대안이다. 임플란트 결과에서 어떤 단일 재료도 우위가 입증되지 않았으며, 복합체(이종골+BMC/PRP)가 NMA 조직계측 순위에서 자가골 단독을 앞선다. [미검증]
 > - **동물 실험 추가(2026-11-10, Nam 2023, 미니피그 5마리·상악동 10개·임플란트 20개, 12주)**: 폴리카프로락톤-삼인산칼슘 (Polycaprolactone–Tricalcium Phosphate, PCL-TCP) 관형 스캐폴드에 제대 유래 중간엽 줄기세포+혈소판 풍부 혈장 (Platelet-Rich Plasma, PRP)을 실으면 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC)만 유의하게 높고(0.34 vs 0.09, P=0.016), 골용적 분율과 신생골 높이는 비유의. 20개 중 4개 실패, 모두 세포·PRP 군. **스캐폴드가 막을 지지해 동시 식립이 가능하다는 타당성 근거**이지 줄기세포나 PRP가 상악동 골을 개선한다는 증거는 아님.
+> - **[2026-11-22] 혈소판 농축물 메타분석 2편이 같은 방향**: PRF를 동종골·이종골에 섞으면 신생골 증가(Hedges' g 0.61), 잔존 이식재 감소(g −0.65), 골높이 차이 없음(Kukis 2026, RCT 4편). 농축성장인자 (Concentrated Growth Factor, CGF)도 신생골(SMD 0.94)과 골밀도(SMD 0.89)가 늘고 골높이·생존(97–100%)은 그대로였다(Sane 2026, 6편 185상동). 두 메타분석 모두 임플란트 결과로 이어진다는 근거는 없다. [확인]
+> - **저출력 레이저 치료 (Low-Level Laser Therapy, LLLT) 635 nm는 효과 없음**: 골증대 7.53 vs 7.02 mm(유의차 없음), 경미한 염증 침윤만 더 잦았다(60% vs 10%, p=0.029). 20명 탐색적 요인 RCT다(Dominiak 2026). [확인]
+> - **재료 직접 비교 RCT 4편이 모두 "차이 없음"**: 나노 하이드록시아파타이트 vs 우골(생활골 34.9 vs 38.5%; Stacchi 2017, 다기관 분할구강, 28명), 말 vs 소 이종골(신생골 22.20 vs 22.84%; Grasso 2020), 돼지 이종골 vs 자가골(골높이 8.71 vs 7.81 mm; Correia 2021, 12명), 동종골 vs 이종골(Dominiak 2026). 영상 질감 지표인 프랙탈 차원(Fractal Dimension, FD)도 동종골·이종골이 6개월에 수렴했다(Keldal 2026, 100명). 이종골 공급원·합성재 선택은 효능이 아니라 공급원·환자 선호·비용으로 정해도 된다는 기존 결론이 강화된다. [확인]
+> - **수직 이식 높이가 클수록 신생골 비율은 낮다**: 이식 높이 1 mm 증가마다 신생골 −1.56%(p=0.0023). 6개월 수축률은 이종골 7.30%로 가장 낮고 자가골 41.71%로 가장 높았다(Pesce 2021, SR RCT 21편). 술자가 통제할 수 있는 유일한 변수라 "필요한 만큼만 이식"을 지지하는 방향 신호다. [확인]
+> - **해부학이 재료만큼 신생골을 좌우**: 상악동 협구개 폭(Sinus Width, SW)이 넓을수록 신생골이 적었다(돼지 r=−0.660, 소 r=−0.614). 잔존 치조골 높이(Residual Ridge Height, RRH)는 예측인자가 아니었다(Krennmair 2025, 23상동). 잔존 해면골 비율도 약한 양의 상관을 보였다(r=0.23; Zhou 2026, 182상동). [확인]
+> - **재료 순위는 잔존골 높이(Residual Bone Height, RBH) 4 mm에서 뒤집힌다**: 네트워크 메타분석(NMA, RCT 67편)에서 RBH <4 mm은 이종골+동종골이, ≥4 mm은 자가골이 1위였다. 모든 재료가 GRADE 낮음이므로 "승자"가 아니라 "RBH에 따라 조건부로 고르라"는 근거다(Khijmatgar 2023). 2009년 메타분석(Handschel)의 "9개월 내 부하 시 자가골" 결론은 역사적 기준선이다. [확인]
+> - **잔존골 ≤5 mm에서 복합 이식재 단일군 연구 2편**: 자가골+BCP 1:1은 신생골 48.08%, 높이 증가 8.53 mm(Nathani 2025, 10명)였다. 동종골+HA/β-TCP+PRF는 신생골 31.28%(Nguyen 2026, 60부위)였다. 대조군이 없어 기술적 참고치다. 돼지 이종골 증례 3명(Spinu 2025)도 같은 수준이다. [확인]
 
 ## Three-line Summary
 
 This sub-overview holds the graft-material cluster of the parent lateral-window sinus-lift synthesis: DBBM with PRF, BCP, dpDTM, graft-volume planning, and (updated 2026-10-21) cross-class network meta-analyses (NMAs).
 PRF added to DBBM consistently raises new bone without changing ISQ; BCP outperforms DBBM histomorphometrically; dpDTM rests on one small RCT; among single materials NMA ranks autograft first, but composites (xenograft+BMC/PRP) rank above autograft alone when included.
-The defensible default remains DBBM ± PRF; BCP and allograft are evidence-supported alternatives; no single material has demonstrated implant-outcome superiority.
+The defensible default remains DBBM ± PRF; BCP and allograft are evidence-supported alternatives; no single material has demonstrated implant-outcome superiority. Fifteen papers added 2026-11-22 reinforce this: four more head-to-head RCTs are null, PRF and CGF meta-analyses repeat the histology-only benefit, LLLT adds nothing, and host-site anatomy (sinus width, graft height, RBH) conditions new bone at least as much as material choice.
 
 ## 세줄요약
 
 이 하위 종합은 모체 측방창 상악동 거상 종합의 이식재 절을 담는다: PRF를 더한 DBBM, BCP, dpDTM, 이식 용량 계획, 그리고 재료 간 네트워크 메타분석 (Network Meta-Analysis, NMA) 결과(2026-10-21 추가).
 DBBM에 PRF를 더하면 신생골이 일관되게 늘고 잔존 이식재가 줄지만 부하 시 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)는 바뀌지 않는다. 단일 재료 NMA에서 자가골이 1위이나 복합체(이종골+골수농축액 (Bone Marrow Concentrate, BMC)/PRP)를 포함하면 자가골 단독이 12위로 내려간다. 동종골은 이종골·자가골과 동등한 생존율을 보인다.
-기본 선택은 DBBM ± PRF이며, BCP와 동종골은 근거가 있는 대안이고, dpDTM은 자가 공급원이 목적인 대안이다. 임플란트 결과 우위가 입증된 재료는 없다.
+기본 선택은 DBBM ± PRF이며, BCP와 동종골은 근거가 있는 대안이고, dpDTM은 자가 공급원이 목적인 대안이다. 임플란트 결과 우위가 입증된 재료는 없다. 2026-11-22에 15편을 추가했는데 결론은 더 단단해졌다. 재료 직접 비교 RCT 4편은 모두 차이가 없었고, PRF·CGF 메타분석은 조직학적 이득만 재현했으며, LLLT는 효과가 없었다. 상악동 폭·이식 높이·RBH 같은 해부학 인자가 재료만큼 신생골을 좌우한다.
 
 ## Scope
 
@@ -124,6 +131,49 @@ What they change:
 - **Defect size changes the PRF answer.** In wide sinuses with under 3 mm of residual bone, Harlos 2022 found autograft mixing far ahead of L-PRF. The L-PRF benefit pooled by Almutairi 2025 (+7.07% new bone) comes mostly from ordinary defects. Where the defect is very large, a small autograft fraction is the better-supported addition. This also matches the Trimmel 2021 finding that composites rank high.
 - **Surface design matters within synthetics.** van 2023 shows that two BCPs with the same chemistry differ in bone formation because of submicron surface shape. Pooling "BCP" as one material (Alkandari 2025, Somngam 2025) hides this.
 
+### Fifteen more papers: adjuncts, head-to-head RCTs and host-site conditioning (2026-11-22)
+
+**A. Biologic and physical adjuncts**
+
+| Study | Design | Key result | Caveat |
+|---|---|---|---|
+| [[sinus-lift/lateral/kukis-2026-prf-modified-graft-materials-in]] | SR+MA, 4 RCTs, PRF + allograft or xenograft | New bone g 0.61 (95% CI 0.15–1.08); residual graft g −0.65; connective tissue and radiographic height NS | Absolute gains ~0.1–11.2%; no implant outcomes; one trial (Nizam) null |
+| [[sinus-lift/lateral/sane-2026-effectiveness-of-concentrated-growth-factor]] | SR+MA, 6 studies, 185 sinuses, CGF | New bone SMD 0.94 (0.30–1.57); radiographic density SMD 0.89; height gain NS (SMD −0.29); survival 97–100% | Small studies; the EHA + CGF claim is inference, not tested |
+| [[sinus-lift/lateral/dominiak-2026-bone-regeneration-sinus-augmentation-lllt-histology]] | 2×2 factorial RCT, 20 pts (n=5/arm) | LLLT 635 nm: bone gain 7.53 vs 7.02 mm (NS); mild infiltrate more frequent with LLLT (60% vs 10%, p=0.029); allograft 7.68 vs xenograft 6.87 mm (NS) | Exploratory, no power calculation, semiquantitative histology |
+
+Kukis 2026 is the third platelet-concentrate meta-analysis on this page (after Almutairi 2025 and the Zhang 2025 SR cited in the parent), and extends the finding from DBBM to allograft bases. Sane 2026 shows the same pattern for CGF. All three share the same ceiling: histology improves, and no pooled implant-level benefit has been shown. LLLT is the first physical adjunct tested here and is null.
+
+**B. Head-to-head material RCTs — all null**
+
+| Study | Comparison | New/vital bone | Note |
+|---|---|---|---|
+| [[sinus-lift/lateral/stacchi-2017-sintered-nanohydroxyapatite-vs-bovine-sinus-rct]] | Sintered nano-HA vs ABB, multicenter split-mouth, 28 pts | 34.9 vs 38.5% (p=0.428); residual graft 20.6 vs 22.3% | Prespecified null accepted; 96.4% NHA implant survival at 12 mo loading |
+| [[sinus-lift/lateral/grasso-2020-equine-vs-bovine-bone-sinus-augmentation-rct]] | Equine vs bovine mineral, 23 sinuses | 22.20 vs 22.84% (NS) | No clustering adjustment for 7 bilateral cases |
+| [[sinus-lift/lateral/correia-2021-porcine-xenograft-vs-autograft-sinus-lift-rct]] | Collagenated porcine xenograft vs mandibular autograft, split-mouth, 12 pts | Height gain 8.71 vs 7.81 mm (p=0.26); total hard tissue 56.01 vs 57.31% | No non-inferiority margin; strong patient effect |
+| [[sinus-lift/lateral/keldal-2026-trabecular-bone-remodelling-following-lateral]] | Allograft vs xenograft, retrospective, 100 pts, panoramic fractal dimension | Allograft higher at 0 and 3 mo; converged at 6 mo (p=0.107) and 1 yr (p=0.751) | Texture surrogate only; no histology |
+
+Together with Galindo-Moreno 2022 and Grasso 2020, porcine, bovine and equine xenografts now have direct RCT evidence of histological equivalence. Correia 2021 adds a small autograft comparison, which also shows no difference. Stacchi 2017 is the strongest synthetic comparison. Its prespecified null was accepted, so a nano-HA is a defensible choice for a patient who refuses animal-derived material.
+
+**C. Host-site conditioning — anatomy and graft height drive new bone**
+
+| Study | Design | Finding |
+|---|---|---|
+| [[sinus-lift/lateral/khijmatgar-2023-residual-bone-height-new-bone-sinus-nma]] | NMA, 67 RCTs / 2405 sinuses, two networks split at RBH 4 mm | RBH <4 mm: xenograft + allograft ranks first, alloplasts last. RBH ≥4 mm: autograft first, allografts last. GRADE low for every material |
+| [[sinus-lift/lateral/pesce-2021-residual-bone-height-graft-shrinkage-sinus-sr]] | SR, 21 RCTs / 533 sinuses, study-level regression | 6-month shrinkage: xenograft 7.30%, autograft 41.71% (p=0.009). New bone independent of RBH (p=0.32) but −1.56% per extra mm of graft height (p=0.0023) |
+| [[sinus-lift/lateral/krennmair-2025-varying-influence-of-maxillary-sinus]] | Retrospective, 23 sinuses, porcine vs bovine | New bone falls with sinus width (r −0.660 / −0.614) and inner contour length; residual ridge height not predictive |
+| [[sinus-lift/lateral/zhou-2026-bone-quality-resorbed-posterior-maxilla-osteogenesis]] | Retrospective, 182 sinuses, DBBM, RBH ≤4 mm | Native trabecular % correlates weakly with new bone (r=0.23, p=.04); age, healing time and radiographic type do not |
+| [[sinus-lift/lateral/handschel-2009-histomorphometric-meta-analysis-sinus-grafting]] | Histomorphometric MA, 30 studies (1995–2006) | Autograft highest total bone volume at 4–9 mo; no difference beyond 9 mo — historical baseline |
+
+**Reconciling RBH signals [미검증].** Khijmatgar finds that material *rankings* flip at RBH 4 mm. Pesce and Krennmair find that the *absolute* new-bone fraction does not track RBH. These are not contradictory. A ranking can change while the overall level stays flat. A more coherent mechanism is distance from bony walls: wide sinuses (Krennmair) and tall grafts (Pesce) both place more graft far from the osteogenic walls. Low RBH is often a proxy for a wide, pneumatized sinus. This would explain why RBH, sinus width and graft height all point the same way without RBH being an independent predictor. No included study tested this mediation directly.
+
+**Historical framing.** Handschel 2009 recommended autograft when loading is planned within 9 months. Later NMAs complicate this. Trimmel 2021 placed autograft alone 12th at 5–8 months, and Khijmatgar 2023 placed it first only when RBH is at least 4 mm. Handschel is the older, cruder evidence (pooled observational data, figures only, no numeric TBV per material). It is a baseline, not a current recommendation.
+
+**D. Single-arm composite reports (descriptive only)**
+
+- [[sinus-lift/lateral/nathani-2025-evaluation-of-the-efficacy-of]] — 1:1 local autograft + BCP (30/70), RBH ≤5 mm, 10 analysed: height 4.09 → 12.62 mm, new bone 48.08%, residual graft 24.36%. The new-bone figure is high and consistent with the autograft-composite signal in Harlos 2022 and Trimmel 2021, but the study has no comparator.
+- [[sinus-lift/lateral/nguyen-2026-histological-and-histomorphometric-assessment-of]] — 2:1 allograft + HA/β-TCP + PRF, 60 sites, RBH 2.31 mm: new bone 31.28%, residual graft 15.48%; ISQ 58.20 → 74.85; first-stage ISQ tracked RBH (r=0.626).
+- [[sinus-lift/lateral/spinu-2025-collagenated-porcine-xenograft-severe-atrophy-case-series]] — 3 patients, collagenated porcine xenograft, RBH 1.33 mm: 12.0 mm gain, new bone 20–30%, all 4 implants functional at 38–52 months.
+
 ### Synthesis [미검증]
 
 PRF (both L-PRF and A-PRF) reliably improves histomorphometric new bone formation when added to DBBM, with consistent effect across SR+MA and split-mouth RCT levels of evidence. The benefit is biologically real but does not translate to ISQ advantage at the time of loading. BCP outperforms DBBM in new bone formation and resorbability, but the clinical bottom line on implant survival requires a separate evidence base. For clinicians choosing between graft materials: BCP is a credible synthetic alternative to DBBM when maximizing histomorphometric new bone is the goal; PRF adjunction is a low-cost enhancement that consistently boosts new bone formation regardless of which xenograft base is used.
@@ -132,12 +182,20 @@ The three material families in this cluster (DBBM, BCP, dpDTM) are evidenced at 
 
 The cross-class NMAs add two important dimensions absent from the pairwise cluster: (1) across single materials, autograft consistently tops histomorphometric rankings (Somngam 2025), but composites (xenograft+BMC/PRP) outperform autograft alone when both compete in the same network (Trimmel 2021); (2) the certainty is uniformly low to very low for all NMA comparisons, so the rankings inform clinical reasoning about relative biological potential but do not mandate material choice. The cluster's real weakness remains the near-total absence of long-term bone-stability and implant-survival data stratified by graft material (Del Fabbro 2025). The defensible default remains DBBM ± PRF; BCP, allograft, and dpDTM are principled alternatives chosen for specific reasons — maximal new-bone histomorphometry (BCP), xenogenic-source avoidance without donor site (allograft or dpDTM) — rather than for demonstrated superiority in implant outcomes.
 
+**2026-11-22 update.** The 15 added papers shift the emphasis from *which material* to *which site*. Four more head-to-head RCTs (Stacchi 2017, Grasso 2020, Correia 2021, Dominiak 2026) show no histological difference. They add nano-HA and equine mineral to the list of materials equivalent to DBBM. Meanwhile, sinus width, planned graft height and RBH each condition new bone formation (Krennmair 2025, Pesce 2021, Khijmatgar 2023). The practical consequences:
+
+1. Graft no more height than the implant needs.
+2. In wide sinuses with RBH under 4 mm, consider adding a small autograft or allograft fraction to the xenograft.
+3. PRF or CGF can improve histology but should not be presented as improving implant survival.
+4. LLLT has no supporting evidence.
+
 ## Related Overviews
 
 - [[overviews/sinus-lift-lateral-2026-synthesis]] — parent synthesis
 - [[overviews/dbbm-bone-substitute-overview]] — DBBM across indications (existing sibling)
 - [[overviews/sinus-lift-membrane-material-perforation-repair-overview]] — membrane material and PRF as a membrane (sibling)
 - [[overviews/bone-graft-material-selection-matrix-overview]] — broader bone graft material matrix including CO3Ap, allogeneic blocks, and ARP evidence (updated 2026-10-21)
+- [[overviews/sinus-lift-technique-selection]] — window handling, barrier membrane and graftless options (window/membrane papers of the 2026-11-22 batch live there)
 
 ## Related Papers (added 2026-10-21)
 
