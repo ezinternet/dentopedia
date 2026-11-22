@@ -5705,3 +5705,13 @@ tags: []
 - [[implants/soft-tissue/benli-2026-platform-switching-esthetic-outcomes-sr]] — Benli 2026 · sr(24편, abstract-only) · 플랫폼 스위칭이 PES·유두·점막 정점 변화 개선 보고 — 메타분석 없음 (DOI 10.11607/jomi.11299)
 - [[periodontics/pawar-2011-gingival-zenith-redefining-esthetics]] — Pawar 2011 · cross-sectional(35명) · 치은선 각도 좌 86.7° > 우 84.6°, 견치 정점 근단 — 측절치 비율 17% vs 75.7% 내부 불일치 (DOI 10.4103/0972-124X.84382)
 - [[periodontics/kolte-2019-gingival-angle-zenith-angle-thickness]] — Kolte 2019 · cross-sectional(160명, abstract-only) · 정점 각도는 여성에서 작고 연령 무관, 치은 두께(여 1.1 vs 남 2.5 mm)와 무상관 (PMID 31061999, DOI 없음)
+
+## Surveillance ingest (added 2026-11-22) — 치주인대 (PDL): 재생치료 (GTR·EMD) + 교정력·교합성 외상·소켓 실드 7편
+
+- [[periodontics/miron-2026-30-years-of-enamel-matrix]] — Miron 2026 · sr+ma(67 RCT, abstract-only) · 법랑기질유도체 (EMD): 골내결손 OFD 대비 PPD +1.00·CAL +1.14 mm; 골이식 병용 무이득(이종골 CAL +0.79 제외); 비수술 PPD +0.30 mm
+- [[periodontics/hasuike-2024-enamel-matrix-derivative-monotherapy-versus]] — Hasuike 2024 · sr+ma(RCT 12개 연구, 12개월) · 골내결손 EMD 단독 vs EMD+골이식: PD +0.27·CAL +0.05 mm 비유의, 방사선 결손충만만 +0.80 mm 유의
+- [[periodontics/wang-2025-long-term-clinical-outcomes-of]] — Wang 2025 · sr+ma(17 RCT, ≥5년, abstract-only) · GTR CAL 3.27·PD 4.04 mm(기저 대비), OFD 대비 우월성 비유의(p=0.06/0.115), 확실성 낮음
+- [[periodontics/kouhi-2024-calcium-phosphate-grafts-combined-with]] — Kouhi 2024 · sr+ma(7편, abstract-only) · 칼슘포스페이트+GTR vs OFD: 골내결손 CAL 1.54·PD 1.60 mm, 치근이개부 CAL 1.81 mm; 초록 CI 내부 불일치 주의
+- [[orthodontics/wen-2025-exploring-the-mechanical-and-biological]] — Wen 2025 · narrative-review · 치주인대 (PDL) 구조·점탄성·기계신호전달: 폭 0.15–0.38 mm, 압박→파골·인장→골형성(YAP·PIEZO1·TRPV4)
+- [[occlusion/campino-2019-association-between-traumatic-occlusal-forces]] — Campiño 2019 · sr(14편 서술적, abstract-only, DOI 없음) · 교합 부조화–PD/CAL 연관은 유의하나 크기 미미, 교합 조정 효과 미미
+- [[immediate-implant/socket-shield/li-2026-short-term-pink-aesthetic-outcomes]] — Li 2026 · sr+ma(베이지안 NMA 21편, 1013개) · PES: SST·SST-GBR > IIP(MD 2.30·2.57), SST vs SST-GBR 차이 없음 — 소켓 실드에선 점프갭 이식 추가 이득 불명
