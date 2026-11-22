@@ -81,3 +81,8 @@ The relationship between occlusal forces and periodontitis has been a century-lo
 - [[radiology/mortazavi-2016-lesions-associated-with-periodontal-ligament]] — diagnostic-sign safety net.
 - [[radiology/dewake-2023-mri-occlusal-trauma-pdl]] — T2-IDEAL MRI as objective occlusal trauma diagnosis; PDL edema quantification.
 - [[occlusion/nicolae-2025-cross-sectional-study-occlusal]] — digital occlusal force analysis; CR premature contacts > lateral interference severity.
+
+## Related Overviews
+<!-- thesis-reviewed: 2026-11-22 — no new tooth-level occlusal-trauma evidence since 2026-08-19; post-thesis occlusion ingests are implant-overload papers synthesized in the overviews below -->
+- [[overviews/implant-occlusion-loading-biomechanics-overview]] — the implant counterpart: osseointegrated implants lack a PDL, so occlusal force is neither cushioned nor sensed and design aims at load minimization. Contrast with this page, where the PDL lets occlusion act only as a modifier of inflammation-driven loss.
+- [[overviews/bruxism-muscle-overload-axis]] — bruxism as the shared upstream overload factor discharging into TMJ/muscle, teeth/prostheses, or implants.
