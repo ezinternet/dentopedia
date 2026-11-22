@@ -16,11 +16,12 @@ tags: [orthodontics, otm, tooth-movement, pdl, rankl, opg, bone-remodeling, biol
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 핵심 명제: 교정적 치아이동(Orthodontic Tooth Movement, OTM)은 치주인대(Periodontal Ligament, PDL) 압박-인장 응력 → 세포 변형 → 사이토카인·signaling 활성화 → 파골/조골 활동 → 치조골 재형성의 **4단계 sequential 과정**. 생물학 8편을 4축으로 합성.
+> - 핵심 명제: 교정적 치아이동(Orthodontic Tooth Movement, OTM)은 치주인대(Periodontal Ligament, PDL) 압박-인장 응력 → 세포 변형 → 사이토카인·signaling 활성화 → 파골/조골 활동 → 치조골 재형성의 **4단계 sequential 과정**. 생물학 14편을 4축으로 합성.
 > - **고전 모형의 분자화**: 압박측 파골세포·인장측 골형성의 고전 모형이 OPG/RANK/RANKL triad + sclerostin·DKK1·BMP·TNF-α 신호로 분자 수준 정리됨 (Li 2021: 6,808편→170편, 4단계 모형).
 > - **분자 핵심**: OPG/RANK/RANKL — 압박측 RANKL ↑ → 파골세포생성(osteoclastogenesis), 인장측 OPG/sclerostin 조절로 골형성 (Krishnan 2006, Tsolakis 2023, Wise 2008).
 > - **보조 신호**: TNF-α·DKK1·sclerostin·TGF-β·BMP가 합류; 동물 형질전환(transgenic) 모델로 인과 규명 (Jeon 2021 critical review).
 > - **기계감지(mechanotransduction)**: PDL 세포외기질(ECM)·세포골격이 응력 감지에서 결정적 (Feller 2015 ×2).
+> - **PDL 구조-역학-신호 통합 (Wen 2025, 2026-11-22 추가, PMC 전문)**: PDL 폭 0.15–0.38 mm(치근 중간 1/3이 가장 좁음), 압박 시 손실계수 (loss factor) 0.04–0.40 vs 인장 0.04–0.08로 **압박-인장 비대칭** 점탄성. 압박은 YAP(정적 압박 시 GDF15 경유)·PIEZO1·TRPV4로 파골 쪽, 저강도 인장은 골형성 쪽 신호. 과도한 압박은 IL-6·Th17 분극과 연결되어 치근흡수 위험 — '적정 힘' 원칙의 분자적 근거. 단 narrative review이고 신호 근거 다수가 설치류·in vitro.
 > - **맹출과의 공유 경로**: OTM과 영구치 맹출은 동일 분자 경로(RANKL/OPG/CSF-1) 공유 → 매복치 견인 등 임상에 의미 (Wise 2008).
 > - **적정 힘 원칙**: 너무 강한 힘은 유리질화(hyalinization) → 이동 지연 + 치근흡수; PDL 압박측 모세혈관 평균 압력(~25 mmHg) 초과 회피. → "교정력은 강할수록 빨리 움직인다"는 오판, 적정·간헐·생리적 힘이 최적.
 > - **약물 영향**: NSAID 장기 사용은 prostaglandin 차단으로 OTM 지연, 비스포스포네이트는 OTM 억제 → 병력 청취 필수.
@@ -29,23 +30,23 @@ tags: [orthodontics, otm, tooth-movement, pdl, rankl, opg, bone-remodeling, biol
 
 ## Three-line Summary
 
-Synthesis of 8 OTM biology papers across 4 axes — PDL compression-tension → molecular signaling → bone remodeling → clinical implications.
+Synthesis of 14 OTM biology papers across 4 axes — PDL compression-tension → molecular signaling → bone remodeling → clinical implications.
 
-OPG/RANK/RANKL triad is the central molecular pathway, with sclerostin, DKK1, BMP, and TNF-α as auxiliary signals confirmed by transgenic animal models (Jeon 2021, Krishnan 2006, Li 2021).
+OPG/RANK/RANKL triad is the central molecular pathway, with sclerostin, DKK1, BMP, and TNF-α as auxiliary signals confirmed by transgenic animal models (Jeon 2021, Krishnan 2006, Li 2021); Wen 2025 integrates PDL structure, asymmetric compression-tension viscoelasticity (loss factor 0.04–0.40 vs 0.04–0.08) and channel-level mechanotransduction (YAP, PIEZO1, TRPV4).
 
-Optimal light/intermittent force avoids hyalinization and root resorption; NSAIDs and bisphosphonates impair OTM; corticotomy/vibratory acceleration has strong animal but limited human-RCT evidence.
+Optimal light/intermittent force avoids hyalinization and root resorption (excessive compression is linked to IL-6/Th17-driven bone destruction and root resorption, Wen 2025); NSAIDs and bisphosphonates impair OTM; corticotomy/vibratory acceleration has strong animal but limited human-RCT evidence.
 
 ## 세줄요약
 
-교정적 치아이동(Orthodontic Tooth Movement, OTM) 생물학 8편 — 치주인대(Periodontal Ligament, PDL) 압박-인장 응력 → 분자신호 → 치조골 재형성 → 임상 함의의 4축 종합.
+교정적 치아이동(Orthodontic Tooth Movement, OTM) 생물학 14편 — 치주인대(Periodontal Ligament, PDL) 압박-인장 응력 → 분자신호 → 치조골 재형성 → 임상 함의의 4축 종합.
 
-핵심 분자 축은 OPG/RANK/RANKL triad이며, 압박측 RANKL 상승 → 파골세포생성, 인장측 OPG·sclerostin 조절 → 골형성; TNF-α·DKK1·BMP·TGF-β가 보조신호로 합류.
+핵심 분자 축은 OPG/RANK/RANKL triad이며, 압박측 RANKL 상승 → 파골세포생성, 인장측 OPG·sclerostin 조절 → 골형성; TNF-α·DKK1·BMP·TGF-β가 보조신호로 합류; Wen 2025는 PDL 구조·압박-인장 비대칭 점탄성·채널 수준 기계신호전달(YAP·PIEZO1·TRPV4)을 통합.
 
 적정 간헐적 힘이 최적(과강한 힘 → 유리질화·치근흡수); 비스포스포네이트·NSAID 장기복용은 OTM 억제; 가속화 술식은 동물 강한 효과·사람 RCT 미충족.
 
 ## Summary
 
-OTM은 PDL(치주인대) 압박-인장 응력 → 세포 변형 → 사이토카인·signaling 활성화 → 파골/조골 활동 → 치조골 재형성의 4단계 sequential 과정. 본 페이지는 wiki/orthodontics/ 8편(narrative + critical review + 동물 모델 중심)을 4축으로 정리.
+OTM은 PDL(치주인대) 압박-인장 응력 → 세포 변형 → 사이토카인·signaling 활성화 → 파골/조골 활동 → 치조골 재형성의 4단계 sequential 과정. 본 페이지는 wiki/orthodontics/ 14편(narrative + critical review + 동물 모델 중심)을 4축으로 정리.
 
 핵심 명제 5개:
 1. **OTM은 PDL 압박-인장 → 분자 신호 → 치조골 재형성의 sequential 모형으로 통합됨** — Li 2021 IJOS (6,808편→170편, 4단계 모형). [확인]
@@ -75,6 +76,7 @@ OTM은 PDL(치주인대) 압박-인장 응력 → 세포 변형 → 사이토카
 | [[orthodontics/keilig-2016-in-vivo-measurements-pdl]] | in-vivo (n=5) | PDL 탄성계수 in vivo 실측: E=0.9–1.2 MPa (하중 속도 의존, 0.1–5.0 s); 수치 모델 피팅 |
 | [[orthodontics/jepsen-2023-biomechanical-properties-periodontal-tissues-non-periodontitis]] | cross-sectional in-vivo (n=48) | 치주염 치아 Fmax 12.3 vs 건강 16.3 N/mm (p=0.024); CAL 상관 r=−0.47~−0.57; ILD 기기로 실측 — 치주 상태가 PDL 역학 파라미터를 직접 변화 |
 | [[orthodontics/papadopoulou-2013-biomechanical-time-dependency-periodontal-ligament]] | in-vitro+FEA (돼지 PDL) | 이중선형 점탄성 모델: 5 s→0.17–0.65 MPa, 600 s 이후 더 감소; 응력이 치근분지부·협소부에 집중; 하중 속도 증가 = 강성 증가 |
+| [[orthodontics/wen-2025-exploring-the-mechanical-and-biological]] | narrative-review (PMC 전문) | 구조-역학-기계신호 통합: PDL 폭 0.15–0.38 mm; 손실계수 압박 0.04–0.40 vs 인장 0.04–0.08; 탄성계수 ~9.64×10⁻⁴ GPa(≈0.96 MPa, Keilig 2016 범위 내); 압박→YAP/PIEZO1/TRPV4·M1 대식세포→파골, 저강도 인장→골형성; 과압박 IL-6·Th17 → 치근흡수 위험 |
 | [[orthodontics/salamati-2020-functional-tooth-mobility-young-pigs]] | in-vivo pig (n=12) | 저작 중 구치 변위 192±95 μm (교합측 무관); PDL 압력 3.63±0.80 kPa; PDL 공간 250–400 μm (협측·근심 > 구개·원심) |
 
 ### 축 3 — 동물 모델 & 인과성
@@ -88,7 +90,7 @@ OTM은 PDL(치주인대) 압박-인장 응력 → 세포 변형 → 사이토카
 
 ## 임상 ladder (생물학적 함의 → 임상)
 
-1. **적정 힘 — 너무 강한 힘은 hyalinization → 지연 + 치근흡수**. PDL 압박측 모세혈관 평균 압력(~25 mmHg) 초과 회피.
+1. **적정 힘 — 너무 강한 힘은 hyalinization → 지연 + 치근흡수**. PDL 압박측 모세혈관 평균 압력(~25 mmHg) 초과 회피. 분자 측면에서 과도한 압박은 IL-6·Th17 분극을 통한 염증성 골파괴·치근흡수와 연결된다 (Wen 2025, narrative·동물/in vitro 근거).
 2. **OPG/RANKL 균형** — 임상에서 직접 조절은 어려우나, 간헐력·진동·저강도 레이저(LLLT) 시도 중. 인체 근거는 [미검증].
 3. **약물 영향 인지** — NSAID 장기 사용은 OTM 지연 (prostaglandin 차단), 비스포스포네이트는 OTM 억제. 임상 history 청취 필수. [확인]
 4. **외과적 가속화(corticotomy, MIO)** — 동물 강한 효과, 사람 임상 단기 효과 시사하나 RCT 제한 — [미검증].
