@@ -86,9 +86,9 @@ The newly ingested evidence changes three parts of the wiki's earlier picture, w
 | Regeneration (any) vs OFD | [[periodontics/host-modulation/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] | CAL +1.26 to +2.66 mm (6/8 comparisons significant); tooth loss 0.4% vs 2.8% | Bayesian NMA, low overall quality |
 | EMD + graft vs EMD alone | [[periodontics/hasuike-2024-enamel-matrix-derivative-monotherapy-versus]] | CAL +0.05, PD +0.27 mm (ns); radiographic fill +0.80 mm (sig.) | 12 studies, moderate RoB, defect morphology under-reported |
 | EMD + xenograft | [[periodontics/miron-2026-30-years-of-enamel-matrix]] | CAL +0.79 mm over EMD alone | Only significant graft add-on in Miron 2026; in Hasuike 2024 the xenograft benefit appeared only with conventional flaps, not MIST |
-| GTR vs OFD, ≥5 years | [[periodontics/wang-2025-long-term-clinical-outcomes-of]] | CAL 1.52 mm, PD 0.89 mm, p = 0.06 / 0.115 | Low certainty; abstract CI and p-value are internally inconsistent |
+| GTR vs OFD, ≥5 years | [[periodontics/wang-2025-long-term-clinical-outcomes-of]] | CAL 1.52 mm, PD 0.89 mm, p = 0.06 / 0.115 | Low certainty; **abstract-only**; abstract CI and p-value are internally inconsistent |
 | Non-resorbable membrane vs EMD | [[periodontics/miron-2026-30-years-of-enamel-matrix]] | Membrane PPD reduction 1.08 mm greater | No held complication/exposure comparison |
-| Calcium phosphate + GTR vs OFD | [[periodontics/kouhi-2024-calcium-phosphate-grafts-combined-with]] | Intrabony CAL 1.54 mm; furcation CAL 1.81 mm (95% CI 0.35–3.27) | 7 studies; intrabony CI spans zero despite "significant" |
+| Calcium phosphate + GTR vs OFD | [[periodontics/kouhi-2024-calcium-phosphate-grafts-combined-with]] | Intrabony CAL 1.54 mm; furcation CAL 1.81 mm (95% CI 0.35–3.27) | 7 studies; **abstract-only**; intrabony CI spans zero despite "significant" |
 | HA vs EMD | [[periodontics/mahintach-2026-ha-vs-emd-intrabony-defects-sr-ma]] | CAL non-inferior (WMD 0.51 mm, −0.08 to 1.11); PPD not established | 3 RCTs only |
 | PRF vs EMD, intrabony | [[periodontics/host-modulation/miron-2024-autogenous-platelet-concentrates-intrabony-defects]] | Clinically equivalent; PRF + OFD CAL +1.22 mm over OFD | 55 RCTs, I² 80–95% |
 | PRF vs EMD, non-surgical | [[periodontics/estrin-2026-prf-vs-emd-nspt-rct]] | No difference at 6 mo | Split-mouth, 15 patients |
