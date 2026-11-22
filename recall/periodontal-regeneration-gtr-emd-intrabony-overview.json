@@ -11,12 +11,12 @@
       "q": "골내결손에서 법랑기질유도체 (EMD)에 골이식을 추가했을 때 보유 근거가 보여주는 것은?",
       "opts": [
         "CAL이 약 1 mm 추가로 개선되어 병용이 표준이다",
-        "CAL·PD 임상 이득은 비유의하고(CAL +0.05 mm) 방사선 결손 충만만 유의하게 증가한다(+0.80 mm)",
+        "CAL 이득은 없거나 미미하고(Hasuike +0.05 mm 비유의, Miron +0.33 mm·확실성 매우 낮음) 방사선 결손 충만만 확실히 증가한다(+0.80 mm)",
         "골이식을 추가하면 결과가 오히려 나빠진다",
         "근거가 전혀 없어 판단할 수 없다"
       ],
       "ans": 1,
-      "rat": "Hasuike 2024 SR+MA(12개 연구, 12개월): EMD+골이식 vs EMD 단독 CAL +0.05 mm, PD +0.27 mm 모두 비유의, 방사선 충만 +0.80 mm 유의. Miron 2026도 병용 무이득(예외: 이종골 CAL +0.79 mm). Stavropoulos 2021 NMA의 '병용 > 단독'은 EMD 축에서 좁혀진다.",
+      "rat": "Hasuike 2024 SR+MA(12개 연구, 12개월): EMD+골이식 vs EMD 단독 CAL +0.05 mm, PD +0.27 mm 모두 비유의, 방사선 충만 +0.80 mm 유의. Miron 2026 전문도 CAL +0.33 mm(95% CI 0.02–0.64)로 미미, 출판 편향 강하게 의심·GRADE 매우 낮음(초록의 '이종골 +0.79 mm'는 본문 결과에 없음). Stavropoulos 2021 NMA의 '병용 > 단독'은 EMD 축에서 좁혀진다.",
       "cite": "overviews/periodontal-regeneration-gtr-emd-intrabony-overview"
     },
     {
@@ -29,7 +29,7 @@
         "OFD가 GTR보다 우월하다"
       ],
       "ans": 0,
-      "rat": "Wang 2025(RCT 17편, 501 결손, 5–20년): GTR 기저 대비 CAL +3.27 mm·PD −4.04 mm 유지, OFD 대비 CAL 1.52 mm(p=0.06)·PD 0.89 mm(p=0.115) 비유의, CAL·PD 확실성 낮음. 초록의 CI와 p값이 서로 맞지 않아 전문 확인 필요(초록만 확보).",
+      "rat": "Wang 2025(RCT 17편, 501 결손, 5–20년): GTR 기저 대비 CAL +3.27 mm·PD −4.04 mm 유지, OFD 대비 CAL 1.52 mm(p=0.06)·PD 0.89 mm(p=0.115) 비유의, CAL·PD 확실성 낮음. OFD도 기저 대비 CAL 2.49 mm를 얻는다. 전문 확인 결과 CI는 −0.06~3.10으로 0을 포함하며, 초록이 부호를 빠뜨렸던 것이다.",
       "cite": "overviews/periodontal-regeneration-gtr-emd-intrabony-overview"
     },
     {
