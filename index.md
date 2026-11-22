@@ -5708,11 +5708,11 @@ tags: []
 
 ## Surveillance ingest (added 2026-11-22) — 치주인대 (PDL): 재생치료 (GTR·EMD) + 교정력·교합성 외상·소켓 실드 7편
 
-- [[periodontics/miron-2026-30-years-of-enamel-matrix]] — Miron 2026 · sr+ma(67 RCT, abstract-only) · 법랑기질유도체 (EMD): 골내결손 OFD 대비 PPD +1.00·CAL +1.14 mm; 골이식 병용 무이득(이종골 CAL +0.79 제외); 비수술 PPD +0.30 mm
+- [[periodontics/miron-2026-30-years-of-enamel-matrix]] — Miron 2026 · sr+ma(67 RCT, 전문) · 법랑기질유도체 (EMD): 골내결손 OFD 대비 PPD +1.00·CAL +1.14 mm; EMD+골이식 vs EMD CAL +0.33 mm(미미·출판편향 의심; 초록의 이종골 +0.79는 본문에 없음); GTR vs EMD 비유의; 비수술 PPD +0.30 mm; GRADE 매우 낮음
 - [[periodontics/hasuike-2024-enamel-matrix-derivative-monotherapy-versus]] — Hasuike 2024 · sr+ma(RCT 12개 연구, 12개월) · 골내결손 EMD 단독 vs EMD+골이식: PD +0.27·CAL +0.05 mm 비유의, 방사선 결손충만만 +0.80 mm 유의
-- [[periodontics/wang-2025-long-term-clinical-outcomes-of]] — Wang 2025 · sr+ma(17 RCT, ≥5년, abstract-only) · GTR CAL 3.27·PD 4.04 mm(기저 대비), OFD 대비 우월성 비유의(p=0.06/0.115), 확실성 낮음
+- [[periodontics/wang-2025-long-term-clinical-outcomes-of]] — Wang 2025 · sr+ma(17 RCT, ≥5년, 전문) · GTR CAL 3.27·PD 4.04 mm(기저 대비), OFD도 CAL 2.49 mm; GTR vs OFD CAL 1.52 mm(95% CI −0.06~3.10, p=0.06) 비유의, 확실성 낮음 — 초록은 CI 부호 누락
 - [[periodontics/kouhi-2024-calcium-phosphate-grafts-combined-with]] — Kouhi 2024 · sr+ma(7편, abstract-only) · 칼슘포스페이트+GTR vs OFD: 골내결손 CAL 1.54·PD 1.60 mm, 치근이개부 CAL 1.81 mm; 초록 CI 내부 불일치 주의
 - [[orthodontics/wen-2025-exploring-the-mechanical-and-biological]] — Wen 2025 · narrative-review · 치주인대 (PDL) 구조·점탄성·기계신호전달: 폭 0.15–0.38 mm, 압박→파골·인장→골형성(YAP·PIEZO1·TRPV4)
 - [[occlusion/campino-2019-association-between-traumatic-occlusal-forces]] — Campiño 2019 · sr(14편 서술적, abstract-only, DOI 없음) · 교합 부조화–PD/CAL 연관은 유의하나 크기 미미, 교합 조정 효과 미미
 - [[immediate-implant/socket-shield/li-2026-short-term-pink-aesthetic-outcomes]] — Li 2026 · sr+ma(베이지안 NMA 21편, 1013개) · PES: SST·SST-GBR > IIP(MD 2.30·2.57), SST vs SST-GBR 차이 없음 — 소켓 실드에선 점프갭 이식 추가 이득 불명
-- [[overviews/periodontal-regeneration-gtr-emd-intrabony-overview]] — **종합** · GTR·EMD 골내결손 재생: 1년은 OFD 대비 확실(EMD CAL +1.14 mm), EMD+골이식은 CAL 무이득(+0.05 mm, 방사선 충만만 +0.80 mm), ≥5년 GTR vs OFD 비유의(p=0.06) — '병용 > 단독'을 EMD 축에서 좁힘; HA·PRF는 EMD와 동등
+- [[overviews/periodontal-regeneration-gtr-emd-intrabony-overview]] — **종합** · GTR·EMD 골내결손 재생: 1년은 OFD 대비 확실(EMD CAL +1.14 mm), EMD+골이식은 CAL 무이득~미미(+0.05 ns / +0.33 mm, 방사선 충만만 +0.80 mm), ≥5년 GTR vs OFD 비유의(p=0.06) — '병용 > 단독'을 EMD 축에서 좁힘; HA·PRF는 EMD와 동등
