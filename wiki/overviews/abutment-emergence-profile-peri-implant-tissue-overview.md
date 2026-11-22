@@ -2,7 +2,7 @@
 title: "Abutment Design & Emergence Profile → Peri-Implant Tissue Overview (지대주 디자인·출현윤곽 → 임플란트주위 조직 종합)"
 authors: synthesis (llm-wiki)
 year: 2026
-date: 2026-10-18
+date: 2026-11-22
 doi: N/A
 source: synthesis
 category: [overviews]
@@ -316,6 +316,7 @@ Sub-axes (c)–(e) describe *how* to shape the transmucosal profile; they never 
 - [[implants/mbl/nunes-2025-final-prosthetic-abutment-insertion-time-oaot]] — disconnection axis (b), SR+MA: independent replication (11 RCTs, 699 implants) confirming OAOT significantly reduces MBL regardless of connection type
 - [[implants/mbl/liu-2025-abutment-shape-marginal-bone-loss-crestal-bone-remodeling]] — shape/angle axis (d), SR+MA of RCTs: EA >30° subgroup MBL +0.19 mm significant; convex → CBR +0.56 mm — two independent bone mechanisms by angle and shape
 - [[implants/mbl/calatrava-2024-effect-one-time-placement-definitive-abutment]] — disconnection axis (b), RCT: the strongest single RCT in the Abayov 2026 SR+MA; PS conical connection; 0.48 mm MBL difference at 6 months (p=0.008)
+- [[implants/pedrinaci-2024-bio-restorative-concept-implant-supported]] — 신규 2026-11-22, planning frame (concept review, no comparative data): the "bio-restorative concept" integrates digital tooth arrangement, soft/hard-tissue phenotype, 3-D implant position and supra-platform components in one virtual plan — essentially the order this page's clinical decision already prescribes (zenith → position → contour → components). Useful as a teaching scaffold, not as evidence that integrated planning improves outcomes.
 - [[overviews/keratinized-mucosa-peri-implant-health-overview]] — sibling overview on the soft-tissue thickness/keratinized-mucosa axis that moderates every emergence-profile effect here
 - [[overviews/peri-implant-soft-tissue-dehiscence-prevention]] — sibling overview on preventing buccal mucosal recession/dehiscence, the outcome the shape lever directly controls
 - [[implants/peri-implantitis/pirc-2026-concave-convex-emergence-profiles-mucosal-ma]] — MA on concave vs convex emergence profiles: mucosal tissue response, peri-implant health outcomes, and profile-design recommendations (ma, 2026)
