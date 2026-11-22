@@ -2,7 +2,7 @@
 title: "Chairside Adjustment and Polishing of Monolithic Zirconia — Roughness, Strength, Phase, Color, and Protocol"
 authors: synthesis page
 year: 2026
-date: 2026-11-20
+date: 2026-11-22
 category: overviews
 evidence_level: synthesis
 source_collection: internal
@@ -19,7 +19,7 @@ relations:
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - **범위**: 모놀리식 지르코니아 (Monolithic Zirconia) 보철물을 체어사이드에서 교합조정 (occlusal adjustment)·연삭 (grinding)한 뒤 어떻게 마무리할지에 관한 보유 근거 35편 종합. 33편이 실험실 연구 (in-vitro), 1편 서술 리뷰, 1편 전향 임상 연구. **임상 결과(파절·생존)를 직접 측정한 연구는 없다.** [확인]
+> - **범위**: 모놀리식 지르코니아 (Monolithic Zirconia) 보철물을 체어사이드에서 교합조정 (occlusal adjustment)·연삭 (grinding)한 뒤 어떻게 마무리할지에 관한 보유 근거 38편 종합(2026-11-22 유리세라믹·바이오필름 3편 추가). 36편이 실험실 연구 (in-vitro), 1편 서술 리뷰, 1편 전향 임상 연구. **임상 결과(파절·생존)를 직접 측정한 연구는 없다.** [확인]
 > - **결론(테제)**: 조정 후 **"연마는 필수, 재글레이징 (reglazing)은 선택 — 단, 강도와 색은 서로 다른 답을 낸다."** 표면조도 (surface roughness, Ra)와 굴곡강도 (flexural strength)는 연마 쪽이, 색안정성 (color stability)은 글레이즈 쪽이 우세하다. [확인 — 아래 축별 근거]
 > - **조도**: 다이아몬드 버 연삭 후 Ra ≈1.1–1.9 µm → 지르코니아 전용 연마키트로 0.2–0.5 µm까지 회복, 다수 연구에서 **글레이즈 수준 이하**(Caglar 0.23–0.28 vs 포셀린 키트 0.78 µm; Gaonkar 0.47 vs 글레이즈 0.53 µm; Pott Ra <0.20 µm). 세균부착 임계 0.2 µm 이하 도달 보고(Kulvarangkun, Phatphutthitham). [확인]
 > - **키트 선택**: **포셀린 (feldspathic) 연마키트는 지르코니아에 부적합** — 지르코니아·리튬디실리케이트 전용 키트가 유의하게 매끈(Caglar, Kulvarangkun). 술자 경력은 결과에 무관(Kozmacs, 학생~기공사 동등). [확인]
@@ -30,19 +30,20 @@ relations:
 > - **재료별 예외**: 같은 프로토콜이 재료에 따라 반대로 작동 — Monteiro에서 Cercon hT +60%(576→856 MPa) vs **Lava Plus −60%(578→229 MPa)**. 5Y·6Y 고투광 지르코니아는 연마 강화 효과가 작거나 없음(Phuntusuntorn 6Y 무변화). [확인]
 > - **안전·운영**: 20,000 rpm 구내 연마는 치수 손상 임계 5.5 °C 초과(Liu, ≥8 °C/2분) → **≤10,000 rpm 또는 간헐 연마**. 연마키트는 **flash 멸균 10회까지 재사용** 가능(Lunkad, Sayed). [확인]
 > - **임상 순서 제안**: 다이아몬드 버(주수, 미세입자)로 조정 → 지르코니아 전용 2–3단계 연마(단계당 40–60 s, 저속) → 전치부·착색 보철은 조정을 **모두 끝낸 뒤** 글레이즈 고려, 구치부 고하중은 연마로 종료. [미검증 — 이 순서는 위 근거의 종합 추론이며 임상 RCT로 검증된 적 없음]
+> - **[2026-11-22] 유리세라믹은 순서가 반대 (축 6 신설, 실험실 3편)**: 지르코니아 강화 리튬실리케이트 (Zirconia-reinforced Lithium Silicate, ZLS)와 리튬디실리케이트 (Lithium Disilicate, LDS)는 결정화 후 다이아몬드 조정 시 강도가 약 절반으로 떨어졌고(ZLS 232→115 MPa), 연마로 회복되지 않았다 → **결정화 전 조정**(Baroudi 2025). 연마는 지르코니아에서만 뮤탄스균 부착을 줄였고(2.59→0.33–0.74%) LDS에서는 효과가 없었다 → 조정한 LDS는 재글레이즈(Ekpanithanpong 2026). 밀링 버 1세트로 ZLS 32개를 깎아도 변연 간극은 같았다(p=0.117; Avrahami 2026). [확인]
 > - **한계**: 전부 평판 시편 실험실 연구, 제품 1–4종 단위, 임상 파절·대합치 마모 결과 미연결. 대합치 법랑질 마모 (enamel wear) 근거(연마 > 글레이즈)는 [[overviews/zirconia-types-clinical-selection]]에 이미 종합되어 있다.
 
 ---
 
 ## Three-line Summary
 
-This overview synthesizes 35 held papers (33 in-vitro, 1 narrative review, 1 prospective clinical) on how to finish monolithic zirconia after chairside occlusal adjustment, across five outcome axes: surface roughness, flexural strength, tetragonal-to-monoclinic phase transformation, color/translucency stability, and practical protocol (kit, speed, heat, sterilization).
+This overview synthesizes 38 held papers (36 in-vitro, 1 narrative review, 1 prospective clinical) on how to finish monolithic zirconia after chairside occlusal adjustment, across five outcome axes: surface roughness, flexural strength, tetragonal-to-monoclinic phase transformation, color/translucency stability, and practical protocol (kit, speed, heat, sterilization).
 Polishing with a zirconia-specific kit after diamond-bur grinding consistently restores roughness to glaze level or below (Ra ~0.2–0.5 µm) and yields the highest flexural strength, whereas reglazing after adjustment gives the lowest strength (Elmamooz 529 vs 999 MPa), tungsten-carbide burs collapse strength despite a smooth surface (Kheur 978→196 MPa at 1.0 mm), and porcelain polishing kits are inadequate.
 Glaze remains the most color-stable surface under staining challenge, protocol effects are material-specific (Lava Plus lost ~60% strength where Cercon hT gained ~60%), and no study links any finishing protocol to clinical fracture or survival — the decision rule is therefore "always polish, glaze only for esthetic/stain cases and only after all adjustment is complete."
 
 ## 세줄요약
 
-이 종합 페이지는 모놀리식 지르코니아 (Monolithic Zirconia) 체어사이드 교합조정 후 마무리 방법에 관한 보유 35편(실험실 33·서술 리뷰 1·전향 임상 1)을 표면조도 (Ra)·굴곡강도·상변태 (t→m)·색/투광성·실무 프로토콜(키트·회전속도·발열·멸균) 5축으로 정리한다.
+이 종합 페이지는 모놀리식 지르코니아 (Monolithic Zirconia) 체어사이드 교합조정 후 마무리 방법에 관한 보유 38편(실험실 36·서술 리뷰 1·전향 임상 1)을 표면조도 (Ra)·굴곡강도·상변태 (t→m)·색/투광성·실무 프로토콜(키트·회전속도·발열·멸균) 5축으로 정리한다.
 다이아몬드 버 연삭 후 지르코니아 전용 키트 연마는 조도를 글레이즈 수준 이하(Ra ~0.2–0.5 µm)로 되돌리고 강도도 가장 높은 반면, 조정 후 재글레이징은 강도 최저(529 vs 999 MPa), 텅스텐카바이드 버는 표면은 매끈해도 강도 붕괴(978→196 MPa), 포셀린 연마키트는 부적합하다.
 색안정성은 글레이즈가 가장 우수하고 효과는 재료마다 다르며(Lava Plus −60% vs Cercon hT +60%), 어떤 프로토콜도 임상 파절·생존과 연결된 근거가 없다 — 규칙은 "항상 연마, 글레이즈는 심미·착색 케이스에서 조정 완료 후에만".
 
@@ -149,6 +150,16 @@ Baseline shade can differ between brands with the same Vita designation because 
 
 ---
 
+## Axis 6 — Beyond Zirconia: Glass-Ceramics, Bur Life and Biofilm (2026-11-22)
+
+Three papers extend the page's question to the glass-ceramics adjusted chairside alongside zirconia, and to biofilm, an outcome the five axes above did not measure.
+
+- **Adjust glass-ceramics before crystallization** — [[dental-materials/ceramic/baroudi-2025-clinical-adjustment-of-zirconia-reinforced]] (discs, n=15/group). Diamond adjustment *after* crystallization roughly halved zirconia-reinforced lithium silicate (ZLS) strength (232.1 → 115.0 MPa) and also lowered lithium disilicate (LDS). The sequence, not the material, was the only significant factor. Polishing did not bring Ra back to baseline in any group. For zirconia, polishing after grinding *raises* strength (Axis 2). For glass-ceramics, post-crystallization grinding leaves subsurface damage that polishing cannot repair. The safe window is the pre-crystallized try-in. Glazing, aging and cyclic loading were not simulated.
+- **Polishing cuts biofilm on zirconia, not on lithium disilicate** — [[dental-materials/ekpanithanpong-2026-effect-of-various-polishing-systems]] (100 specimens, 48-h *S. mutans*). No kit reached the glazed baseline (zirconia glaze 0.02 vs best polish 0.39 µm; LDS 0.03 vs 0.44 µm). On zirconia, polishing lowered biofilm from 2.59% to 0.33–0.74%. On LDS it did not (8.51% → 6.38–8.11%). The three kits differed in roughness but not in adhesion. This agrees with Ergul 2026 ("polish for zirconia, glaze for glass-ceramics"): adjusted LDS should be re-glazed when feasible. Single-species, static, 48-h model.
+- **Mill bur wear within the 32-unit interval does not change fit** — [[dental-materials/ceramic/avrahami-2026-the-effect-of-diamond-bur]] (32 ZLS crowns, one CEREC MC XL bur set). Marginal gap was 44.6–54.1 µm across wear groups (p=0.117), far under 120 µm. The pattern was non-monotonic with n=8/group, so this shows no detectable harm within the manufacturer's interval, not beyond it. It complements Rosentritt 2024 (Axis 5) on bur degradation.
+
+**What changes [미검증].** The decision thread below assumes zirconia. For a glass-ceramic restoration, the order reverses. Adjust in the blue/pre-crystallized state, then crystallize and glaze. Treat post-crystallization grinding plus polish as a compromise in strength and biofilm, not as an equivalent finish.
+
 ## Clinical Decision Thread
 
 1. **Adjust with fine-grit diamond, water-cooled** — not tungsten carbide (Kheur), not uncooled low-speed stone on 5Y (Phatphutthitham). Keep residual thickness ≥1.5 mm where possible (Kheur's collapse was at 1.0 mm).
@@ -156,6 +167,7 @@ Baseline shade can differ between brands with the same Vita designation because 
 3. **Decide glaze by site**: posterior/high-load → stop at polish (strongest; Elmamooz, Ozkan, Phuntusuntorn). Anterior or stained → glaze is the most color-stable option (Soares, Agar, Mazzir), but only after all adjustment (Sayed) and knowing reglazing gave the lowest strength in Elmamooz.
 4. **Check brand-level data** for the material in use — a protocol that strengthens one 3Y product weakened another (Monteiro).
 5. **Kit maintenance**: flash sterilization, retire after ~10 cycles (Lunkad, Sayed).
+6. **Glass-ceramic (ZLS/LDS), not zirconia** → adjust before crystallization (Baroudi 2025); if adjusted after, re-glaze rather than polish only (no biofilm benefit from polishing LDS; Ekpanithanpong 2026).
 
 [미검증 — this sequence is a synthesis of in-vitro findings; no clinical trial has tested it as a protocol.]
 
@@ -200,6 +212,9 @@ Baseline shade can differ between brands with the same Vita designation because 
 | [[dental-materials/zirconia/wertz-2021-the-influence-of-surface-preparation]] | in-vitro | Rietveld reveals transformation ISO method misses |
 | [[dental-materials/zirconia/yahyazadehfar-2021-effect-of-different-surface-treatments]] | in-vitro | Laser lowest t→m; no roughness–strength correlation |
 | [[dental-materials/zirconia/yoo-2022-analysis-of-surface-characteristics-of]] | in-vitro | (Y,Nb)-TZP chairside block equalized by polishing |
+| [[dental-materials/ceramic/baroudi-2025-clinical-adjustment-of-zirconia-reinforced]] | in-vitro | ZLS/LDS: post-crystallization grinding halves strength; adjust pre-crystallized |
+| [[dental-materials/ekpanithanpong-2026-effect-of-various-polishing-systems]] | in-vitro | Polish ↓ *S. mutans* on zirconia only; LDS needs re-glaze |
+| [[dental-materials/ceramic/avrahami-2026-the-effect-of-diamond-bur]] | in-vitro | Bur wear over 32 ZLS units: marginal gap unchanged (p=0.117) |
 
 ---
 
@@ -218,5 +233,6 @@ Baseline shade can differ between brands with the same Vita designation because 
 - [[overviews/zirconia-material-clinical-overview]] — zirconia generations, LTD, survival
 - [[overviews/zirconia-occlusal-efficiency-overview]] — crown-level occlusal and bonding outcomes
 - [[overviews/dental-handpiece-bur-selection-overview]] — bur and handpiece selection context
+- [[overviews/lithium-disilicate-inlay-onlay-evidence]] — glass-ceramic restorations (Axis 6 applies to their chairside adjustment)
 
 <!-- thesis-reviewed: 2026-11-20 -->
