@@ -16,21 +16,21 @@ tags: [navigation, category-index, periodontics]
 > - **분야**: 치주치료
 > - **범위**: Periodontal disease, classification, regeneration/root-coverage, SPT, periodontal-systemic links, general periodontics not covered by a subcategory.
 > - **하위 카테고리**: [[host-modulation]] · [[non-surgical-instrumentation]] · [[oral-hygiene-instruction]]
-> - **수록 논문**: 90편
+> - **수록 논문**: 93편
 
 ## Three-line Summary
 
 **Scope**: Periodontal disease, classification, regeneration/root-coverage, SPT, periodontal-systemic links, general periodontics not covered by a subcategory.
-**Indexed papers**: 90 papers in `wiki/periodontics/`.
+**Indexed papers**: 93 papers in `wiki/periodontics/`.
 **Sub-categories**: [[host-modulation]], [[non-surgical-instrumentation]], [[oral-hygiene-instruction]]
 
 ## 세줄요약
 
 **분야**: 치주치료
-**수록 논문**: 90편
+**수록 논문**: 93편
 **하위 카테고리**: host-modulation, non-surgical-instrumentation, oral-hygiene-instruction
 
-## Papers in this Category (90)
+## Papers in this Category (93)
 
 | Paper |
 |---|
@@ -87,6 +87,7 @@ tags: [navigation, category-index, periodontics]
 | [[john-2017-network-meta-analysis-studies-included|Network Meta-Analysis of Studies Included in the Clinical Practice Guideline on the Nonsurgical Treatment of Chronic Periodontitis]] |
 | [[joseph-2024-systematic-review-meta-analysis-randomized|Systematic review and meta-analysis of randomized controlled trials evaluating the efficacy of non-surgical periodontal treatment in patients with concurrent systemic conditions]] |
 | [[jung-2019-periodontitis-spt-disease-progression-sr|Disease Progression in Periodontitis Patients After Treatment with Supportive Periodontal Therapy: A Systematic Review]] |
+| [[kaner-2017-early-healing-events-after-periodontal|Early Healing Events after Periodontal Surgery: Observations on Soft Tissue Healing, Microcirculation, and Wound Fluid Cytokine Levels]] |
 | [[kolte-2019-gingival-angle-zenith-angle-thickness|Assessment and correlation of gingival angle, gingival zenith angle, and gingival thickness: a cross-sectional study]] |
 | [[kouhi-2024-calcium-phosphate-grafts-combined-with|Calcium Phosphate Grafts Combined With Guided Tissue Regeneration in the Treatment of Periodontal Bony Defects: A Systematic Review and Meta-Analysis]] |
 | [[kwon-2021-current-concepts-management-periodontitis|Current Concepts in the Management of Periodontitis]] |
@@ -108,6 +109,8 @@ tags: [navigation, category-index, periodontics]
 | [[papapanou-2018-periodontitis-classification-consensus-2017|Periodontitis: Consensus report workgroup 2, 2017 World Workshop on Classification]] |
 | [[pawar-2011-gingival-zenith-redefining-esthetics|Gingival zenith and its role in redefining esthetics: A clinical study]] |
 | [[qiao-2020-rheumatoid-arthritis-risk-periodontitis-sr-ma|Rheumatoid arthritis risk in periodontitis patients: A systematic review and meta-analysis]] |
+| [[rodriguez-2026-innovations-in-microsurgery-the-role|Innovations in microsurgery: The role of non-invasive blood perfusion imaging—A review and framework]] |
+| [[saleh-2022-impact-of-the-periodontal-phenotype-in|Impact of the periodontal phenotype in premolar and molar sites on bone loss following full-thickness mucoperiosteal flap: A 1-year prospective clinical trial]] |
 | [[santamaria-2026-gr-nccl-treatment-decision-tree|An updated evidence-based recommendation for the treatment of gingival recession associated with non-carious cervical lesions]] |
 | [[sanz-2020-treatment-stage-i-iii-periodontitis-efp|Treatment of stage I–III periodontitis—The EFP S3 level clinical practice guideline]] |
 | [[scannapieco-2021-dysbiosis-oral-microbiome-periodontitis|Dysbiosis revisited: Understanding the role of the oral microbiome in the pathogenesis of gingivitis and periodontitis: A critical assessment]] |
