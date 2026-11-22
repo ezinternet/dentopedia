@@ -114,3 +114,5 @@ Narrative synthesis (no new pooling). Base: 3 umbrella reviews (Arbildo-Vega, Bo
 - [[overviews/systemic-disease-ckd-ssc-diabetes-osteoporosis-dental-overview]] — systemic disease dental management (diabetes)
 - [[overviews/smoking-tobacco-periodontal-implant-overview]] — smoking & periodontal/implant risk
 - [[overviews/otc-periodontal-adjunct-drugs-insadol-igatan]] — OTC periodontal adjunct drugs
+
+<!-- thesis-reviewed: 2026-11-22 — post-2026-07-30 ingests (melatonin/propolis/curcumin SR-MAs, CHX/CPC rinse SR-MAs, systemic antibiotics, T2DM extraction/implant papers) are synthesized in the linked specialist overviews; this roundup thesis still holds -->
