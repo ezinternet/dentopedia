@@ -2,7 +2,7 @@
 title: "즉시식립·심미연조직 — esthetic-soft-tissue"
 authors: navigation
 year: 2026
-date: 2026-11-21
+date: 2026-11-22
 doi: N/A
 source: navigation
 category: immediate-implant/esthetic-soft-tissue
@@ -15,20 +15,20 @@ tags: [navigation, category-index, esthetic-soft-tissue]
 > [!summary] 한국어 핵심요약
 > - **분야**: 즉시식립·심미연조직
 > - **범위**: Immediate implant esthetic & soft-tissue outcomes — immediate provisionalization, connective-tissue/soft-tissue grafting (SCTG/CTG), midfacial recession & papilla, pink esthetic score, buccal-dehiscence esthetic, esthetic-zone selection criteria
-> - **수록 논문**: 77편
+> - **수록 논문**: 78편
 
 ## Three-line Summary
 
 **Scope**: Immediate implant esthetic & soft-tissue outcomes — immediate provisionalization, connective-tissue/soft-tissue grafting (SCTG/CTG), midfacial recession & papilla, pink esthetic score, buccal-dehiscence esthetic, esthetic-zone selection criteria
-**Indexed papers**: 77 papers in `wiki/immediate-implant/esthetic-soft-tissue/`.
+**Indexed papers**: 78 papers in `wiki/immediate-implant/esthetic-soft-tissue/`.
 
 ## 세줄요약
 
 **분야**: 즉시식립·심미연조직
-**수록 논문**: 77편
+**수록 논문**: 78편
 **하위 카테고리**: 없음
 
-## Papers in this Category (77)
+## Papers in this Category (78)
 
 | Paper |
 |---|
@@ -73,6 +73,7 @@ tags: [navigation, category-index, esthetic-soft-tissue]
 | [[jiang-2020-hard-soft-tissue-alterations-during|Hard and soft tissue alterations during the healing stage of immediate implant placement and provisionalization with or without connective tissue graft: A randomized clinical trial]] |
 | [[jurado-2025-achieving-optimal-esthetics-with-immediate|Achieving Optimal Esthetics with Immediate Implants and Veneers in the Smile Zone: A Case Study]] |
 | [[kan-2003-immediate-placement-provisionalization-anterior|Immediate placement and provisionalization of maxillary anterior single implants: 1-year prospective study]] |
+| [[kim-2026-immediate-provisional-prosthetic-components-maintaining|Immediate Provisional Prosthetic Components for Maintaining Anterior Soft Tissue Contours Following Tooth Extraction: Two Case Reports]] |
 | [[kinaia-2017-soft-tissue-changes-around|Soft Tissue Changes Around Immediately Placed Implants: A Systematic Review and Meta-Analyses With at Least 12 Months of Follow-Up After Functional Loading]] |
 | [[lambert-2025-soft-tissue-augmentation-immediate-implant-sr|Esthetic and patient-reported outcomes in immediate implants with adjunctive surgical procedures to increase soft tissue thickness/height: A systematic review]] |
 | [[li-2019-dynamic-peri-implant-soft-tissue-scan|Dynamic changes of peri-implant soft tissue after interim restoration removal during a digital intraoral scan]] |
