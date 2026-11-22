@@ -2,7 +2,7 @@
 title: "Digital Workflow — IOS·CAIS·AI·LLM Decision Ladder"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-05-26
+date: 2026-11-22
 doi: N/A
 source: N/A
 category: overviews
@@ -16,7 +16,7 @@ tags: [digital-workflow, intraoral-scanner, cad-cam, guided-surgery, ai, llm, de
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 핵심 명제: 디지털 치의학을 4축(구강내스캐너(Intraoral Scanner, IOS) 정확도·컴퓨터지원 임플란트수술(Computer-Assisted Implant Surgery, CAIS)·AI 진단·LLM 환자응답)으로 묶은 31편 spine 결정 사다리 (2026-09: +3편).
+> - 핵심 명제: 디지털 치의학을 4축(구강내스캐너(Intraoral Scanner, IOS) 정확도·컴퓨터지원 임플란트수술(Computer-Assisted Implant Surgery, CAIS)·AI 진단·LLM 환자응답)으로 묶은 35편 spine 결정 사다리 (2026-09: +3편; 2026-11-22: +4편, 축 5 교합 신설).
 > - 축1 IOS: 단관·소악궁(3–4 unit)은 임상 표준(trueness 50–100µm), 전악 자연치는 기기 신중 선택(TRIOS 3·Primescan), 무치악 전악은 전통 인상 또는 기공실 스캐너 1차 — IOS는 보조. [확인]
 > - 전악 IOS는 후방 연장 시 오차 누적(trueness 50–200µm), 구치부 오차 증가가 일관된 한계.
 > - 축1 보강(2026-09): 고정성 교정장치(브라켓±와이어) 존재 시엔 자연치 원칙이 뒤집혀 IOS가 알지네이트보다 우수(28–141 vs 103–212µm, Schlenz 2022); 클리어얼라이너 부착물 모형에서도 Primescan·TRIOS 3가 최상위 재확인, 오차 목표 ~50µm(Oğuz 2026); 정확도가 혼재된 상황에서도 chairside time·환자 편의는 측정된 연구 전부에서 IOS 우위이나 근거는 10편 중 2편 한정(Ramos-Morro 2026). [확인]
@@ -26,11 +26,12 @@ tags: [digital-workflow, intraoral-scanner, cad-cam, guided-surgery, ai, llm, de
 > - LLM·AI 공통 제약: 환자 식별정보 입력 절대 금지(개인정보보호법+HIPAA), 데이터 프라이버시·알고리즘 편향·블랙박스 인지 필수.
 > - 신규 spoke: 자율로봇 CAIS(Yu 2025·Wei 2025·Chen 2025·Wu 2024)는 dynamic navigation 대비 각도·플랫폼·첨부 편차를 개선하나 시술시간 증가 등 trade-off 존재.
 > - CBCT 기반 상악동 부피 자동측정(Luz 2018, SMOP)은 sinus lift 계획에 직접 활용 가능하나 측정 정확도 cross-validation 필요.
+> - **축 5 교합 (2026-11-22 신설)**: 디지털 워크플로로 만든 지르코니아 보철은 교합 조정이 같거나 더 적었다. 임플란트 후방 단관 239명 후향 코호트에서는 교합 편차·조정 면적·조정 필요 크라운이 모두 적었다(Sui 2026). 턱운동 추적 (Dynamic Jaw Motion Tracking, DJMT)을 쓰면 조정량이 67.5 vs 91.8 µm였다(Park 2025 RCT, 30 크라운). 디지털 기능적 생성 경로 (Functionally Generated Path, FGP)를 쓰면 측방 간섭 압력이 20.6 vs 26.0%였다(Saad 2024 RCT, 13명). 임플란트 3본 고정성 보철에서는 정확도·적합·교합이 동등하고 기공 시간만 짧았다(Hashemi 2022, 10명 교차). 모두 소규모이거나 단일기관이고, 장기 교합 안정성이나 생존 결과는 없다. [확인]
 > - 확신도 등급: IOS·CAIS = [확인](다수 SR+NMA), AI 진단 정확도·LLM = [확인](대부분 retrospective+narrative, 단일 SR+MA).
 
 ## Three-line Summary
 
-Synthesis decision-ladder over 31 digital-dentistry papers on four axes: IOS accuracy (4 SR/umbrella + 4 in-vitro + 1 case report, +3 added 2026-09), CAIS (SR+NMA), AI diagnostics (multiple SR/retrospective), and LLM patient communication (SR+MA + umbrella); IOS is the clinical standard for single crowns and short spans (trueness 50–100 µm) but accuracy degrades on full-arch/edentulous (trueness 50–200 µm, posterior error accumulation; laboratory scanner or conventional impression preferred for fully edentulous). Appliance/attachment geometry conditions this further: fixed orthodontic appliances flip the natural-teeth preference toward IOS (Schlenz 2022), clear-aligner attachment scanning reconfirms Primescan/TRIOS 3 as top-tier with a ~50 µm error target (Oğuz 2026), and even where raw accuracy is mixed, chairside time and patient comfort consistently favor IOS (Ramos-Morro 2026 SR, though based on only 2/10 included studies).
+Synthesis decision-ladder over 35 digital-dentistry papers on four axes plus an occlusion axis added 2026-11-22: IOS accuracy (4 SR/umbrella + 4 in-vitro + 1 case report, +3 added 2026-09), CAIS (SR+NMA), AI diagnostics (multiple SR/retrospective), and LLM patient communication (SR+MA + umbrella); IOS is the clinical standard for single crowns and short spans (trueness 50–100 µm) but accuracy degrades on full-arch/edentulous (trueness 50–200 µm, posterior error accumulation; laboratory scanner or conventional impression preferred for fully edentulous). Appliance/attachment geometry conditions this further: fixed orthodontic appliances flip the natural-teeth preference toward IOS (Schlenz 2022), clear-aligner attachment scanning reconfirms Primescan/TRIOS 3 as top-tier with a ~50 µm error target (Oğuz 2026), and even where raw accuracy is mixed, chairside time and patient comfort consistently favor IOS (Ramos-Morro 2026 SR, though based on only 2/10 included studies).
 
 CAIS: dynamic or full-static guidance beats freehand for immediate, esthetic, and multiple implants (Schiavon 2025 SR+NMA, 7 RCTs, 338 implants); AI diagnostics achieve caries detection ≈95% accuracy, implant-type recognition 93.8–98%, and osseointegration prediction AUC 0.924–1.000 — all diagnostic/educational aids only, insufficient clinical validation for autonomous treatment decisions.
 
@@ -38,7 +39,7 @@ LLM dental responses reach ≈82% accuracy and ≈70% clinically acceptable resp
 
 ## 세줄요약
 
-28편 4축 결정 사다리(IOS 정확도 4 SR/우산형+2 in-vitro, CAIS SR+NMA, AI 진단 다수 SR/후향, LLM SR+MA+우산형): IOS는 단관·소악궁 임상 표준(trueness 50–100µm)이나 전악·무치악 오차 누적(50–200µm), 무치악은 기공실 스캐너·전통 인상 우선.
+35편 4축+교합 축 결정 사다리(IOS 정확도 4 SR/우산형+2 in-vitro, CAIS SR+NMA, AI 진단 다수 SR/후향, LLM SR+MA+우산형): IOS는 단관·소악궁 임상 표준(trueness 50–100µm)이나 전악·무치악 오차 누적(50–200µm), 무치악은 기공실 스캐너·전통 인상 우선.
 
 CAIS: 즉시식립·심미·다중 임플란트에서 dynamic/full-static이 freehand 우위(Schiavon 2025 SR+NMA, 7 RCT, 338 임플란트); AI 진단은 우식 검출 ≈95%·임플란트 종류 인식 93.8–98%·골유착 예측 AUC 0.924–1.000 — 모두 진단·교육 보조 단계, 자율 치료 결정 불가.
 
@@ -144,6 +145,21 @@ Schiavon 2025 NMA + Najeeb 2025 + Zhang 2025 spine.
 3. **진단·치료 결정** — LLM 직접 사용 부적합. 보조 reasoning 도구 정도.
 4. **개인정보 입력 금지** — 환자 식별 정보 LLM에 절대 입력 안 함 (한국 개인정보 보호법 + HIPAA 등).
 
+### 축 5 — 디지털 보철의 교합 정확도 (2026-11-22 신설)
+
+The four axes above measure *geometric* accuracy (trueness, deviation, angular error). They do not show whether a digitally made restoration also *occludes* correctly. That is the clinically relevant endpoint for chairside time and zirconia surface integrity. Four papers address it directly:
+
+| Study | Design | Comparison | Occlusal result | Caveat |
+|---|---|---|---|---|
+| [[digital-workflow/sui-2026-influence-of-a-digital-versus]] | Retrospective cohort, 239 posterior monolithic zirconia implant crowns | IOS + auxiliary occlusal device + CAD/CAM vs polyether + stone cast | Lower max/mean occlusal deviation, adjustment area and occlusion-time ratio (all P<0.001); fewer crowns needing adjustment (P=0.012); shorter lab time | Single centre, non-randomized allocation |
+| [[digital-workflow/park-2025-comparison-of-interference-from-eccentric]] | RCT, 15 pts / 30 zirconia crowns | Dynamic jaw motion tracking (DJMT) in CAD vs conventional | RMS intraoral adjustment 67.5 vs 91.8 µm (P=.028) | Small; single crowns only |
+| [[digital-workflow/saad-2024-reliability-of-the-digital-functionally]] | Within-patient RCT, 13 pts, maxillary first premolar | Buccal record alone vs buccal + lateral IOS records (digital functionally generated path) | Lateral excursion pressure 20.62 vs 26.00% (p<0.0001); MI pressure 7.23 vs 8.08% (p=0.001) | One tooth type; surrogate pressure endpoint |
+| [[digital-workflow/hashemi-2022-fully-digital-versus-conventional-workflows]] | Prospective crossover, 10 pts / 20 three-unit implant FDPs | Fully digital (TRIOS 3 + zirconia) vs PVS open-tray + CoCr | Impression accuracy, passivity, occlusal contact quality and esthetics equivalent; lab and total time shorter (p<0.001) | n=10; material confounded with workflow |
+
+**What the axis shows [확인].** Across one cohort, two RCTs and one crossover, no study found the digital workflow *worse* for occlusion. Three found it better, all for single posterior crowns. The one multi-unit implant study found equivalence. The improvement comes from recording *movement*, not from scanning alone. Sui 2026 adds an auxiliary occlusal device. Park 2025 adds jaw-motion tracking. Saad 2024 adds lateral excursion records. A static intercuspal scan alone was not shown to beat a conventional mounted cast.
+
+**Clinical reading [미검증].** For posterior monolithic zirconia, where grinding damages the surface, capturing eccentric movement digitally before milling is a reasonable way to reduce chairside adjustment. The evidence is small and short-term. None of the four reports long-term occlusal stability, chipping or survival. "Digital is non-inferior for occlusion" is better supported than "digital is superior". Link to the IOS accuracy findings: these results apply to single crowns and short spans, where axis 1 already rates IOS as the clinical standard. They should not be extrapolated to full-arch reconstructions.
+
 ## Phase 2 확장 후보 (Stub)
 
 - [ ] `wiki/overviews/ios-edentulous-protocols.md` — 무치악 IOS 정확도 향상 strategy.
@@ -161,6 +177,13 @@ Schiavon 2025 NMA + Najeeb 2025 + Zhang 2025 spine.
 - [[digital-workflow/wu-2024-autonomous-dental-implant-robotic-accuracy]] — Wu 2024 single-arm: 자율로봇 절대정확도(coronal 0.61mm·angular 2.56°)
 
 - [[digital-workflow/jkda-2025-63-5-003]] — In vitro pilot (경북대 보철과 이규복·김소연, JKDA 2025): 3D 프린팅 zirconia crown의 offset parameter별 marginal·internal fit 비교 — preliminary pilot. (in-vitro, 2025)
+
+### 신규 추가 (2026-11-22) — 축 5 교합
+
+- [[digital-workflow/sui-2026-influence-of-a-digital-versus]] — 후향 (239명): 디지털 워크플로 임플란트 후방 단관이 교합 편차·조정 면적·조정 필요 크라운 모두 적음. (retrospective, 2026)
+- [[digital-workflow/park-2025-comparison-of-interference-from-eccentric]] — RCT (30 크라운): DJMT 통합 CAD가 구내 교합 조정량 감소(67.5 vs 91.8 µm). (rct, 2025)
+- [[digital-workflow/saad-2024-reliability-of-the-digital-functionally]] — 환자 내 RCT (13명): 측방 IOS 기록(디지털 FGP)이 밀링 전 편심 간섭 제거. (rct, 2024)
+- [[digital-workflow/hashemi-2022-fully-digital-versus-conventional-workflows]] — 전향 교차 (10명, 3본 임플란트 FDP): 디지털 = 기존 방식 정확도·교합·심미 동등, 기공 시간 단축. (prospective, 2022)
 
 ### 신규 추가 (2026-09)
 
