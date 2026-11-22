@@ -2,7 +2,7 @@
 title: "즉시식립·소켓실드 — socket-shield"
 authors: navigation
 year: 2026
-date: 2026-10-24
+date: 2026-11-22
 doi: N/A
 source: navigation
 category: immediate-implant/socket-shield
@@ -15,20 +15,20 @@ tags: [navigation, category-index, socket-shield]
 > [!summary] 한국어 핵심요약
 > - **분야**: 즉시식립·소켓실드
 > - **범위**: Socket-shield technique / partial extraction therapy (PET) — root/dentin shield to preserve buccal bone; survival/MBL/PES vs conventional, complications/failure, FEA stress, reviews/SR-MA
-> - **수록 논문**: 23편
+> - **수록 논문**: 25편
 
 ## Three-line Summary
 
 **Scope**: Socket-shield technique / partial extraction therapy (PET) — root/dentin shield to preserve buccal bone; survival/MBL/PES vs conventional, complications/failure, FEA stress, reviews/SR-MA
-**Indexed papers**: 23 papers in `wiki/immediate-implant/socket-shield/`.
+**Indexed papers**: 25 papers in `wiki/immediate-implant/socket-shield/`.
 
 ## 세줄요약
 
 **분야**: 즉시식립·소켓실드
-**수록 논문**: 23편
+**수록 논문**: 25편
 **하위 카테고리**: 없음
 
-## Papers in this Category (23)
+## Papers in this Category (25)
 
 | Paper |
 |---|
@@ -40,8 +40,10 @@ tags: [navigation, category-index, socket-shield]
 | [[durrani-2025-socket-shield-conventional-maxillary-rct|Comparative evaluation of conventional and socket-shield techniques on maxillary esthetics following immediate implant placement in fresh extraction sockets: A randomized controlled trial]] |
 | [[fang-2025-socket-shield-ai-bibliometric-analysis|Socket shield technique in implant dentistry: An AI-based bibliometric analysis]] |
 | [[gharpure-2022-socket-shield-conventional-implant-sr-ma|Socket-shield Technique vs Conventional Immediate Implant Placement for Esthetic Rehabilitation: SR+MA]] |
+| [[hurzeler-2010-socket-shield-technique-proof-principle|The socket-shield technique: a proof-of-principle report]] |
 | [[ji-2025-socket-shield-conventional-network-ma|Comparative effectiveness of the socket shield technique versus conventional implantation approaches in the esthetic zone: A systematic review and network meta-analysis]] |
 | [[ji-2025-socket-shield-vs-conventional-esthetic-nma|Socket shield technique versus conventional immediate implant placement for esthetic outcomes: A systematic review and network meta-analysis]] |
+| [[li-2026-short-term-pink-aesthetic-outcomes|Short-term pink aesthetic outcomes of the socket shield techniques with different jumping gap managements and conventional immediate implantation techniques in the aesthetic zone: a systematic review and Bayesian network meta-analysis]] |
 | [[lin-2022-socket-shield-technique-systematic-review-meta|Socket shield technique: A systematic review and meta-analysis]] |
 | [[lu-2025-socket-shield-conventional-aesthetic-meta|Clinical efficacy of socket shield technique compared to conventional immediate implant placement in the aesthetic zone: a meta-analysis]] |
 | [[neves-2023-socket-shield-stress-distribution-fea|Socket shield technique: Stress distribution analysis]] |
