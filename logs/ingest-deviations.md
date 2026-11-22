@@ -1145,3 +1145,4 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-11-22 | wang-2025-long-term-clinical-outcomes-of | abstract-only | No PMC record; built from PubMed structured abstract (full_text: false) |
 | 2026-11-22 | kouhi-2024-calcium-phosphate-grafts-combined-with | abstract-only | No PMC record; built from PubMed structured abstract (full_text: false) |
 | 2026-11-22 | campino-2019-association-between-traumatic-occlusal-forces | abstract-only | No PMC record; built from PubMed abstract (full_text: false) |
+| 2026-11-22 | wang-2025-long-term-clinical-outcomes-of | source-data-issue | Abstract GTR vs OFD CIs (CAL 0.06-3.10, PD 0.22-1.99) exclude zero but p=0.06/0.115 non-significant; flagged on wiki page |
