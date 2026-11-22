@@ -5715,3 +5715,4 @@ tags: []
 - [[orthodontics/wen-2025-exploring-the-mechanical-and-biological]] — Wen 2025 · narrative-review · 치주인대 (PDL) 구조·점탄성·기계신호전달: 폭 0.15–0.38 mm, 압박→파골·인장→골형성(YAP·PIEZO1·TRPV4)
 - [[occlusion/campino-2019-association-between-traumatic-occlusal-forces]] — Campiño 2019 · sr(14편 서술적, abstract-only, DOI 없음) · 교합 부조화–PD/CAL 연관은 유의하나 크기 미미, 교합 조정 효과 미미
 - [[immediate-implant/socket-shield/li-2026-short-term-pink-aesthetic-outcomes]] — Li 2026 · sr+ma(베이지안 NMA 21편, 1013개) · PES: SST·SST-GBR > IIP(MD 2.30·2.57), SST vs SST-GBR 차이 없음 — 소켓 실드에선 점프갭 이식 추가 이득 불명
+- [[overviews/periodontal-regeneration-gtr-emd-intrabony-overview]] — **종합** · GTR·EMD 골내결손 재생: 1년은 OFD 대비 확실(EMD CAL +1.14 mm), EMD+골이식은 CAL 무이득(+0.05 mm, 방사선 충만만 +0.80 mm), ≥5년 GTR vs OFD 비유의(p=0.06) — '병용 > 단독'을 EMD 축에서 좁힘; HA·PRF는 EMD와 동등
