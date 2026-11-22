@@ -344,6 +344,7 @@ tags: []
 - [[implants/isq/elkattan-2026-insertion-torque-isq-bone-level]] — 파일럿 RCT(21명·90개: BL 44/TL 46): ITV(36.0 vs 38.0 Ncm, p=.381)·기저 ISQ 군간 차이 없음, 90일 수평 ISQ만 TL 우세(66.5 vs 57.1, p=.029), ITV–기저 ISQ 상관 r=.493(p<.001)이나 90일 ISQ와 무관 — 이차 안정성은 초기 토크가 아닌 골유착 의존
 - [[implants/isq/ADOH.MS.ID.555605]] — Gil 2016 · in-vitro · 140 implants in 10 bovine ribs (type II bone): thread initiator ↓ insertion torque (24.4 vs 35.3 N, p<0.05) without ↓ ISQ (69.1 vs 72.2); IT-ISQ correlation meaningful only with thread initiator (r=0.587, p<0.05 vs r=0.193, p=0.11) — IT and ISQ reflect distinct biomechanical aspects (shear vs bending resistance) (DOI 10.19080/ADOH.2016.02.555605)
 - [[implants/isq/trisi-2009-implant-micromotion-related-peak]] — Trisi 2009 · in-vitro · 120 Ti-Bone implants in bovine bone (H/N/S density), 5 torque levels (20–100 N/cm): τ=-0.54 (P<0.001) torque vs micromotion; soft bone max 35 N/cm (spinning), hard/normal plateau at 45 N/cm; micromotion >90 μm in soft bone even at max torque — caution for immediate loading in low-density bone.
+- [[implants/isq/cha-2026-stability-immediately-placed-single-molar]] — 즉시 구치부 단일 임플란트 52개에서 Osstell ISQ vs AnyCheck IST 비교: 두 지표 모두 유의하게 증가(ISQ 76.0±6.8→81.8±5.2, IST 77.6±6.0→82.5±3.7; 모두 p<.001)하고 ≥75 범주 일치도는 69.2%→92.3%로 개선, 골유착 후 임상적 비교는 가능하나 완전 상호교환은 아님(인상 시 LoA ≈±10).
 
 ## 임플란트 — Osteotomy·Drill·발열 (Osteotomy / Drill / Thermal)
 - [[overviews/dental-research-units-reference-overview]] — **NEW Overview** (레퍼런스, 2026-07-14): 치과 논문에 자주 쓰이는 단위 빈도순 정리 — 5계열(거리·힘/토크·재료강도·방사선량·무차원지수)로 수렴, 각 단위에 대표 임계값 짝지음(MBL <1.5mm, IT ≥35Ncm, ISQ ≥70, CBCT µSv, HbA1c <7%, 불소 ppm). 빈도 mm≫mg>N>µm≈MPa>Ncm; 환산은 ×1000 3개(mm↔µm·MPa↔GPa·mSv↔µSv)+MPa=N/mm². 단위=저장고, 임계값=열쇠.
@@ -759,6 +760,7 @@ tags: []
 - [[immediate-implant/anatomic-assessment/huynh-ba-2010-analysis-socket-bone-wall]] — Huynh-Ba 2010 · cross-sectional(발치 시점 형태계측, n=93 발치부위, RCT 코호트 편입) · 상악 심미부 협측·구개측 골벽 두께 — 협측 1 vs 구개측 1.2 mm(P<0.05), 전방(견치~견치) 0.8 vs 구개부 1.1 mm(P<0.05), 전방 협측벽 87%가 ≤1 mm·2 mm는 3% → 2 mm 기준 시 전방 대부분 골증대 필요 (초록만, 전문 미확보)
 - [[immediate-implant/anatomic-assessment/todorovic-2023-buccal-palatal-alveolar-bone]] — in-vitro cadaveric(건조 두개골 72개, micro-CT) · 협측골이 전 치아·전 수준(0–9 mm)에서 0.5 mm를 거의 넘지 않고 다발뼈(bundle bone)만 존재, 최대 1/3에서 협측 개구부(fenestration) — 구개측은 치아경사부 <1 mm에서 9 mm 수준 중앙치 3.77·측치 4.56·견치 5.43 mm; CBCT 대비 해상도가 높아 앞선 CBCT 빈도치를 refine (초록만, 전문 미확보)
 - [[immediate-implant/esthetic-soft-tissue/chappuis-2015-soft-tissue-alterations]] — prospective 3D 중첩 (초록 전용, n 미기재, 8주): 발치 시 연조직 두께 표현형 간 동일(박벽 0.7 vs 후벽 0.8mm) → 박벽형만 8주에 ~7배 증후, 측정 수직 연조직 소실 1.6 mm가 7.5 mm 수직 골소실을 가림 — 총 조직 소실은 2/4/6/8주 모두 표현형 간 차이 없음(NS), 치수 변화 51%+가 2주 내 발생. chappuis-2013 골소실 소견을 `refines`(임상적으로 안 보임 ≠ 생물학적으로 없음) (초록만, 전문 미확보)
+- [[immediate-implant/esthetic-soft-tissue/kim-2026-immediate-provisional-prosthetic-components-maintaining]] — 발치 직후 즉시 프로비저널 보철물(맞춤형 치유 지대주·ovate pontic)로 전치부 연조직 윤곽을 지지·전달한 2증례, 최종 지르코니아 보철 1개월 Exocad 중첩에서 비교적 유지 (n=2, 이식 병행·시각 평가 한계)
 
 ## 상악동거상술 — 측방접근 (Sinus Lift: Lateral Window)
 - [[sinus-lift/lateral/lim-2011-sinus-membrane-perforation-techniques-review]] — Lim 2011, Korean review of Schneiderian membrane perforation repair techniques/materials in sinus lift surgery
@@ -5448,6 +5450,7 @@ tags: []
 - [[implants/peri-implantitis/moraschini-2026-prevalence-of-peri-implantitis-around]] — 지르코니아 임플란트 주위염 유병률 SR+MA (19편·995개): ≤3년 2%, 3–5년 2%, >5년 8% (95% CI 0–23%), RCT 5편 지르코니아 vs 티타늄 RR 1.66 (비유의), GRADE 낮음~매우 낮음
 - [[implants/peri-implantitis/de-2026-impact-of-oral-hygiene-instructions]] — 점막염 RCT(n=48): 3개월 해소율 OHI 단독 39.1% vs OHI+기구치료 56%; 순응도 OR 11.4, 치주염 병력·구치부 위치 불리
 - [[implants/peri-implantitis/aksu-2026-soft-tissue-phenotype-modification-as]] — 준무작위(43명·55임플란트, KTW<2 mm 점막염): 비외과 치료 후 유리구개이식(FPG) 추가 시 6개월 BoP 범위 0.75 vs 1.83(p=0.001), KTW +2.36 mm, 성공 OR 8.44; 초록 수준
+- [[implants/peri-implantitis/lee-2026-simultaneous-implant-placement-surgical-management]] — 임플란트 식립과 동시에 인접 치주 골내 결손·주위염 병변을 세정·골이식한 2증례, 3년 추적: 골충전 3.9·4.1 mm, CAL 획득 1.7·1.8 mm, 신규 임플란트 RBL −0.7 mm로 진행성 골소실 없음 (case-report)
 - [[implants/peri-implantitis/gong-2022-novel-histopathological-classification-implant]] — IPL 조직병리 5분류 최초 SR (28편): 낭종 57% 최다, 첨단부 절제술 97% 성공; 치근단부 방사선 투과상 감별 진단 기반 (2022)
 - [[implants/peri-implantitis/gao-2024-prevention-retrograde-peri-implantitis-pulpal]] — RPI 역학·병인·예방 문헌고찰 (73증례): 주원인 인접치 미치료 치수·치근단 병소; 표준 가이드라인 미정립 (2024)
 - [[implants/peri-implantitis/shah-2016-radiographic-classification-retrograde-peri-implantitis]] — RPI 방사선 3등급 분류 최초 제안 (54 IOPA): 경도 <25% / 중등도 25–50% / 중증 >50% 임플란트 길이 (2016)
