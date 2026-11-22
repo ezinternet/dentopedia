@@ -2,7 +2,7 @@
 title: "흡연·담배제품 — 치주·임플란트·발치 위험 종합 (Smoking & Tobacco Products: Periodontal, Implant & Extraction Risk)"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-11-21
+date: 2026-11-22
 doi: N/A
 source: N/A
 category: overviews
@@ -16,8 +16,9 @@ tags: [smoking, tobacco, cigarette, e-cigarette, vaping, waterpipe, smokeless-to
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 흡연·담배제품과 치주·임플란트·발치 위험을 다룬 논문 18편(인제스트 완료)을 기전/미생물 → 임플란트 생존·골소실·임플란트주위염 발생 → **제품별 골소실 위험 순위** → 용량-반응 → 금연 효과 → 수술·발치 합병증 → 신흥 노출경로(간접흡연·전자담배)로 종합한 페이지 (2026-11-21 갱신: Vámos 2024·Bangiev 2025·Gould 2026 추가; Kim 2024·Li 2025·Huang 2025·Abtahi 2026·Majid 2025는 본문 인용·미인제스트). [확인]
+> - 흡연·담배제품과 치주·임플란트·발치 위험을 다룬 논문 19편(인제스트 완료, 2026-11-22 Yahya 추가)을 기전/미생물 → 임플란트 생존·골소실·임플란트주위염 발생 → **제품별 골소실 위험 순위** → 용량-반응 → 금연 효과 → 수술·발치 합병증 → 신흥 노출경로(간접흡연·전자담배)로 종합한 페이지 (2026-11-21 갱신: Vámos 2024·Bangiev 2025·Gould 2026 추가; Kim 2024·Li 2025·Huang 2025·Abtahi 2026·Majid 2025는 본문 인용·미인제스트). [확인]
 > - **기전 (Apatzidou 2022, narrative review; Chih 2023 SR; Shibli 2024)**: 흡연은 중성구 기능 저하·MMP(특히 MMP-8) 상승·치주/임플란트주위 미생물 변화·창상치유 장애를 통해 조직 항상성을 손상 — 치주염 위험 약 2–6배, 임플란트주위염 위험 유의 증가의 기전적 근거. **Chih 2023**(SR, 14편, abstract-only)은 건강 임플란트 부위에서 흡연자의 혐기성 병원균 빈도 증가·미생물 다양성 감소, 질환 이행 시 공생균 감소·병원균 우세로의 dysbiosis 신호를 보고해 임플란트주위 미생물 경로를 보강한다. [확인]
+> - **[2026-11-22] 타액·설태 경로 (Yahya 2026, 단면연구 78명)**: 흡연자는 타액 완충능이 낮고(p=0.002) 설태가 두껍고 넓었다(p=0.008, p<0.001). 유량·pH는 같았다. 치주낭 밖의 숙주 방어 경로로서 우식 위험·구취와 연결된다. 소규모 단면연구라 인과는 입증되지 않았다. [확인]
 > - **임플란트 생존·골소실 정량 근거 수렴**: Mustapha 2022(실패율+MBL 모두 유의), Fan 2024(조기실패 OR 2.59, 95% CI 2.08–3.23, 32편/59,246 임플란트), **Calciolari 2026**(45편/44연구, 임플란트 단위 생존 OR 0.40·환자 단위 OR 0.43·CBL +0.64mm). [확인]
 > - **임플란트주위염 발생(incidence) 근거 추가 (Reis 2023, SR+MA, abstract-only)**: 흡연자는 임플란트주위염 발생 위험이 높았다 — 임플란트 단위 RR 2.04(초록 보고값, **95% CI 1.46–1.85로 내부 불일치 가능성 있어 원문 확인 필요**, p<.0001), 환자 단위 RR 2.79(95% CI 1.42–5.50, p=.003), GRADE 중등도. 생존/MBL을 넘어 발생 위험 축을 보강한다. [확인, abstract-only·CI 주의]
 > - **조기 실패 근거는 불일치**: Fan 2024·Kim 2024·Li 2025·Huang 2025는 위험 증가를 지지하나, **Abtahi 2026**(103,920명/207,568 임플란트, HR 1.04, 95% CI 0.89–1.22, p=0.63)은 조기 실패 증가를 확인하지 못했다. "흡연=조기 실패 위험"을 단정하지 말고 근거 불일치를 함께 설명해야 한다. [확인]
@@ -40,7 +41,7 @@ Passive ETS exposure raises periodontitis odds in non-smokers (Ye 2026, OR 1.47)
 
 ## 세줄요약
 
-흡연·담배제품과 치주/임플란트/발치 위험에 관한 인제스트 완료 18편 종합(2026-11-21): 기전·미생물(Apatzidou 2022, Chih 2023, Shibli 2024) → 생존/골소실·임플란트주위염 발생(Mustapha 2022, Fan 2024, Calciolari 2026, Reis 2023) → 제품별 MBL 순위(Vámos 2024, Bangiev 2025) → 용량-반응(Naseri 2020) → 금연 효과(Caggiano 2022) → 수술·발치 합병증(Wang 2023, Taberner-Vallverdú 2017, Asmael 2018) → 신흥 노출(ETS Ye 2026, 전자담배 La Rosa 2026·Majid 2025·Guney 2024·Gould 2026).
+흡연·담배제품과 치주/임플란트/발치 위험에 관한 인제스트 완료 19편 종합(2026-11-21; 2026-11-22 +1): 기전·미생물(Apatzidou 2022, Chih 2023, Shibli 2024) → 생존/골소실·임플란트주위염 발생(Mustapha 2022, Fan 2024, Calciolari 2026, Reis 2023) → 제품별 MBL 순위(Vámos 2024, Bangiev 2025) → 용량-반응(Naseri 2020) → 금연 효과(Caggiano 2022) → 수술·발치 합병증(Wang 2023, Taberner-Vallverdú 2017, Asmael 2018) → 신흥 노출(ETS Ye 2026, 전자담배 La Rosa 2026·Majid 2025·Guney 2024·Gould 2026).
 
 흡연은 임플란트 실패·MBL·임플란트주위염 발생 위험 증가와 연관되나(Calciolari 2026; Reis 2023 환자 단위 RR 2.79, 임플란트 단위 RR 2.04는 초록 보고 CI 주의), 조기 실패 근거는 불일치(Fan/Kim/Li/Huang 지지 vs Abtahi 2026 HR 1.04 비유의).
 
@@ -208,6 +209,10 @@ The overall implant-failure/MBL signal is robust (above), but **early failure (p
 | Patient using smokeless tobacco or waterpipe | Treat as **at least cigarette-level risk**: ST had the largest MBL (+2.53 mm, Vámos 2024); WP +1.58–1.90 mm, comparable to cigarettes (Vámos, Bangiev). Ask about these products explicitly — patients often do not report them as "smoking". |
 | Peri-implant exam in any smoker/vaper | Do not read **absent BOP** as health — nicotine suppresses bleeding while IL-1β rises (Bangiev 2025, Guney 2024). Rely on PD, radiographic bone level, suppuration. |
 
+**Yahya 2026 (cross-sectional, 78 adults, added 2026-11-22)** — salivary and tongue-surface pathway:
+- Smokers had significantly lower salivary **buffering capacity** (p=0.002) and thicker, more widespread **tongue coating** (Miyazaki Index; p=0.008 and p<0.001); flow rate and pH did not differ.
+- Adds a host-defence pathway outside the periodontal pocket: reduced buffering bears on caries risk and tongue coating on halitosis (see [[overviews/halitosis-etiology-measurement-management-overview]]). Single small cross-sectional sample, no adjustment for oral hygiene or diet, so the direction is plausible but causality is not shown. [cross-sectional]
+
 ---
 
 ## Related Pages
@@ -220,6 +225,7 @@ The overall implant-failure/MBL signal is robust (above), but **early failure (p
 - [[implants/survival/shibli-2024-implant-surface-smoking-human-peri-implant-bone]]
 - [[implants/peri-implantitis/reis-2023-the-influence-of-smoking-on]]
 - [[implants/peri-implantitis/chih-2023-the-impact-of-smoking-on]]
+- [[caries/yahya-2026-smoking-induced-changes-saliva-composition-tongue]] — 신규 2026-11-22: smokers' lower salivary buffering and thicker tongue coating (cross-sectional, n=78)
 - [[implants/peri-implantitis/guney-2024-the-impact-of-electronic-cigarettes]]
 - [[implants/mbl/vamos-2024-nicotine-containing-products-peri-implant-network-ma]]
 - [[implants/mbl/bangiev-2025-smoking-ecigarette-peri-implant-outcomes-sr-ma]]
