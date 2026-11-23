@@ -27,7 +27,7 @@ lang: ko
 
 # Slide Deck Outline
 
-**총 15 slide · 20–25분 · 동료 임상의 대상 (수치·프로토콜 중심, 기초 비유 최소화)**
+**총 17 slide · 20–25분 · 동료 임상의 대상 (수치·프로토콜 중심, 기초 비유 최소화)**
 
 ---
 
@@ -81,6 +81,15 @@ lang: ko
 > 손실 규모: **preload의 2–10%** (Varvara 2020은 2–15%로 다소 넓게)
 
 [근거강함] · Pardal-Peláez 2017, Varvara 2020
+
+---
+
+## Slide 5-b — 그림으로 보기: Torque → Preload → Settling
+
+![h:470](../lectures/assets/2026-07-02_settling-torque-preload-settling.jpg)
+
+- 조임 토크 → 나사 신장(Screw Elongation) = 전하중 → 접촉면 미세 요철이 눌리며 **세틀링(embedment relaxation)**
+- 정성적 도식 (Qualitative illustration)
 
 ---
 
@@ -175,6 +184,15 @@ lang: ko
 - 주의: 재조임은 세틀링을 줄이나 **잃은 clamping force를 크게 되살리진 못함** (Bulaqi 2015)
 
 [근거중간] · Varvara 2020, Saleh-Saber 2017, Nithyapriya 2018
+
+---
+
+## Slide 12-b — 그림으로 보기: Retorque → Preload Recovery
+
+![h:470](../lectures/assets/2026-07-02_settling-retorque-preload-recovery.jpg)
+
+- 세틀링 후 감소한 전하중에서 출발 → **재조임(Retorque)** 으로 나사를 다시 신장시켜 전하중 회복
+- 정성적 도식 (Qualitative illustration)
 
 ---
 
