@@ -227,6 +227,13 @@ tags: []
 - [[implants/yi-2021-long-term-clinical-result-implant]] — Yi 2021 · retrospective (32개/28명, 평균 122.7개월): 임플란트 인접치 손상 — 침범(group I)·접촉(II)·1mm 미만 근접(III); 손상치 90.6% 기능유지, 미치료 27개 중 7개만 RCT(3개 추후 발치)·19/27(70.4%) 생활력 유지, 기존 근관치료 5개는 무변화; 임플란트 생존 96.9%, ISQ 64.1→73.9(P=0.007) — 직접 침범도 즉시 발치 금지, 감시 후 개입
 - [[implants/llamasmonteagudo-2017-clinical-parameters-of-implants-placed]] — 치유된 부위 무피판 (Flapless) 대 점막골막 피판 (Flapped) 임상지수 체계적 고찰 (10편: 동물 6·인체 4, 334개 임플란트·3건 실패) — 동물은 무피판 우위(탐침깊이 1.0 vs 1.7mm, 염증 0/12 vs 5/12), 인체는 무피판 우세 경향이나 결론 미합치 (PMC 전문)
 
+- [[implants/mbl/linkevicius-2015-crestal-bone-stability-soft-tissue-thickening-matching]] — 전향적 대조시험(환자 103명·임플란트 103개, 수평 일치 연결): 1년 변연골 소실(MBL) 얇은 점막 1.65±0.08(근심)·1.81±0.06mm(원심) vs 동종이식막 두껍게 0.31±0.05·0.34±0.05mm, 자연 두꺼운 점막 0.44±0.06·0.47±0.07mm (A-B·A-C p=.000, B-C 비유의).
+- [[implants/mbl/terzioglu-2024-supracrestal-height-marginal-bone-level-crestal-subcrestal]] — 무작위 대조 임상시험(환자 34명·임플란트 80개): 초치조정 조직 높이(STH) ≤2mm+치조정 식립군에서 6개월 근심측 변연골 수준 변화(ΔMBC) 유의 증가, STH >2mm에선 식립 깊이 간 차이 없음(초록 전용)
+- [[implants/mbl/zukauskas-2021-implant-placement-depth-soft-tissue-crestal-stability]] — 증례대조시험(66명): 얇은 연조직 하방 플랫폼 스위칭(PS)군 2개월 골소실 −0.69 mm vs 두꺼운 연조직 상방 일치연결군 0.2 mm(P<0.05), 1년 −0.6 vs 0.28 mm — 연결·깊이·연조직 세 변수 동시 변경으로 단일 인자 귀속 불가(초록 전용).
+- [[implants/mbl/linkevicius-2015-vertical-soft-tissue-thickness-crestal-bone-platform-switching]] — 플랫폼 스위칭 임플란트 80개 비교: 점막 ≤2mm군 1년 변연골소실 1.17mm vs >2mm군 0.21mm(p<0.001), 얇은 점막에서는 스위칭도 골소실을 막지 못함(초록 전용)
+- [[implants/kim-2026-directional-prosthesis-implant-geometry-eccentric-load-fea]] — 유한요소분석(FEA) 17개 기하 배치에서 30° 편심 하중 시 골-임플란트 계면 응력 중심 487 MPa(중심하중 108 MPa); 최취약방향 PIAAR은 편심 증폭과 양의 관련(ρ=0.63, p=0.007), 방향성 분산은 음의 관련(ρ=−0.61, p=0.009) — 접근공 중심성만으로는 불충분
+- [[implants/mbl/linkevicius-2020-submerged-healing-abutment-subcrestal-soft-tissue]] — 얇은 연조직(≤2 mm) 32명·골수준 PS 임플란트 40개 2년 RCT: 1.5 mm 골하방 식립 골능 소실 0.18 ± 0.32 mm vs 골정상 텐팅 0.51 ± 0.4 mm(P=.001); 텐팅은 연조직 두께 1.85→3.65 mm로 증가(P=.005)
+
 ## 임플란트 — 표면처리·골유착 심화 (Osseointegration Theory)
 - [[implants/albrektsson-1981-osseointegrated-titanium-implants-requirements]] — 랜드마크(1981): 골유착을 직접 골-임플란트 접촉으로 정의(최초 인체 TEM)+6대 전제(재료·디자인·표면·골상태·술식·부하조건)
 - [[implants/surface/hayashi-2014-hydrocarbon-attenuates-osteoblast-titanium]] — in-vitro · 탄화수소(C/Ti) 농도 의존적 골아세포 억제 — BIC 정체 직접 원인 최초 실증 (J Dent Res 2014)
