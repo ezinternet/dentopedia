@@ -65,6 +65,6 @@ This single-arm prospective clinical trial followed 26 subjects (52 adjacent pos
 
 ## Related Papers
 
-- [[wiki/implants/chrcanovic-2014-flapless-vs-conventional-implant-surgery-ma]] — SR/MA of flapless versus conventional flapped implant surgery; likewise found no significant marginal bone-loss difference (MD −0.07 mm, P = 0.16), but on implants rather than adjacent teeth — procedural counterpart.
-- [[wiki/periodontics/kolte-2019-gingival-angle-zenith-angle-thickness]] — cross-sectional gingival-thickness/phenotype measurement study; shares the phenotype-assessment axis that this trial relates to bone outcomes.
+- [[implants/chrcanovic-2014-flapless-vs-conventional-implant-surgery-ma]] — SR/MA of flapless versus conventional flapped implant surgery; likewise found no significant marginal bone-loss difference (MD −0.07 mm, P = 0.16), but on implants rather than adjacent teeth — procedural counterpart.
+- [[periodontics/kolte-2019-gingival-angle-zenith-angle-thickness]] — cross-sectional gingival-thickness/phenotype measurement study; shares the phenotype-assessment axis that this trial relates to bone outcomes.
 - Batch siblings (prose only, pages landed separately): Wood et al. 1972 (*Alveolar crest reduction following full and partial thickness flaps*, ref. 8) and Fickl et al. 2011 (*Bone loss after full-thickness and partial-thickness flap elevation*, ref. 1) — the classic full- vs partial-thickness flap bone-loss studies this trial builds on with 12-month CBCT data.
