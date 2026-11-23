@@ -15,6 +15,7 @@ source_wiki:
   - wiki/implants/isq/balshi-2005-rfa-immediately-loaded-maxillary-mandibular.md
   - wiki/implants/isq/kim-2013-implant-stability-retrospective-rfa-isq.md
   - wiki/implants/isq/won-2008-smartpeg-sterilization-rfa-implant-stability.md
+  - wiki/implants/isq/cha-2026-stability-immediately-placed-single-molar.md
 relations:
   - type: extends
     target: rosas-diaz-2023-rfa-mapping-nanostructured-hydroxyapatite
@@ -29,6 +30,9 @@ relations:
   - type: extends
     target: stability-dip-fixture-treatment-decision-overview
     note: "adds the intervention layer downstream of this measurement ladder — which surface/surgical lever to pick once a dip is measured, allocated by bone quality and site"
+  - type: extends
+    target: cha-2026-stability-immediately-placed-single-molar
+    note: "clinical, two-time-point extension of the RFA-vs-DCA device comparison first tested in vitro by Lee 2024 — same device pair, immediate flapless molars"
 ---
 
 ## 한국어 핵심요약
@@ -41,6 +45,7 @@ relations:
 > - **영향 변수**: 피질골(cortical bone) 두께와 macro-design(tapered·platform)이 ISQ의 주 결정인자이고, 임플란트 길이·직경의 영향은 상대적으로 약하다 (Stoilov 2023, Chatvaratthana 2017). 단, **직경**은 T2(2차 안정성) ISQ에서 시스템 독립적 일반 예측인자 (β=+3.4~+4.2, Huang 2017 n=557 다변량 회귀).
 > - **치조정 피질골의 지배**: 치조정에서 3mm 이내 피질골 두께만 ISQ와 강한 상관 (r=0.885); 6·9mm 깊이와 해면골은 무관 (Chatvaratthana 2017 전향적, n=19). CBCT 식립 전 평가로 ISQ 예측 가능.
 > - **기기 대안**: Anycheck(IST/감쇠용량분석 Damping Capacity Analysis, DCA)가 Osstell(ISQ/RFA)과 동등한 골밀도·길이 반응을 보이며 측정자 독립적 — SmartPeg 수기조임 변동이 없어 비전문가도 일관된 값 획득 (Lee 2024 체외, n=60).
+> - **[2026-11-22 통합] 기기 대안의 임상 연장**: 즉시 플랩리스 단일 구치 52개에서 Osstell ISQ vs AnyCheck IST — 두 값 모두 유의 상승, 범주 일치도(역치 ≥75) 69.2%(식립)→92.3%(인상), 블랜드-알트만 (Bland–Altman) 편향 비유의, 그러나 인상 시에도 일치한계 ≈±10 → **임상적으로 비교 가능하나 상호교환 불가; 개별 임플란트 종단 추적은 동일 기기 사용** (Cha 2026 후향적). 체외(Lee 2024) 비교를 임상·2시점으로 확장. [확인]
 > - **부하 결정 ladder**: 식립 직후 ISQ ≥ 70 + 1차 안정성 ≥ 35 Ncm → 즉시 임시(전치 단일치); ISQ 60–69 → 통상 부하 또는 4–6주 재측정 후 결정; ISQ < 60 → 통상 부하 + 추가 healing.
 > - **보정**: 상악동거상술(MSFA)·골유도재생술(GBR) 동반 시 ISQ 임계값 +3, Type IV bone에서 +2 보정.
 > - 측정은 근·원·협·설 4방향으로 하고, 1방향만 평균과 ≥ 10 차이 나면 재측정.
@@ -54,7 +59,7 @@ relations:
 
 ## Three-line Summary
 
-Decision-ladder synthesis of ~40 ISQ/RFA papers across 3 axes: (1) measurement device — Osstell (ISQ 1–100) recommended over Periotest for interpretability, SmartPeg torque ≥10 Ncm required for accuracy; Anycheck (DCA) is a valid operator-independent alternative; (2) loading threshold — ISQ ≥70 at placement OR ≥65 after 4–6 weeks is the early/immediate-loading cutoff, with immediate loading additionally requiring IT ≥35 Ncm (Andersson 2019 n=745; Wittneben 2023 SR); Type IV bone normally runs ISQ 58–65 — do not auto-delay.
+Decision-ladder synthesis of ~40 ISQ/RFA papers across 3 axes: (1) measurement device — Osstell (ISQ 1–100) recommended over Periotest for interpretability, SmartPeg torque ≥10 Ncm required for accuracy; Anycheck (DCA) is a valid operator-independent alternative; (2) loading threshold — ISQ ≥70 at placement OR ≥65 after 4–6 weeks is the early/immediate-loading cutoff, with immediate loading additionally requiring IT ≥35 Ncm (Andersson 2019 n=745; Wittneben 2023 SR); Type IV bone normally runs ISQ 58–65 — do not auto-delay. In immediate flapless single molars, ISQ–IST agreement rose from 69.2% at placement to 92.3% at impression yet limits of agreement stayed ≈±10 — the DCA device is comparable but not interchangeable, so use the same device for longitudinal monitoring (Cha 2026 retrospective n=52).
 
 Cortical bone thickness at <3 mm depth is the dominant ISQ determinant (r=0.885; Chatvaratthana 2017 prospective n=19); tapered design and wider diameter (+3.4 to +4.2 per mm diameter at secondary stability; Huang 2017 n=557 multivariate regression) matter more than implant length; CBCT cortical-thickness assessment before placement allows ISQ prediction and loading-decision planning.
 
@@ -62,7 +67,7 @@ ISQ and insertion torque (IT) are complementary, not interchangeable — their c
 
 ## 세줄요약
 
-ISQ/RFA 40편 의사결정 ladder 3축: (1) 측정 도구 — Osstell(ISQ 1–100, 직관적) 1차 권장, SmartPeg 토크 ≥10 Ncm 표준화 필수, Anycheck(DCA)는 측정자 독립적 대안; (2) 임계값 — 식립 시 ISQ ≥70 또는 4–6주 후 ≥65가 조기/즉시 부하 기준, 즉시 부하는 추가로 IT ≥35 Ncm 필요(Andersson 2019 n=745; Wittneben 2023 SR); Type IV 골은 ISQ 58–65가 정상분포 — 자동 지연 결정 금지.
+ISQ/RFA 40편 의사결정 ladder 3축: (1) 측정 도구 — Osstell(ISQ 1–100, 직관적) 1차 권장, SmartPeg 토크 ≥10 Ncm 표준화 필수, Anycheck(DCA)는 측정자 독립적 대안; (2) 임계값 — 식립 시 ISQ ≥70 또는 4–6주 후 ≥65가 조기/즉시 부하 기준, 즉시 부하는 추가로 IT ≥35 Ncm 필요(Andersson 2019 n=745; Wittneben 2023 SR); Type IV 골은 ISQ 58–65가 정상분포 — 자동 지연 결정 금지. 즉시 플랩리스 단일 구치에서 ISQ–IST 일치도는 식립 69.2%→인상 92.3%로 개선되나 일치한계는 ≈±10 유지 — **비교 가능하나 상호교환 불가, 종단 추적은 동일 기기** (Cha 2026 후향적 n=52).
 
 피질골 두께(3 mm 이내)가 ISQ의 지배적 결정인자(r=0.885, Chatvaratthana 2017 전향적 n=19); 테이퍼 디자인·넓은 직경(직경 1 mm당 2차 안정성 ISQ +3.4~+4.2, Huang 2017 n=557 다변량)이 임플란트 길이보다 더 중요; CBCT로 식립 전 피질골 두께 평가 시 ISQ 예측 가능.
 
@@ -74,7 +79,7 @@ ISQ와 삽입토크(IT)는 보완 지표(상관 r=0.44, I²>90%, Tisci 2026 SR+M
 
 핵심 명제 4개:
 1. **ISQ ≥70 (식립 시) 또는 ≥65 (4-6주 healing 후) — early/immediate loading 임계** — Andersson 2019 + Bavetta 2024 (본 sub-cat의 spine). [확인]
-2. **Osstell vs Periotest 상관성 우수, 임상에서 호환 가능. Osstell 1차 추천 (수치 직관적)** — Al-Jetaily 2010, Zix 2008. [확인]
+2. **Osstell vs Periotest 상관성 우수, 임상에서 호환 가능. Osstell 1차 추천 (수치 직관적)** — Al-Jetaily 2010, Zix 2008. Anycheck(IST/DCA)도 Osstell과 같은 상승 궤적을 그리며 즉시 구치에서 골유착 후 일치도 92.3%에 도달하나, 일치한계 ≈±10 때문에 **상호교환 불가·동일 기기 종단 추적** — Lee 2024(체외) → Cha 2026(임상, 즉시 구치 2시점). [확인]
 3. **Cortical bone 두께·macro-design (tapered·platform)이 ISQ의 주 결정인자. 길이·직경은 상대적으로 약함** — Chatvaratthana 2017, Stoilov 2023, Nandini 2022, Shiffler 2016. [확인]
 4. **SmartPeg torque (≥10 Ncm) 측정 정확도에 영향. 표준 torque 적용 필수** — Kastel 2019. [확인]
 
@@ -90,6 +95,7 @@ ISQ와 삽입토크(IT)는 보완 지표(상관 r=0.44, I²>90%, Tisci 2026 SR+M
 | [[implants/isq/bhandarkar-2023-rfa-mathematical-modeling-implant-stability]] | in-vitro | RFA 수학적 모델링 |
 | [[implants/isq/won-2008-smartpeg-sterilization-rfa-implant-stability]] | in-vitro | SmartPeg 400회 반복 측정·6종 소독법 후 ISQ 변화 없음; 자성 소실 임계 150°C — 임상 오토클레이브(132°C) 안전 |
 | [[implants/isq/lee-2024-primary-implant-stability-isq-devices-invitro]] | in-vitro (n=60, polyurethane 15/30 PCF) | Osstell Beacon+(ISQ/RFA) vs Anycheck(IST/DCA): 동등한 골밀도·길이 반응 (R up to 1.000 ISQ, 0.999 IST); **Anycheck가 측정자 독립적** (표준 토크 고정); 저밀도골 길이 연장 효과 확인, 중밀도골 10mm 이상 부가 효과 없음 |
+| [[implants/isq/cha-2026-stability-immediately-placed-single-molar]] | retrospective (n=52, 즉시 플랩리스 단일 구치, 2시점) | **Lee 2024 기기 쌍의 임상 연장** — Osstell ISQ vs AnyCheck IST: 식립→인상 ISQ 76.0±6.8→81.8±5.2, IST 77.6±6.0→82.5±3.7 (모두 p<.001; d 1.09/0.75); 상관 r 0.379→0.601; 범주 일치도(≥75) 69.2%→92.3% (κ 0.341→0.469); Bland–Altman 편향 −1.54→−0.65 (NS), 95% LoA 폭 ≈28→≈16 (인상 시 ≈±10). 52개 모두 성공(평균 42개월) → **비교 가능하나 상호교환 불가; 종단 추적은 동일 기기** |
 | [[implants/isq/naughton-2023-safemount-osstell-transducer-torque-isq]] | in-vitro (n=56 implants, 7 types, D1–D4) | **수동 조임(gauze) → ISQ −2.05 (p<.001) vs 6 Ncm 토크 렌치**; SafeMount·플라스틱 마운트 ≡ 렌치 (NS); D4 골 ICC <0.24 — 어떤 방법도 저밀도골에서 신뢰 불가; 골밀도가 ISQ 변이의 36% 지배 |
 | [[implants/isq/parmar-2024-dependability-osstell-isq-measuring]] | clinical (n=60 implants, 18 patients) | Osstell ISQ ICC=0.96 (SmartPeg Type I·II 모두); 46–59% 케이스에서 <3 ISQ 변동 — **임상 단 1회 측정으로 충분** |
 | [[implants/isq/kim-2026-ist-versus-isq-reliability-inter-examiner]] | controlled lab (n=7 hygienists, 3 bone models) | IST vs ISQ 검사자간 ICC>0.90, 기기간 r>0.85; **검사자 경험 수준 유의 영향 없음** — IST는 위생사 포함 비전문가도 일관 측정 가능 |
@@ -102,7 +108,7 @@ ISQ와 삽입토크(IT)는 보완 지표(상관 r=0.44, I²>90%, Tisci 2026 SR+M
 2. **여러 방향 측정** — 근·원·협·설 4방향. 1방향만 평균과 ≥10 차이 시 재측정.
 3. **Periotest** — 가능하나 음수 출력 (-8~+50). Osstell ISQ (1-100)이 직관적.
 4. **SmartPeg 재사용** — 오토클레이브(132°C) 반복 소독 후 ISQ 신뢰성 유지 (Won 2008). 150°C 초과 건열만 주의.
-5. **Anycheck (IST/DCA)** — Osstell과 동등한 경향; 직접접촉법으로 측정자 독립적. 비전문가 또는 연속 추적 측정 시 대안 (Lee 2024 in-vitro). 동일 관찰자가 추적 측정해야 longitudinal 비교 유효.
+5. **Anycheck (IST/DCA)** — Osstell과 동등한 경향; 직접접촉법으로 측정자 독립적. 비전문가 또는 연속 추적 측정 시 대안 (Lee 2024 in-vitro). 즉시 플랩리스 구치에서도 인상 시 ISQ–IST 일치도 92.3%로 개선되나 일치한계 ≈±10 — **두 기기를 바꿔가며 추적하지 말 것** (Cha 2026). 치유 지대주 장착 상태에서 타격 측정 가능해 SmartPeg 탈부착 불필요. 동일 관찰자·동일 기기로 추적 측정해야 longitudinal 비교 유효.
 6. **SmartPeg 수동 조임(gauze) 주의** — 6 Ncm 토크 렌치 대비 ISQ를 평균 2점 낮게 산출 (Naughton 2023). 연구·추적 측정에는 SafeMount 또는 플라스틱 마운트 사용. D4 골에서는 조임 방법에 무관하게 ISQ 신뢰도 불량 (ICC <0.24) — 해석 주의.
 
 ### 축 2 — 임계값 (Loading decision)
@@ -302,6 +308,11 @@ ISQ와 삽입토크(IT)는 보완 지표(상관 r=0.44, I²>90%, Tisci 2026 SR+M
 - [[implants/isq/bayarchimeg-2013-evaluation-correlation-insertion-torque-primary]] — In-vitro (polyurethane foam #10–#50, n=20/group): IT–ISQ correlation strong in homogeneous bone (r=0.82, P<0.001) but weakens when cortical thickness, cancellous density, or drill diameter vary independently — directly supports 축 3 "primary stability is multifactorial; IT alone cannot predict ISQ" (in-vitro, 2013)
 - [[implants/isq/ADOH.MS.ID.555605]] — In-vitro (n=140 implants, bovine rib type-II bone): thread initiator reduces mean IT (24.4 vs 35.3 Ncm) without significantly affecting ISQ (69.1 vs 72.2); IT–ISQ correlation moderate with thread initiator (r=0.587, P<0.05) vs weak without (r=0.193, NS) — IT and ISQ reflect different aspects of primary stability; thread initiator lowers IT without compromising stability (in-vitro, unknown)
 - [[implants/isq/trisi-2009-implant-micromotion-related-peak]] — In-vitro biomechanical (120 implants, 3 bone densities, 5 torque levels, 1800 measurements): Spearman ρ=−0.54 (P<0.001) — higher IT reduces micromotion; effect plateaus at 45 Ncm in hard/normal bone; soft bone max achievable torque 35 Ncm with micromotion >90 µm even at ceiling — supports immediate loading contraindication in soft bone (in-vitro, 2009)
+
+## Related Papers (added 2026-11-22)
+
+**기기 비교의 임상 연장 — Osstell(ISQ/RFA) vs AnyCheck(IST/DCA), 2시점 (RFA-vs-DCA clinical extension)**
+- [[implants/isq/cha-2026-stability-immediately-placed-single-molar]] — 후향적 단일기관 (인제대 상계백병원, 2020–2022; 45명/52개, 즉시 플랩리스 단일 구치): 식립 시 → 인상 시(평균 84.3±29.4일) ISQ 76.0±6.8→81.8±5.2, IST 77.6±6.0→82.5±3.7 (모두 p<.001); ISQ–IST 상관 r 0.379→0.601; 범주 일치도(≥75) 69.2% (κ 0.341)→92.3% (κ 0.469); Bland–Altman 편향 −1.54→−0.65 (NS), 95% LoA 폭 ≈28→≈16 (인상 시 ≈±10); 52개 모두 임상 성공(평균 42.0±17.7개월). **[[implants/isq/lee-2024-primary-implant-stability-isq-devices-invitro]]의 체외 기기 비교를 임상·즉시 구치·두 시점으로 확장** — 골유착 후에도 "임상적으로 비교 가능하나 완전히 상호교환 불가", 개별 임플란트 종단 추적은 동일 기기 사용 권고. 축 1 기기 비교표·도구 선택 ladder 5번에 반영. [retrospective]
 
 ## Related interactives
 
