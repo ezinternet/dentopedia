@@ -5,7 +5,7 @@ year: 2025
 doi: "10.1186/s12903-025-07225-2"
 pmid: "41402817"
 pmcid: "PMC12709688"
-source: "BMC Oral Health"
+source: gulmez-2025-impact-of-sintering-speed-and.md
 category: dental-materials/zirconia
 evidence_level: in-vitro
 date: 2025-01-01
@@ -114,7 +114,7 @@ Speed sintering consistently reduced grain size across all materials.
 
 ## Related Papers
 
-- [[dental-materials/zirconia/liu-2022-high-speed-sintering-ltd-translucent-zirconia]] — Also confirms speed sintering does not impair flexural strength or LTD resistance in translucent zirconia (3Y-TZP, 5Y-PSZ); grain size reduction consistent
+- [[dental-materials/zirconia/liu-2022-high-speed-sintering-ltd-translucent-zirconia]] — Also found no significant effect of speed sintering on flexural strength or translucency across 5 Y-PSZ products (KATANA HT/STML/UTML, Zpex 4, Zpex Smile); LTD similar in some groups only; grain size reduction consistent
 - [[prosthetic-materials/aboushelib-2026-translucent-zirconia-monolithic-mechanical-performance]] — Directly comparable: sintering speed × surface treatment × flexural strength in 3Y-PSZ and 4Y-PSZ
 - [[dental-materials/zirconia/desouza-2020-flexural-strength-and-crystalline-stability]] — Processing effects on zirconia flexural strength and crystalline stability
 - [[dental-materials/zirconia/candido-2022-effect-of-grinding-and-regenerative]] — Grinding and regenerative heat treatment effects on zirconia; surface finishing trade-offs
