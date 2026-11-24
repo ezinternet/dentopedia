@@ -15,20 +15,20 @@ tags: [navigation, category-index, dentin-hypersensitivity]
 > [!summary] 한국어 핵심요약
 > - **분야**: 상아질 과민증
 > - **범위**: Dentinal hypersensitivity — etiology (hydrodynamic theory), in-office and at-home management, desensitizing agents
-> - **수록 논문**: 24편
+> - **수록 논문**: 25편
 
 ## Three-line Summary
 
 **Scope**: Dentinal hypersensitivity — etiology (hydrodynamic theory), in-office and at-home management, desensitizing agents
-**Indexed papers**: 24 papers in `wiki/dentin-hypersensitivity/`.
+**Indexed papers**: 25 papers in `wiki/dentin-hypersensitivity/`.
 
 ## 세줄요약
 
 **분야**: 상아질 과민증
-**수록 논문**: 24편
+**수록 논문**: 25편
 **하위 카테고리**: 없음
 
-## Papers in this Category (24)
+## Papers in this Category (25)
 
 | Paper |
 |---|
@@ -56,3 +56,4 @@ tags: [navigation, category-index, dentin-hypersensitivity]
 | [[scheffel-2015-transdentinal-cytotoxicity-glutaraldehyde-odontoblast|Transdentinal cytotoxicity of glutaraldehyde on odontoblast-like cells]] |
 | [[shan-2021-low-level-light-therapy-dentin-hypersensitivity-sr-ma|Effects of low-level light therapy on dentin hypersensitivity: a systematic review and meta-analysis]] |
 | [[wang-2026-nano-hydroxyapatite-vs-fluoride-toothpaste-dentin-hypersensitivity-sr-ma|Efficacy comparison of nano-hydroxyapatite and fluoride for dentin hypersensitivity: a systematic review and meta-analysis]] |
+| [[ziaaddini-2025-csps-toothpastes-dentin-hypersensitivity-umbrella-review|Calcium sodium phosphosilicate toothpastes impact on the treatment of dentin hypersensitivity: an umbrella review]] |
