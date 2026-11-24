@@ -1,8 +1,8 @@
 ---
 title: "Immediate Implant 4-Variable Bundle (Flap × Provisionalization × CTG × Socket Grafting) — Cosyn Series Synthesis"
-authors: synthesis page (compiled by Claude from 11 wiki entries, ingested through 2026-05-22)
+authors: synthesis page (compiled by Claude from 17 wiki entries + 1 loading-protocol cross-reference, updated 2026-11-25)
 year: 2026
-date: 2026-05-22
+date: 2026-11-25
 category: overviews
 evidence_level: synthesis
 source_collection: internal
@@ -14,6 +14,7 @@ source_papers:
   - immediate-implant/esthetic-soft-tissue/cosyn-2026-buccal-dehiscence-morphotype-regenerative-strategy-iip
   - immediate-implant/esthetic-soft-tissue/fettouh-2026-safe-angle-guided-iip-anterior-maxilla-deviation
   - immediate-implant/esthetic-soft-tissue/nechita-2026-guided-provisionalization-emergence-profile-esthetic-zone
+  - implants/loading-protocol/rismanchian-2025-immediate-nonimmediate-loading-umbrella-review
 ---
 
 ## 한국어 핵심요약
@@ -27,6 +28,8 @@ source_papers:
 > - 1차 안정성 floor의 정량화(Wang 2026, n=120): 즉시군은 식립 시 ISQ 더 낮아도(63 vs 71) ITV ≥20 N·cm·ISQ ≥50 충족 시 12개월 성공률·최종 ISQ 동등 + MBL 더 적고(0.48 vs 0.85mm) PES 더 높음(11.5 vs 10.1) — ISQ gap은 12개월에 소멸. IP 권장 35 Ncm은 유지하되, 즉시식립 *가능* 하한은 ITV ≥20·ISQ ≥50로 더 낮다.
 > - 협측 dehiscence면 flapless가 *필수*(flap이 협측골판 혈류 차단) — Cosyn 2026이 11개 dehiscence morphotype을 재생잠재력 3단계(modified trimodal / four-pillar+막 / four-pillar+supportive막+composite graft)로 매핑; Type III(dehiscence+facial recession)와 extended defect(인접치까지 골소실)는 *절대 금기*.
 > - 가이드 식립(신규 축): 전상악 IIP는 drill이 구개 경사를 따라가 협측으로 밀리기 쉬움 → Fettouh 2026 Safe Angle Concept + plateau-drill 2-guide로 편차 각도 4.56°·platform 0.91mm·apex 1.47mm, 전 증례 safe angle 내·각도형 지대주 0건(단, 단일군). Nechita 2026은 가이드 전달 무회전방지 5° Morse taper 즉시 프로비저널로 1년 MBL 0.37mm·협측 윤곽 +1.41mm·완전 유두 70%(n=20 후향).
+> - IP 변수 교차참조: 단일 임플란트 즉시부하 (Immediate Loading, IL) vs 비즉시부하 (Nonimmediate Loading, NIL) 우산리뷰 (umbrella review, Rismanchian 2025, SR 24편)는 생존·변연골소실 (Marginal Bone Loss, MBL)에서 IL≈NIL을 재확인 — Pitman 2022의 "IP 생존 동등"을 넓은 모집단에서 보강할 뿐. 식립시기 (치유골 vs 발치와) 미구분·심미 (midfacial·PES) 미보고라 IP의 실제 이득인 연조직 effect size와 35 Ncm 기준에는 정보 없음.
+> - 서베일런스 (2026-11-24): 2021–2026 PubMed 우산리뷰 검색에서 신규 없음; Cochrane 연조직 증대 overview (PMID 40662426)·즉시 vs 지연 식립 우산리뷰 (PMID 42674793)는 프로토콜만 존재 → 재확인 예정.
 > - 4개 effect size를 단순 가산하지 말 것 — 각 변수가 조정 효과로 보고돼 일부 중첩 가능.
 > - SG 재료 선택은 결과 차이 작음 — 자가골 vs 이종골 협측 흡수 0.61 vs 0.58mm 동등(Stagnaro-Borgia 2022); 술자 친숙도·환자 부담 기준 선택.
 > - CTG vs 이종 콜라겐 매트릭스(Collagen Matrix)의 우위는 통계적으로 marginal — thin biotype이 아니면 콜라겐 매트릭스로 대체 가능(Azadi 2025 NMA).
@@ -36,7 +39,7 @@ source_papers:
 
 ## Three-line Summary
 
-Synthesis of 17 wiki entries (4 Cosyn-group SR+MA as anchors + 7 newer RCT/NMA + 5 esthetic-soft-tissue extensions) quantifying independent effect sizes of the 4 surgical variables after Immediate Implant Placement (IIP): flapless ~0.2–0.4 mm buccal bone reduction vs flap, immediate provisionalization (IP) ~0.3–0.5 mm midfacial preservation, CTG ~0.4–0.7 mm (largest in thin biotype), SG ~0.4 mm horizontal (near-mandatory at jump space ≥2 mm; CBCT confirms >2 mm gap with DBBM preserves 90% ridge cross-section vs ~41% loss without graft, Araújo 2026).
+Synthesis of 17 wiki entries (4 Cosyn-group SR+MA as anchors + 7 newer RCT/NMA + 5 esthetic-soft-tissue extensions; plus one loading-protocol umbrella cross-reference) quantifying independent effect sizes of the 4 surgical variables after Immediate Implant Placement (IIP): flapless ~0.2–0.4 mm buccal bone reduction vs flap, immediate provisionalization (IP) ~0.3–0.5 mm midfacial preservation, CTG ~0.4–0.7 mm (largest in thin biotype), SG ~0.4 mm horizontal (near-mandatory at jump space ≥2 mm; CBCT confirms >2 mm gap with DBBM preserves 90% ridge cross-section vs ~41% loss without graft, Araújo 2026).
 
 Primary stability floor for IP is ITV ≥20 N·cm and ISQ ≥50 (Wang 2026 n=120): meeting this threshold yields equivalent 12-month success and ISQ, lower MBL (0.48 vs 0.85 mm), and higher PES (11.5 vs 10.1) versus delayed placement; buccal dehiscence makes flapless mandatory (flap cuts buccal bone blood supply), and Cosyn 2026 maps 11 dehiscence morphotypes into three regenerative tiers with Type III and extended defects as absolute contraindications.
 
@@ -44,7 +47,7 @@ Clinical bottom line: anterior single-tooth default is Flapless + IP + optional 
 
 ## 세줄요약
 
-17편 종합(Cosyn 그룹 SR+MA 4편 + 신규 RCT/NMA 7편 + 심미연조직 5편): IIP 결정 후 4개 술식 변수의 독립 effect size — flapless(협측골 흡수 ~0.2–0.4mm 감소), IP(midfacial 보존 ~0.3–0.5mm), CTG(~0.4–0.7mm, thin biotype에서 최대), SG(~0.4mm 수평, jump space ≥2mm에서 표준; DBBM 충전 시 치조제 단면적 90% 보존 vs 무이식 41% 흡수, Araújo 2026).
+17편 종합(Cosyn 그룹 SR+MA 4편 + 신규 RCT/NMA 7편 + 심미연조직 5편; + 로딩 우산리뷰 교차참조 1편): IIP 결정 후 4개 술식 변수의 독립 effect size — flapless(협측골 흡수 ~0.2–0.4mm 감소), IP(midfacial 보존 ~0.3–0.5mm), CTG(~0.4–0.7mm, thin biotype에서 최대), SG(~0.4mm 수평, jump space ≥2mm에서 표준; DBBM 충전 시 치조제 단면적 90% 보존 vs 무이식 41% 흡수, Araújo 2026).
 
 IP 1차 안정성 하한: ITV ≥20 N·cm·ISQ ≥50 충족 시 12개월 성공률·최종 ISQ 동등 + MBL 더 적고·PES 높음(Wang 2026, n=120); 협측 dehiscence 시 flapless 필수(flap은 협측골판 혈류 차단); Cosyn 2026이 11개 dehiscence morphotype을 3단계 재생전략으로 매핑, Type III·extended defect는 절대 금기.
 
@@ -71,6 +74,7 @@ IP 1차 안정성 하한: ITV ≥20 N·cm·ISQ ≥50 충족 시 12개월 성공�
 | immediate-implant/esthetic-soft-tissue/cosyn-2026-buccal-dehiscence-morphotype-regenerative-strategy-iip | narrative-review | **Flap(필수 flapless)** — dehiscence morphotype → 재생전략 |
 | immediate-implant/esthetic-soft-tissue/fettouh-2026-safe-angle-guided-iip-anterior-maxilla-deviation | prospective | **가이드 식립** — Safe Angle + plateau-drill 편차 |
 | immediate-implant/esthetic-soft-tissue/nechita-2026-guided-provisionalization-emergence-profile-esthetic-zone | retrospective | **IP** — 가이드 전달 무회전방지 Morse taper 프로비저널 |
+| implants/loading-protocol/rismanchian-2025-immediate-nonimmediate-loading-umbrella-review | umbrella review (narrative) — *cross-reference only* | **IP (survival axis only)** — single-implant IL vs NIL, placement timing not stratified |
 
 Cosyn 그룹 (Ghent Univ + Gent Univ Hospital, J Cosyn lead author)이 2021–2023에 발표한 4편이 *각 변수의 정량 효과를 독립적으로 평가한 거의 유일한 SR+MA 패키지*. 본 overview는 4편을 anchor로 두고 주변 RCT와 신규 NMA로 보강한다.
 
@@ -149,6 +153,8 @@ Cosyn 4편은 *각 변수의 독립 효과*만 평가한다. 4변수 모두 동�
 
 **Nechita 2026 (retrospective single-arm, n=20 심미부 단일치)** — IP의 *전달 방식* 변형: 디지털 계획·가이드 전달 prefab 크라운을 **무회전방지(indexless) 5° Morse taper**에 안착(인덱스 생략으로 prefab 크라운을 회전 미세조정해 가이드 편차 보정). 결과: 주요 개입 없는 프로비저널 유지 75%(나머지 25%는 benign chairside re-screw), **1년 MBL 0.37 mm(전부 <1 mm)·협측 윤곽 +1.41 mm(전 증례)·완전 유두 70%·생존 100%**. 1차 삽입 토크 ≥30 N·cm(평균 34.75). 대조군 없음·n=20·95% 여성·윤곽 증가는 90% 이식 동반이라 프로비저널 단독 효과 아님 — feasibility signal. [근거중간(retrospective)]
 
+**Rismanchian 2025 (umbrella review, narrative, 24 SR/MA, ~18,373 implants) — cross-reference for the IP variable only.** [[implants/loading-protocol/rismanchian-2025-immediate-nonimmediate-loading-umbrella-review]] Single-implant IL (≤48 h) vs NIL showed similar survival (IL 92–97.8% vs NIL 95–99%) and MBL (IL 0.2–1 vs 0.1–0.8 mm), both NS. In the one placement×loading subgroup, immediate placement + immediate loading reached 99.6% vs 97.9% with delayed loading, and the CIs overlap. This supports Pitman 2022's finding that IP does not cost survival, across a broader population. It says nothing about what IP is actually for in this bundle. The umbrella does not stratify healed vs fresh-socket sites, does not separate non-occlusal provisionalization from loading, reports no midfacial or PES outcome, and gives no torque/ISQ threshold. So the IP effect size (~0.3–0.5 mm midfacial) and the ≥35 Ncm / Wang 2026 floor stand unchanged. Appraisal caveats: narrative synthesis with no pooled effect, included SRs not listed, and in-text citation numbers that do not match the reference list (individual numbers are untraceable and secondhand). An untraceable outlier MA reported RR 4.76 for IL failure *even with non-occlusal provisionals*, which is a reminder that the IP floor matters. [근거약(narrative umbrella, population mismatch)]
+
 ---
 
 ## 4-Variable Effect Size Summary
@@ -226,6 +232,7 @@ Cosyn 4편은 *각 변수의 독립 효과*만 평가한다. 4변수 모두 동�
 5. **구치부 4변수 데이터 sparse** — Cosyn 시리즈 대부분 상악 전치부 single. 구치부 generalization 제한.
 6. **Dehiscence morphotype 전략 미검증** — Cosyn 2026의 11개 morphotype·3단계 전략은 개념틀로 임상·조직학적 outcome 검증 전. CBCT의 dehiscence 과대보고로 수술 중 확인이 필수.
 7. **가이드 식립 정확도 RCT 부재** — Fettouh 2026(Safe Angle+plateau-drill)·Nechita 2026(무회전방지 Morse taper IP)은 모두 단일군/후향이라 conventional 가이드 IIP 대비 우위 미입증.
+8. **Type-1 전용 IP/즉시부하 vs 지연 비교의 우산리뷰 부재** — 보유한 로딩 우산리뷰(Rismanchian 2025)는 식립시기 혼합·심미 미보고. **Surveillance 2026-11-24**: 2021–2026 PubMed umbrella-review search found no new umbrella; a Cochrane soft-tissue augmentation overview (PMID 40662426) and an immediate-vs-delayed placement umbrella (PMID 42674793) exist only as protocols — re-check later (the former would directly feed the CTG variable).
 
 ## 임상 권고 요약 [미검증]
 
@@ -256,6 +263,7 @@ Cosyn 4편은 *각 변수의 독립 효과*만 평가한다. 4변수 모두 동�
 - [[immediate-implant/esthetic-soft-tissue/cosyn-2026-buccal-dehiscence-morphotype-regenerative-strategy-iip]] — Flap 변수를 dehiscence socket으로 확장: 11 morphotype → 3단계 재생전략, flapless 필수, Type III·extended defect 금기
 - [[immediate-implant/esthetic-soft-tissue/fettouh-2026-safe-angle-guided-iip-anterior-maxilla-deviation]] — 신규 보조 축: 가이드 식립 정확도 (Safe Angle + plateau-drill로 협측 slippage 억제)
 - [[immediate-implant/esthetic-soft-tissue/nechita-2026-guided-provisionalization-emergence-profile-esthetic-zone]] — IP 전달 방식 변형: 가이드 전달 무회전방지 5° Morse taper 즉시 프로비저널 (1년 MBL 0.37 mm·윤곽 +1.41 mm)
+- [[implants/loading-protocol/rismanchian-2025-immediate-nonimmediate-loading-umbrella-review]] — 교차참조: 단일 임플란트 IL vs NIL 우산리뷰 (생존·MBL 동등; 식립시기 혼합·심미 미보고 → IP 생존 축만 보강)
 - [[immediate-implant/esthetic-soft-tissue/dutra-2025-customized-healing-abutments-immediate-implants]] — CHA (sealing abutment) 변형
 - [[immediate-implant/esthetic-soft-tissue/elgendi-2025-peri-implant-soft-tissue-conditioning]] — CAD-CAM SSA (구치부 IP 대체)
 - [[overviews/type-1a-immediate-placement-immediate-loading-decision]] — Type 1A 적응증 (자매 페이지)
