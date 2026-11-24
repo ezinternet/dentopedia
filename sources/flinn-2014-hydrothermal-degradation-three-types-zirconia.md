@@ -28,7 +28,7 @@ Y-TZP 3종(Prettau, Zirprime, ZirTough), 초박막 시편(22×3×0.2mm), 134°C/
 
 굴곡강도와 단사정 분율 간 역상관(Spearman ρ=-0.71~-1.0) — 단사정 함량이 LTD 파절 예측 지표로 유효.
 
-ZirTough가 LTD 최저 저항: 200h 후 단사정 31.4%(Prettau 78.8% 대비) — 처방 차이가 LTD 저항을 결정적으로 좌우.
+ZirTough가 LTD 최고 저항: 200h 후 단사정 31.4%(Prettau 78.8% 대비) — 처방 차이가 LTD 저항을 결정적으로 좌우.
 
 ## 1. Document Information
 
