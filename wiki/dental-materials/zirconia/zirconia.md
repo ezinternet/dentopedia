@@ -46,10 +46,10 @@ tags: [navigation, category-index, zirconia]
 | [[bomicke-2026-ceramic-crowns-sleep-bruxism-rct|Ceramic crowns and sleep bruxism: 3-year results of a randomized controlled trial]] |
 | [[cesar-2024-dental-zirconia-15years-material-processing|Recent advances in dental zirconia: 15 years of material and processing evolution]] |
 | [[chopra-2024-mechanical-characteristics-zirconia-dentistry|Load, unload and repeat: Understanding the mechanical characteristics of zirconia in dentistry]] |
-| [[cokic-2024-coloring-multilayer-zirconia-pigment-agglomerates-ltd|Effect of Coloring on the Hydrothermal Stability of Multilayer Zirconia]] |
+| [[cokic-2024-coloring-multilayer-zirconia-pigment-agglomerates-ltd|Coloring Multilayer Zirconia May Affect Its Optical and Mechanical Properties]] |
 | [[comba-2021-chemical-bonding-cubic-zirconia|Do Chemical-Based Bonding Techniques Affect the Bond Strength Stability to Cubic Zirconia?]] |
 | [[davoudi-2025-zirconia-abutments-biological-mechanical-esthetic|Zirconia abutments: Biological, mechanical, and esthetic considerations – An umbrella review of available systematic reviews and meta-analyses]] |
-| [[flinn-2014-hydrothermal-degradation-three-types-zirconia|Hydrothermal degradation of three types of zirconia]] |
+| [[flinn-2014-hydrothermal-degradation-three-types-zirconia|Effect of hydrothermal degradation on three types of zirconias for dental application]] |
 | [[genc-2025-cleaning-protocols-zirconia-bond-strength|Effects of Cleaning Protocols on Resin Bond Strength to Saliva-Contaminated Monolithic Zirconia]] |
 | [[hajjaj-2022-cleaning-methods-zirconia-sbs|Effect of Different Cleaning Methods on Shear Bond Strength of Resin Cement to Contaminated Zirconia]] |
 | [[janyavula-2013-wear-polished-glazed-zirconia-enamel|The wear of polished and glazed zirconia against enamel]] |
@@ -68,7 +68,7 @@ tags: [navigation, category-index, zirconia]
 | [[le-2023-three-types-all-ceramic-posterior-3year-rct|Clinical Outcome of Three Types of Posterior All-Ceramic Crowns (ZC vs ZC-V vs LDS): 3-Year RCT]] |
 | [[lee-2018-zirconia-primers-bracket-bonding|Comparison of shear bond strength of ceramic brackets bonded to zirconia surfaces using different zirconia primers and universal adhesive]] |
 | [[leitao-2022-monolithic-zirconia-single-crown-survival-sr|Systematic review and meta-analysis of survival rate, biological and technical complications of monolithic zirconia single crowns with CAD/CAM technology]] |
-| [[liu-2022-high-speed-sintering-ltd-translucent-zirconia|Effect of high-speed sintering on the microstructure, mechanical properties, and low-temperature degradation of translucent zirconia]] |
+| [[liu-2022-high-speed-sintering-ltd-translucent-zirconia|Influence of high-speed sintering protocols on translucency, mechanical properties, microstructure, crystallography, and low-temperature degradation of highly translucent zirconia]] |
 | [[lolos-2025-zirconia-restorations-5year-retrospective|Retrospective Long-Term Survival Rate and Clinical Performance of Zirconium Oxide Restorations over the Past 5 Years: A Comparative Study Between Single Crowns and Fixed Dental Prostheses]] |
 | [[lopes-2023-universal-adhesives-zirconia-long-term|Are Universal Adhesives Effective for Bonding to Zirconia in the Long Term?]] |
 | [[malgaj-2026-cantilever-zirconia-rbfdp-alumina-coating|Eight-Year Clinical Performance of Cantilevered Zirconia Resin-Bonded Fixed Dental Prostheses: A Randomized Controlled Trial Evaluating the Effect of Nanostructured Alumina Coating]] |
@@ -81,7 +81,7 @@ tags: [navigation, category-index, zirconia]
 | [[opatragoon-2024-primer-applications-zirconia-bond|Comparison of the Shear Bond Strength Using Primers with Different Application Numbers on Dental Zirconia]] |
 | [[park-2014-antagonist-wear-cad-cam-zirconia-enamel|Antagonist wear of three CAD/CAM anatomic contour zirconia ceramics]] |
 | [[pjetursson-2018-zirconia-metal-ceramic-crown-survival-sr|A systematic review of the survival and complication rates of zirconia-ceramic and metal-ceramic single crowns]] |
-| [[prado-2022-hydrothermal-mechanical-aging-fatigue-zirconia|Effect of hydrothermal and mechanical aging on the fatigue failure load of translucent and conventional zirconia]] |
+| [[prado-2022-hydrothermal-mechanical-aging-fatigue-zirconia|Effect of hydrothermal and mechanical aging on the fatigue performance of high-translucency zirconias]] |
 | [[ramos-2016-grinding-heat-treatment-zirconia-flexural|Effect of grinding and heat treatment on the mechanical behavior of zirconia ceramic]] |
 | [[sakrana-2020-bond-strength-translucent-zirconia-sarc|Bond Strength Durability of Adhesive Cements to Translucent Zirconia: Effect of Surface Conditioning]] |
 | [[sankar-2017-saliva-zirconia-sbs-resin-cements|Comparative evaluation of shear bond strength of zirconia restorations cleansed with various surface cleansing protocols bonded with two different resin cements]] |
