@@ -4,7 +4,7 @@ authors: Gohil Jay, Chawan Shilpa, Singla Mukesh, Sachdev Sanpreet S, Pavani Gou
 year: 2026
 date: 2026-01-01
 doi: 10.7759/cureus.117202
-source: Cureus
+source: gohil-2026-occlusal-surface-changes-in-single.md
 category: [dental-materials/zirconia]
 evidence_level: retrospective
 source_collection: pubmed-text
