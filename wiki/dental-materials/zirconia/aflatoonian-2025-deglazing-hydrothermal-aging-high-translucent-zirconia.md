@@ -48,8 +48,8 @@ Aflatoonian et al. (2025) addressed the clinical scenario of intraoral glaze wea
 
 ## Methodology
 
-- 40 discs (12mm × 1.2mm), HT 3Y-PSZ (Upcera HT), all initially sintered and glazed
-- 4 groups: G, G-A, DG-A (glaze removed), NG-A (glaze layer milled off before aging)
+- 40 discs (12mm × 1.2mm), HT 3Y-PSZ (Upcera HT), milled and sintered
+- 4 groups (n = 10): G (glazed), G-A (glazed + aged), DG-A (glazed, glaze removed by polishing, then aged), NG-A (never glazed + aged)
 - Aging: hydrothermal (134°C) → pH cycling → load cycling
 - Biaxial FS (ISO 6872); XRD t→m quantification; 1-way ANOVA + Tukey HSD (α=0.05)
 
