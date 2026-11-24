@@ -22,6 +22,7 @@ tags: [emergence-profile, critical-contour, subcritical-contour, customized-heal
 > - 인용 벤치마크: 골수준(Bone-level) 임플란트 **1~3mm 치조정하(sub-crestal)** 식립, 생물학적 폭(Biologic Width) **~3~4mm**, 협측 연조직 **≥2mm** → 치조정골 안정(Linkevicius), 지대주 높이 **≥3mm** → 골소실 방지(Galindo-Moreno).
 > - 캡처의 물리학 (li 2019, prospective, n=12): 임시보철(Interim Restoration) 제거 **0초 즉시** 출현윤곽 붕괴 시작, 시간의 **로그함수(ln)**로 회복 — 반면 유두·치은연은 20분간 **≤0.27mm** 변화(임상적 무의미) → 인상은 임시보철 유지 상태 또는 윤곽 복제 scan body로 떠야 함.
 > - 실행 장치 1 (ruales-carrera 2019, case series): 즉시식립 당일 chairside **맞춤 치유지대주(Customized Healing Abutment, CHA)** — PEEK/PMMA+티타늄 인서트로 발치치아 형태 복제, 임계+준임계윤곽 동시 재현 → 임시보철·재개방수술 불필요.
+> - 실행 장치 3 (kim 2026, 증례 2건, 2026-11-24 추가): 발치 직후 **임시 보철 부품으로 전치부 순측 윤곽 유지** — ① 즉시식립 + chairside 유동성 레진 맞춤 치유지대주 (CHA, 3개월 무조정) ② 임플란트 없이 치아지지 고정성 국소의치 (Fixed Dental Prosthesis, FDP)의 PMMA 난형 가공치 (Ovate Pontic, 발치와 내 ~3mm 연장) + 치조제 보존 (ARP). 1개월 Exocad 중첩에서 순측 윤곽 비교적 유지 — 단 육안 평가·1개월 추적·두 증례 모두 골이식 동반이라 윤곽 유지를 부품 효과로만 돌릴 수 없음. **비임플란트 경로(난형 가공치)도 같은 '임시 장치가 1차 성형 도구' 원리를 따른다**는 확장.
 > - 실행 장치 2 (azpiazu-flores 2025, case report): **3D 프린팅 출현윤곽 성형체(EPF)**를 규격 티타늄 치유지대주에 장착 — 연조직 성형 + 구강스캐너(IOS) 등록을 동시 수행(scan body 대체), 임시지대주 나사 불필요, 수평골결손 대구치를 협측 이식 없이 심미 수복.
 > - 공유 어휘: 임계/준임계윤곽(Su 2010), dual-zone(Chu 2012)이 core 3편의 공통 언어 — **최종 크라운이 아니라 임시보철·치유지대주가 1차 연조직 성형 도구**라는 합의.
 > - 주변 근거 (han 2025, prospective n=20): dual-thread 상악 심미대 즉시식립 — 성공 85%/생존 100%, ISQ 70일에 >70, **중안면 퇴축 1.86→1.21 개선**, 1년 협측골 두께 −0.34~−0.48mm; 출현윤곽 설계가 아니라 macrodesign·1차안정성 축.
@@ -37,7 +38,7 @@ tags: [emergence-profile, critical-contour, subcritical-contour, customized-heal
 
 ## Three-line Summary
 
-Synthesis of 11 papers establishing the peri-implant emergence-profile arc: the 4-zone critical/subcritical (EBC) framework (Gomez-Meda 2021) governs gingival-margin position and crestal-bone stability; the provisional/healing abutment — not the definitive crown — is the primary tissue-shaping instrument; the profile collapses the instant the interim restoration is removed (Li 2019, logarithmic recovery).
+Synthesis of 12 papers establishing the peri-implant emergence-profile arc: the 4-zone critical/subcritical (EBC) framework (Gomez-Meda 2021) governs gingival-margin position and crestal-bone stability; the provisional/healing abutment — not the definitive crown — is the primary tissue-shaping instrument; the profile collapses the instant the interim restoration is removed (Li 2019, logarithmic recovery).
 
 Material-choice: SR+MA of 17 RCTs (Ríos-Osorio 2025) shows crosslinked XCM (VCMX) equals CTG for mucosal thickness while non-crosslinked XCM is inferior and FGG retains superiority for keratinized-mucosa width; the "bone drives soft tissue" counter-strategy (Le 2022) and combined hard+soft dehiscence GBR (Lee 2025) extend the arc into complex management.
 
@@ -45,7 +46,7 @@ Clinical capture rule: scan or impress with the interim restoration in place or 
 
 ## 세줄요약
 
-임플란트 출현윤곽(Emergence Profile) 설계·맞춤 연조직 컨디셔닝 11편 종합 — 임계윤곽(Critical Contour, Zone3)이 치은연 위치를, 준임계윤곽(Sub-critical Contour, Zone2)이 치조정골 안정을 결정하며(Gomez-Meda 2021), 임시보철·맞춤 치유지대주(Customized Healing Abutment)가 1차 성형 도구.
+임플란트 출현윤곽(Emergence Profile) 설계·맞춤 연조직 컨디셔닝 12편 종합 — 임계윤곽(Critical Contour, Zone3)이 치은연 위치를, 준임계윤곽(Sub-critical Contour, Zone2)이 치조정골 안정을 결정하며(Gomez-Meda 2021), 임시보철·맞춤 치유지대주(Customized Healing Abutment)가 1차 성형 도구.
 
 임시보철 제거 0초부터 윤곽 붕괴 시작·로그함수 회복(Li 2019) → 임시보철 유지 상태 또는 윤곽 복제 scan body로 캡처 필수(Monaco 2016 선례; Azpiazu-Flores 2025 3D-프린팅 성형체).
 
@@ -72,6 +73,8 @@ Five further papers extend this arc along three lines. On the **material-choice 
 4. **A chairside customized healing abutment reproduces both critical and subcritical contours at immediate placement, eliminating provisionals and reopening surgery.** Ruales-Carrera et al. (2019) fabricated CHAs from a PEEK/PMMA block plus a titanium insert, matched to the extracted tooth's emergence geometry, and used the dual-zone (Chu 2012) and critical/subcritical (Su 2010) frameworks to shape papilla-supporting subcritical and margin-defining critical zones. Indicated for Type 1 (immediate) placement when primary stability is insufficient for immediate loading. Evidence is case-series/qualitative — no PES/WES or recession numbers. [사례수준]
 
 5. **A 3D-printed emergence-profile former can unify soft-tissue conditioning and digital registration on a stock titanium healing abutment.** Azpiazu-Flores et al. (2025) designed an EPF in free software (Meshmixer, 0.02 mm Boolean offset) that seats on a stock healing abutment collar, requires no temporary abutment screw, and serves simultaneously as tissue conditioner and scan-body surrogate — delivering an esthetic mandibular-molar crown despite horizontal buccal deficiency and only 1 mm attached gingiva, without buccal grafting. Single case. [사례수준]
+
+5a. **The same interim-device principle extends beyond implants — to an ovate pontic over a preserved socket (added 2026-11-24).** Kim et al. (2026) report two anterior cases: an immediate implant with a chairside flowable-resin customized healing abutment left unadjusted for 3 months, and a tooth-supported FDP whose PMMA ovate pontic extended ~3 mm into a grafted socket (0.25 g Bio-Oss + Bio-Gide), modified at 4 weeks. Both showed relatively maintained labial contours on 1-month Exocad superimposition. Assessment was visual, follow-up ~1 month, and both sites were grafted, so contour maintenance cannot be attributed to the components alone. [사례수준]
 
 6. **Connective tissue graft, not bone augmentation, builds mucosa coronal to the implant shoulder — and combining them is not additive.** Lim et al. (2022), a randomized canine histomorphometric study (5 dogs, 4 sites each, immediate narrow implants, 4-month non-submerged healing), ranked mucosal height as SCTG 1.99 > GBR 1.45 > control 1.40 > GBR+SCTG 1.24 mm, with GBR producing mineralized tissue only apical to the shoulder and the combination performing worst. All differences were non-significant (underpowered, 2 implant losses) — a mechanistic signal, not proof, that soft-tissue grafting is the coronal value-add. [동물·NS — 신호 수준]
 
@@ -103,7 +106,7 @@ Five further papers extend this arc along three lines. On the **material-choice 
 
 ### 공백·미해결 (Open Questions)
 
-- **정량 심미결과 부재**: 맞춤 지대주 core(Ruales-Carrera, Azpiazu-Flores)는 전부 case/qualitative — PES/WES·퇴축 정량치 없음.
+- **정량 심미결과 부재**: 맞춤 지대주 core(Ruales-Carrera, Azpiazu-Flores, Kim 2026)는 전부 case/qualitative — PES/WES·퇴축 정량치 없음. Kim 2026은 디지털 중첩을 했으나 육안 판정·1개월이고 골이식이 교란변수.
 - **준임계 오목 vs 중립** head-to-head 미검증 — 인용된 연구에서 주장될 뿐 이 페이지들 안에서 직접 비교 없음.
 - **디지털 캡처 3방식**(임시보철 유지 / 맞춤 scan body / 3D EPF) 등록 정확도 비교 부재 — Monaco(2016)가 초기 선례를, Li(2019)는 "왜", Azpiazu-Flores(2025)는 하나의 "어떻게"를 제시하나 상호 정량 비교는 여전히 없음.
 - **GBR+SCTG 비가산성**(Lim)은 underpowered·NS — 기전 신호이지 증명 아님; 출현윤곽 컨디셔닝과의 상호작용 미검증.
@@ -116,6 +119,7 @@ Five further papers extend this arc along three lines. On the **material-choice 
 - [[immediate-implant/esthetic-soft-tissue/gomez-meda-2021-esthetic-biological-contour-emergence-profile]] — conceptual framework (EBC 4-zone, critical/subcritical contour)
 - [[immediate-implant/esthetic-soft-tissue/ruales-carrera-2019-peri-implant-tissue-customized-healing]] — chairside customized healing abutment executing the framework at immediate placement
 - [[immediate-implant/esthetic-soft-tissue/azpiazu-flores-2025-peri-implant-tissue-3d-printed]] — 3D-printed emergence-profile former unifying conditioning + digital registration
+- [[immediate-implant/esthetic-soft-tissue/kim-2026-immediate-provisional-prosthetic-components-maintaining]] — chairside CHA (immediate implant) and PMMA ovate pontic (tooth-supported FDP) preserving anterior labial contour; 2 cases, 1-month visual superimposition (added 2026-11-24)
 - [[immediate-implant/esthetic-soft-tissue/li-2019-dynamic-peri-implant-soft-tissue-scan]] — kinetic rationale: emergence profile collapses at 0 sec, capture with interim in place
 
 **Adjacent — stability & augmentation context**
