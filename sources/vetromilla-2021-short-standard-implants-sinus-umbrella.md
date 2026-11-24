@@ -2,7 +2,8 @@
 title: "Short versus standard implants associated with sinus floor elevation: An umbrella review of meta-analyses of multiple outcomes"
 authors: "Bruna M. Vetromilla, Thais Mazzetti, Tatiana Pereira-Cenci"
 year: 2021
-doi: "n/a (J Prosthet Dent 2021;126(4):503-511; PII S0022-3913(20)30429-7)"
+doi: "10.1016/j.prosdent.2020.08.002"
+pmid: "32951871"
 category: [implants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/vetromilla-2021-short-standard-implants-sinus-umbrella.pdf
 pdf_filename: vetromilla-2021-short-standard-implants-sinus-umbrella.pdf
