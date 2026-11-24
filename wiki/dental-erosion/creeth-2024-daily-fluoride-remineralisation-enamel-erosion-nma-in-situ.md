@@ -13,7 +13,7 @@ pmcid: "PMC11671545"
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11671545/
 text_path: /Users/oracleneo/llm-wiki/papers/creeth-2024-daily-fluoride-remineralisation-enamel-erosion-nma-in-situ.txt
 text_filename: creeth-2024-daily-fluoride-remineralisation-enamel-erosion-nma-in-situ.txt
-evidence_level: sr+ma
+evidence_level: in-vivo
 tags: [erosive-tooth-wear, fluoride, network-meta-analysis, in-situ, dentifrice, stannous-fluoride, industry-funded]
 relations:
   - type: refines
