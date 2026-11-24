@@ -1807,6 +1807,7 @@ tags: []
 - [[endodontics/regenerative/zhan-2026-association-apical-maturity-clinical]] — Zhan 2026 · sr+ma(10편, 508치아, DRMA+TSA) · REP 임상성공 90%·생존 98% 치근첨 직경과 무관, 치근첨 폐쇄 53%·활력회복 21%로 낮음 — DRMA: 직경 클수록 폐쇄율 감소 (DOI 10.1016/j.identj.2026.109660)
 
 ## 레진접착 (Resin Bonding)
+- [[resin-bonding/chaple-gil-2026-adhesive-strategies-etching-nccl-sr-nma]] — Chaple Gil 2026 · sr+ma (네트워크 MA, RCT 74편, NCCL): 산부식 방식×접착제×수복재 전략을 RMGI 기준 비교 — 선택적 산부식/E&R + 유니버설 접착제 + 나노복합레진이 변연적합·유지 소실 위험 감소; 대부분 대비 CI가 1 포함, E&R vs SE 직접대비 없음 (DOI 10.3390/jfb17040160)
 - [[resin-bonding/delgado-2025-functional-monomers-dental-adhesive-technology]] — Delgado 2025 · narrative-review · 4-META는 카르복실산계 단량체로 수용액서 4-MET로 가수분해(pKa 2.9), 10-MDP·GPDM보다 결합·가수분해안정성 열세 (DOI 10.3290/j.jad.c_2297)
 - [[resin-bonding/kikuta-2025-fillers-4-meta-mma-tbb-resin-root-caries]] — Kikuta 2025 · in-vitro · 4-META/MMA-TBB(슈퍼본드) 수지 filler 비교, 노인 root caries엔 유기 복합 filler가 최적(경화↓·접착↑) (DOI 10.3290/j.jad.c_2428)
 - [[resin-bonding/corbella-2025-surgical-techniques-vertical-root-fractures-sr]] — Corbella 2025 · sr · VRF 외과적 관리 6연구 중 4개가 4-META/MMA-TBB(Super-Bond) 단편 접착, 근거는 case series·저질 (DOI 10.1111/aej.12923)
