@@ -1,0 +1,13 @@
+Treatment Outcomes and Prognostic Analysis of Root Canal-treated Posterior Cracked Teeth: The Modified Iowa Index.
+Wongkornchaowalit N, Soontornkiat T, Krongbaramee T, Lertpimonchai A, Krell KV. J Endod 2026;52(1):79-88. PMID 40850543. DOI 10.1016/j.joen.2025.08.012.
+[Abstract only - built from PubMed metadata; PMC full text not available]
+
+INTRODUCTION: Cracked teeth requiring root canal treatment present with variable prognoses. This study aimed to evaluate the treatment outcomes of root canal-treated posterior cracked teeth and to identify prognostic factors influencing endodontic outcomes.
+
+METHODS: A retrospective cohort of 263 cracked posterior teeth with 1- to 5-year follow-up was analyzed. The Iowa index was modified by subcategorizing each stage according to crack extension. Outcomes were assessed using strict clinical and radiographic criteria. Cox regression analysis was performed to identify significant predictors of failure.
+
+RESULTS: The overall success and survival rates were 82.9% and 89.7%, respectively, with a mean follow-up period of 40.3 months. The estimated 2-year and 5-year survival rates were 99.2% and 78.6%, respectively. Multivariable analysis identified 7 independent predictors of failure: increasing age, pocket depth >=5 mm along the crack line, radicular extension >=3 mm, preoperative periapical lesion, multiple crack lines, absence of occlusal splint in patients with parafunctional habits, and restoration with onlay or composite. Cracked teeth with probing depths <5 mm (Stages I-III) showed favorable outcomes (success rate: 78.9%-98.3%, survival rate: 86.5%-100%), whereas those exhibiting both radicular extension and periodontal pocket >=5 mm (Stage IV-R) had poor prognosis (success rate: 33.3%, survival rate: 63.0%).
+
+CONCLUSIONS: The modified Iowa index, incorporating the classification of crack extension, demonstrated prognostic value. The combination of radicular crack and periodontal pocket >=5 mm should be considered a high-risk profile when evaluating the treatment potential of cracked teeth.
+
+Keywords: crack tooth; intraorifice barrier; longitudinal tooth fracture; periodontal pocket; radicular cracks; root canal therapy; treatment outcome
