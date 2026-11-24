@@ -2,7 +2,7 @@
 title: "구강외과·제3대구치(사랑니) — third-molar"
 authors: navigation
 year: 2026
-date: 2026-11-04
+date: 2026-11-24
 doi: N/A
 source: navigation
 category: oral-surgery/third-molar
@@ -15,20 +15,20 @@ tags: [navigation, category-index, third-molar]
 > [!summary] 한국어 핵심요약
 > - **분야**: 구강외과·제3대구치(사랑니)
 > - **범위**: Third molar (wisdom tooth) extraction — surgical indications/technique (flap design, bone removal, sectioning), coronectomy, pericoronitis, extraction complications (mandibular fracture, dry socket/alveolar osteitis), postop adjuncts (PRF/CGF, LLLT, cooled irrigation, pain management)
-> - **수록 논문**: 30편
+> - **수록 논문**: 31편
 
 ## Three-line Summary
 
 **Scope**: Third molar (wisdom tooth) extraction — surgical indications/technique (flap design, bone removal, sectioning), coronectomy, pericoronitis, extraction complications (mandibular fracture, dry socket/alveolar osteitis), postop adjuncts (PRF/CGF, LLLT, cooled irrigation, pain management)
-**Indexed papers**: 30 papers in `wiki/oral-surgery/third-molar/`.
+**Indexed papers**: 31 papers in `wiki/oral-surgery/third-molar/`.
 
 ## 세줄요약
 
 **분야**: 구강외과·제3대구치(사랑니)
-**수록 논문**: 30편
+**수록 논문**: 31편
 **하위 카테고리**: 없음
 
-## Papers in this Category (30)
+## Papers in this Category (31)
 
 | Paper |
 |---|
@@ -49,6 +49,7 @@ tags: [navigation, category-index, third-molar]
 | [[gonzalez-2025-low-level-laser-third-molar-complications-sr-ma|Effectiveness of Low-Level Diode Laser in the Management of Complications After Third-Molar Surgical Extraction: Systematic Review and Meta-analysis]] |
 | [[guillaumet-claure-2022-iatrogenic-mandibular-fracture-third-molar-sr|Prevalence of intraoperative and postoperative iatrogenic mandibular fractures after lower third molar extraction: A systematic review]] |
 | [[hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr|Platelet-Rich Fibrin for Post-Extraction Complications Including Alveolar Osteitis: A Systematic Review]] |
+| [[mathew-2026-root-migration-coronectomy-umbrella-review|Predicting and modulating root migration after mandibular third molar coronectomy: Umbrella review and proposed conceptual risk stratification model]] |
 | [[murphy-2022-cooled-saline-irrigation-third-molar-morbidity|Does the use of cooled saline irrigation during third molar surgery affect post-operative morbidity?]] |
 | [[pattnayak-2024-prf-prp-third-molar-extraction-sr|Impact of Platelet-rich Plasma and Platelet-rich Fibrin in Mandibular Third Molar Extraction: A Systematic Review]] |
 | [[peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma|Benefits of Coronectomy in Lower Third Molar Surgery: A Systematic Review and Meta-analysis]] |
