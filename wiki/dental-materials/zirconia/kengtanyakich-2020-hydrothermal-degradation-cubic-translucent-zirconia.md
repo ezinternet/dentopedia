@@ -23,9 +23,9 @@ relations:
 
 In-vitro study (4 commercial Y-TZP categories by cubic content: T=0%, ST=<30%, XT=30–50%, P=>50%; autoclave 122°C/2bar/8h): cubic-containing zirconia with >30% cubic (XT and P groups) showed NO monoclinic phase after aging and NO significant reduction in flexural strength or fracture toughness.
 
-Groups T (3Y-TZP, 0% cubic) and ST (<30% cubic) showed significant decreases in hardness, flexural strength, and fracture toughness after aging (P<0.05) — confirming LTD susceptibility at <30% cubic.
+Groups T (3Y-TZP, 0% cubic) and ST (<30% cubic) showed significant decreases in flexural strength and fracture toughness after aging (P<0.05); only T also lost hardness — LTD susceptibility at <30% cubic.
 
-The tradeoff: higher cubic content = LTD resistance but lower baseline FS and KIc; >50% cubic groups fell below the 500 MPa / 3.5 MPa·m⁰·⁵ clinical thresholds.
+The tradeoff: higher cubic content = LTD resistance but lower baseline FS and KIc; >30% cubic groups (XT, P) had flexural strength <500 MPa and fracture toughness <3.5 MPa·m⁰·⁵.
 
 ## 세줄요약
 
@@ -37,11 +37,11 @@ The tradeoff: higher cubic content = LTD resistance but lower baseline FS and KI
 
 ## Summary
 
-Kengtanyakich and Peampring (2020) established the critical **">30% cubic volume = LTD-resistant threshold"** for translucent Y-TZP zirconia. Using four commercial materials categorized by cubic phase content, they demonstrated that high cubic content prevents the t→m phase transformation under hydrothermal aging but reduces baseline mechanical properties. This study directly resolved the question of why newer translucent zirconias (4Y/5Y-PSZ) show minimal LTD while conventional 3Y-TZP remains susceptible.
+Kengtanyakich and Peampring (2020) proposed **">30% cubic volume = high LTD resistance"** for translucent Y-TZP zirconia (the authors' wording: such zirconia "was assumed" to be highly resistant). Using four commercial materials categorized by cubic phase content, they demonstrated that high cubic content prevents the t→m phase transformation under hydrothermal aging but reduces baseline mechanical properties. This offers one explanation for why newer translucent zirconias (4Y/5Y-PSZ) show minimal LTD while conventional 3Y-TZP remains susceptible, based on a single aging condition (122 °C/8 h).
 
 ## Key Contributions
 
-1. **>30% cubic = NO LTD** under 122°C/8h conditions — definitive threshold
+1. **>30% cubic = no monoclinic** under 122°C/8h conditions — proposed threshold from 4 groups, one aging condition
 2. **Tradeoff confirmed**: XT and P groups (>30% cubic) fall below clinical mechanical thresholds (FS<500 MPa, KIc<3.5 MPa·m⁰·⁵)
 3. **Grain size NOT the determining factor**: P group had largest grains (2.28µm) yet still showed no LTD — yttria content / phase ratio is primary
 4. Clinical recommendation stratified by cubic content
