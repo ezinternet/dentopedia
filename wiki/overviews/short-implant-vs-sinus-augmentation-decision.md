@@ -26,6 +26,13 @@ source_papers:
   - wiki/implants/short-narrow/anitua-2019-short-65mm-implants-fixed-prostheses-premolar-molar.md
   - wiki/sinus-lift/transcrestal/cho-2024-crestal-sinus-augmentation-limited-bone.md
   - wiki/sinus-lift/transcrestal/kadkhodazadeh-2024-transcrestal-maxillary-sinus-elevation-sr-ma.md
+  - wiki/implants/short-narrow/thoma-2015-short-implants-sinus-floor-elevation.md
+  - wiki/implants/short-narrow/pohl-2017-short-dental-implants-long-dental.md
+  - wiki/implants/short-narrow/ravida-2019-meta-analysis-randomized-clinical-trials.md
+  - wiki/implants/short-narrow/ravida-2024-short-compared-dental-implants-different.md
+  - wiki/implants/short-narrow/pommer-2011-impact-of-dental-implant-length.md
+  - wiki/implants/short-narrow/olate-2010-influence-of-diameter-and-length.md
+  - wiki/sinus-lift/transcrestal/shi-2016-survival-of-implants-using-the.md
 ---
 
 ## 한국어 핵심요약
@@ -45,7 +52,7 @@ source_papers:
 
 ## Three-line Summary
 
-Synthesis of 19 papers (6 SR+MAs, 2 umbrella reviews, 1 PROM SR+MA, 1 10-year RCT, 5 additional studies) comparing short implants (4–8 mm, no sinus lift) vs standard/long implants plus sinus augmentation in the atrophic posterior maxilla.
+Synthesis of 26 papers (the original 19 — 6 SR+MAs, 2 umbrella reviews, 1 PROM SR+MA, 1 10-year RCT and supporting studies — plus 7 added 2026-10-28: 2 RCTs, 2 RCT SR+MAs, 1 MA, 1 SR, 1 retrospective) comparing short implants (4–8 mm, no sinus lift) vs standard/long implants plus sinus augmentation in the atrophic posterior maxilla.
 
 Across all 6 independent meta-analyses, survival equivalence is non-significant (representative: Toledano 2022 RR 1.02, p=0.09; Chaware 2021 RR 1.01, I²=0%; Thoma 2024 10-year RCT 96.0% vs 100%, p=0.24); short implants show consistently less marginal bone loss (Mester 2023 WMD −0.29 mm, p=0.005; Alenezi 2025 MD −0.26 mm, p<0.001) and lower biological complication rates (Mester RR 0.46, p=0.03; Alenezi OR 0.39, p=0.02).
 
@@ -53,7 +60,7 @@ The decision shifts from survival to four gates: (1) residual bone height — RB
 
 ## 세줄요약
 
-19편 종합(SR+MA 6편, 우산형 리뷰 2, PROM SR+MA 1, 10년 RCT 1, 기타 9) — 위축된 후방 상악에서 숏 임플란트(4–8 mm, 무거상) vs 표준/장축 임플란트+상악동거상 비교.
+26편 종합(기존 19편 — SR+MA 6편, 우산형 리뷰 2, PROM SR+MA 1, 10년 RCT 1, 기타 9 — + 2026-10-28 추가 7편: RCT 2, RCT SR+MA 2, MA 1, SR 1, 후향 1) — 위축된 후방 상악에서 숏 임플란트(4–8 mm, 무거상) vs 표준/장축 임플란트+상악동거상 비교.
 
 6개 독립 메타분석 모두 생존율 차이 비유의(Toledano 2022 RR 1.02, p=0.09; Thoma 2024 10년 RCT 96.0% vs 100%, p=0.24); 숏 임플란트는 일관되게 변연골소실(MBL) 적고(Mester 2023 WMD −0.29 mm, p=0.005; Alenezi 2025 MD −0.26 mm, p<0.001) 생물학적 합병증도 낮다(Mester RR 0.46, p=0.03; Alenezi OR 0.39, p=0.02).
 
