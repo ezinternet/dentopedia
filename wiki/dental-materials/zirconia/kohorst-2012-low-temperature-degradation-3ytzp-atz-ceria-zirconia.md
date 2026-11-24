@@ -1,5 +1,5 @@
 ---
-title: "Low-temperature degradation of different zirconia ceramics: comparison of two Y-TZP types, an ATZ composite and ceria-stabilized zirconia"
+title: "Low-temperature degradation of different zirconia ceramics for dental applications"
 authors: Kohorst P, Borchers L, Strempel J, Stiesch M, Hassel T, Bach FW, Hübsch C
 year: 2012
 date: 2012-01-01
@@ -8,7 +8,7 @@ source: kohorst-2012-low-temperature-degradation-3ytzp-atz-ceria-zirconia.md
 category: [dental-materials/zirconia]
 evidence_level: in-vitro
 source_collection: pubmed-abstract
-pmid: 22107827
+pmid: 22138551
 tags: [zirconia, LTD, 3Y-TZP, ATZ, ceria, 12Ce-TZP, flexural-strength, aging, composite]
 relations:
   - type: contrasts
