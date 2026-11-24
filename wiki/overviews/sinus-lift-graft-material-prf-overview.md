@@ -47,6 +47,7 @@ relations:
 > - **해부학이 재료만큼 신생골을 좌우**: 상악동 협구개 폭(Sinus Width, SW)이 넓을수록 신생골이 적었다(돼지 r=−0.660, 소 r=−0.614). 잔존 치조골 높이(Residual Ridge Height, RRH)는 예측인자가 아니었다(Krennmair 2025, 23상동). 잔존 해면골 비율도 약한 양의 상관을 보였다(r=0.23; Zhou 2026, 182상동). [확인]
 > - **재료 순위는 잔존골 높이(Residual Bone Height, RBH) 4 mm에서 뒤집힌다**: 네트워크 메타분석(NMA, RCT 67편)에서 RBH <4 mm은 이종골+동종골이, ≥4 mm은 자가골이 1위였다. 모든 재료가 GRADE 낮음이므로 "승자"가 아니라 "RBH에 따라 조건부로 고르라"는 근거다(Khijmatgar 2023). 2009년 메타분석(Handschel)의 "9개월 내 부하 시 자가골" 결론은 역사적 기준선이다. [확인]
 > - **잔존골 ≤5 mm에서 복합 이식재 단일군 연구 2편**: 자가골+BCP 1:1은 신생골 48.08%, 높이 증가 8.53 mm(Nathani 2025, 10명)였다. 동종골+HA/β-TCP+PRF는 신생골 31.28%(Nguyen 2026, 60부위)였다. 대조군이 없어 기술적 참고치다. 돼지 이종골 증례 3명(Spinu 2025)도 같은 수준이다. [확인]
+> - **[2026-11-24] 4편 추가 — 재료는 여전히 안 갈리고, 체적과 임플란트 형태가 갈린다**: 하악지 자가골 vs DBBM+국소 자가골 25% 분할구강 RCT(Jue 2025, 50명·198개) 12개월 생존 92.9 vs 93.9%(p=0.777), 방사선 성공은 양군 모두 낮음(18.8 vs 25.8%); 저온(300°C) vs 고온 소결 DBBM 파일럿 RCT(Qiu 2026, n=36) 6개월 높이·체적 흡수(8.32 vs 10.44%)·미세구조 전부 동등. 1년 CBCT 체적(Thouveny 2026, 41동): 이식재 소실 25–50%가 최빈(18동), ≥50%가 7동 — 상악동 형태(구개-협측 각)와 초기 이식량이 주동인, 처치된 천공(36.6%)은 무관. 테이퍼형 임플란트가 원통형보다 식립 ISQ 70.48 vs 55.04(p<0.001)·6개월 80.83 vs 78.98(p=0.038), 골 지표는 동등(Gai 2026, RCT 92개). [확인]
 
 ## Three-line Summary
 
@@ -173,6 +174,14 @@ Together with Galindo-Moreno 2022 and Grasso 2020, porcine, bovine and equine xe
 - [[sinus-lift/lateral/nathani-2025-evaluation-of-the-efficacy-of]] — 1:1 local autograft + BCP (30/70), RBH ≤5 mm, 10 analysed: height 4.09 → 12.62 mm, new bone 48.08%, residual graft 24.36%. The new-bone figure is high and consistent with the autograft-composite signal in Harlos 2022 and Trimmel 2021, but the study has no comparator.
 - [[sinus-lift/lateral/nguyen-2026-histological-and-histomorphometric-assessment-of]] — 2:1 allograft + HA/β-TCP + PRF, 60 sites, RBH 2.31 mm: new bone 31.28%, residual graft 15.48%; ISQ 58.20 → 74.85; first-stage ISQ tracked RBH (r=0.626).
 - [[sinus-lift/lateral/spinu-2025-collagenated-porcine-xenograft-severe-atrophy-case-series]] — 3 patients, collagenated porcine xenograft, RBH 1.33 mm: 12.0 mm gain, new bone 20–30%, all 4 implants functional at 38–52 months.
+
+### Four more papers: two null material RCTs, a volume cohort and an implant-design RCT (2026-11-24)
+
+The two material trials extend the cluster's null pattern. Ramus autograft and DBBM mixed with 25% locally harvested bone chips gave equivalent 12-month implant survival (92.9% vs 93.9%; OR 0.85, 95% CI 0.27–2.66, p=0.777) and clinical success (98.8% vs 97.6%) in a three-centre split-mouth RCT of 50 patients and 198 implants, with radiographic success low in both arms (18.8% vs 25.8%) — a donor site buys nothing measurable over a mostly-xenograft mix ([[sinus-lift/lateral/jue-2025-maxillary-sinus-floor-augmentation-autogenous-bone]]). Sintering temperature does not change DBBM's 6-month behaviour: low- (300°C) and high-temperature sintered products matched on immediate gain (12.55 vs 12.46 mm), 6-month height (14.35 vs 14.89 mm), volume resorption (8.32% vs 10.44%) and micro-CT microarchitecture (BV/TV ~13–14%) ([[sinus-lift/lateral/qiu-2026-lt-dbbm-ht-dbbm-lateral-sinus-rct]]; pilot, n=36).
+
+Volume is where outcomes spread. One-year CBCT segmentation of 41 lateral-window sinuses put most grafts in the 25–50% loss band (18/41), with ≥50% loss in 7; principal-component analysis pointed to sinus morphology (palato-vestibular angle) and initial graft volume as the drivers, and the 36.6% of sinuses with managed perforations did not lose more volume ([[sinus-lift/lateral/thouveny-2026-volumetric-analysis-bone-resorption-rate]]; retrospective, overall p=0.06, power-limited). This sits alongside Pesce 2021's height–new-bone trade-off: both say the anatomy and the amount grafted shape the result more than the label on the jar.
+
+Implant macro-design is a separate lever in the grafted site. Tapered bone-level implants placed simultaneously with lateral elevation reached ISQ 70.48 versus 55.04 for cylindrical implants at placement (p<0.001) and 80.83 versus 78.98 at 6 months (p=0.038), with comparable endo-sinus gain, MBL, bone volume and 100% survival ([[sinus-lift/lateral/gai-2026-tapered-cylindrical-lsfe-isq-rct]]; RCT, 60 patients, 92 implants). Where simultaneous placement depends on primary stability in a thin residual crest, implant shape is a more direct lever than graft choice.
 
 ### Synthesis [미검증]
 
