@@ -3,7 +3,7 @@ title: "Influence of a digital versus a conventional workflow on occlusal contac
 authors: "Huaxin Sui, Zheng He, Hongyu Fu"
 year: 2026
 doi: 10.62347/PLGT6989
-source: American Journal of Translational Research
+source: sui-2026-influence-of-a-digital-versus.md
 category: digital-workflow
 evidence_level: retrospective
 date: 2026-09-30
