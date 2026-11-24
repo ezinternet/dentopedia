@@ -5,7 +5,7 @@ year: 2026
 doi: "10.1186/s12903-026-08142-8"
 pmid: "41864947"
 pmcid: "PMC13127046"
-source: "BMC Oral Health"
+source: ergul-2026-optimizing-cad-cam-ceramics-a.md
 category: dental-materials/zirconia
 evidence_level: in-vitro
 source_collection: pubmed-text
