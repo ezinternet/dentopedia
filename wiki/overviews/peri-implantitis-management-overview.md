@@ -38,6 +38,7 @@ relations:
 > - **수복물 변연–치조정 거리 (Restoration Margin–Alveolar Crest, RM-AC) ≤1.5 mm → MBL 위험 3.42배** — IDRA (Implant Disease Risk Assessment) 8개 위험인자 중 하나를 임상 검증; 동반 인자로 치주염 4기 vs 2기 26.31배, 직경 6.10배·길이 5.02배 (Basak 2024 후향 202 임플란트). 임상: 충분한 치관상 조직높이/어버트먼트 높이로 RM-AC >1.5 mm 확보. [후향]
 > - **얇은 치은 표현형 (thin gingival phenotype)** 은 생존율을 직접 결정하진 않으나 (얇음·두꺼움 모두 5년 성공률 >91%) 추가 골소실의 주요 위험인자 — 임플란트주위염/MBL을 매개로 한 *간접* 경로. 표현형 보존·증대는 임플란트 "구제"가 아니라 downstream 주위염/MBL 위험 감소가 목적 (da Silva 2025 SR 8편). [근거제한]
 > - **신규 — 병인·면역병리 (Etiology & Immunopathogenesis) 섹션 신설**: Smeets 2014(정의·병인 프레임워크: 유병률 28–56%, 흡연+치주염력 4.7배 위험, MMP-8 최대 971% 상승) → Galarraga-Vinueza 2020(대식세포 M1/M2 편향: 진행 병소에서 M1/M2비 1.56, CD68·M1이 탐침깊이와 상관) → Cafferata 2025(조절T세포 Treg 기능부전: FOXP3·IL-35 상승하나 NRP-1·TGF-β1 감소 — Treg는 있으나 기능 상실)로 이어지는 기전적 서사 — 왜 병소가 자연 치유되지 않는지에 대한 선천면역+적응면역 이중 설명.
+> - **신규 (2026-11-24) — 인접 병소 동시 재건 증례 (Lee 2026, 증례 2건, 3년)**: 새 임플란트 식립과 같은 수술에서 인접한 잔존 치주 골내결손 (Intrabony Defect) 또는 인접 임플란트주위염 결손을 판막 소파 + 콜라겐 함유 탈단백 우골무기질 (DBBM)로 재건 — 3년 방사선 골채움 3.9·4.1 mm, 임상부착수준 (CAL) 획득 1.7·1.8 mm, 신규 임플란트 골수준 −0.7 mm. 깊은 3벽 결손·양호한 치태관리 선택 증례이고 조직학·표준 프로토콜 없음 → 단계 수술을 생략할 *수 있다*는 증거이지 *해야 한다*는 근거 아님.
 > - 이 면역병리 서사는 두 기존 관찰의 생물학적 근거를 제공: 단일 표면제염 프로토콜이 우월하지 않은 이유(Baima 2022)와 Hakkers 2026의 방사선학적-임상적 역설(골채움은 있으나 염증 미해소) — 문제는 생물막·이식재만이 아니라 면역 미세환경일 수 있음.
 > - **유병률 섹션 추가 — Sbricoli 2026 (횡단연구, n=70/임플란트 227개)**: 제2형 당뇨 vs 비당뇨 간 임플란트주위질환·점막염·주위염 유의차 없음(모두 p>0.4) — 당뇨를 독립 위험인자로 보는 통념에 반하나(contradicts), 검정력 부족 + 양군 모두 높은 치주염 과거력(83–94%)이 교란요인. 메시지는 "당뇨 진단"보다 "대사조절의 질"로 재구성.
 > - **재건 수술 섹션 확장 — Su 2026 (서술 리뷰)**: 이종골 (Xenogenic Bone Substitute) 이 자가골·비-GBR 대비 방사선 골이득에서 유리하다는 방향은 Ramanauskaite 2026 리뷰(서방출 골대체재 > 자가골)와 일치하나, Su가 함께 주장한 염증 감소 이득은 근거가 상충 — Ramanauskaite 2026은 재건 보조술의 임상 염증 해소 이득이 불명확하다고 보고, Hakkers 2026·Soldini 2025 RCT도 BoP·SoP·질환 해소율에 군간 차이가 없었다; 티타늄 부식/이온방출이 국소 염증을 악화시킨다는 기전 추가, CBCT를 결손 형태 진단의 표준으로 제시, 생분해성 마그네슘 막·3D 프린팅 티타늄 메쉬를 차세대 재료 후보로 소개.
@@ -106,7 +107,7 @@ A titanium brush is non-inferior to implantoplasty for probing depth and preserv
 
 ## Reconstructive Surgery: GBR for Intrabony Defects
 
-Reconstruction improves radiographic bone fill and limits recession but does not improve clinical disease resolution (43.8% vs 44.4%) and carries more postoperative adverse events; 3-wall defects respond earlier than 4-wall defects (Hakkers 2026; Ramanauskaite 2023). The same split between structural gain and disease resolution appears with a connective tissue graft added to GBR ([[implants/peri-implantitis/holtzman-2026-effect-of-connective-tissue-graft]]) and with electrolytic cleaning added to autogenous reconstruction (abstract-only; [[implants/peri-implantitis/puisys-2026-peri-implant-reconstruction-with-autogenous]]). Block vs particulate DBBM for dehiscence GBR at implant placement is placement-stage context, not peri-implantitis treatment ([[bone-regeneration/zuercher-2026-block-versus-particulate-deproteinized-bovine]]). Full synthesis: [[overviews/peri-implantitis-treatment-modalities-overview]].
+Reconstruction improves radiographic bone fill and limits recession but does not improve clinical disease resolution (43.8% vs 44.4%) and carries more postoperative adverse events; 3-wall defects respond earlier than 4-wall defects (Hakkers 2026; Ramanauskaite 2023). The same split between structural gain and disease resolution appears with a connective tissue graft added to GBR ([[implants/peri-implantitis/holtzman-2026-effect-of-connective-tissue-graft]]) and with electrolytic cleaning added to autogenous reconstruction (abstract-only; [[implants/peri-implantitis/puisys-2026-peri-implant-reconstruction-with-autogenous]]). Block vs particulate DBBM for dehiscence GBR at implant placement is placement-stage context, not peri-implantitis treatment ([[bone-regeneration/zuercher-2026-block-versus-particulate-deproteinized-bovine]]). A case-level variant (added 2026-11-24): reconstruction of an *adjacent* lesion done in the same surgery as a new implant — flap debridement + collagenated DBBM of a residual periodontal intrabony defect (Case 1) or a neighbouring peri-implantitis defect (Case 2) while placing the new fixture — was stable at 3 years with 3.9 mm and 4.1 mm radiographic fill, CAL gain 1.7/1.8 mm and the new implants at −0.7 mm bone level ([[implants/peri-implantitis/lee-2026-simultaneous-implant-placement-surgical-management]]). Two selected cases (deep 3-wall defects, good plaque control) with no histology or standardized protocol: it shows that staging can be skipped in such sites, not that it should be. Full synthesis: [[overviews/peri-implantitis-treatment-modalities-overview]].
 
 ## Cross-cutting: Adjunctive Systemic Antibiotics (2025–2026)
 
@@ -219,6 +220,10 @@ Screw vs cement retention choice: clinically neutral on MBL — decide on retrie
 > **모범답안**: 이 오버뷰는 "**단일 표면 제염 프로토콜의 우월성은 입증되지 않음**"이라는 입장을 명시한다(Baima 2022 SR+MA, 16 RCT). EFP S3 가이드라인도 "특정 방법 권고 불가"다. 기계적·화학적·물리적(레이저·광역학) 프로토콜 중 임플란트주위염 해소율 차이가 없으며, 비외과 보조요법 네트워크 메타분석(Bai 2024, 33 RCT)에서도 단일 우세 요법이 없었다. 실제로는 **접근성을 최대화하는 외과 디자인 + 임상의가 익숙한 제염 방법** 조합이 현실적 최선이며, 재건 형태(GBR 또는 절제형)가 제염 방법 선택보다 더 중요한 결정 변수다.
 
 ## Related Papers
+
+### 신규 추가 (2026-11)
+
+- [[implants/peri-implantitis/lee-2026-simultaneous-implant-placement-surgical-management]] — 증례 2건 (3년): 신규 임플란트 식립과 동시에 인접 골내결손·임플란트주위염 결손을 판막 소파 + 콜라겐 DBBM으로 재건 — 골채움 3.9·4.1 mm, CAL 1.7·1.8 mm
 
 ### 신규 추가 (2026-10) — 항생제·장기 성적·SPT·재건·점막염·위험평가
 
