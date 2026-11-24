@@ -54,10 +54,12 @@ IL은 높은 초기안정성 (Primary Stability)이 확보될 때 유효한 선�
 - **Outcomes**: implant survival rate, marginal bone loss, peri-implant soft-tissue health, prosthetic complications, patient satisfaction.
 - **Analysis**: qualitative narrative synthesis (no new quantitative pooling across the 24 SRs).
 
-## 4. Key Results and Benchmarks
+## 4. Key Results and Benchmarks (citation numbers untraceable — see caveat)
+
+> **Citation-integrity caveat (verified against the PDF, 2026-11-25):** in-text citation numbers do not match the reference list. The placement/loading subgroup figures (IPIL 99.6%, IPDL 97.9%, …) are cited to ref [21] = Cochran 2004 ITI consensus statement (Int J Oral Maxillofac Implants 19:109), and the following pooled difference to ref [22] = Brunski 1999 in vivo bone-response study — neither can be the source of those estimates. The 24 included reviews are not listed and no per-review quality (AMSTAR) scores are reported, so every figure on this page is secondhand and cannot be traced to its originating meta-analysis. The text also calls the subgroup differences "significant" although their 95% CIs overlap. Treat all numbers as untraceable; cite the originating SRs held in this wiki instead where possible.
 
 - **Survival**: IL 92%–97.8%, NIL 95%–99% over follow-up; difference not statistically significant (P > 0.05) in the large majority of pooled comparisons cited (e.g., OR 0.75, 95% CI 0.32–1.76 at 1 year; OR 0.75, 95% CI 0.33–4.80 at 2 years; RR 1.00, 95% CI 0.97–1.03, P = 1.00 in one large MA). One outlier analysis found significantly higher IL failure (RR 4.76, 95% CI 1.74–13.02, P = 0.002) and another found significantly lower IL survival (RR 0.974, 95% CI 0.954–0.994, P = 0.012).
-- **Placement/loading-timing subgroup data** (from one included MA, ref [21]): IPIL 99.6%, IPDL 97.9%, EPEL 100%, EPDL 95.8%, DPIL 99.1%, DPEL 92.4%, DPDL 100% (all with wide/overlapping 95% CIs).
+- **Placement/loading-timing subgroup data** (attributed in-text to ref [21], which is the 2004 ITI consensus statement — source untraceable): IPIL 99.6%, IPDL 97.9%, EPEL 100%, EPDL 95.8%, DPIL 99.1%, DPEL 92.4%, DPDL 100% (all with wide/overlapping 95% CIs).
 - **Marginal bone loss**: IL 0.2–1 mm vs NIL 0.1–0.8 mm; difference not statistically significant (P > 0.05).
 - **Prosthetic complications** (crown loosening, fracture): similar rates, no significant difference (P > 0.05).
 - **Soft tissue / patient satisfaction**: reported as similar between protocols across included SRs.
@@ -65,6 +67,7 @@ IL은 높은 초기안정성 (Primary Stability)이 확보될 때 유효한 선�
 
 ## 5. Limitations and Future Work
 
+- **Citation mismatch**: in-text numbers do not map to the reference list (subgroup data → [21] Cochran 2004 consensus; pooled difference → [22] Brunski 1999); the 24 included SRs are not listed and no AMSTAR scores are reported.
 - Umbrella review of SRs performs only qualitative (narrative) synthesis — no new pooled quantitative estimate across the 24 SRs, so heterogeneity across the underlying meta-analyses (different populations, follow-up durations, IL definitions) is not statistically reconciled.
 - Internal inconsistency between the PRISMA flow diagram (48 included studies) and the Results narrative (24 systematic reviews as the analytic unit) is not clarified in the text.
 - Individual outlier findings (e.g., RR 4.76 IL failure risk) are mentioned but not deeply reconciled against the overall "no significant difference" narrative — risk of cherry-picking bias in a qualitative summary.
