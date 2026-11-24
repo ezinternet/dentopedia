@@ -891,6 +891,7 @@ tags: []
 - [[sinus-lift/lateral/basma-2021-large-artery-management-maxillary-sinus]] — 증례보고: CT 확인 대직경 PSA 분지를 피에조전기 기구로 슈나이더막과 함께 출혈 없이 거상 → 대직경 PSAA 발견 시 절제 대신 "막과 함께 거상" 전략으로 출혈 합병증 예방 (DOI 10.1002/cap.10104)
 
 ## 상악동거상술 — 경치조골·골밀도화 (Sinus Lift: Transcrestal / Osseodensification)
+- [[sinus-lift/transcrestal/better-2026-umbrella-review-meta-analyses-transcrestal-sinus-floor-elevation]] — Better 2026 · sr (엄브렐러, 메타분석 30편; AMSTAR 2 high 0/moderate 9/low 11/critically low 10): 치조정접근 상악동 거상(TSFE) — 모든 비교에서 생존 95–100%, **술식 간 순위 근거 없음**; BPPV 신호는 주로 망치식 오스테오톰(30편 중 4편, 인과 아님); Starch-Jensen 2025를 LOW로 재평가 (DOI 10.3390/dj14080483)
 - [[sinus-lift/transcrestal/huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma]] — Huang 2026 · sr+ma · 무이식(graftless) 경치조 상악동거상 MA 14편(2119부위): 막천공 1%·조기실패 1%·부비동염 없음; motor-OD 34% vs osteotome 0% (GRADE very low) (DOI 10.2340/aos.v85.46021)
 - [[sinus-lift/transcrestal/sirinirund-2025-minimally-invasive-sinus-augmentation-review]] — SR (36 studies, 2732 MSFA): VSA (≥5mm) vs LSA (<5mm); stopper bur/balloon/hydraulic/endoscope/microscope techniques; all achieve sufficient augmentation with reduced morbidity
 - [[sinus-lift/transcrestal/liu-2018-endoscopically-controlled-flapless-transcrestal-sinus]] — Case report (RBH 3.5 mm): endoscope-controlled flapless TSFE + PRF + simultaneous implant; ISQ 72.6 at placement; loading at 12 wk
