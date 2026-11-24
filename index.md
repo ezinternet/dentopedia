@@ -2105,6 +2105,7 @@ tags: []
 - [[drug/antibiotics/liu-2024-antibiotic-prophylaxis-surgical-nonsurgical-safety-umbrella-review]] — Liu 2024 (Int J Surg) · sr+ma · 우산리뷰(75 SR·725 RCT·119개 결과지표·163,832명, 78개 임상시나리오): 항생제 예방투여(AP) 56.3% 유의 이득이나 70%가 low~very-low 확실성; 창상 청결도와 효능은 대체로 무관, 방광경·화학요법후 무열성 호중구감소증은 내성/부작용 유의 증가 → 루틴 적용보다 케이스별 판단 필요
 
 ## 구강외과 (Oral Surgery)
+- [[oral-surgery/third-molar/mathew-2026-root-migration-coronectomy-umbrella-review]] — Mathew 2026 · sr (엄브렐러, SR 13편·일차연구 178편): **치관절제술(coronectomy) 후 치근 이동** 발생 6%~거의 100%, 3–6개월 시작·1년 후 안정, 평균 2–4 mm; 젊은 나이·여성·치근/매복 형태가 위험인자, 드물게 치근노출·재수술; 개념적 위험층화 모델 (초록만, DOI 10.1007/s10006-026-01560-6)
 - [[oral-surgery/rech-2021-bleeding-oral-surgery-liver-cirrhosis-sr]] — Rech 2021 · sr (PRISMA, 7편·연구당 23–318명·발치 62–1,183개) · 간경변 구강수술 출혈: 혈소판 16k–216k/INR<4에서도 출혈 0–8.9%, 거의 전부 국소지혈로 조절 → 술전 수혈 기본값 아님 (DOI 10.1016/j.adaj.2020.09.018, 초록만)
 - [[oral-surgery/medina-2018-bleeding-dental-extractions-liver-cirrhosis]] — Medina 2018 · retrospective (190내원/333치아, 간이식 대기) · 술중 비정상출혈 12건(6.31%)·술후 12건 **전부 국소지혈 조절**; 술중 출혈은 혈소판 수와 연관(P=0.026)이나 설명력 16%뿐 → 혈소판 **기능** 시사 (DOI 10.1016/j.ijom.2018.04.007, 초록만)
 - [[oral-surgery/fenelon-2023-osteomyelitis-jaw-major-complications-risk-factors]] — Fenelon 2023 · retrospective (악골 골수염 54명, 20년) · 주요합병증 31.5%: **음주 41.2% vs 10.8%**(p=0.025)·흡연(p=0.018)·영양실조(p=0.027)·임플란트 유발 골수염(p=0.003); 골노출=불응(p=0.030) (DOI 10.3390/jcm12144715)
