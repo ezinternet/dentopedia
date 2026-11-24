@@ -4,7 +4,7 @@ authors: "Basma HS, Abou-Arraj RV"
 year: 2021
 date: 2021-03-01
 doi: "10.1002/cap.10104"
-source: "Clinical Advances in Periodontics"
+source: basma-2021-large-artery-management-maxillary-sinus.md
 category: sinus-lift/lateral
 evidence_level: case-report
 source_collection: pubmed-abstract
