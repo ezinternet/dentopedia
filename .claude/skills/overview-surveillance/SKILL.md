@@ -69,7 +69,7 @@ because nothing has started.
 - **Recovery** (subagent killed or session limit): check what is on disk. If only the txt exists, have a new subagent write the pages from the local txt (no re-fetch). If the txt and source exist, write the wiki page only. If pages exist, verify completeness. If the user drops a paper, delete its untracked papers/sources/wiki files.
 - **Contamination check (mandatory, before finalize).** Print each new page's first Three-line Summary line next to its `title:`. Any mismatch → replace the summary block from `sources/` and log `source-data-issue`.
   ```bash
-  for f in <new wiki pages>; do echo "== $(grep -m1 '^title:' $f)"; awk '/^## Three-line Summary/{getline; while($0==""){getline}; print substr($0,1,160); exit}' $f; done
+  for f in <new wiki pages>; do echo "== $(grep -m1 '^title:' $f)"; sed -n '/^## Three-line Summary/,/^## 세줄요약/p' $f | grep -v -e '^##' -e '^$' | head -1 | cut -c1-160; done
   ```
 - **Finalize serially (parent only):** for each paper, insert its index line directly under the category's `## ` header in index.md, then run `python3 scripts/ingest-one.py --finish <stem>`. That handles the per-file commits, the category landing page, the push and qmd.
 
