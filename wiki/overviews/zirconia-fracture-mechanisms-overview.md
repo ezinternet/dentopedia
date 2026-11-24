@@ -23,9 +23,9 @@ tags: [zirconia, fracture, LTD, transformation-toughening, CAD-CAM, chipping, fa
 > - **CAD/CAM 밀링 결함이 파절의 두 번째 주범**: as-sintered 표면의 milling gouge·edge chip에서 파절 개시, 더 낮은 평균 강도·높은 Weibull — 밀링 결함이 블록 내재 결함보다 더 취약점(Kwon 2024).
 > - **표면 처리 패러독스**: 연삭(Grinding)·폴리싱 → FS 증가(Gr=900 MPa, Po=934 MPa vs 무처리 730 MPa; Sarabi 2024). 글레이징 → FS 오히려 감소 + LTD 보호 없음. 탈글레이징해도 FS 무감소, 오히려 증가(Aflatoonian 2025). chairside 조정 후 재연마 필수.
 > - **베니어 chipping: 임상 최다 파절 유형**: 베니어 지르코니아 5년 재료 파절 2.1% — 금속도재관 (Porcelain-Fused-to-Metal, PFM) 0.2%의 10배. 모놀리식 전환으로 chipping은 사실상 소멸(Pjetursson 2018 SR, Koenig 2021 0% chipping).
-> - **피로·과부하**: 교번 수열+기계 피로에서 일부 3Y-TZP는 오히려 강도 증가(VITA YZ; Prado 2022) — 변태강화 반복 활성화. 그러나 Prettau는 LTD 조건 단독에서 전편 파절(Flinn 2014) — 브랜드간 차이 경고.
+> - **피로·과부하**: 같은 3Y-TZP(VITA YZ T)라도 노화 방식에 따라 피로강도가 반대로 움직인다 — 연속 수열노화+피로 516±38 MPa(감소) vs 교번 프로토콜 730±58 MPa(증가); 기전은 논문에서 확정되지 않음(Prado 2022). 그러나 Prettau는 LTD 조건 단독에서 전편 파절(Flinn 2014) — 브랜드간 차이 경고.
 > - **이갈이(Bruxism)**: 모놀리식 마진 완전성 31.6%까지 하락(Leitão 2022). 과하중 반복은 피로 파절 위험 직접 상승.
-> - **안료 응집체**: 착색 다층 지르코니아(Lava Esthetic)에서 Er₂O₃-HfO₂-Al₂O₃ 안료 응집체 주변에 선택적 LTD 개시 — 국소 yttria 감소+소결정립(Cokic 2024).
+> - **안료 응집체**: 착색 다층 5Y-PSZ(Lava Esthetic A2·Bleach)에서 Er·Hf·Al 함유 안료 응집체(결정립 0.38–0.57 µm vs 주변 0.92 µm, 낮은 Y₂O₃) **내부에서만** 상전이 — 응집체 없는 Katana STML 대비 노화 저항·투명도·굴곡강도 낮음(Cokic 2024).
 > - **임상 의사결정 프레임**: 비이갈이·고하중 구치부 → 모놀리식 3Y-TZP(LTD 감시 필요), 심미 전치부 → 4Y/5Y-PSZ(LTD 안전, FS 충분 여부 두께 확인), 착색 다층 → 안료층 LTD 위험 인식.
 
 ## Three-line Summary
@@ -120,7 +120,7 @@ ISO 6872:2024는 LTD 시험을 수침지에서 증기로 변경 — 같은 조�
 
 ### 2.4 착색 다층 지르코니아의 선택적 LTD
 
-Lava Esthetic 착색 시 Er₂O₃-HfO₂-Al₂O₃ 안료 응집체가 국소적으로 더 작은 결정립+낮은 Y₂O₃를 형성 → 선택적 LTD 개시 부위. 벌크 XRD는 국소 열화를 과소평가 — 착색 다층 지르코니아는 전층 균질 LTD 가정이 부정확하다(Cokic 2024).
+Lava Esthetic(A2·Bleach)의 안료 첨가는 Er·Hf·Al 함유 응집체를 만들고, 응집체는 주변(0.92 µm)보다 훨씬 작은 결정립(A2 0.57 µm, Bleach 0.38 µm)과 낮은 Y₂O₃를 가진다. Lava Esthetic A2는 세 재료 중 노화 저항이 가장 낮았고 상전이는 응집체 안에서만 일어났다. 세 재료 모두 벌크 조성은 비슷했으므로(정방정 Y₂O₃ 4.2–5.7 mol%, 입방정 42–55 wt%), 벌크 이트리아·입방정 함량만으로 착색 다층 지르코니아의 노화 저항을 가정하면 안 된다. 응집체 없는 Katana STML A2는 투명도·굴곡강도가 더 높았지만 기계적 신뢰도는 더 낮았다(Cokic 2024; 초록 기반, 노화 조건 미기재).
 
 ---
 
@@ -169,16 +169,16 @@ Koenig (2021): 모놀리식 3Y-TZP에서 chipping 0% — 하지만 LTD 감시 �
 
 ### 5.1 교번 수열+기계 피로
 
-Prado (2022, 교번 프로토콜):
-- VITA YZ HT(3Y-TZP): 730→808 MPa로 오히려 증가 — 변태강화 반복 활성화
-- KATANA UTML(5Y-PSZ): 단사정 미검출, 안정
-- INCORIS TZI(3Y-TZP): 최고 복합 성능 810±76 MPa + 147k 사이클
+Prado (2022; 3세대 3종, CF=피로만 / AF=134 °C·20 h 연속 노화 후 피로 / AFA=5 h 노화 4회와 피로 교대, 단계응력 이축 피로):
+- VITA YZ T(1세대 3Y-TZP): AF 516±38 MPa(감소) vs AFA 730±58 MPa(증가) — 같은 재료가 노화 방식에 따라 반대 방향
+- INCORIS TZI(2세대 3Y-TZP): AF 후 최고 피로강도 810±76 MPa, 파절까지 147,000 사이클
+- KATANA UTML(3세대 5Y-PSZ): 처리 간 차이 없음, 단사정 미검출 — 다만 피로 저항은 더 낮음
 
-단일 스트레스보다 복합 스트레스가 더 임상적이며, 일부 3Y-TZP는 오히려 피로 경화(fatigue strengthening)를 보인다.
+노화 프로토콜의 형태(연속 vs 교번)가 피로 결과를 바꾸므로, 프로토콜이 다른 시험관 수치는 직접 비교하면 안 된다. 교번 프로토콜에서의 강도 증가 기전은 이 논문에서 확정되지 않았다(초록 기반).
 
 ### 5.2 브랜드 간 편차 경고 (Flinn 2014)
 
-동일 3Y-TZP 클래스 3브랜드: 134°C/200h + 180°C/16h 양쪽 프로토콜에서 Prettau 전편 파절, ZirTough(단사정 31.4%) 생존. 단사정-FS 상관 ρ=-0.71 ~ -1.0. → "3Y-TZP"라는 카테고리만으로 임상 안전성 가정 불가.
+Y-TZP 3종(Prettau·Zirprime·ZirTough, 0.2 mm 초박형 바): Prettau는 134°C/200h와 180°C/16h 양쪽에서 노화 중 전편 파절, Zirprime은 단사정 74.8%로 강도 1041→779 MPa, ZirTough는 단사정 31.4%로 1436→1243 MPa 유지. 단사정-FS 상관 ρ=-0.71 ~ -1.0. → "3Y-TZP"라는 카테고리만으로 임상 안전성 가정 불가.
 
 ---
 
@@ -189,7 +189,7 @@ Prado (2022, 교번 프로토콜):
 | 과얇은 두께 (< 0.5–1 mm) | 굴곡 중 임계응력 초과, 세대별 최소 두께 다름 |
 | 캔틸레버 (Cantilever) | 5년 생존 50–52%(Kasem 2026) — 연결부 비수복성 파절 |
 | 이갈이·브루시즘 | 반복 고하중, 모놀리식 마진 ↓31.6%(Leitão 2022) |
-| 고속소결 | 90분 단축 소결 — FS·LTD·투명도 통상소결 동등(Liu 2022) ✅ |
+| 고속소결 | ~90분 소결 — FS·투명도는 통상소결(~7 h)과 유의차 없음, LTD 단사정 분율은 일부 군에서만 유사, 와이블 신뢰도는 제품별 상이(Liu 2022, Y-PSZ 5종) ⚠️ |
 
 ---
 
@@ -236,7 +236,7 @@ Prado (2022, 교번 프로토콜):
 | LTD + 큐빅 임계값 확인 | [[dental-materials/zirconia/khabadze-2025-artificial-aging-cubic-tetragonal-phase-zirconia]] | in-vitro |
 | ISO 6872:2024 증기 vs 수침지 | [[dental-materials/zirconia/silveira-2026-3ytzp-hydrothermal-stability-steam-water-iso6872]] | in-vitro |
 | 착색·안료 LTD | [[dental-materials/zirconia/cokic-2024-coloring-multilayer-zirconia-pigment-agglomerates-ltd]] | in-vitro |
-| 고속소결 LTD 동등성 | [[dental-materials/zirconia/liu-2022-high-speed-sintering-ltd-translucent-zirconia]] | in-vitro |
+| 고속소결 (FS·투명도 동등, LTD 일부) | [[dental-materials/zirconia/liu-2022-high-speed-sintering-ltd-translucent-zirconia]] | in-vitro |
 | 표면처리 FS (연삭 vs 글레이징) | [[dental-materials/zirconia/sarabi-2024-grinding-ltd-flexural-strength-zirconia]] | in-vitro |
 | 탈글레이징 FS | [[dental-materials/zirconia/aflatoonian-2025-deglazing-hydrothermal-aging-high-translucent-zirconia]] | in-vitro |
 | 교번 피로 + 5Y-PSZ | [[dental-materials/zirconia/prado-2022-hydrothermal-mechanical-aging-fatigue-zirconia]] | in-vitro |
