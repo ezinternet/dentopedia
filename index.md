@@ -4005,6 +4005,7 @@ tags: []
 - [[oral-microbiology/nayak-2025-commensalism-fusobacterium-nucleatum-dilemma]] — Nayak 2025 · narrative-review · 방추형 간균 (Fusobacterium nucleatum) 공생-병원체 딜레마: FadA 부착소·면역 미세환경·뷰티르산 이중 역할, 가교종으로서 치주 생태계 역할 (JISP 2025)
 
 ## 치아침식 (Dental Erosion) — NEW category (added 2026-06-07, batch j)
+- [[dental-erosion/murchie-2026-defining-progression-in-erosive-tooth]] — Murchie 2026 · sr (종단 코호트 5편): 침식성 치아마모(ETW) **진행 정의** — 구강스캐너(IOS)는 BEWE가 변화 없다고 할 때도 10–150 µm 손실 검출, IOS–BEWE 일치도 약~중등도, 검증된 진행 임계값 없음 (DOI 10.1007/s00784-026-07217-8)
 - [[dental-erosion/gomez-2026-anti-erosive-dentifrices-umbrella-review]] — Gómez 2026 · sr+ma (umbrella, 8개 SR; PRISMA·AMSTAR 2·ConQual): **항침식 치약** — 불소>무불소, **stannous(SnF₂·multi-ion)이 NaF/NaMFP보다 가장 일관되게 우수**(certainty 중등도), Ca기반·biomimetic은 이질적·근거 낮음; 단 in vitro/in situ·단기 위주라 임상 ETW 감소 입증은 아님 (DOI 10.1016/j.jdent.2026.106608)
 - [[dental-erosion/barac-2015-erosive-effect-soft-drinks-enamel-profilometry]] — In-vitro stylus profilometry showing Coca-Cola (pH 2.67) most erosive short-term, orange juice equally erosive at ≥30 min, yoghurt non-erosive; titratable acidity as important as pH (2015)
 - [[dental-erosion/souza-2020-citrus-sweets-enamel-erosion-invitro]] — In-vitro profilometry (n=90 bovine enamel): citrus sweets (pH 2.6–3.5) cause 1.3–2.4 μm wear; dual-acid sweets as erosive as 0.1% citric acid and more than Coca-Cola (2020)
