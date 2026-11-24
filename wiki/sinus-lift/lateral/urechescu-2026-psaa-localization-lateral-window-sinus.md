@@ -4,7 +4,7 @@ authors: "Urechescu H, Pricop M, Cuzic C, Oncescu NG, Pricop A, Streian F"
 year: 2026
 date: 2026-03-19
 doi: "10.1186/s12903-026-08146-4"
-source: "BMC Oral Health"
+source: urechescu-2026-psaa-localization-lateral-window-sinus.md
 category: sinus-lift/lateral
 evidence_level: retrospective
 source_collection: pubmed-text
