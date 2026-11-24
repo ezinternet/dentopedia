@@ -3,7 +3,7 @@ title: "Long-term Zirconia Ceramic IRFDPs: 10-year Clinical Outcome"
 authors: "Chaar MS, Passia N, Becker M, Kern M"
 year: 2023
 doi: 10.1016/j.jdent.2023.104781
-source: Journal of Dentistry
+source: chaar-2023-long-term-zirconia-ceramic-inlay-retained-fdps.md
 category: inlay
 evidence_level: prospective
 date: 2023-11-19
