@@ -2991,6 +2991,7 @@ tags: []
 - [[behavioral-dentistry/body-dysmorphic-disorder/nabavizadeh-2023-prevalence-of-body-dysmorphic-disorder]] — Nabavizadeh 2023 · sr+ma · 코성형 지원자 18편(n=2,132) BDD 통합 유병률 32.7%(95% CI 23.6–41.7); BDD-YBOCS 도구가 설문보다 高(47.3%). 심미 진료 환자선택·술전 심리 스크리닝 근거 (2023)
 
 ## 시린이 (Dentin Hypersensitivity)
+- [[dentin-hypersensitivity/wang-2026-nano-hydroxyapatite-vs-fluoride-toothpaste-dentin-hypersensitivity-sr-ma]] — Wang 2026 · sr+ma (RCT 13편, n=609, 최대 12주): 나노수산화인회석(n-HAP) vs 불소 치약 — 2주 촉각역치 n-HAP 우세, 8주 냉공기는 불소 우세(SMD 0.35); 15–20% n-HAP 가장 일관(탐색적) (DOI 10.1186/s12903-026-09293-4)
 - [[dentin-hypersensitivity/chen-2025-lasers-vs-topical-desensitizing-agents-dentin-hypersensitivity-sr-ma]] — Chen 2025 · sr+ma (RCT만, 랜덤효과): 레이저 vs 국소 탈감작제 직접비교 — 레이저는 장기 공기분사 하위군에서만 우월, 나머지 차이 없음, GRADE 매우 낮음 (초록만, DOI 10.1007/s00784-025-06329-x)
 - [[dentin-hypersensitivity/gormley-2026-dentifrice-formulations-dentin-hypersensitivity-sr-nma]] — Gormley 2026 · sr+ma (RCT 93편 9,548명, 2주 NMA 47편; RoB 2·CINeMA): 치약 활성성분 비교 순위 — **불화주석·아르기닌**이 벤치마크 불소치약 대비 최대 감소(SnF₂ Schiff MD −0.85, 고확실성), 1차 자가관리 권고 (초록만, DOI 10.1111/prd.70088)
 - [[dentin-hypersensitivity/barbosa-2026-arginine-low-level-laser-dentin-hypersensitivity-rct]] — Barbosa 2026 · rct (4군 이중맹검, n=54, 8주) · **8% 아르기닌 치약 vs 660nm 저출력레이저(PBM) vs 병용 vs 대조**: 전 군 8주간 Schiff·VAS 유의 개선(5.0→1.9)이나 **군간 차이 없음·병용 상가효과 없음** → 시린이 완화에 아르기닌·레이저 동등, 병용 이점 없음 (DOI 10.1007/s10103-026-04927-z)
