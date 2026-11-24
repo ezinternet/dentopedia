@@ -2,7 +2,7 @@
 title: "레진접착 — resin-bonding"
 authors: navigation
 year: 2026
-date: 2026-10-24
+date: 2026-11-24
 doi: N/A
 source: navigation
 category: resin-bonding
@@ -15,24 +15,25 @@ tags: [navigation, category-index, resin-bonding]
 > [!summary] 한국어 핵심요약
 > - **분야**: 레진접착
 > - **범위**: Adhesive systems, bonding mechanisms, dentin adhesion
-> - **수록 논문**: 99편
+> - **수록 논문**: 104편
 
 ## Three-line Summary
 
 **Scope**: Adhesive systems, bonding mechanisms, dentin adhesion
-**Indexed papers**: 99 papers in `wiki/resin-bonding/`.
+**Indexed papers**: 104 papers in `wiki/resin-bonding/`.
 
 ## 세줄요약
 
 **분야**: 레진접착
-**수록 논문**: 99편
+**수록 논문**: 104편
 **하위 카테고리**: 없음
 
-## Papers in this Category (99)
+## Papers in this Category (104)
 
 | Paper |
 |---|
 | [[abo-alazm-2022-ids-universal-adhesive-pulp-pressure|Impact of Immediate Dentin Sealing Using Universal Adhesive under Simulated Pulp Pressure on Microtensile Bond Strength of Indirect Resin Composite Restorations and Dentin Permeability]] |
+| [[alam-2023-evaluating-advancements-recently-introduced|Evaluating the advancements in a recently introduced universal adhesive compared to its predecessor]] |
 | [[alghauli-2025-clinical-benefits-immediate-dentin-sealing|Clinical benefits of immediate dentin sealing: A systematic review and meta-analysis]] |
 | [[alvarenga-2024-self-adhesive-vs-conventional-cement-failure-sr-ma|Self-adhesive resin cement versus conventional cements on the failure rate of indirect single-tooth restorations: A systematic review and meta-analysis of randomized clinical trials]] |
 | [[anithakumari-2022-desensitizing-agents-bond-strength-sr|The effect of desensitizing agents on the bond strength of dentin bonding agents: A systematic review]] |
@@ -44,6 +45,7 @@ tags: [navigation, category-index, resin-bonding]
 | [[brkanovic-2023-universal-adhesive-systems-dentin-bond|Comparison of Different Universal Adhesive Systems on Dentin Bond Strength]] |
 | [[carrilho-2019-mdp-adhesive-interface-stability-sr|10-MDP Based Dental Adhesives: Adhesive Interface Characterization and Adhesive Stability—A Systematic Review]] |
 | [[celik-2015-self-adhesive-flowable-nccl-6month|Six-month Clinical Evaluation of a Self-adhesive Flowable Composite in Noncarious Cervical Lesions]] |
+| [[chaple-gil-2026-adhesive-strategies-etching-nccl-sr-nma|Comparison of Adhesive Strategies with Different Etching Approaches on the Clinical Performance of Restorations in Non-Carious Cervical Lesions: A Systematic Review and Network Meta-Analysis]] |
 | [[clearfil-se-bond-product-reference|Clearfil SE Bond / SE Bond 2]] |
 | [[comba-2024-effects-etching-time-ethanol-wet|Effects of Etching Time and Ethanol Wet Bonding on Bond Strength and Metalloproteinase Activity in Radicular Dentin]] |
 | [[corbella-2025-surgical-techniques-vertical-root-fractures-sr|The Efficacy of Surgical Techniques for the Management of Confirmed Vertical Root Fractures: A Systematic Review]] |
@@ -65,6 +67,7 @@ tags: [navigation, category-index, resin-bonding]
 | [[fehrenbach-2021-10-mdp-bonding-performance-sr-ma|Is the presence of 10-MDP associated to higher bonding performance for self-etching adhesive systems? A meta-analysis of in vitro studies.]] |
 | [[forville-2024-moist-dentin-adhesive-systems-reevaluation|Re-evaluating the role of moist dentin of adhesive systems used in the etch-and-rinse bonding strategy. A systematic review and meta-analysis.]] |
 | [[forville-2026-air-abrasion-nccl-18m-rct|Air Abrasion as Dentin Pretreatment in NCCLs: 18-Month Split-Mouth RCT]] |
+| [[gauthier-2005-oxygen-inhibition-dental-resins|Oxygen inhibition in dental resins]] |
 | [[grangeiro-2024-preheated-composite-picn-feldspathic-bond-strength|Preheated Composite as an Alternative for Bonding Feldspathic and Hybrid Ceramics: A Microshear Bond Strength Study]] |
 | [[hamdi-2025-surface-pretreatments-sclerotic-dentin-bond-sr|Surface pretreatments for bond to sclerotic dentin (NCCLs): SR]] |
 | [[hardan-2021-universal-adhesive-dentin-bond-sr-ma|Bond Strength of Universal Adhesives to Dentin: A Systematic Review and Meta-Analysis]] |
@@ -104,6 +107,7 @@ tags: [navigation, category-index, resin-bonding]
 | [[oza-2022-universal-adhesive-nccl-rct-2year|Clinical Performance of a 'No Wait' Universal Adhesive in Noncarious Cervical Lesions: A Two-year Randomized Controlled Clinical Trial]] |
 | [[parra-2026-pushout-bond-strength-fiberglass-posts|Push-Out Bond Strength of Prefabricated Fiberglass Posts in Endodontically Treated Teeth After Two Intracanal Cleaning Protocols]] |
 | [[patangia-2025-effect-oxygen-inhibited-layer-dental|Effect of Oxygen-Inhibited Layer of Dental Adhesives on Bond Strength: A Systematic Review]] |
+| [[peumans-2023-hema-free-1step-self-etch-nccl-14year-rct|Fourteen-year Clinical Performance of a HEMA-free One-step Self-etch Adhesive in Non-carious Cervical Lesions]] |
 | [[peumans-2023-universal-adhesive-nccl-3year-rct|Three-year Clinical Performance of a Universal Adhesive in Non-Carious Cervical Lesions]] |
 | [[sagen-2025-composite-porcelain-bond-strength-surface-treatment|An in vitro study on the bond strength between composite resin and porcelain using different surface treatment and bonding methods]] |
 | [[salvio-2013-hybridization-quality-bond-strength-adhesive-dentin|Hybridization quality and bond strength of adhesive systems according to interaction with dentin]] |
@@ -114,6 +118,7 @@ tags: [navigation, category-index, resin-bonding]
 | [[sirirangsee-2025-papain-deproteinization-eroded-dentin|Deproteinization with Papain enzyme improves the bonding performance of self-etch adhesives to eroded dentin]] |
 | [[souza-2026-ewbt-adhesive-systems-6year-rct|Clinical performance of the ethanol-wet bonding technique with different adhesive systems in noncarious cervical lesion restorations: a 6-year randomized clinical trial]] |
 | [[su-2023-mdp-resin-zirconia-bonding-durability-sr-ma|[10-Methacryloyloxydecyl dihydrogen phosphate in resin-to-zirconia bonding durability: a systematic review and meta-analysis]]] |
+| [[suh-2004-oxygen-inhibited-layer-adhesion-dentistry|Oxygen-inhibited layer in adhesion dentistry]] |
 | [[talungchit-2014-ethanol-wet-bonding-chlorhexidine-resin-dentin-durability|Ethanol-wet bonding and chlorhexidine improve resin-dentin bond durability: quantitative analysis using raman spectroscopy]] |
 | [[tang-2024-hema-bpa-free-universal-adhesives-dentin|Multi-Parameter Characterization of HEMA/BPA-free 1- and 2-step Universal Adhesives Bonded to Dentin]] |
 | [[tavangar-2022-calcium-silicate-cement-caries-dentin|Evaluating the shear bond strength and remineralization effect of calcium silicate-based and conventional self-adhesive resin cements to caries-affected dentin]] |
