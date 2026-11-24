@@ -1,0 +1,20 @@
+The comparison of lasers and topical desensitizing agents in the management of dentin hypersensitivity: a systematic review and meta-analysis
+
+Authors: Jiaxiong Chen; Lingjun Cui; Zexian Ye; Deqian Tang; Xin Bao; Qiushi Li
+Journal: Clinical Oral Investigations (Clin Oral Investig) 2025; 29(5):264
+DOI: 10.1007/s00784-025-06329-x | PMID: 40268806 | PMCID: none
+Source: PubMed metadata (abstract only — full text not retrieved).
+
+=== ABSTRACT ===
+
+OBJECTIVE: To determine whether lasers or topical desensitizing agents are more effective in managing dentin hypersensitivity (DH).
+
+MATERIALS AND METHODS: This systematic review was performed according to PRISMA guidelines. An electronic search included MEDLINE (PubMed), EMBASE, Cochrane Library, Web of Science (WOS), ClinicalTrials.gov databases, and Scopus. Authors, publication year, study design, details of intervention and control groups, sample size, age, sex, follow-up time, assessment scale, mean, and standard deviation were extracted from the included articles. Only randomized controlled trials were evaluated. Only the random effects model was applied due to high heterogeneity (I^2 > 50%) in all the subgroups.
+
+RESULT: 4,480 of 4,455 studies were excluded. Diode lasers and fluorine compounds were the most commonly used treatments. Lasers were superior in the long-term air blast group, though others did not. The medium-term tactile group indicated publication bias. Sensitivity analysis showed that the medium-term air blast group and short-and medium-term tactile groups lacked robustness. The Grading of Recommendations, Assessment, Development and Evaluation (GRADE) system assessed the quality of evidence as very low.
+
+CONCLUSION: It is insufficient to determine which treatment is more effective for managing DH. However, clinicians should recognize that laser irradiation is a feasible and reliable treatment for DH. Future research should focus on standardizing methods and exploring cost-effective laser applications.
+
+CLINICAL RELEVANCE: DH, a global health issue, requires effective treatment. Lasers and topical desensitizing agents are commonly used in their management, but no definitive conclusion has been reached regarding which is superior.
+
+Keywords: Air blast; Dentin hypersensitivity; Laser; Meta-analysis; Sensitivity analysis; Tactile; Topical desensitizing agent
