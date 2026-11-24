@@ -18,10 +18,10 @@ tags: [zirconia, fracture, LTD, transformation-toughening, CAD-CAM, chipping, fa
 > [!summary] 한국어 핵심요약
 > - **역설의 핵심**: 지르코니아는 굴곡강도 (Flexural Strength, FS) 900–1200 MPa, 파괴인성 (Fracture Toughness, KIc) 5–10 MPa·m⁰·⁵로 치과 세라믹 최강인데, 그 강도의 원천인 변태강화 (Transformation Toughening)가 동시에 가장 치명적인 파절 경로(저온열화, Low-Temperature Degradation, LTD)의 원인이다.
 > - **변태강화 작동 원리**: 균열 첨단 응력 → 정방정 (Tetragonal, t) → 단사정 (Monoclinic, m) 상전환, ~4% 체적팽창, 균열 주변 압축응력 형성 → 균열 성장 억제. 이 에너지 소산이 KIc를 이규산리튬 (Lithium Disilicate, LS₂)의 2–3배로 올린다(Chopra 2024).
-> - **LTD 기전**: 구강 내 습기·체온이 지르코니아 표면에서 동일한 t→m 전환을 천천히 무제한 유발 → 표면 체적팽창 → 미세균열 그물망 → 단면 강도 점진 감소. 3Y-TZP 500h 134°C LTD 후 강도 1740→1169 MPa(↓33%)(Kohorst 2012). 임상적으로는 6개월부터 검출, 5년 유의 진행(Koenig 2021/2024).
-> - **LTD 세대 내성 분기점**: 큐빅상 >30% (4Y/5Y-PSZ)이면 임상 LTD 사실상 없음(Kengtanyakich 2020, Khabadze 2025). 단 큐빅상이 많을수록 FS·KIc 하락 — 선택이 아니라 trade-off.
+> - **LTD 기전**: 구강 내 습기·체온이 지르코니아 표면에서 동일한 t→m 전환을 천천히 무제한 유발 → 표면 체적팽창 → 미세균열 그물망 → 단면 강도 점진 감소. 3Y-TZP 134°C/128h LTD 후 강도 1740→1169 MPa(↓33%)(Kohorst 2012). 임상적으로는 6개월부터 검출, 5년 유의 진행(Koenig 2021/2024).
+> - **LTD 세대 내성 분기점**: 큐빅상 >30%(4Y/5Y-PSZ)는 122 °C/8 h 노화 후 단사정 미검출 — 저자들은 높은 LTD 저항성을 "가정"(Kengtanyakich 2020, 4군·단일 조건). Khabadze 2025(134 °C/12 h)는 3Y-TZP 대조군까지 상전이가 없어 임계값을 판별하지 못함. 단 큐빅상이 많을수록 FS·KIc 하락 — 선택이 아니라 trade-off.
 > - **CAD/CAM 밀링 결함이 파절의 두 번째 주범**: as-sintered 표면의 milling gouge·edge chip에서 파절 개시, 더 낮은 평균 강도·높은 Weibull — 밀링 결함이 블록 내재 결함보다 더 취약점(Kwon 2024).
-> - **표면 처리 패러독스**: 연삭(Grinding)·폴리싱 → FS 증가(Gr=900 MPa, Po=934 MPa vs 무처리 730 MPa; Sarabi 2024). 글레이징 → FS 오히려 감소 + LTD 보호 없음. 탈글레이징해도 FS 무감소, 오히려 증가(Aflatoonian 2025). chairside 조정 후 재연마 필수.
+> - **표면 처리 패러독스**: 연삭(Grinding)·폴리싱 → FS 증가(Gr=900 MPa, Po=934 MPa vs 무처리 730 MPa; Sarabi 2024). 글레이징의 LTD 보호는 표면 상태에 따라 갈린다 — 연삭 후 글레이징(Sarabi): FS 증가 없음(753 MPa), 노화 후 단사정 41.8%로 보호 없음 / 무손상 표면 글레이징(Aflatoonian 2025): 노화 후 단사정 0%로 상전이 차단, 그러나 FS는 탈글레이징·비글레이징군(1338·1320 MPa)보다 낮음(1093→1141 MPa). chairside 조정 후 재연마 필수.
 > - **베니어 chipping: 임상 최다 파절 유형**: 베니어 지르코니아 5년 재료 파절 2.1% — 금속도재관 (Porcelain-Fused-to-Metal, PFM) 0.2%의 10배. 모놀리식 전환으로 chipping은 사실상 소멸(Pjetursson 2018 SR, Koenig 2021 0% chipping).
 > - **피로·과부하**: 같은 3Y-TZP(VITA YZ T)라도 노화 방식에 따라 피로강도가 반대로 움직인다 — 연속 수열노화+피로 516±38 MPa(감소) vs 교번 프로토콜 730±58 MPa(증가); 기전은 논문에서 확정되지 않음(Prado 2022). 그러나 Prettau는 LTD 조건 단독에서 전편 파절(Flinn 2014) — 브랜드간 차이 경고.
 > - **이갈이(Bruxism)**: 모놀리식 마진 완전성 31.6%까지 하락(Leitão 2022). 과하중 반복은 피로 파절 위험 직접 상승.
@@ -30,19 +30,19 @@ tags: [zirconia, fracture, LTD, transformation-toughening, CAD-CAM, chipping, fa
 
 ## Three-line Summary
 
-Zirconia's paradoxical fracture susceptibility stems from transformation toughening: the same t→m phase transformation (~4% volume expansion) that provides KIc 5–10 MPa·m⁰·⁵ becomes a liability when uncontrolled moisture drives LTD — with 3Y-TZP losing up to 33% strength after 500h at 134°C (Kohorst 2012) and clinical LTD onset confirmed at 6 months, progressing through 5 years (Koenig 2021/2024).
+Zirconia's paradoxical fracture susceptibility stems from transformation toughening: the same t→m phase transformation (~4% volume expansion) that provides KIc 5–10 MPa·m⁰·⁵ becomes a liability when uncontrolled moisture drives LTD — with 3Y-TZP losing up to 33% strength after 128 h at 134°C (Kohorst 2012) and clinical LTD onset confirmed at 6 months, progressing through 5 years (Koenig 2021/2024).
 
-Five fracture pathways converge clinically: (1) LTD surface microcracking (3Y-TZP only; >30% cubic is immune — Kengtanyakich 2020); (2) CAD/CAM milling gouge initiation (Kwon 2024); (3) veneering porcelain chipping (10× higher than PFM — Pjetursson 2018, eliminated by monolithic design); (4) fatigue under cyclic loading; (5) parafunctional overload (bruxism).
+Five fracture pathways converge clinically: (1) LTD surface microcracking (mainly 3Y-TZP; >30% cubic showed no monoclinic after 122 °C/8 h and was assumed highly resistant — Kengtanyakich 2020); (2) CAD/CAM milling gouge initiation (Kwon 2024); (3) veneering porcelain chipping (10× higher than PFM — Pjetursson 2018, eliminated by monolithic design); (4) fatigue under cyclic loading; (5) parafunctional overload (bruxism).
 
-Surface treatment paradox: grinding and polishing increase FS via transformation toughening (900–934 vs 730 MPa — Sarabi 2024, Aflatoonian 2025); glazing reduces FS and provides no LTD protection; brand-to-brand variability within the same 3Y-TZP class is clinically significant (Prettau failed catastrophically, ZirTough survived — Flinn 2014).
+Surface treatment paradox: grinding and polishing increase FS (900–934 vs 730 MPa — Sarabi 2024); glazing over a ground surface neither raised FS nor prevented t→m (41.8% after aging — Sarabi 2024), whereas glazing an intact surface blocked t→m (0% — Aflatoonian 2025) but left FS lower than deglazed/non-glazed discs (1093–1141 vs 1320–1338 MPa); brand-to-brand variability within the same 3Y-TZP class is clinically significant (Prettau failed catastrophically, ZirTough survived — Flinn 2014).
 
 ## 세줄요약
 
-지르코니아 파절의 역설: 변태강화(t→m, ~4% 팽창)가 KIc 5–10 MPa·m⁰·⁵를 제공하지만, 동일한 상불안정성이 구강 내 습기에서 LTD를 유발 — 3Y-TZP는 134°C/500h 후 강도 ↓33%(Kohorst 2012), 임상 6개월부터 검출·5년 유의 진행(Koenig 2021/2024).
+지르코니아 파절의 역설: 변태강화(t→m, ~4% 팽창)가 KIc 5–10 MPa·m⁰·⁵를 제공하지만, 동일한 상불안정성이 구강 내 습기에서 LTD를 유발 — 3Y-TZP는 134°C/128h 후 강도 ↓33%(Kohorst 2012), 임상 6개월부터 검출·5년 유의 진행(Koenig 2021/2024).
 
-임상 파절 5경로: ①LTD 표면 미세균열(3Y-TZP; >30% 큐빅은 면역 — Kengtanyakich 2020), ②CAD/CAM 밀링 결함 개시(Kwon 2024), ③베니어 chipping(PFM의 10배; 모놀리식으로 소멸 — Pjetursson 2018), ④피로 하중, ⑤이갈이 과부하.
+임상 파절 5경로: ①LTD 표면 미세균열(주로 3Y-TZP; >30% 큐빅은 122 °C/8 h에서 단사정 미검출, 고저항 "가정" — Kengtanyakich 2020), ②CAD/CAM 밀링 결함 개시(Kwon 2024), ③베니어 chipping(PFM의 10배; 모놀리식으로 소멸 — Pjetursson 2018), ④피로 하중, ⑤이갈이 과부하.
 
-표면처리 역설: 연삭·폴리싱 FS 증가(900–934 MPa vs 730 MPa; Sarabi 2024/Aflatoonian 2025); 글레이징 FS 감소+LTD 무보호; 동일 3Y-TZP 내 브랜드 차이 임상 유의(Prettau 전편 파절, ZirTough 생존 — Flinn 2014).
+표면처리 역설: 연삭·폴리싱 FS 증가(900–934 MPa vs 730 MPa; Sarabi 2024); 연삭 후 글레이징은 FS·LTD 보호 없음(단사정 41.8%; Sarabi), 무손상 표면 글레이징은 상전이 차단(0%)하나 FS는 비글레이징보다 낮음(Aflatoonian 2025); 동일 3Y-TZP 내 브랜드 차이 임상 유의(Prettau 전편 파절, ZirTough 생존 — Flinn 2014).
 
 ---
 
@@ -91,7 +91,7 @@ Surface treatment paradox: grinding and polishing increase FS via transformation
 3. 표면 ~4% 체적팽창 → 미세균열 그물망
 4. 미세균열이 거시 균열 경로의 개시점
 
-**정량 기준선 (Kohorst 2012)**: 3Y-TZP 134°C/2bar/500h → 강도 1740→1169 MPa(↓33%). ATZ(알루미나-지르코니아 복합, Alumina-Toughened Zirconia)는 역설적으로 1093→1378 MPa(↑26% — 변태강화 반복 활성화). 12Ce-TZP(세리아 안정화)는 LTD 완전 면역, ~500 MPa 유지.
+**정량 기준선 (Kohorst 2012)**: 3Y-TZP 134°C/3bar/128h → 강도 1740→1169 MPa(↓33%). ATZ(알루미나-지르코니아 복합, Alumina-Toughened Zirconia)는 역설적으로 1093→1378 MPa(↑26%; 기전은 초록에 없음). 12Ce-TZP(세리아 안정화)는 단사정·변태층 없음, ~500 MPa 유지.
 
 **임상 경과 (Koenig 2021/2024)**: 101개 후방 모놀리식 3Y-TZP 보철 추적:
 - 6개월: LTD 국소 검출 시작
@@ -110,7 +110,7 @@ Surface treatment paradox: grinding and polishing increase FS via transformation
 | 30–50% (4Y-PSZ) | LTD 없음 | 4Y-PSZ |
 | >50% (5Y-PSZ) | LTD 없음 | KATANA UTML, 5Y-PSZ |
 
-임계값 근거: Kengtanyakich (2020) 122°C/8h, Khabadze (2025) 134°C/12h에서 독립 확인. KATANA UTML 5Y-PSZ는 교번 수열+기계 피로 후에도 단사정 미검출(Prado 2022).
+임계값 근거: Kengtanyakich (2020) 122°C/8h 단일 조건(저자 표현은 "가정"). Khabadze (2025) 134°C/12h는 3Y-TZP 대조군(Katana HTML)도 단사정 미발생이라 임계값의 독립 확인이 되지 못한다. KATANA UTML 5Y-PSZ는 교번 수열+기계 피로 후에도 단사정 미검출(Prado 2022).
 
 **trade-off**: 큐빅상↑ = LTD 저항↑ = FS·KIc↓. >50% 큐빅군은 500 MPa, KIc <3.5 MPa·m⁰·⁵ 임계값 미달 가능 — 고하중 구치부 단일 사용 위험.
 
