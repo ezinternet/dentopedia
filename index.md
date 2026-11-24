@@ -3018,6 +3018,7 @@ tags: []
 - [[dentin-hypersensitivity/le-fur-bonnabesse-2017-dental-pain-thermal-allodynia]] — 환경 온도차(cold→warm)로 유발되는 치과 열성 통각과민(thermal allodynia) 기전 가설: TRPV1 말초 감작·C섬유 신경가소성·중추 감작 4단계 cascade와 임상 3증례
 
 ## 균열치 증후군 (Cracked Tooth Syndrome, CTS)
+- [[cracked-tooth/ruan-2026-long-term-survival-endodontically-treated-cracked-teeth-sr-ma]] — Ruan 2026 · sr+ma (15편, 9편 풀링): 근관치료 균열치 **4–5년 생존 82.2%**(I² 89.5%, 확실성 매우 낮음), 10년 54–66%·15년 55%; 깊은 치주낭이 지속 불량인자(aHR 2.48/3.19 — Chan 2025 수치 재인용) (초록만, DOI 10.1016/j.joen.2026.10.002)
 - [[cracked-tooth/wang-2025-crown-vs-porcelain-inlay-cracked-teeth-rct]] — Wang 2025 · rct · 전향 RCT(n=106, 근관치료 후 균열치): 포세린 인레이가 전부피개관보다 성공률·통증·치은지표·저작효율 우수 (abstract-only, 중국어, PMID 40275667·DOI 없음)
 - [[cracked-tooth/liu-2025-restorative-design-materials-stress-cracked-teeth-fea]] — Liu 2025 (FEA, BMC): 균열 대구치 수복 설계×재료 응력·균열진전 — 피개형 설계가 응력 유리
 - [[cracked-tooth/kaur-2026-cracked-tooth-syndrome-umbrella-review]] — Umbrella review (Manipal CDS, JCDE 2026, PROSPERO, AMSTAR-2): 4 SR(30 primary)/CCA 17% — **endo therapy + full cuspal coverage가 최고 prognosis**. 분야 최고 evidence-level
