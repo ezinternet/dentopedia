@@ -15,26 +15,27 @@ tags: [navigation, category-index, dental-erosion]
 > [!summary] 한국어 핵심요약
 > - **분야**: 치아침식
 > - **범위**: Erosive tooth wear (ETW) — etiology (intrinsic/extrinsic acids, dietary soft drinks/citrus), enamel demineralization/mineral loss chemistry, erosion measurement (profilometry), risk factors & prevention
-> - **수록 논문**: 16편
+> - **수록 논문**: 17편
 
 ## Three-line Summary
 
 **Scope**: Erosive tooth wear (ETW) — etiology (intrinsic/extrinsic acids, dietary soft drinks/citrus), enamel demineralization/mineral loss chemistry, erosion measurement (profilometry), risk factors & prevention
-**Indexed papers**: 16 papers in `wiki/dental-erosion/`.
+**Indexed papers**: 17 papers in `wiki/dental-erosion/`.
 
 ## 세줄요약
 
 **분야**: 치아침식
-**수록 논문**: 16편
+**수록 논문**: 17편
 **하위 카테고리**: 없음
 
-## Papers in this Category (16)
+## Papers in this Category (17)
 
 | Paper |
 |---|
 | [[barac-2015-erosive-effect-soft-drinks-enamel-profilometry|Erosive Effect of Different Soft Drinks on Enamel Surface in vitro: Application of Stylus Profilometry]] |
 | [[chan-2024-oral-health-status-eating-disorders|Oral health status of individuals with eating disorders: Systematic review and meta-analysis]] |
 | [[chatzidimitriou-2024-role-calcium-prevention-erosive-tooth|The role of calcium in the prevention of erosive tooth wear: a systematic review and meta-analysis]] |
+| [[creeth-2024-daily-fluoride-remineralisation-enamel-erosion-nma-in-situ|Remineralisation of enamel erosive lesions by daily-use fluoride treatments: network meta-analysis of an in situ study set]] |
 | [[dallavilla-2024-prevalence-erosive-tooth-wear-risk|Prevalence of erosive tooth wear in risk group patients: systematic review]] |
 | [[fdi-2024-tooth-wear-policy-statement|Tooth Wear]] |
 | [[gomez-2026-anti-erosive-dentifrices-umbrella-review|A comprehensive evidence synthesis of anti-erosive dentifrices: An umbrella review of systematic reviews]] |
