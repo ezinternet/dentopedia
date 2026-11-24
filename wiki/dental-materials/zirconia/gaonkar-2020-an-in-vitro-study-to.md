@@ -4,7 +4,7 @@ authors: "Gaonkar Sneha Harishchandra, Aras Meena Ajay, Chitre Vidya"
 year: 2020
 doi: "10.4103/jips.jips_339_19"
 pmid: "32655223"
-source: "The Journal of the Indian Prosthodontic Society"
+source: gaonkar-2020-an-in-vitro-study-to.md
 category: dental-materials/zirconia
 evidence_level: in-vitro
 date: 2020-01-01
