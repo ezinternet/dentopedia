@@ -3,7 +3,7 @@ title: "Effect of surface treatments on biaxial flexural strength, fatigue resis
 authors: "Elraggal Alaaeldin, Aboushelib Moustafa, Abdel Raheem Islam M., Afifi Rania R."
 year: 2022
 doi: "10.1186/s12903-022-02431-8"
-source: "BMC Oral Health"
+source: elraggal-2022-effect-of-surface-treatments-on.md
 category: dental-materials/zirconia
 source_collection: pubmed-text
 evidence_level: in-vitro
