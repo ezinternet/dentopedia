@@ -1493,13 +1493,13 @@ tags: []
 - [[dental-materials/turker-2020-surface-treatments-cad-cam-resin]] — in-vitro(J Adv Prosthodont 2020): Lava Ultimate·Vita Enamic CoJet+Z-Prime 최고; HF는 Vita Enamic에만 효과적
 - [[dental-materials/zirconia/comba-2021-chemical-bonding-cubic-zirconia]] — in-vitro(Materials 2021): 큐빅(5Y) 지르코니아 CoJet+실란+MDP 6개월 최고 안정성; 큐빅도 3Y와 동일 접착 반응
 - [[dental-materials/zirconia/aflatoonian-2025-deglazing-hydrothermal-aging-high-translucent-zirconia]] — in-vitro (40 HT 3Y-PSZ, 4그룹): deglazing+aging 군에서 표면조도 증가·LTD 가속 — 고투명 지르코니아 디글레이징 시 LTD 취약성 상승
-- [[dental-materials/zirconia/cokic-2024-coloring-multilayer-zirconia-pigment-agglomerates-ltd]] — in-vitro (Lava Esthetic 다층 지르코니아): 착색액 Er₂O₃ 응집체 → LTD 핵생성 촉진; LTD 감수성 단일층 대비 증가
-- [[dental-materials/zirconia/flinn-2014-hydrothermal-degradation-three-types-zirconia]] — in-vitro (3Y-TZP 3종: Zpex·Prettau·ZirTough; 134 °C/200h, 180 °C/16h): AL이 LTD 최강 예측인자; 소결 미세조직 차이가 LTD 내성 결정
+- [[dental-materials/zirconia/cokic-2024-coloring-multilayer-zirconia-pigment-agglomerates-ltd]] — in-vitro (다층 5Y-PSZ 3종: Lava Esthetic A2·Bleach vs Katana STML A2): 안료 Er·Hf·Al 응집체(소결정립·저 Y₂O₃) 내부에서만 상전이 — Lava A2 노화 저항 최저; 응집체 없는 Katana STML이 투명도·굴곡강도↑, 신뢰도↓
+- [[dental-materials/zirconia/flinn-2014-hydrothermal-degradation-three-types-zirconia]] — in-vitro (Y-TZP 3종: Prettau·Zirprime·ZirTough, 0.2 mm 바; 134 °C/200h, 180 °C/48h): Prettau 양 조건 노화 중 전편 파절; ZirTough 단사정 31.4%·1243 MPa 유지; 단사정↑→강도↓(ρ −0.71~−1.0)
 - [[dental-materials/zirconia/kengtanyakich-2020-hydrothermal-degradation-cubic-translucent-zirconia]] — in-vitro (4개 Y-TZP 그룹 T/ST/XT/P; 122 °C/8h): 큐빅 함량↑→LTD↓; 단상 큐빅(P) 사실상 LTD 없음; 강도 대가
 - [[dental-materials/zirconia/khabadze-2025-artificial-aging-cubic-tetragonal-phase-zirconia]] — in-vitro XRD (3Y/4Y/5Y-PSZ, polished/glazed; 134 °C/40h): 연마면 LTD 취약 > 글레이징면; 5Y-PSZ 위상 변화 최소
 - [[dental-materials/zirconia/kohorst-2012-low-temperature-degradation-3ytzp-atz-ceria-zirconia]] — in-vitro (3Y-TZP/ATZ/12Ce-TZP; autoclave aging): ATZ LTD 중간; 12Ce-TZP 사실상 LTD 없음; 조성이 LTD 저항성 1차 결정인자
-- [[dental-materials/zirconia/liu-2022-high-speed-sintering-ltd-translucent-zirconia]] — in-vitro (고속 소결 ~90분 vs 통상 ~8h, 2종 투명 지르코니아): 고속 소결 LTD 감수성 통상과 동등; 소결 속도는 LTD에 비결정적
-- [[dental-materials/zirconia/prado-2022-hydrothermal-mechanical-aging-fatigue-zirconia]] — in-vitro (4종 3Y/5Y-TZP; 수열+기계 복합 노화): LTD+피로 복합 노화 후 5Y-PSZ 굴곡강도 감소; 3Y-TZP 상대적으로 안정
+- [[dental-materials/zirconia/liu-2022-high-speed-sintering-ltd-translucent-zirconia]] — in-vitro (Y-PSZ 5종: KATANA HT/STML/UTML·Zpex 4·Zpex Smile; 고속 ~90분 vs 통상 ~7h, 초고속 18분): 투명도·굴곡강도 유의차 없음; 고속소결 결정립↓·입방정↓; LTD는 일부 군만 유사; 와이블 제품별 상이
+- [[dental-materials/zirconia/prado-2022-hydrothermal-mechanical-aging-fatigue-zirconia]] — in-vitro (3세대 3종: VITA YZ T·INCORIS TZI·KATANA UTML; 수열노화+단계응력 피로): VITA 연속 516 MPa↓ vs 교번 730 MPa↑; INCORIS 810 MPa·147,000 사이클 최고; KATANA UTML 단사정 없음·피로 저항 낮음
 - [[dental-materials/zirconia/sarabi-2024-grinding-ltd-flexural-strength-zirconia]] — in-vitro (n=64, Y-TZP, 연삭×LTD 조합): 연삭+LTD 복합은 굴곡강도 단독 연삭보다 추가 감소; 연삭 후 표면 처리 중요성 확인
 - [[dental-materials/zirconia/silveira-2026-3ytzp-hydrothermal-stability-steam-water-iso6872]] — in-vitro (150 3Y-TZP, ISO 6872:2024 steam aging): ISO 개정 증기 노화는 수중 침지보다 LTD 더 가속; 새 ISO 기준이 보수적 임상 예측 제공
 - [[dental-materials/zirconia/awad-2022-mdp-cleaner-contaminated-zirconia]] — in-vitro(Materials 2022): MDP 함유 세정제 — 오염 지르코니아에 수세·알코올보다 높은 SBS; 세정+접착 이중 기능
