@@ -1,8 +1,8 @@
 ---
 title: "Cracked Tooth Syndrome — 분류·진단·치료 결정의 2026 종합 (Korean Clinical Application)"
-authors: synthesis page (compiled by Claude; last updated 2026-09-25, ~34 papers)
+authors: synthesis page (compiled by Claude; last updated 2026-11-24, ~36 papers)
 year: 2026
-date: 2026-09-22
+date: 2026-11-24
 category: overviews
 evidence_level: synthesis
 source_collection: internal
@@ -16,7 +16,7 @@ relations:
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 균열치 증후군 (Cracked Tooth Syndrome, CTS) 21편을 통합한 분류·진단·치료 결정 종합 페이지로, CTS는 단독 진단명이 아니라 종방향 파절 (Longitudinal Fracture) 5-type 중 불완전 파절 (Incomplete Fracture) 에 해당한다.
+> - 균열치 증후군 (Cracked Tooth Syndrome, CTS) ~36편을 통합한 분류·진단·치료 결정 종합 페이지로, CTS는 단독 진단명이 아니라 종방향 파절 (Longitudinal Fracture) 5-type 중 불완전 파절 (Incomplete Fracture) 에 해당한다.
 > - 5-type 분류: craze line (관찰) → fractured cusp (보존 수복 ± crown) → cracked tooth/CTS (본 페이지 핵심) → split tooth (부분/전체 발치) → 수직 치근 파절 (Vertical Root Fracture, 보통 발치).
 > - 진단의 핵심 원칙: 단일 도구로 확진 불가 — 시진·투조 (transillumination)·교합검사 (bite test, Tooth Slooth)·콘빔CT (CBCT)·정량광형광 (QLF) 을 종합한 multi-modal framework이 필수. [확인] 이제 정량 근거로 뒷받침: 투조 (transillumination) 는 민감도 68.8%·특이도 53.6% (위양성↑), 고배율 현미경·macrophotography 는 특이도 92.9%·양성예측도 (PPV) ~96% (Kindaro 2025, micro-CT 기준), QLF 형광채널은 crack 위치를 kappa 0.66–0.74로 검출 (Son 2024).
 > - 균열치 종축 균열 5-type 은 유럽근관치료학회 (ESE, Patel 2025) 합의문이 표준 용어로 확정하며 "cracked tooth syndrome (CTS)" 용어 자체의 폐기를 권고 (본 overview는 검색·통용성 위해 라벨 유지).
@@ -42,24 +42,29 @@ relations:
 >   - **교합형태 위험인자 (Deng 2026, n=83+83)**: 균열치는 비균열치 대비 기능교두경사(Cusp Inclination on Crack Side, CIS) 상악 31.87° vs 26.01°, 하악 CIS 교두 높이 OR=8.177 — 균열 예방 교합 설계 근거.
 >   - **균열 위치·예후 (Yang 2024, n=80)**: 균열선이 교합 비니어(Occlusal Veneer) 준비 경계 내 = Type I (예후 양호) vs 경계 밖 = Type II (치수생존 열등) — Cluster 4 수복 디자인 stratification.
 >   - **예방 근관치료 패러다임 (Pryles 2025, Harvard)**: 조기 보호 수복·이갈이 관리·시기 적절한 근관치료 3축 → crack → 치수염 → 치수괴사 → 발치 cascade 차단; Kwak 보수적 입장을 *예방* 관점으로 재프레이밍.
-> - 약점·gap: CTS는 primary RCT가 절대 빈약 ([미검증]) — umbrella·SR도 결국 동일 base에 의존하며, Kaur 2026 CCA 17% (중복 사용) 로 true heterogeneity 평가 한계, 5년+ 장기 cohort는 Chan 2025(15년)가 현재 최장.
+> - **2026-11 장기 예후 클러스터 추가 (2편, 둘 다 초록만 abstract-only)**:
+>   - **시간축 생존 메타분석 (Ruan 2026, SR+메타분석 SR+MA, 15편/정량 9편)**: 근관치료 균열치 4–5년 통합 생존율 (pooled survival) 82.2% (95% CI 67.7–91.1%) — 그러나 이질성 (heterogeneity) I² 89.5%·전 연구 serious 비뚤림 위험 (risk of bias)·근거 확실성 (certainty) very low. **주의: 10년 66%·15년 55%·조정위험비 (aHR) 2.48/3.19는 Chan 2025 코호트 수치의 재인용 (re-cited)** 이라 독립 확증이 아님; 진짜 새 수치는 4–5년 통합값과 두 번째 코호트의 10년 54%뿐.
+>   - **수정 아이오와 지수 (modified Iowa Index, Wongkornchaowalit 2026, 후향 n=263, 평균 40.3개월)**: 각 Iowa 단계를 균열 연장 범위로 세분 — I–III단계 (탐침깊이 PD <5 mm) 생존 86.5–100% vs **IV-R단계 (치근 방향 연장 radicular extension + PD ≥5 mm) 생존 63.0%·성공 33.3%**. 실패 독립 예측인자 7개: 고령·균열선 따라 PD ≥5 mm·치근 연장 ≥3 mm·술전 치근단 병소·다발 균열·**이갈이 등 이상기능 (parafunction) 환자의 교합안정장치 (occlusal splint) 미사용**·온레이 (onlay) 또는 복합레진 (composite) 수복.
+>   - **수렴점**: 탐침깊이 (probing depth) ≥5 mm는 Chan·Dong·Malentacca·Wongkornchaowalit 독립 코호트 4개 + Iowa Index에서 반복되는 가장 일관된 불량 예후 인자 → "PD ≥5 mm + 치근 연장"은 근관치료 전 고위험 동의 (informed consent) 대상.
+>   - **긴장 (tension)**: Wongkornchaowalit의 "onlay/composite = 실패 예측인자"는 Cluster 4의 보존적 간접수복 우위 (Wang 2025 RCT 인레이 > 크라운, Gavriil 2025 onlay > crown) 및 Malentacca 직접 레진 피개 94.1%와 충돌 — 단 후향·초록만·효과크기 미공개·적응증 교란 (confounding by indication) 가능성으로 Cluster 4 권고를 뒤집기엔 부족; **근관치료 균열치에서는 onlay default를 재고할 신호**로만 취급.
+> - 약점·gap: CTS는 primary RCT가 절대 빈약 ([미검증]) — umbrella·SR도 결국 동일 base에 의존하며, Kaur 2026 CCA 17% (중복 사용) 로 true heterogeneity 평가 한계, 5년+ 장기 cohort는 Chan 2025(15년)가 여전히 최장 — Ruan 2026 SR+MA가 장기 예후를 처음 통합했지만 10–15년 수치는 Chan 재인용이라 장기 근거 base는 사실상 코호트 1–2개.
 > - 환자 설명 framework: "crack은 시간이 지나면 split tooth로 진행 가능 → 교두 덮음이 진행 차단의 핵심 → 신경치료는 case-by-case → 정기 점검 필수" (Ferracane 3년 cohort + Chan 2025 15년 코호트 기반).
 
 ## Three-line Summary
 
-Synthesis of ~32 papers building a classification, diagnosis, and treatment-decision map for Cracked Tooth Syndrome: CTS is the incomplete-fracture entry within the 5-type longitudinal-fracture spectrum (craze line → fractured cusp → cracked tooth → split tooth → vertical root fracture), now anchored by the ESE consensus statement (Patel 2025) which recommends retiring the "CTS" label; diagnosis requires a multi-modal framework with now-quantified accuracies — transillumination sensitive but specificity only 53.6%, microscope/macrophotography specificity ~93%, QLF kappa 0.66–0.74, AI panoramic CNN AUC 0.82 for VRF screening.
+Synthesis of ~36 papers building a classification, diagnosis, and treatment-decision map for Cracked Tooth Syndrome: CTS is the incomplete-fracture entry within the 5-type longitudinal-fracture spectrum (craze line → fractured cusp → cracked tooth → split tooth → vertical root fracture), now anchored by the ESE consensus statement (Patel 2025) which recommends retiring the "CTS" label; diagnosis requires a multi-modal framework with now-quantified accuracies — transillumination sensitive but specificity only 53.6%, microscope/macrophotography specificity ~93%, QLF kappa 0.66–0.74, AI panoramic CNN AUC 0.82 for VRF screening.
 
 The central clinical tension is the endo decision: Kaur 2026 umbrella review + Ferracane 2023 PBRN cohort favor endo + full cuspal coverage for best prognosis; Korean JKDA (Kwak 2024) and Renner 2025 (55% asymptomatic in general practice) favor avoiding unnecessary endo — a split partly explained by patient population (academic/specialist vs primary care); both sides agree cuspal coverage is standard, and newer restoration evidence shifts the design toward conservative onlay/inlay over full crown (Wang 2025 RCT, Gavriil 2025).
 
-Clinical bottom line: apply a Kwak-default with trigger-escalation (spontaneous pain + periapical pathology + cuspal mobility → convert to endo + crown/onlay); cuspal coverage without endo is the default in vital bite-only-pain cases with shallow cracks; general-practice prevalence data (55% asymptomatic, 52% bite-test negative at presentation, 20% no dentin crack on extraction biopsy) supports restraint; CTS primary RCTs are nearly absent — all SR evidence rests on the same limited base.
+Clinical bottom line: apply a Kwak-default with trigger-escalation (spontaneous pain + periapical pathology + cuspal mobility → convert to endo + crown/onlay); cuspal coverage without endo is the default in vital bite-only-pain cases with shallow cracks; general-practice prevalence data (55% asymptomatic, 52% bite-test negative at presentation, 20% no dentin crack on extraction biopsy) supports restraint; CTS primary RCTs are nearly absent — all SR evidence rests on the same limited base. For endodontically treated cracked teeth, prognosis is time-dependent (pooled 4–5-yr survival 82.2%, very low certainty; 55% at 15 yr in a single cohort) and probing depth ≥5 mm with radicular extension is the converging high-risk profile (Ruan 2026, Wongkornchaowalit 2026, Chan 2025).
 
 ## 세줄요약
 
-~32편 종합: CTS는 종방향 파절 5-type(craze line → fractured cusp → cracked tooth → split tooth → VRF) 중 incomplete fracture 항목 — ESE Patel 2025 합의문이 표준 용어 확정 및 "CTS" 라벨 폐기 권고; 진단은 multi-modal framework 필수(정량 정확도: 투조 특이도 53.6%, 현미경 특이도 93%, QLF κ 0.66–0.74, AI AUC 0.82).
+~36편 종합: CTS는 종방향 파절 5-type(craze line → fractured cusp → cracked tooth → split tooth → VRF) 중 incomplete fracture 항목 — ESE Patel 2025 합의문이 표준 용어 확정 및 "CTS" 라벨 폐기 권고; 진단은 multi-modal framework 필수(정량 정확도: 투조 특이도 53.6%, 현미경 특이도 93%, QLF κ 0.66–0.74, AI AUC 0.82).
 
 핵심 tension: Kaur 2026 umbrella + Ferracane 2023 PBRN 코호트 → "endo + 교두피개 최고 예후" 적극; Kwak 2024 JKDA + Renner 2025(개원가 55% 무증상) → "불필요한 endo 회피" 보수적; 양측 모두 교두피개(crown/onlay)는 표준으로 동의 — 수복 디자인은 최근 full crown → 보존적 onlay/inlay로 이동(Wang 2025 RCT, Gavriil 2025).
 
-임상 결론: Kwak 보수적 default + 결정 trigger(자발통·치근단 병변·교두 동요) 시 endo 전환; 생활치수·bite-only 통증·얕은 균열은 교두피개 단독이 기본값; 개원가 실측(55% 무증상·52% bite test 음성·20% 발치 후 상아질 균열 없음)이 자제 근거; CTS 1차 RCT 거의 없음.
+임상 결론: Kwak 보수적 default + 결정 trigger(자발통·치근단 병변·교두 동요) 시 endo 전환; 생활치수·bite-only 통증·얕은 균열은 교두피개 단독이 기본값; 개원가 실측(55% 무증상·52% bite test 음성·20% 발치 후 상아질 균열 없음)이 자제 근거; CTS 1차 RCT 거의 없음. 근관치료 균열치 예후는 시간 의존적(4–5년 통합 82.2%, 확실성 very low; 단일 코호트 15년 55%)이며, PD ≥5 mm + 치근 연장이 수렴하는 고위험 프로필.
 
 ## Scope
 2026-05-27 이전 wiki에 없던 CTS 카테고리를 신설하면서 동시 ingest한 8편의 종합. 4편의 international cluster (Kaur 2026 umbrella + Ferracane 2023 PBRN cohort + Li 2021 종합 review + Raj 2025 mini review)와 4편의 JKDA 한국 임상 cluster (Kim & Shin 진단·Son QLF·Kwak endo 결정 + Kaur 2026 protocol)가 짝을 이룬다. CTS 분야는 primary RCT가 빈약하고 SR/cohort/review 기반 — 본 overview는 그 evidence base의 한국 임상의용 의사결정 지도.
@@ -202,11 +207,32 @@ Kwak 2024의 "불필요한 endo 회피"는 이미 치수염이 진행된 경우�
 | 치주탐침깊이(PPD) | 10년 생존 | 15년 생존 |
 |---|---|---|
 | <4 mm | 76% | 64% |
-| 4–5 mm | (중간) | — |
+| 4–5 mm | 발치 위험 **2.48× aHR** | — |
 | ≥6 mm | 발치 위험 **3.19× HR** | 극저 생존 |
 | **전체** | **66%** | **55%** |
 
 Iowa Index의 치주 기준(PPD ≥5 mm)이 장기 생존에도 일관된 예측력을 보임을 확인. 성공률(무증상 + 완전 방사선 치유)은 10년 64%에서 15년 37%로 급격 하락 — **장기 모니터링 필수**. 이 데이터는 Ferracane 3년 cohort(가장 긴 기존 데이터)를 15년 추적으로 확장하며, Cluster 3의 "정기 점검 필수" 메시지를 정량적으로 뒷받침한다. [확인 — abstract-level; 구체 Cox hazard model detail 미검증]
+
+### Long-term prognosis synthesis — time-anchored survival and modified Iowa staging (2026-11)
+
+Two 2026 J Endod papers (both abstract-only) extend the Chan 2025 anchor in opposite directions — one pools across cohorts, the other stages within one.
+
+| Paper | Type | Key numbers | What it adds | Caveat |
+|---|---|---|---|---|
+| [[cracked-tooth/ruan-2026-long-term-survival-endodontically-treated-cracked-teeth-sr-ma]] | sr+ma (15 studies, 9 quantitative; 7 cohorts pooled) | 4–5-yr pooled survival **82.2%** (95% CI 67.7–91.1%, I² 89.5%); 10-yr 54% and 66%; 15-yr 55%; PD aHR 2.48 (4–5 mm) / 3.19 (≥6 mm) | First time-anchored pooled survival for endodontically treated cracked teeth; frames prognosis as time-dependent | All studies serious risk of bias, very low certainty; **66% / 55% / aHR 2.48 / 3.19 are re-cited from [[cracked-tooth/chan-2025-survival-endodontically-treated-cracked-teeth]]**, not independent confirmation |
+| [[cracked-tooth/wongkornchaowalit-2026-modified-iowa-index-root-canal-treated-cracked-teeth]] | retrospective (n=263, 1–5 yr, mean 40.3 mo) | Success 82.9%, survival 89.7%; est. 5-yr survival 78.6%; Stages I–III (PD <5 mm) survival 86.5–100% vs **Stage IV-R (radicular crack + PD ≥5 mm) survival 63.0%, success 33.3%** | Adds a crack-extension axis to the Iowa Index; 7 independent failure predictors | Effect sizes of the 7 predictors not available (abstract-only); single cohort; ≤5-yr follow-up |
+
+**What is genuinely new vs re-cited.** [확인] Ruan 2026 lists 10-yr survival of 54% and 66% and 15-yr 55%; the 66%, 55% and the aHRs 2.48/3.19 are the same figures reported by Chan 2025 (n=204, Singapore), so they must not be counted as a second source. The independent contributions are the pooled 4–5-yr estimate (82.2%) and the 54% 10-yr figure from a second cohort that the wiki does not hold separately. Because the pooled interval spans 67.7–91.1% with I² 89.5%, a single "~80% at 5 years" figure for patient counselling overstates precision — the time-dependent decline (≈80% → ≈55–66% at 10 yr → 55% at 15 yr) is the more defensible message.
+
+**Five-year estimates are consistent in direction but spread.** [확인] Held 5-year figures for endodontically treated cracked teeth: Ruan pooled 82.2%, Wongkornchaowalit estimated 78.6%, [[cracked-tooth/dong-2026-nomogram-cracked-tooth-rct-5year-survival]] 89.9% (n=295, irreversible pulpitis). [미검증] Whether Dong or Wongkornchaowalit are among the 7 pooled cohorts in Ruan cannot be checked from the abstract.
+
+**Probing depth is the most replicated predictor.** [확인] PD ≥5 mm (or >5 mm, ≥6 mm) predicts loss in Chan 2025 (aHR 2.48/3.19), Dong 2026 (OR 2.99), Wongkornchaowalit 2026 (independent predictor; Stage IV-R), and periodontal involvement dominates in [[cracked-tooth/malentacca-2026-cuspal-coverage-direct-resin-composite-cracked]] (OR 10.52) — four independent cohorts plus the original Iowa Index criterion (Kakka 2022). Ruan 2026 itself states the PD signal is not new; its contribution is quantifying its persistence. Radicular extension, periapical disease, multiple cracks and older age recur in both Ruan and Wongkornchaowalit.
+
+**Modifiable factors.** [확인] Wongkornchaowalit 2026 names "no occlusal splint in patients with parafunction" as an independent failure predictor — the first held outcome-level data supporting the occlusal-management pillar that was previously consensus/narrative only ([[cracked-tooth/patel-2025-position-statement-longitudinal-cracks-fractures]] universal occlusal management; [[cracked-tooth/pryles-2025-preventive-endodontics-crack-development-tooth-loss]] parafunction pillar; night guard in [[cracked-tooth/soares-de-toubes-2025-biodentine-intraorifice-barrier-cracked-tooth]]).
+
+**Tension with Cluster 4 (restoration type).** [확인] Wongkornchaowalit lists "restoration with onlay or composite" as a failure predictor in root canal-treated cracked teeth. This qualifies — and in the post-endodontic setting partly conflicts with — [[cracked-tooth/wang-2025-crown-vs-porcelain-inlay-cracked-teeth-rct]] (porcelain inlay > full crown after RCT; abstract-only, Chinese) and the direct-composite cuspal coverage survival of 94.1% in [[cracked-tooth/malentacca-2026-cuspal-coverage-direct-resin-composite-cracked]]; it is consistent with [[cracked-tooth/zhang-2024-cracked-teeth-treatment-outcomes-sr-ma]] (CT-RCT without full crown 11.3× extraction risk) and with Ruan's "absence of definitive cuspal coverage" risk indicator. [미검증] Because Wongkornchaowalit is retrospective, abstract-only, reports no effect sizes, and restoration choice is likely confounded by indication (onlays/composites may have been chosen for different crack patterns), it does not overturn the Cluster 4 onlay/overlay default for vital teeth (Gavriil 2025); it is a signal to favour full-coverage crowns in **endodontically treated** cracked teeth until a direct comparison resolves it.
+
+**Synthesis [미검증]:** For the endo decision in Cluster 3, the modified Iowa Index gives a usable pre-treatment risk stratifier: PD <5 mm along the crack (Stages I–III) → favourable (≈87–100% survival at 1–5 yr); radicular extension plus PD ≥5 mm (Stage IV-R) → ≈63% survival and 33% success, which belongs in informed consent as a high-risk profile alongside extraction/implant alternatives. Neither paper changes the thesis; both shift the long-term message from "endo + crown works" to "endo + crown works time-dependently, conditional on periodontal status".
 
 ### 임상 코호트 — 균열 위치와 치수 진행 창 (Zhang 2026)
 
@@ -238,6 +264,8 @@ Iowa Index의 치주 기준(PPD ≥5 mm)이 장기 생존에도 일관된 예측
 3. 치주탐침 깊이 ≥5 mm
 
 셋이 복합될수록 예후 급격 악화; 이 조합이면 Kaur/Ferracane 적극 입장(endo + crown) 즉시 전환. 단, Iowa Index는 구식 진단 용어 기반이라 임상 활용 시 현행 AAE/ESE 용어로 재매핑 필요.
+
+**Update 2026-11 — modified Iowa Index.** [확인] [[cracked-tooth/wongkornchaowalit-2026-modified-iowa-index-root-canal-treated-cracked-teeth]] (Krell is a co-author) subdivides each Iowa stage by crack extension and validates it in 263 root canal-treated teeth: Stage IV-R (radicular extension + PD ≥5 mm) survival 63.0% vs 86.5–100% for Stages I–III. Of the original three Iowa criteria, PD ≥5 mm and periapical disease reappear as independent predictors; [미검증] the abstract does not list distal marginal-ridge involvement among the seven predictors, so whether that criterion was tested or dropped is unknown (cf. Zhang 2026, distal marginal ridge failure rate 16.81%).
 
 ### 결정 트리 (양 입장 통합)
 
@@ -325,6 +353,7 @@ Cluster 3의 합의("cuspal coverage는 standard")는 *무엇으로* 덮을지�
 
 ### 외래 3회차+ (재평가)
 - 통증 개선 → cuspal coverage (onlay or crown) 진행, endo 보류
+- Endo 결정 시 modified Iowa staging: 균열선 PD ≥5 mm + 치근 방향 연장이면 Stage IV-R 고위험(생존 63%) — 발치·임플란트 대안과 함께 동의 (Wongkornchaowalit 2026); 근관치료치는 full crown 쪽으로 기울이고, 이갈이 등 이상기능 환자는 교합안정장치 처방
 - 통증 지속·악화 → endo + crown
 - 새로운 자발통·periapical pathology → endo + crown
 
@@ -345,7 +374,10 @@ Cluster 3의 합의("cuspal coverage는 standard")는 *무엇으로* 덮을지�
 
 ### 약점·gap
 - [부분보강 2026-06/09] CTS primary RCT 빈약 문제는 wang 2025 RCT(인레이 vs 크라운)와 zhang/gavriil/fiyaz-ghani SR+MA, 및 yang 2024 전향 연구로 *부분* 해소 — 단 신규 SR-MA 다수가 abstract-only·very low GRADE certainty라 근거 질 한계는 지속
-- [부분보강 2026-09] Long-term cohort — Chan 2025 (15년)가 현재 최장; 그러나 후향적·단일기관·근관치료 균열치에 한정
+- [부분보강 2026-09/11] Long-term cohort — Chan 2025 (15년)가 현재 최장; 그러나 후향적·단일기관·근관치료 균열치에 한정. Ruan 2026 SR+MA가 4–5년 생존을 처음 통합(82.2%)했지만 I² 89.5%·very low certainty이고, 10–15년 수치는 Chan 재인용이라 독립 장기 코호트는 여전히 1–2개뿐 (Ruan 외 54% 10년 코호트는 wiki 미보유)
+- [미검증] Modified Iowa Index (Wongkornchaowalit 2026) — 단일 코호트·초록만·7개 예측인자 효과크기 미공개·≤5년 추적; 외부 검증(external validation) 없음
+- [미검증] 근관치료 균열치의 수복 형태 — Wongkornchaowalit의 onlay/composite 실패 신호 vs Wang 2025 RCT(인레이 > 크라운) 충돌; 직접 비교 RCT 없음
+- [부분보강 2026-11] 교합안정장치(occlusal splint)의 결과 수준 근거 — 이전엔 합의문·서술고찰뿐이었으나 Wongkornchaowalit가 "이상기능 환자 splint 미사용"을 독립 실패 예측인자로 보고 (관찰 연구, 효과크기 미공개)
 - [미검증] Kaur 2026 CCA 17%는 primary study 중복 사용 — true heterogeneity 평가 한계
 - [미검증] QLF의 균열치 specific RCT 부족 — Son 2024 review는 가능성 제시 단계
 - [미검증] OFP 감별 (Shimizu 2026) — abstract-only, 구체 판별 기준·임상 알고리즘 미공개
@@ -357,10 +389,17 @@ Cluster 3의 합의("cuspal coverage는 standard")는 *무엇으로* 덮을지�
 - Conservative restoration vs cuspal coverage RCT (non-symptomatic case)
 - OFP 감별 구체 알고리즘 RCT (CTS vs TMD vs neuropathic)
 - Yang Type I/II 분류 독립 검증 코호트
+- Modified Iowa Index 외부 검증 코호트 (5년+ 추적, 효과크기 공개)
+- 근관치료 균열치 onlay vs full crown 직접 비교 trial
 
 ---
 
-## Related Papers (본 overview에 통합된 22편)
+## Related Papers (본 overview에 통합된 ~36편)
+
+### 2026-11 신규 추가 — 장기 예후 클러스터 (2편, 둘 다 abstract-only)
+
+- [[cracked-tooth/ruan-2026-long-term-survival-endodontically-treated-cracked-teeth-sr-ma]] — SR+MA (15편, 정량 9편): 근관치료 균열치 4–5년 통합 생존 82.2% (I² 89.5%, very low certainty); 10/15년·aHR 수치는 Chan 2025 재인용 (Cluster 3 장기 예후 synthesis)
+- [[cracked-tooth/wongkornchaowalit-2026-modified-iowa-index-root-canal-treated-cracked-teeth]] — 후향 (n=263): modified Iowa Index, Stage IV-R 생존 63.0%·성공 33.3%; 7 실패 예측인자 (PD ≥5 mm·치근 연장 ≥3 mm·이상기능 시 splint 미사용·onlay/composite 등) (Cluster 3 Iowa staging)
 
 ### 신규 추가 — 중증단 접착 파절편 재접착 (Cluster 5, 2026-06, 2편)
 
