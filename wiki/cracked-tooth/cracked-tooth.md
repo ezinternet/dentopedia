@@ -2,7 +2,7 @@
 title: "균열치 증후군 — cracked-tooth"
 authors: navigation
 year: 2026
-date: 2026-10-14
+date: 2026-11-24
 doi: N/A
 source: navigation
 category: cracked-tooth
@@ -15,20 +15,20 @@ tags: [navigation, category-index, cracked-tooth]
 > [!summary] 한국어 핵심요약
 > - **분야**: 균열치 증후군
 > - **범위**: Cracked tooth syndrome — classification (Ellis/Baird), diagnosis, prognosis, restoration design, FEA stress analysis
-> - **수록 논문**: 51편
+> - **수록 논문**: 53편
 
 ## Three-line Summary
 
 **Scope**: Cracked tooth syndrome — classification (Ellis/Baird), diagnosis, prognosis, restoration design, FEA stress analysis
-**Indexed papers**: 51 papers in `wiki/cracked-tooth/`.
+**Indexed papers**: 53 papers in `wiki/cracked-tooth/`.
 
 ## 세줄요약
 
 **분야**: 균열치 증후군
-**수록 논문**: 51편
+**수록 논문**: 53편
 **하위 카테고리**: 없음
 
-## Papers in this Category (51)
+## Papers in this Category (53)
 
 | Paper |
 |---|
@@ -70,6 +70,7 @@ tags: [navigation, category-index, cracked-tooth]
 | [[pryles-2025-preventive-endodontics-crack-development-tooth-loss|Preventive Endodontics: Understanding Crack Development and Preventing Tooth Loss]] |
 | [[raj-2025-cracked-tooth-syndrome-diagnostic-dilemma|Cracked tooth syndrome: a diagnostic dilemma - a mini review]] |
 | [[renner-2025-cracks-posterior-teeth-symptoms-cross-sectional|Characteristics of cracks in posterior teeth and factors associated with symptoms: a cross-sectional practice-based observational study]] |
+| [[ruan-2026-long-term-survival-endodontically-treated-cracked-teeth-sr-ma|Long-term Survival of Endodontically Treated Cracked Teeth: A Systematic Review and Meta-analysis]] |
 | [[salihu-2024-review-of-approaches-to-the|Review of Approaches to the Management of Vertical Dental Root Fractures and Tooth Preservation]] |
 | [[scardini-2025-diagnosis-approaches-and-clinical-management|Diagnosis Approaches and Clinical Management of Suspected Vertical Root Fractures: A Questionnaire-Based Study]] |
 | [[shimizu-2026-enamel-crack-orofacial-pain-differential-diagnosis|Enamel Cracks and Orofacial Pain: Differential Diagnosis and 3-Year Follow-Up]] |
@@ -78,6 +79,7 @@ tags: [navigation, category-index, cracked-tooth]
 | [[son-2024-qlf-validity-diagnosing-cracked-teeth|Investigation of validity and inter examiner agreement of quantitative light induced fluorescent images in diagnosing cracked teeth]] |
 | [[sun-2024-a-novel-surgical-treatment-approach|A novel surgical treatment approach for the vertical root fracture of posterior teeth: a case report with 24-month review]] |
 | [[wang-2025-crown-vs-porcelain-inlay-cracked-teeth-rct|Efficacy of total crown and porcelain inlay restoration and its effect on masticatory ability and gingival condition]] |
+| [[wongkornchaowalit-2026-modified-iowa-index-root-canal-treated-cracked-teeth|Treatment Outcomes and Prognostic Analysis of Root Canal-treated Posterior Cracked Teeth: The Modified Iowa Index]] |
 | [[wu-2026-prediction-pulpal-sequelae-machine-learning-cracked|Prediction of Pulpal Sequelae in Cracked Teeth with Reversible Pulpitis using Machine Learning Models]] |
 | [[yang-2024-crack-line-location-prognosis-occlusal-veneer|The Effect of Crack Line Location on the Prognosis of Cracked Teeth After Occlusal Veneer Preparation]] |
 | [[yang-2025-role-of-periodontal-endoscopy-in|Role of periodontal endoscopy in clinical decision-making for teeth with suspected vertical root fractures]] |
