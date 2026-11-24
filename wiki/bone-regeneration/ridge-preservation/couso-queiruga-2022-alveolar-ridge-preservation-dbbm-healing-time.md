@@ -3,7 +3,7 @@ title: "DBBM-C Ridge Preservation: Influence of Healing Time RCT"
 authors: "Couso-Queiruga E, Weber HA, Garaicoa-Pazmino C, Barwacz C, Kalleme M, Galindo-Moreno P, Avila-Ortiz G"
 year: 2022
 doi: 10.1111/jcpe.13744
-source: Journal of Clinical Periodontology
+source: couso-queiruga-2022-alveolar-ridge-preservation-dbbm-healing-time.md
 category: bone-regeneration
 evidence_level: rct
 date: 2022-11-18
