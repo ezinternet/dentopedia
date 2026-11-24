@@ -3,7 +3,7 @@ title: "후방부 부분피개수복물 재료별 생존율·합병증 SR+MA (Pr
 authors: ["Prott LS", "Kern P", "Politano G", "Chaar MS", "Kern M", "Guess PC", "others"]
 year: 2024
 doi: "10.1111/jerd.13353"
-source: "prott-2024-partial-coverage-restorations-posterior-sr-ma"
+source: prott-2024-partial-coverage-restorations-posterior-sr-ma.md
 category: inlay
 evidence_level: sr+ma
 source_collection: pubmed-text
