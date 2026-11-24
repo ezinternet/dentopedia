@@ -2,7 +2,7 @@
 title: "상악동거상술·경치조골 — transcrestal"
 authors: navigation
 year: 2026
-date: 2026-09-18
+date: 2026-11-24
 doi: N/A
 source: navigation
 category: sinus-lift/transcrestal
@@ -15,28 +15,32 @@ tags: [navigation, category-index, transcrestal]
 > [!summary] 한국어 핵심요약
 > - **분야**: 상악동거상술·경치조골
 > - **범위**: Transcrestal (osteotome/balloon/osseodensification) approaches
-> - **수록 논문**: 59편
+> - **수록 논문**: 77편
 
 ## Three-line Summary
 
 **Scope**: Transcrestal (osteotome/balloon/osseodensification) approaches
-**Indexed papers**: 59 papers in `wiki/sinus-lift/transcrestal/`.
+**Indexed papers**: 77 papers in `wiki/sinus-lift/transcrestal/`.
 
 ## 세줄요약
 
 **분야**: 상악동거상술·경치조골
-**수록 논문**: 59편
+**수록 논문**: 77편
 **하위 카테고리**: 없음
 
-## Papers in this Category (59)
+## Papers in this Category (77)
 
 | Paper |
 |---|
+| [[ahn-2012-implant-stability-preparation-methods-bicortical-monocortical|Differences in implant stability associated with various methods of preparation of the implant bed: an in vitro study]] |
 | [[akcay-2016-bppv-sinus-floor-elevation-antecedent-vertigo|Benign Paroxysmal Positional Vertigo Following Sinus Floor Elevation in Patient with Antecedents of Vertigo]] |
 | [[al-aroomi-2024-cgf-maxillary-sinus-augmentation-sr|Effectiveness of concentrated growth factor (CGF) in maxillary sinus augmentation: a systematic review]] |
 | [[alajami-2024-antral-balloon-vs-densah-crestal-sinus|Antral membrane balloon technique versus Densah bur in crestal sinus lift with simultaneous implant placement: a randomized clinical trial]] |
 | [[albadani-2024-graftless-sinus-lifting-simultaneous|A graftless maxillary sinus lifting approach with simultaneous dental implant placement: a prospective clinical study]] |
 | [[albash-2023-implant-protrusion-initial-bone-tsfe|Effect of implant protrusion length and initial bone height on initial bone gain after transcrestal sinus floor elevation: a retrospective cohort study]] |
+| [[better-2026-umbrella-review-meta-analyses-transcrestal-sinus-floor-elevation|An Umbrella Review of Meta-Analyses on Transcrestal Sinus Floor Elevation: Methodological Quality, Primary-Study Overlap, and Interpretive Boundaries]] |
+| [[bhave-2023-unicortical-bicortical-anchorage-posterior-maxilla|Comparative evaluation of dental implants in posterior maxilla placed using unicortical and bicortical anchorage—A split-mouth prospective study]] |
+| [[canullo-2023-ossix-bone-transcrestal-sinus-augmentation|Sinus floor augmentation using crestal approach in conjunction with hydroxyapatite/cross-linked collagen sponge: A pilot study]] |
 | [[ceruso-2025-crestal-hydraulic-sinus-lift-cas-kit-retrospective|Crestal Hydraulic Sinus Lift with Simultaneous Implant Insertion: A Retrospective Case Series]] |
 | [[changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift|[RETRACTED] Evaluation of the Efficacy of the HaeNaem Zero Bone Loss Kit in Indirect Sinus Lift Using Osseodensification]] |
 | [[cho-2024-crestal-sinus-augmentation-limited-bone|Crestal approach for maxillary sinus augmentation in individuals with limited alveolar bone height: An observational study]] |
@@ -55,30 +59,40 @@ tags: [navigation, category-index, transcrestal]
 | [[fettouh-2025-graftless-lateral-transcrestal-sinus-rct|Graftless Sinus Floor Elevation Using the Lateral or Transcrestal Approach: RCT, 1-Year]] |
 | [[gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review|Osseodensification technique in crestal maxillary sinus elevation — A narrative review]] |
 | [[guo-2020-non-grafted-platelet-concentrations-grafted-transcrestal-sinus|Therapeutic outcomes of non-grafted and platelet concentrations-grafted transcrestal maxillary sinus elevation (TSFE): SR+MA]] |
+| [[han-2016-primary-stability-bicortical-posterior-maxilla|Primary implant stability in a bone model simulating clinical situations for the posterior maxilla: an in vitro study]] |
+| [[hsu-2016-bicortical-fixation-indirect-sinus-unicortical|Comparison of Initial Implant Stability of Implants Placed Using Bicortical Fixation, Indirect Sinus Elevation, and Unicortical Fixation]] |
 | [[huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma|Incidence of sinus membrane perforation in transcrestal graftless maxillary sinus augmentation: a meta-analysis]] |
 | [[huwais-2018-transcrestal-sinus-augmentation-compaction-grafting-multicenter|A Multicenter Retrospective Clinical Study with Up-to-5-Year Follow-up Utilizing a Method that Enhances Bone Density and Allows for Transcrestal Sinus Augmentation Through Compaction Grafting]] |
 | [[imai-2022-primary-stability-implant-macrodesigns|Primary stability of different implant macrodesigns in a sinus floor elevation simulated model: an ex vivo study]] |
 | [[jia-2025-accuracy-robotic-cais-tsfe-posterior-maxilla|Accuracy of Robotic Computer-Assisted Implant Surgery Combined With Transcrestal Sinus Floor Elevation for Single-Tooth Implants: A Retrospective Case Series]] |
 | [[kadkhodazadeh-2024-transcrestal-maxillary-sinus-elevation-sr-ma|Clinical outcomes of implants placed with transcrestal maxillary sinus elevation: SR+MA]] |
+| [[kafadar-gurbuz-2026-od-vs-osteotome-tsfe-isq-rct|Osseodensification vs Osteotome for Transcrestal Sinus Elevation: ISQ and PROMs RCT]] |
 | [[kang-2022-modified-osteotome-sinus-floor-elevation|Modified Osteotome Sinus Floor Elevation Technique for Multiple Edentulous Spaces: A Non-Randomized Controlled Trial]] |
 | [[kostakis-2025-graftless-sinus-lift-simultaneous-8year|Graftless sinus lift simultaneously with dental implants placement: a prospective cohort study]] |
 | [[lai-2008-rfa-iti-osteotome-sinus-elevation-without-graft|Resonance frequency analysis of stability on ITI implants with osteotome sinus floor elevation technique without grafting: a 5-month prospective study]] |
+| [[li-2026-impact-of-schneiderian-membrane-pathological|Impact of Schneiderian Membrane Pathological Thickening on Transcrestal Sinus Floor Elevation: A Prospective Study]] |
 | [[lin-2025-schneiderian-membrane-biomechanical-transcrestal-fea|Comparison of biomechanical characteristics of the Schneiderian membrane with different transcrestal sinus floor elevation techniques using three-dimensional finite element analysis]] |
 | [[liu-2018-endoscopically-controlled-flapless-transcrestal-sinus|Endoscopically controlled flapless transcrestal sinus floor elevation with platelet-rich fibrin followed by simultaneous dental implant placement: A case report]] |
+| [[malo-2014-bicortical-anchorage-posterior-maxilla-7year|Posterior maxillary implants inserted with bicortical anchorage and placed in immediate function for partial or complete edentulous rehabilitations. A retrospective clinical study with a median follow-up of 7 years.]] |
 | [[manekar-2020-graftless-crestal-sinus-lift-simultaneous|Graftless crestal hydraulic sinus lift with simultaneous implant insertion]] |
 | [[mazor-2024-maxillary-sinus-membrane-perforation-osseodensification|Maxillary sinus membrane perforation rate utilizing osseodensification-mediated transcrestal sinus floor elevation: A multicenter clinical study]] |
 | [[mccrea-2012-trans-socket-sinus-floor-elevation|Trans-Socket Elevation/Fracture/Perforation of the Sinus Floor Through the 'Infected' Maxillary Tooth Socket to Facilitate Bicortical Fixation of Dental Implants]] |
+| [[moriwaki-2016-implant-length-diameter-bicortical-anchorage-sinus-augmentation-fea|Influence of Implant Length and Diameter, Bicortical Anchorage, and Sinus Augmentation on Bone Stress Distribution: Three-Dimensional Finite Element Analysis]] |
 | [[mudalal-2019-endoscopic-sinus-lifting-immediate-implant|Minimally invasive endoscopic maxillary sinus lifting and immediate implant placement: A case report]] |
+| [[ng-2018-bicortical-engagement-atrophic-posterior-maxillae|Clinical Outcomes of Bicortical Engagement Implants in Atrophic Posterior Maxillae: A Retrospective Study with 1 to 5 Years Follow-up]] |
 | [[ozbay-2024-enamel-matrix-derivative-transcrestal-sinus-rct|Enamel Matrix Derivative in Transcrestal Sinus Floor Elevation: Randomized CBCT Study]] |
 | [[ragher-2026-infrasinus-residual-ridge-height-cbct-indirect-sinus|Comparative evaluation of infrasinus residual ridge height in cone-beam computed tomography and on-site measurements during indirect sinus lift osteotomy: An observational study]] |
 | [[ragucci-2019-implant-exposure-sinus-cavity-sr|Influence of exposing dental implants into the sinus cavity on survival and complications rate: a systematic review]] |
+| [[rues-2020-bone-quality-primary-stability-bicortical-sinus|Effect of bone quality and quantity on the primary stability of dental implants in a simulated bicortical placement]] |
 | [[salgar-2021-osseodensified-crestal-sinus-window-alternative-lateral|Osseodensified Crestal Sinus Window Augmentation: An Alternative Procedure to the Lateral Window Technique]] |
 | [[samir-2024-osseodensification-piezoelectric-internal-sinus-elevation|Osseodensification versus piezoelectric internal sinus elevation (PISE) technique in delayed implant placement (a randomized controlled clinical trial)]] |
 | [[sansupakorn-2024-osfe-bcp-graft-versus-no-graft-rct|Implant stability and clinical outcome between implant placement using internal sinus floor elevation with alloplastic bone material grafting and without grafting: A 1-year randomized clinical trial]] |
 | [[scarano-2025-fluid-dynamic-crestal-sinus-hyaluronic-acid|Fluid-Dynamic Crestal Sinus Floor Elevation in Atrophic Posterior Maxilla Implant Rehabilitation with Hyaluronic Acid: A Prospective Study]] |
+| [[seker-2014-bicortical-short-graft-long-tilted-fpd-fea-posterior-maxilla|Biomechanical effects of different fixed partial denture designs planned on bicortically anchored short, graft-supported long, or 45-degree-inclined long implants in the posterior maxilla: a three-dimensional finite element analysis]] |
 | [[shah-2026-implant-stability-elevation-outcomes-crestal|Implant Stability and Elevation Outcomes of Crestal Sinus Floor Elevation with Densah Burs in Sites with Limited Residual Bone Height: A Prospective Clinical Study]] |
 | [[shahood-2024-cgf-bio-oss-osteotome-sinus-elevation|CGF with Bio-Oss collagen as grafting materials for simultaneous implant placement after osteotome sinus floor elevation: a prospective study]] |
 | [[shalash-2023-crestal-sinus-elevation-densah-oblique|Evaluation of crestal sinus floor elevation in cases exhibiting an oblique sinus floor with a residual bone height of 4.0–7.0 mm using Densah burs]] |
+| [[shi-2016-survival-of-implants-using-the|Survival of Implants Using the Osteotome Technique With or Without Grafting in the Posterior Maxilla: A Systematic Review]] |
 | [[sirinirund-2025-minimally-invasive-sinus-augmentation-review|Minimally Invasive Sinus Augmentation: A Systematic Review]] |
 | [[song-2020-tenting-effect-implant-sinus-graftless|Tenting effect of dental implant on maxillary sinus lift without grafting]] |
 | [[stacchi-2022-transcrestal-sinus-complications-low-rbh|Intraoperative complications and early implant failure after transcrestal sinus floor elevation with residual bone height ≤5 mm: A retrospective multicenter study]] |
@@ -87,7 +101,11 @@ tags: [navigation, category-index, transcrestal]
 | [[suk-arj-2019-osfe-without-grafting-bone-cbct|Evaluation of bone formation following the osteotome sinus floor elevation technique without grafting using CBCT: a preliminary study]] |
 | [[sulyhan-2024-transcrestal-osseodensification-graft-radiographic-pilot|Radiographic Study of Transcrestal Sinus Floor Elevation Using Osseodensification Technique with Graft Material: A Pilot Study]] |
 | [[volpe-2022-osteotome-blood-clot-collagen-sponge-atrophied-maxilla|Osteotome-Induced Blood Clot and Subsequent Bone Formation with the Use of Collagen Sponge for Integration of Single Dental Implants into the Atrophied Posterior Maxilla: A Retrospective Follow-Up of 36 Implants after 5 to 13 years]] |
+| [[wolff-2022-two-year-followup-bicortical-unicortical-ise-posterior-maxilla|Two-Year Follow-up Comparison of Three Surgical Techniques for Implant Placement in Posterior Maxilla with Limited Alveolar Bone Height]] |
 | [[wu-2023-dynamic-navigation-transcrestal-sinus-floor|Dynamic navigation accuracy for implant surgery with transcrestal sinus floor elevation — a pilot study]] |
+| [[yan-2015-implant-apex-sinus-floor-resonance-frequency-fea|Association between implant apex and sinus floor in posterior maxilla dental implantation: A three-dimensional finite element analysis]] |
 | [[yousry-2025-ozone-gel-osseodensification-transcrestal-sinus-rct|Does ozone gel enhance the bone width and buccal plate thickness surrounding the implant following osseodensification? A randomized controlled clinical trial]] |
 | [[yu-2021-implant-protrusion-length-nongrafting-osfe|Influence of implant protrusion length on non-grafting osteotome sinus floor elevation with simultaneous implant: a 3- to 9-year retrospective study]] |
+| [[zhang-2024-risk-factors-for-implant-failure|Risk Factors for Implant Failure Following Transcrestal Sinus-Floor Elevation: A Case Report and Literature Review]] |
 | [[zhao-2018-transalveolar-osteotome-sinus-floor-rct-protocol|Clinical evaluation of modified transalveolar sinus floor elevation and osteotome sinus floor elevation in posterior maxillae: study protocol for a randomized controlled trial]] |
+| [[zheng-2025-ultrashort-implants-posterior-maxilla-bicortical-osfe-fea|Application of Ultrashort Implants in Posterior Maxilla With Insufficient Bone Height: A Finite Element Analysis]] |
