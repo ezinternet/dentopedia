@@ -23,18 +23,20 @@ relations:
 ---
 
 ## Three-line Summary
-SR and network meta-analysis (PROSPERO CRD420251170292) of 12 RCTs comparing bulk-fill subtypes (ormocer, overlay, flowable, sculptable) versus incremental layering for Class II posterior composite restorations at 6, 12, and 24 months.
 
-No statistically significant differences were found between any bulk-fill subtype and incremental layering for marginal adaptation, fractures, or retention at any timepoint; P-score ranking showed ormocer-based and overlay bulk-fill composites highest at 12–24 months (non-significantly).
+PROSPERO-registered frequentist random-effects network meta-analysis of 74 RCTs in permanent-tooth NCCLs (marginal adaptation network: 57 studies, 28 strategies, 6798 patients; retention-loss network: 61 studies, 33 strategies, 7338 patients), with strategies defined as etching approach x adhesive category x restorative material and RMGI as reference.
 
-Bulk-fill composites — regardless of viscosity or curing mode — are clinically equivalent to incremental layering for Class II restorations up to 24 months, supporting their routine use as a time-saving alternative.
+Versus RMGI, selective-etch + universal adhesive + nanocomposite reduced marginal adaptation failure, and etch-and-rinse or selective-etch + 1-/2-step universal adhesive + nanocomposite reduced retention loss; some self-etch or non-universal combinations (e.g. self-etch + compomer, non-universal self-etch or etch-and-rinse with certain composite codes (CR_CH, CR_MF)) had significantly higher failure; no incoherence (p = 0.830 and 0.494), CINeMA confidence mostly high.
+
+Selective enamel etching or etch-and-rinse with a universal adhesive and nanocomposite showed the most consistent advantages, but most contrasts overlapped 1, the RMGI anchor rests on few trials, restoration-level analysis ignored clustering, and the comparisons are RMGI-anchored rather than direct E&R-vs-SE contrasts.
 
 ## 세줄요약
-Class II 구치부 복합레진 수복에서 bulk-fill(4가지 하위유형) 대 적층충전을 비교한 RCT 12편의 SR+네트워크 메타분석 (PROSPERO CRD420251170292).
 
-6·12·24개월 시점에서 변연 적합성·파절·유지력 모두 bulk-fill과 적층충전 간 유의한 차이 없음; P-score 순위에서 ormocer계·overlay bulk-fill이 12–24개월에 비유의적으로 높음.
+PROSPERO 등록 빈도론적 랜덤효과 네트워크 메타분석(Network Meta-Analysis, NMA): 영구치 비우식성 치경부 병소(Non-Carious Cervical Lesion, NCCL) RCT 74편 — 변연적합도 네트워크 57편·28개 전략·6798명, 유지 소실 네트워크 61편·33개 전략·7338명; 전략 = 산부식 방식 x 접착제 범주 x 수복재, 기준(reference)은 레진강화형 글라스아이오노머(Resin-Modified Glass Ionomer, RMGI).
 
-점도나 중합 방식과 무관하게 bulk-fill이 적층충전과 임상적으로 동등해 24개월까지 시간 절약형 대안으로 사용 가능함.
+RMGI 대비 선택적 산부식(Selective-Etch) + 유니버설 접착제 + 나노 복합레진은 변연적합도 실패 위험을 줄였고, 산부식-세척(Etch-and-Rinse, E&R) 또는 선택적 산부식 + 1·2단계 유니버설 접착제 + 나노 복합레진은 유지 소실 위험을 줄였다; 일부 자가산부식(Self-Etch, SE)·비유니버설 조합(예: SE + 컴포머)은 유의하게 실패 위험이 높았다; 비일관성 없음(p = 0.830, 0.494), CINeMA 확신도 대체로 높음.
+
+선택적 법랑질 산부식 또는 E&R + 유니버설 접착제 + 나노 복합레진이 가장 일관된 우위를 보였으나, 대부분의 대비는 신뢰구간이 1을 포함하고, RMGI 기준 근거가 적으며, 수복물 단위 분석으로 클러스터링 미보정이고, 직접적인 E&R 대 SE 대비가 아니라 RMGI 기준 대비라는 한계가 있다.
 
 ## Summary
 Network meta-analysis of 74 RCTs in permanent-tooth NCCLs. Each arm was coded as etching approach x adhesive category x restorative material (e.g. SelE|2U|CR_NANO), with resin-modified glass ionomer (RMGI) as the reference node. Only marginal adaptation (57 studies, 28 strategies, 6798 patients, 1772 events) and retention loss (61 studies, 33 strategies, 7338 patients, 584 events) formed connected networks. Versus RMGI, selective-etch + universal adhesive + nanocomposite had significantly lower marginal-adaptation failure, and etch-and-rinse or selective-etch + 1U universal adhesive + nanocomposite had significantly lower retention loss; SE|1U|compomer (marginal adaptation) and SE|2NU|CR_CH, EAR|2NU|CR_CH, SE|1NU|CR_MF (retention) were significantly worse. Numeric RRs sit only in forest plots and supplement league tables, not the text.
