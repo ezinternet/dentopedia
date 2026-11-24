@@ -3,7 +3,7 @@ title: "Evaluation of the Effect of Chairside Adjustment Extent on the Biaxial F
 authors: "Muacevic Alexander, Adler John R, Elmamooz Nafise, Doosty Zahra"
 year: 2025
 doi: "10.7759/cureus.94829"
-source: "Cureus, 2025"
+source: elmamooz-2025-evaluation-of-the-effect-of.md
 category: dental-materials/zirconia
 evidence_level: in-vitro
 date: 2025-01-01
