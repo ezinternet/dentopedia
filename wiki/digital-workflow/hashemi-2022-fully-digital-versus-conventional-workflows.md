@@ -3,7 +3,7 @@ title: "Fully Digital versus Conventional Workflows for Fabricating Posterior Th
 authors: "Hashemi Ali Mahmoud, Hashemi Hamid Mahmoud, Siadat Hakimeh, Shamshiri Ahmadreza, Afrashtehfar Kelvin Ian, Alikhasi Marzieh"
 year: 2022
 doi: 10.3390/ijerph191811456
-source: "International Journal of Environmental Research and Public Health"
+source: hashemi-2022-fully-digital-versus-conventional-workflows.md
 category: digital-workflow
 evidence_level: prospective
 date: 2022-09-14
