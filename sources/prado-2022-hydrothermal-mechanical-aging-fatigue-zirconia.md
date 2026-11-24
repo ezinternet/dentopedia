@@ -38,12 +38,12 @@ INCORIS TZI가 복합 에이징 최고 성능: 810±76 MPa, 147,000 사이클 �
 | Year | 2022 (pub. 2022-05-06) |
 | Study type | In-vitro comparative (Kaplan-Meier + Weibull) |
 | n | 153 discs total (3 zirconias × 3 protocols) |
-| Materials | VITA YZ (1st gen), INCORIS TZI (2nd gen), KATANA UTML (3rd gen) |
+| Materials | VITA YZ T (1st gen), INCORIS TZI (2nd gen), KATANA UTML (3rd gen) |
 | PMID | 35527035 |
 
 ## 2. Key Contributions
 
-- First study to use alternating hydrothermal-mechanical fatigue protocol (AFA) to simulate cyclical intraoral aging
+- Introduces a novel alternating hydrothermal-mechanical fatigue protocol (AFA) to simulate cyclical intraoral aging
 - Demonstrates paradoxical strength INCREASE with alternating protocol vs continuous aging for 1st-gen zirconia
 - Confirms 3rd-generation (high-translucency/cubic-dominant) zirconia resistance to both chemical and mechanical combined aging
 - Provides Kaplan-Meier survival analysis for clinical fatigue data interpretation
@@ -60,8 +60,8 @@ INCORIS TZI가 복합 에이징 최고 성능: 810±76 MPa, 147,000 사이클 �
 
 | Material | Protocol | Fatigue Strength (MPa) | Cycles |
 |---|---|---|---|
-| VITA YZ (1st gen) | AF (continuous) | 516 ± 38 | — |
-| VITA YZ (1st gen) | AFA (alternating) | 730 ± 58 | — |
+| VITA YZ T (1st gen) | AF (continuous) | 516 ± 38 | — |
+| VITA YZ T (1st gen) | AFA (alternating) | 730 ± 58 | — |
 | INCORIS TZI (2nd gen) | AF | 810 ± 76 | 147,000 |
 | KATANA UTML (3rd gen) | AF/AFA | No difference | No t→m |
 
