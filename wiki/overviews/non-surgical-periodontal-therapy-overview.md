@@ -40,6 +40,10 @@ source_papers:
   - periodontics/non-surgical-instrumentation/zhao-2021-the-effect-of-drug-dose
   - periodontics/non-surgical-instrumentation/kondreddy-2025-the-effect-of-adjunctive-antimicrobial
   - periodontics/non-surgical-instrumentation/sesha-2026-systemic-antibiotics-as-adjuncts-in
+  - periodontics/non-surgical-instrumentation/soysa-2025-the-long-term-efficacy-of
+  - periodontics/non-surgical-instrumentation/arnett-2023-effect-of-scaling-and-root
+  - periodontics/non-surgical-instrumentation/zainuddin-2024-effectiveness-of-conventional-periodontal-treatment
+  - periodontics/non-surgical-instrumentation/estrin-2026-platelet-rich-fibrin-with-minocycline
 evidence_level: synthesis
 source: synthesis
 ---
@@ -57,10 +61,11 @@ source: synthesis
 > - **형태학적 영향**: 기구가 법랑질·상아질에 미치는 영향은 제한적 (Dvorska 2026 SR, Lodigkeit 2026); 인체공학적 설계가 근육 피로 감소 (Lin 2023, Wink 2024). [확인]
 > - **CHX 대안·착색 완화**: 칫솔질 병행 상황에서 CPC는 CHX와 동등(Windhorst 2025 SR+MA, 14 RCT), 착색 유의 적음; CHX+ADS는 효능 비손상으로 착색 유의 감소(Van Swaaij 2019 SR+MA) — "착색 없으면 효과 없다" 통념 반박; 착색 우려 환자엔 CPC(칫솔질) 또는 CHX+ADS(비칫솔질) 선택. [확인]
 > - **전신 항생제 보조요법 3편 추가(2026-11-10)**: 아목시실린+메트로니다졸 (Amoxicillin + Metronidazole, AMX/MET)이 가장 일관된 이득 — 임상부착수준 (Clinical Attachment Level, CAL) 0.47 mm 증가, 치주낭 깊이 (Probing Pocket Depth, PPD) 0.30 mm 감소, 탐침 시 출혈 6.9% 감소(Kondreddy 2025, RCT 48편). **용량은 중요하고 기간은 중요하지 않다**: 500/500 mg가 저용량보다 우수, 3–10일 기간은 무차이(Zhao 2021, RCT 11편); 3일 요법이 7일과 동등하고 부작용은 적음. 우산 리뷰(Sesha 2026)는 Stage III/IV에서 중등도 확실성으로 지지하되 '일상적'이 아닌 '선택적' 사용, 아지트로마이신은 근거 불충분, Stage IV 단독 근거는 없음.
+> - **국소 테트라사이클린계 보조 4편 추가(2026-11-25)**: 효과는 **실재하나 작고, 깊은 부위에 국한**된다. 메타분석 (Soysa 2025 SR+MA, 43개 연구) 치주낭 깊이 (PPD) 추가 감소 6–9개월 0.52 mm·≥12개월 0.37 mm, 임상부착수준 (CAL) 0.31–0.34 mm — 단, 분할구강 (split-mouth) 설계가 효과를 부풀리고(β=0.42) 출판편향 유의. 미노사이클린 마이크로스피어 (Minocycline Microspheres, MM) RCT (Arnett 2023, n=70)는 **전악에선 무차이**(p=0.73), PD≥5 mm 부위에서만 약 0.2 mm 추가. 파일럿 RCT (Zainuddin 2024, 군당 15명)는 SRP 단독 대비 이득 미검출. PRF+미노사이클린 = Arestin 무차이 (Estrin 2026, 13명) — 동등성 입증은 아님. **임상 판단**: 국소 항균제는 SRP 후 잔존 깊은 포켓의 **부위 선택적** 보조이지 전악 루틴이 아니다; "흡연자는 효과 없음" 주장은 원 논문 메타회귀로 지지되지 않음(P=0.05/0.57).
 
 ## Three-line Summary
 
-Synthesis of 34 papers on non-surgical periodontal therapy: SRP is strongly recommended as first-line treatment for chronic periodontitis (Smiley 2015 ADA guideline), reducing PPD 1-2 mm and gaining 0.5-1 mm CAL; adjunctive systemic antibiotics are not recommended routinely due to very low certainty evidence and marginal clinical gains (Khattri 2020 Cochrane, 45 RCTs).
+Synthesis of 38 papers on non-surgical periodontal therapy: SRP is strongly recommended as first-line treatment for chronic periodontitis (Smiley 2015 ADA guideline), reducing PPD 1-2 mm and gaining 0.5-1 mm CAL; adjunctive systemic antibiotics are not recommended routinely due to very low certainty evidence and marginal clinical gains (Khattri 2020 Cochrane, 45 RCTs).
 
 NSPT has selective systemic anti-inflammatory benefits — reducing CRP, IL-6, and systolic blood pressure but not lipid profiles (Meng 2024 SR+MA, 21 RCTs) — supporting the perio-systemic link; Guided Biofilm Therapy (GBT) offers patient-centered advantages (comfort, efficiency) but does not consistently outperform conventional SRD on clinical outcomes (Yein 2026 SR, 5 RCTs, GRADE very low).
 
@@ -68,7 +73,7 @@ For gingivitis, OHI is first-line with PMPR as adjunct (Farina 2026 EFP SR+MA); 
 
 ## 세줄요약
 
-치주 비수술 치료 34편 종합: SRP는 만성 치주염 1차 치료로 강력 권고(Smiley 2015 ADA), PPD 1-2mm 감소·CAL 0.5-1mm 획득; 전신 항생제 보조는 매우 낮은 확실성·임상 이득 미미로 routine 금지(Cochrane 2020, 45 RCT).
+치주 비수술 치료 38편 종합: SRP는 만성 치주염 1차 치료로 강력 권고(Smiley 2015 ADA), PPD 1-2mm 감소·CAL 0.5-1mm 획득; 전신 항생제 보조는 매우 낮은 확실성·임상 이득 미미로 routine 금지(Cochrane 2020, 45 RCT).
 
 NSPT는 구강 밖 선택적 항염증 효과가 있음 — CRP·IL-6·수축기혈압 감소하나 지질 프로필은 변화 없음(Meng 2024 SR+MA, 21 RCT); GBT는 환자 편의성 우수하나 임상 결과는 전통 SRD와 동등(Yein 2026 SR, 근거 매우 낮음).
 
@@ -87,7 +92,7 @@ NSPT는 구강 밖 선택적 항염증 효과가 있음 — CRP·IL-6·수축기
 
 **보조 치료**:
 - 전신 독시사이클린: PPD ≥5mm 부위에서 추가 PPD −0.2-0.4mm, CAL +0.3mm (단, 2020 EFP S3에 의해 부분 대체)
-- 국소 항균제(미노사이클린·CHX 칩): PPD ≥5mm에 유효
+- 국소 항균제(미노사이클린·CHX 칩): PPD ≥5mm에 유효 — 단, 추가 이득은 PPD 0.2–0.5 mm 수준으로 작고 깊은 부위에 국한되며 전악 지표로는 드러나지 않음 (2026-11-25 Evidence Update 참조)
 
 ---
 
@@ -210,6 +215,8 @@ NSPT는 구강 밖 선택적 항염증 효과가 있음 — CRP·IL-6·수축기
 | 다이오드 레이저 효과 없음 | 매우 낮음 (SR+MA) | Farina 2026 |
 | CPC는 칫솔질 상황에서 CHX 대안 (착색↓) | 중간 (SR+MA) | Windhorst 2025 |
 | CHX+ADS 착색 감소, 치태·치은 효능 보존 | 중간 (SR+MA) | Van Swaaij 2019 |
+| 국소 테트라사이클린계 보조: PPD 0.37–0.52 mm·CAL ~0.3 mm 추가 (작음, 출판편향) | 낮음 (SR+MA) | Soysa 2025 |
+| 국소 미노사이클린 이득은 PD≥5 mm 부위 한정, 전악 무차이 | 낮음 (RCT) | Arnett 2023 |
 
 ---
 
@@ -281,3 +288,21 @@ NSPT는 구강 밖 선택적 항염증 효과가 있음 — CRP·IL-6·수축기
 3. *Selective, not routine.* The umbrella review concludes that antibiotics complement effective mechanical debridement in Stage III/IV disease and are not a default. For the wider prescribing context see [[overviews/drug-antibiotic-stewardship-overview]].
 
 **Limits.** The three reviews draw on heavily overlapping trials, so they are not independent. Kondreddy searched PubMed only. Nothing isolates Stage IV, and none of this supports azithromycin or doxycycline as substitutes.
+
+## Evidence Update — Local Tetracycline-Class Adjuncts: Real, Small, Site-Specific (2026-11-25)
+
+| Paper | Design | Finding |
+|---|---|---|
+| [[periodontics/non-surgical-instrumentation/soysa-2025-the-long-term-efficacy-of]] | SR+MA, 43 independent RCTs (33 articles pooled), ≥6-month follow-up | Tetracycline fiber, doxycycline gel and minocycline microspheres/ointment added to SRP: PPD WMD 0.516 mm (6–9 mo) and 0.371 mm (≥12 mo); CAL WMD 0.336 / 0.310 mm. Split-mouth designs inflated effects (β=0.422). Significant publication bias for PPD and CAL; most trials unclear/high risk of bias. |
+| [[periodontics/non-surgical-instrumentation/arnett-2023-effect-of-scaling-and-root]] | Parallel RCT, n=70, non-smokers, 6 months | Minocycline microspheres in PD ≥5 mm sites (re-applied at 3 months): no whole-mouth difference in PD (p=0.73) or CAL (p=0.77). In deep sites only, PD 5.40→3.34 vs 5.42→3.54 mm (p<0.0001), CAL p=0.002 — roughly 0.15–0.2 mm extra. Salivary pathogens fell further for 4 of 11 species at 6 months, not *P. gingivalis*. |
+| [[periodontics/non-surgical-instrumentation/zainuddin-2024-effectiveness-of-conventional-periodontal-treatment]] | Pilot RCT, 3 arms × 15, 3 months | Tetracycline fiber vs 2% minocycline gel vs SRP alone: no between-group difference in PD, CAL or BOP (all p>0.05); SRP alone had the largest CAL gain. Underpowered, cannot show equivalence. |
+| [[periodontics/non-surgical-instrumentation/estrin-2026-platelet-rich-fibrin-with-minocycline]] | Split-mouth RCT, 13 analysed, 6 months | PRF + liquid minocycline vs Arestin in 4–6 mm pockets: no difference (PD p=0.609, CAL p=0.789). Not powered for equivalence; minocycline dose in the PRF arm unclear; laser in both arms; author holds PRF IP. |
+
+**Synthesis.**
+
+1. *The effect exists and it is small.* The pooled gain is about a third to half a millimetre of pocket depth and a third of a millimetre of attachment, smaller than the systemic AMX/MET effect above and inflated by split-mouth designs and publication bias. This refines the older "local antimicrobials are effective at PPD ≥5 mm" line in §1 rather than overturning it.
+2. *It lives in deep sites, not whole mouths.* Arnett shows the pattern directly: no whole-mouth difference, a measurable one in PD ≥5 mm sites. Two small trials (Zainuddin, Estrin) detect nothing, which is what an effect of this size predicts at n≈15. The clinically coherent use is site-selective — residual deep pockets after SRP — not full-mouth placement.
+3. *The smoking claim does not hold up.* Soysa's abstract says non-smokers benefit more; its own meta-regression gives P=0.0513 (PPD) and P=0.566 (CAL). Treat smoking-specific advice from this review as exploratory.
+4. *Delivery vehicle is not yet a differentiator.* Fiber, gel, microspheres and PRF-mixed minocycline have not been separated by adequately powered head-to-head trials.
+
+**Limits.** Most trials are single-centre, short (3–6 months) and at unclear/high risk of bias. Estrin 2026 may share participants with [[periodontics/estrin-2026-prf-vs-emd-nspt-rct]] and should not be counted as independent. For the guideline position on local antibiotics see [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]].
