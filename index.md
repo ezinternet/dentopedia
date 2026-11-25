@@ -4276,7 +4276,7 @@ tags: []
 - [[implants/peri-implantitis/fathi-2025-keratinized-mucosa-implant-health-umbrella-review]] — Umbrella review (10 SRs/MAs, 7,139 participants): KMW≥2 mm reduces inflammation/plaque/recession/peri-implantitis; FGG first-line, XCM alternative [sr]
 - [[implants/peri-implantitis/soulami-2022-implant-abutment-emergence-angle-peri-implantitis-sr]] — Soulami 2022 · sr · 3편(168–349 임플란트): emergence angle >30°·볼록 profile이 peri-implantitis/MBL↑와 연관(<30° 대비); 근거 희박·인과 미입증 (DOI 10.1002/cre2.594)
 - [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] — Basak 2024 · retrospective · 202 임플란트: IDRA 변연-치조정 ≤1.5 mm가 MBL 위험 3.42배; 치주염 Stage4 vs2 26.31배, 넓은/긴 임플란트 6.10×/5.02× (DOI 10.1016/j.jdent.2024.104935)
-- [[implants/peri-implantitis/lu-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct]] — Multicenter RCT (J Dent 2026): local 2% minocycline adjunct to mechanical debridement for peri-implantitis — BOP, PD, MBL outcomes
+- [[implants/peri-implantitis/lee-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct]] — Multicenter RCT (J Dent 2026): local 2% minocycline adjunct to mechanical debridement for peri-implantitis — BOP, PD, MBL outcomes
 
 ### implants — KM augmentation & soft-tissue management
 - [[implants/soft-tissue/sanz-2022-keratinized-mucosa-around-implants-consensus]] — DGI/SEPA/Osteology 2022 consensus: KT<2 mm threshold, FGG standard of care, xenograft non-inferior to autogenous for KT gain [consensus]
