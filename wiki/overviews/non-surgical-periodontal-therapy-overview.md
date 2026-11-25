@@ -44,6 +44,10 @@ source_papers:
   - periodontics/non-surgical-instrumentation/arnett-2023-effect-of-scaling-and-root
   - periodontics/non-surgical-instrumentation/zainuddin-2024-effectiveness-of-conventional-periodontal-treatment
   - periodontics/non-surgical-instrumentation/estrin-2026-platelet-rich-fibrin-with-minocycline
+  - periodontics/non-surgical-instrumentation/smiley-2015-systematic-review-and-meta-analysis
+  - periodontics/non-surgical-instrumentation/choi-2021-clinical-and-microbiological-effects-of
+  - periodontics/jung-2012-the-clinical-effect-of-locally
+  - periodontics/jung-2024-comparing-the-clinical-effects-of
 evidence_level: synthesis
 source: synthesis
 ---
@@ -62,10 +66,11 @@ source: synthesis
 > - **CHX 대안·착색 완화**: 칫솔질 병행 상황에서 CPC는 CHX와 동등(Windhorst 2025 SR+MA, 14 RCT), 착색 유의 적음; CHX+ADS는 효능 비손상으로 착색 유의 감소(Van Swaaij 2019 SR+MA) — "착색 없으면 효과 없다" 통념 반박; 착색 우려 환자엔 CPC(칫솔질) 또는 CHX+ADS(비칫솔질) 선택. [확인]
 > - **전신 항생제 보조요법 3편 추가(2026-11-10)**: 아목시실린+메트로니다졸 (Amoxicillin + Metronidazole, AMX/MET)이 가장 일관된 이득 — 임상부착수준 (Clinical Attachment Level, CAL) 0.47 mm 증가, 치주낭 깊이 (Probing Pocket Depth, PPD) 0.30 mm 감소, 탐침 시 출혈 6.9% 감소(Kondreddy 2025, RCT 48편). **용량은 중요하고 기간은 중요하지 않다**: 500/500 mg가 저용량보다 우수, 3–10일 기간은 무차이(Zhao 2021, RCT 11편); 3일 요법이 7일과 동등하고 부작용은 적음. 우산 리뷰(Sesha 2026)는 Stage III/IV에서 중등도 확실성으로 지지하되 '일상적'이 아닌 '선택적' 사용, 아지트로마이신은 근거 불충분, Stage IV 단독 근거는 없음.
 > - **국소 테트라사이클린계 보조 4편 추가(2026-11-25)**: 효과는 **실재하나 작고, 깊은 부위에 국한**된다. 메타분석 (Soysa 2025 SR+MA, 43개 연구) 치주낭 깊이 (PPD) 추가 감소 6–9개월 0.52 mm·≥12개월 0.37 mm, 임상부착수준 (CAL) 0.31–0.34 mm — 단, 분할구강 (split-mouth) 설계가 효과를 부풀리고(β=0.42) 출판편향 유의. 미노사이클린 마이크로스피어 (Minocycline Microspheres, MM) RCT (Arnett 2023, n=70)는 **전악에선 무차이**(p=0.73), PD≥5 mm 부위에서만 약 0.2 mm 추가. 파일럿 RCT (Zainuddin 2024, 군당 15명)는 SRP 단독 대비 이득 미검출. PRF+미노사이클린 = Arestin 무차이 (Estrin 2026, 13명) — 동등성 입증은 아님. **임상 판단**: 국소 항균제는 SRP 후 잔존 깊은 포켓의 **부위 선택적** 보조이지 전악 루틴이 아니다; "흡연자는 효과 없음" 주장은 원 논문 메타회귀로 지지되지 않음(P=0.05/0.57).
+> - **국소 미노사이클린 연고 (Minocycline Ointment) 4편 추가(2026-11-25, 2차 — 미노클린·Periocline 계열)**: 결론은 같다 — **적응증을 좁힐수록 이득이 보인다.** 유지치료 (Supportive Periodontal Therapy, SPT) 환자에게 **전악 1회** 도포한 파일럿 RCT(Choi 2021, 22명 분석)는 3개월 PPD·CAL·BOP 모두 무차이(p>0.47) — Arnett 2023의 "전악 무차이"와 같은 그림. 반면 **판막수술 보조**(Jung 2012 분할구강 RCT, 20명)는 6개월 PPD 감소 3.34 vs 2.62 mm, **급성 치주농양 배농 보조**(Jung 2024 후향, 63명)는 4주 농양측 PPD 감소 1.88 vs 1.09 mm(식염수). 단 Jung 2012는 분할구강·초록만·표준편차 ±0.03 mm로 비정상, Jung 2024는 환자 선택 배정·비무작위라 둘 다 **가설 수준**. ADA 근거 SR+MA(Smiley 2015, 72편)는 미노사이클린 마이크로스피어를 **낮은 확실성**으로 평가 — 10년 뒤 Soysa 2025의 작은 효과크기와 일관. **임상 판단**: 미노클린은 잔존 깊은 포켓·농양·수술 부위의 **국소 보조**로 쓸 근거는 있으나, SPT 리콜마다 전악 도포할 근거는 없다.
 
 ## Three-line Summary
 
-Synthesis of 38 papers on non-surgical periodontal therapy: SRP is strongly recommended as first-line treatment for chronic periodontitis (Smiley 2015 ADA guideline), reducing PPD 1-2 mm and gaining 0.5-1 mm CAL; adjunctive systemic antibiotics are not recommended routinely due to very low certainty evidence and marginal clinical gains (Khattri 2020 Cochrane, 45 RCTs).
+Synthesis of 42 papers on non-surgical periodontal therapy: SRP is strongly recommended as first-line treatment for chronic periodontitis (Smiley 2015 ADA guideline), reducing PPD 1-2 mm and gaining 0.5-1 mm CAL; adjunctive systemic antibiotics are not recommended routinely due to very low certainty evidence and marginal clinical gains (Khattri 2020 Cochrane, 45 RCTs).
 
 NSPT has selective systemic anti-inflammatory benefits — reducing CRP, IL-6, and systolic blood pressure but not lipid profiles (Meng 2024 SR+MA, 21 RCTs) — supporting the perio-systemic link; Guided Biofilm Therapy (GBT) offers patient-centered advantages (comfort, efficiency) but does not consistently outperform conventional SRD on clinical outcomes (Yein 2026 SR, 5 RCTs, GRADE very low).
 
@@ -73,7 +78,7 @@ For gingivitis, OHI is first-line with PMPR as adjunct (Farina 2026 EFP SR+MA); 
 
 ## 세줄요약
 
-치주 비수술 치료 38편 종합: SRP는 만성 치주염 1차 치료로 강력 권고(Smiley 2015 ADA), PPD 1-2mm 감소·CAL 0.5-1mm 획득; 전신 항생제 보조는 매우 낮은 확실성·임상 이득 미미로 routine 금지(Cochrane 2020, 45 RCT).
+치주 비수술 치료 42편 종합: SRP는 만성 치주염 1차 치료로 강력 권고(Smiley 2015 ADA), PPD 1-2mm 감소·CAL 0.5-1mm 획득; 전신 항생제 보조는 매우 낮은 확실성·임상 이득 미미로 routine 금지(Cochrane 2020, 45 RCT).
 
 NSPT는 구강 밖 선택적 항염증 효과가 있음 — CRP·IL-6·수축기혈압 감소하나 지질 프로필은 변화 없음(Meng 2024 SR+MA, 21 RCT); GBT는 환자 편의성 우수하나 임상 결과는 전통 SRD와 동등(Yein 2026 SR, 근거 매우 낮음).
 
@@ -306,3 +311,22 @@ NSPT는 구강 밖 선택적 항염증 효과가 있음 — CRP·IL-6·수축기
 4. *Delivery vehicle is not yet a differentiator.* Fiber, gel, microspheres and PRF-mixed minocycline have not been separated by adequately powered head-to-head trials.
 
 **Limits.** Most trials are single-centre, short (3–6 months) and at unclear/high risk of bias. Estrin 2026 may share participants with [[periodontics/estrin-2026-prf-vs-emd-nspt-rct]] and should not be counted as independent. For the guideline position on local antibiotics see [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]].
+
+### Addendum — Minocycline ointment beyond the SRP-adjunct setting (2026-11-25, 4 papers)
+
+Added on a request to collect evidence for 2% minocycline HCl periodontal ointment (the Periocline-class formulation sold in Korea as Minoclin). None of these papers names the Minoclin brand; the link is by active ingredient and vehicle.
+
+| Paper | Design | Finding |
+|---|---|---|
+| [[periodontics/non-surgical-instrumentation/smiley-2015-systematic-review-and-meta-analysis]] | SR+MA (ADA panel), 72 RCT articles, search to July 2014; abstract-only | SRP alone ≈0.5 mm CAL gain; adjuncts add 0.2–0.6 mm. Moderate certainty for sub-antimicrobial-dose doxycycline, systemic antimicrobials, CHX chips and diode-laser PDT; **low certainty for minocycline microspheres**. This is the evidence base of the ADA guideline already cited in §1 ([[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]]). |
+| [[periodontics/non-surgical-instrumentation/choi-2021-clinical-and-microbiological-effects-of]] | Pilot RCT, Korea, SPT patients >1 year, 24 randomized / 22 analysed, 3 months | Whole-mouth debridement + **one** application of 2% minocycline ointment (Periocline) into all pockets vs debridement + saline: no between-group difference in PPD (3.36 vs 3.42 mm, p=0.685), CAL (p=0.810) or BoP (p=0.794); *P. gingivalis* and *F. nucleatum* ratios unchanged. No sample-size justification. |
+| [[periodontics/jung-2012-the-clinical-effect-of-locally]] | Split-mouth RCT, Korea, severe chronic periodontitis, n=20, 6 months; abstract-only | Flap surgery + minocycline ointment (re-applied at 3 months) vs flap alone: PD reduction 3.34 vs 2.62 mm, BOP reduction 78.0 vs 50.3%, CAL gain 1.88 vs 1.55 mm (all p<0.05). Reported PD SD of ±0.03 mm is implausibly small; split-mouth design. |
+| [[periodontics/jung-2024-comparing-the-clinical-effects-of]] | Retrospective, Korea, acute molar periodontal abscess, n=63, 4 weeks | Drainage + saline vs + 2% minocycline ointment vs + compounded doxycycline solution (300 mg/mL, 5-minute irrigation): abscess-side PD reduction 1.09 / 1.88 / 2.88 mm; BOP reduction 45.0 / 73.0 / 95.5%. Arms chosen by patient preference; doxycycline vehicle and contact time differ, so the drug ranking is confounded. |
+
+**What the four add to the synthesis above.**
+
+5. *Whole-mouth use in maintenance shows nothing.* Choi 2021 is the second trial (after Arnett 2023) in which minocycline spread across the whole mouth produced no detectable whole-mouth difference. This fits point 2: averaging over mostly shallow sites dilutes a small, deep-site effect. Choi's mean PPD of about 3.4 mm at baseline shows how little room there was to improve. It does not show that site-targeted use in residual SPT pockets fails; that was not tested.
+6. *Indication-narrow uses look better, but on weak designs.* Flap surgery (Jung 2012) and abscess drainage (Jung 2024) both report adjunct gains larger than the 0.37–0.52 mm pooled SRP-adjunct effect. Both come from designs that inflate effects: split-mouth with implausible dispersion, and non-randomized patient-choice allocation. Treat them as hypothesis-generating support for site-targeted use, not as effect sizes to quote to patients.
+7. *Certainty has not moved in ten years.* Smiley's 2014-search rating of minocycline microspheres as low certainty and Soysa's 2025 finding of a small, bias-inflated effect point the same way. Newer trials have added to the estimate without changing its certainty.
+
+**Clinical reading for minocycline ointment (Minoclin-class).** Use it as a site-targeted adjunct to mechanical therapy in residual deep pockets, at abscess drainage, or alongside flap surgery. Do not apply it whole-mouth at every SPT recall. Mechanical debridement carries the effect in all four papers; in Choi 2021 and Jung 2024 the control arms improved substantially on their own.
