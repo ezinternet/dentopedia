@@ -1348,5 +1348,20 @@
     "box": 1,
     "due": "2026-10-14",
     "last": null
+  },
+  "periodontal-regeneration-gtr-emd-intrabony-overview::q1": {
+    "box": 1,
+    "due": "2026-11-22",
+    "last": null
+  },
+  "periodontal-regeneration-gtr-emd-intrabony-overview::q2": {
+    "box": 1,
+    "due": "2026-11-22",
+    "last": null
+  },
+  "periodontal-regeneration-gtr-emd-intrabony-overview::q3": {
+    "box": 1,
+    "due": "2026-11-22",
+    "last": null
   }
 }
