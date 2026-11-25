@@ -2,7 +2,7 @@
 title: "종합 — overviews"
 authors: navigation
 year: 2026
-date: 2026-11-20
+date: 2026-11-25
 doi: N/A
 source: navigation
 category: overviews
@@ -15,20 +15,20 @@ tags: [navigation, category-index, overviews]
 > [!summary] 한국어 핵심요약
 > - **분야**: 종합
 > - **범위**: Synthesis pages spanning multiple categories
-> - **수록 논문**: 388편
+> - **수록 논문**: 391편
 
 ## Three-line Summary
 
 **Scope**: Synthesis pages spanning multiple categories
-**Indexed papers**: 388 papers in `wiki/overviews/`.
+**Indexed papers**: 391 papers in `wiki/overviews/`.
 
 ## 세줄요약
 
 **분야**: 종합
-**수록 논문**: 388편
+**수록 논문**: 391편
 **하위 카테고리**: 없음
 
-## Papers in this Category (388)
+## Papers in this Category (391)
 
 | Paper |
 |---|
@@ -142,6 +142,8 @@ tags: [navigation, category-index, overviews]
 | [[early-bone-loss-loading-foundations-overview|초기 골소실·하중 역학 기초 고찰 — 1992–2005 다섯 편 종합 (Early Bone Loss & Loading Mechanics: Foundational Reviews)]] |
 | [[early-implant-failure-risk-prevention-overview|Overview: Early Implant Failure (before prosthetic loading) — Risk Factors & Prevention]] |
 | [[early-implant-failure-surveillance-update-2022-2026-overview|Early (Pre-Prosthetic) Implant Failure — 2022–2026 Surveillance Update: Definition Drift, Implant- vs Patient-Level Effects, Drug & Sinus Signals]] |
+| [[abutment-seal-crown-mucosa-design-checklist-overview|Abutment Designs the Seal, Crown Designs the Mucosa — an 8-Point Evidence Checklist (지대주는 seal을, 크라운은 건강한 점막을 설계한다)]] |
+| [[emergence-angle-threshold-context-dependence-overview|Emergence-Angle Thresholds Are Conditional — Depth, Reference Point, Implant Position, Abutment Height and Implant Design (출현각도 역치는 조건부 — 깊이·기준점·식립위치·지대주높이·임플란트 형태)]] |
 | [[endodontic-access-cavity-decision-tree|근관 접근와동 설계 결정 트리 — TEC vs MIA vs 유도 근관치료]] |
 | [[endodontic-endotoxin-lps-lta-overview|Endodontic Endotoxins (LPS) & LTA: Role in Infection and Removal by Treatment — 6-paper synthesis]] |
 | [[endodontic-flare-up-management-overview|근관치료 후 급성 악화(Endodontic Flare-Up) — 위험인자·예방·처치 근거 종합]] |
@@ -301,6 +303,7 @@ tags: [navigation, category-index, overviews]
 | [[periapical-scar-healing-overview|Periapical Scar Healing: Diagnosis, Epidemiology, and Surveillance]] |
 | [[periodontal-adjunctive-therapy-probiotics-pdt-overview|Overview: Periodontal Adjunctive Therapy — Probiotics, aPDT, and NSPT Augmentation]] |
 | [[periodontal-host-modulation-nutraceutical-adjuncts-overview|Periodontal Host-Modulation & Nutraceutical Adjuncts — Omega-3, CoQ10, Antioxidant Vitamins, ASU & MMP-Inhibition Synthesis (치주 숙주조절·영양보조제 종합)]] |
+| [[periodontal-regeneration-gtr-emd-intrabony-overview|Periodontal Regeneration with GTR and EMD — Intrabony Defects, Combination Therapy, Biologic Alternatives and Long-Term Durability]] |
 | [[periodontal-regenerative-platelet-concentrates-overview|Autologous Platelet Concentrates (PRF/PRP/CGF) Across Periodontal Regeneration — Furcation, Intrabony, Root Coverage Synthesis]] |
 | [[periodontal-systemic-links-adjunct-homecare-evidence-overview|Periodontal Care — Systemic Links (Diabetes · Oral-Systemic) & Adjunct/Home-Care Evidence (Probiotics · Resveratrol · Toothpaste)]] |
 | [[periodontics-treatment-ladder|Periodontics — Classification·Treatment·SPT Decision Ladder]] |
