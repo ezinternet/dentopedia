@@ -1,0 +1,32 @@
+TITLE: Association of prosthetic features and peri-implantitis: A cross-sectional study.
+AUTHORS: Yi Yuseung, Koo Ki-Tae, Schwarz Frank, Ben Amara Heithem, Heo Seong-Joo
+JOURNAL: Journal of clinical periodontology
+CITATION: 2020 Mar;47(3):392-403
+ID[pmid]: 31912511
+ID[doi]: 10.1111/jcpe.13251
+PUBDATE: 2020 Mar
+ARTICLE-DATE: 2020-01-21 (electronic)
+ARTICLE-TYPE: Journal Article; Research Support, Non-U.S. Gov't
+FULL-TEXT-STATUS: ABSTRACT ONLY — no PMC record (PMC ID converter: "Identifier not found in PMC"); Europe PMC isOpenAccess=N/inEPMC=N; Unpaywall is_oa=False; OpenAlex oa_status=closed; Semantic Scholar openAccessPdf CLOSED; Wiley publisher page returned HTTP 403. Body below is the PubMed structured abstract only.
+
+## ABSTRACT
+
+OBJECTIVE
+To identify the influence of prosthetic features through a comprehensive analysis with other known risk factors.
+
+MATERIALS AND METHODS
+A total of 169 patients (n = implants: 349) was retrospectively included in the present study. Peri-implantitis was diagnosed based on peri-implant bone loss and probing depth. Using radiographs taken 1 and 5 years following prosthesis insertion, the following features were determined: peri-implant marginal bone loss (MBL), emergence angle (EA), emergence profile (EP) and crown/implant ratio (CIR). The splinted position of prosthesis was also recorded. Multivariable generalized estimating equation was used to analyse the influence of each feature on the prevalence of peri-implantitis. The final prediction model was constructed by Cox proportional hazard regression analysis.
+
+RESULTS
+The EA showed a significant correlation with MBL. A statistically greater prevalence of peri-implantitis was observed if EA >= 30 degrees, when EP is convex and in middle implant splinted with both mesial and distal adjacent implants in bone-level implant. A similar correlation was not observed in tissue-level implants. CIR had no significant effect on the prevalence of peri-implantitis.
+
+CONCLUSION
+Over-contoured implant prosthesis is a critical local confounder for peri-implantitis. The implant splinted to both mesial and distal adjacent implant has a higher risk of peri-implantitis.
+
+## METADATA FROM PUBMED
+
+Affiliation (first author): Department of Prosthodontics, Seoul National University Dental Hospital, Seoul, Korea.
+MeSH: Alveolar Bone Loss (diagnostic imaging, epidemiology, etiology); Cross-Sectional Studies; Dental Implants (adverse effects); Humans; Peri-Implantitis (diagnostic imaging, epidemiology, etiology); Retrospective Studies.
+Copyright: © 2020 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+Retraction check: PubMed article-type list contains no "Retracted Publication"; no CommentsCorrections records.
+Source: PubMed E-utilities efetch, PMID 31912511 (ingest acquisition, 2026-11-25).
