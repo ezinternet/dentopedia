@@ -1,0 +1,16 @@
+TITLE: Biological width establishment around dental implants is influenced by abutment height irrespective of vertical mucosal thickness: A cluster randomized controlled trial.
+JOURNAL: Clin Oral Implants Res. 2019 Jul;30(7):649-659.
+DOI: 10.1111/clr.13450
+PMID: 31033035
+AUTHORS: Spinato S, Stacchi C, Lombardi T, Bernardello F, Messina M, Zaffe D.
+SOURCE: PubMed E-utilities efetch abstract (no PMC full text; publisher/repository full text not retrieved)
+
+## ABSTRACT
+
+OBJECTIVE: Prosthetic abutment height and peri-implant mucosal thickness are considered factors that influence marginal bone remodeling during biological width establishment around dental implants. However, no clinical studies have evaluated their simultaneous effect on marginal bone loss (MBL). This study analyzes the influence of abutment height on MBL around implants surrounded by both thin and thick mucosa up to 12 months after prosthetic loading.
+
+MATERIAL AND METHODS: Seventy platform-switched implants with internal hex were placed equicrestally in two groups of patients with different vertical mucosal thickness: thin (<=2.0 mm) and thick mucosa (>2.0 mm). After three months of submerged healing, prosthetic abutments with a height of 1 mm (short) or 3 mm (long) were randomly assigned for single crown screwed restoration in both groups. MBL was evaluated on radiographs taken at implant placement (T0), restoration delivery (T1), and after 6 months (T2) and 12 months (T3) of loading.
+
+RESULTS: After 12 months of loading, 66 implants were functioning (two dropouts, two failures), resulting in a 97% survival rate. Compared with T0, mean MBL at T3 ranged between 0.59 and 0.80 mm in short abutment groups and between 0.28 and 0.37 mm in long abutment groups. Differences resulted statistically significant, irrespective of vertical peri-implant mucosal thickness. The MBL pattern over time showed the greatest amount of bone resorption in the first 6 months after loading, particularly around implants with short abutments.
+
+CONCLUSIONS: Platform-switched implants restored with short abutments present greater marginal bone loss than identical implants with long abutments, without significant peri-implant mucosal thickness effects.
