@@ -89,7 +89,7 @@ tags: [navigation, category-index, peri-implantitis]
 | [[li-2025-inflammatory-response-dental-implant-surgery|Analysis of inflammatory response and its factors after dental implant surgery in patients with type 2 diabetes]] |
 | [[lin-2025-influence-of-prosthetic-designs|The influence of prosthetic designs on peri-implant bone loss: An AO/AAP systematic review and meta-analysis]] |
 | [[liu-2026-efficacy-of-adjunctive-antibiotics-compared|Efficacy of adjunctive antibiotics compared to non-antibiotic therapies following mechanical debridement for peri-implantitis: A systematic review and meta-analysis of randomized controlled trials]] |
-| [[lu-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct|Adjunctive Use of Locally Delivered 2% Minocycline in the Nonsurgical Treatment of Peri-Implantitis: A Multicenter Randomized Placebo-Controlled Trial]] |
+| [[lee-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct|Adjunctive Use of Locally Delivered 2% Minocycline in the Nonsurgical Treatment of Peri-Implantitis: A Multicenter Randomized Placebo-Controlled Trial]] |
 | [[mahardawi-2023-lack-keratinized-mucosa-peri-implantitis-sr-ma|The lack of keratinized mucosa as a risk factor for peri-implantitis: a systematic review and meta-analysis]] |
 | [[mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review|The use of chemical and pharmaceutical adjunctive therapies in the treatment of peri-implant mucositis (PiM): a narrative review]] |
 | [[mercado-2026-surgical-therapy-for-peri-implantitis|Surgical Therapy for Peri-Implantitis Using Deproteinised Bovine Bone Mineral With 10% Collagen, Enamel Matrix Derivative and Doxycycline: A Prospective Cohort 10-Year Implant Study]] |
