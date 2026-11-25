@@ -1,0 +1,16 @@
+TITLE: Reaction of crestal bone around implants depending on mucosal tissue thickness. A 1-year prospective clinical study.
+AUTHORS: Tomas Linkevicius, Peteris Apse, Simonas Grybauskas, Algirdas Puisys
+JOURNAL: Stomatologija 2009;11(3):83-91
+PMID: 19996674
+DOI: null
+SOURCE: PubMed abstract (E-utilities efetch, 2026-11-25). No PMC record; no full text retrieved.
+
+## ABSTRACT
+
+PURPOSE: The aim of this paper was to distinguish what kind of mucosal tissue, measured at the top of the crest can be referred to as thin, medium or thick and its influence on crestal bone loss around dental implants after a 1-year follow-up.
+
+MATERIALS AND METHODS: Totally 64 implants were evaluated in 26 patients. 32 implants (test group) were placed about 2 mm supracrestally and 32 implants (control group) were positioned equal to the bone level. Mucosal tissues at a time of implant placement were divided into 3 groups--thin, medium and thick. Crestal bone changes were measured at implant placement and after a 1-year follow-up.
+
+RESULTS: Mean bone loss around test implants in thin tissue group (up to 2 mm) was 1.35 mm+/-0.33 SD, in medium thickness group mean bone loss was 0.32 mm+/-0.44 SD and 0.12 mm+/-0.16 SD of bone loss was registered in thick tissue group (3.1 mm and more). Mean bone loss around control implants in all 3 groups was as follows: 1.8 mm+/-0.52 SD in thin, 1.62 mm+/-0.63 SD in medium and 1.55 mm+/-0.47 SD in thick tissue group. ANOVA analysis showed statistically significant differences between 3 groups of thickness, as crestal bone loss around test implants is concerned. (F[2,29]=37.3; P=.000). In control implants bone loss did not vary between 3 groups of tissue thickness (F[2,29]=0.73; P=.503).
+
+CONCLUSIONS: It can be concluded that initial tissue thickness can influence crestal bone changes around implants.
