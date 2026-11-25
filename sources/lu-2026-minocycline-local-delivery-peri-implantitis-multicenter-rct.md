@@ -18,19 +18,19 @@ text_filename: lu-2026-minocycline-local-delivery-peri-implantitis-multicenter-r
 
 ## Three-line Summary
 
-Multicenter single-blind RCT (n=46) showing adjunctive subgingival 2% minocycline ointment reduces probing depth and BOP at 12 weeks versus debridement alone in peri-implantitis, with transient microbiologic benefits at 8 weeks but insufficient follow-up for radiographic conclusions.
+Multicenter single-blind placebo-controlled RCT (two Korean university dental hospitals; 48 randomized, 46 analyzed per-protocol) of nonsurgical subgingival debridement + 2% minocycline HCl ointment (test, n=22) vs debridement + placebo ointment (control, n=24), applied at baseline and weeks 1, 2 and 3, followed for 12 weeks.
 
-(incomplete)
+At 12 weeks the test group had lower baseline-adjusted probing pocket depth (PD) and less frequent bleeding on probing (BOP); selected peri-implant pathogens were lower at 8 weeks (p<0.05) but less consistently at 12 weeks, early swelling was lower at 3 weeks (p<0.05), and OHRQoL improvement did not differ; the abstract gives no effect sizes.
 
-(incomplete)
+Local minocycline offers a short-term, systemic-antibiotic-sparing adjunct to nonsurgical peri-implantitis therapy, but the 12-week follow-up cannot support conclusions on radiographic bone stability, sustained efficacy or disease resolution (abstract-only — full text not retrieved).
 
 ## 세줄요약
 
-다기관 단일맹검 RCT(n=46): 임플란트 주위염 비외과적 치료 시 2% 미노사이클린 연고 보조요법이 12주 시점에 탐침깊이(Probing Depth, PD)와 탐침출혈(Bleeding on Probing, BOP)을 유의하게 개선하나, 방사선학적 골안정성 결론을 도출하기엔 추적 기간 부족.
+다기관 단일맹검 위약대조 무작위대조시험 (Randomized Controlled Trial, RCT; 한국 대학치과병원 2곳; 48명 무작위배정, 46명 분석): 비외과적 치은연하 변연청결 (Subgingival Debridement) + 2% 미노사이클린 염산염 (Minocycline HCl) 연고 (시험군 22명) vs 변연청결 + 위약 연고 (대조군 24명), 기저·1·2·3주 4회 적용, 12주 추적.
 
-(incomplete)
+12주에 시험군이 기저 보정 탐침깊이 (Probing Pocket Depth, PD)가 낮고 탐침 시 출혈 (Bleeding on Probing, BOP)이 적었으며, 임플란트 주위 병원균은 8주에 유의하게 낮았으나 (p<0.05) 12주엔 일관성이 떨어졌고, 3주 초기 부종은 적었으며 (p<0.05), 구강건강관련 삶의 질 (Oral Health-Related Quality of Life, OHRQoL) 개선은 차이가 없었다; 초록에 효과크기 미보고.
 
-(incomplete)
+국소 미노사이클린은 전신 항생제 노출을 피하는 단기 비외과 보조요법이 될 수 있으나, 12주 추적으로는 방사선 골 안정성·지속 효과·질환 해소를 결론 내릴 수 없다 (초록만 확인 — 전문 미확보).
 
 ## 1. Document Information
 
