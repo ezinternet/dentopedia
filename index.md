@@ -5379,6 +5379,10 @@ tags: []
 ### periodontics/non-surgical-instrumentation
 - [[periodontics/non-surgical-instrumentation/de-alencar-2019-dental-plaque-disclosing-professional-prophylaxis]] — De Alencar 2019 · rct · 무작위 교차 임상시험(18~36개월 아동 25명, 우식조기예방(ECC) 프로그램, Bauru/상파울루) — 전문가 치아 prophylaxis 전 1% 말라카이트 그린(malachite green) 치태 착색군(GI)과 미착색 대조군(GII)을 1개월 washout 후 비교. (DOI 10.5005/jp-journals-10005-1617)
 - [[periodontics/non-surgical-instrumentation/lei-2025-plaque-disclosing-agent-guided-biofilm-therapy]] — Lei 2025 · retrospective · 만성 치주염 환자 220명(등록; 15명 탈락 → 최종 103명 대조군 vs 102명 관찰군)을 3개월간 전통적 구강위생교육과 가이드 바이오필름 치료(Guided Biofilm Therapy, GBT) 개념 기반 구강위생지도(oral hygiene guidance, OHG)로 나눈 후향 코호트 연구(단 논문 2장은 스스로 "case-control reporting guidelines"라 서술해 설계 표기가 불일치). (DOI 10.1097/MD.0000000000042782)
+- [[periodontics/non-surgical-instrumentation/arnett-2023-effect-of-scaling-and-root]] — Arnett 2023 · rct (70명, UMN) · SRP에 미노사이클린 마이크로스피어(PD≥5mm 부위, 3개월 재도포) 추가: 전악 PD·CAL 6개월 무차이(p=0.73/0.77), PD≥5mm 부위만 PD 5.40→3.34 vs 5.42→3.54mm(p<0.0001)·CAL p=0.002 소폭 우세, 타액 병원균 11종 중 1개월 6종·6개월 4종 감소(P. gingivalis 제외)
+- [[periodontics/non-surgical-instrumentation/estrin-2026-platelet-rich-fibrin-with-minocycline]] — Estrin 2026 · rct · 분할구강 13명(15명 모집): NSPT 보조로 PRF+미노사이클린 vs Arestin 6개월 비교, PD 5.08→3.94 vs 4.98→3.98mm(p=0.609)·CAL 4.06→3.04 vs 4.06→2.98mm(p=0.789) 군간 차이 없음(동등성 검정 아님, 군당 13부위)
+- [[periodontics/non-surgical-instrumentation/soysa-2025-the-long-term-efficacy-of]] — Soysa 2025 · sr+ma · 국소 테트라사이클린계(미노사이클린·독시·테트라사이클린) SRP 보조 RCT 43개 연구: PPD 6–9개월 0.516mm·≥12개월 0.371mm, CAL 0.336/0.310mm로 효과 작음; 분할구강 설계가 효과 과대(β=0.422), PPD·CAL 출판편향; 흡연자 열위는 메타회귀 비유의(P=0.05/0.57)로 탐색적
+- [[periodontics/non-surgical-instrumentation/zainuddin-2024-effectiveness-of-conventional-periodontal-treatment]] — Zainuddin 2024 · rct(파일럿, n=45, 군당 15) · SRP+테트라사이클린 파이버 vs SRP+2% 미노사이클린 겔 vs SRP 단독: 3개월 PD 감소 1.79/1.46/1.74mm, BOP 감소 22.2/26.4/14.8%p, CAL 개선 0.87/0.95/1.10mm — 군 간 유의차 없음(전부 p>0.05), 국소 항생제 추가 이득 입증 못함(검정력 부족)
 
 ### periodontics/oral-hygiene-instruction
 - [[periodontics/oral-hygiene-instruction/balli-akgol-2026-plaque-disclosing-agents-biofilm-removal]] — Balli Akgol 2026 · rct · 단일기관 평행군 무작위 임상시험(1:1, NCT06080672; n=124, 이스탄불 메디폴대학교 4학년 치대생)으로 Modified Bass 칫솔질 전 치태착색제(PDA, Mira 2-tone) 추가가 표준 구강위생교육 단독 대비 1차 결과인 기저선→1주 치태지수 변화량(ΔPI)에 미치는 영향을 평가. (DOI 10.1186/s13005-026-00596-z)
@@ -5474,6 +5478,7 @@ tags: []
 - [[implants/peri-implantitis/gong-2022-novel-histopathological-classification-implant]] — IPL 조직병리 5분류 최초 SR (28편): 낭종 57% 최다, 첨단부 절제술 97% 성공; 치근단부 방사선 투과상 감별 진단 기반 (2022)
 - [[implants/peri-implantitis/gao-2024-prevention-retrograde-peri-implantitis-pulpal]] — RPI 역학·병인·예방 문헌고찰 (73증례): 주원인 인접치 미치료 치수·치근단 병소; 표준 가이드라인 미정립 (2024)
 - [[implants/peri-implantitis/shah-2016-radiographic-classification-retrograde-peri-implantitis]] — RPI 방사선 3등급 분류 최초 제안 (54 IOPA): 경도 <25% / 중등도 25–50% / 중증 >50% 임플란트 길이 (2016)
+- [[implants/peri-implantitis/mercado-2026-surgical-therapy-for-peri-implantitis]] — Mercado 2026 · prospective · 임플란트주위염 재건수술(24% EDTA + DBBMC/EMD/독시사이클린, 크레이터형 결손) 30명 10년 추적: 생존 29/30(96.6%), PD 8.90→3.06 mm, 골소실 57→12.86%, 12개 임플란트 아지스로마이신 필요; 복합 성공기준(STOC) 충족 58.6%(17/29) — 생존은 높으나 성공은 ~60%, 대조군 없음·단일 술자·건강 비흡연자 선별
 
 ### bone-regeneration
 - [[bone-regeneration/zuercher-2026-block-versus-particulate-deproteinized-bovine]] — 치조골 열개 결손 동시 GBR 5년 RCT(22명): DBBM 블록 vs 입자형, 협측 경조직 두께 1.36 vs 0.07 mm(보정차 −1.2 mm, p<0.001), 임플란트 상실·주위염 없음
