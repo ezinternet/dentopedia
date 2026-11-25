@@ -1,0 +1,25 @@
+TITLE: The link between abutment configuration and marginal bone loss in subcrestally placed posterior implant-supported restorations.
+AUTHORS: Nam JH, Chang J, Pyo SW, Kim S
+JOURNAL: The Journal of Prosthetic Dentistry (J Prosthet Dent) 2025 Dec;134(6):2256-2262
+ID[pubmed]: 39904688
+ID[doi]: 10.1016/j.prosdent.2025.01.010
+ID[pii]: S0022-3913(25)00045-9
+SOURCE: PubMed E-utilities (efetch), abstract-only — PMC record absent; full text not retrieved.
+
+## ABSTRACT
+
+STATEMENT OF PROBLEM: Recent studies have reported a significant correlation between the implant restoration contour and marginal bone loss (MBL). However, studies evaluating the relationship between the contour of implant restoration and marginal bone loss in subcrestally placed implants are lacking.
+
+PURPOSE: The purpose of this retrospective study was to evaluate the relationship between the profile angle, measured from the implant platform and the adjacent crestal bone level as references, and the amount of MBL in subcrestally placed implants.
+
+MATERIAL AND METHODS: This retrospective study included 167 posterior single-tooth implant restorations with computer-aided design and computer-aided manufacturing (CAD-CAM) abutments by searching the electronic medical records of patients in regular maintenance. Among the 167 implants, 84 were placed more than 1 mm subcrestally in 76 patients, while 83 were placed equicrestally in 73 patients. The measurement of profile angles (PAs) was classified into 3 groups: EI Group: PA measured from the implant platform in equicrestally placed implants, SI Group: PA measured from the implant platform in subcrestally placed implants, and SB Group: PA measured from the adjacent bone crest in subcrestally placed implants. MBL changes were evaluated at different time points by measuring the distance between the implant shoulder and the first bone-to-implant contact. The Pearson correlation and linear regression analysis was used to evaluate the relationship between PA and marginal bone loss at different distance ranges. C-index analysis identified cut-off points of PA for 0 to 1, 1 to 2, and 2 to 3 mm distance ranges, and independent t tests evaluated statistical differences based on these cut-off points (alpha=.05 for all tests).
+
+RESULTS: EI and SB groups resulted in significant correlations between PA and MBL at 0 to 1 and 1 to 2 mm distance ranges (P<.05), but no significant correlation at 2 to 3 mm ranges (P>.05). In contrast, significant correlations were found between PA and MBL in the SI group at all distance ranges (0 to 1, 1 to 2, and 2 to 3 mm). In general, the SI groups showed smaller cut-off values than the EI or SB group at the corresponding distance ranges.
+
+CONCLUSIONS: In subcrestally or equicrestally placed posterior single-tooth implants, the profile angles within 2 mm from the bone crest significantly correlated with marginal bone loss. When the profile angles were measured from the implant platform as references, the profile angle measured 0 to 3 mm from the reference correlated with marginal bone loss in subcrestally placed implants.
+
+KEYWORDS: (not supplied in the PubMed record) dental implant, abutment configuration, profile angle, subcrestal placement, marginal bone loss.
+
+PUBLICATION TYPE: Journal Article
+AFFILIATIONS: Graduate student, Yonsei University College of Dentistry, Seoul, Republic of Korea (Nam); Department of Prosthodontics, Gangnam Severance Dental Hospital, Yonsei University College of Dentistry (Chang, Pyo, Kim).
+HISTORY: received 2024-08-14; revised 2025-01-09; accepted 2025-01-14; electronic publication 2025-02-03; print 2025-12.
