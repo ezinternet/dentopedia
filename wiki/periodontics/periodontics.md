@@ -2,7 +2,7 @@
 title: "치주치료 — periodontics"
 authors: navigation
 year: 2026
-date: 2026-11-22
+date: 2026-11-25
 doi: N/A
 source: navigation
 category: periodontics
@@ -16,21 +16,21 @@ tags: [navigation, category-index, periodontics]
 > - **분야**: 치주치료
 > - **범위**: Periodontal disease, classification, regeneration/root-coverage, SPT, periodontal-systemic links, general periodontics not covered by a subcategory.
 > - **하위 카테고리**: [[host-modulation]] · [[non-surgical-instrumentation]] · [[oral-hygiene-instruction]]
-> - **수록 논문**: 93편
+> - **수록 논문**: 95편
 
 ## Three-line Summary
 
 **Scope**: Periodontal disease, classification, regeneration/root-coverage, SPT, periodontal-systemic links, general periodontics not covered by a subcategory.
-**Indexed papers**: 93 papers in `wiki/periodontics/`.
+**Indexed papers**: 95 papers in `wiki/periodontics/`.
 **Sub-categories**: [[host-modulation]], [[non-surgical-instrumentation]], [[oral-hygiene-instruction]]
 
 ## 세줄요약
 
 **분야**: 치주치료
-**수록 논문**: 93편
+**수록 논문**: 95편
 **하위 카테고리**: host-modulation, non-surgical-instrumentation, oral-hygiene-instruction
 
-## Papers in this Category (93)
+## Papers in this Category (95)
 
 | Paper |
 |---|
@@ -86,7 +86,9 @@ tags: [navigation, category-index, periodontics]
 | [[jkda-2025-63-11-005|Evidence-based recommendations for periodontal treatment]] |
 | [[john-2017-network-meta-analysis-studies-included|Network Meta-Analysis of Studies Included in the Clinical Practice Guideline on the Nonsurgical Treatment of Chronic Periodontitis]] |
 | [[joseph-2024-systematic-review-meta-analysis-randomized|Systematic review and meta-analysis of randomized controlled trials evaluating the efficacy of non-surgical periodontal treatment in patients with concurrent systemic conditions]] |
+| [[jung-2012-the-clinical-effect-of-locally|The clinical effect of locally delivered minocycline in association with flap surgery for the treatment of chronic severe periodontitis: a split-mouth design]] |
 | [[jung-2019-periodontitis-spt-disease-progression-sr|Disease Progression in Periodontitis Patients After Treatment with Supportive Periodontal Therapy: A Systematic Review]] |
+| [[jung-2024-comparing-the-clinical-effects-of|Comparing the clinical effects of local administration of minocycline ointment and doxycycline solution in the treatment of acute periodontal abscesses: a retrospective clinical study]] |
 | [[kaner-2017-early-healing-events-after-periodontal|Early Healing Events after Periodontal Surgery: Observations on Soft Tissue Healing, Microcirculation, and Wound Fluid Cytokine Levels]] |
 | [[kolte-2019-gingival-angle-zenith-angle-thickness|Assessment and correlation of gingival angle, gingival zenith angle, and gingival thickness: a cross-sectional study]] |
 | [[kouhi-2024-calcium-phosphate-grafts-combined-with|Calcium Phosphate Grafts Combined With Guided Tissue Regeneration in the Treatment of Periodontal Bony Defects: A Systematic Review and Meta-Analysis]] |
