@@ -15,20 +15,20 @@ tags: [navigation, category-index, mbl]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·변연골소실
 > - **범위**: Marginal bone loss (MBL) / crestal bone loss — platform switching (PS vs PM), bone-level vs tissue-level MBL, implant-tooth proximity bone loss, emergence angle, inter-implant distance, risk-factor umbrella SRs
-> - **수록 논문**: 74편
+> - **수록 논문**: 76편
 
 ## Three-line Summary
 
 **Scope**: Marginal bone loss (MBL) / crestal bone loss — platform switching (PS vs PM), bone-level vs tissue-level MBL, implant-tooth proximity bone loss, emergence angle, inter-implant distance, risk-factor umbrella SRs
-**Indexed papers**: 74 papers in `wiki/implants/mbl/`.
+**Indexed papers**: 76 papers in `wiki/implants/mbl/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·변연골소실
-**수록 논문**: 74편
+**수록 논문**: 76편
 **하위 카테고리**: 없음
 
-## Papers in this Category (74)
+## Papers in this Category (76)
 
 | Paper |
 |---|
@@ -77,6 +77,8 @@ tags: [navigation, category-index, mbl]
 | [[ng-2018-implant-tooth-proximity-bone-loss|Peri-implant inflammation and marginal bone level changes around dental implants in relation to proximity with and bone level of adjacent teeth]] |
 | [[nunes-2025-final-prosthetic-abutment-insertion-time-oaot|Final prosthetic abutment insertion time and peri-implant bone changes: A systematic review and meta-analysis]] |
 | [[oh-2002-causes-early-implant-bone-loss|The causes of early implant bone loss: myth or science?]] |
+| [[perezsayans-2022-impact-abutment-geometry-early-marginal|Impact of abutment geometry on early implant marginal bone loss. A double-blind, randomized, 6-month clinical trial]] |
+| [[pico-2019-abutment-height-implant-depth-thin-mucosa|Influence of abutment height and implant depth position on interproximal peri-implant bone in sites with thin mucosa: A 1-year randomized clinical trial]] |
 | [[prati-2026-cover-screw-vs-healing-abutment-rct|Clinical Parameters of Implants with Cover Screw vs Healing Abutment: 6-Month RCT]] |
 | [[puisys-2015-influence-mucosal-tissue-thickening-crestal-bone|The influence of mucosal tissue thickening on crestal bone stability around bone-level implants. A prospective controlled clinical trial.]] |
 | [[raabe-2026-crestal-bone-loss-peri-implant|Crestal Bone Loss and Peri-Implant Conditions at Tissue-Level Implants: Influence of Prosthesis Type After 25 Years]] |
