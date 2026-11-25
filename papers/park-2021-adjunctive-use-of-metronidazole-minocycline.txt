@@ -1,0 +1,24 @@
+Title: Adjunctive use of metronidazole-minocycline ointment in the nonsurgical treatment of peri-implantitis: A multicenter randomized controlled trial.
+Authors: Park SH, Song YW, Cha JK, Lee JS, Kim YT, Shin HS, Lee DW, Lee JH, Kim CS
+Affiliations: Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry, Yonsei University, Seoul, Republic of Korea; Department of Periodontology, National Health Insurance Service Ilsan Hospital, Goyang, Republic of Korea; Department of Periodontology, Dankook University College of Dentistry, Cheonan-si, Republic of Korea; Department of Periodontology, Gangnam Severance Dental Hospital, College of Dentistry, Yonsei University, Seoul, Republic of Korea; MXBIO Corporation, Seoul, Republic of Korea.
+Journal: Clinical implant dentistry and related research (Clin Implant Dent Relat Res). 2021 Aug;23(4):543-554. Epub 2021-06-17.
+DOI: 10.1111/cid.13006
+PMID: 34139047
+Article types: Journal Article; Multicenter Study; Randomized Controlled Trial
+Keywords: metronidazole; minocycline; multicenter randomized controlled trial; nonsurgical therapy; peri-implantitis
+MeSH: Dental Implants; Humans; Metronidazole; Minocycline; Ointments; Peri-Implantitis; Periodontal Index
+Trial registration: cris.nih.go.kr KCT0004557
+Source: PubMed MCP get_article_metadata (abstract only; no PMC full text). Retrieved 2026-11-25.
+full_text: false — abstract-only, full text not retrieved
+
+ABSTRACT
+
+BACKGROUND: Clinical benefits of local antibiotics as an adjunct to nonsurgical treatment of peri-implantitis have been widely reported, but most studies evaluated incipient peri-implantitis lesions, and showed incomplete treatment success rates.
+
+PURPOSE: To assess the clinical and microbiological outcomes of administering metronidazole in combination with minocycline as a local adjunct to the nonsurgical treatment of peri-implantitis.
+
+MATERIALS AND METHODS: One hundred and eighteen subjects with peri-implantitis were recruited in a four-center, three-arm, and 12-week randomized controlled trial. Subjects were randomly assigned to receive one of the following treatments: (a) MM-mechanical debridement + metronidazole-minocycline ointment, (b) MC-mechanical debridement + minocycline ointment, (c) NST-mechanical debridement only.
+
+RESULTS: Except for four subjects who was excluded during the trial, a total of 114 patients with 114 implants (one implant per each patient) finally completed the trial and were included in the analyses. Multivariate logistic regression analysis revealed that the treatment success rates (absence of bleeding or suppuration on probing, and sites showing pocket probing depth [PPD] >=5 mm) on at 12 weeks were higher in MM-group patients (31.6%) and MC-group patients (20.5%) compared to NST-group patients (2.7%; p = 0.011 and 0.040, respectively). Subjects with deepest PPD >=8 mm showed a significant difference in the PPD reduction between MM and MC groups at week 4 (p = 0.025) and week 12 (p = 0.047). Detection ratio of Tannerella forsythia was significantly lower for MM group than MC group (p = 0.038).
+
+CONCLUSIONS: Additive use of either MM or MC results in significantly higher treatment success rates compared to sole mechanical debridement in nonsurgical treatment of peri-implantitis. Moreover, MM contributes to a significantly greater reduction in the PPD compared to MC in deep pockets (cris.nih.go.kr KCT0004557).
