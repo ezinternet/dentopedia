@@ -5749,3 +5749,11 @@ tags: []
 - [[occlusion/campino-2019-association-between-traumatic-occlusal-forces]] — Campiño 2019 · sr(14편 서술적, abstract-only, DOI 없음) · 교합 부조화–PD/CAL 연관은 유의하나 크기 미미, 교합 조정 효과 미미
 - [[immediate-implant/socket-shield/li-2026-short-term-pink-aesthetic-outcomes]] — Li 2026 · sr+ma(베이지안 NMA 21편, 1013개) · PES: SST·SST-GBR > IIP(MD 2.30·2.57), SST vs SST-GBR 차이 없음 — 소켓 실드에선 점프갭 이식 추가 이득 불명
 - [[overviews/periodontal-regeneration-gtr-emd-intrabony-overview]] — **종합** · GTR·EMD 골내결손 재생: 1년은 OFD 대비 확실(EMD CAL +1.14 mm), EMD+골이식은 CAL 무이득~미미(+0.05 ns / +0.33 mm, 방사선 충만만 +0.80 mm), ≥5년 GTR vs OFD 비유의(p=0.06) — '병용 > 단독'을 EMD 축에서 좁힘; HA·PRF는 EMD와 동등
+
+## Surveillance ingest (added 2026-11-25) — 국소 미노사이클린 연고 (미노클린·Periocline 계열) 6편
+- [[periodontics/non-surgical-instrumentation/choi-2021-clinical-and-microbiological-effects-of]] — 치주 유지관리(SPT) 1년 이상 환자 24명 파일럿 RCT: Periocline(2% 미노사이클린) 1회 적용 추가 효과 없음, 3개월 PPD 3.42 vs 3.36 mm·CAL 4.74 vs 4.65 mm·BoP 24.98 vs 23.71%(모두 군간 p>0.5), P. gingivalis·F. nucleatum 비율 변화 비유의적
+- [[periodontics/jung-2024-comparing-the-clinical-effects-of]] — 급성 치주농양 63명 후향 증례군(배농 후 생리식염수 vs 2% 미노사이클린 연고 vs 300 mg/mL 독시사이클린): 4주 농양측 PD 감소 1.09/1.88/2.88 mm, BOP 감소 45.00/73.02/95.45%; 환자선택 배정·4주 추적 한계
+- [[periodontics/jung-2012-the-clinical-effect-of-locally]] — 만성 중증 치주염 20명 분할구강 RCT(2012): 판막수술+미노사이클린 연고가 판막수술 단독 대비 6개월 PD 감소 3.34 vs 2.62 mm, BOP 감소 78.0 vs 50.3%, CAL 획득 1.88 vs 1.55 mm (초록만 확인)
+- [[implants/peri-implantitis/park-2021-adjunctive-use-of-metronidazole-minocycline]] — 4기관 3군 RCT (n=114, 12주): 변연청결 + 메트로니다졸-미노사이클린 연고 31.6%·미노사이클린 연고 20.5% vs 단독 2.7% 치료성공 (p=0.011/0.040); PPD ≥8 mm 심부낭에서만 병용이 미노사이클린 단독보다 PPD 감소 우세
+- [[implants/peri-implantitis/shibli-2026-systemic-and-local-antibiotics-in]] — 네트워크 메타분석 (NMA) 21편·임플란트 1,718개(초록만): 전신 메트로니다졸 + 아목시실린이 PPD·MBL에 최상위, 비외과는 메트로니다졸 단독 최상위, 국소제 중 미노사이클린 마이크로스피어·국소 AMX+MTZ 최상위; 국소는 전신보다 덜 효과적, 효과크기 미보고
+- [[periodontics/non-surgical-instrumentation/smiley-2015-systematic-review-and-meta-analysis]] — ADA 패널 SRP±보조요법 SR+MA (RCT 72편, 2014.7까지): SRP 단독 CAL 약 0.5 mm, 보조요법 추가 0.2–0.6 mm; 저용량 독시사이클린·전신항균제·CHX 칩·다이오드 PDT는 중등도 확실성, 미노사이클린 마이크로스피어는 낮은 확실성 (초록 전용)
