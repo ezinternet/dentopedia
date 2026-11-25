@@ -1,0 +1,22 @@
+TITLE: One abutment at one time: non-removal of an immediate abutment and its effect on bone healing around subcrestal tapered implants.
+AUTHORS: Degidi M, Nardi D, Piattelli A
+JOURNAL: Clinical Oral Implants Res (Clin Oral Implants Res) 2011 Nov;22(11):1303-1307
+ID[pubmed]: 21985288
+ID[doi]: 10.1111/j.1600-0501.2010.02111.x
+SOURCE: PubMed E-utilities (efetch), abstract-only — PMC record absent; full text not retrieved. Fetch-OA 2026-11-25: [MANUAL] paywall/OA 없음.
+
+## ABSTRACT
+
+OBJECTIVES: The aim of this prospective study was to assess the effects of abutment removal after 6 months on bone healing after the subcrestal placement of immediately restored, tapered implants in cases of partial posterior mandibular edentulism.
+
+MATERIAL AND METHODS: Each of the 24 patients with partial posterior mandibular edentulism was consecutively treated with two immediately restored 3.5 mm diameter tapered implants. A total of 48 implants were placed in healed sites and immediately splinted with a temporary restoration, which was placed in such a way as to avoid occlusal contact. Twenty-four weeks after surgery, 12 patients underwent the standard prosthetic protocol: the abutments were removed and impressions were made directly on the implant platform. Twelve patients underwent the "one abutment at one time" protocol: impressions were made of the abutments using snap-on abutment copies. The final restoration was delivered approximately 6 months after implant insertion. Vertical and horizontal bone changes were assessed using periapical radiographs immediately after surgery and at 6-, 12-, 24- and 36-month follow-up examinations.
+
+RESULTS: All implants osseointegrated and were clinically stable at the 6-month follow-up. No statistically significant difference was evidenced between the two groups regarding the measurement of vertical bone healing. A small but significant horizontal bone loss was evidenced in the hard tissue portion over the implant platform in the period of time between the 6-month and 1-year follow-up in the control group.
+
+CONCLUSIONS: The non-removal of an abutment placed at the time of surgery results in a statistically significant reduction of the horizontal bone remodeling around the immediately restored, subcrestally placed, tapered implant in cases of partial posterior mandibular edentulism.
+
+KEYWORDS: (not supplied in the PubMed record) dental implants, dental prosthesis design, immediate dental implant loading, bone remodeling, alveolar bone loss.
+
+PUBLICATION TYPE: Journal Article
+AFFILIATIONS: Dental School, University of Chieti-Pescara, Chieti, Italy (Degidi).
+HISTORY: electronic publication 2011-02-24; print 2011 Nov; PubMed indexed 2011-10-12.
