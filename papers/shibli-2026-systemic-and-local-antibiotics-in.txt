@@ -1,0 +1,22 @@
+TITLE: Systemic and local antibiotics in the management of peri-implantitis: A systematic review and network meta-analysis.
+AUTHORS: Shibli JA, Moraschini V, Cotrim KC, Barão VAR, Teughels W, Asbi T, Bueno DF, Sculean A, Souza JGS
+JOURNAL: Periodontology 2000 (Periodontol 2000)
+PUBLICATION DATE: 2026-04-16 (epub)
+DOI: 10.1111/prd.70029
+PMID: 41992777
+PMCID: none
+ARTICLE TYPES: Journal Article; Review
+KEYWORDS: amoxicillin; antibiotics; marginal bone loss; mechanical debridement; metronidazole; network meta-analysis; peri-implantitis; systematic review
+SOURCE: PubMed metadata via PubMed MCP get_article_metadata (2026-11-25). ABSTRACT ONLY — full text not retrieved (no PMC record).
+
+ABSTRACT
+
+BACKGROUND: Peri-implantitis is a biofilm-induced inflammatory condition with challenging management due to the complexity of implant surface topographies and the polymicrobial and well-structured profile of the biofilm colonizing these surfaces. Adjunctive use of antibiotics has been explored to enhance the outcomes of both surgical and non-surgical therapies, but its impact remains questionable.
+
+OBJECTIVE: To critically evaluate the clinical effects of systemic and local antibiotic therapies, combined with mechanical debridement (MD), in the surgical and non-surgical treatments for peri-implantitis.
+
+MATERIAL AND METHODS: Five databases and gray literature were systematically searched through March 2026. Twenty-one studies involving 1,718 implants were included. Pairwise and network meta-analyses were conducted using random-effects models to compare the efficacy of antibiotic regimens on clinical parameters, including probing pocket depth (PPD), clinical attachment level (CAL), bleeding on probing (BoP), plaque index (PLI), and marginal bone loss (MBL).
+
+RESULTS: Systemic metronidazole combined with amoxicillin was most effective in reducing PPD and MBL, especially when used in the surgical treatment of peri-implantitis. For non-surgical intervention, metronidazole demonstrated the most effective results, particularly for CAL and MBL. Minocycline microspheres and the combination of amoxicillin and metronidazole showed the best results among local therapies. Overall, antibiotics improved clinical parameters when compared to mechanical debridement alone, but with substantial microbiological variability depending on the delivery method and intervention type.
+
+CONCLUSION: The most effective treatments were metronidazole as adjunct to non-surgical treatment and combined with amoxicillin adjuncts to open flap debridement. While local antibiotic applications also enhance clinical parameters, they appear less effective than systemic regimens. Future well-designed clinical trials focusing on microbiological outcomes and standardized protocols are warranted to optimize periimplantitis management strategies.
