@@ -16,7 +16,7 @@ text_filename: park-2021-adjunctive-use-of-metronidazole-minocycline.txt
 tags: [peri-implantitis, minocycline, metronidazole, local-drug-delivery, local-antibiotics, nonsurgical-therapy, mechanical-debridement, multicenter-RCT, Korea, Tannerella-forsythia]
 relations:
   - type: reinforces
-    target: lu-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct
+    target: lee-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct
 ---
 
 abstract-only — full text not retrieved
@@ -69,7 +69,7 @@ Multicenter (4 centers), three-arm, parallel RCT with 12-week follow-up; 118 ran
 
 ## Related Papers
 
-- [[implants/peri-implantitis/lu-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct]] — later two-center Korean placebo-controlled RCT of 2% minocycline ointment; this trial's MC vs NST arm independently shows the same short-term adjunct benefit (`reinforces`).
+- [[implants/peri-implantitis/lee-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct]] — later two-center Korean placebo-controlled RCT of 2% minocycline ointment; this trial's MC vs NST arm independently shows the same short-term adjunct benefit (`reinforces`).
 - [[implants/peri-implantitis/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]] — 6-RCT SR+MA that includes this trial as "Park 2021a/2021b"; its local-antibiotic success RR 9.89 rests on this trial alone (constituent — no typed edge).
 - [[implants/peri-implantitis/liu-2026-efficacy-of-adjunctive-antibiotics-compared]] — 22-RCT SR+MA that includes this trial; modest pooled PPD gain, no bone-level benefit (constituent — no typed edge).
-- [[overviews/peri-implantitis-management-overview]] — non-surgical local-antibiotic adjunct section currently cites Lu 2026 only.
+- [[overviews/peri-implantitis-management-overview]] — non-surgical local-antibiotic adjunct section currently cites Lee 2026 only.
