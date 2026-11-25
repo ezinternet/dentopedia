@@ -1,0 +1,267 @@
+TITLE: Impact of abutment geometry on early implant marginal bone loss. A double‐blind, randomized, 6‐month clinical trial
+AUTHORS: Pérez‐Sayans Mario, Castelo‐Baz Pablo, Penarrocha‐Oltra David, Seijas‐Naya Flavio, Conde‐Amboage Mercedes, Somoza‐Martín José M.
+JOURNAL: Clinical Oral Implants Research
+ID[pmcid]: PMC9796139
+ID[pmcid-ver]: PMC9796139.1
+ID[pmcaid]: 9796139
+ID[pmcaiid]: 9796139
+ID[pmid]: 35869615
+ID[doi]: 10.1111/clr.13985
+ID[publisher-id]: CLR13985
+ID[other]: COIR-Feb-22-OR-9365.R1
+
+## ABSTRACT
+Abstract
+ObjectivesThe objective of this study was to analyze the impact of the abutment width on early marginal bone loss (MBL).
+Material and MethodsA balanced, randomized, double‐blind clinical trial with two parallel experimental arms was conducted without a control group. The arms were “cylindrical” abutment and “concave” abutment. Eighty hexagonal internal connection implants, each with a diameter of 4 × 10 mm, were placed in healed mature bone. The main variable was the peri‐implant tissue stability, which was measured as MBL at 8 weeks and 6 months.
+ResultsThe final sample consisted of 77 implants that were placed in 25 patients. 38 (49.4%) were placed using the cylindrical abutment, and the other 39 (50.6%) were placed using the concave abutment. The early global MBL of −0.6 ± 0.7 mm in the cylindrical abutment group was significantly higher than it was in the concave abutment group, in which the early global MBL was −0.4 ± 0.6 mm (p = .030). The estimated effect size (ES) was negative for the cylindrical abutment (ES = −1.3730, CI −2.5919 to −0.1327; t‐value = −2.4893; p = .0139), therefore implying a loss of mean bone level, and it was positive for the concave abutment (ES = 2.8231; CI: 1.4379 to 4.2083; t‐value = 4.0957; p = .0002), therefore implying an increase in the average bone level.
+ConclusionsThe concave abutments presented significantly less early MBL at 6 months post‐loading than classical cylindrical abutments did.
+
+## INTRODUCTION
+
+Modern dental implantology has evolved in a crucial way, leaving behind any concerns regarding osseointegration and the strength and esthetics of restorative materials. Nonetheless, the considerable number of dental implants that are being fitted worldwide is causing new problems, in particular with regards to peri‐implant diseases (PD) (Barootchi & Wang, 2021). In fact, long‐term preservation of healthy peri‐implant tissues that allow for functional and aesthetic aspects to be maintained is still one of the greatest challenges that is currently affecting this profession (Schwarz et al., 2021). Marginal bone loss (MBL) associated to implants and prosthetic restorations remains an issue that is proving difficult to control and especially difficult to prevent (Chambrone et al., 2018).
+
+Mattheos, Vergoullis, et al. (2021) recently introduced the concept of “implant supracrestal complex” (ISC) as a way of identifying the impact that design features have on both short‐term clinical outcomes and the long‐term health of the peri‐implant bone and soft tissues. They suggested that implant‐prosthesis‐abutment complex design features, such as the implant‐abutment design, the junction, and their location in relation to the ISC tissues, could have a significant impact on the long‐term maintenance of stable and healthy peri‐implant tissues (Mattheos, Janda, et al., 2021).
+
+The individual risk factors associated with MBL, such as tobacco consumption, poor plaque control, prior or current periodontal disease, endocrine‐metabolic factors (diabetes mellitus), or certain genetic polymorphisms, have all been assessed and studied, and a certain amount of evidence has already been drawn up (Schwarz et al., 2021). Nonetheless, there are still certain inconsistencies in the information provided on factors related to the implant itself, and, in particular those related to its intermediate prosthodontic components, and there is often deep gaps in the specific literature.
+
+Alongside the different techniques that are used to minimize or prevent MBL, a range of strategies have also been proposed, which include modifications to the drilling protocol (undersized drilling, osteocondensation [Stocchero et al., 2016]), platform switching (Atieh et al., 2010), immediate or early loading (Chen et al., 2019), and the intraoperative application of photobiomodulation (Bozkaya et al., 2021). However, despite their importance in terms of the mucointegration of peri‐implant tissues, other aspects related to prosthetic attachments have not been as widely studied. It has been found that by following the “one abutment‐one time” protocol, that is to say, by placing the definitive abutment at the time of surgery, and by choosing abutments that are more than 2 mm in height to facilitate fibrointegration, it is possible to improve the stability of the peri‐implant tissues and minimize MBL. However, very few studies have actually considered the effect that the shape of abutments, in terms of their horizontal diameter, has on MBL.
+
+The objective of this study was to analyze the impact of the abutment width on early MBL through a randomized clinical trial in which conventional cylindrical abutments were compared with concave abutments placed in the same surgical procedure.
+
+## METHODS
+
+### Trial design, participants, and setting
+
+This study was designed as a balanced, randomized, double‐blind clinical trial, which was conducted with two parallel experimental arms, without a control group. The participants were recruited solely from Spain. The trial was conducted from February 2020 to July 2021. The study protocol was registered in ClinicalTrials.gov, under the identifier: NCT03796494, and it was approved by the Regional Committee for Research Ethics (Ref. 2019/169).
+
+Patients who met the inclusion criteria were recruited by the Unit of Oral Medicine, Oral Surgery and Implantology of the University of Santiago de Compostela from February 2020 to April 2020. The patients were fully informed of the characteristics of the study and were invited to participate. A complete medical history was taken for each of the patients, and they also underwent a thorough oral examination and a cone beam tomography (CBCT)‐based radiology study (i‐CAT‐FLX).
+
+The tests were carried out in accordance with the criteria recommended in the CONSORT Guidelines. The selection criteria for this study were (1) patients without any systemic pathologies that could be considered as grounds for absolute contraindication; (2) adult patients who agreed to form part of the study and who signed the informed consent form; (3) patients who consumed less than five cigarettes/day; (4) patients who were not completely edentulous; (5) patients with a single/multiple tooth gap/s in the posterior maxillary or mandibular area that did not require the use of regenerative techniques; (6) patients with an area of healed mature bone at least 6 months post‐extraction; (7) implants with a minimum torque of 20 N to insert the abutment at one time; (8) patients with a sufficient amount of bone to place implants of 4 mm in diameter and 10 mm in length; and (9) edentulous areas with prosthetic space of at least 5 mm.
+
+Subjects were not included in the RCT if any of the following exclusion criteria were met: (1) patients lacking teeth in esthetic zones 13–23 and 33–43 (second and fifth sextants); (2) patients who smoked more than five cigarettes a day; (3) patients with a bleeding index that was >30%; (4) patients with <2 mm of keratinized gingiva, or patients who required soft tissue grafting; (5) any cases in which a safety margin of at least 1 mm from the inferior alveolar nerve could not be guaranteed; (6) patients with dental caries or periodontal disease; (7) pregnant or lactating women. In the case of patients who required multiple dental replacements, implants could be placed next to each other as long as they met the randomization criteria; and (8) implants with a primary stability of lower than 55 ISQ.
+
+### Interventions
+
+Patients were divided into two parallel experimental arms, and neither control nor placebo groups were established given that neither of the groups were considered superior. The arms were cylindrical abutment and concave abutment. For this specific 4 mm implant, the manufacturer's instructions were followed for the drilling protocol. This means, drilling up to a 3.6 mm drill only the most crestal 3 mm of the implant bed for type I (dense) bone, up to a 3.2 mm drill in type II and III (medium) bone, and up to a 2.8 mm drill for bones type IV (soft).
+
+#### Study products
+
+Eighty Hexagonal Internal Connection Implants (IPX Model, Nueva Galimplant) each with a diameter of 4 × 10 mm were placed in healed mature bone (more than 6 months post‐extraction), and 80 screw‐retained abutments, 40 cylindrical (Straight™) esthetic antirotational abutments (Nueva Galimplant), and 40 concave (Slim™) antirotational abutments (Nueva Galimplant), each of 2 or 3 mm in height were used (Figure 1)
+
+[FIGURE] Study design
+
+This implant model was manufactured in Ti‐IV, and it boasted a macroscopic design, which favors primary stability in any situation. The implant model had an internal 11° conical connection and a single prosthetic platform. Microscopically, it has a Nanoblastplus surface with an average roughness (Ra) of 1.7 μm and a composition of 99.9% TiO2. The implant reference was IPX 4010//Hexagonal IC post‐extraction implant Ø4 × 10 mm.
+
+#### Surgical procedures
+
+The implants were placed following the usual surgical technique for nonsubmerged implants with a mucoperiosteal flap. The implant bed drilling was performed according to the manufacturer's instructions. The implants were placed mechanically up to a maximum of 40 Ncm, and the implantation process was finished manually using a surgical torque wrench. It was determined that the implant was always to be placed 4 mm under the future gingival margin, and if possible, 1 mm below the residual alveolar crest.
+
+#### Abutment insertion
+
+According to the applicable randomization, as long as the bone and gingival availability allowed for this, 3 mm abutments were used, therefore allowing 4 mm for the biological width. If it was not possible to attain this measurement, lower abutments (2 mm) were used. All of the abutments were placed in a single surgical procedure for implant insertion following the “one‐abutment‐one‐time” philosophy in order to avoid any changes in hard and soft peri‐implant tissues (Becker et al., 2012). The abutment was placed at a minimum of 25 Ncm, and if the primary stability of the implant allowed it, the abutment was placed at 35 Ncm. A healing cap was inserted to protect the abutment until the final impression.
+
+#### Definitive prosthesis
+
+The impressions for the definitive prosthesis and its placement were taken 8 weeks after the surgical procedure had been performed. The metal‐porcelain prosthesis was screwed to the definitive abutment using a burnout cap and the torque used for the definitive prosthesis was 20 N.
+
+### Measurement and primary and secondary objectives
+
+The main variables were (1) peri‐implant tissue stability, measured as MBL using digital intraoral radiology (CS 7600, Carestream) at 8 weeks preloading and 6 months post‐loading (8 months after implantation); (2) primary and post‐prosthodontic stability of implants evaluated by means of resonance frequency analysis (RFA) quantified as the ISQ (Ostell); and the secondary variables were (1) demographic variables: age and sex; (2) habits: smoking and bruxism; (3) topographic variables: tooth position, premolar/molar, maxilla/mandible, and type of antagonist tooth; (4) periodontal clinical variables: (1) periodontal biotype/phenotype (thin or thick at the operator's discretion, following Müller and Eger‐s recommendations) (10); (2) bleeding index (Lindhe Index [LI‐s], which measures bleeding on four of the surfaces of all teeth present × 100); (3) O'Leary plaque index (four surfaces per tooth, number of total plaque surfaces/total surfaces × 100 of all of the teeth present through disclosure with erythrosine); (4) overall average probing depth (six surfaces per tooth, sum of the depth on all of the measured surfaces/number of measured surfaces); (5) vestibular gingival thickness (measured using a periodontal probe after folding the flap); and (6) abutment type (cylindrical or concave).
+
+All of the periodontal measurements were taken using a sterile oral mirror and a calibrated millimetre by millimetre periodontal probe from the University of North Carolina (UNC 15; Hu Friedy). The tissue stability evaluations, as well as the periodontal indexes, were performed 8 weeks after the implantation procedure, and 6 months (8 months after implantation) after the prosthetic loading procedure had taken place.
+
+All of the radiological images were taken using the same intrabuccal radiology device (X‐Mind AC Satelec, Acteon). This process was performed by the same operator using an XCP type intraoral X‐ray positioner p/4 (Bader).
+
+The images were captured using intraoral smart plates, and these images were visualized using digital software (Vistascan, Dürr). In order to calculate MBL, a calibration calculation based on the known diameter of the implant (4 mm) and/or the abutment height (2–3 mm) was performed first for each implant. The position of the implant neck in relation to the most coronal portion of the peri‐implantary bone crest was taken as a reference point for the implants that were placed subcrestally. MBL was calculated as the difference between the bone position values measured in two periods in the mesial and distal area of each implant (Figure 2).
+
+[FIGURE] Examples of cases from the study regarding the radiological evaluation of the MBL. (a) Baseline situation of two upper implants with cylindrical (#24) and concave (#25) abutments. (b) Radiological bone level at 8 weeks. (c) Clinical aspect of the crowns from the previous case at 6 months. (d) Graphical representation of the MBL calculation in a case with three lower implants (#34 cylindrical, #35 concave, #36 cylindrical). The blue line represents the baseline measurement at the neck of the implant and the red lines represent the gain or loss in the mesial and distal sites. (e) Radiological baseline situation of the implants in case D. (f) Radiological bone level at 6 months.
+
+The measurements were taken by two independent observers (FSN and MPS). The calibration was completed prior to the study in the Oral Surgery Unit using 15 patients who underwent treatment in this unit but who were not part of the study. The reliability of the measurements performed by the two examiners was evaluated using the k‐statistic in order to determine the probing depth and MBL, with values of 0.82 and 0.93 recorded, respectively, therefore demonstrating a high degree of reliability in terms of the measurements.
+
+### Sample size calculation
+
+For the “a priori” calculation of the sample size, the following statistical criteria were established based on previous studies (Galindo‐Moreno et al., 2015): an effect size (ES) on MBL of 0.5 mm, an alpha error of 0.05, and a statistical power of 90%. By assuming these criteria and applying the Student T contrast for independent samples, it was determined that a sample containing 40 implants would be required for each of the two groups, therefore meaning that a total of 80 implants would be required, with an estimated loss ratio of 15%. The sample size was calculated using the G Power 3.1.5 programme.
+
+### Randomization (random number generation, allocation concealment, and implementation)
+
+As patients were recruited prior to the surgical procedure, implants were randomized by means of simple randomization by location for the order of implant placement and by abutment type for each of said locations, using an SPSS 24.0 macro (Figure 3).
+
+[FIGURE] CONSORT 2010 flow diagram
+
+### Blinding
+
+This was a randomized, double‐blind clinical trial, in which the patients and the person analyzing the data were unaware of the group (type of abutment) which each subject had been assigned to.
+
+### Interim analysis
+
+An independent data monitoring board reviewed the efficacy and safety data periodically. A formal interim analysis of the efficacy of MBL was conducted once 50% of the anticipated number of study subjects and 50% of the overall follow‐up time had been accumulated. No trial correction was performed following these interim tests.
+
+### Statistical analysis
+
+The analysis carried out used the implant as the main unit of study. The categorical variables were expressed as frequency and percentage, and the continuous variables were expressed as mean ± SD. The samples were checked for normality using the Kolmogorov Smirnov Test. The independent‐sample t test was used to compare the means for different dichotomous variables, and the paired‐sample t test was used when comparing intragroup bone loss. The anova one‐way test was used to compare the means of the variables from more than two categories. Pearson's correlation coefficient was used to study bivariate correlations between the periodontal indices at different times. The statistical analysis was performed using IBM SPSS 24.0 software (IBM Inc.). Mixed linear regression models were constructed in order to determine the role of the abutment type and height on MBL. The effect of individual variations derived from the number of implants placed in each patient was balanced and weighted accordingly. To estimate both the fixed and random effects associated with a model, version 4.1.1 of the statistical software R was used. The significance level was established at p < .05.
+
+## RESULTS
+
+### Sample description
+
+Of the 80 initial implants, three were excluded from the study, two because they suffered osseointegration failure and one due to a fracture of the concave abutment. The final sample consisted of 77 implants that were placed in 25 patients (after applying the exclusion criteria only two patients only had one single implant), 10 men (40%) and 15 women (60%). 38 (49.4%) had their implants placed using the cylindrical abutment, and the other 39 (50.6%) had their implants placed using the concave abutment. The average age of the patients was 56.7 ± 10.9, with a range from 36.3 to 77.5 years. A summary of all the variables of the study can be seen in Tables 1, 2, 3.
+
+[TABLE] Descriptive data of categorical variables by the type of abutment
+Sex
+Male | 13 (48.1) | 14 (51.9) | .533
+Female | 25 (50) | 25 (50)
+Tooth
+Premolar | 10 (35.7) | 18 (64.3) | .058
+Molar | 28 (57.1) | 21 (42.9)
+Arch
+Maxilla | 9 (47.4) | 10 (52.6) | .526
+Mandible | 29 (50) | 29 (50)
+Smoking
+>5 cig/day | 1 (50) | 1 (50) | .998
+<5 cig/day | 8 (50) | 8 (50)
+No | 29 (49.2) | 30 (50.8)
+Periodontal biotype
+Thin | 5 (50) | 5 (50) | .615
+Thick | 33 (49.3) | 34 (50.7)
+Abutment height
+2 mm | 33 (50.8) | 32 (49.2) | .396
+3 mm | 5 (41.7) | 7 (58.3)
+Occlusion
+No occlusion | 6 (60) | 4 (40) | .746
+Natural | 21 (46.7) | 24 (53.3)
+Ceramic | 11 (50) | 11 (50)
+Parafunctional habits
+Yes | 7 (50) | 7 (50) | .595
+No | 31 (49.2) | 32 (50.8)
+Bone type
+Type I | 5 (50) | 5 (50) | .615
+Type II, III or IV | 33 (49.3) | 4 (50.7)
+Implant insertion torque
+<15 N | 3 (75) | 1 (25) | .573
+15–40 N | 15 (48.4) | 16 (51.6)
+>40 N | 20 (47.6) | 22 (52.4)
+Abutment insertion torque
+<15 N | 4 (66.7) | 2 (33.3) | .673
+15–40 N | 27 (48.2) | 29 (51.8)
+>40 N | 7 (46.7) | 8 (53.3)
+Mesial contact
+No contact | 3 (50) | 3 (50) | .827
+Tooth | 25 (47.2) | 28 (52.8)
+Implant | 10 (55.6) | 8 (44.4)
+Distal contact
+No contact | 11 (45.8) | 13 (54.2) | .569
+Tooth | 20 (55.6) | 16 (44.4)
+Implant | 7 (41.2) | 10 (58.8)
+
+[TABLE] Descriptive data of quantitative variables by type of abutment
+Age | 56.12 (10.77) | 57.26 (1.09) | .649
+Baseline bone level
+Mesial | 1.18 (0.99) | 0.92 (0.65) | .186
+Distal | 0.88 (1.04) | 0.55 (0.60) | .096
+Average | 1.03 (0.97) | 0.74 (0.55) | .111
+Bone level at 8 weeks preloading
+Mesial | 0.68 (0.77) | 0.71 (0.59) | .841
+Distal | 0.36 (0.73) | 0.40 (0.53) | .814
+Average | 0.52 (0.68) | 0.55 (0.49) | .808
+Bone level at 6 months post‐loading
+Mesial | 0.49 (0.51) | 0.71 (0.61) | .083
+Distal | 0.31 (0.61) | 0.40 (0.55) | .526
+Average | 0.40 (0.46) | 0.56 (0.51) | .166
+MBL at 8 weeks preloading
+Mesial | −0.50 (0.60) | −0.21 (0.41) | .017
+Distal | −0.51 (0.56) | −0.15 (0.36) | .001
+Average | −0.5 (0.51) | −0.18 (0.35) | .02
+MBL 6 months post‐loading
+Mesial | −0.18 (0.55) | 0.007 (0.43) | .89
+Distal | −0.52 (0.47) | −0.002 (0.3) | .02
+Average | −0.11 (0.46) | 0.002 (0.32) | .1
+Global MBL
+Mesial | −0.68 (0.81) | −0.2 (0.44) | .002
+Distal | −0.56 (0.76) | −0.15 (0.31) | .003
+Average | −0.62 (0.72) | −0.17 (0.32) | .001
+
+[TABLE] Linear mixed regression model for the marginal bone loss (MBL)
+Fixed effects: distal MBL |  |  |  |  | 
+Intercept straight group | −1.3623 | 0.6224 | −2.1888 | 0.0301 | (−2.5919, −0.1327)
+Time 8 weeks | −0.3312 | 0.0586 | −5.6552 | 0.0000 | (−2.5919, −0.1327)
+Time 6 months | −0.3584 | 0.0586 | −6.1209 | 0.0000 | (−0.4741, −0.2427)
+Slim group | 2.7993 | 0.8111 | 3.4513 | 0.0012 | (1.1694, 4.4292)
+Abutment height | 0.9872 | 0.2882 | 3.4248 | 0.0013 | (0.4079, 1.5665)
+Slim group interaction × abutment height | −1.3369 | 0.3716 | −3.5973 | 0.0007 | (−2.0838, −0.5901)
+Fixed effects: mesial MBL
+Intercept | −1.4896 | 0.6062 | −2.4574 | 0.0151 | (−2.6873, −0.2920)
+Time 8 weeks | −0.3519 | 0.0665 | −5.2952 | 0.0000 | (−0.4833, −0.2206)
+Time 6 months | −0.4402 | 0.0665 | −6.6239 | 0.0000 | (−0.5716, −0.3089)
+Slim group | 2.8566 | 0.7127 | 4.0083 | 0.0002 | (1.4244, 4.2888)
+Abutment height | 1.1943 | 0.2812 | 4.2474 | 0.0001 | (0.6292, 1.7593)
+Slim group interaction × abutment height | −1.3384 | 0.3263 | −4.1013 | 0.0002 | (−1.9942, −0.6826)
+Fixed effects: average MBL
+Intercept | −1.3730 | 0.5515 | −2.4893 | 0.0139 | (−2.4627, −0.2833)
+Time 8 weeks | −0.3415 | 0.0567 | −6.0272 | 0.0000 | (−0.4535, −0.2296)
+Time 6 months | −0.3993 | 0.0567 | −7.0470 | 0.0000 | (−0.5113, −0.2874)
+Slim group | 2.8231 | 0.6893 | 4.0957 | 0.0002 | (1.4379, 4.2083)
+Abutment height | 1.0633 | 0.2557 | 4.1579 | 0.0001 | (0.5494, 1.5772)
+Slim group interaction × abutment height | −1.3340 | 0.3158 | −4.2246 | 0.0001 | (−1.9685, −0.6994)
+
+### Periodontal indices
+
+In relation to the baseline periodontal indices, the bleeding index was 16.9 ± 11.5%, the mean plaque index was 12.3 ± 5.2%, and the overall mean probing depth was 3.9 ± 2.2 mm. The bleeding index at 8 weeks was 8.4 ± 8.8%, the mean plaque index was 29.5 ± 25.4%, and the overall mean probing depth was 3.4 ± 1.2 mm. No statistically significant differences were recorded.
+
+### Primary stability
+
+With regard to the RFA of the implants, the average was 69.1 ± 10.9 ISQ, with a range of 23–82.3 ISQ and no differences were observed when taking the abutment type into account. The abutments were bolted at an average of 71.3 ± 7 ISQ, with a range from 46–85 ISQ. No differences were found in terms of the main clinical variables, neither at the baseline nor at 8 weeks.
+
+### Baseline bone level
+
+Following the surgical protocol, the implants were placed subcrestally in order to ensure that there was sufficient room for the peri‐implant tissues, with an average of 0.9 ± 0.8 mm and a range from 0.3 to 4.5 mm. In the mesial area, the implants were placed in a more subcrestal position, at 1 ± 0.8 mm, compared to their positioning in the distal area, at 0.7 ± 0.9 mm (p = .002).
+
+### Mesial bone loss (MBL) at 8 weeks (preloading) and at 6 months (after‐loading)
+
+Mesial bone loss at 8 weeks was 0.4 ± 0.5 mm and distal bone loss was −0.3 ± 0.5 mm, and no statistically significant differences were recorded (p = .946). The average MBL for the preloading period was −0.3 ± 0.5 mm. Statistically significant differences were recorded when taking the abutment type into account, with this being −0.5 ± 0.5 for the cylindrical abutment, and −0.2 ± 0.4 mm for the concave abutment (p = .010). The MBL from loading at 6 months was statistically higher in the distal area, recorded as −0.1 ± 0.5 mm for the cylindrical abutment and 0 ± 0.3 mm for the concave abutment (p = .028). No differences were found in the average measurements (p = .109).
+
+### Global MBL at 6 months (after loading)
+
+The early global mesial bone loss at 6 months in relation to the baseline location was −0.4 ± 0.7 mm, with no differences regarding the distal bone loss of −0.3 ± 0.6 mm. The average bone loss in this period was −0.4 ± 0.6 mm. In this case, it was observed that the early global MBL of −0.6 ± 0.7 mm in the cylindrical abutment group was significantly higher than in the group in which the concave abutment was used, in which it was −0.4 ± 0.6 mm (p = .030). The mesial (p = .029) and distal (p = .004) MBLs were also higher in the cylindrical abutment group.
+
+### Adverse events
+
+Implant failure occurred in two cases (2.6%) and abutment fracture occurred in one case (0.8%). No other adverse events were recorded during the follow‐up period, that is, to say that no evidence of mucositis, loosening/mobility of the crown, or chipping of the ceramic restorations was recorded.
+
+### Regression analysis
+
+In the coefficients that were associated with the temporal evolution (at 8 weeks and at 6 months), it was observed that time had a negative impact resulting in a decrease in the average bone level, although this effect was much more pronounced at 8 weeks than at 6 months. Fixed at the initial instant, the estimated intercept ES was negative for the cylindrical abutment (ES = −1.3730, CI: −2.5919 to −0.1327; t‐value = −2.4893; p = .0139), implying a loss of mean bone level, while for the concave abutment it was positive (ES = 2.8231; CI: 1.4379 to 4.2083; t‐value = 4.0957; p = .0002), which implied an increase in the average bone level. For the cylindrical abutment, it was observed that the coefficient associated with the abutment height was positive (ES = 1.0633; CI: 0.5494 to 1.5772; t‐value = 4.1579; p = .0001), therefore implying that increasing the height of the abutment produced a higher average bone level. To the contrary, a negative coefficient was obtained for the concave abutment, which implied that by increasing the height of the abutment there was a reduction in the mean bone level (ES = −1.3340; CI: −1.9685 to −0.6994; t‐value = −4.2246; p = .0001). All of these results were verified separately for mesial and distal bone level.
+
+## DISCUSSION
+
+Early bone loss has been associated with longer term MBL (Galindo‐Moreno et al., 2015). For this reason, minimizing early MBL should be one of the objectives of all professionals who perform dental implant treatments given that this facilitates peri‐implant health maintenance. For a large part of dental implant history, the mechanisms behind early MBL have been barely understood. However, recent research has thrown light upon this topic, and clinicians are now aware of several local conditions among patients, implant system design characteristics, and technical (surgical/prosthetic) aspects that have an impact on early MBL (Oh et al., 2002) loss.
+
+A conical implant connection with platform switching seems to significantly reduce peri‐implant MBL loss (Caricasulo et al., 2018). To the contrary, thin soft tissues have been associated with increased early MBL loss (Canullo et al., 2017). Linkevicius et al. (2009) demonstrated that 2 mm of soft tissue thickness was the minimum thickness required to avoid peri‐implant MBL; however, subcrestal implant placement seems to reduce early bone loss especially around implants with thin mucosa (Linkevicius et al., 2020).
+
+In a retrospective study comprised of 308 dental implants, Galindo‐Moreno et al. (2014) found that abutment height could influence peri‐implant MBL. MBL was significantly superior for <2 than for ≥2 mm prosthetic abutment heights. Due to the retrospective nature of their study, these results might have been confounded by the thickness of the soft tissue. However, several randomized clinical trials have since confirmed that abutment height has a significant influence on early bone loss, irrespective of the thickness of the soft tissue, therefore meaning that abutments with a height of 1 mm should be avoided (Blanco et al., 2018; Borges et al., 2021; Pico et al., 2019).
+
+It has been demonstrated that preventing abutment disconnections and reconnections (one abutment—one time concept) benefits peri‐implant bone changes (Degidi et al., 2011, 2014). Moreover, the timing of the abutment insertion and the fact that it is no longer disconnected are other factors that seem to have an influence on MBL. Borges et al. (2021) compared this factor in a randomized prospective clinical trial with a sample size of 59 implants in 29 patients. A significantly lower MBL was detected when the abutment was installed immediately after implant placement (1 stage) than when the abutment was installed 2 months after the implant had been placed (2 stages). One of the common elements among the factors that significantly influence MBL is that the more the peri‐implant soft tissues are respected (by allowing them adequate space and reducing disturbances), the more the MBL is reduced. This coincides with the hypothesis of the belt‐like seal that peri‐implant connective tissues should ideally form around the implant (Rodríguez et al., 2016).
+
+With this in mind, it makes sense that in the present study concave implant abutments resulted in a significantly lower early MBL than conventional cylindrical abutments. As far as we know, only three randomized clinical trials have studied the effect of the macro design of the prosthetic abutment on MBL. The first two studies (Patil et al., 2014; Weinländer et al., 2011) compared a commercially available abutment to a cylindrical abutment (only cylindrical in the apical portion of the abutment). Despite the fact that this modification allowed more space for the soft tissues, it did not have a statistically significant effect on MBL. In the other clinical trial, two prosthetic abutments were designed specifically using CAD‐CAM, one of which was concave and the other convex (Koutouzis et al., 2019). Although the main aim of the study was to determine any changes in the peri‐implant marginal mucosa, MBL was also determined around those customized abutments. From the moment the abutments were placed to the first year, a loss of −0.66 ± 0.46 mm was registered for the convex abutment and −0.24 ± 0.25 mm for the concave abutment (p = .007), respectively. These results were similar to those of the present study in which significant differences were observed between the two designs. This might be explained by the narrowing along the entire prosthetic abutment, which leaves more space for soft tissues than other previously studied modified abutments.
+
+There are some indirectly related studies that address the shape of the transmucosal component and support the findings of this present study. Souza et al. (2018) evaluated the effect of the shape of the healing abutment in a preclinical study in which sixty‐two‐piece dental implants were placed in four beagle dogs. Two different abutment designs were analyzed; one with a wide emergence profile of 45°, and the other with a narrow emergence profile of 15°. In the micro‐CT analysis, MBL was higher in the case of the wide abutments (1.1 ± 0.66 mm) than in the case of the narrow abutments (0.12 ± 0.21 mm). In the histologic analysis, the peri‐implant histologic width was comparable, but there were statistically significant differences in terms of MBL. Similarly, Yi et al. (2020) observed that there was a significant correlation between the prosthetic emergence profile and MBL in a clinical study. A total of 349 implants were retrospectively analyzed, and the results showed that if the emergence profile was ≥30°, the prevalence of peri‐implantitis was greater. Majzoub et al. (2021) also analyzed this aspect retrospectively, and their results showed higher MBL in prosthetic emergence profiles that were >30° than in those that were ≤30° (2.33 ± 1.20 mm and 0.59 ± 0.71 mm, respectively). In a retrospective study, Katafuchi et al. (2018) divided a sample of 168 implants into tissue‐level and bone‐level groups. The prevalence of peri‐implantitis was significantly greater in the bone‐level group when the emergence profile was more than 30° than when the angle was ≤30° (31.3% versus 15.1%, p = .04).
+
+Bernabeu‐Mira et al. (2021) analyzed the influence of the abutment characteristics on MBL changes in immediate loading implant‐supported full‐arch fixed dental prostheses in a retrospective study with a 1‐year follow‐up. Considering only 3‐mm high abutments, significantly higher MBL was detected at 12 months in angulated abutments than in axial ones. Moreover, within angulated abutments, higher MBL was recorded in mesial than in distal sites. Both of these findings suggest that it is not height but shape (and thus the space allowed for peri‐implant soft tissues) that influence MBL.
+
+The main limitation of this study was the assessment time for the bone levels and the associated MBL, which was limited to 6 months. Therefore, it is worth noting that these results only make reference to early MBL. Another limitation was caused by the exclusion criteria, since the results for the anterior teeth in the esthetic sector were not verified in this study. Likewise, there are other possible factors related to MBL that may not have been determined in this study, such as the shape of the prosthesis and its emergence profile.
+
+## CONCLUSION
+
+The concave abutments present significantly less early MBL at 6 months post‐loading than classical cylindrical abutments. In relation to the height of the abutment, specific studies must be developed in order to evaluate its possible protective effects on MBL. These results must be taken into consideration when looking at early MBL and, likewise, they must be confirmed by a study with a longer follow‐up period.
+
+## AUTHOR CONTRIBUTIONS
+
+Mario Pérez Sayáns: Conceptualization (equal); data curation (equal); formal analysis (equal); funding acquisition (equal); investigation (equal); methodology (equal); project administration (equal); software (equal); supervision (equal); validation (equal); visualization (equal); writing – original draft (equal); writing – review and editing (equal). Pablo Castelo‐Baz: Conceptualization (equal); data curation (equal); investigation (equal); writing – original draft (equal); writing – review and editing (equal). David Peñarrocha Oltra: Formal analysis (equal); methodology (equal); writing – original draft (equal); writing – review and editing (equal). Flavio Seijas Naya: Data curation (equal); formal analysis (equal); investigation (equal); methodology (equal); writing – original draft (equal); writing – review and editing (equal). Mercedes Conde Amboage: Investigation (equal); methodology (equal); software (equal); writing – original draft (equal); writing – review and editing (equal). Manuel Somoza‐Martin: Conceptualization (equal); project administration (equal); supervision (equal); validation (equal); writing – original draft (equal); writing – review and editing (equal).
+
+## Funding information
+
+The study was supported by Nueva Galimplant and the University of Santiago de Compostela (Ref. USC‐2019‐CE178). The funding source played no role in the design of this study, the data collection and analyzes, the decision to publish, and the preparation of the manuscript. M. Conde‐Amboage acknowledge the financial support received through grant PID2020‐116587GB‐I00 funded by MCIN/AEI 10.13039/501100011033 and the European Union.
+
+## CONFLICT OF INTEREST
+
+Nothing to declare.
