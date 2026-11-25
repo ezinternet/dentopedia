@@ -50,6 +50,7 @@ relations:
 > - **신규 (2026-10 배치 A) — 보조 항생제, 근거끼리 갈린다**: Liu 2026 체계적 문헌고찰·메타분석 (Systematic Review and Meta-Analysis, SR+MA; RCT 22편)은 골 수준 (Bone Level, BL) 이득 없음(가중평균차 (Weighted Mean Difference, WMD) 0.03 mm)으로, Bai 2024 네트워크 메타분석의 "전신 항생제 + 기계적 제거 = 변연골 소실 (Marginal Bone Loss, MBL) 1위 (표준화평균차 (Standardized Mean Difference, SMD) 3.92)"와 모순된다. 척도(mm 대 SMD)·대조군·경로(국소+전신 통합)·외과/비외과 혼합·Bai 네트워크 비일관성이 차이를 설명할 후보이며 승자는 미정이다. 수술 후 아목시실린·메트로니다졸 RCT (Hakkers 2026, n=59)는 탐침 시 출혈 (Bleeding on Probing, BoP)만 줄였고 탐침 깊이 (Probing Pocket Depth, PPD)·MBL·해소율은 같았다. Riben 2026은 두 항생제 처방 모두 타액 미생물총을 8일째 교란하고 6개월에 회복함을 보였다. → **일상적 보조 전신 항생제 비권고; 이득은 단기·출혈 지표·표면 의존적.** [확인]
 > - **신규 — 재건·연조직·점막염**: 결합조직이식 (Connective Tissue Graft, CTG)을 GBR에 더하면 임상부착수준 (Clinical Attachment Level, CAL)·각화점막 (Keratinized Mucosa, KM)은 늘지만 해소율은 같다 (Holtzman 2026). 자가골 재건에 전해질 세정 (Electrolytic Cleaning, EC)을 더해도 임상 이득이 없다 (Puisys 2026, 초록만). 점막염 (Peri-implant Mucositis)은 구강위생교육 (Oral Hygiene Instructions, OHI) 단독 36–39% 해소, 전문가 기구치료를 더하면 56–67% (de Tapia 2026). 각화조직 <2 mm에서 유리구개이식 (Free Palatal Graft, FPG)은 BoP를 줄였다 (Aksu 2026, 준무작위·초록만). 비외과 에어폴리싱·Er:YAG 보조는 이득이 뚜렷하지 않았다 (Clementini 2026·Moreira 2025, 초록만). [확인]
 > - **신규 — 위험 평가**: 식립 시점 잔존 치주낭 (Residual Periodontal Pocket)이 이후 임플란트주위염과 같은 방향으로 연관됐다 (Ferrarotti 2026 SR, 코호트 4편, 임계값 없음). 지르코니아 임플란트 (Zirconia Implant) 유병률은 5년 초과 시 8%로, 티타늄과의 차이는 입증되지 않았다 (Moraschini 2026). 상세는 [[overviews/peri-implantitis-risk-assessment-overview]]. [확인]
+> - **신규 (2026-11-25) — 국소 미노사이클린 연고 (Minocycline Ointment) 근거 보강**: Park 2021 다기관 RCT(114명, 12주, 초록만)에서 변연청결 + 미노사이클린 연고 20.5%, + 메트로니다졸·미노사이클린 연고 31.6% vs 단독 2.7% 치료성공 — Lu 2026과 같은 방향의 두 번째 한국 RCT. Shibli 2026 네트워크 메타분석(21편, 초록만)은 전신 항생제를 국소보다 상위로 꼽아 Liu 2026과 상충(대체 판정 없음). 상세는 [[overviews/peri-implantitis-treatment-modalities-overview]].
 
 ## Three-line Summary
 
@@ -153,10 +154,11 @@ Surgical:
     Non-contained / horizontal loss → Resective or access surgery
     Surface decontamination: no single superior protocol; combine mechanical + chemical
     aPDT: low-certainty adjunct
-    Local antibiotic (2% minocycline ointment): adjunct to debridement reduces PD/BoP at 12 wk (Lu 2026 RCT)
+    Local antibiotic (2% minocycline ointment): adjunct to debridement reduces PD/BoP at 12 wk (Lu 2026 RCT);
+      success 20.5% (± metronidazole 31.6%) vs 2.7% debridement alone, extra MTZ benefit only at PPD ≥8 mm (Park 2021 RCT)
 ```
 
-**Non-surgical adjunct — local antibiotic:** Lu 2026 (multicenter single-blind RCT, n=46) found adjunctive subgingival **2% minocycline ointment** reduced probing depth and BoP at 12 weeks versus debridement alone in established peri-implantitis, with transient microbiologic benefit at 8 weeks but follow-up too short for radiographic/bone conclusions. This mirrors the mucositis evidence (adjuncts give modest short-term gains over a mechanical backbone) — local antibiotics are a reasonable non-surgical adjunct but do not replace PMPR or surgery for advanced defects. [근거중간]
+**Non-surgical adjunct — local antibiotic:** Lu 2026 (multicenter single-blind RCT, n=46) found adjunctive subgingival **2% minocycline ointment** reduced probing depth and BoP at 12 weeks versus debridement alone in established peri-implantitis, with transient microbiologic benefit at 8 weeks but follow-up too short for radiographic/bone conclusions. This mirrors the mucositis evidence (adjuncts give modest short-term gains over a mechanical backbone) — local antibiotics are a reasonable non-surgical adjunct but do not replace PMPR or surgery for advanced defects. [근거중간] Park 2021 (four-centre three-arm RCT, n=114, abstract-only; [[implants/peri-implantitis/park-2021-adjunctive-use-of-metronidazole-minocycline]]) points the same way: composite success 20.5% with minocycline ointment and 31.6% with metronidazole-minocycline ointment vs 2.7% with debridement alone at 12 weeks — but two-thirds of implants remained unresolved in the best arm. Shibli 2026 (network MA, abstract-only; [[implants/peri-implantitis/shibli-2026-systemic-and-local-antibiotics-in]]) ranks local agents below systemic regimens; see the treatment-modalities sub-overview for how this sits against Liu 2026.
 
 ---
 
@@ -223,6 +225,9 @@ Screw vs cement retention choice: clinically neutral on MBL — decide on retrie
 ## Related Papers
 
 ### 신규 추가 (2026-11)
+
+- [[implants/peri-implantitis/park-2021-adjunctive-use-of-metronidazole-minocycline]] — 4기관 3군 RCT (n=114, 12주, 초록만): 변연청결 + 메트로니다졸·미노사이클린 연고 31.6%·미노사이클린 연고 20.5% vs 단독 2.7% 치료성공; 병용 추가 이득은 PPD ≥8 mm에서만
+- [[implants/peri-implantitis/shibli-2026-systemic-and-local-antibiotics-in]] — NMA 21편·임플란트 1,718개 (초록만): 전신 MTZ+AMX가 PPD·MBL 최상위, 국소제 중 미노사이클린 마이크로스피어 최상위, 국소 < 전신; Liu 2026과 상충
 
 - [[implants/peri-implantitis/mercado-2026-surgical-therapy-for-peri-implantitis]] — 전향 단일군 코호트 30명 10년: EDTA+DBBMC+EMD+독시사이클린 재건술 + 4–6개월 SPIT — 생존 96.6%, PD 8.90→3.06 mm, 골소실 57→12.9%, 복합 성공 58.6%(17/29), 재발 화농 12개
 
