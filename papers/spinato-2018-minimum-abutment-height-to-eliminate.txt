@@ -1,0 +1,16 @@
+TITLE: Minimum Abutment Height to Eliminate Bone Loss: Influence of Implant Neck Design and Platform Switching.
+JOURNAL: Int J Oral Maxillofac Implants. 2018 March/April;33(2):405-411.
+DOI: 10.11607/jomi.5604
+PMID: 28817742
+AUTHORS: Spinato S, Galindo-Moreno P, Bernardello F, Zaffe D.
+SOURCE: PubMed E-utilities efetch abstract (no PMC full text; abstract-only)
+
+## ABSTRACT
+
+PURPOSE: This retrospective study quantitatively analyzed the minimum prosthetic abutment height to eliminate bone loss after 4.7-mm-diameter implant placement in maxillary bone and how grafting techniques can affect the marginal bone loss in implants placed in maxillary areas.
+
+MATERIALS AND METHODS: Two different implant types with a similar neck design were singularly placed in two groups of patients: the test group, with platform-switched implants, and the control group, with conventional (non-platform-switched) implants. Patients requiring bone augmentation underwent unilateral sinus augmentation using a transcrestal technique with mineralized xenograft. Radiographs were taken immediately after implant placement, after delivery of the prosthetic restoration, and after 12 months of loading.
+
+RESULTS: The average mesial and distal marginal bone loss of the control group (25 patients) was significantly more than twice that of the test group (26 patients), while their average abutment height was similar. Linear regression analysis highlighted a statistically significant inverse relationship between marginal bone loss and abutment height in both groups; however, the intercept of the regression line, both mesially and distally, was 50% lower for the test group than for the control group. The marginal bone loss was annulled with an abutment height of 2.5 mm for the test group and 3.0 mm for the control group. No statistically significant differences were found regarding marginal bone loss of implants placed in native maxillary bone compared with those placed in the grafted areas.
+
+CONCLUSION: The results suggest that the shorter the abutment height, the greater the marginal bone loss in cement-retained prostheses. Abutment height showed a greater influence in platform-switched than in non-platform-switched implants on the limitation of marginal bone loss.
