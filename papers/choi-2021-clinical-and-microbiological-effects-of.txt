@@ -1,0 +1,136 @@
+TITLE: Clinical and microbiological effects of adjunctive local delivery of minocycline (Periocline®) in patients receiving supportive periodontal therapy: a pilot study
+AUTHORS: Choi EunHa, Um Heung-Sik, Chang Beom-Seok, Lee Si Young, Lee Jae-Kwan
+JOURNAL: Journal of Periodontal & Implant Science
+ID[pmcid]: PMC7920842
+ID[pmcid-ver]: PMC7920842.1
+ID[pmcaid]: 7920842
+ID[pmcaiid]: 7920842
+ID[pmid]: 33634615
+ID[doi]: 10.5051/jpis.2002720136
+
+## ABSTRACT
+PurposeThis study aimed to evaluate the clinical and microbiological efficacy of adjunctive local delivery of minocycline (Periocline®) in patients receiving supportive periodontal therapy (SPT) after initial treatment.
+MethodsThe participants were 16 men and 8 women (age, 20–65 years) who had at least 15 natural teeth, underwent SPT for more than 1 year due to chronic periodontitis, had 4 or more periodontal pocket sites deeper than 5 mm, and showed >25% gingival bleeding on probing (BoP). They were randomly assigned to the test and control groups. In the test group, mechanical debridement and local antibiotic delivery were performed for all periodontal sulci/pockets; in the control group, mechanical debridement and saline irrigation were performed. In patients who underwent SPT for more than 1 year, clinical and microbiological examinations were performed at baseline and 1 and 3 months after SPT. The clinical examination included an assessment of the periodontal pocket depth, clinical attachment level, plaque index, and BoP. Microbial tests were performed using real-time polymerase chain reaction; the relative ratios of Porphyromonas gingivalis and Fusobacterium nucleatum were determined.
+ResultsBoth groups showed significant improvements in clinical parameters at 1 and 3 months from baseline; there were no significant changes between months 1 and 3. Intergroup differences were insignificant. The microbiological analysis revealed no significant differences in P. gingivalis and F. nucleatum ratios across time points. While intergroup differences were insignificant, there was a tendency for the P. gingivalis and F. nucleatum ratios to decrease in the test group.
+ConclusionsMechanical debridement in patients receiving maintenance therapy resulted in clinically significant improvement; the effectiveness of additional local delivery of antibiotics was not significant. The ratios of P. gingivalis and F. nucleatum showed a tendency to decrease in the test group, although it was not significant.
+
+## INTRODUCTION
+
+It is well established that chronic periodontitis is caused by pathogenic microorganisms in contact with periodontal tissues. Mechanical debridement (e.g., scaling and root planing; SRP) is an effective method for reducing this bacterial colonization to sub-threshold values and controlling the progression of periodontitis [1]. However, in some cases, mechanical debridement is insufficient for resolving periodontal infection and eliminating pathogens because of limited access to deep periodontal pockets or furcations [2]. To overcome these limitations, various adjunctive therapies have been proposed, and several antimicrobial agents are used to promote the healing process and improve periodontal health. The use of systemic or local antimicrobial agents may help eliminate pathogens [3], because some bacterial species can invade epithelial cells and the subepithelial connective tissue of the periodontium [4]. In some clinical studies, systemically administered antibiotic concentrates in the gingival crevicular fluid have been reported to reduce the subgingival microbial load and to have a beneficial effect on chronic inflammatory periodontal disease [56]. However, there are concerns about the routine use of systemic antibiotics because of adverse effects and the emergence of resistant microorganisms. In contrast, locally delivered antibiotics have advantages such as a site-specific action, a minimal systemic load, improved patient compliance, and an enhanced pharmacokinetic response [7].
+
+As a semi-synthetic derivative of tetracycline, minocycline has a wide spectrum of action against anaerobic and aerobic bacteria [8]. A sustained-action formulation of minocycline, as a 2% ointment, has been investigated for subgingival use [9]. Several studies have demonstrated that subgingival application of minocycline ointment as an adjunct to SRP is safe and effective in reducing periodontal pathogens, and the resultant clinical outcomes are better than those achieved with SRP alone [101112].
+
+Since some disease progression is possible even with appropriate periodontal treatment, periodic recall visits are necessary for maintenance care to minimize recurrence after the initial active periodontal therapy [13]. Supportive periodontal therapy (SPT) includes procedures such as re-examination, supragingival/subgingival debridement, and repeatedly emphasizing self-performed oral hygiene procedures. In this process, the additional use of adjunctive, locally delivered antibiotics to alter the microbial profile and suppress recolonization by pathogenic bacteria is expected to improve healing and inhibit the recurrence of inflammation. Several studies have evaluated locally delivered antibiotics with initial periodontal therapy. However, to our knowledge, limited information is available on the effects of locally delivered antibiotics with SPT on the subgingival microbiota and clinical conditions. Hence, the primary purpose of this study was to evaluate the short-term (1–3 months) clinical effects of locally delivered, controlled-release minocycline as an adjunct to mechanical debridement during periodic SPT, and the secondary aim was to assess the effects of these treatments on Porphyromonas gingivalis and Fusobacterium nucleatum via a microbiological analysis.
+
+## MATERIALS AND METHODS
+
+### Study population
+
+Twenty-four participants (16 men and 8 women; age, 20–65 years) who had at least 15 natural teeth, underwent SPT for more than 1 year due to chronic periodontitis, had 4 or more periodontal pocket sites deeper than 5 mm, and showed more than 25% gingival bleeding on probing (BoP) were enrolled in this study. Patients were excluded if they had a systemic disease (e.g., uncontrolled diabetes) or dental caries; had used antibiotics within the 3 months preceding the investigation; or were pregnant, breast-feeding, heavy smokers, or allergic to minocycline hydrochloride.
+
+### Institutional review
+
+This study was conducted at the Department of Periodontics at Gangneung-Wonju National University Dental Hospital from April 2018 to October 2018. It was approved by the Institutional Review Board of Gangneung-Wonju National University Dental Hospital (IRB 2017-020) and conformed to the ethical principles for medical research involving human subjects according to the World Medical Association Declaration of Helsinki. Patients' written informed consent was obtained before the start of the study. All clinical parameters were assessed by only 1 investigator to calibrate the measurements for the parameters.
+
+### Treatment regimen
+
+The patients were divided randomly into the test group (SPT and adjunctive 2% minocycline ointment application, n=12) and control group (SPT only, n=12). For SPT, a clinical examination and subgingival debridement were performed for the entire dentition. In the test group, a microcapsule gel containing 2% minocycline HCl (Periocline®, Sunstar, Osaka, Japan), which was commercially packed (0.5 g) to achieve a dose of 20 mg of minocycline HCl per subject, was applied directly into periodontal pockets after subgingival debridement. In the control group, saline was irrigated directly into the periodontal pockets after subgingival debridement. Periocline® application or saline irrigation was performed once at baseline. Clinical parameters were assessed and a microbiological examination was performed at baseline and 1 and 3 months after mechanical debridement.
+
+### Clinical procedures and microbial sampling
+
+At baseline, a full-mouth examination was performed, and periodontal probing depth (PPD), clinical attachment level (CAL), gingival BoP, and plaque index (PI) were recorded. The periodontal examination for both the control and test groups was performed by a single clinician. Subgingival plaque samples were then collected from 4 teeth with pockets having a depth of 5 mm or more. Sterile paper strips (Periopaper™, Oraflow, Smithtown, NY, USA) were inserted into the depth of the pockets, removed after 15 seconds, and immediately placed in Eppendorf tubes containing sterile distilled water [1415]. Four paper strips from each subject were pooled in Eppendorf tubes for the microbial analysis. The bacterial cells were dispersed by vortexing at the highest setting for 20 seconds, and the paper strips were removed from the tubes. The tubes were stored at −70°C until laboratory processing.
+
+A clinician conducted the supragingival/subgingival debridement in both groups. Minocycline was then administered into the periodontal pockets/sulci for the entire dentition in the test group. The patients were instructed to avoid brushing, flossing, rinsing with mouthwash, or eating for at least 2 hours immediately following treatment administration. To minimize the effects of other variables, the patients were provided with the same toothpaste and toothbrushes for use during the experiment period. The patients were re-examined 1 and 3 months after the treatment. A clinical examination and microbiological sampling were performed at baseline and the 1- and 3-month recall. The study design is shown in Figure 1.
+
+[FIGURE] Study design and the number of patients examined at each time point.PPD: periodontal probing depth, CAL: clinical attachment level, BoP: bleeding on probing, PI; plaque index.
+
+### Clinical parameter measurements
+
+PPD, assessed by 1 examiner, was measured from the gingival margin to the base of the periodontal pocket at 6 sites per tooth. The examiner also measured the distance from a specific reference point (the cemento-enamel junction or the margin of a restoration) to the gingival margin; this distance plus the PPD was defined as the CAL. CAL was not measured in patients with gingival enlargement due to an unclear reference point. Measurements for the entire dentition were obtained using a manual periodontal probe (Marquis Probe, Hu-Friedy, Chicago, IL, USA).
+
+Following the PPD and CAL measurements on each arch, bleeding was recorded at 2 sites per tooth (buccal/lingual) as 0 if no bleeding occurred and 1 if bleeding occurred. The PI, as defined by Löe and Silness, was measured using a probe passed along the cervical area of the tooth surface. The score was recorded as 0 if no plaque attached to the probe, 1 if only a thin plaque layer was detectable by scraping with a probe, 2 if a moderately thick plaque layer was detected along the gingival margin, and 3 if abundant plaque was detected along the gingival margin.
+
+### Microbiological examinations
+
+For the relative quantification of periodontitis-associated microorganisms, including P. gingivalis and F. nucleatum, in the total number of bacterial cells of the subgingival biofilm, TaqMan real-time polymerase chain reaction (PCR) was performed. Bacterial genomic DNA was extracted from each sample using the G-Spin™ kit (iNtRON Biotechnology, Seongnam, Korea) according to the manufacturer’s protocol. All samples were run in duplicate in 96-well plates by using the StepOnePlus™ system (Applied Biosystems, Foster City, CA, USA). For real-time PCR amplification, 20 µL of a mixture containing 1 µL of DNA template, 2 µL of a bacterium-specific primer pair, 1 µL of a bacterium-specific probe, and 10 µL of TOPreal™ qPCR 2X Pre MIX, RT600S (Enzynomics, Daejeon, Korea) were added to a tube with 6 µL of distilled water. The amplification cycling conditions were 50°C for 2 minutes, 95°C for 10 minutes, and then 60 cycles of 15 seconds at 95°C and 1 minute at 58°C. Primer pairs and TaqMan probes for specific bacteria (Table 1) were used to qualify each bacterium. The sequence and PCR procedures have been previously described in detail by Lyons et al. [16] and Kato et al. [17]. For the relative quantification, the copy numbers of pathogenic bacterial genes were standardized to the copy number of the 16S rRNA genes by using the simplified comparative threshold cycle (∆Ct) method reported by Yoshida et al. [18].
+
+[TABLE] Primers and probes used for real-time polymerase chain reaction
+Primers | 
+ | Pg1198-F | 5′-TACCCATCGTCGCCTTGGT-3′
+ | Pg1323-R | 5′-CGGACTAAAACCGCATACACTTG-3′
+ | Fn619-F | 5′-CGCAGAAGGTGAAAGTCCTGTAT-3′
+ | Fn719-R | 5′-TGGTCCTCACTGATTCACACAGA-3′
+ | Uni152-F | 5′-CGCTAGTAATCGTGGATCAGAATG-3′
+ | Uni220-R | 5′-TGTGACGGGCGGTGTGTA-3′
+Probes | 
+ | Pg1238T | 5′-FAM-GCTAATGGGACGCATGCCTATCTTACAGCT-TAMRA-3′
+ | Fn663T | 5′-FAM-ACTTTGCTCCCAAGTAACATGGAACACGAG-TAMRA-3′
+ | Uni177T | 5′-FAM-CACGGTGAATACGTTCCCGGGC-TAMRA-3′
+
+### Statistical analysis
+
+Data were analyzed with SPSS version 21.0 (IBM Corp., Armonk, NY, USA). Limited statistical analyses were performed because this study was designed as a pilot study. The Friedman test was conducted to assess the significance of the change over time, followed by a post hoc analysis. The Wilcoxon test with the Bonferroni correction was used for each paired group. The level of significance was set at P<0.017. Furthermore, the Mann-Whitney test was performed for the pairwise comparison of 2 time points within each group. Data are presented as mean±standard deviation. The level of significance was set at P<0.05.
+
+## RESULTS
+
+### Clinical evaluation
+
+Two patients (control group) dropped out at the 1- and 3-month checks. Thus, 12 and 10 patients in the test and control groups, respectively, were analyzed. Table 2 shows the demographic variables and clinical parameters of the patients at baseline for both groups. The intergroup differences were not significant.
+
+[TABLE] Demographic variables and clinical parameters of the patients at baseline
+Control group | 52±9.4 | 10 (7/3) | 3.55±0.28 | 5.26±0.67 | 3.54±0.33 | 41.03±14.80
+Test group | 54±10.6 | 12 (8/4) | 3.35±0.44 | 4.85±1.22 | 3.53±0.40 | 43.38±28.26
+
+### Clinical parameter analysis
+
+Table 3 shows mean PPD and CAL values, as well as the BoP scores, for the entire dentition at baseline and 1 and 3 months. Clinically, the mean PPD at 1 month showed a significant reduction from 3.55±0.28 mm and 3.35±0.44 mm to 3.37±0.17 mm and 3.27±0.42 mm (P<0.05); however, a slight increase in PPD was observed at 3 months (3.42±0.18 mm and 3.36±0.36 mm) compared to the corresponding values at 1 month in both groups. Furthermore, the CAL value significantly improved at 1 and 3 months compared to the corresponding baseline values in both groups (P<0.05). Intergroup differences were not significant. The proportion of BoP significantly decreased at 1 and 3 months compared to the corresponding baseline values in both groups (P<0.001); there was no significant difference in the values between months 1 and 3 (P>0.05).
+
+[TABLE] PPD, CAL, and BoP scores for the entire dentition at baseline and 1 and 3 months
+PPD (mm) |  |  | 
+ | Baseline | 3.55±0.28a) | 3.35±0.44a) | 0.235
+ | 1 month | 3.37±0.17b) | 3.27±0.42b) | 0.476
+ | 3 months | 3.42±0.18a) | 3.36±0.36a) | 0.685
+CAL (mm) |  |  | 
+ | Baseline | 5.26±0.67a) | 4.85±1.22a) | 0.355
+ | 1 month | 4.89±0.66b) | 4.70±1.11b) | 0.641
+ | 3 months | 4.74±0.55b) | 4.65±1.03b) | 0.810
+BoP (%) |  |  | 
+ | Baseline | 41.03±14.80a) | 43.38±28.26a) | 0.816
+ | 1 month | 25.17±7.84b) | 30.42±22.25b) | 0.458
+ | 3 months | 24.98±9.04b) | 23.71±12.69b) | 0.794
+
+While the proportion of sites with PPD ≥5 mm significantly decreased at 1 and 3 months from baseline in both groups (P<0.05), the intergroup differences were not significant. Furthermore, we analyzed the proportion of sites with BoP and PPD ≥5 mm and found that the number of these sites (BoP positive + PPD ≥5 mm) significantly decreased at 1 and 3 months from baseline (P<0.05). There was no significant change in the proportion of PPD ≥5 mm or the proportion of BoP at PPD ≥5 mm sites between 1 and 3 months. No significant differences were observed between the 2 groups (Table 4).
+
+[TABLE] Proportion of sites with PPD ≥5 mm and BoP scores of sites with PPD ≥5 mm at baseline, 1 month, and 3 months
+PPD ≥5 mm (%) |  |  | 
+ | Baseline | 12.03±9.19a) | 9.18±7.28a) | 0.427
+ | 1 month | 6.60±3.61b) | 7.46±8.31b) | 0.762
+ | 3 months | 6.76±4.98b) | 8.10±8.03b) | 0.651
+PPD ≥5 mm with BoP (%) |  |  | 
+ | Baseline | 51.33±14.21a) | 35.77±21.88a) | 0.068
+ | 1 month | 30.40±9.97b) | 31.00±20.36b) | 0.933
+ | 3 months | 31.51±14.38b) | 27.69±13.81b) | 0.534
+
+### Microbiological analysis
+
+Figures 2 and 3 show the mean ratios of P. gingivalis and F. nucleatum, respectively, in the subgingival biofilm in each group at baseline and months 1 and 3. At baseline, the mean percentages of P. gingivalis and F. nucleatum to total bacteria were 0.01%±0.02% and 0.15%±0.15% in the test group, respectively, while the corresponding values in the control group were 0.01%±0.01% and 0.19%±0.17%. Intergroup differences in the values were not significant. Compared to baseline, at 1 month, the ratios of P. gingivalis and F. nucleatum tended to increase in the control group and decrease in the test group; however, there was no significant difference between the groups (P>0.05).
+
+[FIGURE] The mean ratio of Porphyromonas gingivalis was not significantly different across time points. At 1 month, the ratio tended to increase in the control group and decrease in the test group compared to baseline (P>0.05).
+
+[FIGURE] The mean ratio of Fusobacterium nucleatum was not significantly different across time points. At 1 month, the ratio tended to increase in the control group and decrease in the test group compared to baseline (P>0.05).
+
+## DISCUSSION
+
+In this study, we evaluated the clinical and microbiological efficacy of adjunctive local delivery of minocycline (Periocline®) in patients receiving SPT after the initial treatment. We noted improvements in all clinical parameters (PPD, CAL, BoP, PPD ≥5 mm sites, and PPD ≥5 mm + BoP-positive sites) at 1 month after SPT regardless of the use of adjunctive minocycline. At 3 months after SPT, there was a significant difference from baseline in CAL, BoP, PPD ≥5 mm site, and PPD ≥5 mm + BoP-positive sites. Between 1 and 3 months, PPD slightly increased and CAL and BoP tended to decrease; however, these effects were not significant in either group. From a microbiological perspective, the ratio of P. gingivalis and F. nucleatum to total bacteria was not statistically significantly different after SPT. However, at 1 month, there was a tendency for the ratio of P. gingivalis and F. nucleatum to decrease in the test group and to increase in the control group.
+
+Numerous studies have demonstrated the efficacy of locally delivered antibiotics with non-surgical periodontal therapy, reporting clinically and microbiologically promising results [8192021]. A meta-analysis by Matesanz-Pѐrez et al. [22] showed significant improvement in both PPD (0.40 mm) and CAL (0.31 mm) with subgingival adjunctive use of antimicrobials with SRP. In a 6-month controlled clinical trial, Soeroso et al. [8] evaluated the efficacy of minocycline HCl 2% gel when used as an adjunct to SRP in subjects with moderate to severe periodontitis. The changes (from 2 to 6 months) in the counts of red complex periodontal bacteria (P. gingivalis, Treponema denticola, and Tannerella forsythia) in the adjunctive antimicrobial group were significantly lower than those in the SRP-only group.
+
+In contrast with previous studies, this study enrolled patients who received periodic SPT for 1 year or more after the active periodontal treatment. Therefore, the patients were expected to have a relatively stable bacterial ecology, with resolution of active inflammatory conditions. Hence, most clinical parameters improved at 1 and 3 months after SPT, with no significant difference between the groups.
+
+The PPD and deep periodontal pocket site ratio slightly increased from month 1 to 3 (P>0.05). It may be possible that PPD further increased due to inflammatory soft-tissue swelling for 1 to 3 months after SPT. In this respect, periodic SPT may be beneficial to reduce the re-activation of inflammation at 3 months, which could serve as a reference point for determining patients' recall period. This interval is also supported by the literature [23], which recommends a recall interval of 3 to 4 months in patients who are reasonably maintained for 1 year or more but display issues such as remaining pockets or more than 20% BoP.
+
+Deep periodontal pockets remaining after initial active periodontal therapy may cause recurrent periodontal disease due to limitations of mechanical debridement and act as a reservoir of pathogenic bacteria in SPT-phase patients. Therefore, the change in the deep pocket ratio was analyzed, and just as for other clinical parameters, the percentages of PPD ≥5 mm and PPD ≥5 mm + BoP-positive sites decreased significantly at 1 and 3 months from baseline, and there was no significant difference between the 2 groups. These results are similar to those reported by Timmerman et al. [9], which failed to demonstrate beneficial clinical effects of repeated intermittent application of a 2% minocycline gel. One explanation for these outcomes may be that the effect of mechanical debridement was too obvious, and thus, the impact of the additional antibiotic application was masked. On the contrary, in a 3-year follow-up study in which the effect of locally delivered controlled-release doxycycline as an adjunct to SPT was evaluated, Bogren et al. [7] reported improvements in clinical outcomes in the short term (3 months). However, the study concluded that enhancement was not maintained at the 1-year follow-up examination, which indicates that a single application of local antibiotics has a limited effect.
+
+In microbiological analyses, the total amount of bacteria collected from biofilm samples can range widely due to errors in the sampling process or gene amplification process [16]. Considering this viewpoint, in this study, we considered relative quantification rather than counting the absolute numbers of a target species in a mixed sample. Nakagawa et al. [24] reported that when minocycline ointment was applied site-specifically to SRP in recurrent periodontitis, there was a significant decrease in P. gingivalis and Prevotella intermedia after 4 weeks and a further increase after 12 weeks. Bogren et al. [7] also showed that F. periodonticum, P. nigrescens, and P. gingivalis were present at significantly lower levels in the SPT and adjunctive local doxycycline application group than in the SPT-only group during a long-term (2 years) follow-up. In our study, the average ratios of P. gingivalis and F. nucleatum slightly decreased after 1 month in the test group, whereas those in the control group tended to increase (P>0.05). This tendency could be interpreted as indicating the effect of the adjunctive antimicrobial in reducing the proportion of pathogenic bacteria, and this favorable result might be improved through subsequent increases in samples. The primary limitations of this study are the small number of samples and the short observation period. Studies investigating larger populations with a longer follow-up period may confirm the trends observed in this study.
+
+In conclusion, mechanical debridement in SPT resulted in significant improvements in all clinical parameters (PPD, CAL, BoP, PPD ≥5 mm sites, and PPD ≥5 mm + BoP-positive sites), which were observed 1 month after SPT with or without local delivery of minocycline. In general, most of the effects persisted 3 months after SPT, and there was no significant difference between the groups. Furthermore, the results of the microbiological analysis showed a tendency for the ratio of P. gingivalis and F. nucleatum to decrease in the test group and to increase in the control group, although this trend was not significant.
