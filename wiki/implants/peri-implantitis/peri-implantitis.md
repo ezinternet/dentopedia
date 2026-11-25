@@ -15,20 +15,20 @@ tags: [navigation, category-index, peri-implantitis]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·주위염
 > - **범위**: Peri-implantitis prevalence, risk factors, non-surgical/surgical treatment, surface decontamination, GBR for peri-implant defects
-> - **수록 논문**: 103편
+> - **수록 논문**: 105편
 
 ## Three-line Summary
 
 **Scope**: Peri-implantitis prevalence, risk factors, non-surgical/surgical treatment, surface decontamination, GBR for peri-implant defects
-**Indexed papers**: 103 papers in `wiki/implants/peri-implantitis/`.
+**Indexed papers**: 105 papers in `wiki/implants/peri-implantitis/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·주위염
-**수록 논문**: 103편
+**수록 논문**: 105편
 **하위 카테고리**: 없음
 
-## Papers in this Category (103)
+## Papers in this Category (105)
 
 | Paper |
 |---|
@@ -84,6 +84,8 @@ tags: [navigation, category-index, peri-implantitis]
 | [[kim-2025-toothpick-method-cibotium-peri-implant-mucositis-rct|Effects of oral hygiene management containing Cibotium Barometz J. Smith extract on peri-implant mucositis: a randomized clinical trial]] |
 | [[kim-2026-implant-angulation-peri-implant-bone|The Effect of Implant Angulation and Clinical Risk Factors on Peri-implant Bone Changes: A 5-Year Retrospective Study]] |
 | [[kotsakis-2025-microbial-dysbiosis-titanium-release-peri-implantitis|Microbial Dysbiosis, Titanium Release, and Peri-implantitis]] |
+| [[krebs-2024-influence-of-repeated-implant|Influence of repeated implant-abutment manipulation on the prevalence of peri-implant diseases in complete arch restorations. A retrospective analysis]] |
+| [[laleman-2023-implant-connection-and-abutment|Implant connection and abutment selection as a predisposing and/or precipitating factor for peri-implant diseases: A review]] |
 | [[lanzetti-2024-full-arch-prostheses-supportive-peri-implant-care|How often should implant-supported full-arch dental prostheses be removed for supportive peri-implant care to maintain peri-implant health? A systematic review]] |
 | [[lee-2025-self-powered-oxygen-microbubble|Self-Powered Oxygen Microbubble Generator for Decontamination of Anaerobic Biofilm-Fouled Bioimplants]] |
 | [[lee-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct|Adjunctive Use of Locally Delivered 2% Minocycline in the Nonsurgical Treatment of Peri-Implantitis: A Multicenter Randomized Placebo-Controlled Trial]] |
