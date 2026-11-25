@@ -2,7 +2,7 @@
 title: "임플란트·연조직 — soft-tissue"
 authors: navigation
 year: 2026
-date: 2026-11-21
+date: 2026-11-25
 doi: N/A
 source: navigation
 category: implants/soft-tissue
@@ -15,20 +15,20 @@ tags: [navigation, category-index, soft-tissue]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·연조직
 > - **범위**: Peri-implant soft tissue augmentation — keratinized mucosa (KM) width/thickness, buccal dehiscence (PSTD), soft tissue substitutes (xenogeneic collagen matrix vs autograft FGG/CTG), second-stage surgery, vestibuloplasty
-> - **수록 논문**: 49편
+> - **수록 논문**: 51편
 
 ## Three-line Summary
 
 **Scope**: Peri-implant soft tissue augmentation — keratinized mucosa (KM) width/thickness, buccal dehiscence (PSTD), soft tissue substitutes (xenogeneic collagen matrix vs autograft FGG/CTG), second-stage surgery, vestibuloplasty
-**Indexed papers**: 49 papers in `wiki/implants/soft-tissue/`.
+**Indexed papers**: 51 papers in `wiki/implants/soft-tissue/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·연조직
-**수록 논문**: 49편
+**수록 논문**: 51편
 **하위 카테고리**: 없음
 
-## Papers in this Category (49)
+## Papers in this Category (51)
 
 | Paper |
 |---|
@@ -56,11 +56,13 @@ tags: [navigation, category-index, soft-tissue]
 | [[kim-2015-hard-soft-tissue-esthetic-zone|Hard and soft tissue management in esthetic zone: A Case Report]] |
 | [[le-2022-aesthetic-contour-graft-peri-implant|The Aesthetic Contour Graft - Enhancing peri-implant soft tissue contours and pontic sites with guided bone regeneration]] |
 | [[lee-2025-emergence-angle-soft-hard-tissue-splinted-implants|The Effect of Restorative Emergence Angle on Soft and Hard Tissue Around Splinted Implants: A Preclinical Study]] |
+| [[linkevicius-2015-effect-zirconia-titanium-abutment-material|The effect of zirconia or titanium as abutment material on soft peri-implant tissues: a systematic review and meta-analysis]] |
 | [[misch-2025-abutment-height-emergence-angle-peri-implant-bone-loss|Combined Effect of Abutment Height and Restoration Emergence Angle on Peri-Implant Bone Loss Progression: A Retrospective Analysis]] |
 | [[montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr|Efficacy of soft tissue substitutes, in comparison with autogenous grafts, in surgical procedures aiming to increase the peri-implant keratinized mucosa: A systematic review]] |
 | [[nart-2025-soft-tissue-augmentation-pstd-sr-ma|Impact of soft tissue augmentation procedures on esthetics and patient satisfaction in the treatment of peri-implant buccal soft tissue dehiscences: A systematic review and meta-analysis]] |
 | [[oh-2024-keratinized-mucosa-augmentation-functioning-implants-sr-ma|Therapeutic effectiveness of keratinized mucosa augmentation for functioning dental implants: A systematic review and meta-analysis]] |
 | [[prpic-2026-emergence-angle-profile-implant-restorations-scoping|Emergence Angle and Emergence Profile in Implant-Supported Restorations: A Scoping Review]] |
+| [[puisys-2015-use-acellular-dermal-matrix-membrane|The use of acellular dermal matrix membrane for vertical soft tissue augmentation during submerged implant placement: a case series.]] |
 | [[raghoebar-2021-profilometric-mucosa-soft-tissue-augmentation-esthetic-sr-ma|Linear and profilometric changes of the mucosa following soft tissue augmentation in the zone of aesthetic priority: A systematic review and meta-analysis]] |
 | [[rios-osorio-2025-xcm-vs-ctg-fgg-implant-soft-tissue-sr-ma|Comparative outcomes of xenogeneic collagen matrices and autogenous graft-based techniques to increase mucosal thickness and keratinised mucosa width at implant sites: are autologous grafts still the gold standard? A systematic review and meta-analysis of randomised clinical trials]] |
 | [[sanz-2022-keratinized-mucosa-around-implants-consensus|Importance of keratinized mucosa around dental implants: Consensus report of group 1 of the DGI/SEPA/Osteology Workshop]] |
