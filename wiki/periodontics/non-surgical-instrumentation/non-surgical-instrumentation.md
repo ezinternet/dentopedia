@@ -15,26 +15,27 @@ tags: [navigation, category-index, non-surgical-instrumentation]
 > [!summary] 한국어 핵심요약
 > - **분야**: 치주치료·비외과적기구처치
 > - **범위**: Professional non-surgical periodontal instrumentation — scaling & root planing (SRP), guided biofilm therapy (GBT), air-polishing, hand vs ultrasonic/piezoelectric scaling & instrument biomechanics/ergonomics, subgingival irrigation/reinstrumentation, SRP treatment guidelines
-> - **수록 논문**: 40편
+> - **수록 논문**: 42편
 
 ## Three-line Summary
 
 **Scope**: Professional non-surgical periodontal instrumentation — scaling & root planing (SRP), guided biofilm therapy (GBT), air-polishing, hand vs ultrasonic/piezoelectric scaling & instrument biomechanics/ergonomics, subgingival irrigation/reinstrumentation, SRP treatment guidelines
-**Indexed papers**: 40 papers in `wiki/periodontics/non-surgical-instrumentation/`.
+**Indexed papers**: 42 papers in `wiki/periodontics/non-surgical-instrumentation/`.
 
 ## 세줄요약
 
 **분야**: 치주치료·비외과적기구처치
-**수록 논문**: 40편
+**수록 논문**: 42편
 **하위 카테고리**: 없음
 
-## Papers in this Category (40)
+## Papers in this Category (42)
 
 | Paper |
 |---|
 | [[annisa-2023-chx-gel-chip-srp-sr-ma|Effectiveness of chlorhexidine gels and chips in Periodontitis Patients after Scaling and Root Planing: a systematic review and Meta-analysis]] |
 | [[arnett-2023-effect-of-scaling-and-root|Effect of scaling and root planing with and without minocycline HCl microspheres on periodontal pathogens and clinical outcomes: A randomized clinical trial]] |
 | [[barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct|Clinical and radiographic evaluation of non-surgical therapy with and without ozone gel application in controlled type 2 diabetic patients with periodontitis: a randomized controlled clinical trial]] |
+| [[choi-2021-clinical-and-microbiological-effects-of|Clinical and microbiological effects of adjunctive local delivery of minocycline (Periocline®) in patients receiving supportive periodontal therapy: a pilot study]] |
 | [[cyris-2024-guided-biofilm-therapy-versus-conventional|Guided biofilm therapy versus conventional protocol—clinical outcomes in non-surgical periodontal therapy]] |
 | [[dang-2024-effect-novel-ergonomic-sheath-dental|Effect of a Novel Ergonomic Sheath on Dental Device-Related Muscle Work, Fatigue and Comfort-A Pilot Clinical Study.]] |
 | [[dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma|Efficacy of subgingival irrigation with chemical agents as adjuvants to non-surgical periodontal therapy: a systematic review and meta-analysis]] |
@@ -63,6 +64,7 @@ tags: [navigation, category-index, non-surgical-instrumentation]
 | [[sesha-2026-systemic-antibiotics-as-adjuncts-in|Systemic Antibiotics as Adjuncts in Periodontal Therapy for Stage III and Stage IV Periodontitis: An Umbrella Review Aligned with the 2018 World Workshop Classification, with AMSTAR-2 Critical Appraisal]] |
 | [[sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis|Injectable platelet-rich fibrin with vitamin C as an adjunct to non-surgical periodontal therapy in the treatment of stage-II periodontitis: a randomized controlled clinical trial]] |
 | [[smiley-2015-nonsurgical-periodontitis-srp-guideline|Evidence-based guideline: nonsurgical treatment of chronic periodontitis by SRP ± adjuncts]] |
+| [[smiley-2015-systematic-review-and-meta-analysis|Systematic review and meta-analysis on the nonsurgical treatment of chronic periodontitis by means of scaling and root planing with or without adjuncts]] |
 | [[soysa-2025-the-long-term-efficacy-of|The long-term efficacy of tetracycline class antimicrobials as local adjuncts in the treatment of chronic periodontitis: a systematic review and meta-analysis]] |
 | [[stutzer-2024-vitro-measurement-forces-during|In-Vitro Measurement of Forces During Debridement with a Piezoelectric Ultrasonic Periodontal Scaler.]] |
 | [[tomasi-2022-randomized-multi-centre-study-effectiveness|A randomized multi-centre study on the effectiveness of non-surgical periodontal therapy in general practice.]] |
