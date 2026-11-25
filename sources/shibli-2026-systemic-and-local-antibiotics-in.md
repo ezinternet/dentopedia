@@ -15,7 +15,7 @@ text_filename: shibli-2026-systemic-and-local-antibiotics-in.txt
 > abstract-only — full text not retrieved (no PMC record; this page is built from the PubMed abstract only, so no effect sizes, SUCRA values, CIs or study-design breakdown are available).
 
 ## Why Ingested
-Ingested on request as part of a batch on evidence relevant to a local 2% minocycline HCl ointment product (Minoclin), because this network meta-analysis ranks local minocycline (as microspheres) among the best local antibiotic adjuncts while concluding that local antibiotics are less effective than systemic regimens. It bears directly on the conflict already recorded between [[implants/peri-implantitis/liu-2026-efficacy-of-adjunctive-antibiotics-compared]] (no bone-level benefit; local ≈ systemic for PPD) and [[implants/peri-implantitis/bai-2024-seven-nonsurgical-methods-peri-implantitis-network]] (systemic antibiotics rank first for marginal bone loss), and sits beside the local-minocycline RCT [[implants/peri-implantitis/lu-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct]] and the earlier route comparison in [[implants/peri-implantitis/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]].
+Ingested on request as part of a batch on evidence relevant to a local 2% minocycline HCl ointment product (Minoclin), because this network meta-analysis ranks local minocycline (as microspheres) among the best local antibiotic adjuncts while concluding that local antibiotics are less effective than systemic regimens. It bears directly on the conflict already recorded between [[implants/peri-implantitis/liu-2026-efficacy-of-adjunctive-antibiotics-compared]] (no bone-level benefit; local ≈ systemic for PPD) and [[implants/peri-implantitis/bai-2024-seven-nonsurgical-methods-peri-implantitis-network]] (systemic antibiotics rank first for marginal bone loss), and sits beside the local-minocycline RCT [[implants/peri-implantitis/lee-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct]] and the earlier route comparison in [[implants/peri-implantitis/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]].
 
 ## Three-line Summary
 Systematic review with pairwise and network meta-analysis (five databases plus gray literature to March 2026; 21 studies, 1,718 implants; random-effects) of systemic and local antibiotics added to mechanical debridement in surgical and non-surgical peri-implantitis treatment, on PPD, CAL, BoP, PLI and MBL.
@@ -77,7 +77,7 @@ abstract-only — full text not retrieved; the abstract gives rankings and direc
 - Grusovin 2022 (SR+MA, 6 RCTs, non-surgical): systemic PPD gain larger than local — consistent on route.
 - Antonoglou 2025 (SR+MA, surgical): short-term success and 0.37 mm bone gain with systemic antibiotics — consistent with the surgical-setting signal here.
 - Hakkers 2026 (RCT, surgical): amoxicillin + metronidazole reduced only BoP; no MBL or PPD benefit.
-- Lu 2026 (RCT): 2% minocycline HCl ointment reduced PD and BoP at 12 weeks versus placebo.
+- Lee 2026 (RCT): 2% minocycline HCl ointment reduced PD and BoP at 12 weeks versus placebo.
 - Herrera 2023 (EFP S3 guideline): recommends against routine systemic antibiotics.
 
 ## 7. Glossary
