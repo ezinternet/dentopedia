@@ -233,6 +233,11 @@ tags: []
 - [[implants/mbl/linkevicius-2015-vertical-soft-tissue-thickness-crestal-bone-platform-switching]] — 플랫폼 스위칭 임플란트 80개 비교: 점막 ≤2mm군 1년 변연골소실 1.17mm vs >2mm군 0.21mm(p<0.001), 얇은 점막에서는 스위칭도 골소실을 막지 못함(초록 전용)
 - [[implants/kim-2026-directional-prosthesis-implant-geometry-eccentric-load-fea]] — 유한요소분석(FEA) 17개 기하 배치에서 30° 편심 하중 시 골-임플란트 계면 응력 중심 487 MPa(중심하중 108 MPa); 최취약방향 PIAAR은 편심 증폭과 양의 관련(ρ=0.63, p=0.007), 방향성 분산은 음의 관련(ρ=−0.61, p=0.009) — 접근공 중심성만으로는 불충분
 - [[implants/mbl/linkevicius-2020-submerged-healing-abutment-subcrestal-soft-tissue]] — 얇은 연조직(≤2 mm) 32명·골수준 PS 임플란트 40개 2년 RCT: 1.5 mm 골하방 식립 골능 소실 0.18 ± 0.32 mm vs 골정상 텐팅 0.51 ± 0.4 mm(P=.001); 텐팅은 연조직 두께 1.85→3.65 mm로 증가(P=.005)
+- [[implants/mbl/galindomoreno-2014-prosthetic-abutment-height-is-a]] — Galindo-Moreno 2014 (J Dent Res) · retrospective (131명/315개, 상악 구치부 내부 원뿔 연결): 하중 후 6·18개월 변연골소실 (MBL)은 2 mm 미만 지대주에서 더 크고 치주염·이식골·흡연도 유의 인자; 첫 6개월 골소실이 이후 12개월보다 큼 (초록 전용, 효과크기 수치 없음)
+- [[implants/mbl/linkevicius-2009-reaction-crestal-bone-around-implants]] — 전향적 연구(환자 26명·임플란트 64개): 약 2 mm 치조정 상방 식립에서 점막 두께별 1년 골소실 1.35/0.32/0.12 mm(얇음 ≤2 mm·보통·두꺼움 ≥3.1 mm, F[2,29]=37.3, P=.000), 골수준 식립은 1.8/1.62/1.55 mm로 두께 효과 없음(F[2,29]=0.73, P=.503) — 초록만 확보
+- [[implants/mbl/linkevicius-2009-influence-soft-tissue-thickness-crestal-bone]] — 전향적 대조 시험(19명·46개): 얇은 점막 상방 식립군 근심 1.61 +/- 0.24 mm·원심 1.28 +/- 0.167 mm vs 두꺼운 점막 0.26·0.09 mm, 골수준 대조군 1.8·1.87 mm (초록만, 원문 수치 내부 불일치 표기)
+- [[implants/mbl/linkevicius-2015-radiological-comparison-laser-microtextured-platform-switched]] — 얇은 점막(≤2 mm) 30명에서 레이저 미세조직화(30개) vs 플랫폼 스위칭(30개) 비교: 2개월 0.71 vs 1.02 mm(p=0.001), 장착 시 1.10 vs 1.37 mm(p=0.001), 1년 1.41 vs 1.43 mm(p=0.976) — 레이저 이득은 부하 전에만, 두 전략 모두 골소실 미해결
+- [[implants/mbl/puisys-2015-influence-mucosal-tissue-thickening-crestal-bone]] — 전향적 대조시험(97명, 골수준 4.1 mm 임플란트): 1년 변연골 소실 얇은 점막(T1) 근심 1.22±0.08·원심 1.14±0.07 mm vs 동종이식막 두껍게(T2) 0.24±0.06·0.19±0.06 mm vs 두꺼운 점막(C) 0.22±0.06·0.20±0.06 mm(T1-T2·T1-C 유의 P=0.000, T2-C 비유의) — 초록만 확보
 
 ## 임플란트 — 표면처리·골유착 심화 (Osseointegration Theory)
 - [[implants/albrektsson-1981-osseointegrated-titanium-implants-requirements]] — 랜드마크(1981): 골유착을 직접 골-임플란트 접촉으로 정의(최초 인체 TEM)+6대 전제(재료·디자인·표면·골상태·술식·부하조건)
@@ -1281,6 +1286,7 @@ tags: []
 - [[prosthetic-materials/ban-2021-classification-properties-dental-zirconia-implant]] — Ban 2021 · narrative-review · 치과 지르코니아 12종 분류(이트리아×단/다색×균질/하이브리드×단/다층): ATZ 고정체 적합, 거울연마 지르코니아 세균 부착 최소
 - [[prosthetic-materials/aboushelib-2026-translucent-zirconia-monolithic-mechanical-performance]] — Aboushelib 2026 · in-vitro · 3Y-PSZ vs 4Y-PSZ 굴곡강도(n=160, 속성소결·표면처리): 속성 소결 3Y-PSZ 무영향·4Y-PSZ 강도↓; 연삭 양쪽 모두 강도↓; 피로 후 3Y 안정·4Y 감소
 - [[prosthetic-materials/leung-2022-update-on-dental-luting]] — Leung 2022 · narrative-review · luting 재료 7종(ZOE·인산아연·폴리카르복실레이트·GIC·RMGIC·CaAl/GI·레진시멘트)을 화학·결합기전·적응증 3축으로 분류한 기반 reference; "이상적 단일 시멘트는 없다"
+- [[prosthetic-materials/vindasiute-2015-clinical-factors-influencing-removal-cement-excess]] — 임플란트 65개 시멘트 잔여물: 위치는 유의하지 않고(p>0.05), 언더컷 1→3 mm에서 연조직 3.5→4.8%·보철물 5.4→8.4%(p=0.004/0.046), 직경은 연조직만 유의(p=0.026; 보철물 p=0.600) — 시멘트유지 시 언더컷 최소화 (초록만)
 - [[prosthetic-materials/mikulas-2025-digital-impression-accuracy-peri-implant-emergence-profile-sr]] — Mikulás 2025 · sr · 임플란트주위 emergence profile 캡처는 간접 스캐닝(provisional 추출 후 합성)이 가장 정확, 직접 스캐닝은 연조직 붕괴로 부정확
 - [[prosthetic-materials/abutment-screw/kim-2019-astra-implant-dissection-solutions]] — Astra screw loosening prevention: abutment-fixture interface stability, proper abutment selection, standardized torque protocol (35 Ncm), controlled force loading; many complications preventable through surgical-prosthetic integration
 - [[prosthetic-materials/abutment-screw/nithyapriya-2018-factors-loss-preload-dental-implants]] — 문헌리뷰(MEDLINE 84→36편): 임플란트 나사 preload loss 유발인자 총정리 — 나사 재질(gold>Ti-alloy>Ti)·연결부(internal>external hex)·torque값·10분 후 retorque·윤활·settling effect·abutment collar length (2018)
@@ -5736,6 +5742,8 @@ tags: []
 - [[implants/cooper-2021-abutment-interfaces-anterior-single-implants-5year-rct]] — Cooper 2021 · rct(141명, 5년, abstract-only) · 원뿔 MBL −0.16 vs 평면 −0.92 vs PS −0.81 mm(P<.0005)이나 점막 정점 변화는 전 군 미미(P>.60) (DOI 10.11607/jomi.8333)
 - [[immediate-implant/esthetic-soft-tissue/wittneben-2013-dynamic-compression-technique-soft-tissue-conditioning]] — Wittneben 2013 · case-report(술식, abstract-only) · 동적 압박 술식: 임시수복으로 점막 정점·유두·삼각 윤곽을 인접치와 조화 (DOI 10.11607/prd.1268)
 - [[implants/soft-tissue/benli-2026-platform-switching-esthetic-outcomes-sr]] — Benli 2026 · sr(24편, abstract-only) · 플랫폼 스위칭이 PES·유두·점막 정점 변화 개선 보고 — 메타분석 없음 (DOI 10.11607/jomi.11299)
+- [[implants/soft-tissue/linkevicius-2015-effect-zirconia-titanium-abutment-material]] — 지르코니아(Zr) vs 티타늄(Ti) 지대주 연조직 SR/MA: 9개 연구(11편 논문, RCT 4 + CCT 5), 메타분석 가능한 연조직 색상만 Zr 유의 우세, 퇴축·탐침깊이·탐침 출혈·변연골수준·PRO는 유의한 차이 없음(초록 전용)
+- [[implants/soft-tissue/puisys-2015-use-acellular-dermal-matrix-membrane]] — 매몰형 식립 시 무세포 진피 기질(ADM, AlloDerm)로 수직 연조직 두께 1.54±0.51 → 3.75±0.54 mm, 평균 증가 2.21±0.85 mm(P<0.001), 40/40 이식편 치유 (40명·3개월 증례시리즈, 초록만)
 - [[periodontics/pawar-2011-gingival-zenith-redefining-esthetics]] — Pawar 2011 · cross-sectional(35명) · 치은선 각도 좌 86.7° > 우 84.6°, 견치 정점 근단 — 측절치 비율 17% vs 75.7% 내부 불일치 (DOI 10.4103/0972-124X.84382)
 - [[periodontics/kolte-2019-gingival-angle-zenith-angle-thickness]] — Kolte 2019 · cross-sectional(160명, abstract-only) · 정점 각도는 여성에서 작고 연령 무관, 치은 두께(여 1.1 vs 남 2.5 mm)와 무상관 (PMID 31061999, DOI 없음)
 
