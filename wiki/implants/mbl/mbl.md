@@ -15,20 +15,20 @@ tags: [navigation, category-index, mbl]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·변연골소실
 > - **범위**: Marginal bone loss (MBL) / crestal bone loss — platform switching (PS vs PM), bone-level vs tissue-level MBL, implant-tooth proximity bone loss, emergence angle, inter-implant distance, risk-factor umbrella SRs
-> - **수록 논문**: 77편
+> - **수록 논문**: 83편
 
 ## Three-line Summary
 
 **Scope**: Marginal bone loss (MBL) / crestal bone loss — platform switching (PS vs PM), bone-level vs tissue-level MBL, implant-tooth proximity bone loss, emergence angle, inter-implant distance, risk-factor umbrella SRs
-**Indexed papers**: 77 papers in `wiki/implants/mbl/`.
+**Indexed papers**: 83 papers in `wiki/implants/mbl/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·변연골소실
-**수록 논문**: 77편
+**수록 논문**: 83편
 **하위 카테고리**: 없음
 
-## Papers in this Category (77)
+## Papers in this Category (83)
 
 | Paper |
 |---|
@@ -47,6 +47,7 @@ tags: [navigation, category-index, mbl]
 | [[chien-2016-effect-platform-switching-periimplant-crevicular|The Effect of Platform Switching on Periimplant Crevicular Fluid Content During Early Wound Healing]] |
 | [[cosola-2020-bone-tissue-level-radiological-sr|Radiological Outcomes of Bone-Level and Tissue-Level Dental Implants: Systematic Review]] |
 | [[couso-queiruga-2025-misfit-implant-prosthesis-bone-loss|Impact of Marginal Misfit in Implant-Supported Fixed Dental Prostheses on Peri-Implant Bone Levels: A Retrospective Quantitative Analysis]] |
+| [[degidi-2011-one-abutment-at-one-time|One abutment at one time: non-removal of an immediate abutment and its effect on bone healing around subcrestal tapered implants.]] |
 | [[del-fabbro-2014-marginal-bone-axial-tilted-sr-ma|The fate of marginal bone around axial vs. tilted implants: a systematic review]] |
 | [[desai-2013-platform-switching-bone-loss-review|Platform switching: A panacea for bone loss??]] |
 | [[dhir-2012-significance-clinical-relevance-biologic-width|Significance and clinical relevance of biologic width to implant dentistry]] |
@@ -55,7 +56,9 @@ tags: [navigation, category-index, mbl]
 | [[flores-guillen-2017-five-year-outcomes-submerged-transmucosal|Five-year outcomes of a randomized clinical trial comparing bone-level implants with either submerged or transmucosal healing]] |
 | [[galindomoreno-2014-prosthetic-abutment-height-is-a|Prosthetic Abutment Height is a Key Factor in Peri-implant Marginal Bone Loss]] |
 | [[gheisari-2017-comparison-marginal-bone-loss-one-stage|Comparison of the Marginal Bone Loss in One-stage versus Two-stage Implant Surgery]] |
+| [[grandi-2014-one-abutment-one-time-versus|One abutment-one time versus a provisional abutment in immediately loaded post-extractive single implants: a 1-year follow-up of a multicentre randomised controlled trial.]] |
 | [[gupta-2019-platform-switching-crestal-bone-loss-sr|Platform Switching Technique and Crestal Bone Loss around the Dental Implants: A Systematic Review]] |
+| [[hamudi-2022-the-association-of-one-abutment|The Association of the One-Abutment at One-Time Concept with Marginal Bone Loss around the SLA and Platform Switch and Conical Abutment Implants]] |
 | [[han-2025-cad-cam-abutment-profile-angle-mbl|Impact of profile angle of CAD-CAM abutment on the marginal bone loss of implant-supported single-tooth posterior restorations]] |
 | [[hermann-2000-crestal-bone-changes-around-titanium|Crestal bone changes around titanium implants. A histometric evaluation of unloaded non-submerged and submerged implants in the canine mandible]] |
 | [[hermann-2001-influence-size-microgap-crestal|Influence of the size of the microgap on crestal bone changes around titanium implants. A histometric evaluation of unloaded non-submerged implants in the canine mandible]] |
@@ -74,7 +77,9 @@ tags: [navigation, category-index, mbl]
 | [[liu-2025-abutment-shape-marginal-bone-loss-crestal-bone-remodeling|Influence of abutment shape on early peri-implant marginal bone loss and crestal bone remodeling: A systematic review and meta-analysis of randomized controlled trials]] |
 | [[malak-2024-implant-failure-marginal-bone-loss|Implant Failure and Marginal Bone Loss Between Axial and Tilted Implants: An Umbrella Review with Meta-analysis]] |
 | [[messias-2019-platform-switching-mbl-5year-rct|Peri-implant marginal bone loss reduction with platform-switching components: 5-Year post-loading results of an equivalence randomized clinical trial]] |
+| [[moreira-2021-one-abutment-one-time-effect|One-Abutment One-Time Effect on Peri-Implant Marginal Bone: A Prospective, Controlled, Randomized, Double-Blind Study]] |
 | [[mortazavi-2021-bone-loss-tissue-bone-level-implants|Bone Loss in Tissue-Level vs. Bone-Level Implants: Systematic Review]] |
+| [[nam-2025-the-link-between-abutment-configuration|The link between abutment configuration and marginal bone loss in subcrestally placed posterior implant-supported restorations]] |
 | [[ng-2018-implant-tooth-proximity-bone-loss|Peri-implant inflammation and marginal bone level changes around dental implants in relation to proximity with and bone level of adjacent teeth]] |
 | [[nunes-2025-final-prosthetic-abutment-insertion-time-oaot|Final prosthetic abutment insertion time and peri-implant bone changes: A systematic review and meta-analysis]] |
 | [[oh-2002-causes-early-implant-bone-loss|The causes of early implant bone loss: myth or science?]] |
@@ -106,6 +111,7 @@ tags: [navigation, category-index, mbl]
 | [[vamos-2024-nicotine-containing-products-peri-implant-network-ma|The Effect of Nicotine-Containing Products on Peri-Implant Tissues: A Systematic Review and Network Meta-Analysis]] |
 | [[verma-2024-comparison-bone-loss-submerged-nonsubmerged|Comparison of bone loss around submerged and non-submerged implants during osseointegration phase]] |
 | [[wach-2026-emergence-angle-marginal-bone-loss|Emergence Angle, Marginal Bone Loss, and Radiographic Corticalization Around MIS Implants: A 5-Year Retrospective Study of Single, Splinted, and Bridge Restorations]] |
+| [[wang-2017-one-time-versus-repeated-abutment|One-time versus repeated abutment connection for platform-switched implant: A systematic review and meta-analysis]] |
 | [[yadav-2025-finite-element-analysis-platform-switching|Finite Element Analysis of Platform Switching Effects on Stress Distribution in Posterior Implants Placed in Different Bone Types Under Axial and Oblique Loading Conditions]] |
 | [[yu-2020-internal-tapered-vs-nontapered-connection|Is an internal tapered connection more efficient than an internal nontapered connection? A systematic review and meta-analysis]] |
 | [[zukauskas-2021-implant-placement-depth-soft-tissue-crestal-stability|Influence of Implant Placement Depth and Soft Tissue Thickness on Crestal Bone Stability Around Implants With and Without Platform Switching: A Comparative Clinical Trial]] |
