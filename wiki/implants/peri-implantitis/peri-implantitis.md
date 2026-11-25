@@ -15,20 +15,20 @@ tags: [navigation, category-index, peri-implantitis]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·주위염
 > - **범위**: Peri-implantitis prevalence, risk factors, non-surgical/surgical treatment, surface decontamination, GBR for peri-implant defects
-> - **수록 논문**: 99편
+> - **수록 논문**: 101편
 
 ## Three-line Summary
 
 **Scope**: Peri-implantitis prevalence, risk factors, non-surgical/surgical treatment, surface decontamination, GBR for peri-implant defects
-**Indexed papers**: 99 papers in `wiki/implants/peri-implantitis/`.
+**Indexed papers**: 101 papers in `wiki/implants/peri-implantitis/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·주위염
-**수록 논문**: 99편
+**수록 논문**: 101편
 **하위 카테고리**: 없음
 
-## Papers in this Category (99)
+## Papers in this Category (101)
 
 | Paper |
 |---|
@@ -100,6 +100,7 @@ tags: [navigation, category-index, peri-implantitis]
 | [[monje-2026-flip-vs-plip-implantoplasty-extent-peri-implantitis-rct|FLIP vs PLIP: Full vs Partial Implantoplasty in Combined Peri-Implantitis Surgery — Quasi-RCT]] |
 | [[moraschini-2026-prevalence-of-peri-implantitis-around|Prevalence of Peri-Implantitis Around Zirconia Implants: A Systematic Review and Meta-Analysis of Current Evidence]] |
 | [[moreira-2026-air-polishing-versus-ultrasonic-instrumentation|Air-Polishing Versus Ultrasonic Instrumentation for Nonsurgical Treatment of Peri-Implantitis: A Randomized Clinical Trial]] |
+| [[park-2021-adjunctive-use-of-metronidazole-minocycline|Adjunctive use of metronidazole-minocycline ointment in the nonsurgical treatment of peri-implantitis: A multicenter randomized controlled trial]] |
 | [[park-2025-implantoplasty-vs-titanium-brushes-peri-implantitis-rct|Implantoplasty vs. Rotating Titanium Brushes in Peri-Implantitis Surgery: 1-Year Non-Inferiority RCT]] |
 | [[piattelli-2003-clinical-histologic-aspects-dental-implants|Clinical and histologic aspects of dental implants removed due to mobility]] |
 | [[pirc-2026-concave-convex-emergence-profiles-mucosal-ma|Concave vs Convex Emergence Profiles and Midfacial Mucosal Stability: First RCT-Level Meta-Analysis]] |
@@ -120,6 +121,7 @@ tags: [navigation, category-index, peri-implantitis]
 | [[sbricoli-2026-peri-implant-disease-prevalence-type2-diabetes|Prevalence of Peri-Implant Diseases in Patients With Type 2 Diabetes Mellitus: A Cross-Sectional Study]] |
 | [[shah-2016-radiographic-classification-retrograde-peri-implantitis|A Radiographic Classification for Retrograde Peri-implantitis]] |
 | [[shetty-2023-platelet-concentrates-peri-implantitis-treatment-sr|Effect of platelet concentrates on the treatment outcome of peri implantitis: A systematic review]] |
+| [[shibli-2026-systemic-and-local-antibiotics-in|Systemic and local antibiotics in the management of peri-implantitis: A systematic review and network meta-analysis]] |
 | [[smeets-2014-peri-implantitis-definition-etiology-review|Definition, etiology, prevention and treatment of peri-implantitis – a review]] |
 | [[soldini-2025-reconstructive-therapy-peri-implantitis-rct|Reconstructive Therapy of Peri-Implantitis Following Non-Surgical Treatment: An RCT]] |
 | [[soulami-2022-implant-abutment-emergence-angle-peri-implantitis-sr|Implant-abutment emergence angle and profile in relation to peri-implantitis: A systematic review]] |
