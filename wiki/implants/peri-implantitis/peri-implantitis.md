@@ -2,7 +2,7 @@
 title: "임플란트·주위염 — peri-implantitis"
 authors: navigation
 year: 2026
-date: 2026-11-22
+date: 2026-11-25
 doi: N/A
 source: navigation
 category: implants/peri-implantitis
@@ -15,20 +15,20 @@ tags: [navigation, category-index, peri-implantitis]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·주위염
 > - **범위**: Peri-implantitis prevalence, risk factors, non-surgical/surgical treatment, surface decontamination, GBR for peri-implant defects
-> - **수록 논문**: 98편
+> - **수록 논문**: 99편
 
 ## Three-line Summary
 
 **Scope**: Peri-implantitis prevalence, risk factors, non-surgical/surgical treatment, surface decontamination, GBR for peri-implant defects
-**Indexed papers**: 98 papers in `wiki/implants/peri-implantitis/`.
+**Indexed papers**: 99 papers in `wiki/implants/peri-implantitis/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·주위염
-**수록 논문**: 98편
+**수록 논문**: 99편
 **하위 카테고리**: 없음
 
-## Papers in this Category (98)
+## Papers in this Category (99)
 
 | Paper |
 |---|
@@ -92,6 +92,7 @@ tags: [navigation, category-index, peri-implantitis]
 | [[lu-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct|Adjunctive Use of Locally Delivered 2% Minocycline in the Nonsurgical Treatment of Peri-Implantitis: A Multicenter Randomized Placebo-Controlled Trial]] |
 | [[mahardawi-2023-lack-keratinized-mucosa-peri-implantitis-sr-ma|The lack of keratinized mucosa as a risk factor for peri-implantitis: a systematic review and meta-analysis]] |
 | [[mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review|The use of chemical and pharmaceutical adjunctive therapies in the treatment of peri-implant mucositis (PiM): a narrative review]] |
+| [[mercado-2026-surgical-therapy-for-peri-implantitis|Surgical Therapy for Peri-Implantitis Using Deproteinised Bovine Bone Mineral With 10% Collagen, Enamel Matrix Derivative and Doxycycline: A Prospective Cohort 10-Year Implant Study]] |
 | [[mojaver-2025-supportive-peri-implant-therapy-efficacy-sr|Efficacy of supportive peri-implant therapy in the management of peri-implant mucositis and peri-implantitis: A systematic review]] |
 | [[monje-2025-long-term-surgical-treatment-outcomes|Long‐term surgical treatment outcomes of peri‐implantitis]] |
 | [[monje-2025-surface-decontamination-reconstructive-peri-implantitis|Surface Decontamination in Reconstructive Peri-Implantitis Therapy: A Multicenter RCT (Electrolytic vs Hydrogen Peroxide)]] |
