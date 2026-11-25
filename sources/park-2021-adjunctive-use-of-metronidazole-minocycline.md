@@ -16,11 +16,11 @@ abstract-only — full text not retrieved
 
 ## Why Ingested
 
-Ingested on the user's request for papers relevant to Dongkook's "Minoclin" (2% minocycline HCl ointment) local-delivery product. This four-center Korean three-arm RCT is the earlier, larger local-minocycline peri-implantitis trial alongside [[implants/peri-implantitis/lu-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct]]: its minocycline-ointment arm vs debridement-only independently reinforces Lu 2026's short-term adjunct benefit, and it adds a metronidazole + minocycline combination arm that the wiki did not hold.
+Ingested on the user's request for papers relevant to Dongkook's "Minoclin" (2% minocycline HCl ointment) local-delivery product. This four-center Korean three-arm RCT is the earlier, larger local-minocycline peri-implantitis trial alongside [[implants/peri-implantitis/lee-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct]]: its minocycline-ointment arm vs debridement-only independently reinforces Lee 2026's short-term adjunct benefit, and it adds a metronidazole + minocycline combination arm that the wiki did not hold.
 
 It is also a constituent trial of both held SR+MAs — [[implants/peri-implantitis/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]] (where, per the Grusovin PDF, the pooled local-antibiotic success-rate RR 9.89 came from Park 2021 data alone) and [[implants/peri-implantitis/liu-2026-efficacy-of-adjunctive-antibiotics-compared]] — so holding the primary trial lets those pooled numbers be traced back to their source. No typed `reinforces` edge to those SRs (circular).
 
-→ [[implants/peri-implantitis/lu-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct]]
+→ [[implants/peri-implantitis/lee-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct]]
 → [[implants/peri-implantitis/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]]
 
 ## Three-line Summary
@@ -86,7 +86,7 @@ The abstract does not report the MM vs MC comparison for success rate, nor absol
 
 ## 6. Related Work
 
-- Lu 2026 (lu-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct): later two-center Korean placebo-controlled RCT of 2% minocycline ointment; consistent short-term PD/BOP benefit.
+- Lee 2026 (lee-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct): later two-center Korean placebo-controlled RCT of 2% minocycline ointment; consistent short-term PD/BOP benefit.
 - Grusovin 2022: SR+MA of non-surgical antibiotic adjuncts; Park 2021 contributed two comparisons ("Park 2021a" MM, "Park 2021b" MC) and was the only trial behind the local-antibiotic success RR 9.89.
 - Liu 2026: 22-RCT SR+MA of adjunctive antibiotics; includes Park 2021.
 
