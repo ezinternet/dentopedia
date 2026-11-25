@@ -241,6 +241,7 @@ tags: []
 - [[implants/mbl/linkevicius-2009-influence-soft-tissue-thickness-crestal-bone]] — 전향적 대조 시험(19명·46개): 얇은 점막 상방 식립군 근심 1.61 +/- 0.24 mm·원심 1.28 +/- 0.167 mm vs 두꺼운 점막 0.26·0.09 mm, 골수준 대조군 1.8·1.87 mm (초록만, 원문 수치 내부 불일치 표기)
 - [[implants/mbl/linkevicius-2015-radiological-comparison-laser-microtextured-platform-switched]] — 얇은 점막(≤2 mm) 30명에서 레이저 미세조직화(30개) vs 플랫폼 스위칭(30개) 비교: 2개월 0.71 vs 1.02 mm(p=0.001), 장착 시 1.10 vs 1.37 mm(p=0.001), 1년 1.41 vs 1.43 mm(p=0.976) — 레이저 이득은 부하 전에만, 두 전략 모두 골소실 미해결
 - [[implants/mbl/puisys-2015-influence-mucosal-tissue-thickening-crestal-bone]] — 전향적 대조시험(97명, 골수준 4.1 mm 임플란트): 1년 변연골 소실 얇은 점막(T1) 근심 1.22±0.08·원심 1.14±0.07 mm vs 동종이식막 두껍게(T2) 0.24±0.06·0.19±0.06 mm vs 두꺼운 점막(C) 0.22±0.06·0.20±0.06 mm(T1-T2·T1-C 유의 P=0.000, T2-C 비유의) — 초록만 확보
+- [[implants/mbl/han-2025-cad-cam-abutment-profile-angle-mbl]] — Han 2025 · retrospective (환자 206명·후방부 단일치 260개, 플랫폼 스위칭 내부원추형): 볼록 출현윤곽이 오목·직선보다 모든 시점 MBL 유의↑(P<.001); 각도 상관은 접합부 0–2 mm에서만 유의(2–3 mm P>.05), 역치 0–1 mm 근심 34°·원심 28°, 1–2 mm 33°·20° — 초록만 (DOI 10.1016/j.prosdent.2023.11.025)
 - [[implants/camacho-alonso-2024-histological-and-immunohistochemical-soft-tissue]] — Camacho-Alonso 2024 · rct · 다기관 분할구강 이중맹검(37명/74개, 두꺼운 점막): 오목형 지대주가 원통형 대비 연조직 총 높이 3.57 vs 2.95 mm·장벽상피 2.46 vs 1.89 mm(모두 p<0.001), 횡단 교원섬유 23.8 vs 15.7%·염증강도 1.05 vs 1.97(p<0.001) — 형태가 골이 아니라 연조직 봉쇄를 바꾼 조직학적 기전 (DOI 10.1002/JPER.24-0250, PMC 전문)
 
 ## 임플란트 — 표면처리·골유착 심화 (Osseointegration Theory)
