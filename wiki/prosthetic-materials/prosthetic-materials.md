@@ -2,7 +2,7 @@
 title: "보철재료 — prosthetic-materials"
 authors: navigation
 year: 2026
-date: 2026-11-13
+date: 2026-11-25
 doi: N/A
 source: navigation
 category: prosthetic-materials
@@ -16,21 +16,21 @@ tags: [navigation, category-index, prosthetic-materials]
 > - **분야**: 보철재료
 > - **범위**: Zirconia/ceramic crown survival, full-arch prosthetics, luting cements, provisional materials, general prosthetic-materials not covered by a subcategory.
 > - **하위 카테고리**: [[abutment-screw]] · [[tooth-preparation]]
-> - **수록 논문**: 48편
+> - **수록 논문**: 49편
 
 ## Three-line Summary
 
 **Scope**: Zirconia/ceramic crown survival, full-arch prosthetics, luting cements, provisional materials, general prosthetic-materials not covered by a subcategory.
-**Indexed papers**: 48 papers in `wiki/prosthetic-materials/`.
+**Indexed papers**: 49 papers in `wiki/prosthetic-materials/`.
 **Sub-categories**: [[abutment-screw]], [[tooth-preparation]]
 
 ## 세줄요약
 
 **분야**: 보철재료
-**수록 논문**: 48편
+**수록 논문**: 49편
 **하위 카테고리**: abutment-screw, tooth-preparation
 
-## Papers in this Category (48)
+## Papers in this Category (49)
 
 | Paper |
 |---|
@@ -78,6 +78,7 @@ tags: [navigation, category-index, prosthetic-materials]
 | [[toia-2021-fixed-full-arch-maxillary-prostheses|Fixed full-arch maxillary prostheses supported by four versus six implants with a titanium CAD/CAM milled framework: 3-year multicentre RCT]] |
 | [[toia-2025-fixed-full-arch-maxillary-prostheses|Fixed Full-Arch Maxillary Prostheses Supported by Four Versus Six Implants: 5-Year Results of a Multicenter Randomized Clinical Trial]] |
 | [[tomar-2026-prosthetic-complications-complete-arch-umbrella|Prosthetic complications of implant-supported complete arch prostheses: An umbrella review of systematic reviews]] |
+| [[vindasiute-2015-clinical-factors-influencing-removal-cement-excess|Clinical Factors Influencing Removal of the Cement Excess in Implant-Supported Restorations.]] |
 | [[waldecker-2026-multilayer-zirconia-rbfpd-load-bearing|Multilayer zirconia RBFPDs: material grade and nesting position affect load-bearing]] |
 | [[waltenberger-2025-zirconia-implant-dentistry-guideline|German S3 guideline on implant-supported all-ceramic restorations]] |
 | [[yi-2026-split-mouth-rct-zirconia-lithium-disilicate|3-Year Split-Mouth RCT: Monolithic ZrO₂ vs Lithium Disilicate Posterior Implant Crowns]] |
