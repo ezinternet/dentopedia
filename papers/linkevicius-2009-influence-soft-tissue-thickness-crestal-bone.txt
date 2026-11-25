@@ -1,0 +1,16 @@
+TITLE: The influence of soft tissue thickness on crestal bone changes around implants: a 1-year prospective controlled clinical trial.
+AUTHORS: Tomas Linkevicius, Peteris Apse, Simonas Grybauskas, Algirdas Puisys
+JOURNAL: The International journal of oral & maxillofacial implants 2009;24(4):712-9
+PMID: 19885413
+DOI: null
+SOURCE: PubMed abstract (E-utilities efetch, 2026-11-25). No PMC record; no full text retrieved.
+
+## ABSTRACT
+
+PURPOSE: The aim of this clinical trial was to evaluate the influence of gingival tissue thickness on crestal bone loss around dental implants after a 1-year follow-up.
+
+MATERIALS AND METHODS: Forty-six implants (23 test and 23 control) were placed in 19 patients. The test implants were placed about 2 mm supracrestally, whereas the control implants were positioned at the bone level. Before implant placement, the tissue thickness at implant sites was measured with a periodontal probe. After healing, metal-ceramic cement-retained prostheses were constructed. According to tissue thickness, the test implants were divided into A (thin) and B (thick) groups. Intraoral radiographs were performed and crestal bone changes were measured at implant placement and after 1 year.
+
+RESULTS: Mean bone loss around the test implants in group A (thin mucosa) was 1.61 +/- 0.24 mm (SE; range, 0.9 to 3.3 mm) on the mesial and 1.28 +/- 0.167 mm (range, 0.8 to 2.1 mm) on the distal. Mean bone loss in test group B (thick mucosa) implants was 0.26 +/- 0.08 mm (range, 0.2 to 0.9 mm) on the mesial aspect and 0.09 +/- 0.05 mm (range, 0.2 to 0.6 mm) on the distal aspect. Mean bone loss around control implants was 1.8 +/- 0.164 mm (range, 0.6 to 4.0 mm) and 1.87 +/- 0.166 mm (range, 0.0 to 4.1 mm) on the mesial and distal aspects, respectively. Analysis of variance revealed a significant difference in terms of bone loss between test A (thin) and B (thick) groups on both the mesial and the distal.
+
+CONCLUSION: Initial gingival tissue thickness at the crest may be considered as a significant influence on marginal bone stability around implants. If the tissue thickness is 2.0 mm or less, crestal bone loss up to 1.45 mm may occur, despite a supracrestal position of the implant-abutment interface.
