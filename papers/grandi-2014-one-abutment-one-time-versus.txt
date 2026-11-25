@@ -1,0 +1,22 @@
+TITLE: One abutment-one time versus a provisional abutment in immediately loaded post-extractive single implants: a 1-year follow-up of a multicentre randomised controlled trial.
+AUTHORS: Grandi T, Guazzi P, Samarani R, Maghaireh H, Grandi G
+JOURNAL: European Journal of Oral Implantol (Eur J Oral Implantol) 2014 Summer;7(2):141-149
+ID[pubmed]: 24977249
+ID[doi]: null
+ID[pii]: 855781
+SOURCE: PubMed E-utilities (efetch), abstract-only — PMC record absent; full text not retrieved. Fetch-OA 2026-11-25: [MANUAL] paywall/OA 없음.
+
+## ABSTRACT
+
+PURPOSE: To compare immediately loaded post-extractive single implants using a definitive abutment versus provisional abutment later replaced by custom-made abutment.
+
+MATERIALS AND METHODS: In two private clinics, 28 patients in need of one single post-extractive implant in the maxilla or mandible from the left second premolar to the right second premolar area were randomised shortly before tooth extraction to provisional abutment (PA) and definitive abutment (DA) groups. Three patients had to be excluded for buccal wall fracture after tooth extraction. In the PA group, implants were immediately restored using a platform-switched provisional titanium abutment and definitive platform-switched titanium abutments were used in the DA group. In both groups, a non-occluding provisional single crown was provided. Implants were definitively restored after 4 months. In the PA group, the abutment was removed and the impression was made directly on the implant platform. In the DA group an impression of the abutment was made using a retraction cord. Outcome measures were: implant failures; complications; and marginal peri-implant bone level changes. Patients were followed up to 1 year after loading.
+
+RESULTS: Twelve patients were randomised to the DA group and 13 patients to the PA group. At the 12-month follow-up, no implant failed. One biological complication occurred in the DA group and one mechanical complication occurred in the PA group. All complications were successfully treated. One year after loading, implants in the DA group lost an average of 0.11 mm (SD: 0.06) of periimplant bone and implants in PA group about 0.58 mm (SD: 0.11). At the 12-month follow-up, there was a statistically significant difference in bone level change between groups (mean difference: 0.48 mm, CI 95% 0.40; 0.55, P < 0.0001).
+
+CONCLUSIONS: Within the limits of this study, the non-removal of abutments placed at the time of surgery resulted in the maintenance of 0.5 mm more bone levels around immediately restored postextractive single implants than repeated abutment removal, although this amount of bone maintenance may not have a clinical impact. Conflicts of interest notification: Dr Tommaso Grandi and Dr Paolo Guazzi serve as consultants for JDentalCare. This study was completely self-financed and no funding was sought or obtained, not even in the form of free materials.
+
+KEYWORDS: (not supplied in the PubMed record) dental implant-abutment design, dental implants single-tooth, immediate dental implant loading, tooth extraction, dental impression technique.
+
+PUBLICATION TYPE: Comparative Study; Journal Article; Multicenter Study; Randomized Controlled Trial
+HISTORY: PubMed indexed 2014-07-01; Medline 2014-09-05.
