@@ -5,13 +5,13 @@ year: 2026
 date: 2026-05-17
 doi: 10.1016/j.jdent.2026.106761
 pmid: "42150728"
-source: lu-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct.md
+source: lee-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct.md
 category: implants/peri-implantitis
 evidence_level: rct
 source_collection: pubmed-text
 full_text: false
-text_path: /Users/oracleneo/llm-wiki/papers/lu-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct.txt
-text_filename: lu-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct.txt
+text_path: /Users/oracleneo/llm-wiki/papers/lee-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct.txt
+text_filename: lee-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct.txt
 tags: [peri-implantitis, minocycline, local-drug-delivery, mechanical-debridement, BOP, probing-depth, MBL, multicenter-RCT]
 ---
 
