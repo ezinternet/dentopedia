@@ -2,7 +2,7 @@
 title: "임플란트·변연골소실 — mbl"
 authors: navigation
 year: 2026
-date: 2026-11-23
+date: 2026-11-25
 doi: N/A
 source: navigation
 category: implants/mbl
@@ -15,20 +15,20 @@ tags: [navigation, category-index, mbl]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·변연골소실
 > - **범위**: Marginal bone loss (MBL) / crestal bone loss — platform switching (PS vs PM), bone-level vs tissue-level MBL, implant-tooth proximity bone loss, emergence angle, inter-implant distance, risk-factor umbrella SRs
-> - **수록 논문**: 69편
+> - **수록 논문**: 74편
 
 ## Three-line Summary
 
 **Scope**: Marginal bone loss (MBL) / crestal bone loss — platform switching (PS vs PM), bone-level vs tissue-level MBL, implant-tooth proximity bone loss, emergence angle, inter-implant distance, risk-factor umbrella SRs
-**Indexed papers**: 69 papers in `wiki/implants/mbl/`.
+**Indexed papers**: 74 papers in `wiki/implants/mbl/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·변연골소실
-**수록 논문**: 69편
+**수록 논문**: 74편
 **하위 카테고리**: 없음
 
-## Papers in this Category (69)
+## Papers in this Category (74)
 
 | Paper |
 |---|
@@ -53,6 +53,7 @@ tags: [navigation, category-index, mbl]
 | [[di-girolamo-2016-platform-switching-matching-sr-ma|Bone level changes around platform switching and platform matching implants: a systematic review with meta-analysis]] |
 | [[enkling-2013-platform-switching-bone-level-3year-rct|Influence of Platform Switching on Bone-level Alterations: A Three-year Randomized Clinical Trial]] |
 | [[flores-guillen-2017-five-year-outcomes-submerged-transmucosal|Five-year outcomes of a randomized clinical trial comparing bone-level implants with either submerged or transmucosal healing]] |
+| [[galindomoreno-2014-prosthetic-abutment-height-is-a|Prosthetic Abutment Height is a Key Factor in Peri-implant Marginal Bone Loss]] |
 | [[gheisari-2017-comparison-marginal-bone-loss-one-stage|Comparison of the Marginal Bone Loss in One-stage versus Two-stage Implant Surgery]] |
 | [[gupta-2019-platform-switching-crestal-bone-loss-sr|Platform Switching Technique and Crestal Bone Loss around the Dental Implants: A Systematic Review]] |
 | [[hermann-2000-crestal-bone-changes-around-titanium|Crestal bone changes around titanium implants. A histometric evaluation of unloaded non-submerged and submerged implants in the canine mandible]] |
@@ -63,7 +64,10 @@ tags: [navigation, category-index, mbl]
 | [[kumar-2021-marginal-bone-level-changes-meta-analysis|A meta analysis for evaluation of marginal bone level changes at dental implants]] |
 | [[lazzara-2006-platform-switching-new-concept|Platform Switching: A New Concept in Implant Dentistry for Controlling Postrestorative Crestal Bone Levels]] |
 | [[lee-2026-implant-survival-and-radiographic-outcome|Implant Survival and Radiographic Outcome of a Novel Implant With a Machined Long Neck: A 1-Year Retrospective Study]] |
+| [[linkevicius-2009-influence-soft-tissue-thickness-crestal-bone|The influence of soft tissue thickness on crestal bone changes around implants: a 1-year prospective controlled clinical trial.]] |
+| [[linkevicius-2009-reaction-crestal-bone-around-implants|Reaction of crestal bone around implants depending on mucosal tissue thickness. A 1-year prospective clinical study.]] |
 | [[linkevicius-2015-crestal-bone-stability-soft-tissue-thickening-matching|Crestal Bone Stability around Implants with Horizontally Matching Connection after Soft Tissue Thickening: A Prospective Clinical Trial]] |
+| [[linkevicius-2015-radiological-comparison-laser-microtextured-platform-switched|Radiological comparison of laser-microtextured and platform-switched implants in thin mucosal biotype.]] |
 | [[linkevicius-2015-vertical-soft-tissue-thickness-crestal-bone-platform-switching|Influence of Vertical Soft Tissue Thickness on Crestal Bone Changes Around Implants with Platform Switching: A Comparative Clinical Study]] |
 | [[linkevicius-2020-submerged-healing-abutment-subcrestal-soft-tissue|The influence of submerged healing abutment or subcrestal implant placement on soft tissue thickness and crestal bone stability. A 2-year randomized clinical trial]] |
 | [[liu-2025-abutment-shape-marginal-bone-loss-crestal-bone-remodeling|Influence of abutment shape on early peri-implant marginal bone loss and crestal bone remodeling: A systematic review and meta-analysis of randomized controlled trials]] |
@@ -74,6 +78,7 @@ tags: [navigation, category-index, mbl]
 | [[nunes-2025-final-prosthetic-abutment-insertion-time-oaot|Final prosthetic abutment insertion time and peri-implant bone changes: A systematic review and meta-analysis]] |
 | [[oh-2002-causes-early-implant-bone-loss|The causes of early implant bone loss: myth or science?]] |
 | [[prati-2026-cover-screw-vs-healing-abutment-rct|Clinical Parameters of Implants with Cover Screw vs Healing Abutment: 6-Month RCT]] |
+| [[puisys-2015-influence-mucosal-tissue-thickening-crestal-bone|The influence of mucosal tissue thickening on crestal bone stability around bone-level implants. A prospective controlled clinical trial.]] |
 | [[raabe-2026-crestal-bone-loss-peri-implant|Crestal Bone Loss and Peri-Implant Conditions at Tissue-Level Implants: Influence of Prosthesis Type After 25 Years]] |
 | [[rocha-2016-platform-switching-crestal-bone-3year-rct|Effect of platform switching on crestal bone levels around implants in the posterior mandible: 3 years results from a multicentre randomized clinical trial]] |
 | [[rodrigues-2023-clinical-performance-internal-conical|Is the clinical performance of internal conical connection better than internal non-conical connection for implant-supported restorations? A systematic review with meta-analysis of randomized controlled trials]] |
