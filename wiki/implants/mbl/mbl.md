@@ -15,20 +15,20 @@ tags: [navigation, category-index, mbl]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·변연골소실
 > - **범위**: Marginal bone loss (MBL) / crestal bone loss — platform switching (PS vs PM), bone-level vs tissue-level MBL, implant-tooth proximity bone loss, emergence angle, inter-implant distance, risk-factor umbrella SRs
-> - **수록 논문**: 76편
+> - **수록 논문**: 77편
 
 ## Three-line Summary
 
 **Scope**: Marginal bone loss (MBL) / crestal bone loss — platform switching (PS vs PM), bone-level vs tissue-level MBL, implant-tooth proximity bone loss, emergence angle, inter-implant distance, risk-factor umbrella SRs
-**Indexed papers**: 76 papers in `wiki/implants/mbl/`.
+**Indexed papers**: 77 papers in `wiki/implants/mbl/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·변연골소실
-**수록 논문**: 76편
+**수록 논문**: 77편
 **하위 카테고리**: 없음
 
-## Papers in this Category (76)
+## Papers in this Category (77)
 
 | Paper |
 |---|
@@ -56,6 +56,7 @@ tags: [navigation, category-index, mbl]
 | [[galindomoreno-2014-prosthetic-abutment-height-is-a|Prosthetic Abutment Height is a Key Factor in Peri-implant Marginal Bone Loss]] |
 | [[gheisari-2017-comparison-marginal-bone-loss-one-stage|Comparison of the Marginal Bone Loss in One-stage versus Two-stage Implant Surgery]] |
 | [[gupta-2019-platform-switching-crestal-bone-loss-sr|Platform Switching Technique and Crestal Bone Loss around the Dental Implants: A Systematic Review]] |
+| [[han-2025-cad-cam-abutment-profile-angle-mbl|Impact of profile angle of CAD-CAM abutment on the marginal bone loss of implant-supported single-tooth posterior restorations]] |
 | [[hermann-2000-crestal-bone-changes-around-titanium|Crestal bone changes around titanium implants. A histometric evaluation of unloaded non-submerged and submerged implants in the canine mandible]] |
 | [[hermann-2001-influence-size-microgap-crestal|Influence of the size of the microgap on crestal bone changes around titanium implants. A histometric evaluation of unloaded non-submerged implants in the canine mandible]] |
 | [[hurzeler-2007-peri-implant-bone-level-platform-switched|Peri-implant bone level around implants with platform-switched abutments: Preliminary data from a prospective study]] |
