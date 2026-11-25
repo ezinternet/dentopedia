@@ -8,8 +8,8 @@ category: implants/peri-implantitis
 source_collection: pubmed-text
 full_text: false
 source_url: https://pubmed.ncbi.nlm.nih.gov/42150728/
-text_path: /Users/oracleneo/llm-wiki/papers/lu-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct.txt
-text_filename: lu-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct.txt
+text_path: /Users/oracleneo/llm-wiki/papers/lee-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct.txt
+text_filename: lee-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct.txt
 ---
 
 ## Why Ingested
