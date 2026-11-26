@@ -2,7 +2,7 @@
 title: "치과재료 (general) — dental-materials"
 authors: navigation
 year: 2026
-date: 2026-10-10
+date: 2026-11-26
 doi: N/A
 source: navigation
 category: dental-materials
@@ -16,21 +16,21 @@ tags: [navigation, category-index, dental-materials]
 > - **분야**: 치과재료 (general)
 > - **범위**: Amalgam/composite longevity, impression materials (dimensional stability/flowability), PEEK, liners, mixed material-failure SRs.
 > - **하위 카테고리**: [[ceramic]] · [[zirconia]]
-> - **수록 논문**: 12편
+> - **수록 논문**: 16편
 
 ## Three-line Summary
 
 **Scope**: Amalgam/composite longevity, impression materials (dimensional stability/flowability), PEEK, liners, mixed material-failure SRs.
-**Indexed papers**: 12 papers in `wiki/dental-materials/`.
+**Indexed papers**: 16 papers in `wiki/dental-materials/`.
 **Sub-categories**: [[ceramic]], [[zirconia]]
 
 ## 세줄요약
 
 **분야**: 치과재료 (general)
-**수록 논문**: 12편
+**수록 논문**: 16편
 **하위 카테고리**: ceramic, zirconia
 
-## Papers in this Category (12)
+## Papers in this Category (16)
 
 | Paper |
 |---|
@@ -38,9 +38,13 @@ tags: [navigation, category-index, dental-materials]
 | [[alghauli-2025-clinical-complications-survival-rate-resin|Clinical Complications and Survival Rate of Resin Matrix Ceramic Restorations: A Systematic Review and Meta-Analysis]] |
 | [[ali-2023-cadcam-restoration-failure-reasons-sr-ma|Reasons for failure of CAD/CAM restorations: SR+MA]] |
 | [[bhagwat-2025-amalgam-composite-posterior-longevity-sr|Longevity of Amalgam Versus Composite Resin Restorations in Permanent Posterior Teeth: A Systematic Review]] |
+| [[bollen-1997-comparison-surface-roughness-oral-hard|Comparison of surface roughness of oral hard materials to the threshold surface roughness for bacterial plaque retention: A review of the literature]] |
+| [[ekpanithanpong-2026-effect-of-various-polishing-systems|Effect of various polishing systems on the surface roughness and Streptococcus mutans adhesion of CAD/CAM ceramic materials]] |
 | [[el-shazly-2026-3d-printed-hybrid-plasma-bonding|Micro-shear bond strength of 3D printed hybrid ceramic with non-thermal plasma surface treatment: in-vitro study]] |
+| [[fernandez-2026-direct-restorations-longevity-umbrella-review|Clinical Longevity of Direct Dental Restorations: An Umbrella Review of Systematic Reviews]] |
 | [[huettig-2021-flowability-tear-strength-dental-impression|Flowability, Tear Strength, and Hydrophilicity of Current Elastomers for Dental Impressions]] |
 | [[lee-2023-alkasite-glass-ionomer-fluoride-antibacterial|Evaluation of fluoride release, pH and antibacterial activity of alkasite restorative material and glass Ionomer]] |
+| [[lim-2022-oxygen-shielding-glycerin-vacuum-3d-printed|Evaluating oxygen shielding effect using glycerin or vacuum with varying temperature on 3D printed photopolymer in post-polymerization]] |
 | [[meneke-2026-plaque-disclosing-agents-color-stability|Effect of plaque disclosing agents on the color stability of different restorative materials: in vitro study]] |
 | [[mukaibo-2026-peek-plasma-mma-luting-bond-strength|Effect of Alumina Airborne-Particle Abrasion Followed by Plasma Treatment on Bond Strength of Dental PEEK to MMA-Based Luting Systems]] |
 | [[schenkel-2019-dental-cavity-liners-composite-restorations-sr|Dental cavity liners for Class I and Class II resin-based composite restorations]] |
