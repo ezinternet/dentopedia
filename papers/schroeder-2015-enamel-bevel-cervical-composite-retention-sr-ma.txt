@@ -1,0 +1,59 @@
+1. J Dent. 2015 Jul;43(7):777-88. doi: 10.1016/j.jdent.2015.02.017. Epub 2015 Mar
+ 10.
+
+Effect of enamel bevel on retention of cervical composite resin restorations: A 
+systematic review and meta-analysis.
+
+Schroeder M(1), Reis A(2), Luque-Martinez I(3), Loguercio AD(2), Masterson D(4), 
+Maia LC(5).
+
+Author information:
+(1)Department of Dental Materials, Federal University of Rio de Janeiro, Av. 
+Carlos Chagas Filho, 373, Prédio do CCS, Bloco K, Ilha da Cidade Universitária, 
+Rio de Janeiro, RJ, Brazil.
+(2)Department of Restorative Dentistry, State University of Ponta Grossa, Av. 
+General Carlos Cavalcanti, 4748, CEP 84030-900 Ponta Grossa, PR, Brazil.
+(3)Faculty of Dentistry, University of Valparaíso, Rua Subida Carvallo, 211, 
+Playa Ancha, Valparaíso, CEP 2360004, Chile.
+(4)Federal University of Rio de Janeiro, Av. Carlos Chagas Filho, 373, Centro de 
+Ciências da Saúde, Bloco L, Ilha do Fundão, CEP 21941-902 Rio de Janeiro, RJ, 
+Brazil.
+(5)Department of Pediatric Dentistry and Orthodontic, Federal University of Rio 
+de Janeiro, Postal code: 68066, Cidade Universitária, CCS, CEP 21941-971 Rio de 
+Janeiro, RJ, Brazil. Electronic address: rorefa@terra.com.br.
+
+Comment in
+    Evid Based Dent. 2016 Sep;17(3):88-89. doi: 10.1038/sj.ebd.6401191.
+
+OBJECTIVES: To identify if enamel bevelling, compared to no treatment, improves 
+the retention rates and marginal discolouration of cervical composite 
+restorations in non-carious cervical lesions (NCCLs) of adult patients, through 
+a systematic review of the literature and meta-analysis.
+SOURCES: MEDLINE, Scopus, Web of Science, LILACS, BBO Library, Cochrane Library 
+and SIGLE were searched without restrictions, as well as the abstracts of the 
+annual conference of the IADR and the trials registry. Dissertations and theses 
+were searched using the ProQuest Dissertations and Periódicos Capes Theses 
+databases.
+STUDY SELECTION: We included randomised clinical trials (RCTs) that compared the 
+retention rates restorations in NCCLs placed with or without bevel with at least 
+1-year follow-up. The risk of bias tool of the Cochrane Collaboration was used 
+for quality assessment.
+DATA: After duplicate removal, 1356 articles were identified. After abstract 
+screening, 14 studies remained and this number was reduced to four after 
+examination of the full-texts. Only two were considered to have a 'low' risk of 
+bias. The overall risk difference was 0.0 (95% CI -0.04 to 0.04) for the 
+retention rate (p=0.91) and 0.05 (-0.02 to 0.13) for the marginal discolouration 
+(p=0.17).
+CONCLUSIONS: No superiority of bevelled restorations was observed in the 
+short-term follow-up of 1-year, although this conclusion was based on only two 
+RCTs. There is not enough evidence to support the bevelled technique over 
+non-bevelled for NCCLs over longer periods of time. Better standardization and 
+reporting of RCTs of enamel bevelling are necessary in longer-term follow-ups.
+CLINICAL SIGNIFICANCE: The literature still lacks a body of evidence to support 
+the benefits of enamel bevel over non-bevelled for longer-term follow-ups, and 
+future randomised clinical trials with low risk of bias should be conducted.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jdent.2015.02.017
+PMID: 25765866 [Indexed for MEDLINE]
