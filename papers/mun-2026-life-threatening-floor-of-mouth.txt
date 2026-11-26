@@ -1,0 +1,11 @@
+TITLE: Life-Threatening Floor-of-Mouth Hematoma Following Guided Implant Placement in a Severely Resorbed Edentulous Mandible: A Case Report.
+AUTHORS: Mun Hwi, Park Kyoung-Chan, Kim Hyo-Joon, Oh Ji-Su, Moon Seong-Yong
+JOURNAL: The International journal of oral & maxillofacial implants
+ID[doi]: 10.11607/jomi.11661
+ID[pmid]: 43063505
+PUBTYPES: Journal Article
+
+## ABSTRACT
+Hemorrhage in the floor of the mouth following anterior mandibular implant placement is a rare but potentially life-threatening complication, particularly in patients with severe alveolar ridge resorption.
+A 59-year-old male underwent computer- guided implant placement using a mucosa-supported static surgical guide. Sudden intraoral bleeding and sublingual swelling caused tongue elevation and impending airway obstruction. Imaging and Management: Emergency neck CT and postdischarge CBCT imaging revealed lingual cortical perforation at the #31 implant site with suspected vascular injury in the floor of the mouth. Direct comparison with the original digital surgical plan obtained from the referring clinic showed that only the #31 implant was displaced lingually from its planned position, whereas the remaining five implants were consistent with the plan, suggesting that clinically significant deviation may have occurred during freehand implant insertion after fully guided osteotomy preparation. Emergency nasotracheal intubation and conservative management led to progressive resolution of the hematoma.
+Even with guided surgery, hemorrhagic complications can still occur in severely resorbed mandibles. In completely edentulous cases, mucosa-supported guides without auxiliary fixation and freehand implant insertion after guide removal may contribute to positional deviation, increasing the risk of lingual cortical perforation and vascular injury. Thorough CBCT assessment and preparedness for airway intervention are essential to prevent catastrophic outcomes.
