@@ -1313,3 +1313,8 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-11-26 | gostemeyer-2021-glass-hybrid-nanocomposite-sclerotic-nccl-18m-rct | abstract-only | PubMed abstract only, no PMC |
 | 2026-11-26 | favetti-2022-naocl-acid-etching-cervical-retention-3year-rct | abstract-only | PubMed abstract only, no PMC |
 | 2026-11-26 | schwendicke-2021-glass-hybrid-composite-nccl-3year-rct | abstract-only | PubMed abstract only, no PMC |
+| 2026-11-26 | schroeder-2015-enamel-bevel-cervical-composite-retention-sr-ma | abstract-only | PubMed abstract only, no PMC |
+| 2026-11-26 | da-costa-2013-enamel-bevel-nccl-composite-rct | abstract-only | PubMed abstract only, no PMC |
+| 2026-11-26 | baratieri-2003-resin-viscosity-enamel-bevel-class-v-3year-rct | abstract-only | PubMed abstract only, no PMC, no DOI |
+| 2026-11-26 | baratieri-2003-resin-viscosity-enamel-bevel-class-v-3year-rct | no-doi | PubMed record carries no DOI; doi: unknown on both pages; identity rests on PMID 14531591 + title |
+| 2026-11-26 | heintze-2010-clinical-performance-cervical-restorations-ma | abstract-only | PubMed abstract only, no PMC |
