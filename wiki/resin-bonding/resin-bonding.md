@@ -15,20 +15,20 @@ tags: [navigation, category-index, resin-bonding]
 > [!summary] 한국어 핵심요약
 > - **분야**: 레진접착
 > - **범위**: Adhesive systems, bonding mechanisms, dentin adhesion
-> - **수록 논문**: 110편
+> - **수록 논문**: 115편
 
 ## Three-line Summary
 
 **Scope**: Adhesive systems, bonding mechanisms, dentin adhesion
-**Indexed papers**: 110 papers in `wiki/resin-bonding/`.
+**Indexed papers**: 115 papers in `wiki/resin-bonding/`.
 
 ## 세줄요약
 
 **분야**: 레진접착
-**수록 논문**: 110편
+**수록 논문**: 115편
 **하위 카테고리**: 없음
 
-## Papers in this Category (110)
+## Papers in this Category (115)
 
 | Paper |
 |---|
@@ -38,6 +38,7 @@ tags: [navigation, category-index, resin-bonding]
 | [[alvarenga-2024-self-adhesive-vs-conventional-cement-failure-sr-ma|Self-adhesive resin cement versus conventional cements on the failure rate of indirect single-tooth restorations: A systematic review and meta-analysis of randomized clinical trials]] |
 | [[anithakumari-2022-desensitizing-agents-bond-strength-sr|The effect of desensitizing agents on the bond strength of dentin bonding agents: A systematic review]] |
 | [[assis-2023-acid-etching-universal-adhesive-nccl-sr-ma|Does Acid Etching Influence the Adhesion of Universal Adhesive Systems in Noncarious Cervical Lesions? A Systematic Review and Meta-analysis]] |
+| [[baratieri-2003-resin-viscosity-enamel-bevel-class-v-3year-rct|Effect of resin viscosity and enamel beveling on the clinical performance of Class V composite restorations: three-year results]] |
 | [[borouziniat-2024-self-adhesive-vs-etch-resin-cement-zirconia-sr-ma|Comparison of bond strength of self-adhesive and self-etch or total-etch resin cement to zirconia: A systematic review and meta-analysis]] |
 | [[bourgi-2026-chx-pretreatment-clinical-adhesive-restorations-sr-ma|CHX dentin pretreatment and clinical performance of adhesive restorations: SR + MA]] |
 | [[breschi-2018-dentin-bonding-collagen-structure-bond-preservation-review|Dentin bonding systems: From dentin collagen structure to bond preservation and clinical applications]] |
@@ -50,6 +51,7 @@ tags: [navigation, category-index, resin-bonding]
 | [[comba-2024-effects-etching-time-ethanol-wet|Effects of Etching Time and Ethanol Wet Bonding on Bond Strength and Metalloproteinase Activity in Radicular Dentin]] |
 | [[corbella-2025-surgical-techniques-vertical-root-fractures-sr|The Efficacy of Surgical Techniques for the Management of Confirmed Vertical Root Fractures: A Systematic Review]] |
 | [[cotert-2024-desensitizing-agents-zirconia-bond-strength|Comparative evaluation of desensitizing agents on the shear bond strength of zirconia restorations to dentin]] |
+| [[da-costa-2013-enamel-bevel-nccl-composite-rct|Effect of enamel bevel on the clinical performance of resin composite restorations placed in non-carious cervical lesions]] |
 | [[daneshkazemi-2013-clearfil-se-bond-mechanical-thermal|Effects of mechanical and thermal load cycling on micro tensile bond strength of clearfil SE bond to superficial dentin]] |
 | [[de-oliveira-2021-10-mdp-self-etch-adhesive-dentin-sr|Does Addition of 10-MDP Monomer in Self-etch Adhesive Systems Improve the Clinical Performance of Noncarious Cervical Lesion Restorations? A Systematic Review and Meta-analysis.]] |
 | [[de-oliveira-correia-2026-bulk-fill-nanofill-nccl-6yr|Bulk-Fill vs Nanofill Resin Composite in NCCLs: 6-Year RCT]] |
@@ -74,6 +76,7 @@ tags: [navigation, category-index, resin-bonding]
 | [[hamdi-2025-surface-pretreatments-sclerotic-dentin-bond-sr|Surface pretreatments for bond to sclerotic dentin (NCCLs): SR]] |
 | [[hardan-2021-universal-adhesive-dentin-bond-sr-ma|Bond Strength of Universal Adhesives to Dentin: A Systematic Review and Meta-Analysis]] |
 | [[hardan-2022-immediate-dentin-sealing-sr-ma|Immediate Dentin Sealing for Adhesive Cementation of Indirect Restorations: A Systematic Review and Meta-Analysis]] |
+| [[heintze-2010-clinical-performance-cervical-restorations-ma|Clinical performance of cervical restorations--a meta-analysis]] |
 | [[hong-2021-universal-adhesive-etching-modes-sr-ma|Clinical effects of different etching modes for universal adhesives: a systematic review and meta-analysis]] |
 | [[hurtado-2023-universal-adhesives-long-term-dentin|Long-Term In Vitro Adhesive Properties of Two Universal Adhesives to Dentin]] |
 | [[josic-2022-ids-postoperative-sensitivity-sr-ma|Does immediate dentin sealing influence postoperative sensitivity in teeth restored with indirect restorations? A systematic review and meta-analysis]] |
@@ -97,6 +100,7 @@ tags: [navigation, category-index, resin-bonding]
 | [[magne-2005-immediate-dentin-sealing-fundamental-procedure|Immediate Dentin Sealing: A Fundamental Procedure for Indirect Bonded Restorations]] |
 | [[magne-2007-ids-supports-delayed-restoration-placement|Immediate dentin sealing supports delayed restoration placement]] |
 | [[mahn-2015-bonding-parameters-cervical-restorations-ma|Meta-Analysis of the Influence of Bonding Parameters on the Clinical Outcome of Tooth-colored Cervical Restorations]] |
+| [[melo-2026-class-v-bevel-universal-adhesive-bond-strength|Bond strength in class V cavities: an in vitro study on beveling, universal adhesive strategy, and composite type]] |
 | [[meral-2025-gic-resin-composite-systemic-disease-nccl-48m|GIC vs Resin Composite in NCCLs of Systemic Disease Patients: 48-Month RCT]] |
 | [[miao-2021-rubber-dam-isolation-restorative-treatment|Rubber dam isolation for restorative treatment in dental patients]] |
 | [[mortazavi-2012-ethanol-wet-bonding-clinical-trial|A randomized clinical trial evaluating the success rate of ethanol wet bonding technique and two adhesives]] |
@@ -117,6 +121,7 @@ tags: [navigation, category-index, resin-bonding]
 | [[sagen-2025-composite-porcelain-bond-strength-surface-treatment|An in vitro study on the bond strength between composite resin and porcelain using different surface treatment and bonding methods]] |
 | [[salvio-2013-hybridization-quality-bond-strength-adhesive-dentin|Hybridization quality and bond strength of adhesive systems according to interaction with dentin]] |
 | [[samartzi-2021-immediate-dentin-sealing-review|Immediate Dentin Sealing: A Literature Review]] |
+| [[schroeder-2015-enamel-bevel-cervical-composite-retention-sr-ma|Effect of enamel bevel on retention of cervical composite resin restorations: A systematic review and meta-analysis]] |
 | [[schwendicke-2021-glass-hybrid-composite-nccl-3year-rct|Glass hybrid versus composite for non-carious cervical lesions: Survival, restoration quality and costs in randomized controlled trial after 3 years]] |
 | [[sharifian-2023-tbs-er-se-modes-superficial-deep-dentin|Microtensile Bond Strength of Different Bonding Agents to Superficial and Deep Dentin in Etch-and-Rinse and Self-Etch Modes]] |
 | [[shimizu-2021-evaluation-of-restorative-techniques-for|Evaluation of Restorative Techniques for Vertically Fractured Roots]] |
