@@ -2,7 +2,7 @@
 title: "레진접착 — resin-bonding"
 authors: navigation
 year: 2026
-date: 2026-11-24
+date: 2026-11-26
 doi: N/A
 source: navigation
 category: resin-bonding
@@ -15,20 +15,20 @@ tags: [navigation, category-index, resin-bonding]
 > [!summary] 한국어 핵심요약
 > - **분야**: 레진접착
 > - **범위**: Adhesive systems, bonding mechanisms, dentin adhesion
-> - **수록 논문**: 104편
+> - **수록 논문**: 110편
 
 ## Three-line Summary
 
 **Scope**: Adhesive systems, bonding mechanisms, dentin adhesion
-**Indexed papers**: 104 papers in `wiki/resin-bonding/`.
+**Indexed papers**: 110 papers in `wiki/resin-bonding/`.
 
 ## 세줄요약
 
 **분야**: 레진접착
-**수록 논문**: 104편
+**수록 논문**: 110편
 **하위 카테고리**: 없음
 
-## Papers in this Category (104)
+## Papers in this Category (110)
 
 | Paper |
 |---|
@@ -64,10 +64,12 @@ tags: [navigation, category-index, resin-bonding]
 | [[elhaddad-2026-cervical-margin-relocation-periodontal-restorative|Periodontal and restorative outcomes of cervical margin relocation: a systematic review and meta-analysis]] |
 | [[emami-arjomand-2024-chx-ipa-fiber-post-bond|In Vitro Effects of Chlorhexidine and Isopropyl Alcohol Conditioning Agents on Immediate and Late Bond Strength of Fiber Posts Dentin]] |
 | [[etiennot-2025-mdp-saliva-contaminated-dentin|Effective 10-MDP Bonding to Saliva-Contaminated Dentin]] |
+| [[favetti-2022-naocl-acid-etching-cervical-retention-3year-rct|NaOCl Application after Acid Etching and Retention of Cervical Restorations: A 3-Year Randomized Clinical Trial]] |
 | [[fehrenbach-2021-10-mdp-bonding-performance-sr-ma|Is the presence of 10-MDP associated to higher bonding performance for self-etching adhesive systems? A meta-analysis of in vitro studies.]] |
 | [[forville-2024-moist-dentin-adhesive-systems-reevaluation|Re-evaluating the role of moist dentin of adhesive systems used in the etch-and-rinse bonding strategy. A systematic review and meta-analysis.]] |
 | [[forville-2026-air-abrasion-nccl-18m-rct|Air Abrasion as Dentin Pretreatment in NCCLs: 18-Month Split-Mouth RCT]] |
 | [[gauthier-2005-oxygen-inhibition-dental-resins|Oxygen inhibition in dental resins]] |
+| [[gostemeyer-2021-glass-hybrid-nanocomposite-sclerotic-nccl-18m-rct|Glass Hybrid Versus Nanocomposite for Restoration of Sclerotic Non-carious Cervical Lesions: 18-Month Results of a Randomized Controlled Trial]] |
 | [[grangeiro-2024-preheated-composite-picn-feldspathic-bond-strength|Preheated Composite as an Alternative for Bonding Feldspathic and Hybrid Ceramics: A Microshear Bond Strength Study]] |
 | [[hamdi-2025-surface-pretreatments-sclerotic-dentin-bond-sr|Surface pretreatments for bond to sclerotic dentin (NCCLs): SR]] |
 | [[hardan-2021-universal-adhesive-dentin-bond-sr-ma|Bond Strength of Universal Adhesives to Dentin: A Systematic Review and Meta-Analysis]] |
@@ -90,9 +92,11 @@ tags: [navigation, category-index, resin-bonding]
 | [[liao-2026-collagen-crosslinkers-resin-dentin-interface-sr-ma|Collagen cross-linkers on resin-dentin interface: SR + MA]] |
 | [[liu-2011-limitations-bonding-dentin-bond-degradation-review|Limitations in Bonding to Dentin and Experimental Strategies to Prevent Bond Degradation]] |
 | [[loguercio-2015-isolation-method-operative-field-gingival|Influence of Isolation Method of the Operative Field on Gingival Damage, Patients' Preference, and Restoration Retention in Noncarious Cervical Lesions]] |
+| [[luhrs-2020-composite-restorations-nccl-cavity-preparation|Composite restorations placed in non-carious cervical lesions—Which cavity preparation is clinically reliable?]] |
 | [[magne-2005-ids-improves-bond-strength-indirect|Immediate dentin sealing improves bond strength of indirect restorations]] |
 | [[magne-2005-immediate-dentin-sealing-fundamental-procedure|Immediate Dentin Sealing: A Fundamental Procedure for Indirect Bonded Restorations]] |
 | [[magne-2007-ids-supports-delayed-restoration-placement|Immediate dentin sealing supports delayed restoration placement]] |
+| [[mahn-2015-bonding-parameters-cervical-restorations-ma|Meta-Analysis of the Influence of Bonding Parameters on the Clinical Outcome of Tooth-colored Cervical Restorations]] |
 | [[meral-2025-gic-resin-composite-systemic-disease-nccl-48m|GIC vs Resin Composite in NCCLs of Systemic Disease Patients: 48-Month RCT]] |
 | [[miao-2021-rubber-dam-isolation-restorative-treatment|Rubber dam isolation for restorative treatment in dental patients]] |
 | [[mortazavi-2012-ethanol-wet-bonding-clinical-trial|A randomized clinical trial evaluating the success rate of ethanol wet bonding technique and two adhesives]] |
@@ -109,9 +113,11 @@ tags: [navigation, category-index, resin-bonding]
 | [[patangia-2025-effect-oxygen-inhibited-layer-dental|Effect of Oxygen-Inhibited Layer of Dental Adhesives on Bond Strength: A Systematic Review]] |
 | [[peumans-2023-hema-free-1step-self-etch-nccl-14year-rct|Fourteen-year Clinical Performance of a HEMA-free One-step Self-etch Adhesive in Non-carious Cervical Lesions]] |
 | [[peumans-2023-universal-adhesive-nccl-3year-rct|Three-year Clinical Performance of a Universal Adhesive in Non-Carious Cervical Lesions]] |
+| [[saengnil-2022-retrospective-factors-failure-nccl-restorations|A Retrospective Clinical Study on Factors Influencing the Failure of NCCL Restorations]] |
 | [[sagen-2025-composite-porcelain-bond-strength-surface-treatment|An in vitro study on the bond strength between composite resin and porcelain using different surface treatment and bonding methods]] |
 | [[salvio-2013-hybridization-quality-bond-strength-adhesive-dentin|Hybridization quality and bond strength of adhesive systems according to interaction with dentin]] |
 | [[samartzi-2021-immediate-dentin-sealing-review|Immediate Dentin Sealing: A Literature Review]] |
+| [[schwendicke-2021-glass-hybrid-composite-nccl-3year-rct|Glass hybrid versus composite for non-carious cervical lesions: Survival, restoration quality and costs in randomized controlled trial after 3 years]] |
 | [[sharifian-2023-tbs-er-se-modes-superficial-deep-dentin|Microtensile Bond Strength of Different Bonding Agents to Superficial and Deep Dentin in Etch-and-Rinse and Self-Etch Modes]] |
 | [[shimizu-2021-evaluation-of-restorative-techniques-for|Evaluation of Restorative Techniques for Vertically Fractured Roots]] |
 | [[simasetha-2021-surface-treatment-lithium-disilicate-bond-strength|Surface Treatment Effect on Shear Bond Strength between Lithium Disilicate Glass-Ceramic and Resin Cement]] |
