@@ -1,0 +1,53 @@
+1. J Esthet Restor Dent. 2026 Feb;38(2):307-324. doi: 10.1111/jerd.70052. Epub
+2025  Oct 29.
+
+Clinical Longevity of Direct Dental Restorations: An Umbrella Review of 
+Systematic Reviews.
+
+Fernández E(1)(2), Gil AC(3), Caviedes R(1), Díaz L(4)(5)(6), Bersezio C(1).
+
+Author information:
+(1)Restorative Dentistry Department, Faculty of Dentistry, University of Chile, 
+Santiago, Chile.
+(2)Instituto de Ciencias Biomédicas, Universidad Autónoma de Chile, Santiago, 
+Chile.
+(3)Universidad Autónoma de Chile, Facultad de Ciencias de la Salud, Santiago, 
+Chile.
+(4)Department of Prosthodontics, Faculty of Dentistry, University of Chile, 
+Santiago, Chile.
+(5)Department of Stomatology, Faculty of Dentistry, Universidad de Sevilla, 
+Sevilla, Spain.
+(6)Perioplastic Institute, Santiago, Chile.
+
+OBJECTIVE: This umbrella review synthesized high-level evidence on the clinical 
+longevity and failure patterns of direct restorative materials, including 
+conventional composites, bulk-fill resins, ormocer-based composites, and glass 
+ionomer cements (GIC/RMGIC) used in posterior restorations and non-carious 
+cervical lesions (NCCLs).
+MATERIALS AND METHODS: Sixteen systematic reviews and meta-analyses published 
+between 2012 and 2025 were included, representing over 15,000 restorations with 
+follow-up periods ranging from 6 to 120 months. Methodological quality was 
+assessed using AMSTAR 2, and evidence certainty was graded with the GRADE 
+framework. Outcomes included survival rates, failure types, and comparative risk 
+estimates (RR, OR).
+RESULTS: Conventional composites demonstrated > 90% 5-year survival, especially 
+with multi-step adhesives. Bulk-fill resins showed similar short-medium-term 
+outcomes (failure rates < 7%), but long-term data remain limited. Ormocer-based 
+composites had significantly higher failure rates (12.1%), primarily due to 
+marginal degradation. GICs exhibited lower survival but remain useful in high 
+caries risk or moisture challenged conditions. The sandwich technique with RMGIC 
+bases improved retention in NCCLs. Adhesive protocol emerged as a key prognostic 
+factor across all materials.
+CONCLUSIONS: Clinical longevity is influenced by material class, bonding 
+strategy, and patient risk profile. Conventional and bulk-fill composites remain 
+the most reliable options. RMGICs and sandwich approaches are effective in 
+specific indications.
+CLINICAL SIGNIFICANCE: This umbrella review provides clinicians with 
+consolidated, high-level evidence to optimize restorative decisions. The 
+integration of AMSTAR 2 and GRADE strengthens the clinical applicability of 
+findings.
+
+© 2025 Wiley Periodicals LLC.
+
+DOI: 10.1111/jerd.70052
+PMID: 41159592 [Indexed for MEDLINE]
