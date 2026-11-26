@@ -1,0 +1,12 @@
+TITLE: Floor-of-Mouth Hematoma Following Dental Implant Placement: Literature Review and Case Presentation.
+AUTHORS: Law Catherine, Alam Peyman, Borumandi Farzad
+JOURNAL: Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons
+ID[doi]: 10.1016/j.joms.2017.07.152
+ID[pmid]: 28810133
+PUBTYPES: Case Reports, Journal Article, Review
+
+## ABSTRACT
+The authors provide a structured review of reported cases of floor-of-mouth hematoma during or after dental implantation and frequent causes and management and present a related case.
+An online search of the medical literature was conducted from 1990 through 2016. The following search terms were used: floor of mouth hematoma, sublingual hematoma, dental implant hematoma, implant in mandible, and complication of dental implant. Abstracts were screened for relevance to the aims of the review. Relevant reports in the English language were included and referenced. The articles were reviewed for patient demographics, implant location, coagulopathy, pre- or postoperative imaging, airway management, treatment of the hematoma, and management of the offending implant.
+The literature search identified 25 reported cases. Hemorrhage was caused by perforation of the lingual cortex in 84% of cases (n = 21). Airway obstruction resulted in emergency intubation or tracheostomy in 68% of patients (n = 17). Most cases (n = 18; 72%) required surgical management in the hospital setting. Management of the offending implant was reported inconsistently. Of 17 reported cases, 5 implants had to be removed, 9 remained in situ, and in 3 cases implant placement was abandoned. Only 1 case involved preoperative 3-dimensional (3D) imaging before implant insertion. The authors report on an additional case with a serious floor-of-mouth hematoma that required immediate surgical evacuation and hemostasis.
+Serious complications, such as floor-of-mouth hematoma after dental implant insertion, can occur, which could be life-threatening. Preoperative 3D imaging helps to visualize the individual mandibular shape, which could decrease the incidence of serious complications. If injury to vessels of the floor of the mouth cannot be confidently excluded, then further assessment and treatment are recommended before the patient is discharged.
