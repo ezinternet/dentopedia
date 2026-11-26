@@ -5790,3 +5790,12 @@ tags: []
 - [[implants/mbl/hamudi-2022-the-association-of-one-abutment]] — Hamudi 2022 · rct(21명·인접 비매몰 PS 원뿔 연결, 3년): 최종 다유닛 지대주 비탈착 −0.35±0.69 mm vs 치유 지대주 3~5회 탈착 −0.57±0.80 mm(유의), 생존·성공 100%, 주위점막염 38.1% vs 41.9% — 저자는 0.22 mm 차이의 임상 유의성 유보 [Abayov SR+MA 포함 RCT, p=0.005]
 - [[implants/mbl/moreira-2021-one-abutment-one-time-effect]] — Moreira 2021 · rct(이중맹검 2기관, 후방부 PS 53개, 1년): DA 0.14±0.18 mm vs PA 0.23±0.29 mm(6개월), 0.14±0.21 vs 0.21±0.27 mm(12개월) 모두 비유의, 총 골소실 p=0.330, 생존 100% — OAOT의 '동등성'을 보여준 null RCT [Abayov 포함]
 - [[implants/mbl/wang-2017-one-time-versus-repeated-abutment]] — Wang 2017 · sr+ma(8편: RCT 7 + CCT 1, 197 vs 214개): 1회 연결이 골변화·연조직 변화에서 우위(6개월 SMD 0.41/3.23, 12개월 1.51/14.81, 3년 2.47/2.47) PD·합병증 비유의 — 무작위효과 SMD 과대, 방향성만 신뢰; 2026 SR+MA가 MD −0.23 mm로 수정
+
+## Batch ingest (added 2026-11-26) — 치경부(NCCL) 레진 수복물 탈락 PubMed 서베일런스 (7편: 전문 2 + 초록 5)
+- [[resin-bonding/mahn-2015-bonding-parameters-cervical-restorations-ma]] — Mahn 2015 · sr+ma(치경부 수복 전향 임상시험 81편·185실험, 초록만): 5년 탈락 12.3%·변연변색 27.9%·변연적합도 저하 34.6%; 러버댐+상아질 조면화 시 유지율↑(p<0.05), 법랑질 베벨 무영향, 1단계 SE가 2단계 SE(p=0.026)·3단계 ER(p=0.002)보다 불량
+- [[dental-materials/fernandez-2026-direct-restorations-longevity-umbrella-review]] — Fernández 2026 · sr(umbrella, SR/MA 16편·수복물 >15,000개, 초록만): 복합레진 5년 생존 >90%, 벌크필 실패 <7%, 오모서 12.1%, GIC 생존↓; RMGIC 샌드위치로 NCCL 유지력 개선, 접착 프로토콜이 핵심 예후인자
+- [[resin-bonding/luhrs-2020-composite-restorations-nccl-cavity-preparation]] — Lührs 2020 · rct(NCCL 85개 4군, 7.7년 재평가 64개): 전체 유지율 82.8%, 상아질 세정만 한 군 탈락 27.8%로 최고(vs 전처치 3군 p=0.041), 버 조면화·그루브·플로어블 간 차이 없음
+- [[resin-bonding/saengnil-2022-retrospective-factors-failure-nccl-restorations]] — Saengnil 2022 · retrospective(460개·96명): 교합 마모면(탈락 p=0.041)·접착 전략이 실패 핵심 인자, 변연적합도 실패 최다(치은측 50.7%·교합측 42.4%), 선택적 법랑질 산부식군 실패 최저
+- [[resin-bonding/gostemeyer-2021-glass-hybrid-nanocomposite-sclerotic-nccl-18m-rct]] — Göstemeyer 2021 · rct(경화 NCCL 175개·88명, 와동형성 없음, 18개월, 초록만): GH vs RC 실패 18% vs 12% 무차이(p=0.904), 주된 실패=유지 상실; 고령 OR 0.90/년(위험↓), 하악 2.89; 시술시간 8.6 vs 11.7분
+- [[resin-bonding/schwendicke-2021-glass-hybrid-composite-nccl-3year-rct]] — Schwendicke 2021 · rct(동일 시험 3년, 초록만): 완전 탈락 GH 17 vs RC 19개 생존 무차이(p=0.396), 총비용 GH 41.72€ < RC 51.60€(p<0.001)
+- [[resin-bonding/favetti-2022-naocl-acid-etching-cervical-retention-3year-rct]] — Favetti 2022 · rct(split-mouth 3년, 64개·23명, 초록만): 산부식 후 10% NaOCl 단백질 제거 이득 없음 — AFR 9% vs 17.8%(p=0.077), 하악(p=0.039)·소구치(p=0.013) 생존↓
