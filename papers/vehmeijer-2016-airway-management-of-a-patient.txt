@@ -1,0 +1,10 @@
+TITLE: Airway Management of a Patient with an Acute Floor of the Mouth Hematoma after Dental Implant Surgery in the Lower Jaw.
+AUTHORS: Vehmeijer Maarten J J B, Verstoep Naomi, Wolff Jan E H, Schulten Engelbert A J M, van den Berg Bas
+JOURNAL: The Journal of emergency medicine
+ID[doi]: 10.1016/j.jemermed.2016.07.099
+ID[pmid]: 27687173
+PUBTYPES: Case Reports, Journal Article
+
+## ABSTRACT
+Over the last decades, dental implants have become increasingly popular in the prosthetic rehabilitation of patients. This has subsequently led to an increase of perioperative complications. Obstruction of the airway as a result of a floor of mouth hematoma after dental implant surgery is a rare but life-threatening complication.
+A 62-year-old man presented to the emergency department with a compromised airway caused by a hematoma in the floor of the mouth that occurred during dental implant surgery in the edentulous anterior mandible. Computed tomography angiography images revealed an elevation of the floor of mouth with subsequent occlusion of the airway. In addition, a perforation of the lingual mandibular cortical plate was observed that was caused by two malpositioned dental implants. Awake fiberoptic intubation was immediately performed, the two malpositioned dental implants were subsequently removed, and the patient was extubated after 3 days. WHY SHOULD AN EMERGENCY PHYSICIAN BE AWARE OF THIS?: Perforation of the lingual mandibular cortical plate during dental implant surgery can lead to life-threatening bleeding in the floor of the mouth. This condition can be successfully treated by awake fiberoptic intubation and, if necessary, the malpositioned dental implants can be subsequently removed.
