@@ -5799,3 +5799,10 @@ tags: []
 - [[resin-bonding/gostemeyer-2021-glass-hybrid-nanocomposite-sclerotic-nccl-18m-rct]] — Göstemeyer 2021 · rct(경화 NCCL 175개·88명, 와동형성 없음, 18개월, 초록만): GH vs RC 실패 18% vs 12% 무차이(p=0.904), 주된 실패=유지 상실; 고령 OR 0.90/년(위험↓), 하악 2.89; 시술시간 8.6 vs 11.7분
 - [[resin-bonding/schwendicke-2021-glass-hybrid-composite-nccl-3year-rct]] — Schwendicke 2021 · rct(동일 시험 3년, 초록만): 완전 탈락 GH 17 vs RC 19개 생존 무차이(p=0.396), 총비용 GH 41.72€ < RC 51.60€(p<0.001)
 - [[resin-bonding/favetti-2022-naocl-acid-etching-cervical-retention-3year-rct]] — Favetti 2022 · rct(split-mouth 3년, 64개·23명, 초록만): 산부식 후 10% NaOCl 단백질 제거 이득 없음 — AFR 9% vs 17.8%(p=0.077), 하악(p=0.039)·소구치(p=0.013) 생존↓
+
+## Batch ingest (added 2026-11-26, 2차) — 치경부(Class V/NCCL) 법랑질 베벨 PubMed 서베일런스 (5편: 전문 1 + 초록 4)
+- [[resin-bonding/schroeder-2015-enamel-bevel-cervical-composite-retention-sr-ma]] — Schroeder 2015 · sr+ma(RCT 4편, 비뚤림 위험 낮음 2편, 초록만): 법랑질 베벨 1년 유지율 위험차 0.0(95% CI −0.04~0.04, p=0.91), 변연변색 0.05(−0.02~0.13) — 베벨 이득 없음, 장기 근거 부족
+- [[resin-bonding/da-costa-2013-enamel-bevel-nccl-composite-rct]] — Da Costa 2013 · prospective(42명·84개, 2단계 E&R, 초록에 무작위 명시 없음, 초록만): 12개월 유지율 베벨 91% vs 비베벨 88% 무차이
+- [[resin-bonding/baratieri-2003-resin-viscosity-enamel-bevel-class-v-3year-rct]] — Baratieri 2003 · rct(Class V 105개, 3년, 초록만): 베벨 6개월 유지 100% vs 66%였으나 2·3년엔 차이 소실, 플로어블 vs 미세충전 레진 무관
+- [[resin-bonding/heintze-2010-clinical-performance-cervical-restorations-ma]] — Heintze 2010 · sr+ma(임상연구 50편, 초록만): 3년 탈락 10%·변연변색 24%, 2단계 SE 최선·1단계 최악, 조면화 시 유지율↑(p<0.05), 베벨·격리방식 무영향 (Mahn 2015의 선행 분석)
+- [[resin-bonding/melo-2026-class-v-bevel-universal-adhesive-bond-strength]] — Melo 2026 · in-vitro(소 절치 80개 5급 와동 푸시아웃, 전문): 베벨 효과 없음(p=0.177), E&R > SE(p=0.042), 벌크필 > 일반 레진(p<0.001)
