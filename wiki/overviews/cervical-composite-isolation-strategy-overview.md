@@ -21,6 +21,11 @@ source_wiki:
   - wiki/resin-bonding/schwendicke-2021-glass-hybrid-composite-nccl-3year-rct.md
   - wiki/resin-bonding/favetti-2022-naocl-acid-etching-cervical-retention-3year-rct.md
   - wiki/dental-materials/fernandez-2026-direct-restorations-longevity-umbrella-review.md
+  - wiki/resin-bonding/schroeder-2015-enamel-bevel-cervical-composite-retention-sr-ma.md
+  - wiki/resin-bonding/heintze-2010-clinical-performance-cervical-restorations-ma.md
+  - wiki/resin-bonding/baratieri-2003-resin-viscosity-enamel-bevel-class-v-3year-rct.md
+  - wiki/resin-bonding/da-costa-2013-enamel-bevel-nccl-composite-rct.md
+  - wiki/resin-bonding/melo-2026-class-v-bevel-universal-adhesive-bond-strength.md
 ---
 
 > [!summary] 한국어 핵심요약
@@ -41,7 +46,8 @@ source_wiki:
 > - **접착 전략 > 재료 종류**: 1단계 자가부식(Self-Etch, SE)이 2단계 SE(p=0.026)·3단계 산부식-수세(Etch-and-Rinse, E&R, p=0.002)보다 임상지수 불량(Mahn 2015). 후향 460개(Saengnil 2022)에서도 접착 전략이 실패 핵심 인자였고 선택적 법랑질 산부식(Selective Enamel Etching) 군 실패가 가장 적었다(단 술자 수준과 교락).
 > - **환자·치아 위험인자 — 하악이 일관되게 불리**: 하악치는 Göstemeyer 2021(OR 2.89, 1.00–8.31)과 Favetti 2022(p=0.039) 모두에서 생존 불량, 소구치도 불량(Favetti p=0.013). **교합 마모면(occlusal wear facet)** 은 탈락 위험인자(Saengnil 2022, p=0.041). 나이는 엇갈림 — Göstemeyer는 고령일수록 위험↓(OR 0.90/년), Saengnil은 연령 무관.
 > - **재료 대안**: 와동형성 없이 수복한 경화 NCCL에서 글래스하이브리드 (Glass Hybrid, GH) vs 레진은 3년 완전 탈락 17 vs 19개로 생존 차이 없음(p=0.396), GH가 시술시간(8.6 vs 11.7분)·총비용(41.72 vs 51.60€) 모두 유리(Göstemeyer/Schwendicke 2021, 같은 시험, 초록만). 우산 리뷰(Fernández 2026, 초록만)는 레진강화형 글래스아이오노머 (Resin-Modified Glass Ionomer, RMGIC) 샌드위치가 NCCL 유지력을 개선한다고 요약.
-> - **탈락 재수복 체크리스트**: ① 상아질 조면화했나(세정만 X), ② 1단계 SE 대신 다단계/선택적 법랑질 산부식, ③ 교합 마모면 있으면 위험 고지(교합 원인 평가), ④ 하악·소구치는 예후 설명 시 반영, ⑤ 반복 탈락 + 경화 상아질이면 GH/RMGIC를 대안으로 고려, ⑥ NaOCl 전처리는 추가하지 말 것.
+> - **탈락 재수복 체크리스트**: ① 상아질 조면화했나(세정만 X), ② 1단계 SE 대신 다단계/선택적 법랑질 산부식, ③ 교합 마모면 있으면 위험 고지(교합 원인 평가), ④ 하악·소구치는 예후 설명 시 반영, ⑤ 반복 탈락 + 경화 상아질이면 GH/RMGIC를 대안으로 고려, ⑥ NaOCl 전처리는 추가하지 말 것, ⑦ 법랑질 베벨은 유지력 목적이면 생략 가능.
+> - **[2026-11-26 2차] 법랑질 베벨 (enamel bevel) — 유지력 이득 없음, 근거 일치**: RCT 한정 SR+MA(Schroeder 2015, RCT 4편)에서 1년 유지율 위험차 **0.0 (95% CI −0.04~0.04, p=0.91)**, 변연변색도 무차이. 메타분석 2편(Heintze 2010 임상연구 50편, Mahn 2015 81편) 모두 "베벨 무영향". 개별 시험: Da Costa 2013 12개월 91% vs 88%, Baratieri 2003은 6개월 100% vs 66%였으나 **2·3년엔 차이 소실**(초기 이득이 있어도 지속되지 않음). 결합강도 시험관 연구(Melo 2026)도 베벨 무효(p=0.177). Goodacre 2022의 베벨 권고는 서술형 리뷰 수준 — 임상 비교 근거로는 지지되지 않는다. 단, 최장 추적이 3년이고 RCT 수가 적어 "이득 없음 ≠ 완전 동등". 심미적 경계 이행 목적의 베벨 효과는 위키에 근거 없음.
 
 ## Three-line Summary
 
@@ -77,6 +83,8 @@ The clinical question — "치경부 레진 충전에 열구액 때문에 코드
 
 **Axis 7 — Material alternatives when retention keeps failing.** In sclerotic NCCLs restored without mechanical preparation, [[resin-bonding/gostemeyer-2021-glass-hybrid-nanocomposite-sclerotic-nccl-18m-rct]] (18-month interim) and its 3-year report [[resin-bonding/schwendicke-2021-glass-hybrid-composite-nccl-3year-rct]] (both abstract-only) found no survival difference between a glass hybrid and an etch-and-rinse composite (total loss 17 vs 19 restorations, p=0.396), with retention loss the dominant failure mode in both arms; the glass hybrid was faster (8.6 vs 11.7 min) and cheaper (total 41.72 vs 51.60 EUR, p<0.001). The umbrella review [[dental-materials/fernandez-2026-direct-restorations-longevity-umbrella-review]] (abstract-only) summarizes that an RMGIC sandwich improves NCCL retention and that adhesive protocol is the key prognostic factor across materials. Note that the GH trial arms had no cavity preparation, whereas Lührs shows preparation matters for composite; the two findings are not directly comparable.
 
+**Axis 8 — Enamel bevel: no retention benefit (added 2026-11-26, second batch).** Every clinical source we hold points the same way. [[resin-bonding/schroeder-2015-enamel-bevel-cervical-composite-retention-sr-ma]] (RCT-only SR+MA, 4 RCTs, 2 at low risk of bias; abstract-only) found no difference in 1-year retention (risk difference 0.0, 95% CI −0.04 to 0.04, p=0.91) or marginal discoloration (0.05, −0.02 to 0.13). Both broad cervical meta-analyses from the Heintze group — [[resin-bonding/heintze-2010-clinical-performance-cervical-restorations-ma]] (50 studies; 3-year loss 10%) and Mahn 2015 (81 trials) — found bevelling had no influence, while dentin roughening did improve retention in both. Individual trials: [[resin-bonding/da-costa-2013-enamel-bevel-nccl-composite-rct]] (prospective within-patient trial, randomization not stated in the abstract; 84 restorations) reported 12-month retention 91% beveled vs 88% non-beveled; [[resin-bonding/baratieri-2003-resin-viscosity-enamel-bevel-class-v-3year-rct]] (RCT, 105 Class V) showed a 6-month advantage (100% vs 66%) that disappeared at 2 and 3 years. At the bench, [[resin-bonding/melo-2026-class-v-bevel-universal-adhesive-bond-strength]] (in-vitro push-out, full text) found no bevel effect (p=0.177) but did find etch-and-rinse above self-etch (p=0.042). The bevel recommendation in Goodacre 2022 is therefore a narrative-review position not supported by comparative data. Limits: longest follow-up is 3 years, the RCT count is small, and absence of benefit is not proof of equivalence; no held paper tests bevelling for esthetic margin blending.
+
 **Practical caveat — hemostatic residue.** Impregnated cords (FeSO₄, aluminium chloride) left on the bonding surface impair adhesion; rinse thoroughly before adhesive/light-cure. A non-impregnated cord under dry pressure, retracting the sulcus only through bonding, is the pragmatic default.
 
 ## Decision tree (chairside)
@@ -85,7 +93,7 @@ The clinical question — "치경부 레진 충전에 열구액 때문에 코드
 2. **Margin subgingival, GCF encroaching?** → Retract: non-impregnated cord (#000/#00) or cervical clamp (B4/212) to expose margin + block GCF until cure. Rinse any hemostatic before bonding.
 3. **Lesion already deep/subgingival (indirect or large direct)?** → Consider cervical margin relocation to lift the margin supragingival before finishing (ElHaddad 2026).
 4. **Never** deepen a margin subgingivally just to place a cord — weigh Schätzle's long-term periodontal cost.
-5. **Re-treating a debonded cervical restoration?** → Roughen the dentin (do not just clean; Lührs 2020); use a multi-step or selective-enamel-etch protocol rather than one-step self-etch (Mahn 2015, Saengnil 2022); skip NaOCl deproteinization (Favetti 2022); check for occlusal wear facets and record mandibular/premolar site as higher risk.
+5. **Re-treating a debonded cervical restoration?** → Roughen the dentin (do not just clean; Lührs 2020); use a multi-step or selective-enamel-etch protocol rather than one-step self-etch (Mahn 2015, Saengnil 2022); skip NaOCl deproteinization (Favetti 2022); check for occlusal wear facets and record mandibular/premolar site as higher risk. An enamel bevel is optional — it does not improve retention (Schroeder 2015, Heintze 2010, Mahn 2015).
 6. **Repeated loss on sclerotic dentin, or chairtime/cost is limiting?** → A glass hybrid or RMGIC approach is a reasonable alternative (Göstemeyer/Schwendicke 2021, no survival difference; Fernández 2026).
 
 ## Related Papers
@@ -104,5 +112,10 @@ The clinical question — "치경부 레진 충전에 열구액 때문에 코드
 - [[resin-bonding/gostemeyer-2021-glass-hybrid-nanocomposite-sclerotic-nccl-18m-rct]] — glass hybrid vs composite on sclerotic NCCL, 18 months; mandible OR 2.89
 - [[resin-bonding/schwendicke-2021-glass-hybrid-composite-nccl-3year-rct]] — same trial at 3 years: no survival difference, glass hybrid cheaper
 - [[dental-materials/fernandez-2026-direct-restorations-longevity-umbrella-review]] — umbrella: RMGIC sandwich improves NCCL retention; adhesive protocol is key
+- [[resin-bonding/schroeder-2015-enamel-bevel-cervical-composite-retention-sr-ma]] — RCT-only SR+MA: enamel bevel, 1-year retention RD 0.0 (p=0.91)
+- [[resin-bonding/heintze-2010-clinical-performance-cervical-restorations-ma]] — MA (50 studies): bevel and isolation no effect; roughening helps; 3-year loss 10%
+- [[resin-bonding/baratieri-2003-resin-viscosity-enamel-bevel-class-v-3year-rct]] — RCT 3 years: early bevel advantage gone by 2–3 years
+- [[resin-bonding/da-costa-2013-enamel-bevel-nccl-composite-rct]] — 12-month retention 91% beveled vs 88% non-beveled
+- [[resin-bonding/melo-2026-class-v-bevel-universal-adhesive-bond-strength]] — in-vitro: no bevel effect on bond strength; E&R > SE
 
 <!-- thesis-reviewed: 2026-10-30 -->
