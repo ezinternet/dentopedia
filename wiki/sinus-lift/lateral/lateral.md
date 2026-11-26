@@ -2,7 +2,7 @@
 title: "상악동거상술·측방 — lateral"
 authors: navigation
 year: 2026
-date: 2026-11-17
+date: 2026-11-26
 doi: N/A
 source: navigation
 category: sinus-lift/lateral
@@ -15,20 +15,20 @@ tags: [navigation, category-index, lateral]
 > [!summary] 한국어 핵심요약
 > - **분야**: 상악동거상술·측방
 > - **범위**: Lateral window approach, membrane, grafting materials
-> - **수록 논문**: 133편
+> - **수록 논문**: 137편
 
 ## Three-line Summary
 
 **Scope**: Lateral window approach, membrane, grafting materials
-**Indexed papers**: 133 papers in `wiki/sinus-lift/lateral/`.
+**Indexed papers**: 137 papers in `wiki/sinus-lift/lateral/`.
 
 ## 세줄요약
 
 **분야**: 상악동거상술·측방
-**수록 논문**: 133편
+**수록 논문**: 137편
 **하위 카테고리**: 없음
 
-## Papers in this Category (133)
+## Papers in this Category (137)
 
 | Paper |
 |---|
@@ -42,6 +42,7 @@ tags: [navigation, category-index, lateral]
 | [[altayar-2023-cbct-maxillary-sinus-septa-yemeni|Cone-beam computed tomographic analysis of maxillary sinus septa among Yemeni population: a cross-sectional study]] |
 | [[ananda-2015-anatomical-considerations-first-maxillary-molar|Anatomical considerations for implant placements in first maxillary molar extracted sites in East Asian patients]] |
 | [[aricioglu-2017-prf-sinus-membrane-perforation-animal|Histological evaluation of effectiveness of platelet-rich fibrin on healing of sinus membrane perforations: A preclinical animal study]] |
+| [[basma-2021-large-artery-management-maxillary-sinus|Management of a Large Artery During Maxillary Sinus Bone Grafting: A Case Report]] |
 | [[chaware-2021-short-vs-long-implant-sinus-graft-sr-ma|The rehabilitation of posterior atrophic maxilla: graftless short implant vs conventional long implant with sinus graft — SR and meta-analysis of RCTs]] |
 | [[correia-2021-porcine-xenograft-vs-autograft-sinus-lift-rct|Advantages of Porcine Xenograft over Autograft in Sinus Lift: A Randomised Clinical Trial]] |
 | [[craig-2024-ent-oral-surgeon-collaboration-sinus-elevation|Collaboration between otolaryngologists and oral surgeons in maxillary sinus elevation planning]] |
@@ -140,6 +141,7 @@ tags: [navigation, category-index, lateral]
 | [[somngam-2025-new-bone-formation-biphasic-calcium|New bone formation of biphasic calcium phosphate bone substitute material: a systematic review and network meta-analysis of randomized controlled trials (RCTs)]] |
 | [[spinu-2025-collagenated-porcine-xenograft-severe-atrophy-case-series|Sinus Lift with Collagenated Porcine Xenograft in Severely Atrophic Posterior Maxillae: Case Series with Histologic Correlation and Long-Term Outcomes]] |
 | [[stacchi-2017-sintered-nanohydroxyapatite-vs-bovine-sinus-rct|Histologic and Histomorphometric Comparison between Sintered Nanohydroxyapatite and Anorganic Bovine Xenograft in Maxillary Sinus Grafting: A Split-Mouth Randomized Controlled Clinical Trial]] |
+| [[stank-2023-alveolar-antral-artery-cone-beam|Alveolar antral artery: cone beam computed tomography study and clinical context]] |
 | [[starch-jensen-2017-sinus-floor-augmentation-treatment-modalities|Maxillary Sinus Floor Augmentation: a Review of Selected Treatment Modalities]] |
 | [[starch-jensen-2019-sinus-augmentation-barrier-membrane-window|Maxillary Sinus Floor Augmentation With or Without Barrier Membrane Coverage of the Lateral Window]] |
 | [[sun-2026-lift-with-precision-microsurgical-application|Lift with precision: Microsurgical application in maxillary sinus elevation]] |
@@ -151,6 +153,7 @@ tags: [navigation, category-index, lateral]
 | [[toledano-2022-short-versus-standard-implants-sinus|Short Implants (≤6mm) vs. Standard Implants + Sinus Lift in Atrophic Posterior Maxilla]] |
 | [[trimmel-2021-relative-performance-various-biomaterials|Relative performance of various biomaterials used for maxillary sinus augmentation: A Bayesian network meta-analysis]] |
 | [[turker-2026-maxillary-sinus-septa-perforation-risk|Evaluation of maxillary sinus septa and predicted Schneiderian membrane perforation risk: a cone beam computed tomography study]] |
+| [[urechescu-2026-psaa-localization-lateral-window-sinus|Assessment and localization of the posterior superior alveolar artery in lateral window approach for maxillary sinus floor elevation]] |
 | [[vaddi-2021-available-height-location-patency-ostium|Evaluation of available height, location, and patency of the ostium for sinus augmentation from an implant treatment planning perspective]] |
 | [[van-2023-osteoinductive-calcium-phosphate-with-submicron|Osteoinductive calcium phosphate with submicron topography as bone graft substitute for maxillary sinus floor augmentation: A translational study.]] |
 | [[wallace-2003-effect-maxillary-sinus-augmentation-survival|Effect of maxillary sinus augmentation on the survival of endosseous dental implants. A systematic review.]] |
@@ -158,6 +161,7 @@ tags: [navigation, category-index, lateral]
 | [[wen-2023-lateral-sinus-floor-defects-retrospective|Lateral sinus floor elevation in patients with sinus floor defects: A retrospective study with a 1- to 9-year follow-up]] |
 | [[wu-2026-the-influence-of-maxillary-lateral|The influence of maxillary lateral wall thickness on the alveolar horizontal bone dimension after lateral sinus elevation without bone grafts: A retrospective study]] |
 | [[xin-2020-advanced-platelet-rich-fibrin-schneiderian|Histological and Histomorphometric Evaluation of Applying a Bioactive Advanced Platelet-Rich Fibrin to a Perforated Schneiderian Membrane in a Maxillary Sinus Elevation Model]] |
+| [[yamamoto-2023-application-of-a-titanium-screw|Application of a Titanium Screw for the Hemorrhage from the Bone Channel during the Lateral Window Technique: A Technical Note]] |
 | [[yang-2024-sinus-septa-wall-thickness-perforation-risk|Association Between Sinus Septa and Lateral Wall Thickness with Risk of Perforation During Maxillary Sinus Lift Surgery]] |
 | [[ye-2025-rrh-sinus-membrane-perforation-sr-ma|Residual ridge height as a potential risk factor for membrane perforation during lateral-window sinus elevation surgery: a systematic review and meta-analysis]] |
 | [[yue-2022-sinus-floor-elevation-before-extraction|Sinus Floor Elevation Using a New Approach before Extraction of Periodontally Hopeless Maxillary Molars: A Case Report with 3-year Follow-Up]] |
