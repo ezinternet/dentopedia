@@ -13,6 +13,12 @@ source_collection: synthesis
 tags: [adhesion, bonding, mdp, silane, saliva-contamination, 3d-printed-crown, clearfil-se-bond, stamp-technique, overview, hybridization-quality, nanoleakage, sem, universal-adhesive, network-meta-analysis]
 source_wiki:
   - wiki/resin-bonding/salvio-2013-hybridization-quality-bond-strength-adhesive-dentin.md
+  - wiki/resin-bonding/mahn-2015-bonding-parameters-cervical-restorations-ma.md
+  - wiki/resin-bonding/loguercio-2015-isolation-method-operative-field-gingival.md
+  - wiki/resin-bonding/saengnil-2022-retrospective-factors-failure-nccl-restorations.md
+  - wiki/resin-bonding/luhrs-2020-composite-restorations-nccl-cavity-preparation.md
+  - wiki/resin-bonding/favetti-2022-naocl-acid-etching-cervical-retention-3year-rct.md
+  - wiki/dental-materials/fernandez-2026-direct-restorations-longevity-umbrella-review.md
 ---
 
 ## 한국어 핵심요약
@@ -34,7 +40,10 @@ source_wiki:
 > - 결합 외 성질: 근면 탈회 억제는 레진강화형 글래스아이오노머 (Resin-Modified Glass Ionomer, RMGI) > Ceramir > TheraCem > Activa 순이었고 일반 SARC(Unicem 2)는 오히려 탈회되었다(Huang 2020). 생체활성유리 1–2 wt%를 넣은 SARC는 치수줄기세포 광화를 높였고 TheraCem이 가장 낮았다(Kwon 2026). 산소 억제층은 광중합 레진과의 결합을 높이고 화학중합 레진과는 낮췄다(Patangia 2025, in-vitro 8편). [확인]
 > - **OIL·자가부식 호환 주의**: 산소 억제층(Oxygen-Inhibited Layer, OIL)은 결합에 필수가 아니다 — OIL 유무에 따른 µTBS 동등(Suh 2004). 그러나 all-in-one 자가산부식(Self-Etch, SE) 접착제의 OIL은 산성을 띠어 3차 아민 활성제를 억제 → 자가중합(self-cure)·이중중합(dual-cure) 레진 시멘트와 호환 불가 (별도 처리 필요). [확인]
 > - **OIL 감소 ≠ 결합강도 향상**: Scotchbond Universal Plus(SP)는 전임 Scotchbond Universal(SB) 대비 OIL 65% 감소(12.2 vs 35.4 µm, p<0.001), 전환율(Degree of Conversion, DC)·경도·탄성계수 모두 향상; µTBS는 동등 — OIL 두께 단독으로 µTBS가 결정되지 않음(Alam 2023). [확인]
-> - **확신도**: 축 1·2·3·4·6 = 근거강함(in-vitro 한정); 축 5 stamp = 미검증(case report).
+> - **[2026-11-26] 임상 유지율로 본 접착 전략 (축 8)**: 치경부 수복 전향 임상시험 81편 메타분석(Mahn 2015, 초록만)에서 **1단계 자가부식(1-step SE)이 2단계 SE(p=0.026)·3단계 산부식-수세(Etch-and-Rinse, E&R, p=0.002)보다 임상지수 불량** — in-vitro의 "2-step SE 우위"(Salvio 2013)가 임상 탈락률에서도 같은 방향. 5년 탈락 12.3%가 기준선. 후향 460개(Saengnil 2022)에선 선택적 법랑질 산부식(Selective Enamel Etching)군 실패 최저(술자 수준과 교락).
+> - **격리 1순위의 임상 근거는 생각보다 약함**: 직접 무작위 비교(Loguercio 2015 split-mouth RCT)에서 러버댐 vs 코튼롤/압배코드 18개월 유지 **73% vs 73%** 무차이. Mahn 2015의 러버댐 효과는 시험 간 비교, Cochrane(Miao 2021)은 6개월만 low-certainty. → 오염이 결합력을 떨어뜨린다는 in-vitro 근거는 강하지만, 러버댐 자체가 임상 탈락률을 바꾼다는 근거는 불확실.
+> - **전처리: in-vitro 이득 ≠ 임상 이득**: 산부식 후 10% 차아염소산나트륨 (NaOCl) 탈단백은 NCCL 유지력 추가 이득 없음(Favetti 2022 RCT 3년, 연간 실패율 9% vs 17.8%, p=0.077, 초록만). 반면 상아질을 버로 조면화하지 않고 세정만 하면 7.7년 탈락 27.8%로 최고(Lührs 2020 RCT) — 기계적 조면화는 임상에서 확인된 전처리.
+> - **확신도**: 축 1·2·3·4·6 = 근거강함(in-vitro 한정); 축 5 stamp = 미검증(case report); 축 8 = 임상(MA·RCT, 단 다수 초록만).
 
 ## Three-line Summary
 
@@ -97,9 +106,9 @@ The fatigue/aging picture is sharper once universal adhesives are compared head-
 3. **1-step universal 사용 중** — Katana Cleaner 또는 phosphoric acid 재처리로 decontamination 후 재본딩.
 4. **혈액 오염** — 어떤 시스템이든 decontamination 필수. [확인]
 
-**격리(isolation)의 임상 근거 — rubber dam이 1순위인 이유**: The "isolation-first" thesis now has a clinical anchor beyond the in-vitro contamination work. Miao (2021), a Cochrane SR+MA of 6 RCTs (1342 participants, all high risk of bias), found rubber-dam isolation may increase survival of direct composite NCCL restorations at 6 months (OR 2.29, 95% CI 1.05–4.99; low certainty), with the evidence becoming very uncertain at later time points — modest, bias-limited, but the best clinical signal we hold that moisture control translates into restoration survival.
+**격리(isolation)의 임상 근거 — rubber dam이 1순위인 이유**: The "isolation-first" thesis now has a clinical anchor beyond the in-vitro contamination work. Miao (2021), a Cochrane SR+MA of 6 RCTs (1342 participants, all high risk of bias), found rubber-dam isolation may increase survival of direct composite NCCL restorations at 6 months (OR 2.29, 95% CI 1.05–4.99; low certainty), with the evidence becoming very uncertain at later time points — modest, bias-limited, but the best clinical signal we hold that moisture control translates into restoration survival. **Counter-evidence (added 2026-11-26):** the one direct randomized comparison we hold, [[resin-bonding/loguercio-2015-isolation-method-operative-field-gingival]] (split-mouth RCT, 60 NCCL restorations, one-step self-etch), found identical 18-month retention with rubber dam versus cotton roll/retraction cord (73% vs 73%), and the positive rubber-dam association in [[resin-bonding/mahn-2015-bonding-parameters-cervical-restorations-ma]] (MA of 81 cervical trials) is a between-experiment comparison. The in-vitro case that contamination degrades the bond stands; the clinical case that rubber dam itself changes retention is uncertain. "Isolation first" remains the operating rule, but a dry field achieved with cotton rolls and cord is a defensible alternative.
 
-**오염·열화 상아질의 전처리 보조(adjuncts) — 격리가 불완전할 때**: When the dentin substrate itself is compromised, solvent and reconditioning adjuncts stabilize the bond rather than boosting it acutely. Comba (2024) showed ethanol pre-treatment of radicular dentin raised push-out bond strength of a multi-mode adhesive (p<0.01) and lowered hybrid-layer MMP activity (p<0.01), while etch time (15 vs 30 s) did not affect strength — and the 30 s etch actually raised MMP activity, an argument against over-etching. Zhao (2023) positioned acetone as a lower-viscosity alternative wet-bonding solvent: it did not change immediate µTBS but preserved strength after thermocycling/collagenase aging (p<0.05) with less nanoleakage and suppressed MMP collagenolysis — the durability metric that matters. At the endodontic-restorative interface, Zhou (2025), an SR+MA of 14 in-vitro studies (11/14 low RoB), found collagen crosslinkers (EDTA, phytic acid, proanthocyanidin, rosmarinic acid, sodium ascorbate) generally restore the bond strength of NaOCl-oxidized dentin, with the effect modulated by NaOCl concentration and exposure time. For the related question of pre-restorative desensitizer use, Anithakumari (2022), an SR of 23 in-vitro human-tooth studies, concluded the effect of desensitizing agents on dentin-bonding-agent bond strength is agent- and protocol-dependent and not uniformly harmful — so desensitizer-adhesive compatibility must be judged case by case rather than assumed.
+**오염·열화 상아질의 전처리 보조(adjuncts) — 격리가 불완전할 때**: When the dentin substrate itself is compromised, solvent and reconditioning adjuncts stabilize the bond rather than boosting it acutely. Comba (2024) showed ethanol pre-treatment of radicular dentin raised push-out bond strength of a multi-mode adhesive (p<0.01) and lowered hybrid-layer MMP activity (p<0.01), while etch time (15 vs 30 s) did not affect strength — and the 30 s etch actually raised MMP activity, an argument against over-etching. Zhao (2023) positioned acetone as a lower-viscosity alternative wet-bonding solvent: it did not change immediate µTBS but preserved strength after thermocycling/collagenase aging (p<0.05) with less nanoleakage and suppressed MMP collagenolysis — the durability metric that matters. At the endodontic-restorative interface, Zhou (2025), an SR+MA of 14 in-vitro studies (11/14 low RoB), found collagen crosslinkers (EDTA, phytic acid, proanthocyanidin, rosmarinic acid, sodium ascorbate) generally restore the bond strength of NaOCl-oxidized dentin, with the effect modulated by NaOCl concentration and exposure time. For the related question of pre-restorative desensitizer use, Anithakumari (2022), an SR of 23 in-vitro human-tooth studies, concluded the effect of desensitizing agents on dentin-bonding-agent bond strength is agent- and protocol-dependent and not uniformly harmful — so desensitizer-adhesive compatibility must be judged case by case rather than assumed. On the clinical side, deproteinization did not carry over: [[resin-bonding/favetti-2022-naocl-acid-etching-cervical-retention-3year-rct]] (split-mouth RCT, 3 years, abstract-only) found 10% NaOCl applied after phosphoric etching gave no added retention in NCCLs (annual failure 9% control vs 17.8% NaOCl, p=0.077) — so NaOCl deproteinization should not be added to a cervical bonding protocol.
 
 ### 축 4 — Indirect Restoration Bonding (3D-Printed Crown)
 
@@ -175,11 +184,27 @@ Key abbreviations: G2BU = G2-Bond Universal (GC); ZU = Zipbond Universal (Kerr);
 
 **Evidence caveats**: in vitro only (no clinical outcomes); required SBU comparator introduces selection bias; surface preparation heterogeneity (#180–#4000 grit) affects absolute MPa; 45.7% of studies lacked ageing data → ageing networks smaller and less powered; GRADE equivalents not assessed.
 
+### 축 8 — Clinical Retention Anchor: NCCL Restorations (added 2026-11-26)
+
+The axes above rank adhesives by in-vitro bond strength. Non-carious cervical lesions are the standard clinical test of adhesion (no macro-mechanical retention), so cervical retention loss is where those rankings meet a clinical endpoint.
+
+| Paper | Evidence | Finding relevant to adhesive strategy |
+|---|---|---|
+| [[resin-bonding/mahn-2015-bonding-parameters-cervical-restorations-ma]] | sr+ma (81 trials, 185 experiments; abstract-only) | 5-year loss 12.3%; clinical-index failure 17.4% (5 y) / 32.3% (8 y). One-step SE worse than two-step SE (p=0.026) and three-step E&R (p=0.002); GIC-based materials and polyacid-modified composites not preferred. Rubber dam + roughened dentin associated with higher retention (p<0.05); enamel bevel no effect |
+| [[resin-bonding/saengnil-2022-retrospective-factors-failure-nccl-restorations]] | retrospective (460 restorations, 96 patients; full text) | Adhesive strategy and occlusal wear facets were the main failure factors; selective enamel etching failed least; marginal integrity the most common failure (gingival 50.7%, occlusal 42.4%). Strategy is confounded with operator level |
+| [[resin-bonding/luhrs-2020-composite-restorations-nccl-cavity-preparation]] | rct (85 NCCLs, 7.7 years; three-step E&R; full text) | Cleaning-only dentin had the highest loss (27.8%; vs prepared groups p=0.041); bur roughening, groove or flowable liner did not differ (p=0.328) |
+| [[resin-bonding/favetti-2022-naocl-acid-etching-cervical-retention-3year-rct]] | rct (split-mouth, 3 years; abstract-only) | NaOCl deproteinization after etching: no retention benefit (AFR 9% vs 17.8%, p=0.077) |
+| [[resin-bonding/loguercio-2015-isolation-method-operative-field-gingival]] | rct (split-mouth, 18 months) | Rubber dam vs cotton roll/cord: retention 73% vs 73% |
+| [[dental-materials/fernandez-2026-direct-restorations-longevity-umbrella-review]] | sr (umbrella, 16 SR/MA; abstract-only) | Adhesive protocol is the key prognostic factor across materials; multi-step adhesives associated with >90% 5-year composite survival |
+
+**Reading across:** the in-vitro ordering on this page (two-step SE and multi-step systems ahead of simplified one-step systems; Salvio 2013, Daneshkazemi 2013) is consistent with the clinical retention data (Mahn 2015). Two in-vitro-plausible levers did not hold up clinically or remain uncertain: NaOCl deproteinization (Favetti 2022) and rubber dam per se (Loguercio 2015). Mechanical dentin roughening, by contrast, has direct RCT support (Lührs 2020). Caveat: Mahn predates current universal adhesives, so its one-step-SE penalty should not be applied to universal adhesives without the universal-adhesive NCCL trials held elsewhere in the wiki. [확인; Mahn/Favetti/Fernández abstract-only]
+
 ---
 
 ## 임상 ladder (접착 전체)
 
-1. **격리** — Rubber dam 1순위. 오염은 결합력 결정자.
+1. **격리** — Rubber dam 1순위. 오염은 결합력 결정자. (단, 임상 유지율 직접비교 RCT에선 러버댐 vs 코튼롤/코드 73% vs 73% 무차이 — Loguercio 2015; dry field를 확보하는 것이 목적이지 러버댐 자체가 목적은 아님.)
+1-b. **상아질 조면화** — NCCL 등 경화 상아질은 세정만 하지 말고 버로 조면화(세정만 탈락 27.8%, Lührs 2020). NaOCl 탈단백 추가는 이득 없음(Favetti 2022).
 2. **시스템 선택** — Universal adhesive는 selective etch 모드 안정; 2-step SE는 오염 내성 우위; 3-step E&R은 long-term µTBS 우위 (참조 [[overviews/direct-resin-restoration-adhesion-placement-overview]]).
 3. **간접 수복 전처리** — 세라믹: HF + 실란; 지르코니아: airborne abrasion + MDP primer; 3D-printed crown: airborne abrasion; 티타늄/티타늄합금: 기능성 단량체 primer(MDP·MEPS·6-MHPA·4-META) — Kodaira 2022 narrative review가 이 monomer family가 실란화+트라이보화학 실리카코팅과 동등한 레진-티타늄 결합을 achieve하며 MDP·4-META/MMA-TBB가 열순환 내구성 최우수임을 정리(인산 에칭은 monomer 흡착 저해이므로 회피).
 
@@ -205,6 +230,7 @@ The functional-monomer rationale underlying steps 2–3 is now spelled out at th
 확신도 등급:
 - 축 1·2·3·4·6 = [확인 in-vitro]
 - 축 5 stamp = [미검증] (case report)
+- 축 8 NCCL 임상 유지율 = [확인 clinical] (MA·RCT·retrospective; Mahn/Favetti/Fernández abstract-only)
 
 
 ## 2026-06 추가 — Universal·HEMA-free·자가접착 시멘트 연동 (batch ingest)
@@ -231,6 +257,15 @@ The functional-monomer rationale underlying steps 2–3 is now spelled out at th
 → 이 근거는 in-vitro 우위(Borouziniat 2024, 지르코니아 SBS)가 **임상 생존율에서도 non-inferiority로 이어짐을 확인**하는 임상적 근거점(clinical anchor). [확인; abstract-only, HR 정밀값 미회수]
 
 ## Related Papers
+
+### 신규 추가 (2026-11-26, NCCL 탈락 클러스터)
+
+- [[resin-bonding/mahn-2015-bonding-parameters-cervical-restorations-ma]] — MA (81 cervical trials): 5-year loss 12.3%; one-step SE worst clinical index; rubber dam + roughened dentin associated with higher retention (sr+ma, 2015, abstract-only)
+- [[resin-bonding/loguercio-2015-isolation-method-operative-field-gingival]] — split-mouth RCT: rubber dam vs cotton roll/cord, 18-month retention 73% vs 73% (rct, 2015)
+- [[resin-bonding/saengnil-2022-retrospective-factors-failure-nccl-restorations]] — retrospective (460 restorations): adhesive strategy and occlusal wear facets drive failure; selective enamel etch lowest failure (retrospective, 2022)
+- [[resin-bonding/luhrs-2020-composite-restorations-nccl-cavity-preparation]] — RCT 7.7 years: cleaning-only dentin highest loss (27.8%) (rct, 2020)
+- [[resin-bonding/favetti-2022-naocl-acid-etching-cervical-retention-3year-rct]] — RCT 3 years: NaOCl deproteinization adds no retention (rct, 2022, abstract-only)
+- [[dental-materials/fernandez-2026-direct-restorations-longevity-umbrella-review]] — umbrella (16 SR/MA): adhesive protocol is the key prognostic factor across direct materials (sr, 2026, abstract-only)
 
 ### 신규 추가 (2026-09)
 
