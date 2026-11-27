@@ -2,7 +2,7 @@
 title: "임플란트·연조직 — soft-tissue"
 authors: navigation
 year: 2026
-date: 2026-11-25
+date: 2026-11-27
 doi: N/A
 source: navigation
 category: implants/soft-tissue
@@ -15,20 +15,20 @@ tags: [navigation, category-index, soft-tissue]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·연조직
 > - **범위**: Peri-implant soft tissue augmentation — keratinized mucosa (KM) width/thickness, buccal dehiscence (PSTD), soft tissue substitutes (xenogeneic collagen matrix vs autograft FGG/CTG), second-stage surgery, vestibuloplasty
-> - **수록 논문**: 51편
+> - **수록 논문**: 52편
 
 ## Three-line Summary
 
 **Scope**: Peri-implant soft tissue augmentation — keratinized mucosa (KM) width/thickness, buccal dehiscence (PSTD), soft tissue substitutes (xenogeneic collagen matrix vs autograft FGG/CTG), second-stage surgery, vestibuloplasty
-**Indexed papers**: 51 papers in `wiki/implants/soft-tissue/`.
+**Indexed papers**: 52 papers in `wiki/implants/soft-tissue/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·연조직
-**수록 논문**: 51편
+**수록 논문**: 52편
 **하위 카테고리**: 없음
 
-## Papers in this Category (51)
+## Papers in this Category (52)
 
 | Paper |
 |---|
@@ -82,4 +82,5 @@ tags: [navigation, category-index, soft-tissue]
 | [[wang-2024-mrarf-modified-roll-envelope-apf-implant|Modified Roll Envelope Technique Combined With Apically Repositioned Flap (MRARF) for Peri-Implant Soft Tissue Augmentation-A Case Series]] |
 | [[yadav-2025-soft-tissue-substitutes-patient-reported-outcomes-commentary|Soft tissue substitutes improve patient-reported outcomes in peri-implant soft tissue augmentation]] |
 | [[zhang-2025-expert-consensus-km-augmentation-second-stage|Expert consensus on peri-implant keratinized mucosa augmentation at second-stage surgery]] |
+| [[zuercher-2026-treatment-small-peri-implant-buccal|Treatment of Small Peri-Implant Buccal Dehiscence Defects With SCTG or GBR: 3-Year Results of a Pilot Study]] |
 | [[zwanzig-2025-titanium-pins-fgg-arf-vestibuloplasty-technique|The Use of Titanium Pins for the Management and Fixation of Free Gingival Grafts and Apically Repositioned Flaps During Vestibuloplasty: A Technique Report]] |
