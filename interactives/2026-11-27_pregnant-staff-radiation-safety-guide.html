@@ -1,0 +1,319 @@
+<!--
+---
+title: "임신 직원 방사선 촬영 안전 가이드"
+type: interactive
+date: 2026-11-27
+status: done
+category: imaging
+agenda: agenda/2026-11-27_pregnant-staff-radiation-safety-guide.md
+source_wiki:
+  - wiki/radiology/horner-2004-european-guidelines-radiation-protection-dental-radiology.md
+  - wiki/radiology/kim-2016-occupational-radiation-procedures-doses-korean-dentists.md
+  - wiki/radiology/gijbels-2005-dosimetry-digital-panoramic-occupational-exposure.md
+  - wiki/radiology/kabier-2025-xray-radiation-exposure-open-dental-clinics-tld.md
+  - wiki/radiology/rottke-2018-operator-safety-during-the-acquisition.md
+  - wiki/radiology/makdissi-2016-effects-device-position-operators-radiation.md
+  - wiki/radiology/berkhout-2015-justification-and-good-practice-using.md
+  - wiki/radiology/benavides-2024-optimizing-radiation-safety-dentistry.md
+  - wiki/overviews/dental-imaging-radiation-dose-optimization-overview.md
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>임신 직원 방사선 촬영 안전 가이드 | Pregnant Staff Radiation Safety</title>
+<!--
+  OPERATIONS output — 수치는 source_wiki 페이지에서만 옮김. 손으로 수치 바꾸지 말 것.
+  위키 공백(인용 안 함): 태아 결정적 영향 역치, 국내 법령상 임신 종사자 신고·한도 수치.
+-->
+<style>
+:root{
+  --bg:#F2F3EF; --surface:#FFFFFF; --text:#1A2030; --muted:#5B6474; --line:#DDE1E6;
+  --accent:#2F6FB0; --accent-soft:#E6F0FA;
+  --ok:#2E7D4F; --ok-soft:#E5F4EA;
+  --warn:#B26A00; --warn-soft:#FFF3DF;
+  --stop:#B3261E; --stop-soft:#FCE8E6;
+  --ev:#5B3FA8; --ev-soft:#EEE9FA;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Pretendard","Noto Sans KR",sans-serif;line-height:1.6;font-size:16px}
+.wrap{max-width:880px;margin:0 auto;padding:20px 16px 60px}
+header h1{font-size:1.55rem;margin:0 0 4px}
+header p{margin:0;color:var(--muted);font-size:.92rem}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:18px 18px;margin:16px 0}
+.card h2{font-size:1.15rem;margin:0 0 10px}
+.hero{border-left:6px solid var(--ok)}
+.hero ul{margin:6px 0 0;padding-left:20px}
+.hero li{margin:4px 0}
+.tag{display:inline-block;font-size:.72rem;font-weight:600;padding:1px 7px;border-radius:999px;margin-left:4px;vertical-align:1px;white-space:nowrap}
+.tag.ev{background:var(--ev-soft);color:var(--ev)}
+.tag.rule{background:var(--warn-soft);color:var(--warn)}
+.tag.gap{background:#ECEEF1;color:var(--muted)}
+.tabs{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px}
+.tab{flex:1 1 200px;border:2px solid var(--line);background:var(--surface);border-radius:12px;padding:12px;text-align:left;cursor:pointer;font:inherit;color:var(--text)}
+.tab b{display:block;font-size:1rem}
+.tab span{font-size:.82rem;color:var(--muted)}
+.tab[aria-selected="true"]{border-color:var(--accent);background:var(--accent-soft)}
+.panel{display:none}
+.panel.on{display:block}
+.verdict{border-radius:10px;padding:10px 12px;margin-bottom:12px;font-weight:600}
+.verdict.ok{background:var(--ok-soft);color:var(--ok)}
+.verdict.warn{background:var(--warn-soft);color:var(--warn)}
+.rules{list-style:none;margin:0;padding:0}
+.rules li{display:flex;gap:10px;padding:9px 0;border-top:1px solid var(--line)}
+.rules li:first-child{border-top:0}
+.ic{flex:0 0 26px;height:26px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:.85rem}
+.ic.do{background:var(--ok-soft);color:var(--ok)}
+.ic.no{background:var(--stop-soft);color:var(--stop)}
+.why{display:block;font-size:.83rem;color:var(--muted);margin-top:2px}
+.bars{margin-top:6px}
+.bar-row{display:grid;grid-template-columns:minmax(150px,38%) 1fr;gap:10px;align-items:center;margin:9px 0}
+.bar-label{font-size:.86rem}
+.bar-label small{display:block;color:var(--muted);font-size:.75rem}
+.bar-track{position:relative;height:22px;background:#F0F2F4;border-radius:6px}
+.bar-fill{height:100%;border-radius:6px;display:flex;align-items:center;justify-content:flex-end;padding-right:6px;font-size:.75rem;font-weight:700;color:#fff;min-width:70px;white-space:nowrap}
+.limit-line{position:absolute;top:-4px;bottom:-4px;width:2px;background:var(--stop)}
+.axis-row{display:grid;grid-template-columns:minmax(150px,38%) 1fr;gap:10px}
+.axis{position:relative;height:16px;font-size:.7rem;color:var(--muted)}
+.axis span{position:absolute;transform:translateX(-50%)}
+.note{font-size:.82rem;color:var(--muted)}
+.check label{display:flex;gap:10px;align-items:flex-start;padding:8px 0;border-top:1px solid var(--line);cursor:pointer}
+.check label:first-of-type{border-top:0}
+.check input{width:20px;height:20px;margin-top:3px;flex:0 0 20px;accent-color:var(--ok)}
+.progress{height:10px;background:#ECEEF1;border-radius:999px;overflow:hidden;margin:6px 0 4px}
+.progress div{height:100%;background:var(--ok);width:0;transition:width .25s}
+.prow{display:flex;justify-content:space-between;align-items:center;font-size:.85rem;color:var(--muted)}
+button.reset{border:1px solid var(--line);background:var(--surface);border-radius:8px;padding:4px 10px;font:inherit;font-size:.8rem;cursor:pointer;color:var(--muted)}
+details{border-top:1px solid var(--line);padding:8px 0}
+details:first-of-type{border-top:0}
+summary{cursor:pointer;font-weight:600}
+details p{margin:6px 0 0;font-size:.92rem}
+table{width:100%;border-collapse:collapse;font-size:.85rem}
+th,td{border-top:1px solid var(--line);padding:7px 6px;text-align:left;vertical-align:top}
+th{color:var(--muted);font-weight:600}
+svg text{font-family:inherit}
+.legend{font-size:.8rem;color:var(--muted);margin-top:6px}
+.callout{background:var(--warn-soft);border-radius:10px;padding:10px 12px;font-size:.9rem}
+footer{font-size:.78rem;color:var(--muted);margin-top:24px}
+@media print{.tabs,.reset{display:none}.panel{display:block}}
+</style>
+<script>
+/* llm-wiki cache-refresh */
+const PAGE_VERSION = '20261127-v1';
+const _VK = 'pregnant_staff_radiation_ver';
+const _HK = 'pregnant_staff_radiation_hidden';
+try {
+  const sv = localStorage.getItem(_VK);
+  if (sv && sv !== PAGE_VERSION) { localStorage.setItem(_VK, PAGE_VERSION); location.reload(true); }
+  else localStorage.setItem(_VK, PAGE_VERSION);
+} catch(e) {}
+document.addEventListener('visibilitychange', () => {
+  if (document.hidden) {
+    try { localStorage.setItem(_HK, Date.now()); } catch(e) {}
+  } else {
+    try {
+      const ht = parseInt(localStorage.getItem(_HK) || '0');
+      if (ht && (Date.now() - ht) > 30 * 60 * 1000) { localStorage.setItem(_HK, '0'); location.reload(true); }
+    } catch(e) {}
+  }
+});
+</script>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>🤰 임신 직원 방사선 촬영 안전 가이드</h1>
+  <p>체어사이드 포터블 PA · 차단벽 촬영실 파노라마/CBCT — 우리 치과 두 환경 기준 · 2026-11-27</p>
+</header>
+
+<section class="card hero">
+  <h2>한눈에 보기</h2>
+  <ul>
+    <li><b>차단벽 뒤에서 촬영하면 피폭은 아주 낮습니다.</b> 한국 치과의사 실측 평균은 연 0.13 mSv(여)·0.18 mSv(남)로, 직업종사자 한도 20 mSv의 1% 미만입니다.<span class="tag ev">Kim 2016</span></li>
+    <li><b>임신 직원 기준은 따로 있습니다:</b> 남은 임신기간 동안 <b>태아 등가선량 1 mSv 미만</b>.<span class="tag ev">Horner 2004 (EU 가이드라인)</span></li>
+    <li><b>피폭을 가장 크게 좌우하는 건 차폐 촬영실이 있느냐입니다.</b> 납복이 아닙니다. 차폐 없는 개방형 진료실에서는 조무사 피폭이 연 5.3 mSv로 약 30배 높았습니다.<span class="tag ev">Kabier 2025</span></li>
+    <li><b>포터블 PA는 서 있는 위치와 잡는 자세에 따라 선량이 달라집니다.</b> 그래서 수칙을 따로 지킵니다(아래 탭).<span class="tag ev">Makdissi 2016 · Rottke 2018</span></li>
+    <li>임신 기간에는 <b>포터블 PA를 가능하면 다른 직원이 맡도록</b> 우선 배정하고, 맡게 되면 아래 수칙을 지킵니다.<span class="tag rule">원내 운영 원칙</span></li>
+  </ul>
+</section>
+
+<section class="card">
+  <h2>① 내 촬영 상황 고르기</h2>
+  <div class="tabs" role="tablist">
+    <button class="tab" role="tab" aria-selected="true" data-p="p-pano"><b>🛡️ 파노라마 · CBCT</b><span>차단벽이 있는 촬영실</span></button>
+    <button class="tab" role="tab" aria-selected="false" data-p="p-pa"><b>📷 포터블 PA</b><span>체어사이드 핸드헬드 구내촬영</span></button>
+  </div>
+
+  <div class="panel on" id="p-pano">
+    <div class="verdict ok">✅ 수칙을 지키면 임신 중에도 평소처럼 업무 가능</div>
+    <ul class="rules">
+      <li><span class="ic do">✓</span><div><b>노출 버튼은 반드시 차단벽 뒤에서 누릅니다.</b><span class="why">차폐 촬영실이 있을 때와 없을 때 직원 피폭은 약 30배 차이가 났습니다 (0.18 vs 5.3 mSv/년).<span class="tag ev">Kim 2016 · Kabier 2025</span></span></div></li>
+      <li><span class="ic do">✓</span><div><b>장비와 거리를 둡니다. 1 m보다 2 m가 낫습니다.</b><span class="why">파노라마 1 m 거리 산란선은 1회 최대 0.10 µSv이고, 연 500회를 찍어도 최대 0.04 mSv입니다. 관구에서 2 m 이상 떨어지는 것이 실질적인 보호입니다.<span class="tag ev">Gijbels 2005 · Horner 2004</span></span></div></li>
+      <li><span class="ic do">✓</span><div><b>환자는 창이나 모니터로 지켜보고, 문은 닫힌 상태로 노출합니다.</b><span class="why">구조 차폐가 제대로 작동하려면 차폐 안쪽에 있어야 합니다.<span class="tag rule">원내 운영 원칙</span></span></div></li>
+      <li><span class="ic do">✓</span><div><b>CBCT는 필요한 가장 작은 촬영범위(FOV)로 찍습니다.</b><span class="why">환자 선량 최적화 권고이며, 산란선의 근원도 함께 줄어듭니다.<span class="tag ev">Benavides 2024 (ADA)</span></span></div></li>
+      <li><span class="ic no">✕</span><div><b>촬영 중 환자를 붙잡거나 촬영실 안에 남아 있지 않습니다.</b><span class="why">보호자나 다른 직원이 잡아줘야 하면 임신 직원은 빠집니다.<span class="tag rule">원내 운영 원칙</span></span></div></li>
+      <li><span class="ic no">✕</span><div><b>"납복을 입었으니 안에 있어도 된다"는 틀린 생각입니다.</b><span class="why">피폭을 가장 크게 좌우하는 건 개인 보호구가 아니라 차폐 촬영실입니다.<span class="tag ev">dose-optimization overview</span></span></div></li>
+    </ul>
+  </div>
+
+  <div class="panel" id="p-pa">
+    <div class="verdict warn">⚠️ 가능하면 다른 직원에게 우선 배정합니다. 맡게 되면 아래 수칙을 모두 지킵니다.</div>
+    <svg viewBox="0 0 560 230" width="100%" role="img" aria-label="포터블 PA 촬영 시 술자 위치 도식">
+      <rect x="0" y="0" width="560" height="230" fill="#FAFBFC" rx="10"/>
+      <!-- danger zone in front of device -->
+      <path d="M250 115 L60 40 L60 190 Z" fill="#FCE8E6"/>
+      <text x="14" y="24" style="fill:#B3261E;font-size:12px;font-weight:700">환자 쪽 (1차선·산란선) — 들어가지 않기</text>
+      <!-- patient head -->
+      <circle cx="120" cy="115" r="34" fill="#FFFFFF" stroke="#8A94A3" stroke-width="2"/>
+      <text x="103" y="119" style="fill:#5B6474;font-size:12px">환자</text>
+      <!-- device -->
+      <rect x="250" y="95" width="70" height="40" rx="6" fill="#2F6FB0"/>
+      <text x="258" y="120" style="fill:#FFFFFF;font-size:12px;font-weight:700">핸드헬드</text>
+      <rect x="244" y="70" width="8" height="90" rx="3" fill="#5B3FA8"/>
+      <text x="196" y="64" style="fill:#5B3FA8;font-size:11px;font-weight:700">backscatter shield</text>
+      <!-- focal plane -->
+      <line x1="285" y1="20" x2="285" y2="210" stroke="#2E7D4F" stroke-width="2" stroke-dasharray="6 5"/>
+      <text x="292" y="32" style="fill:#2E7D4F;font-size:11px">초점(관구) 수직면</text>
+      <!-- safe zone -->
+      <rect x="300" y="45" width="250" height="160" rx="10" fill="#E5F4EA" opacity=".7"/>
+      <text x="312" y="196" style="fill:#2E7D4F;font-size:12px;font-weight:700">술자 안전 영역</text>
+      <!-- operator -->
+      <circle cx="480" cy="92" r="20" fill="#FFFFFF" stroke="#2E7D4F" stroke-width="2"/>
+      <rect x="460" y="116" width="40" height="52" rx="10" fill="#FFFFFF" stroke="#2E7D4F" stroke-width="2"/>
+      <text x="467" y="96" style="fill:#2E7D4F;font-size:12px">술자</text>
+      <line x1="460" y1="132" x2="322" y2="118" stroke="#2E7D4F" stroke-width="3"/>
+      <text x="312" y="160" style="fill:#5B6474;font-size:11px">기기는 몸 가까이, 평행하게</text>
+    </svg>
+    <p class="legend">초점 수직면보다 술자 쪽에서는 산란선이 검출되지 않았고, 관리구역은 평균 16.7 cm, 최대 42 cm였습니다.<span class="tag ev">Rottke 2018 · phantom</span></p>
+    <ul class="rules">
+      <li><span class="ic do">✓</span><div><b>backscatter shield(투명 원판)가 달려 있고 금이 가지 않았는지 확인합니다.</b><span class="why">술자를 보호하는 핵심 장치입니다. 제조사 지침대로 써야 술자 위험이 늘지 않습니다.<span class="tag ev">Rottke 2018 · Benavides 2024</span></span></div></li>
+      <li><span class="ic do">✓</span><div><b>몸은 항상 shield 뒤, 초점 수직면보다 내 쪽에 둡니다.</b><span class="why">환자 쪽으로 몸을 기울이거나 옆으로 돌아 들여다보지 않습니다.<span class="tag ev">Rottke 2018</span></span></div></li>
+      <li><span class="ic do">✓</span><div><b>제조사 권장 자세로 기기를 몸 가까이, 평행하게 잡습니다.</b><span class="why">잡는 자세가 술자 선량을 유의하게 바꿨고, 수직으로 든 자세에서 손바닥 최고값(0.031 mGy)이 나왔습니다.<span class="tag ev">Makdissi 2016</span></span></div></li>
+      <li><span class="ic do">✓</span><div><b>개인선량계를 착용합니다.</b><span class="why">포터블 장비 사용자에게 개인선량계, 자세 프로토콜, 교육, 정기 점검을 권고합니다.<span class="tag ev">Makdissi 2016</span></span></div></li>
+      <li><span class="ic do">✓</span><div><b>재촬영을 줄입니다.</b> 센서 위치와 조준을 한 번에 맞춥니다.<span class="why">핸드헬드는 조준이 어렵고, 노출 시간이 길어지고, 재촬영이 잦아지면서 ALARA를 어기기 쉽습니다.<span class="tag ev">Berkhout 2015 (EADMFR)</span></span></div></li>
+      <li><span class="ic do">✓</span><div><b>주변의 다른 사람(옆 체어 환자, 동료)이 빔 방향에 없는지 확인합니다.</b><span class="why">제3자 위험 평가도 정당화 요건에 들어갑니다.<span class="tag ev">Berkhout 2015</span></span></div></li>
+      <li><span class="ic no">✕</span><div><b>센서를 직접 붙잡거나 환자 입 옆에 손을 두지 않습니다.</b><span class="why">손이 빔 경로로 들어가게 됩니다. 센서 홀더를 쓰거나 환자가 직접 물게 합니다.<span class="tag rule">원내 운영 원칙</span></span></div></li>
+      <li><span class="ic no">✕</span><div><b>"벽걸이형과 똑같다"고 여기지 않습니다.</b><span class="why">선량은 무시할 수준이지만, 벽걸이형의 0에 비하면 측정 가능한 만큼 늘어납니다.<span class="tag ev">Makdissi 2016</span></span></div></li>
+    </ul>
+  </div>
+</section>
+
+<section class="card">
+  <h2>② 숫자로 보는 연간 직업피폭</h2>
+  <p class="note">로그 눈금입니다. 붉은 세로선은 임신 직원 기준(태아 1 mSv)입니다.</p>
+  <div class="bars" id="bars"></div>
+  <div class="axis-row"><div class="note" style="text-align:right">mSv/년 →</div><div class="axis" id="axis"></div></div>
+  <p class="note" style="margin-top:10px">해석: 차폐 촬영실 환경의 실측값(0.13–0.18 mSv/년)은 <b>1년치를 통째로 더해도</b> 임신 직원 기준 1 mSv보다 낮습니다. 실제 남은 임신기간은 1년보다 짧고 이 값은 몸 표면 기준이라, 태아에 닿는 선량은 이보다 더 작을 것으로 봅니다.<span class="tag rule">수치 조합 추론</span></p>
+</section>
+
+<section class="card">
+  <h2>③ 촬영 전 셀프체크 (임신 직원용)</h2>
+  <div class="prow"><span id="ptxt">0 / 0</span><button class="reset" id="reset">초기화</button></div>
+  <div class="progress"><div id="pbar"></div></div>
+  <div class="check" id="selfcheck">
+    <label><input type="checkbox">개인선량계를 차고 있다</label>
+    <label><input type="checkbox">[파노·CBCT] 노출 버튼을 누를 때 나는 차단벽 뒤에 있고 문이 닫혀 있다</label>
+    <label><input type="checkbox">[파노·CBCT] 환자를 붙잡아 줄 필요가 없다 (필요하면 다른 사람이 한다)</label>
+    <label><input type="checkbox">[포터블 PA] 오늘 이 촬영은 다른 직원이 맡을 수 없어서 내가 한다</label>
+    <label><input type="checkbox">[포터블 PA] backscatter shield가 장착되어 있고 손상이 없다</label>
+    <label><input type="checkbox">[포터블 PA] 내 몸은 shield 뒤, 초점 수직면보다 내 쪽에 있다</label>
+    <label><input type="checkbox">[포터블 PA] 주변 사람이 빔 방향에 없다</label>
+    <label><input type="checkbox">[포터블 PA] 센서는 홀더로 고정했고 내 손은 빔 경로 밖에 있다</label>
+  </div>
+  <p class="note">하나라도 체크가 안 되면 촬영을 멈추고 다른 직원이나 원장에게 넘깁니다. 체크 상태는 이 기기의 브라우저에만 저장됩니다.</p>
+</section>
+
+<section class="card">
+  <h2>④ 원장 · 관리자 체크리스트</h2>
+  <table>
+    <tr><th style="width:58%">할 일</th><th>근거</th></tr>
+    <tr><td>임신 사실을 알게 되면, 남은 임신기간 <b>태아 등가선량 1 mSv 미만</b> 기준을 직원에게 알린다</td><td><span class="tag ev">Horner 2004</span></td></tr>
+    <tr><td>개인선량계 판독 결과를 판독 주기마다 확인하고, 이상값이 나오면 원인(자세·위치)을 점검한다</td><td><span class="tag ev">Makdissi 2016</span></td></tr>
+    <tr><td>포터블 장비의 backscatter shield 상태 점검, 잠금 보관, 사용 교육을 실시한다</td><td><span class="tag ev">Benavides 2024</span></td></tr>
+    <tr><td>임신 기간 포터블 PA 배정을 조정하고, 본인이 원하면 촬영 업무를 빼 주는 선택권을 준다 (불안도 업무 부담이다)</td><td><span class="tag rule">원내 운영 원칙</span></td></tr>
+    <tr><td>촬영실 차폐(문, 관찰창)가 정상인지 확인한다</td><td><span class="tag ev">Kabier 2025 (차폐가 최대 결정인자)</span></td></tr>
+    <tr><td>국내 법령상 임신 종사자 신고 절차와 선량한도를 확인한다</td><td><span class="tag gap">위키 미보유 — 관할 기관·방사선안전관리자 확인 필요</span></td></tr>
+  </table>
+</section>
+
+<section class="card">
+  <h2>⑤ 자주 묻는 질문</h2>
+  <details><summary>임신 사실을 알기 전에 포터블 PA를 여러 번 찍었어요. 괜찮을까요?</summary>
+    <p>팬텀 실험에서 포터블 장비 술자 선량은 모든 자세에서 영국 IRR-1999 권고치보다 훨씬 낮았고, 가장 높은 값도 손바닥에서 0.031 mGy였습니다.<span class="tag ev">Makdissi 2016</span> 다만 개인 사례의 태아 위험을 판단하는 데 필요한 역치 자료는 위키에 없습니다. 걱정되면 개인선량계 기록을 가지고 산부인과 주치의와 상담하세요.<span class="tag gap">위키 공백</span></p></details>
+  <details><summary>파노라마를 찍을 때 납복을 꼭 입어야 하나요?</summary>
+    <p>차단벽 뒤에 있는 것이 핵심이고, 차단벽이 있으면 피폭은 이미 1% 미만 수준입니다.<span class="tag ev">Kim 2016</span> 납복은 차단벽을 대신하지 못합니다. 원하면 추가로 입어도 됩니다.</p></details>
+  <details><summary>환자가 임신부일 때 환자에게 납복을 덮어야 하나요?</summary>
+    <p>이건 직원이 아니라 환자 문제입니다. AAOMR/ADA 합의는 치과 촬영에서 태아·생식선·갑상선 차폐를 중단하라고 권고합니다. 태아 선량이 무시할 수준이고, 차폐대가 재촬영을 부를 수 있기 때문입니다.<span class="tag ev">Benavides 2023</span></p></details>
+  <details><summary>왜 포터블 PA만 "가능하면 빼자"고 하나요?</summary>
+    <p>EADMFR은 핸드헬드를 정당화될 때만 쓰는 예외적 장비로 분류합니다.<span class="tag ev">Berkhout 2015</span> 차단벽 뒤에서 쓰는 장비와 달리 술자의 자세와 위치에 따라 선량이 달라지기 때문입니다.<span class="tag ev">Makdissi 2016</span> 위험이 크다는 뜻은 아닙니다. 사람에 따라 달라지는 부분을 임신 기간에는 줄이자는 것입니다.</p></details>
+</section>
+
+<section class="card">
+  <h2>근거 표 · 한계</h2>
+  <table>
+    <tr><th>근거</th><th>설계</th><th>핵심</th></tr>
+    <tr><td>Horner 2004 — EU RP136</td><td>가이드라인</td><td>임신 직원 태아 &lt;1 mSv, 직업 20 mSv/년, 2 m 거리</td></tr>
+    <tr><td>Kim 2016 — 한국 치과의사 658명</td><td>단면연구</td><td>연 0.13 (여) / 0.18 (남) mSv</td></tr>
+    <tr><td>Gijbels 2005 — 파노라마 산란</td><td>in-vitro</td><td>1 m에서 ≤0.10 µSv/회, 500회/년 ≤0.04 mSv</td></tr>
+    <tr><td>Kabier 2025 — 개방형 클리닉 TLD</td><td>전향적</td><td>차폐 없을 때 조무사 5.3 mSv/년</td></tr>
+    <tr><td>Rottke 2018 — 핸드헬드 술자 안전</td><td>in-vitro</td><td>초점 수직면 뒤 산란 미검출, 관리구역 최대 42 cm</td></tr>
+    <tr><td>Makdissi 2016 — 핸드헬드 자세</td><td>in-vitro</td><td>자세가 술자선량 좌우, 최고 0.031 mGy (손바닥)</td></tr>
+    <tr><td>Berkhout 2015 — EADMFR</td><td>합의문</td><td>핸드헬드는 예외적·정당화 시에만</td></tr>
+    <tr><td>Benavides 2024 — ADA</td><td>가이드라인</td><td>backscatter shield, 보관, 교육, CBCT 최소 FOV</td></tr>
+  </table>
+  <p class="callout" style="margin-top:12px"><b>한계:</b> 핸드헬드 술자 선량 자료는 팬텀 실험(in-vitro)입니다. 우리 치과 장비 모델의 실측값이 아니며, 직원 개인선량계 기록이 가장 직접적인 근거입니다. 태아 위험 역치와 국내 법령 수치는 위키에 없어 인용하지 않았습니다. 이 가이드는 일반 안전 수칙이며 개인 의학 상담을 대신하지 않습니다.</p>
+</section>
+
+<footer>
+  범례: <span class="tag ev">논문명</span> 위키 수록 논문 근거 · <span class="tag rule">원내 운영 원칙</span> 근거에서 추론한 운영 규칙 · <span class="tag gap">위키 공백</span> 근거 미보유<br>
+  source: wiki/radiology/* · wiki/overviews/dental-imaging-radiation-dose-optimization-overview · v20261127-v1
+</footer>
+</div>
+
+<script>
+// tabs
+document.querySelectorAll('.tab').forEach(t => t.addEventListener('click', () => {
+  document.querySelectorAll('.tab').forEach(x => x.setAttribute('aria-selected', x === t));
+  document.querySelectorAll('.panel').forEach(p => p.classList.toggle('on', p.id === t.dataset.p));
+}));
+
+// bars (log scale 0.01 → 30 mSv)
+const DATA = [
+  {l:'파노라마 연 500회, 1 m 거리', s:'Gijbels 2005 · 최대치', v:0.04, c:'#2E7D4F'},
+  {l:'한국 여성 치과의사 평균', s:'Kim 2016 · 차폐실', v:0.13, c:'#2E7D4F'},
+  {l:'한국 남성 치과의사 평균', s:'Kim 2016 · 차폐실', v:0.18, c:'#2E7D4F'},
+  {l:'차폐 없는 개방형 · 조무사', s:'Kabier 2025', v:5.279, c:'#B26A00'},
+  {l:'직업종사자 연 한도', s:'Horner 2004', v:20, c:'#8A94A3'},
+];
+const LMIN = Math.log10(0.01), LMAX = Math.log10(30);
+const pos = v => (Math.log10(v) - LMIN) / (LMAX - LMIN) * 100;
+const box = document.getElementById('bars');
+[0.01,0.1,1,10].forEach(t => { const sp=document.createElement('span'); sp.style.left=pos(t)+'%'; sp.textContent=t; document.getElementById('axis').appendChild(sp); });
+DATA.forEach(d => {
+  const row = document.createElement('div'); row.className = 'bar-row';
+  row.innerHTML = `<div class="bar-label">${d.l}<small>${d.s}</small></div>
+    <div class="bar-track"><div class="bar-fill" style="width:${pos(d.v)}%;background:${d.c}">${d.v} mSv</div>
+    <div class="limit-line" style="left:${pos(1)}%" title="임신 직원 태아 기준 1 mSv"></div></div>`;
+  box.appendChild(row);
+});
+
+// self-check
+const KEY = 'pregnant_staff_radiation_check';
+const boxes = [...document.querySelectorAll('#selfcheck input')];
+let saved = [];
+try { saved = JSON.parse(localStorage.getItem(KEY) || '[]'); } catch(e) {}
+boxes.forEach((b, i) => { b.checked = !!saved[i]; b.addEventListener('change', upd); });
+function upd() {
+  const n = boxes.filter(b => b.checked).length;
+  document.getElementById('ptxt').textContent = `${n} / ${boxes.length}`;
+  document.getElementById('pbar').style.width = (n / boxes.length * 100) + '%';
+  try { localStorage.setItem(KEY, JSON.stringify(boxes.map(b => b.checked))); } catch(e) {}
+}
+document.getElementById('reset').addEventListener('click', () => { boxes.forEach(b => b.checked = false); upd(); });
+upd();
+</script>
+</body>
+</html>
