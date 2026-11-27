@@ -2,7 +2,7 @@
 title: "방사선학 — radiology"
 authors: navigation
 year: 2026
-date: 2026-09-19
+date: 2026-11-27
 doi: N/A
 source: navigation
 category: radiology
@@ -16,21 +16,21 @@ tags: [navigation, category-index, radiology]
 > - **분야**: 방사선학
 > - **범위**: CBCT diagnostic performance, radiation dose/collimation, panoramic, cephalometric, CBCT-guided endodontics/implant, shielding protocols
 > - **하위 카테고리**: [[mri]]
-> - **수록 논문**: 64편
+> - **수록 논문**: 66편
 
 ## Three-line Summary
 
 **Scope**: CBCT diagnostic performance, radiation dose/collimation, panoramic, cephalometric, CBCT-guided endodontics/implant, shielding protocols
-**Indexed papers**: 64 papers in `wiki/radiology/`.
+**Indexed papers**: 66 papers in `wiki/radiology/`.
 **Sub-categories**: [[mri]]
 
 ## 세줄요약
 
 **분야**: 방사선학
-**수록 논문**: 64편
+**수록 논문**: 66편
 **하위 카테고리**: mri
 
-## Papers in this Category (64)
+## Papers in this Category (66)
 
 | Paper |
 |---|
@@ -71,6 +71,8 @@ tags: [navigation, category-index, radiology]
 | [[kim-2016-occupational-radiation-procedures-doses-korean-dentists|Occupational radiation procedures and doses in South Korean dentists]] |
 | [[kim-2024-comparative-analysis-clinical-image-evaluation|Comparative analysis of clinical image evaluation charts for panoramic radiography]] |
 | [[kim-2024-real-ghost-pseudo-ghost-images-panoramic|An atypical case involving real, ghost, and pseudo-ghost images on a panoramic radiograph]] |
+| [[korea-mohw-2026-diagnostic-radiation-safety-rule|Rules on the Safety Management of Diagnostic Radiation Generating Devices (진단용 방사선 발생장치의 안전관리에 관한 규칙) — staff dose provisions, with KDCA Diagnostic Radiation Safety Management Regulation]] |
+| [[korea-nssc-2026-radiation-protection-pregnancy-dose-limit|Standards for Radiation Protection (방사선방호 등에 관한 기준, NSSC notice) §4 and Nuclear Safety Act Enforcement Decree Annex 1 — dose limit for pregnant radiation workers]] |
 | [[kumar-2014-incidence-nutrient-canals-hypertensive|Incidence of nutrient canals in hypertensive patients: A radiographic study]] |
 | [[kuribayashi-2010-bifid-mandibular-canals-cone|Bifid mandibular canals: cone beam computed tomography evaluation]] |
 | [[lee-2019-cbct-dose-osl-monte-carlo-comparison|Dose assessment in dental cone-beam computed tomography: Comparison of optically stimulated luminescence dosimetry with Monte Carlo method]] |
