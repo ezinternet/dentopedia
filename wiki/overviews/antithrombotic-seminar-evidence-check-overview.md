@@ -2,9 +2,9 @@
 title: "Antithrombotic Drugs & Surgical Bleeding — Seminar Claims Checked Against Wiki Evidence"
 authors: synthesis (llm-wiki)
 year: 2026
-date: 2026-11-26
+date: 2026-11-27
 category: [overviews]
-tags: [anticoagulant, antiplatelet, antithrombotic, warfarin, heparin, DOAC, NOAC, reversal-agent, idarucizumab, andexanet, bridging, INR, hemophilia, thrombocytopenia, liver-cirrhosis, CKD, PSAA, sublingual-artery, seminar-check, overview]
+tags: [floor-of-mouth-hematoma, airway, anticoagulant, antiplatelet, antithrombotic, warfarin, heparin, DOAC, NOAC, reversal-agent, idarucizumab, andexanet, bridging, INR, hemophilia, thrombocytopenia, liver-cirrhosis, CKD, PSAA, sublingual-artery, seminar-check, overview]
 source_papers:
   - drug/anticoagulants/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr
   - drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr
@@ -32,6 +32,11 @@ source_papers:
   - sinus-lift/lateral/basma-2021-large-artery-management-maxillary-sinus
   - implants/srikanth-2025-treatment-planning-single-tooth-implant
   - immediate-implant/anatomic-assessment/behfarnia-2025-anatomic-immediate-implant-mandibular-posterior
+  - oral-surgery/balaguermart-2015-immediate-bleeding-complications-in-dental
+  - oral-surgery/law-2017-floor-of-mouth-hematoma-following
+  - oral-surgery/sfondrini-2024-floor-of-the-mouth-hemorrhage
+  - oral-surgery/vehmeijer-2016-airway-management-of-a-patient
+  - oral-surgery/mun-2026-life-threatening-floor-of-mouth
 evidence_level: synthesis
 source: synthesis
 relations:
@@ -45,7 +50,7 @@ relations:
 
 > [!summary] 한국어 핵심요약
 > - **이 페이지의 정체**: 2026-11-26 수강한 임플란트 출혈 합병증 세미나 슬라이드 3장(요약·중단 기간·길항제 도식)의 **주장 하나하나를 위키 보유 논문과 대조**한 체크리스트다. 세미나는 논문이 아니므로 근거로 쓰지 않는다 — 판정은 전부 위키 논문 기준이다.
-> - **판정 집계**: 세미나 주장 23개 중 ✅ 일치 8 · ⚠️ 조건부/부분 일치 5 · ❌ 위키 근거와 상충 5 · ⚪ 위키에 근거 없음(검증 불가) 5.
+> - **판정 집계**: 세미나 주장 23개 중 ✅ 일치 9 · ⚠️ 조건부/부분 일치 5 · ❌ 위키 근거와 상충 5 · ⚪ 위키에 근거 없음(검증 불가) 4. (2026-11-27 구강저 출혈 5편 인제스트로 설하동맥 2개 항목 재판정: C1 ⚠️→✅, C2 ⚪→⚠️)
 > - **가장 큰 상충 ① 항혈전제 루틴 중단**: 세미나는 "내과의와 상의 후 수술 전 중단 필요, 항혈소판제 5(–7)일·항응고제 2–4일"을 제시하나, 위키의 SR·코호트는 **단순 발치·임플란트에서 중단하지 않고 국소 지혈**이 원칙이다 (Moldovan 2023, Calcia 2021 술후 출혈 RR 0.81 NS, Kim 2024·Izzetti 2024 DOAC 중단 이득 없음, Madrid 2009·Chahine 2019 임플란트도 동일). 협진은 맞고, *루틴 중단*이 틀리다.
 > - **세미나 내부 모순**: 같은 강의가 "항혈소판제 5–7일 중단 후 수술 권유"와 "중단하지 않고 시술해도 심각한 출혈은 거의 없다"를 나란히 적었다. 위키 근거는 후자 편이다 (Krishnan 2024, Yari 2023, Alagil 2023 아스피린 단독 = 건강인과 출혈 차이 없음).
 > - **가장 큰 상충 ② 헤파린 브리징 (Bridging Therapy)**: "와파린 중단이 안 되면 헤파린 bridging"은 위키에서 **출혈만 늘리고 혈전은 줄이지 못하는** 것으로 일관된다 (Moldovan 2023, Chahine 2019, Lu 2018, SECIB 2024).
@@ -54,24 +59,28 @@ relations:
 > - **PT·aPTT·INR 루틴 검사**: 와파린은 INR 필수(24–72시간 전), 그러나 **DOAC 환자에서 INR은 신뢰할 수 없는 지표**(Kim 2024: 유지 1.15 vs 중단 1.13, 출혈과 무상관)라 일괄 검사 권고는 약물별로 쪼개야 한다.
 > - **길항제(reversal agent)**: 다비가트란→이다루시주맙, Xa 억제제(아픽사반·리바록사반·에독사반)→안덱사넷 알파 또는 프로트롬빈 복합체 농축물 (Prothrombin Complex Concentrate, PCC) 매핑은 위키와 일치. 단 위키는 **응급 전용**이며 치과 사용은 일화 수준, 예방적 술전 투여는 부당하고 혈전 유발 가능(Choudhary 2025). 위키 코호트의 술후 출혈은 사실상 전부 국소 처치로 조절됐다. 와파린→비타민 K·PCC, 에녹사파린→프로타민은 위키에 논문 없음(⚪). 슬라이드의 "PPC"는 PCC의 오타.
 > - **후상치조동맥 (Posterior Superior Alveolar Artery, PSAA) 16–18 mm**: 위키와 일치 — Gulec 2025 치조정 기준 우 15.93±3.45 / 좌 17.24±3.71 mm. 단 SD가 ±3.5 mm이고 직경이 클수록 더 낮게 지나가므로 **개별 CBCT 확인**이 필수. 전기소작의 우위는 위키에 근거 없음(⚪); 위키의 유일한 술중 근거는 피에조로 막과 함께 en bloc 거상(Basma 2021, n=1).
-> - **설하동맥 손상·구강저 혈종**: 위키는 하악 설측 오목부·설측 피질골 천공 위험만 다루고, 설하동맥 손상 발생률·기도 위협·결찰/소작 효과를 다룬 논문은 **없다**(⚪). 인제스트 우선순위 1순위 공백.
-> - **임상 takeaway**: 세미나의 *지혈 술기*(압박·국소지혈제·봉합, PSAA 위치)는 위키와 맞고, *약물 중단 전략*(루틴 중단·고정 중단일수·브리징)은 2010년대 이전 관행에 가깝다. 실제 진료는 기존 [[overviews/drug-anticoagulant-antiplatelet-perioperative-overview]]의 프로토콜을 따른다.
+> - **설하동맥 (Sublingual Artery) 손상·구강저 혈종 (Floor-of-Mouth Hematoma) — 공백 해소(2026-11-27)**: 세미나의 기전 설명은 **일치(✅)**. Balaguer-Martí 2015 SR(증례 15편)에서 최다 부위는 **하악 견치부**, 기전은 설측 피질골 천공→설하동맥 손상, 길이가 보고된 경우 임플란트는 **전부 15 mm 이상**; Law 2017(25증례)은 **84%가 설측 천공**에서 기인.
+> - **세미나가 빠뜨린 핵심 = 기도**: 이 합병증의 사인(死因) 후보는 출혈량이 아니라 **혀가 밀려 올라가는 기도 폐쇄**다 — 응급 기도 확보 68%(Law 2017), 기관삽관 41%·기관절개 47%(Balaguer-Martí 2015). 국내 증례(Mun 2026, 가이드 수술 후에도 손 식립 단계에서 설측 편위)도 비강기관삽관으로 해결.
+> - **"작은 출혈도 결찰·소작"은 조건부(⚠️)**: 위키 근거의 순서는 **양손 압박(bimanual compression) → 즉시 병원 이송 → 기도 확보**가 먼저이고, 혈종 배액·결찰·색전술은 병원에서 큰 혈종에 한해 시행(Sfondrini 2024; 2예 모두 자연 지혈). 거즈 압박 단독 성공은 1예뿐(Balaguer-Martí 2015) — 체어사이드에서 결찰로 버티지 말고 이송하라는 뜻. 출혈은 **즉시 70.6%, 최대 7시간 지연** → 술후 **최소 2시간 관찰**·환자 교육(Sfondrini 2024).
+> - **예방**: 술전 3D 영상(Law 2017 — 25증례 중 CBCT 사용 1/17), 협설측 드릴 각도, 넓은 판막 거상으로 설측 확인, 짧은 임플란트(≤10 mm). GBR 골막 이완절개 중 **상행 이신동맥 (Ascending Mental Artery)** 손상이라는 두 번째 경로도 보고됨(Sfondrini 2024).
+> - **이 축은 약물과 무관하다**: Balaguer-Martí 2015는 항응고 환자를 **제외**했다 — 구강저 출혈은 항혈전제를 끊어서 막을 수 있는 합병증이 아니라 **해부학·드릴 방향의 문제**다.
+> - **임상 takeaway**: 세미나의 *지혈 술기*(압박·국소지혈제·봉합, PSAA 위치, 설하동맥 기전)는 위키와 맞고, *약물 중단 전략*(루틴 중단·고정 중단일수·브리징)은 2010년대 이전 관행에 가깝다. 실제 진료는 기존 [[overviews/drug-anticoagulant-antiplatelet-perioperative-overview]]의 프로토콜을 따른다.
 
 ## Three-line Summary
 
-A point-by-point audit of 23 claims from a 2026-11-26 implant-bleeding seminar (three slides: summary, drug-hold durations, reversal-agent map) against 26 papers held in this wiki: 8 claims agree, 5 agree only conditionally, 5 conflict with held evidence, and 5 cannot be checked because no held paper covers them.
+A point-by-point audit of 23 claims from a 2026-11-26 implant-bleeding seminar (three slides: summary, drug-hold durations, reversal-agent map) against 31 papers held in this wiki: 9 claims agree, 5 agree only conditionally, 5 conflict with held evidence, and 4 cannot be checked because no held paper covers them.
 
 The conflicts cluster on drug management and contraindication rules — routine pre-operative interruption of antiplatelets (5–7 days) and anticoagulants (2–4 days), heparin bridging when warfarin cannot be stopped, and hemophilia/thrombocytopenia as absolute implant contraindications — whereas the wiki's systematic reviews and cohorts support continuing antithrombotics with local hemostasis (Moldovan 2023, Calcia 2021, Kim 2024, Izzetti 2024, Chahine 2019) and treat bleeding disorders as hematologist-co-managed, not forbidden (Kumar 2026, SECIB 2024).
 
-The seminar's hemostasis technique and anatomy claims (local measures control antiplatelet bleeding; PSAA ~16–18 mm above the crest per Gulec 2025; DOAC reversal-agent mapping per Choudhary 2025) agree with the wiki, while sublingual-artery injury management, warfarin/heparin washout times, and warfarin/enoxaparin reversal agents are unheld evidence gaps.
+The seminar's hemostasis technique and anatomy claims (local measures control antiplatelet bleeding; PSAA ~16–18 mm above the crest per Gulec 2025; lingual perforation → sublingual artery → floor-of-mouth hematoma per Balaguer-Martí 2015 and Law 2017; DOAC reversal-agent mapping per Choudhary 2025) agree with the wiki — but the floor-of-mouth evidence puts airway control and hospital transfer ahead of the seminar's chairside ligation/cautery, while warfarin/heparin washout times and warfarin/enoxaparin reversal agents remain unheld gaps.
 
 ## 세줄요약
 
-2026-11-26 임플란트 출혈 세미나 슬라이드 3장의 주장 23개를 위키 보유 논문 26편과 대조: 일치 8, 조건부 일치 5, 상충 5, 위키에 근거 없음 5.
+2026-11-26 임플란트 출혈 세미나 슬라이드 3장의 주장 23개를 위키 보유 논문 31편과 대조: 일치 9, 조건부 일치 5, 상충 5, 위키에 근거 없음 4.
 
-상충은 전부 약물 관리 축에 몰려 있다 — 항혈소판제 5–7일·항응고제 2–4일 루틴 중단, 와파린 중단 불가 시 헤파린 브리징 (Bridging Therapy), 혈우병·혈소판감소증의 임플란트 절대 금기 — 위키의 SR·코호트는 항혈전제 유지 + 국소 지혈(Moldovan 2023, Calcia 2021, Kim 2024, Izzetti 2024, Chahine 2019), 출혈질환은 금기가 아닌 혈액내과 협진 대상(Kumar 2026, SECIB 2024)으로 본다.
+상충은 약물 관리와 금기 규칙에 몰려 있다 — 항혈소판제 5–7일·항응고제 2–4일 루틴 중단, 와파린 중단 불가 시 헤파린 브리징 (Bridging Therapy), 혈우병·혈소판감소증의 임플란트 절대 금기 — 위키의 SR·코호트는 항혈전제 유지 + 국소 지혈(Moldovan 2023, Calcia 2021, Kim 2024, Izzetti 2024, Chahine 2019), 출혈질환은 금기가 아닌 혈액내과 협진 대상(Kumar 2026, SECIB 2024)으로 본다.
 
-지혈 술기·해부 주장(국소 처치로 항혈소판 출혈 조절, 후상치조동맥 (Posterior Superior Alveolar Artery, PSAA) 치조정 위 ~16–18 mm(Gulec 2025), DOAC 길항제 매핑(Choudhary 2025))은 일치하며, 설하동맥 손상 처치·와파린/헤파린 소실 시간·와파린/에녹사파린 길항제는 위키 공백이다.
+지혈 술기·해부 주장(국소 처치로 항혈소판 출혈 조절, 후상치조동맥 (Posterior Superior Alveolar Artery, PSAA) 치조정 위 ~16–18 mm(Gulec 2025), 설측 천공→설하동맥→구강저 혈종(Balaguer-Martí 2015·Law 2017), DOAC 길항제 매핑(Choudhary 2025))은 일치하나, 구강저 출혈 근거는 세미나의 체어사이드 결찰·소작보다 **기도 확보·병원 이송을 앞세우며**, 와파린/헤파린 소실 시간·와파린/에녹사파린 길항제는 여전히 위키 공백이다.
 
 ---
 
@@ -132,13 +141,36 @@ Slide typo: "PPC" under warfarin is PCC (prothrombin complex concentrate).
 
 | # | Seminar claim | Verdict | Held evidence |
 |---|---|---|---|
-| C1 | Lingual cortical perforation in the anterior mandible can injure the sublingual artery → floor-of-mouth hematoma | ⚠️ mechanism acknowledged, outcome data ⚪ | Held papers flag the sublingual/submandibular lingual concavity as a placement hazard ([[implants/srikanth-2025-treatment-planning-single-tooth-implant]]) and quantify lingual plate perforation risk in the **posterior** mandible (U-type undercut 73% at the 2nd molar; [[immediate-implant/anatomic-assessment/behfarnia-2025-anatomic-immediate-implant-mandibular-posterior]]). No held paper reports anterior-mandible sublingual-artery injury incidence, hematoma course, or airway compromise. |
-| C2 | If sublingual-artery injury is suspected, ligate or cauterize even small bleeding | ⚪ | No held paper. |
+| C1 | Lingual cortical perforation in the anterior mandible can injure the sublingual artery → floor-of-mouth hematoma | ✅ (updated 2026-11-27; was ⚠️) | SR of 15 reports: mandibular **canine** region most common, mechanism lingual cortical perforation → sublingual artery, implants **≥15 mm** whenever length was reported; anticoagulated patients excluded ([[oral-surgery/balaguermart-2015-immediate-bleeding-complications-in-dental]]). Review of 25 cases: **84%** from lingual cortical perforation ([[oral-surgery/law-2017-floor-of-mouth-hematoma-following]]). Sublingual artery (~2 mm) reaches the lingual cortex via the lingual canals and anastomoses with the submental artery; a second route — ascending mental artery cut during a GBR periosteal release incision — is also reported ([[oral-surgery/sfondrini-2024-floor-of-the-mouth-hemorrhage]]). Case reports: malpositioned implants perforating the lingual plate ([[oral-surgery/vehmeijer-2016-airway-management-of-a-patient]]); lingual deviation of one implant during freehand insertion after a fully guided osteotomy ([[oral-surgery/mun-2026-life-threatening-floor-of-mouth]]). |
+| C2 | If sublingual-artery injury is suspected, ligate or cauterize even small bleeding | ⚠️ (updated 2026-11-27; was ⚪) — right instinct (take a small bleed seriously), wrong first move | Held evidence puts **airway first**: emergency airway intervention 68% ([[oral-surgery/law-2017-floor-of-mouth-hematoma-following]]); intubation 41%, tracheotomy 47%, then hematoma drainage and artery ligation ([[oral-surgery/balaguermart-2015-immediate-bleeding-complications-in-dental]]). Sequence: bimanual compression → urgent hospital transfer → secure airway; surgical evacuation/ligation or embolization reserved for large hematomas in hospital; both reported cases stopped bleeding spontaneously ([[oral-surgery/sfondrini-2024-floor-of-the-mouth-hemorrhage]]). Gauze pressure alone succeeded in only 1 reported case. Chairside cautery is not studied in any held paper. |
 | C3 | Lateral-window sinus lift may encounter the PSAA | ✅ | PSAA detected in 68–70% of sinuses; submucosal or intraosseous most common ([[sinus-lift/lateral/gulec-2025-psaa-cbct-maxillary-sinus-anatomy]], [[sinus-lift/lateral/urechescu-2026-psaa-localization-lateral-window-sinus]]). Windows >11 mm tall are more likely to cross an intraosseous PSAA (p=0.004). |
 | C4 | PSAA runs 16–18 mm above the alveolar crest | ✅ with a caveat | PSAA → crest R 15.93±3.45 mm, L 17.24±3.71 mm ([[sinus-lift/lateral/gulec-2025-psaa-cbct-maxillary-sinus-anatomy]]). The SD (~±3.5 mm) and the finding that arteries >1 mm diameter sit closer to crest and floor mean the mean is a planning prior, not a safe line — read the individual CBCT. |
 | C5 | PSAA injury: gauze pressure works, but electrocautery is preferable | ⚪ | Pressure, electrocautery and ligation are described in surgical texts but no held paper studies their efficacy ([[overviews/psaa-hemorrhage-management-lateral-sinus-lift-overview]] §5). The only held intra-op strategy is **prevention**: piezoelectric en-bloc elevation of a large PSAA branch with the Schneiderian membrane, no bleeding (n=1; [[sinus-lift/lateral/basma-2021-large-artery-management-maxillary-sinus]]). |
 
 ---
+
+### 3.1 Floor-of-mouth hemorrhage — what to actually do (added 2026-11-27)
+
+Synthesized from the five floor-of-mouth papers (all case-based; no incidence denominator exists):
+
+```
+Anterior mandible implant / GBR — risk factors
+  canine region · implant ≥15 mm · knife-edge or resorbed ridge · lingual undercut
+  · freehand deviation after a guided osteotomy · GBR periosteal release incision
+
+Prevention
+  pre-op CBCT (cross-section through each site) → buccolingual drill angle
+  → reflect flap wide enough to see/feel the lingual plate → prefer short implants
+  → meticulous hemostasis → observe ≥2 h (bleeding immediate 70.6%, delayed ≤7 h)
+
+Sign: sublingual swelling · tongue elevation · dysphagia/dyspnea
+  → bimanual compression (intra-oral + submandibular)
+  → call emergency transfer NOW — do not wait to see if it stops
+  → airway is the priority (intubation / tracheotomy in hospital)
+  → drainage · ligation · embolization in hospital for large hematomas
+```
+
+This is the one bleeding scenario on this page where **antithrombotic status is not the lever**: Balaguer-Martí 2015 excluded anticoagulated patients, and the hemorrhage is arterial and anatomical. Stopping a patient's aspirin would not prevent it; reading the cross-sectional CBCT would.
 
 ## 4. Why the drug-axis claims diverge — a reading
 
@@ -156,7 +188,7 @@ So the seminar's *surgical* instinct (pressure, sutures, know the arteries) hold
 
 | Gap | Seminar claim it blocks | Priority |
 |---|---|---|
-| Anterior-mandible sublingual/submental artery injury — incidence, floor-of-mouth hematoma, airway management | C1, C2 | **High** — life-threatening, zero held papers |
+| ~~Anterior-mandible sublingual/submental artery injury~~ — **closed 2026-11-27** (5 papers: Balaguer-Martí 2015 SR, Law 2017, Sfondrini 2024, Vehmeijer 2016, Mun 2026). Residual: incidence per implant placed (all data are case-based, so no denominator) | C1, C2 | Low (residual) |
 | Warfarin reversal (vitamin K, PCC) and enoxaparin–protamine in dental bleeding | E2, E3 | Medium |
 | Antithrombotic washout pharmacokinetics (warfarin, heparin, DOAC by renal function) | D3, D5 | Medium — would let D5 be judged numerically |
 | Electrocautery vs pressure vs ligation for PSAA hemorrhage | C5 | Medium |
@@ -171,5 +203,6 @@ So the seminar's *surgical* instinct (pressure, sutures, know the arteries) hold
 - [[overviews/doac-perioperative-decision-hemostatic-agents-overview]] — Calcia 2021 / Alagil 2023 single-drug vs DAPT decision split.
 - [[overviews/local-hemostasis-agents-overview]] — which agent to place in the socket.
 - [[overviews/psaa-hemorrhage-management-lateral-sinus-lift-overview]] — PSAA anatomy and intra-op strategy.
+- [[overviews/implant-placement-direction-anatomic-constraints-overview]] — region-by-region placement constraints; anterior-mandible floor-of-mouth section added 2026-11-27.
 
 **Papers cited for verdicts** — listed in `source_papers:` above; each verdict row links its own.
