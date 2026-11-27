@@ -21,6 +21,7 @@ relations:
 > - **PSAA 분류**: 3유형 — 골내형 (intraosseous, Gulec 2025 기준 ~63%), 점막하형 (submucosal, Urechescu 2026 기준 48.6% 최다), 동외형 (extraosseous). 유형별 출혈 위험·처치 전략이 다르다. [확인]
 > - **코호트 간 유형 분포 차이**: 골내형이 Gulec(터키) 63% vs Urechescu(루마니아) 17.6%로 큰 차이 → 모집단·장비·분류 기준 차이 반영; 어느 단일 수치로 개별 환자를 판단할 수 없다. 술전 개인 CBCT 평가가 필수인 이유. [확인]
 > - **직경과 거리**: 직경 >1 mm 동맥은 동저·치조정 거리가 유의하게 감소 → 직경이 클수록 더 위험하다. 치조정 기준 평균 ~16 mm(Gulec), 동저 기준 평균 8.30 mm(Urechescu). [확인]
+> - **출혈 중증도 — Radmand 2023 SR+MA (37편, 11,402상악동; 2026-11-27 추가)**: 평균 직경 1.06 mm; 55%는 <1 mm, **97%는 <2 mm**, 2%만 >2 mm — "상악동거상술 중 PSAA 중증 출혈은 실질적 임상 문제가 아님(생명위협적 출혈 아님)." 반응성 혈관수축이 출혈량을 제한. 직경 >2 mm인 2%만 과다출혈(비생명위협적) 위험 → 사전 계획 필요. [확인]
 > - **측방창 높이와 위험 분류**: 창 높이 >11 mm에서 골내형 PSAA 비율 유의하게 증가(χ²=19.11, p=0.004; Urechescu 2026). 창 높이 4분류 체계로 술전 계획 단계에서 위험을 예측할 수 있다. [확인]
 > - **출혈 없이 통과하는 전략 (Basma 2021)**: CT에서 대직경 PSAA 분지가 확인되면 — 절제·전기소작 대신 — 피에조전기 기구 (piezoelectric device) 로 슈나이더막 (Schneiderian membrane) 과 함께 혈관을 en bloc 거상. 1증례, 출혈 없음. [확인]
 > - **임상 의사결정 흐름**: CBCT에서 PSAA 위치·유형·직경 확인 → 창 높이 계획(>11 mm 필요 시 추가 주의) → 대직경 혈관 확인 시 피에조 "막과 함께 거상" 전환 → 골내형은 절개선 계획에서 회피 최우선. [미검증 — 이 흐름 자체는 추론이고 직접 연구 없음]
@@ -30,15 +31,15 @@ relations:
 
 ## Three-line Summary
 
-This overview synthesizes the available evidence on posterior superior alveolar artery (PSAA) anatomy characterization (Gulec 2025, Urechescu 2026) and intraoperative hemorrhage management (Basma 2021) for lateral-window sinus floor elevation.
-PSAA is present in 68–70% of sinuses, most commonly submucosal or intraosseous; larger arteries sit closer to key landmarks, and lateral windows exceeding 11 mm height are significantly more likely to encounter an intraosseous PSAA.
-Preoperative CBCT-based individualized assessment drives safe window design, and piezoelectric en-bloc elevation of identified large arteries with the Schneiderian membrane is the documented hemorrhage-prevention strategy.
+This overview synthesizes the available evidence on posterior superior alveolar artery (PSAA) anatomy characterization (Gulec 2025, Urechescu 2026, Radmand 2023 SR+MA) and intraoperative hemorrhage management (Basma 2021) for lateral-window sinus floor elevation.
+PSAA is present in 68–79% of sinuses; the largest pooled analysis (Radmand 2023: 37 studies, 11,402 sinuses) confirms mean diameter 1.06 mm with 97% < 2 mm — "life-threatening hemorrhage from PSAA injury is not a genuine clinical concern"; larger arteries sit closer to key landmarks, and lateral windows > 11 mm are more likely to encounter an intraosseous PSAA.
+Preoperative CBCT-based individualized assessment drives safe window design; the 2% of PSAAs > 2 mm require pre-planned management (piezoelectric en-bloc elevation per Basma 2021 is the only documented intraoperative hemorrhage-avoidance strategy).
 
 ## 세줄요약
 
-이 종합 페이지는 측방창 상악동거상술에서 후상치조동맥 (Posterior Superior Alveolar Artery, PSAA) 출혈 관리에 관한 현재 보유 근거를 통합한다: 해부 특성화(Gulec 2025, Urechescu 2026)와 술중 처치(Basma 2021).
-PSAA는 68–70%의 상악동에서 존재하며; 직경이 클수록 동저·치조정에 더 가깝고; 창 높이 >11 mm는 골내형 PSAA와 유의하게 연관된다.
-술전 CBCT 개인화 평가로 창 위치·높이를 계획하고, 대직경 혈관 확인 시 피에조전기 기구 (piezoelectric device) 를 이용한 막과 함께 거상 전략이 출혈 합병증을 예방한다.
+이 종합 페이지는 측방창 상악동거상술에서 후상치조동맥 (Posterior Superior Alveolar Artery, PSAA) 출혈 관리에 관한 현재 보유 근거를 통합한다: 해부 특성화(Gulec 2025, Urechescu 2026, Radmand 2023 SR+MA 37편)와 술중 처치(Basma 2021).
+가장 큰 메타분석(Radmand 2023: 11,402건)에서 97%의 PSAA는 직경 <2 mm — "PSAA 손상으로 인한 중증 출혈은 실질적 임상 문제가 아님"; 창 높이 >11 mm는 골내형 PSAA와 유의하게 연관(Urechescu 2026).
+술전 CBCT로 개인화 평가 → 직경 >2 mm(2%)인 경우에만 사전 계획 필수; 술중 전략으로 피에조전기 기구 (piezoelectric device) 막과 함께 en bloc 거상이 유일하게 보고된 출혈 없는 전략(Basma 2021, n=1).
 
 ---
 
@@ -48,6 +49,7 @@ PSAA는 68–70%의 상악동에서 존재하며; 직경이 클수록 동저·�
 |---|---|---|---|
 | [[sinus-lift/lateral/gulec-2025-psaa-cbct-maxillary-sinus-anatomy]] | Retrospective CBCT cross-sectional | 255 patients, 510 sinuses (Turkey) | Anatomy: type, diameter, distances to landmarks |
 | [[sinus-lift/lateral/urechescu-2026-psaa-localization-lateral-window-sinus]] | Retrospective CBCT cross-sectional | 576 patients, 1152 sinuses (Romania) | Anatomy + lateral window height classification |
+| [[sinus-lift/lateral/radmand-2023-anatomic-evaluation-posterior-superior-alveolar]] | SR+MA (37 CBCT studies, 11,402+ sinuses) | Multi-population | Largest pooled anatomy data + hemorrhage severity verdict |
 | [[sinus-lift/lateral/basma-2021-large-artery-management-maxillary-sinus]] | Case report | n=1 (USA) | Intraoperative management strategy |
 
 No RCT or prospective cohort on PSAA hemorrhage management exists in this wiki.
@@ -77,7 +79,15 @@ The two cohorts report strikingly different intraosseous proportions — a criti
 
 Gulec 2025 measured PSAA diameter distribution: **<1 mm in ~55%, 1–2 mm in ~22%, >2 mm in <2%**.
 
+**Radmand 2023 SR+MA (37 studies, 11,402 sinuses — largest pooled data)** confirms: mean diameter 1.06 ± 0.05 mm; **55% < 1 mm · 41% 1–2 mm · only 2% > 2 mm**. Crucially, the study concludes: *"life-threatening hemorrhage resulting from injury to the superior alveolar arteries is not a genuine clinical concern"* — reactive vasoconstriction in small-calibre arteries limits blood loss. Only the 2% > 2 mm pose risk of excessive (non–life-threatening) bleeding and require pre-planned management.
+
 A key finding: **larger-diameter arteries (>1 mm) sit significantly closer to both the sinus floor and the alveolar crest** — i.e., the arteries that bleed most are positioned least favorably for safe window placement. This is the anatomical basis for diameter-based risk stratification.
+
+| Risk category | Diameter | Pooled prevalence | Expected bleeding (Radmand 2023) |
+|---|---|---|---|
+| Manageable | < 1 mm | 55% | Trivial; vasoconstriction stops it |
+| Cautious | 1–2 mm | 41% | Standard local measures sufficient |
+| Pre-plan | > 2 mm | **2%** | Excessive, non–life-threatening; plan beforehand |
 
 ### 1.4 Distance to Surgical Landmarks
 
@@ -158,9 +168,9 @@ Based on the three held papers, the following decision logic is supportable:
 | Gap | Status |
 |---|---|
 | Intraoperative hemorrhage rates across cohorts | No held paper with denominator data |
-| Electrocautery / pressure packing efficacy for PSAA hemorrhage | No held paper |
+| Electrocautery vs pressure packing vs ligation — comparative efficacy | No held paper (C5 ⚠️: anatomy supports manageability, but no method comparison study) |
 | Outcomes after PSAA laceration (graft success, implant survival) | No held paper |
-| Diameter threshold for switching to piezoelectric strategy | No held paper — Basma 2021 does not report diameter numerically |
+| Diameter threshold for switching to piezoelectric strategy | No held paper — Basma 2021 does not report diameter numerically; Radmand 2023 sets 2 mm as the clinical threshold for excess bleeding |
 | Prospective CBCT-guided planning vs standard — hemorrhage comparison | No held paper |
 | Multi-case series for piezoelectric en-bloc strategy | Only 1 case (Basma 2021) |
 
