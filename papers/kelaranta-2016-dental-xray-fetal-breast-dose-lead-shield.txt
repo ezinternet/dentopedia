@@ -1,0 +1,15 @@
+TITLE: Radiation exposure to foetus and breasts from dental X-ray examinations: effect of lead shields
+AUTHORS: Kelaranta Anna, Ekholm Marja, Toroi Paula, Kortesniemi Mika
+JOURNAL: Dentomaxillofacial Radiology
+ID[pmcid]: PMC5083886
+ID[pmcid-ver]: PMC5083886.1
+ID[pmcaid]: 5083886
+ID[pmcaiid]: 5083886
+ID[pmid]: 26313308
+ID[doi]: 10.1259/dmfr.20150095
+
+## ABSTRACT
+Objectives:Dental radiography may involve situations where the patient is known to be pregnant or the pregnancy is noticed after the X-ray procedure. In such cases, the radiation dose to the foetus, though low, needs to be estimated. Uniform and widely used guidance on dental X-ray procedures during pregnancy are presently lacking, the usefulness of lead shields is unclear and practices vary.
+Methods:Upper estimates of radiation doses to the foetus and breasts of the pregnant patient were estimated with an anthropomorphic female phantom in intraoral, panoramic, cephalometric and CBCT dental modalities with and without lead shields.
+Results:The upper estimates of foetal doses varied from 0.009 to 6.9 μGy, and doses at the breast level varied from 0.602 to 75.4 μGy. With lead shields, the foetal doses varied from 0.005 to 2.1 μGy, and breast doses varied from 0.002 to 10.4 μGy.
+Conclusions:The foetal dose levels without lead shielding were <1% of the annual dose limit of 1 mSv for a member of the public. Albeit the relative shielding effect, the exposure-induced increase in the risk of breast cancer death for the pregnant patient (based on the breast dose only) and the exposure-induced increase in the risk of childhood cancer death for the unborn child are minimal, and therefore, need for foetal and breast lead shielding was considered irrelevant. Most important is that pregnancy is never a reason to avoid or to postpone a clinically justified dental radiographic examination.
