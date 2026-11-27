@@ -906,6 +906,7 @@ tags: []
 - [[sinus-lift/lateral/nathani-2025-evaluation-of-the-efficacy-of]] — Nathani 2025 · prospective (단일군 12명 등록/10명 분석, PMC전문) · 잔존골 ≤5mm 측방 거상에서 자가골:30/70 BCP 1:1 + PRF — 6개월 골고도 +8.53mm(p<0.001), 신생골 48.08%·잔존이식재 24.36%, 막천공 0건 (DOI 10.4103/jisp.jisp_30_25)
 - [[sinus-lift/lateral/urechescu-2026-psaa-localization-lateral-window-sinus]] — 후향 CBCT (n=1152 상악동, 루마니아): PSAA 검출 68.1%·점막하 48.6%·골내 17.6%; 동저 거리 8.3±4.3mm; 대형창(>11mm)에서 골내형 유의 증가(p=0.004) — 측방창 높이별 PSAA 위험도 4분류 체계 (DOI 10.1186/s12903-026-08146-4)
 - [[sinus-lift/lateral/radmand-2023-anatomic-evaluation-posterior-superior-alveolar]] — SR+MA (37편, 11,402상악동): PSAA 검출률 79%·골내형 64%·직경 1.06mm(55%<1mm·2%>2mm); 동저 거리 8.85mm·치조정 거리 16.71mm — "상악동거상술 중 PSAA 손상으로 인한 중증 출혈은 실질적 임상 문제가 아님"; 직경>2mm(2%)만 과다출혈 위험 (DOI 10.5624/isd.20230009)
+- [[sinus-lift/molina-2022-complications-sinus-lifting-classification-management]] — Molina et al. 2022 · narrative-review · 상악동거상술 합병증 분류·관리 종합 리뷰 (Periodontology 2000 88(1):103-115): 측방창·경치조골 양쪽 접근법, 출혈이 특이적 합병증으로 명시 — 직접 비교 연구 없음 확인, 피에조전기·수압거상 등 신기술 근거 불충분 (DOI 10.1111/prd.12414)
 - [[sinus-lift/lateral/basma-2021-large-artery-management-maxillary-sinus]] — 증례보고: CT 확인 대직경 PSA 분지를 피에조전기 기구로 슈나이더막과 함께 출혈 없이 거상 → 대직경 PSAA 발견 시 절제 대신 "막과 함께 거상" 전략으로 출혈 합병증 예방 (DOI 10.1002/cap.10104)
 
 ## 상악동거상술 — 경치조골·골밀도화 (Sinus Lift: Transcrestal / Osseodensification)
