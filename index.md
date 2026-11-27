@@ -2894,6 +2894,9 @@ tags: []
 - [[periodontics/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]] — Yun-Jeong Kim 2024 · consensus · Current understanding of the etiology, diagnosis, treatment, and management of peri-implant diseases: a narrative review for the consensus report of the Korean Academy of Periodontology
 - [[periodontics/kim-2025-management-peri-implantitis-perspectives]] — Sangmin Kim 2025 · narrative-review · Current perspectives on the management of peri-implantitis (임플란트 주위염 치료의 최신 지견)
 
+### practice-management (added 2026-11-27 — labor law, pregnant worker)
+- [[practice-management/korea-moel-2026-labor-standards-act-pregnant-worker-protection]] — 근로기준법 2026 · regulation · 제74조⑤ 임신 근로자 요구 시 쉬운 근로 전환 의무·시간외 금지, 시행령 별표4 원자력안전법 한도 초과 방사선 업무 금지, 12주 이내·32주 이후 1일 2시간 단축
+
 ### practice-management (added 2026-05-24, batch c)
 
 - [[practice-management/ha-2023-dentist-issues-constitutional-court-decisions]] — Ji-Woo Ha 2023 (대한치과의사협회지, 전북대 구강내과) · narrative-review · 치과의사 관련 한국 헌법재판소 결정례·헌법소원 리뷰 (본문 폰트 인코딩으로 세부 판시 자동추출 불가 [미검증])
@@ -3335,6 +3338,10 @@ tags: []
 - [[radiology/khafaji-2023-scattered-dose-eye-dentistry-cbct]] — Khafaji 2023 (SR, 5편 phantom): 치과 CBCT 안구 산란선량 0.103-8.3mSv, FOV 의존 — 선량기준치 필요
 
 <!-- BATCH INGEST 2026-07-13: nutrient canal alveolar/mandibular PMC 풀텍스트 5편 -->
+### radiology (added 2026-11-27 — Korean radiation law, pregnant staff)
+- [[radiology/korea-mohw-2026-diagnostic-radiation-safety-rule]] — 보건복지부령 2026 · regulation · 진단용 방사선 발생장치 안전관리 규칙: 종사자 유효선량 연 50 mSv·5년 100 mSv, TLD 3개월마다, 건강진단 2년마다 — **임신 전용 한도 없음**(규칙·별표3·질병관리청 고시 전문 0건)
+- [[radiology/korea-nssc-2026-radiation-protection-pregnancy-dose-limit]] — 원자력안전위원회 고시 2026 · regulation · 임신 확인~출산 하복부 표면 등가선량 2 mSv(국내 유일 임신 수치 한도) — 원자력안전법 종사자 대상, 치과 진단용 직원엔 직접 적용 아님(해석)
+
 ### radiology (added 2026-07-13, batch h — nutrient canal anatomy)
 
 - [[radiology/kumar-2014-incidence-nutrient-canals-hypertensive]] — Kumar 2014 · cross-sectional(J Nat Sci Biol Med) · 하악전치부 IOPAR nutrient canal 발생률 고혈압군 55.2% vs 대조군 36.2%(유의); 골소실↑·무치악에서 증가, 이환기간 10년 초과 시 급감 (PMC full text)
