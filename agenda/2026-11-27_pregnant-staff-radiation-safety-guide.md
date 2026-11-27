@@ -46,7 +46,8 @@ source_wiki:
 - 2026-11-27: 위키 공백 — (a) 태아 결정적 영향 역치(예: mGy 단위), (b) 국내 법령상 임신 종사자 신고·선량한도 수치는 위키에 없음 → 가이드에서 "확인 필요"로 표기, 수치 인용 안 함. 필요 시 인제스트 후보.
 - 2026-11-27: "임신 기간 포터블 PA는 다른 직원 우선 배정"은 근거 수치가 아니라 원내 운영 원칙(Berkhout 2015 예외적 사용 + Makdissi 2016 자세 의존성에서 추론)으로 표기.
 - 환자·직원 식별정보 미기재 (공개 배포).
-- 2026-11-27 (v2): 국내 법령 공백 해소 — 3건 인제스트(regulation): wiki/radiology/korea-mohw-2026-diagnostic-radiation-safety-rule (임신 조항 없음, 연 50 mSv), wiki/radiology/korea-nssc-2026-radiation-protection-pregnancy-dose-limit (임신 하복부 2 mSv, 원자력안전법 대상), wiki/practice-management/korea-moel-2026-labor-standards-act-pregnant-worker-protection (요구 시 업무전환 의무). 가이드에 ⑤ 국내 법령 기준 섹션 추가. 남은 공백: 태아 영향 역치.
+- 2026-11-27 (v2): 국내 법령 공백 해소 — 3건 인제스트(regulation): wiki/radiology/korea-mohw-2026-diagnostic-radiation-safety-rule (임신 조항 없음, 연 50 mSv), wiki/radiology/korea-nssc-2026-radiation-protection-pregnancy-dose-limit (임신 하복부 2 mSv, 원자력안전법 대상), wiki/practice-management/korea-moel-2026-labor-standards-act-pregnant-worker-protection (요구 시 업무전환 의무). 가이드에 ⑤ 국내 법령 기준 섹션 추가. 
+- 2026-11-27 (v3): 태아 역치 공백 해소 — 5편 인제스트(wiki/radiology/): mainprize-2023 (주수별 역치, <50 mGy 무효과), velazquez-martin-2025 (임신 직원 합의문, ≤1 mSv 실측), gamba-2024 (치과촬영 SR, 구내 1회 6–7 µGy), kelaranta-2016 (팬텀, 초록만), andersson-2026 (교익 MC, nGy). 가이드에 역치 표·차트 행 추가.
 
 # References
 
