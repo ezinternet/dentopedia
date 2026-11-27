@@ -1249,6 +1249,7 @@ tags: []
 - [[overviews/dental-recall-spt-overview]] — **Overview** (8편 종합, 2026-08-29): 건강 성인 리콜 간격 6개월=위험기반=24개월(고확실성), 치주염 치료 완료 환자 SPT 3–12개월 EFP Grade A; GBT=SRP 동등; 비순응+잔존포켓≥5–6mm이 재발 주예측인자; SPT 간격 RCT 전무
 - [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — 만성 치주염 비수술 치료(SRP ± 보조) 근거기반 가이드라인 — SRP 강력 권고, 전신 독시사이클린 추가 PPD 0.2–0.4mm 감소.
 - [[periodontics/nibali-2016-tooth-loss-furcation-involvement-sr-ma]] — SR+MA(21편): 치근분지부 침범 대구치 치아 소실 위험 10–15년 RR 2.21(p<0.0001); 3도 포함 대부분 치주치료로 보존 가능.
+- [[periodontics/dommisch-2020-resective-surgery-furcation-involvement-sr]] — Dommisch 2020 · sr(EFP S3 보충호) · 683편→7편, FI 2·3도 치아 2021개; 근절단술·근분리술 38–94.4%·터널링 62–67%·OFD 63–85%·SRP 68–80% 생존; 2도>3도; SRP·OFD와 절제술 간 생존율 유사 — 절제술 우월성 미입증 (DOI 10.1111/jcpe.13241)
 - [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — SR+NMA(30개 RCT, 3–20년): 골내결손 재생/재건술이 OFD보다 PD·CAL에서 유의하게 우수; 병용요법이 단독요법보다 더 효과적; 치아소실 0.4% vs OFD 2.8%.
 - [[periodontics/blyleven-2024-periodontal-implant-surgery-complications]] — 1135건 치주·임플란트 수술 후향 차트 리뷰: 술중 합병증 2.8%·술후 합병증 15.2%, 측방 상악동거상술이 술중 합병증 가장 강력한 예측 인자 (OR 102.5), 결합조직이식·골유도재생이 술후 합병증을 약 3배 증가시킴
 - [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]] — Periodontology 2000 review (Apatzidou 2022): 흡연이 치주질환과 임플란트 결과에 미치는 영향의 기전 종합 — neutrophil 기능 손상, MMPs 상승, 치주미생물군 변화, 조직 항상성 손상. Periodontitis 2-6배, peri-implantitis 위험 유의 증가의 mechanistic 근거.
@@ -5217,6 +5218,7 @@ tags: []
 
 ### periodontics
 - [[periodontics/mahintach-2026-ha-vs-emd-intrabony-defects-sr-ma]] — Mahintach 2026 · sr+ma (3 RCTs) · 치조내결손 HA vs EMD — CAL·치은퇴축 비열등(WMD 0.51 mm), PPD 비열등 미확인(I²=72.5%) (DOI 10.3290/j.ohpd.c_2808)
+- [[periodontics/alrmali-2026-hyaluronic-acid-periodontal-regeneration-sr-ma]] — Alrmali 2026 · sr+ma (14 RCTs) · 치조내결손 치주 재생 수술 HA 보조: PPD +0.7–1.2 mm·CAL +0.7–1.1 mm 추가 개선(12개월), RDD −0.7–1.0 mm; HA 단독·차폐막 병용 유의, 골이식재 병용 무효; EMD 동등 또는 약간 우세 (DOI 10.1111/prd.70063)
 - [[periodontics/abusamak-2026-melatonin-nspt-adjunct-sr-ma]] — Abusamak 2026 · sr+ma (18 RCTs, 828명, HKSJ) · 멜라토닌 NSPT 보조: CAL 2m −1.48mm·3m −0.41mm·6m −0.68mm·PPD 2m −1.80mm·당뇨 HbA1c −1.33%; 예측구간 전부 영 포함 → 효과 불안정 (DOI 10.1016/j.jebdp.2026.102270)
 - [[periodontics/dannewitz-2026-digital-companion-perio-rct]] — Dannewitz 2026 · rct (7개 센터, n=194) · Paro-ComPas 디지털 동반자 앱 다기관 RCT — 1차(GBI)·전 2차지표 유의차 없음; 센터 간 이질성 큼 (DOI 10.1111/jcpe.70181)
 - [[periodontics/papantonatou-2026-ctg-vs-vcmx-implant-placement-rct]] — Papantonatou 2026 · rct (3군, n=25) · 임플란트 식립 시 CTG vs VCMX vs 무처치: CTG·VCMX 모두 STT 유의 증가; CTG가 두께 우위; VCMX 공여부 없음·PROMs 유사 (DOI 10.1111/jcpe.70177)

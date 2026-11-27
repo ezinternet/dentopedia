@@ -2,7 +2,7 @@
 title: "치주치료 — periodontics"
 authors: navigation
 year: 2026
-date: 2026-11-25
+date: 2026-11-27
 doi: N/A
 source: navigation
 category: periodontics
@@ -16,21 +16,21 @@ tags: [navigation, category-index, periodontics]
 > - **분야**: 치주치료
 > - **범위**: Periodontal disease, classification, regeneration/root-coverage, SPT, periodontal-systemic links, general periodontics not covered by a subcategory.
 > - **하위 카테고리**: [[host-modulation]] · [[non-surgical-instrumentation]] · [[oral-hygiene-instruction]]
-> - **수록 논문**: 95편
+> - **수록 논문**: 97편
 
 ## Three-line Summary
 
 **Scope**: Periodontal disease, classification, regeneration/root-coverage, SPT, periodontal-systemic links, general periodontics not covered by a subcategory.
-**Indexed papers**: 95 papers in `wiki/periodontics/`.
+**Indexed papers**: 97 papers in `wiki/periodontics/`.
 **Sub-categories**: [[host-modulation]], [[non-surgical-instrumentation]], [[oral-hygiene-instruction]]
 
 ## 세줄요약
 
 **분야**: 치주치료
-**수록 논문**: 95편
+**수록 논문**: 97편
 **하위 카테고리**: host-modulation, non-surgical-instrumentation, oral-hygiene-instruction
 
-## Papers in this Category (95)
+## Papers in this Category (97)
 
 | Paper |
 |---|
@@ -39,6 +39,7 @@ tags: [navigation, category-index, periodontics]
 | [[aijima-2014-trpv3-oral-epithelial-wound-healing|The thermosensitive TRPV3 channel contributes to rapid wound healing in oral epithelia]] |
 | [[alam-2024-supracrestal-tissue-attachment-biologic-width|Identification, Evaluation, and Correction of Supracrestal Tissue Attachment (Previously Biologic Width) Violation: A Case Presentation With Literature Review]] |
 | [[alharbi-2019-management-acute-periodontal-abscess-mimicking|Management of Acute Periodontal Abscess Mimicking Acute Apical Abscess in the Anterior Lingual Region: A Case Report]] |
+| [[alrmali-2026-hyaluronic-acid-periodontal-regeneration-sr-ma|Improving periodontal regeneration outcomes with hyaluronic acid: A systematic review and meta-analysis]] |
 | [[apatzidou-2022-cigarette-smoking-periodontal-implant-review|The role of cigarette smoking in periodontal disease and treatment outcomes of dental implant therapy]] |
 | [[arbildo-vega-2024-periodontal-disease-diabetes-mellitus-umbrella|An Umbrella Review of the Association Between Periodontal Disease and Diabetes Mellitus]] |
 | [[arbildo-vega-2026-periodontal-restorative-nccl-gr-sr|Efficacy of combined periodontal-restorative treatment versus periodontal treatment alone for gingival recession associated with non-carious cervical lesions: a systematic review and meta-analysis]] |
@@ -59,6 +60,7 @@ tags: [navigation, category-index, periodontics]
 | [[dawes-2003-oral-mucosal-epithelium-turnover-time|Estimates, from salivary analyses, of the turnover time of the oral mucosal epithelium in humans and the number of bacteria in an edentulous mouth]] |
 | [[demolon-2026-periodontitis-bone-loss-signaling-pathways|Inflammatory bone loss and signaling pathways in periodontitis: mechanistic insights and emerging therapeutic strategies]] |
 | [[dolcezza-2024-rheumatoid-arthritis-periodontal-disease-sr-ma|Relationship Between Rheumatoid Arthritis and Periodontal Disease—Systematic Review and Meta-Analysis]] |
+| [[dommisch-2020-resective-surgery-furcation-involvement-sr|Resective surgery for the treatment of furcation involvement: A systematic review]] |
 | [[dommisch-2026-management-periodontal-abscesses-endodontic-periodontal|Management of Periodontal Abscesses and Endodontic-Periodontal Lesions—A Systematic Review]] |
 | [[drukala-2005-comparison-of-proliferation-and-motile|Comparison of Proliferation and Motile Activity Between Human Keratinocytes Isolated from Skin and Oral Mucosa]] |
 | [[ercoli-2021-fixed-dental-prostheses-restorations-periodontium|The Relationships Between Tooth-Supported Fixed Dental Prostheses and Restorations and the Periodontium]] |
