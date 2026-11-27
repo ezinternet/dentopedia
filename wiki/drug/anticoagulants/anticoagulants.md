@@ -2,7 +2,7 @@
 title: "전신질환·약물·항응고·지혈 — anticoagulants"
 authors: navigation
 year: 2026
-date: 2026-11-26
+date: 2026-11-27
 doi: N/A
 source: navigation
 category: drug/anticoagulants
@@ -15,20 +15,20 @@ tags: [navigation, category-index, anticoagulants]
 > [!summary] 한국어 핵심요약
 > - **분야**: 전신질환·약물·항응고·지혈
 > - **범위**: Anticoagulants (warfarin, DOACs: apixaban/rivaroxaban/dabigatran), antiplatelets (aspirin, clopidogrel), perioperative management, hemostasis, DAPT
-> - **수록 논문**: 64편
+> - **수록 논문**: 68편
 
 ## Three-line Summary
 
 **Scope**: Anticoagulants (warfarin, DOACs: apixaban/rivaroxaban/dabigatran), antiplatelets (aspirin, clopidogrel), perioperative management, hemostasis, DAPT
-**Indexed papers**: 64 papers in `wiki/drug/anticoagulants/`.
+**Indexed papers**: 68 papers in `wiki/drug/anticoagulants/`.
 
 ## 세줄요약
 
 **분야**: 전신질환·약물·항응고·지혈
-**수록 논문**: 64편
+**수록 논문**: 68편
 **하위 카테고리**: 없음
 
-## Papers in this Category (64)
+## Papers in this Category (68)
 
 | Paper |
 |---|
@@ -39,9 +39,11 @@ tags: [navigation, category-index, anticoagulants]
 | [[alwakeal-2024-fixed-versus-variable-dose-prothrombin|Fixed- Versus Variable-Dose Prothrombin Complex Concentrate for the Emergent Reversal of Vitamin K Antagonists: A Systematic Review and Meta-Analysis.]] |
 | [[bergo-2026-topical-tranexamic-acid-powder-dentistry|Topical tranexamic acid powder for bleeding control in dentistry: a scoping review]] |
 | [[boccatonda-2023-perioperative-antithrombotic-dental-procedures-network-ma|Perioperative Management of Antithrombotic Therapy in Patients Who Undergo Dental Procedures: A Systematic Review of the Literature and Network Meta-Analysis]] |
+| [[brekelmans-2017-benefits-and-harms-of-4|Benefits and harms of 4-factor prothrombin complex concentrate for reversal of vitamin K antagonist associated bleeding: a systematic review and meta-analysis]] |
 | [[calcia-2021-alteration-single-drug-anticoagulant-antiplatelet|Is alteration in single drug anticoagulant/antiplatelet regimen necessary in patients who need minor oral surgery? A systematic review with meta-analysis]] |
 | [[catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm|Cyclooxygenase Inhibitors and the Antiplatelet Effects of Aspirin]] |
 | [[chahine-2019-anticoagulation-dental-procedures-sr|Anticoagulation Use prior to Common Dental Procedures: A Systematic Review]] |
+| [[chai-adisaksopha-2016-prothrombin-complex-concentrates-versus-fresh-frozen|Prothrombin complex concentrates versus fresh frozen plasma for warfarin reversal. A systematic review and meta-analysis]] |
 | [[cho-2014-antithrombotic-secondary-prevention-ischemic-stroke-korean|허혈성 뇌졸중의 이차예방을 위한 항혈전제 치료 (Pharmacological Secondary Prevention of Ischemic Stroke)]] |
 | [[choudhary-2025-bleeding-thrombosis-noac-dental-management|Balancing Bleeding and Thrombosis in Dental Management of Patients on Novel Oral Anticoagulants: A Narrative Evidence Synthesis]] |
 | [[dou-2025-bleeding-dentoalveolar-doac-vka-sr-ma|Risk of bleeding with dentoalveolar surgery in patients taking direct oral anticoagulants or vitamin K antagonists: A systematic review and meta-analysis]] |
@@ -76,12 +78,14 @@ tags: [navigation, category-index, anticoagulants]
 | [[mohamed-rohani-2025-hematological-disorders-bleeding-tendency-dental|The Dental Management of Patients With Common Hematological Disorders and Bleeding Tendency]] |
 | [[moldovan-2023-anticoagulant-oral-surgery-bleeding-sr|Bleeding and thromboembolic risk in patients under anticoagulant therapy receiving oral surgery: a systematic review]] |
 | [[ockerman-2021-tranexamic-acid-bleeding-noac-dental-extraction|Tranexamic acid and bleeding in patients treated with non-vitamin K oral anticoagulants undergoing dental extraction: The EXTRACT-NOAC randomized clinical trial]] |
+| [[ovesen-2025-prothrombin-complex-concentrate-for-reversal|Prothrombin complex concentrate for reversal of oral anticoagulants in patients with oral anticoagulation-related critical bleeding: a systematic review of randomised clinical trials]] |
 | [[patil-2025-comparative-evaluation-local-hemostatic|Comparative Evaluation of Local Hemostatic Agents in Minor Oral Surgical Procedures: A Randomized Clinical Trial]] |
 | [[patrono-2024-low-dose-aspirin-prevention-atherosclerotic|Low-dose aspirin for the prevention of atherosclerotic cardiovascular disease]] |
 | [[pesce-2024-effect-different-anticoagulants-antiplatelets|Effect of different anticoagulants and antiplatelets on intraoral bleeding time during professional oral hygiene session.]] |
 | [[pyo-2026-drug-interactions-prescription-safety-elderly|Drug interactions and prescription safety of the elderly in dentistry]] |
 | [[radia-2026-patient-clinician-doac-knowledge-extractions|What do they know? Evaluation of patient and clinician management of direct oral anti-coagulant and antiplatelets therapy prior to dental extractions]] |
 | [[renda-2006-celecoxib-ibuprofen-aspirin-antiplatelet|Celecoxib, ibuprofen, and the antiplatelet effect of aspirin in patients with osteoarthritis and ischemic heart disease]] |
+| [[rocca-2026-antidotes-for-anticoagulation-reversal|Antidotes for Anticoagulation Reversal]] |
 | [[shah-2022-perioperative-antiplatelet-therapy-sr-ma|Perioperative Management of Antiplatelet Therapy: A Systematic Review and Meta-analysis]] |
 | [[singh-jolly-2025-chitosan-dressing-deranged-coagulation|Is chitosan-based dressing more effective than gauze pressure in achieving early hemostasis after dental extractions in patients with deranged coagulation profiles?]] |
 | [[sitthikornvanich-2026-tranexamic-acid-gauze-hemostatic-oral-surgery|Development of ready-to-use tranexamic acid gauze as a hemostatic material for oral surgery: fabrication, hemostasis, and shelf-life]] |
