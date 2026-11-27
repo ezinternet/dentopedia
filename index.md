@@ -5791,6 +5791,7 @@ tags: []
 - [[implants/soft-tissue/benli-2026-platform-switching-esthetic-outcomes-sr]] — Benli 2026 · sr(24편, abstract-only) · 플랫폼 스위칭이 PES·유두·점막 정점 변화 개선 보고 — 메타분석 없음 (DOI 10.11607/jomi.11299)
 - [[implants/soft-tissue/linkevicius-2015-effect-zirconia-titanium-abutment-material]] — 지르코니아(Zr) vs 티타늄(Ti) 지대주 연조직 SR/MA: 9개 연구(11편 논문, RCT 4 + CCT 5), 메타분석 가능한 연조직 색상만 Zr 유의 우세, 퇴축·탐침깊이·탐침 출혈·변연골수준·PRO는 유의한 차이 없음(초록 전용)
 - [[implants/soft-tissue/puisys-2015-use-acellular-dermal-matrix-membrane]] — 매몰형 식립 시 무세포 진피 기질(ADM, AlloDerm)로 수직 연조직 두께 1.54±0.51 → 3.75±0.54 mm, 평균 증가 2.21±0.85 mm(P<0.001), 40/40 이식편 치유 (40명·3개월 증례시리즈, 초록만)
+- [[implants/soft-tissue/zuercher-2026-treatment-small-peri-implant-buccal]] — Zuercher 2026 · rct(파일럿, 3년 추적, n=16) · 협측 골결손부(≤3 mm) 단일 임플란트 식립 시 SCTG vs GBR 비교: 양군 buccal contour 안정 유지(1 mm 하방 중앙값 +0.19 mm vs +0.11 mm), MBL·임상지표 양호하고 군 간 유사 — 소규모·기술통계, 충분한 검정력의 RCT 필요 (DOI 10.1111/cid.70192)
 - [[periodontics/pawar-2011-gingival-zenith-redefining-esthetics]] — Pawar 2011 · cross-sectional(35명) · 치은선 각도 좌 86.7° > 우 84.6°, 견치 정점 근단 — 측절치 비율 17% vs 75.7% 내부 불일치 (DOI 10.4103/0972-124X.84382)
 - [[periodontics/kolte-2019-gingival-angle-zenith-angle-thickness]] — Kolte 2019 · cross-sectional(160명, abstract-only) · 정점 각도는 여성에서 작고 연령 무관, 치은 두께(여 1.1 vs 남 2.5 mm)와 무상관 (PMID 31061999, DOI 없음)
 
