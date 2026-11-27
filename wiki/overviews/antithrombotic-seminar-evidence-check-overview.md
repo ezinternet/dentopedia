@@ -4,7 +4,7 @@ authors: synthesis (llm-wiki)
 year: 2026
 date: 2026-11-27
 category: [overviews]
-tags: [floor-of-mouth-hematoma, airway, anticoagulant, antiplatelet, antithrombotic, warfarin, heparin, DOAC, NOAC, reversal-agent, idarucizumab, andexanet, bridging, INR, hemophilia, thrombocytopenia, liver-cirrhosis, CKD, PSAA, sublingual-artery, seminar-check, overview]
+tags: [protamine, vitamin-K, prothrombin-complex-concentrate, floor-of-mouth-hematoma, airway, anticoagulant, antiplatelet, antithrombotic, warfarin, heparin, DOAC, NOAC, reversal-agent, idarucizumab, andexanet, bridging, INR, hemophilia, thrombocytopenia, liver-cirrhosis, CKD, PSAA, sublingual-artery, seminar-check, overview]
 source_papers:
   - drug/anticoagulants/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr
   - drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr
@@ -37,6 +37,13 @@ source_papers:
   - oral-surgery/sfondrini-2024-floor-of-the-mouth-hemorrhage
   - oral-surgery/vehmeijer-2016-airway-management-of-a-patient
   - oral-surgery/mun-2026-life-threatening-floor-of-mouth
+  - drug/anticoagulants/yee-2019-emergency-reversal-of-anticoagulation
+  - drug/anticoagulants/aldhaeefi-2023-practical-guide-for-anticoagulant-and
+  - drug/anticoagulants/alwakeal-2024-fixed-versus-variable-dose-prothrombin
+  - drug/anticoagulants/brekelmans-2017-benefits-and-harms-of-4
+  - drug/anticoagulants/chai-adisaksopha-2016-prothrombin-complex-concentrates-versus-fresh-frozen
+  - drug/anticoagulants/ovesen-2025-prothrombin-complex-concentrate-for-reversal
+  - drug/anticoagulants/rocca-2026-antidotes-for-anticoagulation-reversal
 evidence_level: synthesis
 source: synthesis
 relations:
@@ -50,14 +57,16 @@ relations:
 
 > [!summary] 한국어 핵심요약
 > - **이 페이지의 정체**: 2026-11-26 수강한 임플란트 출혈 합병증 세미나 슬라이드 3장(요약·중단 기간·길항제 도식)의 **주장 하나하나를 위키 보유 논문과 대조**한 체크리스트다. 세미나는 논문이 아니므로 근거로 쓰지 않는다 — 판정은 전부 위키 논문 기준이다.
-> - **판정 집계**: 세미나 주장 23개 중 ✅ 일치 9 · ⚠️ 조건부/부분 일치 5 · ❌ 위키 근거와 상충 5 · ⚪ 위키에 근거 없음(검증 불가) 4. (2026-11-27 구강저 출혈 5편 인제스트로 설하동맥 2개 항목 재판정: C1 ⚠️→✅, C2 ⚪→⚠️)
+> - **판정 집계**: 세미나 주장 23개 중 ✅ 일치 10 · ⚠️ 조건부/부분 일치 7 · ❌ 위키 근거와 상충 5 · ⚪ 위키에 근거 없음(검증 불가) 1. (2026-11-27 재판정 2회: 구강저 출혈 5편으로 C1 ⚠️→✅·C2 ⚪→⚠️; 길항제 7편으로 E2 ⚪→✅·E3 ⚪→⚠️·D3 ⚪→⚠️)
 > - **가장 큰 상충 ① 항혈전제 루틴 중단**: 세미나는 "내과의와 상의 후 수술 전 중단 필요, 항혈소판제 5(–7)일·항응고제 2–4일"을 제시하나, 위키의 SR·코호트는 **단순 발치·임플란트에서 중단하지 않고 국소 지혈**이 원칙이다 (Moldovan 2023, Calcia 2021 술후 출혈 RR 0.81 NS, Kim 2024·Izzetti 2024 DOAC 중단 이득 없음, Madrid 2009·Chahine 2019 임플란트도 동일). 협진은 맞고, *루틴 중단*이 틀리다.
 > - **세미나 내부 모순**: 같은 강의가 "항혈소판제 5–7일 중단 후 수술 권유"와 "중단하지 않고 시술해도 심각한 출혈은 거의 없다"를 나란히 적었다. 위키 근거는 후자 편이다 (Krishnan 2024, Yari 2023, Alagil 2023 아스피린 단독 = 건강인과 출혈 차이 없음).
 > - **가장 큰 상충 ② 헤파린 브리징 (Bridging Therapy)**: "와파린 중단이 안 되면 헤파린 bridging"은 위키에서 **출혈만 늘리고 혈전은 줄이지 못하는** 것으로 일관된다 (Moldovan 2023, Chahine 2019, Lu 2018, SECIB 2024).
 > - **상충 ③ 혈우병·혈소판감소증 = 임플란트 금기**: 위키는 **절대 금기가 아니라 혈액내과 협진 하 조건부 가능**이다 — 혈우병 SR(Kumar 2026)은 인자 30–50% 교정 + 트라넥삼산(Tranexamic Acid, TXA)으로 임플란트 가능, 하치조신경블록 (Inferior Alveolar Nerve Block, IANB)은 인자 교정 필수. 혈소판감소증은 간경변 맥락 자료뿐(혈소판 >16,000/mm³·INR <3이면 수혈 불필요, Medina 2018)이라 일차성 혈소판감소증 임플란트는 근거 공백.
 > - **국제정상화비율 (International Normalized Ratio, INR) 컷오프**: 세미나 "INR 3 이상 연기"는 위키 범위의 **보수적 끝**이다 — SECIB 2024는 INR >3이면 처방의 연락(Grade C), Inchingolo 2024는 ≤3.5 진행·>4.0 연기, Lu 2018은 INR <4.0 지속 시 출혈 9.1%. 틀리진 않지만 위키 기본선(3.5/4.0)보다 엄격하다.
 > - **PT·aPTT·INR 루틴 검사**: 와파린은 INR 필수(24–72시간 전), 그러나 **DOAC 환자에서 INR은 신뢰할 수 없는 지표**(Kim 2024: 유지 1.15 vs 중단 1.13, 출혈과 무상관)라 일괄 검사 권고는 약물별로 쪼개야 한다.
-> - **길항제(reversal agent)**: 다비가트란→이다루시주맙, Xa 억제제(아픽사반·리바록사반·에독사반)→안덱사넷 알파 또는 프로트롬빈 복합체 농축물 (Prothrombin Complex Concentrate, PCC) 매핑은 위키와 일치. 단 위키는 **응급 전용**이며 치과 사용은 일화 수준, 예방적 술전 투여는 부당하고 혈전 유발 가능(Choudhary 2025). 위키 코호트의 술후 출혈은 사실상 전부 국소 처치로 조절됐다. 와파린→비타민 K·PCC, 에녹사파린→프로타민은 위키에 논문 없음(⚪). 슬라이드의 "PPC"는 PCC의 오타.
+> - **길항제 (Reversal Agent) — 공백 해소(2026-11-27, 7편)**: 매핑 자체는 맞다. 다비가트란→이다루시주맙, Xa 억제제→안덱사넷 알파 또는 4인자 프로트롬빈 복합체 농축물 (4F-PCC) ✅. **와파린→비타민 K + PCC ✅**: 비타민 K 정맥 10 mg은 1–2시간에 작용 시작·4–6시간 최대(Yee 2019), INR 정상화는 정맥 12–16시간·경구 ~24시간(Brekelmans 2017). PCC는 1시간 내 INR 1.4–1.9(신선동결혈장 (Fresh Frozen Plasma, FFP) 2.2–12)로 빠르지만, **RCT만 보면 사망률 차이는 없다**(RR 1.05, Ovesen 2025).
+> - **에녹사파린→프로타민은 과장(⚠️)**: 프로타민은 *미분획*헤파린의 해독제이고 저분자량헤파린 (Low-Molecular-Weight Heparin, LMWH) 에는 **특이 해독제가 없다**(Rocca 2026 NEJM). 실제로 프로타민을 쓰긴 하지만 항-Xa 효과의 ~50–60%만 되돌린다(Yee 2019·Aldhaeefi 2023).
+> - **치과에서의 위치**: 7편 전부 생명을 위협하는 출혈(두개내·위장관·응급수술)이 대상이고 치과 출혈 연구는 0편. 위키의 치과 코호트는 길항제 없이 국소 처치로 전부 조절됐다 → 길항제는 응급실의 도구이고, 치과의의 일은 국소 지혈·실패 인지·이송이다. 슬라이드의 "PPC"는 PCC의 오타.
 > - **후상치조동맥 (Posterior Superior Alveolar Artery, PSAA) 16–18 mm**: 위키와 일치 — Gulec 2025 치조정 기준 우 15.93±3.45 / 좌 17.24±3.71 mm. 단 SD가 ±3.5 mm이고 직경이 클수록 더 낮게 지나가므로 **개별 CBCT 확인**이 필수. 전기소작의 우위는 위키에 근거 없음(⚪); 위키의 유일한 술중 근거는 피에조로 막과 함께 en bloc 거상(Basma 2021, n=1).
 > - **설하동맥 (Sublingual Artery) 손상·구강저 혈종 (Floor-of-Mouth Hematoma) — 공백 해소(2026-11-27)**: 세미나의 기전 설명은 **일치(✅)**. Balaguer-Martí 2015 SR(증례 15편)에서 최다 부위는 **하악 견치부**, 기전은 설측 피질골 천공→설하동맥 손상, 길이가 보고된 경우 임플란트는 **전부 15 mm 이상**; Law 2017(25증례)은 **84%가 설측 천공**에서 기인.
 > - **세미나가 빠뜨린 핵심 = 기도**: 이 합병증의 사인(死因) 후보는 출혈량이 아니라 **혀가 밀려 올라가는 기도 폐쇄**다 — 응급 기도 확보 68%(Law 2017), 기관삽관 41%·기관절개 47%(Balaguer-Martí 2015). 국내 증례(Mun 2026, 가이드 수술 후에도 손 식립 단계에서 설측 편위)도 비강기관삽관으로 해결.
@@ -68,19 +77,19 @@ relations:
 
 ## Three-line Summary
 
-A point-by-point audit of 23 claims from a 2026-11-26 implant-bleeding seminar (three slides: summary, drug-hold durations, reversal-agent map) against 31 papers held in this wiki: 9 claims agree, 5 agree only conditionally, 5 conflict with held evidence, and 4 cannot be checked because no held paper covers them.
+A point-by-point audit of 23 claims from a 2026-11-26 implant-bleeding seminar (three slides: summary, drug-hold durations, reversal-agent map) against 38 papers held in this wiki: 10 claims agree, 7 agree only conditionally, 5 conflict with held evidence, and 1 cannot be checked because no held paper covers them.
 
 The conflicts cluster on drug management and contraindication rules — routine pre-operative interruption of antiplatelets (5–7 days) and anticoagulants (2–4 days), heparin bridging when warfarin cannot be stopped, and hemophilia/thrombocytopenia as absolute implant contraindications — whereas the wiki's systematic reviews and cohorts support continuing antithrombotics with local hemostasis (Moldovan 2023, Calcia 2021, Kim 2024, Izzetti 2024, Chahine 2019) and treat bleeding disorders as hematologist-co-managed, not forbidden (Kumar 2026, SECIB 2024).
 
-The seminar's hemostasis technique and anatomy claims (local measures control antiplatelet bleeding; PSAA ~16–18 mm above the crest per Gulec 2025; lingual perforation → sublingual artery → floor-of-mouth hematoma per Balaguer-Martí 2015 and Law 2017; DOAC reversal-agent mapping per Choudhary 2025) agree with the wiki — but the floor-of-mouth evidence puts airway control and hospital transfer ahead of the seminar's chairside ligation/cautery, while warfarin/heparin washout times and warfarin/enoxaparin reversal agents remain unheld gaps.
+The seminar's hemostasis technique and anatomy claims (local measures control antiplatelet bleeding; PSAA ~16–18 mm above the crest per Gulec 2025; lingual perforation → sublingual artery → floor-of-mouth hematoma per Balaguer-Martí 2015 and Law 2017; reversal-agent mapping per Choudhary 2025, Yee 2019 and Rocca 2026) agree with the wiki — but the floor-of-mouth evidence puts airway control and hospital transfer ahead of the seminar's chairside ligation/cautery, enoxaparin has no specific antidote (protamine reverses ~50–60%), and every reversal paper is set in major bleeding, not dentistry.
 
 ## 세줄요약
 
-2026-11-26 임플란트 출혈 세미나 슬라이드 3장의 주장 23개를 위키 보유 논문 31편과 대조: 일치 9, 조건부 일치 5, 상충 5, 위키에 근거 없음 4.
+2026-11-26 임플란트 출혈 세미나 슬라이드 3장의 주장 23개를 위키 보유 논문 38편과 대조: 일치 10, 조건부 일치 7, 상충 5, 위키에 근거 없음 1.
 
 상충은 약물 관리와 금기 규칙에 몰려 있다 — 항혈소판제 5–7일·항응고제 2–4일 루틴 중단, 와파린 중단 불가 시 헤파린 브리징 (Bridging Therapy), 혈우병·혈소판감소증의 임플란트 절대 금기 — 위키의 SR·코호트는 항혈전제 유지 + 국소 지혈(Moldovan 2023, Calcia 2021, Kim 2024, Izzetti 2024, Chahine 2019), 출혈질환은 금기가 아닌 혈액내과 협진 대상(Kumar 2026, SECIB 2024)으로 본다.
 
-지혈 술기·해부 주장(국소 처치로 항혈소판 출혈 조절, 후상치조동맥 (Posterior Superior Alveolar Artery, PSAA) 치조정 위 ~16–18 mm(Gulec 2025), 설측 천공→설하동맥→구강저 혈종(Balaguer-Martí 2015·Law 2017), DOAC 길항제 매핑(Choudhary 2025))은 일치하나, 구강저 출혈 근거는 세미나의 체어사이드 결찰·소작보다 **기도 확보·병원 이송을 앞세우며**, 와파린/헤파린 소실 시간·와파린/에녹사파린 길항제는 여전히 위키 공백이다.
+지혈 술기·해부 주장(국소 처치로 항혈소판 출혈 조절, 후상치조동맥 (Posterior Superior Alveolar Artery, PSAA) 치조정 위 ~16–18 mm(Gulec 2025), 설측 천공→설하동맥→구강저 혈종(Balaguer-Martí 2015·Law 2017), 길항제 매핑(Choudhary 2025·Yee 2019·Rocca 2026))은 일치하나, 구강저 출혈 근거는 세미나의 체어사이드 결찰·소작보다 **기도 확보·병원 이송을 앞세우고**, 에녹사파린에는 특이 해독제가 없으며(프로타민은 ~50–60%만 역전), 길항제 논문은 전부 치과가 아닌 주요 출혈 대상이다.
 
 ---
 
@@ -110,7 +119,7 @@ The seminar's hemostasis technique and anatomy claims (local measures control an
 |---|---|---|---|
 | D1 | Antiplatelets: stop 5–7 days before surgery | ❌ | As A2. |
 | D2 | Antiplatelets rarely cause serious bleeding even if not stopped | ✅ | As A3. **Contradicts D1 on the same slide** — the held evidence sides with D2. |
-| D3 | Warfarin effect wears off after 3 days, heparin after 6 h | ⚪ | No held pharmacokinetic paper. Directionally, heparin bleeding rose with proximity to the last dose (p≤0.01) and UFH bled more than LMWH ([[drug/anticoagulants/lopez-silva-2025-post-extraction-bleeding-heparin]]) — supports *timing* the appointment, not stopping. |
+| D3 | Warfarin effect wears off after 3 days, heparin after 6 h | ⚠️ (updated 2026-11-27; was ⚪) — heparin part consistent, warfarin part unheld | Heparin half-life ~60 min, LMWH subcutaneous 3–6 h ([[drug/anticoagulants/yee-2019-emergency-reversal-of-anticoagulation]]) — UFH effect largely gone by 6 h fits. No held paper gives a warfarin offset time. Directionally, heparin extraction bleeding rose with proximity to the last dose (p≤0.01; [[drug/anticoagulants/lopez-silva-2025-post-extraction-bleeding-heparin]]) — supports *timing* the appointment, not stopping. |
 | D4 | If warfarin cannot be stopped, bridge with heparin | ❌ | Bridging increases bleeding without reducing thrombosis ([[drug/anticoagulants/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr]], [[drug/anticoagulants/chahine-2019-anticoagulation-dental-procedures-sr]]); bridging not necessary ([[drug/anticoagulants/lu-2018-warfarin-antiplatelet-dental-extraction-management]]); heparin substitution not justified for implants ([[drug/anticoagulants/valenzuela-mencia-2024-clinical-practice-guideline-coagulation-disorders]]). |
 | D5 | NOACs: apixaban (Eliquis) hold 48 h, dabigatran (Pradaxa) 48–96 h | ⚠️ / ❌ for dental | Simple extraction: continue. Higher-risk surgery: omit the morning dose ([[drug/anticoagulants/chahine-2019-anticoagulation-dental-procedures-sr]]) or skip 1 dose of twice-daily / 2 doses of once-daily agents timed to trough, no bridging ([[drug/anticoagulants/choudhary-2025-bleeding-thrombosis-noac-dental-management]]); SECIB: extract at maximal plasma decrease and delay the next dose ≥4 h (Grade D). The 48 h / 48–96 h figures are not in any held paper (⚪). The **wider dabigatran window is consistent** with its ~80% renal clearance ([[drug/anticoagulants/choudhary-2025-bleeding-thrombosis-noac-dental-management]]). |
 
@@ -118,13 +127,15 @@ The seminar's hemostasis technique and anatomy claims (local measures control an
 
 | # | Seminar mapping | Verdict | Held evidence |
 |---|---|---|---|
-| E1 | Antiplatelets (aspirin, clopidogrel): no reversal agent, but pressure/local hemostatics suffice even for delayed bleeding | ✅ for the clinical point; "no reversal agent" ⚪ | Local sufficiency as A3. No held paper addresses antiplatelet reversal. |
-| E2 | Warfarin → vitamin K, PCC | ⚪ | Not in any held paper (Choudhary 2025 covers NOACs only). |
-| E3 | Enoxaparin → protamine | ⚪ | Not in any held paper. |
+| E1 | Antiplatelets (aspirin, clopidogrel): no reversal agent, but pressure/local hemostatics suffice even for delayed bleeding | ✅ | Local sufficiency as A3. No specific antidote: antiplatelet reversal relies on non-specific measures — desmopressin (DDAVP), platelet transfusion, TXA ([[drug/anticoagulants/aldhaeefi-2023-practical-guide-for-anticoagulant-and]]). |
+| E2 | Warfarin → vitamin K, PCC | ✅ (updated 2026-11-27; was ⚪) | Vitamin K + 4F-PCC is the standard pairing ([[drug/anticoagulants/aldhaeefi-2023-practical-guide-for-anticoagulant-and]], [[drug/anticoagulants/rocca-2026-antidotes-for-anticoagulation-reversal]], [[drug/anticoagulants/chai-adisaksopha-2016-prothrombin-complex-concentrates-versus-fresh-frozen]]). Vitamin K: IV 10 mg for life-threatening bleeding, onset 1–2 h, peak 4–6 h, never SC/IM ([[drug/anticoagulants/yee-2019-emergency-reversal-of-anticoagulation]]); IV lowers INR from ~4 h and normalizes it at 12–16 h, oral within ~24 h ([[drug/anticoagulants/brekelmans-2017-benefits-and-harms-of-4]]); IV and oral give similar INR at 24 h ([[drug/anticoagulants/aldhaeefi-2023-practical-guide-for-anticoagulant-and]]). PCC: INR 1.4–1.9 within 1 h vs FFP 2.2–12 ([[drug/anticoagulants/brekelmans-2017-benefits-and-harms-of-4]]); faster, more complete correction than FFP and less volume overload ([[drug/anticoagulants/chai-adisaksopha-2016-prothrombin-complex-concentrates-versus-fresh-frozen]]); fixed dose ≥2000 IU may be optimal ([[drug/anticoagulants/alwakeal-2024-fixed-versus-variable-dose-prothrombin]]). **But** in RCTs PCC's INR advantage (tardy correction RR 0.41) does not translate into lower mortality (RR 1.05; [[drug/anticoagulants/ovesen-2025-prothrombin-complex-concentrate-for-reversal]]). All of it is major-bleeding medicine — none is dental. |
+| E3 | Enoxaparin → protamine | ⚠️ (updated 2026-11-27; was ⚪) — partial, non-specific | Protamine is the antidote for **unfractionated** heparin; LMWH has **no specific antidote** ([[drug/anticoagulants/rocca-2026-antidotes-for-anticoagulation-reversal]]). Protamine is still used for enoxaparin — 1 mg per 1 mg if given within 8 h, 0.5 mg/mg after 8 h — but reverses only ~60% ([[drug/anticoagulants/yee-2019-emergency-reversal-of-anticoagulation]]) or ~50% ([[drug/anticoagulants/aldhaeefi-2023-practical-guide-for-anticoagulant-and]]) of the anti-Xa effect, and >50 mg protamine is itself anticoagulant ([[drug/anticoagulants/yee-2019-emergency-reversal-of-anticoagulation]]). The slide's arrow overstates it. |
 | E4 | Dabigatran → idarucizumab | ✅ | Active-site binding restores thrombin generation within minutes; dental use anecdotal ([[drug/anticoagulants/choudhary-2025-bleeding-thrombosis-noac-dental-management]]); reversibility cited as one reason dabigatran had the best bleeding profile, RR 0.40 vs VKA ([[drug/anticoagulants/dou-2025-bleeding-dentoalveolar-doac-vka-sr-ma]]). |
 | E5 | Apixaban / rivaroxaban / edoxaban → andexanet or PCC | ✅ | Choudhary 2025 pharmacology table lists andexanet alfa / PCC for all three; PCC is the alternative when andexanet is unavailable, with sparse dental evidence. |
 
 Slide typo: "PPC" under warfarin is PCC (prothrombin complex concentrate).
+
+**What reversal means for a dental office (updated 2026-11-27).** Seven held papers now cover reversal, and every one is set in life-threatening bleeding — intracranial, major GI, emergency surgery. None studies dental bleeding, and the held dental cohorts controlled bleeding locally without any reversal agent. So the slide's map is pharmacologically right, but its practical place is the emergency department: the dentist's job is local haemostasis, recognising failure, and transfer. The one dentist-relevant number is INR — a warfarin patient found with a very high INR is a prescriber referral (vitamin K decision), not an extraction.
 
 ---
 
@@ -189,8 +200,8 @@ So the seminar's *surgical* instinct (pressure, sutures, know the arteries) hold
 | Gap | Seminar claim it blocks | Priority |
 |---|---|---|
 | ~~Anterior-mandible sublingual/submental artery injury~~ — **closed 2026-11-27** (5 papers: Balaguer-Martí 2015 SR, Law 2017, Sfondrini 2024, Vehmeijer 2016, Mun 2026). Residual: incidence per implant placed (all data are case-based, so no denominator) | C1, C2 | Low (residual) |
-| Warfarin reversal (vitamin K, PCC) and enoxaparin–protamine in dental bleeding | E2, E3 | Medium |
-| Antithrombotic washout pharmacokinetics (warfarin, heparin, DOAC by renal function) | D3, D5 | Medium — would let D5 be judged numerically |
+| ~~Warfarin reversal (vitamin K, PCC) and enoxaparin–protamine~~ — **closed 2026-11-27** (7 papers: Yee 2019, Aldhaeefi 2023, Alwakeal 2024, Brekelmans 2017, Chai-Adisaksopha 2016, Ovesen 2025, Rocca 2026). Residual: no reversal study in dental bleeding | E2, E3 | Low (residual) |
+| Warfarin offset time and DOAC washout by renal function (heparin half-life now held) | D3, D5 | Medium — would let D5 be judged numerically |
 | Electrocautery vs pressure vs ligation for PSAA hemorrhage | C5 | Medium |
 | Implants in primary thrombocytopenia (ITP) | B1 | Low–medium |
 
