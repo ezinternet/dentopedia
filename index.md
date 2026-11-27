@@ -1926,6 +1926,13 @@ tags: []
 ## 전신질환·약물 (Drug / Systemic Medicine)
 - [[drug/systemic-disease/desai-2023-alcohol-withdrawal-syndrome-head-neck-cancer]] — Desai 2023 · narrative-review · 두경부암 수술의 술후 알코올 금단증후군(AWS): 합병증·재원기간·비용 ↑, 위해감소·중독의학 접근이 이환/사망 ↓(단 이 수술군 검증 불충분) — 치과적 의미는 "과량 음주력 = 금단 위험" 술전 선별·의뢰 (DOI 10.1002/ohn.164, 초록만)
 - [[drug/anticoagulants/dou-2025-bleeding-dentoalveolar-doac-vka-sr-ma]] — Dou 2025 · sr+ma · 29편/29,212명: 비중단 DOAC가 VKA보다 발치 후 출혈 21%↓(RR 0.79, dabigatran 주도), 둘 다 무항응고 대비 ~3배
+- [[drug/anticoagulants/yee-2019-emergency-reversal-of-anticoagulation]] — Yee 2019 · narrative-review · 응급실 항응고 역전 총정리: 와파린 비타민 K 정맥 10 mg(작용 1–2h·최대 4–6h)±4F-PCC(10–30분), LMWH 프로타민 1 mg/1 mg(8h 이내, ~60% 역전), 다비가트란 이다루시주맙 5 g, Xa 억제제 안덱사넷
+- [[drug/anticoagulants/aldhaeefi-2023-practical-guide-for-anticoagulant-and]] — Aldhaeefi 2023 · narrative-review · 항응고·항혈소판 역전 실무 가이드: 와파린 비타민 K(정맥=경구 24h INR 유사)+PCC, UFH/LMWH 프로타민(LMWH ~50%), 항혈소판은 DDAVP·혈소판·TXA
+- [[drug/anticoagulants/alwakeal-2024-fixed-versus-variable-dose-prothrombin]] — Alwakeal 2024 · sr+ma · 응급 VKA 역전 4F-PCC 고정용량 vs 변동용량(RCT 3·코호트 16, 2235명): 고정용량이 투여량·시간·사망·혈전 감소, INR<1.5 도달은 낮음; ≥2000 IU 권장
+- [[drug/anticoagulants/brekelmans-2017-benefits-and-harms-of-4]] — Brekelmans 2017 · sr+ma · VKA 출혈 4F-PCC 19편(n=2,878): 1h INR 1.4–1.9 vs FFP 2.2–12, 사망 OR 0.64(NS), 혈전 2.5%; 비타민 K 정맥 4h부터 INR↓·12–16h 정상화, 경구 ~24h
+- [[drug/anticoagulants/chai-adisaksopha-2016-prothrombin-complex-concentrates-versus-fresh-frozen]] — Chai-Adisaksopha 2016 · sr+ma · 와파린 역전 비타민 K+PCC vs FFP 13편: 사망 OR 0.56, INR 정상화 OR 10.80·6.5h 단축, 용적과부하 OR 0.27, 혈전 차이 없음 (초록만)
+- [[drug/anticoagulants/ovesen-2025-prothrombin-complex-concentrate-for-reversal]] — Ovesen 2025 · sr+ma(RCT만) · 5 RCT 825명: VKA PCC vs FFP 사망 RR 1.05(NS)·INR 지연교정 RR 0.41; Xa 억제제 PCC가 안덱사넷보다 지혈 열세(RR 1.46), 혈전은 경계선상 적음
+- [[drug/anticoagulants/rocca-2026-antidotes-for-anticoagulation-reversal]] — Rocca 2026 · narrative-review · NEJM 해독제 총설: 프로타민=UFH, **LMWH·폰다파리눅스 특이 해독제 없음**, VKA=4F-PCC, 다비가트란=이다루시주맙(반동), Xa 억제제=안덱사넷·허가외 4F-PCC (초록만)
 - [[drug/anticoagulants/xiang-2026-continuous-interrupted-doac-minimal-bleeding-sr-ma]] — Xiang 2026 · sr+ma · 최소출혈 시술(발치 포함) continuous DOAC이 대출혈↓(OR 0.57)이나 RCT만 보면 차이 없음 — 비중단 허용
 - [[drug/anticoagulants/izzetti-2024-doac-bleeding-management-tooth-extraction-prospective]] — Izzetti 2024 · prospective · DOAC 발치(49명/136발치) 출혈 술후1일 46.9% 최고지만 전부 경미·국소지혈로 조절, 중단 불필요
 - [[drug/anticoagulants/kim-2024-post-extraction-bleeding-direct-oral-anticoagulants]] — Kim 2024 · retrospective · 발치 시 DOAC 유지군 vs 중단군 출혈 차이 없음(4.9% vs 0%, n=293), INR 무관·국소지혈 핵심
