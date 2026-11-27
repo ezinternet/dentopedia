@@ -210,3 +210,6 @@ willershausen (2025, 전향적 n=16, Invest Radiol): 무피폭 **0.55 T 저자�
 
 파노라마 기하·판독(선량 비직접, 별도 서브클러스터):
 - [[radiology/martins-2022-multilayer-panoramic-radiography-device-mapping]] · [[radiology/devlin-2013-object-position-magnification-panoramic-radiography]] · [[radiology/farman-2010-panoramic-ccd-storage-phosphor-film]] · [[radiology/ramos-2016-ghost-images-metal-objects-panoramic]] · [[radiology/kim-2024-real-ghost-pseudo-ghost-images-panoramic]]
+
+임신 (직원·환자) 분기:
+- [[overviews/pregnancy-dental-radiation-staff-patient-overview]] — 태아 역치·치과 태아선량·임신 직원 직업피폭·한국/EU 법적 한도 종합 (2026-11-27)
