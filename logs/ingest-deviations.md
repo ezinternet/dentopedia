@@ -1324,3 +1324,5 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-11-27 | korea-nssc-2026-radiation-protection-pregnancy-dose-limit | source-data-issue | Legal text from korean-law MCP stored as papers/*.txt under source_collection pubmed-text (only txt-artifact branch lint accepts); not a PubMed record |
 | 2026-11-27 | korea-moel-2026-labor-standards-act-pregnant-worker-protection | no-doi | Korean legal text (law.go.kr) — no DOI |
 | 2026-11-27 | korea-moel-2026-labor-standards-act-pregnant-worker-protection | source-data-issue | Legal text from korean-law MCP stored as papers/*.txt under source_collection pubmed-text (only txt-artifact branch lint accepts); not a PubMed record |
+| 2026-11-27 | kelaranta-2016-dental-xray-fetal-breast-dose-lead-shield | empty-pmc-text | PMC5083886 returned empty body; built from abstract, full_text:false |
+| 2026-11-27 | mainprize-2023-ionizing-radiation-pregnancy-fetal-effects | supersession-judgment | Fetal-threshold batch (5 papers): no existing page superseded — new topic; consistent with benavides-2023 (no fetal shielding) |
