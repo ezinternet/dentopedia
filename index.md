@@ -3338,6 +3338,13 @@ tags: []
 - [[radiology/khafaji-2023-scattered-dose-eye-dentistry-cbct]] — Khafaji 2023 (SR, 5편 phantom): 치과 CBCT 안구 산란선량 0.103-8.3mSv, FOV 의존 — 선량기준치 필요
 
 <!-- BATCH INGEST 2026-07-13: nutrient canal alveolar/mandibular PMC 풀텍스트 5편 -->
+### radiology (added 2026-11-27 — fetal radiation thresholds, pregnancy)
+- [[radiology/mainprize-2023-ionizing-radiation-pregnancy-fetal-effects]] — Mainprize 2023 · narrative-review · 태아 조직반응 역치: 전 주수 50 mGy 미만 관찰 효과 없음, 50–100 mGy 17주 이전 "잠재적", >100 mGy 27주 이전 검출; 암 위험 10 mGy당 ~0.4% (PMID 36933026)
+- [[radiology/velazquez-martin-2025-pregnant-staff-occupational-radiation-consensus]] — Velázquez Martín 2025 · consensus · 임신 직원 합의문: 역치 50–100 mGy~, 태아 한도 1 mSv, 임신 중 근무 중재의 보고 선량 전부 ≤1 mSv, 임신≠자동 배제·본인 결정 (PMID 41333118)
+- [[radiology/gamba-2024-dental-imaging-pregnancy-fetal-dose-sr]] — Gamba 2024 · sr · 7편: 구내촬영 1회 태아 ~6–7 µGy = 배아사망 역치 1/14,000, 소두증·지적장애 1/42,000; 납앞치마 근거 없음 (PMID 38571778)
+- [[radiology/kelaranta-2016-dental-xray-fetal-breast-dose-lead-shield]] — Kelaranta 2016 · in-vitro · 팬텀: 구내·파노·세팔로·CBCT 태아 0.009–6.9 µGy(<1 mSv의 1%), 차폐 무의미 (PMID 26313308, 초록만)
+- [[radiology/andersson-2026-bitewing-fetal-dose-monte-carlo]] — Andersson 2026 · in-vitro · ICRP 25주 팬텀 MC: 교익촬영 태아 최고 27 nGy(PSP)·5 nGy(디지털), 모체의 0.0015배 (PMID 41821463)
+
 ### radiology (added 2026-11-27 — Korean radiation law, pregnant staff)
 - [[radiology/korea-mohw-2026-diagnostic-radiation-safety-rule]] — 보건복지부령 2026 · regulation · 진단용 방사선 발생장치 안전관리 규칙: 종사자 유효선량 연 50 mSv·5년 100 mSv, TLD 3개월마다, 건강진단 2년마다 — **임신 전용 한도 없음**(규칙·별표3·질병관리청 고시 전문 0건)
 - [[radiology/korea-nssc-2026-radiation-protection-pregnancy-dose-limit]] — 원자력안전위원회 고시 2026 · regulation · 임신 확인~출산 하복부 표면 등가선량 2 mSv(국내 유일 임신 수치 한도) — 원자력안전법 종사자 대상, 치과 진단용 직원엔 직접 적용 아님(해석)
