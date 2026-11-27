@@ -1,0 +1,102 @@
+TITLE: Monte Carlo calculations of the radiation absorbed dose to a fetus of a pregnant patient from a dental bitewing X-ray exposure
+AUTHORS: Andersson Martin, Maroussi Evagelia
+JOURNAL: Radiation Protection Dosimetry
+ID[pmcid]: PMC13046037
+ID[pmcid-ver]: PMC13046037.1
+ID[pmcaid]: 13046037
+ID[pmcaiid]: 13046037
+ID[pmid]: 41821463
+ID[doi]: 10.1093/rpd/ncaf174
+ID[publisher-id]: ncaf174
+
+## ABSTRACT
+Abstract
+In Sweden, the recommendation for intraoral X-ray exposure in dental radiology is that pregnant females should not use any extra protection than the mandatory thyroid lead collar. This recommendation is based on the knowledge that the dose to the fetus will be very low or negligible and therefore no extra protection is needed. However, we think it is important to test this recommendation using calculations based on the new International Commission on Radiological Protection (ICRP) phantoms for pregnant women. This project aims to do a Monte Carlo simulation of the absorbed dose distribution to a fetus at 25 weeks of pregnancy from a bitewing exposure, which is the most commonly used dental X-ray exposure. The project also aims to calculate the absorbed dose to organs and tissue in both the 25-week fetus and the pregnant mother. A lead collar, equivalent to 0.25 mm lead, was created and added to the ICRP pregnant mesh phantom with a 25-week male fetus. A 60 kV bitewing exposure was simulated using MCNP6.3. The radiation source was simulated using an RQR60 source and 10^7 photons. The fetal organ absorbed doses are calculated for a bitewing exposure with a tube voltage of 60 kV and an exposure time of 0.25 s for the phosphor plate receptor and 0.05 s for the digital sensors. The fetal organs that received the highest absorbed dose for phosphor plate were the brain 27 nGy; red bone marrow, 25 nGy; and bone endosteum, 25 nGy. The simulations show that the absorbed dose to the 25-week fetus is significantly reduced due to absorption by the tissue of the mother. In general, the fetus receives an absorbed dose that is 0.0015 of the mother’s dose. For the 25-week fetus, the radiation exposure is low, and no extra protection is needed, e.g. covering the mother with a lead apron. These results could be of interest to the dentist, the physician, and the pregnant women before they agree to proceed with an intraoral dental exposure.
+
+## Introduction
+
+Radiographic imaging, specifically intraoral bitewing radiographs, is an indispensable diagnostic modality in dentistry, extensively utilized globally [1]. These examinations furnish critical diagnostic insights into interproximal caries, alveolar bone levels, and other dental pathologies, thereby enhancing therapeutic outcomes and oral health [2]. Nonetheless, the inherent exposure to ionizing radiation associated with dental radiographs necessitates stringent radiation protection measures, particularly for vulnerable populations such as pregnant patients.
+
+Radiation protection in dentistry has historically emphasized the “as low as reasonably achievable” (ALARA) principle, ensuring that patient doses are minimized while maintaining sufficient image quality [3]. In Sweden, current guidelines recommend the use of a thyroid lead collar for intraoral exposures, while no additional abdominal shielding is deemed necessary for pregnant patients [4]. This recommendation is based on established evidence suggesting that fetal exposure from dental radiographs is negligible due to the large distance between the X-ray beam and the uterus, combined with beam collimation and low radiation doses [3, 5]. Nonetheless, uncertainties remain regarding the actual fetal dose, especially with advances in computational modeling and updated anatomical phantoms that may provide more accurate risk assessments.
+
+Pregnancy represents a unique condition in radiological protection, as the developing fetus is more radiosensitive than adult tissues, particularly during periods of rapid cell proliferation [6]. Even a very low radiation exposure is a source of anxiety among pregnant patients, their families and healthcare providers, potentially influencing clinical decisions and patient compliance [7]. While deterministic effects such as malformations are only expected at much higher doses than those delivered in dental radiology, stochastic risks—such as a slightly increased lifetime risk of childhood cancer—cannot be entirely disregarded [8]. This underscores the importance of accurate fetal dose estimation to reassure patients and validate current radiation protection guidelines.
+
+Monte Carlo simulation represents one of the most reliable methodologies for quantifying radiation doses and dose distributions in complex geometries, such as the pregnant body. This computational technique facilitates detailed modeling of photon transport and energy deposition in anatomically realistic phantoms, thereby generating highly accurate dose estimates [9]. Recent advancements by the International Commission on Radiological Protection (ICRP) have introduced updated Mesh-based computational reference phantoms, including pregnant female models at various gestational stages, which enable more realistic assessments of fetal radiation exposure [10, 11] than before. The application of these tools in dental radiology offers the potential to quantify fetal and maternal organ doses with greater precision than previous estimates based on mathematical stylized models.
+
+Given the pervasive use of bitewing radiographs and the absence of additional protective measures recommended in Sweden, it is crucial to validate these guidelines using state-of-the-art simulation techniques. Consequently, this study aims to employ Monte Carlo simulations with the ICRP 25-week pregnant female phantom to estimate the absorbed dose to the fetus from a standard bitewing exposure. Furthermore, this research investigates the radiation doses to various maternal and fetal organs, providing a comprehensive assessment of radiation risks in this clinical context. By doing so, this study contributes to evidence-based recommendations for radiation protection in dental practice, ensuring both patient safety and adherence to contemporary radiological standards.
+
+This project aims to do a Monte Carlo simulation of the absorbed doses to the fetus at 25 weeks of pregnancy from a bitewing exposure, which is the most commonly used dental exposure. The project also aims to calculate the absorbed dose to organs and tissue in both the 25-week fetus and the pregnant mother.
+
+## Method
+
+To represent a pregnant patient, the ICRP reference computational phantom for a 25-week pregnant female was used. This phantom is based on high-resolution anatomical Mesh data and includes a detailed maternal body and a developing fetus, enabling organ-specific dosimetry [10, 11]. The fetus modeled in this study was male and included organs, tissues, and skeletal structures consistent with the developmental stage at 25 weeks of gestation. The phantom was imported into the Monte Carlo N-Particle transport code (MCNP6.3), where it was discretized into defined volumes for dose calculation.
+
+### Lead collar simulation
+
+To assess the effect of collar shielding, a virtual lead collar was created in the MCNP6.3 environment. The collar was modeled to be equivalent to 0.25 mm lead, which corresponds to the attenuation properties of a standard protective garment commonly used in dental radiology [4]. Fig. 1 shows the ICRP reference computational phantom for a 25-week pregnant female with an added lead collar.
+
+[FIGURE] A lead collar was added to the ICRP pregnant mesh phantom with a 25-week male fetus.
+
+### X-ray source modeling
+
+The radiation source was modeled to replicate a standard dental premolar bitewing exposure with a vertical angle of +7°. A tube voltage of 60 kilovolts (kV) was selected, which reflects typical clinical settings for intraoral radiographs [2]. The source was defined according to the RQR60 reference radiation quality specified by the International Electrotechnical Commission (IEC) for diagnostic X-ray beam quality calibration [12]. This ensured that both the spectral distribution and beam filtration were consistent with a realistic clinical exposure.
+
+The source geometry was configured to simulate a rectangular collimated beam, characteristic of bitewing imaging, and directed toward the posterior maxillary–mandibular interproximal region. A total of 10^7 photons were simulated to achieve statistically reliable results while minimizing relative uncertainty in organ dose estimates.
+
+### Exposure parameters
+
+The exposure time was set at 0.25 s, corresponding to the use of a digital phosphor plate receptor, and a 0.05-s digital exposure corresponding to the use of a digital sensor, which is commonly used in contemporary dental radiology [1]. The simulated exposure parameters, 60 kV and collimated beam geometry, were chosen to reflect realistic clinical practice for bitewing radiographs. These settings ensured that the simulation results could be directly compared with other exposure scenarios, thereby enhancing the clinical relevance of the study.
+
+### Monte Carlo simulation and dose calculation
+
+The MCNP6.3 code was used to simulate photon transport from the source through the maternal body and fetus. The physics models in MCNP6.3 account for photon interactions such as photoelectric absorption, coherent scattering, and Compton scattering, all of which contribute to organ dose deposition [13].
+
+Tally functions were used to calculate the energy deposition (MeV/g) in defined organs and tissues of both the pregnant female and the fetus. These energy deposition values were subsequently converted into absorbed dose values expressed in micrograys (μGy). The aim was to ensure complementary fetal organ dose estimates by illustrating maternal dose pathways that contribute to potential fetal exposure.
+
+## Results and discussion
+
+The Monte Carlo simulations demonstrated that the absorbed dose to the fetus during a standard intraoral bitewing radiograph at 25 weeks of gestation was extremely low. As presented in Table 1, only a limited number of fetal and maternal organs received measurable radiation. Among the fetal organs, the red bone marrow and brain absorbed the highest doses, ~27 nGy and 25 nGy, respectively, when a phosphor plate receptor was used. The adoption of digital sensors, which require shorter exposure times, reduced these values by nearly a factor of five, further emphasizing the impact of receptor technology on patient dose. Other fetal organs received negligible or undetectable doses, reflecting the strong attenuation of low-energy X-rays by maternal soft tissue and skeletal structures. Absorbed doses of zero means that there is an unmeasurably low statistic in the simulations, meaning that the X-ray beam did not deposit any energy in those structures. In this case, the organs with a zero absorbed dose, should the absorbed dose be regarded as negligible. The absorbed dose to the fetus is ~650 times lower than the absorbed dose to the mother; this is due to the fact that the mother absorbed the radiation before it reached the 25-week fetus.
+
+[TABLE] Absorbed organ doses (μGy) with corresponding relative error for a 25-week fetus from a bitewing exposure using both phosphor plate and digital sensor receptors at 60 kV.
+Adrenals | 0.0E+00 | 0.0E+00
+Bladder (wall) | 0.0E+00 | 0.0E+00
+Bone endosteum | 2.5E–02 (3.0E–03) | 5.0E–03 (6.1E–04)
+Brain | 2.7E–02 (2.3E–03) | 5.4E–03 (4.5E–04)
+Breast | 3.0E–03 (1.3E–03) | 5.9E–04 (2.7E–04)
+Colon (wall) | 0.0E+00 | 0.0E+00
+ET | 0.0E+00 | 0.0E+00
+Gall bladder | 0.0E+00 | 0.0E+00
+Gonads | 0.0E+00 | 0.0E+00
+Heart | 6.6E–04 (6.6E–04) | 1.3E–04 (1.3E–04)
+Kidneys | 0.0E+00 | 0.0E+00
+Liver | 1.6E–03 (8.6E–04) | 3.2E–04 (1.7E–04)
+LN | 5.3E–03 (4.4E–04) | 1.1E–03 (8.8E–05)
+Lung | 3.0E–03 (1.3E–03) | 5.9E–04 (2.7E–04)
+Muscle | 5.3E–03 (4.4E–04) | 1.1E–03 (8.8E–05)
+Esophagus (wall) | 0.0E+00 | 0.0E+00
+Oral mucosa | 0.0E+00 | 0.0E+00
+Pancreas | 0.0E+00 | 0.0E+00
+Prostate | 0.0E+00 | 0.0E+00
+Red bone marrow | 2.5E–02 (3.0E–03) | 5.0E–03 (6.1E–04)
+Skin (target) | 5.3E–03 (4.4E–04) | 1.1E–03 (8.8E–05)
+Salivary glands | 0.0E+00 | 0.0E+00
+Small intestine (wall) | 0.0E+00 | 0.0E+00
+Spleen | 0.0E+00 | 0.0E+00
+Stomach (wall) | 0.0E+00 | 0.0E+00
+Thymus | 2.3E–03 (1.8E–03) | 4.5E–04 (3.7E–04)
+Thyroid | 2.3E–03 (2.3E–03) | 4.7E–04 (4.7E–04)
+Detriment-weighted dose [μSv]a | 4.5E–03 (9.0E–04) | 9.1E–04(1.8E–04)
+
+For maternal organs, measurable doses were confined primarily to tissues within or adjacent to the irradiated dental region, including the thyroid, salivary glands, and bone endosteum. These results are consistent with previously published studies, confirming that scatter radiation outside the primary beam contributes minimally to systemic dose. Importantly, the estimated fetal doses are several orders of magnitude below the thresholds associated with deterministic effects such as malformations, growth retardation, or neurological impairment. Even when stochastic effects are considered, such as the slightly increased lifetime risk of childhood cancer, the additional risk attributable to dental radiographs remains vanishingly small.
+
+From a clinical perspective, these results reinforce the importance of evidence-based communication with pregnant patients. Anxiety surrounding radiation risks often outweighs the actual hazard, and reassurance based on quantitative dosimetry can improve patient compliance and trust. Dentists and radiographers should emphasize that the fetal dose from intraoral bitewing radiographs is negligible, equivalent to only a fraction of the natural background radiation received daily.
+
+This study also illustrates in Fig. 2 the value of Monte Carlo methods combined with advanced ICRP reference phantoms. Compared with earlier stylized models, the mesh-based phantoms allow for a more anatomically realistic representation of both maternal and fetal structures, enabling more accurate dose estimates. These findings therefore not only validate existing guidelines but also contribute to a growing body of literature demonstrating the safety of dental radiology in pregnancy when performed according to modern standards.
+
+[FIGURE] Dose distribution in the pregnant phantom is at maximum and no color corresponds to no radiation dose. Slice in the middle of the phantom.
+
+In conclusion, the simulations provide robust evidence that fetal exposure during intraoral bitewing radiographs is negligible and does not warrant additional protective measures such as abdominal shielding. The results confirm that adherence to existing guidelines ensures both maternal and fetal safety, while unnecessary protective practices may instead perpetuate misconceptions about risk. This work supports continued emphasis on optimized imaging protocols, patient reassurance, and the ALARA principle as the foundation of radiation protection in dental practice.
+
+## Conclusion
+
+The simulations show that the absorbed dose to the 25-week fetus is significantly reduced due to absorption by the tissue of the mother. For the 25-week fetus, the radiation exposure is low, and no extra protection is needed, e.g. covering the mother with a lead apron. These results could be of interest to the dentist, the physician, and the pregnant women before they agree to proceed with an intraoral dental exposure.
