@@ -16,6 +16,9 @@ source_wiki:
   - wiki/radiology/berkhout-2015-justification-and-good-practice-using.md
   - wiki/radiology/benavides-2024-optimizing-radiation-safety-dentistry.md
   - wiki/overviews/dental-imaging-radiation-dose-optimization-overview.md
+  - wiki/radiology/korea-mohw-2026-diagnostic-radiation-safety-rule.md
+  - wiki/radiology/korea-nssc-2026-radiation-protection-pregnancy-dose-limit.md
+  - wiki/practice-management/korea-moel-2026-labor-standards-act-pregnant-worker-protection.md
 ---
 -->
 <!DOCTYPE html>
@@ -26,7 +29,7 @@ source_wiki:
 <title>임신 직원 방사선 촬영 안전 가이드 | Pregnant Staff Radiation Safety</title>
 <!--
   OPERATIONS output — 수치는 source_wiki 페이지에서만 옮김. 손으로 수치 바꾸지 말 것.
-  위키 공백(인용 안 함): 태아 결정적 영향 역치, 국내 법령상 임신 종사자 신고·한도 수치.
+  위키 공백(인용 안 함): 태아 결정적 영향 역치. 국내 법령은 2026-11-27 인제스트(korea-mohw/nssc/moel).
 -->
 <style>
 :root{
@@ -51,6 +54,7 @@ header p{margin:0;color:var(--muted);font-size:.92rem}
 .tag.ev{background:var(--ev-soft);color:var(--ev)}
 .tag.rule{background:var(--warn-soft);color:var(--warn)}
 .tag.gap{background:#ECEEF1;color:var(--muted)}
+.tag.law{background:#E3F1F3;color:#0F6670}
 .tabs{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px}
 .tab{flex:1 1 200px;border:2px solid var(--line);background:var(--surface);border-radius:12px;padding:12px;text-align:left;cursor:pointer;font:inherit;color:var(--text)}
 .tab b{display:block;font-size:1rem}
@@ -101,7 +105,7 @@ footer{font-size:.78rem;color:var(--muted);margin-top:24px}
 </style>
 <script>
 /* llm-wiki cache-refresh */
-const PAGE_VERSION = '20261127-v1';
+const PAGE_VERSION = '20261127-v2';
 const _VK = 'pregnant_staff_radiation_ver';
 const _HK = 'pregnant_staff_radiation_hidden';
 try {
@@ -136,6 +140,7 @@ document.addEventListener('visibilitychange', () => {
     <li><b>임신 직원 기준은 따로 있습니다:</b> 남은 임신기간 동안 <b>태아 등가선량 1 mSv 미만</b>.<span class="tag ev">Horner 2004 (EU 가이드라인)</span></li>
     <li><b>피폭을 가장 크게 좌우하는 건 차폐 촬영실이 있느냐입니다.</b> 납복이 아닙니다. 차폐 없는 개방형 진료실에서는 조무사 피폭이 연 5.3 mSv로 약 30배 높았습니다.<span class="tag ev">Kabier 2025</span></li>
     <li><b>포터블 PA는 서 있는 위치와 잡는 자세에 따라 선량이 달라집니다.</b> 그래서 수칙을 따로 지킵니다(아래 탭).<span class="tag ev">Makdissi 2016 · Rottke 2018</span></li>
+    <li><b>국내 법령:</b> 치과 진단용 방사선 규칙에는 <b>임신 전용 한도가 없습니다.</b> 국내에서 유일한 임신 수치 기준은 원자력안전위원회 고시의 <b>임신 확인부터 출산까지 하복부 표면 2 mSv</b>입니다. 근로기준법상 본인이 요구하면 <b>쉬운 업무로 바꿔 주는 것이 원장의 의무</b>입니다.<span class="tag law">국내 법령</span></li>
     <li>임신 기간에는 <b>포터블 PA를 가능하면 다른 직원이 맡도록</b> 우선 배정하고, 맡게 되면 아래 수칙을 지킵니다.<span class="tag rule">원내 운영 원칙</span></li>
   </ul>
 </section>
@@ -203,7 +208,7 @@ document.addEventListener('visibilitychange', () => {
 
 <section class="card">
   <h2>② 숫자로 보는 연간 직업피폭</h2>
-  <p class="note">로그 눈금입니다. 붉은 세로선은 임신 직원 기준(태아 1 mSv)입니다.</p>
+  <p class="note">로그 눈금입니다. 붉은 세로선은 EU 임신 직원 기준(태아 1 mSv)입니다. 국내 기준(하복부 2 mSv)은 청록색 막대입니다.</p>
   <div class="bars" id="bars"></div>
   <div class="axis-row"><div class="note" style="text-align:right">mSv/년 →</div><div class="axis" id="axis"></div></div>
   <p class="note" style="margin-top:10px">해석: 차폐 촬영실 환경의 실측값(0.13–0.18 mSv/년)은 <b>1년치를 통째로 더해도</b> 임신 직원 기준 1 mSv보다 낮습니다. 실제 남은 임신기간은 1년보다 짧고 이 값은 몸 표면 기준이라, 태아에 닿는 선량은 이보다 더 작을 것으로 봅니다.<span class="tag rule">수치 조합 추론</span></p>
@@ -235,12 +240,28 @@ document.addEventListener('visibilitychange', () => {
     <tr><td>포터블 장비의 backscatter shield 상태 점검, 잠금 보관, 사용 교육을 실시한다</td><td><span class="tag ev">Benavides 2024</span></td></tr>
     <tr><td>임신 기간 포터블 PA 배정을 조정하고, 본인이 원하면 촬영 업무를 빼 주는 선택권을 준다 (불안도 업무 부담이다)</td><td><span class="tag rule">원내 운영 원칙</span></td></tr>
     <tr><td>촬영실 차폐(문, 관찰창)가 정상인지 확인한다</td><td><span class="tag ev">Kabier 2025 (차폐가 최대 결정인자)</span></td></tr>
-    <tr><td>국내 법령상 임신 종사자 신고 절차와 선량한도를 확인한다</td><td><span class="tag gap">위키 미보유 — 관할 기관·방사선안전관리자 확인 필요</span></td></tr>
+    <tr><td>직원이 요구하면 촬영 업무를 빼고 쉬운 업무로 바꿔 준다. 시간외근로는 시키지 않는다</td><td><span class="tag law">근로기준법 §74⑤</span></td></tr>
+    <tr><td>임신 12주 이내 또는 32주 이후에 신청하면 하루 2시간 근로시간 단축을 허용한다 (임금 삭감 금지)</td><td><span class="tag law">근로기준법 §74⑦⑧</span></td></tr>
+    <tr><td>TLD 배지를 3개월마다 판독하고, 2년마다 건강진단을 실시한다 (원래 의무)</td><td><span class="tag law">진단용 방사선 규칙 §4⑤·§13</span></td></tr>
+    <tr><td>원내 목표로 "임신 확인부터 출산까지 하복부 2 mSv 미만"을 정하고, 배지 판독값으로 추적한다</td><td><span class="tag law">원안위 고시 §4 차용</span> <span class="tag rule">원내 운영 원칙</span></td></tr>
   </table>
 </section>
 
 <section class="card">
-  <h2>⑤ 자주 묻는 질문</h2>
+  <h2>⑤ 국내 법령 기준</h2>
+  <table>
+    <tr><th style="width:30%">법령</th><th>임신 관련 내용</th><th style="width:22%">우리 치과에 적용</th></tr>
+    <tr><td>진단용 방사선 발생장치의 안전관리에 관한 규칙 (보건복지부령) + 진단용 방사선 안전관리 규정 (질병관리청 고시)</td><td><b>임신 전용 조항 없음</b> (전문 검색 0건). 종사자 한도: 유효선량 연 50 mSv, 5년 100 mSv. TLD 3개월마다 판독, 건강진단 2년마다. 분기 5 mSv를 넘으면 주의통보</td><td><span class="tag law">직접 적용</span></td></tr>
+    <tr><td>방사선방호 등에 관한 기준 (원자력안전위원회 고시 §4) + 원자력안전법 시행령 별표 1</td><td>임신을 보고해 확인된 때부터 출산까지 <b>하복부 표면 등가선량 2 mSv</b></td><td><span class="tag rule">원자력안전법 종사자 대상. 치과에는 원내 목표로 차용 (해석)</span></td></tr>
+    <tr><td>근로기준법 §65·§74 + 시행령 별표 4</td><td>원자력안전법 한도를 넘는 방사선 업무에 임신 중 여성 사용 금지. <b>본인이 요구하면 쉬운 근로로 전환할 의무</b>, 시간외근로 금지, 12주 이내·32주 이후 하루 2시간 단축</td><td><span class="tag law">직접 적용 (모든 사업장)</span></td></tr>
+  </table>
+  <p class="note" style="margin-top:8px">해석: 차폐 촬영실 실측값(연 0.13–0.18 mSv)은 원안위 2 mSv 기준에도 훨씬 못 미칩니다. 법적으로 "임신하면 촬영 금지"는 아니지만, 본인이 원하면 촬영에서 빼 주는 것은 법적 의무입니다. 원안위 고시가 진단용 치과 직원에게 직접 적용되는지는 법령에 명시되어 있지 않으므로 관할 보건소에서 확인하는 것을 권합니다.</p>
+</section>
+
+<section class="card">
+  <h2>⑥ 자주 묻는 질문</h2>
+  <details><summary>법적으로 임신하면 X-ray 촬영을 하면 안 되나요?</summary>
+    <p>아닙니다. 근로기준법은 원자력안전법 선량한도를 넘는 방사선 업무만 금지합니다.<span class="tag law">근로기준법 시행령 별표 4</span> 차폐실 촬영은 그 수준에 이르지 않습니다. 다만 본인이 요구하면 원장은 쉬운 업무로 바꿔 줘야 합니다.<span class="tag law">근로기준법 §74⑤</span></p></details>
   <details><summary>임신 사실을 알기 전에 포터블 PA를 여러 번 찍었어요. 괜찮을까요?</summary>
     <p>팬텀 실험에서 포터블 장비 술자 선량은 모든 자세에서 영국 IRR-1999 권고치보다 훨씬 낮았고, 가장 높은 값도 손바닥에서 0.031 mGy였습니다.<span class="tag ev">Makdissi 2016</span> 다만 개인 사례의 태아 위험을 판단하는 데 필요한 역치 자료는 위키에 없습니다. 걱정되면 개인선량계 기록을 가지고 산부인과 주치의와 상담하세요.<span class="tag gap">위키 공백</span></p></details>
   <details><summary>파노라마를 찍을 때 납복을 꼭 입어야 하나요?</summary>
@@ -263,12 +284,15 @@ document.addEventListener('visibilitychange', () => {
     <tr><td>Makdissi 2016 — 핸드헬드 자세</td><td>in-vitro</td><td>자세가 술자선량 좌우, 최고 0.031 mGy (손바닥)</td></tr>
     <tr><td>Berkhout 2015 — EADMFR</td><td>합의문</td><td>핸드헬드는 예외적·정당화 시에만</td></tr>
     <tr><td>Benavides 2024 — ADA</td><td>가이드라인</td><td>backscatter shield, 보관, 교육, CBCT 최소 FOV</td></tr>
+    <tr><td>진단용 방사선 규칙 2026 — 보건복지부</td><td>국내 법령</td><td>연 50 mSv, 임신 조항 없음</td></tr>
+    <tr><td>방사선방호 기준 2026 — 원안위</td><td>국내 고시</td><td>임신 하복부 2 mSv (확인~출산)</td></tr>
+    <tr><td>근로기준법 2026</td><td>국내 법률</td><td>요구 시 업무 전환 의무</td></tr>
   </table>
-  <p class="callout" style="margin-top:12px"><b>한계:</b> 핸드헬드 술자 선량 자료는 팬텀 실험(in-vitro)입니다. 우리 치과 장비 모델의 실측값이 아니며, 직원 개인선량계 기록이 가장 직접적인 근거입니다. 태아 위험 역치와 국내 법령 수치는 위키에 없어 인용하지 않았습니다. 이 가이드는 일반 안전 수칙이며 개인 의학 상담을 대신하지 않습니다.</p>
+  <p class="callout" style="margin-top:12px"><b>한계:</b> 핸드헬드 술자 선량 자료는 팬텀 실험(in-vitro)입니다. 우리 치과 장비 모델의 실측값이 아니며, 직원 개인선량계 기록이 가장 직접적인 근거입니다. 태아 위험 역치는 위키에 없어 인용하지 않았습니다. 국내 법령은 2026-11-27 기준 국가법령정보센터 원문입니다. 이 가이드는 일반 안전 수칙이며 개인 의학 상담을 대신하지 않습니다.</p>
 </section>
 
 <footer>
-  범례: <span class="tag ev">논문명</span> 위키 수록 논문 근거 · <span class="tag rule">원내 운영 원칙</span> 근거에서 추론한 운영 규칙 · <span class="tag gap">위키 공백</span> 근거 미보유<br>
+  범례: <span class="tag ev">논문명</span> 위키 수록 논문 근거 · <span class="tag rule">원내 운영 원칙</span> 근거에서 추론한 운영 규칙 · <span class="tag law">국내 법령</span> 법령 원문 · <span class="tag gap">위키 공백</span> 근거 미보유<br>
   source: wiki/radiology/* · wiki/overviews/dental-imaging-radiation-dose-optimization-overview · v20261127-v1
 </footer>
 </div>
@@ -286,9 +310,11 @@ const DATA = [
   {l:'한국 여성 치과의사 평균', s:'Kim 2016 · 차폐실', v:0.13, c:'#2E7D4F'},
   {l:'한국 남성 치과의사 평균', s:'Kim 2016 · 차폐실', v:0.18, c:'#2E7D4F'},
   {l:'차폐 없는 개방형 · 조무사', s:'Kabier 2025', v:5.279, c:'#B26A00'},
-  {l:'직업종사자 연 한도', s:'Horner 2004', v:20, c:'#8A94A3'},
+  {l:'임신 하복부 한도 (확인~출산)', s:'원안위 고시 §4 · 국내', v:2, c:'#0F6670'},
+  {l:'직업종사자 연 한도 (EU)', s:'Horner 2004', v:20, c:'#8A94A3'},
+  {l:'진단용 종사자 연 한도 (국내)', s:'보건복지부령 별표 3', v:50, c:'#8A94A3'},
 ];
-const LMIN = Math.log10(0.01), LMAX = Math.log10(30);
+const LMIN = Math.log10(0.01), LMAX = Math.log10(70);
 const pos = v => (Math.log10(v) - LMIN) / (LMAX - LMIN) * 100;
 const box = document.getElementById('bars');
 [0.01,0.1,1,10].forEach(t => { const sp=document.createElement('span'); sp.style.left=pos(t)+'%'; sp.textContent=t; document.getElementById('axis').appendChild(sp); });
