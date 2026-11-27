@@ -1318,3 +1318,9 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-11-26 | baratieri-2003-resin-viscosity-enamel-bevel-class-v-3year-rct | abstract-only | PubMed abstract only, no PMC, no DOI |
 | 2026-11-26 | baratieri-2003-resin-viscosity-enamel-bevel-class-v-3year-rct | no-doi | PubMed record carries no DOI; doi: unknown on both pages; identity rests on PMID 14531591 + title |
 | 2026-11-26 | heintze-2010-clinical-performance-cervical-restorations-ma | abstract-only | PubMed abstract only, no PMC |
+| 2026-11-27 | korea-mohw-2026-diagnostic-radiation-safety-rule | no-doi | Korean legal text (law.go.kr) — no DOI |
+| 2026-11-27 | korea-mohw-2026-diagnostic-radiation-safety-rule | source-data-issue | Legal text from korean-law MCP stored as papers/*.txt under source_collection pubmed-text (only txt-artifact branch lint accepts); not a PubMed record |
+| 2026-11-27 | korea-nssc-2026-radiation-protection-pregnancy-dose-limit | no-doi | Korean legal text (law.go.kr) — no DOI |
+| 2026-11-27 | korea-nssc-2026-radiation-protection-pregnancy-dose-limit | source-data-issue | Legal text from korean-law MCP stored as papers/*.txt under source_collection pubmed-text (only txt-artifact branch lint accepts); not a PubMed record |
+| 2026-11-27 | korea-moel-2026-labor-standards-act-pregnant-worker-protection | no-doi | Korean legal text (law.go.kr) — no DOI |
+| 2026-11-27 | korea-moel-2026-labor-standards-act-pregnant-worker-protection | source-data-issue | Legal text from korean-law MCP stored as papers/*.txt under source_collection pubmed-text (only txt-artifact branch lint accepts); not a PubMed record |
