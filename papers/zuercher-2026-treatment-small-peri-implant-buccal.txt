@@ -1,0 +1,75 @@
+Treatment of Small Peri-Implant Buccal Dehiscence Defects With SCTG or GBR: 3-Year Results of a Pilot Study
+
+Authors: Anina N. Zuercher, Fabienne Rusch, Franz J. Strauss, Ronald E. Jung, Hyun-Chang Lim, Daniel Thoma
+Journal: Clinical Implant Dentistry and Related Research, 2026; 28(6):e70192
+DOI: 10.1111/cid.70192
+PMID: 42958619
+PMCID: PMC13720216
+Source: PMC full text
+
+[Full text retrieved via PubMed MCP from PMC13720216]
+
+ABSTRACT
+Objective: To evaluate and compare subepithelial connective tissue grafts (SCTG) and guided bone regeneration (GBR) for the treatment of small peri-implant buccal bone dehiscences over a 3-year follow-up, in terms of profilometric contour change, peri-implant parameters and patient-reported outcome measures (PROMs).
+
+Material and Methods: Patients presenting with small buccal bone dehiscences (≤ 3 mm) after single implant placement were included. Defect sites were randomly treated with either SCTG or GBR, while five patients without dehiscences served as a negative control group. All patients received an implant crown and were followed for 3 years. Profilometric measurements, marginal bone levels, peri-implant parameters, and PROMs were recorded at baseline, 1, and 3 years. Data were analyzed descriptively.
+
+Results: A total of 16 patients were available for the 3-year follow-up (SCTG, n = 5; GBR, n = 6; negative control, n = 5). Both augmentation approaches maintained stable buccal soft-tissue contours. At 1 mm below the mucosal margin, the median buccal contour change was 0.19 mm (Q1: -0.28; Q3: 0.29) in the SCTG group and 0.11 mm (Q1: -0.20; Q3: 0.30) in the GBR group. At 3 mm below the mucosal margin, the corresponding median contour changes were 0.05 mm (Q1: -0.36; Q3: 0.31) for SCTG and -0.05 mm (Q1: -0.22; Q3: 0.07) for GBR. Peri-implant clinical parameters (probing depth, bleeding on probing, and plaque) remained stable, indicating maintained peri-implant health in both groups. Marginal bone levels were preserved throughout the observation period and oral health-related quality of life remained high and comparable between the SCTG and GBR groups.
+
+Conclusion: Within the limitations of this pilot study, both SCTG and GBR were associated with stable buccal contour conditions and favorable peri-implant health over a 3-year follow-up period. These findings were observed under adequate self-performed plaque control and adherence to supportive care. Adequately powered RCTs are needed to confirm these findings.
+
+1 Introduction
+The long-term success of dental implants depends not only on predictable osseointegration but also on the maintenance of healthy and stable peri-implant tissues. Once integrated, the peri-implant mucosa forms a protective soft-tissue barrier that shields the underlying bone from microbial and mechanical challenges. The integrity of this mucosal barrier is therefore essential for long-term implant success and aesthetic stability.
+
+In many clinical situations, particularly after tooth extraction, small buccal bone dehiscences (≤ 3 mm) are present at implant placement. These defects represent a frequent and clinically relevant challenge, as they may compromise buccal contour stability and soft-tissue support over time. A reduced buccal bone dimension is often associated with a thinner peri-implant mucosa, which may predispose the site to contour flattening, mucosal recession and increased susceptibility to marginal bone remodeling.
+
+Among the available augmentation techniques, guided bone regeneration (GBR) remains the gold standard for managing peri-implant dehiscence-type defects. However, subepithelial connective-tissue grafts (SCTG) have increasingly been applied as a biologically driven alternative, particularly in cases with small buccal dehiscences where soft-tissue support is critical.
+
+2 Materials and Methods
+2.1 Study Design: 3-year follow-up of a previously published pilot RCT comparing SCTG and GBR for small buccal peri-implant dehiscence defects. Performed at Clinic of Reconstructive Dentistry, University of Zurich. Registered: DRKS00012733. Ethics: BASEC-ID 2017-01401. CONSORT guidelines followed.
+
+2.2 Study Population: Patients ≥18 years, single-tooth implant placement in posterior maxilla or mandible, good general and periodontal health. Full-mouth plaque and bleeding scores <25%, probing depths <4 mm.
+
+2.3 Clinical Procedures: Titanium implants (OsseoSpeed EV, Dentsply Sirona; diameter 3.6 mm premolar, 4.2 mm molar sites). Buccal bone dehiscence measured intraoperatively. Defects ≤3 mm randomized to SCTG or GBR. Healing period 3-6 months before prosthetic phase. Monolithic multilayered zirconia crowns, screw-retained.
+
+2.4 Outcome Measures:
+Primary: Buccal contour changes via STL superimposition (SMOP software) at 1 mm and 3 mm below mucosal margin.
+Secondary: Peri-implant parameters (PD, BOP, PCR, KM width), BBT via CBCT, MBL via standardized periapical radiographs, OHIP-14 PROMs.
+
+3 Results
+3.1 Study Population: 16 patients at 3 years (SCTG n=5, GBR n=6, control n=5). One SCTG patient excluded (peri-implantitis treatment). One control lost to follow-up.
+
+Baseline: Age mean SCTG 58.4 (SD 5.5), GBR 58.7 (SD 14.3), control 56.6 (SD 19.9). Defect depth: SCTG median 3.0 mm (IQR 1.8-3.0), GBR 2.8 mm (IQR 1.5-3.0).
+
+3.2 Buccal Contour Changes (1 year to 3 year delta):
+ROI-1 (1 mm below margin): SCTG median 0.19 mm (Q1: -0.28; Q3: 0.29), GBR 0.11 mm (Q1: -0.20; Q3: 0.30), control 0.27 mm (Q1: -0.03; Q3: 0.35)
+ROI-3 (3 mm below margin): SCTG median 0.05 mm (Q1: -0.36; Q3: 0.31), GBR -0.05 mm (Q1: -0.22; Q3: 0.07), control 0.11 mm (Q1: -0.11; Q3: 0.18)
+
+Tissue width change (TW, 1 year to 3 year):
+TW-1: SCTG -0.32 mm (Q1: -0.62; Q3: 0.33), GBR -0.17 mm (Q1: -0.53; Q3: 0.15), control 0.10 mm
+TW-3: SCTG -0.14 mm (Q1: -0.86; Q3: 0.19), GBR -0.03 mm (Q1: -0.37; Q3: 0.09), control -0.18 mm
+
+3.3 Peri-implant Parameters at 3 years:
+PD mean: SCTG 3.4 mm, GBR 3.1 mm, control 3.1 mm
+BOP: SCTG 0.3 (SD 0.2), GBR 0.3 (SD 0.2), control 0.1 (SD 0.2)
+PCR: SCTG 0.3, GBR 0.2, control 0.1
+KM width mean: SCTG 3.0 mm, GBR 2.1 mm, control 3.0 mm
+
+3.4 Buccal Bone Thickness at 3 years:
+BBT-0 (implant shoulder): SCTG median 0.05 mm (Q1: 0.00; Q3: 2.06), GBR 0.55 mm (Q1: 0.00; Q3: 2.73), control 1.34 mm (Q1: 0.35; Q3: 2.32). ICC 0.96 (95% CI: 0.79-0.99).
+BBT-1: SCTG 1.53 mm, GBR 0.82 mm, control 1.74 mm (medians)
+BBT-3: SCTG 2.26 mm, GBR 0.98 mm, control 2.07 mm (medians)
+
+3.5 Marginal Bone Loss at 3 years:
+MBL median: SCTG 0.0 mm (Q1: -0.1; Q3: 0.2), GBR 0.3 mm (Q1: 0.0; Q3: 2.1), control 0.2 mm (Q1: -0.1; Q3: 0.9). ICC 0.99 (95% CI: 0.96-0.99).
+
+3.6 PROMs:
+OHIP-14 median: SCTG 0.0 (Q1: 0.0; Q3: 1.0), GBR 0.0 (Q1: 0.0; Q3: 3.0), control 3.0 (Q1: 0.0; Q3: 8.0)
+
+4 Discussion
+Key points: (1) Both SCTG and GBR maintained stable buccal contour over 3 years; most remodeling occurs in the first year. (2) Peri-implant clinical parameters remained stable in both groups. (3) Marginal bone levels and BBT preserved. (4) SCTG showed greater KM width (3.0 vs 2.1 mm). (5) EFP S3 Guideline: no current evidence that soft tissue augmentation alone reduces peri-implant disease incidence in thin tissue sites (<2 mm). (6) Adequately powered RCTs required.
+
+Limitations: Small sample (pilot), descriptive analysis only, CBCT limitations for thin bone, carefully selected patients, non-randomized control, 3 years still mid-term.
+
+5 Conclusions
+Both SCTG and GBR associated with stable buccal contour and favorable peri-implant health at 3 years under adequate plaque control and maintenance care.

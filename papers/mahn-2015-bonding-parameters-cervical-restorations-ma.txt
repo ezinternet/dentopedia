@@ -1,0 +1,47 @@
+1. J Adhes Dent. 2015 Aug;17(5):391-403. doi: 10.3290/j.jad.a35008.
+
+Meta-Analysis of the Influence of Bonding Parameters on the Clinical Outcome of 
+Tooth-colored Cervical Restorations.
+
+Mahn E, Rousson V, Heintze S.
+
+PURPOSE: To meta-analyze the literature on the clinical performance of Class V 
+restorations to assess the factors that influence retention, marginal integrity, 
+and marginal discoloration of cervical lesions restored with composite resins, 
+glass-ionomer-cement-based materials [glass-ionomer cement (GIC) and 
+resin-modified glass ionomers (RMGICs)], and polyacid-modified resin composites 
+(PMRC).
+MATERIALS AND METHODS: The English literature was searched (MEDLINE and SCOPUS) 
+for prospective clinical trials on cervical restorations with an observation 
+period of at least 18 months. The studies had to report about retention, 
+marginal discoloration, marginal integrity, and marginal caries and include a 
+description of the operative technique (beveling of enamel, roughening of 
+dentin, type of isolation). Eighty-one studies involving 185 experiments for 47 
+adhesives matched the inclusion criteria. The statistical analysis was carried 
+out by using the following linear mixed model: log (-log (Y /100)) = β + α log(T 
+) + error with β = log(λ), where β is a summary measure of the non-linear 
+deterioration occurring in each experiment, including a random study effect.
+RESULTS: On average, 12.3% of the cervical restorations were lost, 27.9% 
+exhibited marginal discoloration, and 34.6% exhibited deterioration of marginal 
+integrity after 5 years. The calculation of the clinical index was 17.4% of 
+failures after 5 years and 32.3% after 8 years. A higher variability was found 
+for retention loss and marginal discoloration. Hardly any secondary caries 
+lesions were detected, even in the experiments with a follow-up time longer than 
+8 years. Restorations placed using rubber-dam in teeth whose dentin was 
+roughened showed a statistically significantly higher retention rate than those 
+placed in teeth with unprepared dentin or without rubber-dam (p < 0.05). 
+However, enamel beveling had no influence on any of the examined variables. 
+Significant differences were found between pairs of adhesive systems and also 
+between pairs of classes of adhesive systems. One-step self-etching had a 
+significantly worse clinically index than two-step self-etching and three-step 
+etch-and-rinse (p = 0.026 and p = 0.002, respectively).
+CONCLUSION: The clinical performance is significantly influenced by the type of 
+adhesive system and/or the adhesive class to which the system belongs. Whether 
+the dentin/enamel is roughened or not and whether rubberdam isolation is used or 
+not also significantly influenced the clinical performance. Composite resin 
+restorations placed with two-step self-etching and three-step etch-and-rinse 
+adhesive systems should be preferred over onestep self-etching adhesive systems, 
+GIC-based materials, and PMRCs.
+
+DOI: 10.3290/j.jad.a35008
+PMID: 26525003 [Indexed for MEDLINE]

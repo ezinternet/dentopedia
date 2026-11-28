@@ -25,6 +25,7 @@ tags: [dental-trauma, avulsion, replantation, luxation, splinting, mouthguard, p
 > - **근거 수준**: 5편 모두 GRADE very low~low — IADT 가이드라인이 임상시험을 앞서가는(guidelines outrun trials) 영역.
 > - **임상 사슬 요약**: 맞춤 마우스가드(예방) → 우유/HBSS/프로폴리스/ORS 보관·식염수·수돗물 금지(응급) → 유연·단기 고정(안정화) → 근첨 성숙도로 치수 모니터링·미성숙치는 REP(치수 예후).
 > - **인접 주제 연결**: 미성숙치 REP 술식 세부는 [[regenerative-endodontics-rep-overview]], 외상 후 활력치수 보존 결정은 [[vital-pulp-therapy-decision-ladder]], 고정의 교합·치주 측면은 [[occlusal-trauma-periodontitis-overview]].
+> - **현장 지식 격차(2026-11-10, Alshubat 2025 SR, 횡단연구 19편·5,752명)**: 탈구치 응급처치 정답률이 치과 인력·학생 약 50%, 비치과 집단(부모·교사) 15–20%. 재식 의향 2–37%, 우유 보관 2.3–15.2%, 30분 이내 인지 14–33%. 30분 교육 1회로 교사의 보관매체 지식이 4%→86%. 치주인대 (Periodontal Ligament, PDL) 생존이 예후를 좌우한다는 이 페이지의 결론은, 정작 현장 첫 대응자가 모른다는 병목 앞에서 멈춘다.
 
 ## Three-line Summary
 
@@ -83,3 +84,15 @@ Jain 2025 (in vitro, n=62 premolars, 30-min dry period + 45-min storage in 7 med
 - [[dental-trauma/jain-2025-avulsed-tooth-storage-media-pdl-viability]] — in vitro: DNS and ORS equivalent to HBSS for PDL viability (P>0.05); practical field alternatives confirmed.
 
 <!-- thesis-reviewed: 2026-10-30 -->
+
+## Evidence Update — The Bottleneck Is Upstream of the Clinic (2026-11-10)
+
+[[dental-trauma/alshubat-2025-awareness-knowledge-tooth-reimplantation-avulsion]] is a PRISMA systematic review of 19 cross-sectional studies from 10 countries (5,752 participants) on what people know about managing an avulsed tooth. Synthesis was narrative because the studies were too heterogeneous to pool.
+
+- Dental professionals and students answered correctly about half the time (~50%).
+- Non-dental groups (parents, teachers) averaged 15–20%: willingness to replant 2–37%, milk named as a storage medium 2.3–15.2%, awareness of the under-30-minute window 14–33%.
+- A single 30-minute educational session raised Kuwaiti teachers' storage-media knowledge from 4% to 86%.
+
+**Why it belongs in this chain.** This page identifies PDL cell survival as one of the two decision drivers, and the storage-media evidence above refines which medium preserves it best. Alshubat shows that this refinement rarely reaches the tooth: the person holding it in the first 30 minutes usually does not know to replant or to use milk. The comparison between HBSS, milk and newer media matters less than whether any acceptable medium is used at all.
+
+**Limit.** Cross-sectional knowledge surveys measure what people say, not what they do, and the one intervention result comes from a single study.

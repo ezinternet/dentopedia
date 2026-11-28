@@ -30,6 +30,7 @@ notes: |
   updated 2026-08-30: MRONJ 오버뷰 반영 — 한국구강악안면외과학회 2025 입장문(경구 BP 2mo·IV zole 6–12mo·Dmab 3–4mo 휴약 권장, AAOMS 2022와 상반) + Cho 2026(Xgeva vs Prolia 53.8% vs 85.0%, n=178) 축2 반영. Momand 2024(건강 환자 임플란트 예방적 항생제 불필요) 축3 반영.
   verified 2026-09-21: drug-antibiotic-stewardship-overview 2026-09-21 갱신(baker-2026 perspective·almadhoon-2026 SR+MA) — almadhoon: 임플란트 수술 항생제 처방 유병률 61.3%(가이드라인 준수 1–28%, 감소 추세), 술전 단회 투여로 충분하다는 기존 권고 보강; baker: 국가 AMR 전략 내 치과 역할 perspective. 이 도구 5축 임상 임계값 무변화.
   updated 2026-10-06: (1) 항생제 스튜어드십 오버뷰 2026-09-30 신규 통합(페니실린 알레르기 대체 cluster 6편) 반영 — Ramsey 2022(알레르기 라벨 ~10% 실제 알레르기, 이중 알레르기 0.7%)·Salgado-Peralvo 2021 SR(Clindamycin 대체 시 임플란트 조기 실패 RR 3.84)·Salgado-Peralvo 2022 SEI 합의(알레르기 대체: Azithromycin 500mg 술전)·Ceccon-Chianca 2026(Azithromycin 내성 in silico 24.88%) 근거를 축 3 페니실린 알레르기 분기에 반영. (2) 전신질환 오버뷰 2026-10 신규 추가(혈액질환 4편) 반영 — 카드 3에 혈액질환(SCD·지중해빈혈) 체크박스 신설·축 5에 VOC 예방 권고(Hong 2023·Oren 2021) 추가.
+  updated 2026-11-20: 항생제 스튜어드십 오버뷰 2026-11-10 예방적 항생제 5편 반영 — Martins 2023(균혈증 발치 62–66%·칫솔질 8–26%)→단순발치, Torof 2023(감염 69%↓, 건성발치와 무효)→매복 third molar, Arteagoitia 2022(Clindamycin RR 0.66 NS, NNT 29)→페니실린 알레르기 문구. Salgado-Peralvo 2023(상악동 근거 불충분)·Visconti 2026(프로토콜)은 해당 분기 없음.
   updated 2026-08-11: 진통제 오버뷰 2026-08-09 추가분 중 Beaudart 2025 celecoxib umbrella
   review(GI 궤양 RR 0.22 moderate, CV·신장 비열등 low certainty) → 축4 진통제 avoidNSAID
   사유 문구에 GI 병력 대안(비-임플란트 한정)으로 반영. 동시 추가된 Maurice-Szamburski 2025
@@ -87,6 +88,14 @@ notes: |
 (function(){
   var HK='_cr_h_2026_05_27_drug_decision_tree';
   var THRESHOLD=30*60*1000;
+  /* OPERATIONS.md §7 — 콘텐츠 업데이트 시 PAGE_VERSION 범프 */
+  const PAGE_VERSION='20261120-v1';
+  var VK='drug_decision_tree_ver';
+  try{
+    var sv=localStorage.getItem(VK);
+    if(sv&&sv!==PAGE_VERSION){localStorage.setItem(VK,PAGE_VERSION);location.reload(true);}
+    else localStorage.setItem(VK,PAGE_VERSION);
+  }catch(e){}
   document.addEventListener('visibilitychange',function(){
     if(document.hidden){
       try{localStorage.setItem(HK,Date.now());}catch(e){}
@@ -336,13 +345,13 @@ function calculate(e){
 
   // ===== 축 3 — 항생제 =====
   {
-    let lvl='green', title='항생제', rec='', why='', ref='Wilson AHA 2021 · Sperotto 2024 SR-MA · Lodi 2021 Cochrane · Thornhill 2019 · Salgado-Peralvo 2021 SR · Salgado-Peralvo 2022 SEI 합의 · Ceccon-Chianca 2026 · Ramsey 2022';
+    let lvl='green', title='항생제', rec='', why='', ref='Wilson AHA 2021 · Sperotto 2024 SR-MA · Lodi 2021 Cochrane · Thornhill 2019 · Salgado-Peralvo 2021 SR · Salgado-Peralvo 2022 SEI 합의 · Ceccon-Chianca 2026 · Ramsey 2022 · Torof 2023 SR-MA · Arteagoitia 2022 SR-MA · Martins 2023 SR-MA';
     const drug = penAllergy ? 'Cephalexin 2g 또는 Azithromycin 500mg' : 'Amoxicillin';
     if (ie) {
       lvl='green'; rec=`${drug} 2g 술전 1h prophylaxis`;
       why='IE 고위험군 — 침습적 치과시술 전 prophylaxis 적응.';
     } else if (proc === 'simple_ext') {
-      rec='항생제 불필요'; why='단순 발치 — Lodi 2021 Cochrane: prophylaxis 무효.';
+      rec='항생제 불필요'; why='단순 발치 — Lodi 2021 Cochrane: prophylaxis 무효. 균혈증 (Bacteremia)은 발치 62–66%지만 칫솔질 8–26%·치실 16%로 일상에서도 반복되며 정점은 술후 5분 이내(Martins 2023 SR-MA) — 1회 술전 투여가 막는 몫은 작다.';
     } else if (proc === 'ap_no_systemic') {
       rec='항생제 불필요 — 근관치료 우선';
       why='Mendez-Millan 2024: AP 항생제 과잉처방. 근관치료가 1차.';
@@ -354,7 +363,7 @@ function calculate(e){
       why='Torof 2023 SR-MA: 임플란트 단일 술전 Amoxicillin 2g가 표준. 단 Momand 2024: 건강한 환자 임플란트 예방적 항생제가 불필요할 수 있음(SR) — 고위험 전신질환 없으면 생략 고려 가능. 최종 결정은 개별 위험인자(면역저하·MRONJ·DM 비조절) 고려.';
     } else if (proc === 'impacted_third') {
       lvl='yellow'; rec='case-by-case (외과적 발치 침습도 의존)';
-      why='De Angelis 2025 SR: 매복·외과적 발치에 한정 적응.';
+      why='De Angelis 2025 SR: 매복·외과적 발치에 한정 적응. Torof 2023 SR-MA(RCT 16편): 항생제가 술후 감염을 69% 줄이지만 건성 발치와 (Dry Socket)·창상 열개·부종에는 효과 없음, 이상반응은 위약과 비슷(RR 0.96) — 기저 위험이 낮은 건강한 환자의 단순 매복 발치에 일상 투여는 지지되지 않음.';
     } else {
       rec='기본 prophylaxis 불필요'; why='현 시술에 prophylaxis 적응 약함.';
     }
@@ -364,7 +373,7 @@ function calculate(e){
     if (highRiskAntires_check(antires) && proc !== 'simple_ext') {
       lvl=(lvl==='red'?'red':'yellow'); why += ' IV BP·Denosumab(암)·Antiangiogenic — 침습적 처치 전 prophylaxis 적응.';
     }
-    if (penAllergy) { why += ' 페니실린 알레르기 — Clindamycin 회피 (Thornhill 2019 치명률 2.9/M). 현행 대체: Azithromycin 500mg 술전 단회 (Salgado-Peralvo 2022 SEI GRADE C 합의). 임플란트 Clindamycin 대체군 조기실패 RR 3.84 (Salgado-Peralvo 2021 SR — 교락 있으나 Azithromycin 전환 근거). ⚠ Azithromycin 내성 in silico 24.88% (Ceccon-Chianca 2026 구강 연쇄상구균 유전체) — 내성 가능성 감안. 알레르기 라벨 ~10% 실제 알레르기, 이중 알레르기 0.7% — 가능하면 알레르기 확인(유발검사) 우선 (Ramsey 2022).'; }
+    if (penAllergy) { why += ' 페니실린 알레르기 — Clindamycin 회피 (Thornhill 2019 치명률 2.9/M). 현행 대체: Azithromycin 500mg 술전 단회 (Salgado-Peralvo 2022 SEI GRADE C 합의). 임플란트 Clindamycin 대체군 조기실패 RR 3.84 (Salgado-Peralvo 2021 SR — 교락 있으나 Azithromycin 전환 근거). 제3대구치 발치에서 경구 Clindamycin의 감염 예방 효과도 유의하지 않음(RR 0.66, 95% CI 0.38–1.16, NNT 29; Arteagoitia 2022 SR-MA) — 대체약을 고르기 전에 예방 적응 자체를 다시 물을 것. ⚠ Azithromycin 내성 in silico 24.88% (Ceccon-Chianca 2026 구강 연쇄상구균 유전체) — 내성 가능성 감안. 알레르기 라벨 ~10% 실제 알레르기, 이중 알레르기 0.7% — 가능하면 알레르기 확인(유발검사) 우선 (Ramsey 2022).'; }
     blocks.push(axis(lvl, '축 3 — 항생제', rec, why, ref));
   }
 

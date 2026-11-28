@@ -27,6 +27,14 @@ description: "IT 값 입력 → 임상 해석·ISQ 궤적 / 식립 발열 위험
 (function(){
   var HK='_cr_h_2026_08_31_it_stability_clinical_tool';
   var THRESHOLD=30*60*1000;
+  /* OPERATIONS.md §7 — 콘텐츠 업데이트 시 PAGE_VERSION 범프 */
+  const PAGE_VERSION='20261121-v1';
+  var VK='_cr_v_2026_08_31_it_stability_clinical_tool';
+  try{
+    var sv=localStorage.getItem(VK);
+    if(sv&&sv!==PAGE_VERSION){localStorage.setItem(VK,PAGE_VERSION);location.reload(true);}
+    else localStorage.setItem(VK,PAGE_VERSION);
+  }catch(e){}
   document.addEventListener('visibilitychange',function(){
     if(document.hidden){
       try{localStorage.setItem(HK,Date.now());}catch(e){}

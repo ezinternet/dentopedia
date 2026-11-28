@@ -133,6 +133,24 @@ COSMETIC_SUBJECT_RE = re.compile(
 )
 
 
+# 도구(interactives/) 쪽 인프라 커밋 — 캐시 갱신용 JS 블록만 넣고 임상 내용은 한 글자도
+# 안 바꾼다. 2026-11-21 PAGE_VERSION 일괄 삽입(도구 132개 × 커밋 1건)이 tool_date를
+# 전부 당일로 끌어올려 진짜 STALE을 가릴 뻔했다. 이 패턴의 커밋은 tool_date 계산에서 건너뛴다.
+# (콘텐츠 업데이트 때의 PAGE_VERSION *범프*는 내용 커밋에 같이 실리므로 여기 안 걸린다.)
+TOOL_INFRA_SUBJECT_RE = re.compile(r"PAGE_VERSION 버전 블록 추가|add cache-refresh js")
+
+
+def tool_date_from_cache(cache: dict, relpath: str):
+    """도구 파일의 마지막 *내용* 커밋 날짜. 인프라 커밋만 있으면 가장 최근 커밋 날짜로 폴백."""
+    entries = cache.get(relpath, [])
+    if not entries:
+        return None
+    for d, subject in entries:
+        if not TOOL_INFRA_SUBJECT_RE.search(subject):
+            return d or None
+    return entries[0][0] or None
+
+
 def build_git_log_cache(path_glob: str) -> dict:
     """git log 한 번으로 path_glob 하위 모든 파일의 커밋 이력을 수집.
 
@@ -209,7 +227,7 @@ def main():
             results.append({"tool": p.name, "verdict": "NO_SOURCE", "detail": "source_wiki 비어있음"})
             continue
 
-        tool_date = git_date_from_cache(tool_cache, f"interactives/{p.name}")
+        tool_date = tool_date_from_cache(tool_cache, f"interactives/{p.name}")
         newer, broken = [], []
         for s in sources:
             s = s.strip()

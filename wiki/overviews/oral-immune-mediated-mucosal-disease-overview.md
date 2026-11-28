@@ -34,7 +34,7 @@ Synthesis of 5 papers on oral immune-mediated mucosal diseases: desquamative gin
 
 Beyond the blistering diseases, erythema multiforme (EM) presents as painful oral mucosal involvement with acral target lesions driven predominantly by HSV (distinguished from SJS/TEN by its infection-driven, not drug-driven, pathogenesis); and in the post-transplant setting, oral chronic GvHD mimics OLP with reticular/erosive mucosal lesions combined with xerostomia; systemic lupus erythematosus causes oral erosions/ulcers in ~60% of patients, reflecting systemic activity.
 
-The common thread across all these entities is that the oral cavity is frequently the primary or early presentation site — the dentist is often the first clinician to see them — and persistent vesiculo-erosive mucosal lesions warrant DIF biopsy before committing to therapy, since an anti-inflammatory strategy that bypasses the underlying diagnosis (e.g., treating MMP as OLP without biopsy) risks inadequate disease control or misused systemic immunosuppression.
+The common thread across all these entities is that the oral cavity is frequently the primary or early presentation site — the dentist is often the first clinician to see them — and persistent vesiculo-erosive mucosal lesions warrant DIF biopsy before committing to therapy, since an anti-inflammatory strategy that bypasses the underlying diagnosis (e.g., treating MMP as OLP without biopsy) risks inadequate disease control or misused systemic immunosuppression; among first-line topical agents, tacrolimus 0.1% carries ~30% 3-month relapse rate versus lower relapse with clobetasol 0.05%, supporting a clobetasol-first with tacrolimus maintenance strategy where long-term mucosal corticosteroid side-effects are a concern.
 
 ## 세줄요약
 

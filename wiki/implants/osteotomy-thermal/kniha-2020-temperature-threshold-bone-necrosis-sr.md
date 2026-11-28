@@ -96,4 +96,4 @@ At **60°C/1 min**: both tissue types affected, but cancellous effect still larg
 - [[implants/osteotomy-thermal/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic]] — orthopedic narrative review; same conclusion, different perspective
 - [[implants/osteotomy-thermal/kniha-2020-implant-removal-thermal-necrosis-pilot]] — same group; porcine cadaver, 51°C/10s threshold
 - [[implants/osteotomy-thermal/kniha-2023-thermal-osteonecrosis-implant-removal-rat]] — same group; in vivo rat follow-up
-- [[overviews/osteotomy-drilling-heat-overview]] — multi-paper synthesis including this review
+- [[overviews/osteotomy-drilling-heat-determinants-irrigation-overview]] — multi-paper synthesis including this review

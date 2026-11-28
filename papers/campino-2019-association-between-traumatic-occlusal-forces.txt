@@ -1,0 +1,19 @@
+TITLE: Association between traumatic occlusal forces and periodontitis: A systematic review.
+AUTHORS: Jorge Iván Campiño, Cristian Camilo Ríos, Carolina Rodriguez-Medina, Javier Enrique Botero
+JOURNAL: Journal of the International Academy of Periodontology 2019;21(4):148-158
+DATE: 2019-10-01
+PMID: 31694985
+DOI: none (PII 21-4-2019-148)
+TYPES: ['Journal Article', 'Systematic Review']
+FULL_TEXT: false (abstract-only — no PMC record)
+
+ABSTRACT
+OBJECTIVE: Occlusal adjustment is commonly recommended for patients with periodontitis and traumatic occlusion. The objective of this systematic review was to analyze available evidence for the association between traumatic occlusal forces and periodontitis.
+
+METHODS: Two focused questions were proposed: What is the effect of traumatic occlusal forces on periodontal parameters in patients with and without periodontitis? And what is the effect of occlusal interventions on periodontal parameters in patients with periodontitis? A systematic review of clinical and observational studies was performed and presented in narrative form.
+
+RESULTS: After title and abstract review a total of 30 articles were retrieved and of these 14 full-text articles were retrieved for analysis. Two RCTs, 1 cohort, 4 retrospective and 7 cross-sectional studies were included. Cross-sectional studies reported a significant association between occlusal discrepancies and probing depth and clinical attachment level. However, the magnitude of the effect is negligible when groups with and without occlusal discrepancies are compared. Intervention studies reported a minimal effect on probing depth and clinical attachment level after occlusal adjustment in patients with periodontitis as compared to teeth without occlusal adjustment.
+
+CONCLUSIONS: Available human studies showed that there is limited evidence that traumatic occlusion is associated with periodontitis and to support the implementation of occlusal adjustment to significantly improve the periodontal condition in patients with periodontitis.
+
+KEYWORDS: Traumatic occlusion; clinical attachment level; occlusal adjustment; periodontitis

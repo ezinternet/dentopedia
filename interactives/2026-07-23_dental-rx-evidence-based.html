@@ -23,6 +23,7 @@ notes: |
   변경하지 않음 — 다른 축). Maurice-Szamburski 2025 IV NSAID는 경구 Rx-pad 도구 scope
   밖이라 반영 대상 아님 확인.
   verified 2026-09-21: drug-antibiotic-stewardship-overview 2026-09-21 갱신(baker-2026·almadhoon-2026) — 임플란트 Rx-pad 처방 논리(술전 단회 2g) 임상적 무변화 재확인; almadhoon SR+MA 전세계 과처방 61.3% 근거 추가가 이 도구의 처방 기준 강화.
+  updated 2026-11-20: 항생제 스튜어드십 오버뷰 2026-11-10 예방 항생제 5편 반영 — 발치탭 ev-note에 Martins 2023(균혈증)·Torof 2023(매복 제3대구치 감염 69%↓, 건성발치와 무효)·Arteagoitia 2022(클린다마이신 RR 0.66 NS) 추가. 임플란트·근관탭 처방 논리는 무변화.
   updated 2026-10-06: 항생제 스튜어드십 2026-09-30 신규 cluster 반영 — 3개 탭(발치·임플란트·근관) 클린다마이신 행 아래 페니실린 알레르기 대체 ev-note 추가: Salgado-Peralvo 2022(Azithromycin 500mg GRADE C)·Ceccon-Chianca 2026(Azithromycin 내성 24.88%). 발치 탭: SCD 혈관폐쇄 위기(VOC) 주의 ev-note 추가(Hong 2023). frontmatter date → 2026-10-06.
   updated 2026-09-03: wilson-2021-ie-prophylaxis-aha-scientific-statement 2026-09-02 갱신
   반영 — 발치·임플란트·근관 탭 클린다마이신 행(3개소)에 "IE 예방 목적 사용 불가 (Wilson 2021
@@ -49,6 +50,14 @@ source_wiki:
 (function(){
   var HK='_cr_h_2026_07_23_dental_rx_evidence_based';
   var THRESHOLD=30*60*1000;
+  /* OPERATIONS.md §7 — 콘텐츠 업데이트 시 PAGE_VERSION 범프 */
+  const PAGE_VERSION='20261120-v1';
+  var VK='dental_rx_evidence_based_ver';
+  try{
+    var sv=localStorage.getItem(VK);
+    if(sv&&sv!==PAGE_VERSION){localStorage.setItem(VK,PAGE_VERSION);location.reload(true);}
+    else localStorage.setItem(VK,PAGE_VERSION);
+  }catch(e){}
   document.addEventListener('visibilitychange',function(){
     if(document.hidden){
       try{localStorage.setItem(HK,Date.now());}catch(e){}
@@ -418,10 +427,11 @@ body{
         <div class="dday"><input value="5" type="number" min="1" max="14" onclick="event.stopPropagation()"><span>일</span></div>
       </div>
       <div class="ev-note">
-        ℹ 단순발치 · 감염징후 없는 건강 환자: 예방적 항생제 불필요 (항생제 스튜어드십 권고)
+        ℹ 단순발치 · 감염징후 없는 건강 환자: 예방적 항생제 불필요 (항생제 스튜어드십 권고). 균혈증은 발치 62–66%지만 칫솔질 8–26%·치실 16%로 일상에서도 반복된다 (Martins 2023 SR-MA).<br>
+        ℹ 매복 제3대구치: 항생제가 술후 감염을 69% 줄이지만 <b>건성발치와엔 효과 없음</b> — 건강한 환자의 단순 매복 발치엔 루틴 비권고 (Torof 2023 SR-MA, 16 RCT).
       </div>
       <div class="ev-note" style="border-left-color:#d97706">
-        ⚠ 페니실린 알레르기 대체 (신규 2026): 클린다마이신보다 <b>Azithromycin 500mg 술전 단회</b> 권장 (Salgado-Peralvo 2022 SEI GRADE C). 임플란트에서 클린다마이신 대체군 조기 실패 RR 3.84 (Salgado-Peralvo 2021 SR). ⚠ Azithromycin 내성 <b>in silico 24.88%</b> (Ceccon-Chianca 2026) — QT 연장·내성 동시 고려.
+        ⚠ 페니실린 알레르기 대체 (신규 2026): 클린다마이신보다 <b>Azithromycin 500mg 술전 단회</b> 권장 (Salgado-Peralvo 2022 SEI GRADE C). 임플란트에서 클린다마이신 대체군 조기 실패 RR 3.84 (Salgado-Peralvo 2021 SR). 제3대구치 발치에서 클린다마이신의 감염 예방 효과도 유의하지 않음 — RR 0.66 (95% CI 0.38–1.16), NNT 29 (Arteagoitia 2022 SR-MA). ⚠ Azithromycin 내성 <b>in silico 24.88%</b> (Ceccon-Chianca 2026) — QT 연장·내성 동시 고려.
       </div>
       <div class="ev-note" style="border-left-color:#dc2626">
         ⚠ 혈액질환(SCD · 겸상적혈구빈혈) 환자 발치: 혈관폐쇄 위기(VOC) 위험 — 치과 불안 최소화, 충분한 산소화 유지, 시술 전 혈액내과 협진 필수 (Hong 2023 Dent Clin N Am)

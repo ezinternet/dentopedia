@@ -32,7 +32,7 @@ relations:
 
 ## Three-line Summary
 
-Synthesis of 12 papers on the partially dentate selection decision — when to place an RPD versus accept a shortened dental arch (SDA), versus a fixed partial denture (FPD) or implant — spanning the prosthesis-survival, patient-reported, case-selection, periodontal, and economic axes.
+Synthesis of 19 papers on the partially dentate selection decision — when to place an RPD versus accept a shortened dental arch (SDA), versus a fixed partial denture (FPD) or implant — spanning the prosthesis-survival, patient-reported, case-selection, periodontal, and economic axes.
 
 Over fifteen years, replacing missing posterior teeth and not replacing them (SDA) produced indistinguishable prosthetic success (Walter 2021 RCT: 14.2 vs 14.3 years to <50% event-free success, no analysis significant), while ~40% of RPD patients discontinue use within five years (Campbell 2017) even though the prosthesis itself survives in ≈95% of cases at five years (Drummond 2024 SR+MA); the demand gradient (3% / 58% / 93% of SDA patients seeking restoration by extent of shortening) and Witter's three-rung ladder narrow the indication to the subset that actually wants treatment (Nassani 2013).
 
@@ -40,7 +40,7 @@ Once the case warrants treatment, the cost axis (Beikler 2015 EAO consensus) pla
 
 ## 세줄요약
 
-12편 종합 — 부분무치악에서 가철성 국소의치 (Removable Partial Denture, RPD) vs 단축치열 (Shortened Dental Arch, SDA) vs 고정성 국소의치 (Fixed Partial Denture, FPD) vs 임플란트를 보철 생존, 환자보고결과 (Patient-Reported Outcome, PRO), 케이스 선택, 치주, 비용효과 축으로 정리했다.
+19편 종합 — 부분무치악에서 가철성 국소의치 (Removable Partial Denture, RPD) vs 단축치열 (Shortened Dental Arch, SDA) vs 고정성 국소의치 (Fixed Partial Denture, FPD) vs 임플란트를 보철 생존, 환자보고결과 (Patient-Reported Outcome, PRO), 케이스 선택, 치주, 비용효과 축으로 정리했다.
 
 15년에 걸쳐 결손 대구치 보철 여부는 보철 성공률로 구별되지 않았으며 (Walter 2021 무작위임상시험 Randomized Controlled Trial, RCT: 14.2 vs 14.3년에 50% 미만 성공, 어느 분석도 유의차 없음), 보철은 95.1%가 5년 생존하지만 (Drummond 2024 SR+MA) 약 40%의 환자가 5년 내 착용을 중단하고 (Campbell 2017), 수요 기울기 (3% / 58% / 93%) 와 Witter 3단계가 실제 치료가 필요한 하위집단을 좁혀준다 (Nassani 2013).
 

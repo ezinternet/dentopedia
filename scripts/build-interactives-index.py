@@ -126,7 +126,10 @@ def collect():
         fm = parse_frontmatter(p.read_text(encoding="utf-8"))
         cat = fm.get("category", "").strip() or FALLBACK_KEY
         valid_keys = {k for k, _ in CATEGORIES}
-        if cat not in valid_keys:
+        # 파일명 패턴 강제 오버라이드 — frontmatter 오기입 방어 (2026-11-19)
+        if p.name.endswith("_team-weekly-card.html"):
+            cat = "weekly-card"
+        elif cat not in valid_keys:
             cat = ALIASES.get(cat, FALLBACK_KEY)  # wiki taxonomy 값 흡수
         if cat not in valid_keys:
             cat = FALLBACK_KEY

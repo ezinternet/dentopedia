@@ -1,0 +1,16 @@
+TITLE: The use of acellular dermal matrix membrane for vertical soft tissue augmentation during submerged implant placement: a case series.
+AUTHORS: Algirdas Puisys, Egle Vindasiute, Laura Linkevciene, Tomas Linkevicius
+JOURNAL: Clinical oral implants research 2015;26(4):465-470
+PMID: 24779749
+DOI: 10.1111/clr.12401
+SOURCE: PubMed abstract (E-utilities efetch, 2026-11-25). No PMC record; no full text retrieved.
+
+## ABSTRACT
+
+OBJECTIVE: To evaluate the efficiency of acellular dermal matrix membrane to augment vertical peri-implant soft tissue thickness during submerged implant placement.
+
+MATERIAL AND METHODS: Forty acellular dermal matrix-derived allogenic membranes (AlloDerm, BioHorizons, Birmingham, AL, USA) and 42 laser-modified surface internal hex implants (BioHorizons Tapered Laser Lok, Birmingham, AL, USA) were placed in submerged approach in 40 patients (15 males and 25 females, mean age 42.5 ± 1.7) with a thin vertical soft tissue thickness of 2 mm or less. After 3 months, healing abutments were connected to implants, and the augmented soft tissue thickness was measured with periodontal probe. The gain in vertical soft tissue volume was calculated. Mann-Whitney U-test was applied and significance was set to 0.05.
+
+RESULTS: All 40 allografts healed successfully. Thin soft tissue before augmentation had an average thickness of 1.54 ± 0.51 mm SD (range, 0.5-2.0 mm, median 1.75 mm), and after soft tissue augmentation with acellular dermal matrix, thickness increased to 3.75 ± 0.54 mm SD (range, 3.0-5.0 mm, median 4.0 mm) at 3 months after placement. This difference between medians was found to be statistically significant (P < 0.001). Mean increase in soft tissue thickness was 2.21 ± 0.85 mm SD (range, 1.0-4.5 mm, median 2.0 mm).
+
+CONCLUSIONS: It can be concluded that acellular dermal matrix membrane can be successfully used for vertical soft tissue augmentation.

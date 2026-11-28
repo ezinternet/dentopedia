@@ -13,6 +13,22 @@ source_collection: pubmed-abstract
 
 → [[implants/full-arch/zhang-2022-all-on-four-vs-six-cohort-3-13yr]]
 
+## Three-line Summary
+
+Zhang et al. (2022) reported a single-centre retrospective cohort study from Peking University comparing All-on-4 (n=202 prostheses) against All-on-6 (n=69 prostheses) immediate full-arch fixed prostheses in 217 patients with follow-up extending 3–13 years—the largest published cohort with this duration of head-to-head comparison between the two approaches. The study also included a clinician questionnaire component asking 6 surgeons and 3 prosthodontists to rank patient and clinical factors influencing their implant number selection decisions.
+
+The primary finding was no statistically significant overall difference between All-on-4 and All-on-6 in implant survival (HR 1.0), prosthesis survival (OR 0.8), biological complications (OR 0.9), technical complications at both provisional and definitive prosthetic stages, or marginal bone loss at 1, 5, and 10 years. However, in high-risk subgroups—elderly patients, those with opposing natural or fixed dentition, smokers, bruxists, cases with long cantilever lengths, low bone density, or all-acrylic provisional prostheses—All-on-6 showed more predictable outcomes in some measurements.
+
+The clinician questionnaire revealed that medium-experienced clinicians and prosthodontists significantly preferred All-on-6 (p<0.05), while highly experienced implant surgeons showed no significant preference, suggesting that clinical experience modulates risk perception and protocol selection. This dataset was subsequently incorporated into the Shao 2026 SR+MA (55 studies), and the subgroup findings for high-risk patients provide the most clinically actionable guidance: All-on-4 is equivalent overall but All-on-6 may be warranted for high-risk functional or structural scenarios.
+
+## 세줄요약
+
+장 등(2022)은 북경대학 단일 기관에서 All-on-4(202개 보철) 대 All-on-6(69개 보철) 즉시 전악 고정 보철을 217명, 최대 13년 추적한 대규모 후향 코호트 연구를 발표했다—양 접근법의 가장 긴 직접 비교 단일 기관 데이터다. 외과의 6명과 보철과 전문의 3명을 대상으로 임플란트 개수 선택 의사결정에 영향을 미치는 임상 인자를 조사한 설문 조사도 병행했다.
+
+주요 결과: 임플란트 생존(HR 1.0), 보철 생존(OR 0.8), 생물학적 합병증(OR 0.9), 기술적 합병증, 한계골 소실(1·5·10년) 모두 양군 간 유의차 없음. 그러나 고위험 하위군(고령·대합 자연치/고정 보철·흡연·이갈이·긴 캔틸레버·낮은 골밀도·전아크릴 임시보철)에서는 All-on-6가 일부 측정치에서 더 예측 가능한 결과를 보였다.
+
+설문 결과: 중등 경험 임상의와 보철 전문의가 유의하게 All-on-6를 선호(p<0.05), 고경험 외과의는 선호도 차이 없음—임상 경험이 위험 인식과 프로토콜 선택을 조절함을 시사한다. 이 데이터는 샤오 2026 SR+MA(55편)에 포함됐으며, 고위험 환자에서 All-on-6 선택 근거를 임상 의사결정에 제공한다.
+
 ## 1. Document Information
 
 - **Title**: Comparison of 4- or 6-implant supported immediate full-arch fixed prostheses: A retrospective cohort study of 217 patients followed up for 3–13 years

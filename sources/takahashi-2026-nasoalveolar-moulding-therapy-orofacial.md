@@ -20,6 +20,22 @@ Cochrane Protocol (2026, Takahashi et al.): to assess benefits and harms of NAM 
 ## 한줄요약
 코크란 프로토콜 (2026): 구순구개열 소아의 비치조 성형술 (Nasoalveolar Moulding, NAM) 치료 효과·위해 평가 예정 — 결과 없음.
 
+## Three-line Summary
+
+Takahashi et al. (2026) registered a Cochrane protocol to systematically evaluate the benefits and harms of nasoalveolar moulding (NAM) therapy compared to no presurgical orthopaedic treatment in children with orofacial clefts. NAM is a presurgical orthopaedic technique involving a customised intraoral appliance combined with a nasal stent, designed to reshape nasoalveolar tissues before primary lip and palate repair surgery; it has been adopted at specialist cleft centres worldwide despite limited high-quality evidence.
+
+The protocol establishes the comparison framework for NAM versus no presurgical orthopaedic treatment (PSO), with planned assessment of surgical outcomes, nasoalveolar symmetry, and patient/parent burden. As of the protocol stage, no results are available. The anticipated challenge in this area is the historical difficulty of conducting RCTs in neonatal populations due to ethical and logistical constraints, which has historically limited evidence to observational studies and expert opinion.
+
+The clinical significance of this Cochrane protocol lies in its potential to provide the highest-level evidence synthesis for a resource-intensive intervention that requires specialised equipment, frequent clinical appointments, and parental commitment in the first weeks of life. If completed, the full review will directly inform whether NAM therapy should be recommended in orofacial cleft management pathways, supplementing the existing decision framework for multidisciplinary cleft teams.
+
+## 세줄요약
+
+다카하시 등(2026)은 구순구개열(Orofacial Cleft) 소아에서 비치조 성형술(Nasoalveolar Moulding, NAM) 치료 대 비수술 전 정형치료(Presurgical Orthopaedic, PSO) 없음을 비교하는 최초의 코크란 프로토콜을 등록했다. NAM은 맞춤형 구강내 장치와 비강 스텐트를 사용해 1차 구순·구개 수술 전 비치조 연조직을 재형성하는 기법으로, 전문 구순구개열 센터에서 광범위하게 사용되나 고질적 근거 부족 상태다.
+
+수술 결과, 비순 대칭성, 환자/보호자 부담이 평가 예정 결과 지표다. 현재 프로토콜 단계로 결과가 없다. 신생아 집단 RCT 수행의 윤리적·물류적 어려움이 역사적으로 근거를 관찰 연구와 전문가 의견에 의존하게 했다.
+
+이 코크란 프로토콜은 첫 수 주 이내에 집중적인 임상 방문과 보호자 헌신을 요구하는 자원 집약적 중재에 대한 최고 수준 근거 종합의 토대를 마련한다. 완성 시 다학제 구순구개열 팀의 NAM 권고 여부 결정에 직접 활용될 것이다.
+
 ## 1. Document Information
 - Journal: Cochrane Database of Systematic Reviews, 2026 (Protocol)
 - DOI: 10.1002/14651858.CD016359

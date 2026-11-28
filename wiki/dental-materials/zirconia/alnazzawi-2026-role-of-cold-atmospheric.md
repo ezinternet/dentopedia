@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: "10.2340/biid.v13.45563"
 source: alnazzawi-2026-role-of-cold-atmospheric.md
 category: dental-materials/zirconia
-confidence: in-vitro
+evidence_level: in-vitro
 text_path: /Users/oracleneo/llm-wiki/papers/alnazzawi-2026-role-of-cold-atmospheric.txt
 text_filename: alnazzawi-2026-role-of-cold-atmospheric.txt
 source_collection: pubmed-text
@@ -21,6 +21,22 @@ In vitro study (n=200, 3Y-TZP + 5YSZ to dentin, 10,000 thermocycles): CAP and AP
 
 ## 한줄요약
 인비트로 (n=200, 3Y-TZP + 5YSZ 상아질 접착, 10,000회 열순환): 냉온 대기압 플라즈마 (Cold Atmospheric Plasma, CAP)와 공기분사연마 (Airborne Particle Abrasion, APA) 전단결합강도 (Shear Bond Strength, SBS) 동등; 지르코니아 종류(3Y vs 5Y) 영향 없음; APA+CAP, HF+CAP 병용은 오히려 SBS 감소; 10-MDP 프라이머가 결정 변수.
+
+## Three-line Summary
+
+Alnazzawi et al. (2026) compared cold atmospheric plasma (CAP), airborne particle abrasion (APA), HF acid, and their combinations for bonding both 3Y-TZP and 5YSZ zirconia to dentin using self-adhesive resin cement (Maxcem Elite Chroma), with and without MDP primer (Z-prime plus), evaluated by SBS after 10,000 thermocycles (n=10 per subgroup, 200 specimens total). This was the first study comparing CAP vs APA specifically for zirconia-to-dentin bonding with two generations of zirconia.
+
+CAP and APA produced statistically equivalent SBS (~17 MPa without primer, ~26–27 MPa with primer), and zirconia material type (3Y-TZP vs 5YSZ) had no significant effect. The primer variable (10-MDP) had the largest effect size (partial η²=0.86), confirming that MDP primer is the dominant factor for all surface treatments. Critically, combination treatments (APA+CAP, HF+CAP) produced lower SBS than individual treatments—overtreatment is counterproductive.
+
+HF acid had no effect on zirconia bonding even when combined with CAP, confirming HF's exclusion from zirconia protocols. CAP provides a non-abrasive alternative to APA that preserves zirconia phase structure while matching APA clinically, with advantages where minimal surface disruption is preferred. The finding of combination-treatment inferiority is clinically important: sequential CAP + APA is not an improvement over either alone.
+
+## 세줄요약
+
+알나자위 등(2026)은 3Y-TZP와 5YSZ 두 종류 지르코니아를 상아질에 접착할 때 냉온 대기압 플라즈마(Cold Atmospheric Plasma, CAP), 공기분사연마(Airborne Particle Abrasion, APA), HF산과 그 조합을 MDP 프라이머 유무별로 비교했다(n=200, 10,000회 열순환). 최초로 지르코니아-상아질 접착에서 CAP 대 APA를 직접 비교했다.
+
+CAP과 APA는 통계적으로 동등한 전단결합강도(SBS) 달성(프라이머 없음 ~17 MPa, 프라이머 있음 ~26–27 MPa). 지르코니아 종류(3Y vs 5Y)는 유의한 영향 없음. MDP 프라이머 변수의 효과 크기가 가장 컸다(편 η²=0.86)—모든 표면처리에서 10-MDP 프라이머가 결정 변수다.
+
+APA+CAP, HF+CAP 병용은 단독 처치보다 오히려 SBS 감소—과잉 처치는 역효과. HF는 단독 및 CAP와 병용해도 지르코니아 접착에 효과 없음, 지르코니아 프로토콜에서의 제외가 재확인된다. CAP는 APA와 동등한 임상 결과를 비연마적으로 달성한다.
 
 ## Summary
 This study compared CAP, APA, HF acid, and their combinations for bonding 3Y-TZP and 5YSZ zirconia to dentin using self-adhesive resin cement (Maxcem Elite Chroma). Two hundred specimens were tested with and without MDP primer (Z-prime plus) after 10,000 thermocycles. CAP and APA produced statistically equivalent SBS (~17 MPa without primer, ~26-27 MPa with primer). Zirconia material type had no significant effect. Combinations (APA+CAP, HF+CAP) produced lower SBS than individual treatments, possibly because rough APA topography interferes with CAP surface activation. HF etching alone had no effect on zirconia SBS. The primer variable had the largest effect size (η²=0.86), confirming 10-MDP as the critical bonding factor.

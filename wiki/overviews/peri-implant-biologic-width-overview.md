@@ -2,7 +2,7 @@
 title: "Peri-implant Biologic Width — Tooth Baseline, Implant Dimension, and Restorative Guardrails (임플란트 주위 생물학적 폭경 — 치아 기준·임플란트 실측·수복 가드레일)"
 authors: synthesis (llm-wiki)
 year: 2026
-date: 2026-09-16
+date: 2026-11-23
 category: [overviews]
 tags: [biologic-width, supracrestal-tissue-attachment, peri-implant-soft-tissue, microgap, crestal-bone-loss, platform-switching, crown-lengthening, overview]
 source_papers:
@@ -10,6 +10,8 @@ source_papers:
   - periodontics/padilla-avallos-2026-supracrestal-tissue-attachment-biologic-width
   - periodontics/hamasni-2017-biologic-width-restorative-dentistry
   - periodontics/abdulkarim-2024-digital-assessment-supracrestal-tissue-attachment
+  - implants/mbl/linkevicius-2020-submerged-healing-abutment-subcrestal-soft-tissue
+  - implants/mbl/linkevicius-2015-crestal-bone-stability-soft-tissue-thickening-matching
 evidence_level: synthesis
 source: synthesis
 relations:
@@ -31,6 +33,7 @@ relations:
 - **임상 takeaway ①**(임플란트): 2-piece 식립 시 미세극 하방 ~2 mm 리모델링을 계획(식립 깊이·countersinking), 연조직 ≥3 mm 확보, 폭경 공간이 제한된 부위에서는 플랫폼 스위칭을 우선.
 - **임상 takeaway ②**(치아): STA는 만국 2 mm 상수가 아니다 — 디지털 중첩 측정(STAD) 평균 2.05 mm·범위 0.02–5.85 mm이며 하악>상악·전치>구치, 얇은 표현형(얇은 BBT+GT+각화치은)에서 더 크다(abdulkarim-2024, r=−0.419/−0.283/−0.138). 본-사운딩 임상 BW는 오히려 Gargiulo 조직값보다 작을 수 있다(1.13 vs 2.04 mm, hamasni-2017) — 측정 방식에 따라 부호까지 뒤집히므로 "값 하나"가 아니라 site-specific margin-to-crest 계획이 답이다.
 - **근거 한계**: 임플란트 "표준" 폭경은 단일 법칙이 아니라 기기·부위·시기 의존적 분포다; hamasni-2017 같은 치아측 대조군과의 직접 비교 설계가 드물다. 결정은 절대 mm가 아니라 "봉쇄 유지" 원리로.
+- **[2026-11-23 추가] ≥3 mm 봉쇄 규칙의 임상적 반례 — 두께 자체보다 IAJ의 상대 위치가 관건**: Linkevicius 2020(≤2 mm 얇은 연조직 32명, 2년 RCT)에서 골정상 텐팅으로 연조직을 1.85→3.65 mm로 늘려도 골능 소실 0.51±0.4 mm인 반면, 1.5 mm 하방 식립은 0.18±0.32 mm(p=.001) — **두께 목표 달성이 폭경 공간 확보와 동치가 아님**. 반대로 Linkevicius 2015(수평 일치 연결 103명, 전문)에서는 동종이식막으로 점막을 두껍게 하면 얇은 점막 1.65~1.81 mm → 0.31~0.34 mm로, 자연 두꺼운 점막(0.44~0.47 mm) 수준까지 회복. 즉 "≥3 mm"는 봉쇄의 필요조건으로는 유용하나, **하방 식립과 연조직 증식은 서로 다른 경로로 같은 생물학적 공간을 확보**하며 어느 쪽이 우위인지는 아직 단일 직접 비교(RCT 1편)만 있다.
 
 ## Three-line Summary
 
@@ -107,6 +110,8 @@ Modern management (STA terminology, tooth side): physiological vertical STA 2.73
 - [[periodontics/padilla-avallos-2026-supracrestal-tissue-attachment-biologic-width]] — tooth-side STA management, OCEBM levels
 - [[periodontics/hamasni-2017-biologic-width-restorative-dentistry]] — tooth-side biologic width measurement reference
 - [[periodontics/abdulkarim-2024-digital-assessment-supracrestal-tissue-attachment]] — digital (CBCT/scan) STA quantification
+- [[implants/mbl/linkevicius-2020-submerged-healing-abutment-subcrestal-soft-tissue]] — 2-year RCT: in ≤2 mm tissue, soft-tissue tenting to 3.65 mm lost more crestal bone (0.51 mm) than 1.5 mm subcrestal placement (0.18 mm, p=.001)
+- [[implants/mbl/linkevicius-2015-crestal-bone-stability-soft-tissue-thickening-matching]] — matching-connection prospective study: membrane thickening restored thick-mucosa-level MBL (0.31–0.34 mm) from thin-mucosa baseline (1.65–1.81 mm)
 - [[implants/soft-tissue/kadkhodazadeh-2018-junctional-epithelium-epithelial-attachment-implant]] — narrative review: peri-implant epithelium (PIE) attaches via hemidesmosomes + laminin-5/integrin α6β4; shorter/thinner than JE, lower probe resistance; "epithelial attachment" preferred over "junctional epithelium" for implants
 - [[implants/surface/safaei-2024-surface-topography-soft-tissue-implant]] — narrative review: nanotopography 10–100 nm prevents bacterial adhesion; ~30 nm TiO₂ nanotubes → M2 (anti-inflammatory), ~80–100 nm → M1; Ra <0.2 μm is the plaque-nonpromotion threshold (preclinical evidence only)
 

@@ -1,0 +1,15 @@
+TITLE: Efficacy of different methods used for dry socket prevention and risk factor analysis: A systematic review
+AUTHORS: Taberner-Vallverdú M; Sánchez-Garcés MÁ; Gay-Escoda C
+JOURNAL: Medicina oral, patologia oral y cirugia bucal
+YEAR: 2017
+DATE: 2017-11-01
+DOI: 10.4317/medoral.21705
+PMID: 29053647
+SOURCE: PubMed abstract (full text not retrieved)
+
+## ABSTRACT
+BACKGROUND: Dry socket is one of the most common complications that develops after the extraction of a permanent tooth, and its prevention is more effective than its treatment.
+OBJECTIVES: Analyze the efficacy of different methods used in preventing dry socket in order to decrease its incidence after tooth extraction.
+MATERIAL AND METHODS: A Cochrane and PubMed-MEDLINE database search was conducted with the search terms "dry socket", "prevention", "risk factors", "alveolar osteitis" and "fibrynolitic alveolitis", both individually and using the Boolean operator "AND". The inclusion criteria were: clinical studies including at least 30 patients, articles published from 2005 to 2015 and written in English. The exclusion criteria were case reports and nonhuman studies.
+RESULTS: 30 publications were selected from a total of 250. Six of the 30 were excluded after reading the full text. The final review included 24 articles: 9 prospective studies, 2 retrospective studies and 13 clinical trials. They were stratified according to their level of scientific evidence using SIGN criteria (Scottish Intercollegiate Guidelines Network).
+CONCLUSIONS: All treatments included in the review were aimed at decreasing the incidence of dry socket. Locally administering chlorhexidine or applying platelet-rich plasma reduces the likelihood of developing this complication. Antibiotic prescription does not avoid postoperative complications after lower third molar surgery. With regard to risk factors, all of the articles selected suggest that patient age, history of previous infection and the difficulty of the extraction are the most common predisposing factors for developing dry socket. There is no consensus that smoking, gender or menstrual cycles are risk factors. Taking the scientific quality of the articles evaluated into account, a level B recommendation has been given for the proposed-procedures in the prevention of dry socket.

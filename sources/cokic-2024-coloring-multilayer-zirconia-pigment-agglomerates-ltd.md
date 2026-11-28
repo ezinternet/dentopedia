@@ -16,7 +16,7 @@ Identifies a clinically important LTD failure mechanism specific to colored mult
 
 ## Three-line Summary
 
-In-vitro study (3 multilayer 5Y-PSZ discs: Lava Esthetic A2 and Bleach [with pigment agglomerates] vs Katana STML A2 [no agglomerates]): Lava Esthetic showed LTD degradation exclusively within Er-, Hf-, Al-containing pigment agglomerates (smaller grains: 0.57–0.38µm vs surrounding 0.92µm) with lower YO₃ content.
+In-vitro study (3 multilayer 5Y-PSZ discs: Lava Esthetic A2 and Bleach [with pigment agglomerates] vs Katana STML A2 [no agglomerates]): Lava Esthetic showed LTD degradation exclusively within Er-, Hf-, Al-containing pigment agglomerates (smaller grains: 0.57–0.38µm vs surrounding 0.92µm) with lower Y₂O₃ content.
 
 Katana STML (without pigment agglomerates) had significantly higher translucency parameter, higher flexural strength, and lower mechanical reliability compared to Lava Esthetic — but Lava Esthetic's lower TP/FS was due to pigments, not better LTD resistance.
 
@@ -24,7 +24,7 @@ Conclusion: rare-earth pigment agglomerates in colored multilayer zirconia are b
 
 ## 세줄요약
 
-5Y-PSZ 다층 지르코니아 3종(Lava Esthetic A2/Bleach [안료 응집체 포함] vs Katana STML A2 [미포함]), 나노SEM+XRD+라만분광: Lava Esthetic에서 LTD가 Er-Hf-Al 안료 응집체 내에서만 선택적 발생(더 작은 결정립 0.38–0.57µm, 낮은 YO₃).
+5Y-PSZ 다층 지르코니아 3종(Lava Esthetic A2/Bleach [안료 응집체 포함] vs Katana STML A2 [미포함]), 나노SEM+XRD+라만분광: Lava Esthetic에서 LTD가 Er-Hf-Al 안료 응집체 내에서만 선택적 발생(더 작은 결정립 0.38–0.57µm, 낮은 Y₂O₃).
 
 Katana STML(응집체 없음): 더 높은 TP, 더 높은 굴곡강도, 더 낮은 기계적 신뢰성 — 그러나 Lava Esthetic의 낮은 TP/FS는 안료 때문이지 더 나은 LTD 저항 때문 아님.
 
@@ -43,7 +43,7 @@ Katana STML(응집체 없음): 더 높은 TP, 더 높은 굴곡강도, 더 낮�
 ## 2. Key Contributions
 
 - Identifies pigment agglomerates as a novel LTD initiation site distinct from bulk surface nucleation
-- Shows smaller grain size (0.38–0.57µm) and lower YO₃ content in agglomerates explain their preferential transformation
+- Shows smaller grain size (0.38–0.57µm) and lower Y₂O₃ content in agglomerates explain their preferential transformation
 - Uses micro-Raman spectroscopy to assess aging sensitivity of pigments specifically
 - Challenges simplistic LTD models based solely on yttria content and grain size
 
@@ -57,8 +57,8 @@ Katana STML(응집체 없음): 더 높은 TP, 더 높은 굴곡강도, 더 낮�
 
 ## 4. Key Results and Benchmarks
 
-- All 3 materials: 4.2–5.7 mol% YO₃ tetragonal ZrO₂ phase, 42–55 wt% cubic ZrO₂
-- Lava Esthetic: pigment agglomerates = small grains (0.57 and 0.38µm) with lower YO₃ → Zr-AGG_A2 lowest aging resistance
+- All 3 materials: 4.2–5.7 mol% Y₂O₃ tetragonal ZrO₂ phase, 42–55 wt% cubic ZrO₂
+- Lava Esthetic: pigment agglomerates = small grains (0.57 and 0.38µm) with lower Y₂O₃ → Zr-AGG_A2 lowest aging resistance
 - LTD transformation occurred exclusively within agglomerates in Lava Esthetic
 - No statistical differences in hardness and toughness between materials
 - Katana STML: significantly higher TP + higher FS + lower mechanical reliability vs Lava Esthetic types

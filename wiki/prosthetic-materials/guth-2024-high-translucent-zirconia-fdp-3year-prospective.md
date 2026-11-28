@@ -6,7 +6,7 @@ date: 2024-12-16
 doi: "10.1007/s00784-024-06084-5"
 source: guth-2024-high-translucent-zirconia-fdp-3year-prospective.md
 category: [prosthetic-materials]
-confidence: prospective
+evidence_level: prospective
 text_path: /Users/oracleneo/llm-wiki/papers/guth-2024-high-translucent-zirconia-fdp-3year-prospective.txt
 text_filename: guth-2024-high-translucent-zirconia-fdp-3year-prospective.txt
 source_collection: pubmed-text
@@ -25,6 +25,22 @@ Prospective pilot (N=22, posterior 3-unit FDPs from 5Y-PSZ Lava Esthetic, 3yr) s
 ## 한줄요약
 
 전향 파일럿(N=22, 구치부 3유닛 5Y-PSZ FDP, 3년): 생존율 100%, 기계적 합병증 0건, FDI 전항목 허용 이상 — 5Y-PSZ 고투명 지르코니아 다유닛 FDP 최초 임상 데이터.
+
+## Three-line Summary
+
+Güth et al. (2024, LMU Munich) reported a prospective single-arm pilot study evaluating 22 posterior 3-unit FDPs fabricated from high-translucent shade-graded 5Y-PSZ zirconia (Lava Esthetic, Solventum Dental Solutions) over a 3-year follow-up. This represents the first published clinical data on 5Y-PSZ cubic zirconia in multi-unit posterior FDPs—the material had previously been limited to single crowns due to concerns about its lower fracture resistance vs 3Y-TZP.
+
+At 3 years, survival was 100% (21/21 evaluated; 1 dropout) with zero mechanical complications—no chipping, fractures, or loss of retention. Three biological complications arose (endodontic treatment, occlusal sensitivity, cervical caries), all successfully managed. Glaze layer wear was visible in 16 restorations after 2 years but not classified as failure. All FDI criteria were rated clinically acceptable or better.
+
+The finding of zero mechanical complications at 3 years is significant because it confirms that monolithic 5Y-PSZ design with appropriate connector dimensions can offset the material's lower fracture resistance versus 3Y-TZP, making it a viable clinical option for posterior multi-unit FDPs. This pilot data provides the initial clinical evidence base for 5Y-PSZ in multi-unit applications, complementing the SR+MA evidence for veneered zirconia (Romandini 2026).
+
+## 세줄요약
+
+귀스 등(2024, LMU 뮌헨)은 고투명 5Y-PSZ 지르코니아(Lava Esthetic)로 제작된 구치부 3유닛 FDP 22개를 3년 추적한 전향 파일럿 연구를 발표했다—다유닛 FDP에 적용한 5Y-PSZ 고투명 지르코니아의 최초 임상 데이터다. 5Y-PSZ는 파절 저항성 우려로 그동안 단관에만 제한됐었다.
+
+3년 생존율 100%(21/21 평가; 탈락 1명), 기계적 합병증 0건(치핑·파절·유지력 소실 없음). 생물학적 합병증 3건(근관치료·교합 과민·경부 우식)은 모두 처리됨. 2년 후 16개 수복물에서 유약층 마모가 관찰됐으나 실패로 분류되지 않음. FDI 전 항목 임상적으로 허용 이상.
+
+3년 기계적 합병증 0건: 적절한 연결부 치수를 갖춘 모놀리식 설계가 3Y-TZP 대비 낮은 파절 저항성을 상쇄함을 확인한다. 이 파일럿 데이터는 다유닛 FDP 적용에서 5Y-PSZ의 최초 임상 근거 기반을 제공한다.
 
 ## Summary
 

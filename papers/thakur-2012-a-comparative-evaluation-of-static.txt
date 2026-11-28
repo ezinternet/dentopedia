@@ -1,0 +1,13 @@
+TITLE: A Comparative Evaluation of Static and Functional Methods for Recording Centric Relation and Condylar Guidance: A Clinical Study
+AUTHORS: Thakur Mridul, Jain Veena, Parkash Hari, Kumar Pravesh
+JOURNAL: The Journal of the Indian Prosthodontic Society
+ID[pmcid]: PMC3416942
+ID[pmcid-ver]: PMC3416942.1
+ID[pmcaid]: 3416942
+ID[pmcaiid]: 3416942
+ID[pmid]: 23997468
+ID[doi]: 10.1007/s13191-012-0154-5
+ID[publisher-id]: 154
+
+## ABSTRACT
+To evaluate and compare the centric relation and horizontal condylar guidance using interocclusal wax and extra oral Gothic arch methods and subjective evaluation of dentures thus fabricated. Centric relation and horizontal condylar guidance was recorded by using interocclusal wax and gothic arch tracing in 28 completely edentulous patients. These records were transferred to the articulator and difference in both values was recorded. After that patients were divided in two groups according to the centric relation and horizontal condylar guidance recording method used to achieve balanced occlusion. Response of the dentures was subjectively evaluated using “Woelfel subjective evaluation criteria”. Centric relation recorded by both the methods did coincide in 7.14 % of patients. Centric relation recorded by interocclusal wax was posterior to Gothic centric relation in 21.43 % of patients, and anterior to Gothic centric relation in 71.42 % patients. Gothic arch tracings gave higher mean guidance values on both the sides as compared to protrusive wax record in all the subjects, although the difference was statistically insignificant (P > 0.05). Subjective evaluation showed statistical insignificance for all the parameters in both groups. Gothic arch method records the centric relation at a more posterior position than the Static method, but it does not make any difference in clinical performance of the complete denture. Horizontal condylar guidance angle was approximately similar by both the methods.

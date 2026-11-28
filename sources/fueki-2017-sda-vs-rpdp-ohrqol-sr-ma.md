@@ -13,6 +13,22 @@ source_collection: pubmed-abstract
 
 → [[removable-partial-denture/fueki-2017-sda-vs-rpdp-ohrqol-sr-ma]]
 
+## Three-line Summary
+
+SR+MA (2 RCTs + 1 non-RCT, N=516) comparing oral health-related quality of life (OHRQoL) between shortened dental arch (SDA), removable partial dental prosthesis (RPDP), and implant-supported fixed partial dental prosthesis (IFPDP) using OHIP; search covered 1980–November 2016.
+
+No statistically significant OHRQoL difference was found between SDA and RPDP at 6 months (SWMD 0.24) or 12 months (SWMD 0.40); SDA vs IFPDP evidence was insufficient (1 non-RCT only, SWMD −0.67 at 12 months favoring IFPDP but non-significant).
+
+SDA is an acceptable option when OHRQoL is the primary consideration; evidence is too limited to draw conclusions on IFPDP superiority over SDA.
+
+## 세줄요약
+
+SR+MA (RCT 2개 + 비RCT 1개, N=516): 단축치열 (Shortened Dental Arch, SDA) vs 국소의치 (Removable Partial Dental Prosthesis, RPDP) vs 임플란트 고정성 보철 (IFPDP) 간 구강건강관련 삶의 질 (OHRQoL, OHIP) 비교; 검색 기간 1980–2016년 11월.
+
+SDA vs RPDP 간 6개월 (SWMD 0.24), 12개월 (SWMD 0.40) 모두 유의한 OHRQoL 차이 없음; SDA vs IFPDP는 근거 불충분 (비RCT 1개, 12개월 SWMD −0.67 경향성만).
+
+OHRQoL 측면에서 SDA는 RPDP와 동등한 선택지; IFPDP와의 비교는 결론 불가.
+
 ## 1. Document Information
 
 - **Title**: Shortened dental arch and prosthetic effect on oral health-related quality of life: a systematic review and meta-analysis

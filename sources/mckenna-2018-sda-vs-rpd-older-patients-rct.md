@@ -16,6 +16,22 @@ text_filename: mckenna-2018-sda-vs-rpd-older-patients-rct.txt
 
 → [[removable-partial-denture/mckenna-2018-sda-vs-rpd-older-patients-rct]]
 
+## Three-line Summary
+
+McKenna et al. (2018) reported the 2-year follow-up results of a two-centre randomised controlled trial comparing SDA restoration (using resin-bonded bridgework to premolar occlusion) against full arch replacement with cobalt-chromium removable partial dentures (RPDs) in partially dentate patients aged ≥65 years. The study was conducted across two settings: Cork University Dental Hospital (CUDH, standard dental hospital) and St Finbarr's Geriatric Day Hospital (SFDH, mobile dental unit serving older, more systemically unwell patients), enabling comparison of SDA and RPD across different levels of patient frailty.
+
+SDA was significantly superior to RPD for oral health-related quality of life (OHRQoL) measured by OHIP-14 at all centres and timepoints, with the most pronounced difference observed at SFDH (SDA better by 7.9 OHIP-14 points, p<0.0001), where patients were older and had greater comorbidity. A critical temporal finding was that RPD improvements diminished after 6 months while SDA benefits continued to increase, and RPD patients required maintenance visits more than three times as frequently as SDA patients (p<0.001).
+
+This study represents the first multi-centre RCT demonstrating SDA superiority for OHRQoL specifically in elderly patients, extending the SDA concept beyond functional adequacy into patient-centred quality of life outcomes. The frailty dimension—SDA's advantage being larger in the more systemically unwell SFDH cohort—provides specific evidence for SDA as the preferred management strategy in elderly patients where prosthetic maintenance burden is clinically significant.
+
+## 세줄요약
+
+맥케나 등(2018)은 65세 이상 부분 무치악 환자를 대상으로 단축치열(Shortened Dental Arch, SDA) 회복(레진 접착 브릿지로 소구치 교합 복원) 대 완전 보철 가철성 국소의치(Removable Partial Denture, RPD) 처방을 비교한 2개 기관 무작위 대조 임상시험 2년 결과를 보고했다. 코크 대학치과병원(CUDH)과 세인트핀바 노인주간병원(SFDH, 더 고령·전신질환 많은 환자군) 두 기관에서 허약 수준에 따른 비교가 가능했다.
+
+SDA는 모든 기관·시점에서 구강건강관련삶의 질(Oral Health Related Quality of Life, OHRQoL, OHIP-14)에서 RPD를 유의하게 상회했으며, 허약한 SFDH 코호트에서 차이가 가장 컸다(SDA 7.9점 우수, p<0.0001). RPD 개선 효과는 6개월 이후 감소한 반면 SDA 편익은 지속적으로 증가했고, RPD 환자는 유지 방문이 3배 이상 많았다(p<0.001).
+
+이 연구는 고령 환자에서 SDA 우위를 OHRQoL로 최초 증명한 다기관 RCT로, 허약 노인일수록 SDA 편익이 더 크다는 임상적 함의를 제공한다. 보철 유지 부담이 큰 고령 환자에서 SDA가 선호 전략임을 지지하는 최고 수준 근거다.
+
 ## 1. Document Information
 
 - **Title**: Impact of oral rehabilitation on the quality of life of partially dentate elders in a randomised controlled clinical trial: 2 year follow-up

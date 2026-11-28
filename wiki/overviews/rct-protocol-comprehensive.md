@@ -2,10 +2,10 @@
 title: "근관치료 정립된 프로토콜 — 충전까지 5단계 종합 (RCT Protocol: Access to Obturation)"
 authors: synthesis (llm-wiki)
 year: 2026
-date: 2026-08-20
+date: 2026-11-22
 type: overview
 category: [overviews]
-tags: [endodontics, rct-protocol, access-cavity, shaping, working-length, eal, irrigation, obturation, coronal-restoration, overview]
+tags: [endodontics, rct-protocol, access-cavity, shaping, apical-patency, working-length, eal, irrigation, obturation, coronal-restoration, overview]
 source_papers: []
 evidence_level: synthesis
 source: synthesis
@@ -18,7 +18,8 @@ source: synthesis
 > - **TEC(전통직선접근)가 표준**. MIA(최소침습)는 임상 RCT 없이 잔류 debris↑·근관구 탐지↓·천공 위험↑ — 숙련 술자의 단순 단근관에서만 선택적. 복잡 해부는 유도 근관치료 고려.
 > - **세정이 핵심 병목** — 기구는 근관벽 10–80%를 못 건드리고, 형성 후에도 30–60%가 세균 양성. PUI(수동초음파세정)가 임상 근거 1순위(Orozco-Gallego 2025: 미생물 RD −0.15, 치유 RD −0.09). CNI(일반 주사기) 단독은 절대 금지.
 > - **작업장(WL)은 고정값이 아니라 진단 종속** — 생활치수·무병소는 근첨에서 약간 물러남(RA−1mm), 괴사+근단치주염은 AC 근접(RA−0.5mm). EAL "0"에서 전치 −0.85mm·구치 −0.70mm 권장 (기존 −0.5mm는 AC 미도달).
-> - **근관충전은 AC(방사선 근첨에서 0–2mm short)까지 dense fill, extrusion 없음**. 충전 기법(SC·CLC·WVC·CB)은 3년 이후 장기 결과에서 차이 소멸 — 술자 숙련도와 해부에 선택.
+> - **근단 개통성(Apical Patency, AP)은 형성 중 유지** — AP 유지 시 장기 치유율 약 2배(Kuzhanchinathan 2024 SR, 5편·4370근관, 5편 중 3편 유의; RCT 1편뿐이라 근거 제한적). 목표는 원래 형태를 존중하는 "해부학적 개통성"이지 근단 너머 강압 삽입("시술적 개통성")이 아님(Ishizaki 2026). 개통성이 술후 통증을 악화시킨다는 우려는 최신 메타분석에서 지지되지 않음.
+> - **근관충전은 AC(방사선 근첨에서 0–2mm short)까지 dense fill, extrusion 없음**. 충전 기법(SC·CLC·WVC·CB)은 24개월 구간에만 CLC·CB가 SC 대비 소폭 우위(β +5.0~+7.5%)였다가 3년 이후 수렴(Mushtaq 2026, GRADE 낮음~매우 낮음) — 술자 숙련도와 해부에 선택.
 > - **최종 보철 적합도가 최대 예후 인자** (Llena 2020) — 세정·충전 품질만큼 중요. coronal leakage가 치유 실패 주원인.
 > - 모든 세정제가 상아질을 연화·화학변성시킴 → 농도·시간 절제, 액상 선호. NaOCl+EDTA 사이 반드시 증류수 중간세정 (PCA 침전 방지).
 
@@ -26,11 +27,11 @@ source: synthesis
 
 Synthesis of 50+ endodontics papers (SR+MA, umbrella reviews, RCTs, landmark cohort studies) into the established 5-stage root canal treatment protocol from access cavity to obturation, drawing on overviews in access-cavity, EAL working-length, irrigation activation, and obturation length.
 
-Stage 1 (Access): TEC standard for normal anatomy; MIA is conditionally attractive but evidence-deficient; guided endodontics for PCO/complex anatomy. Stage 2 (Shaping): conservative NiTi instrumentation as irrigation access, not cleaning — instruments leave 10–80% of canal walls untouched (Siqueira 2018). Stage 3 (WL): EAL "0" minus 0.85 mm (anterior) / 0.70 mm (posterior); diagnosis-dependent tuning — vital cases tolerate a shorter terminus, necrosis + AP requires close-to-apex debridement (Chugal 2003: +14% failure per mm of WL loss). Stage 4 (Irrigation): NaOCl + PUI first-line, EDTA second-line, distilled-water intermediate flush mandatory, CNI single-use prohibited (Orozco-Gallego 2025 umbrella). Stage 5 (Obturation): fill to AC (0–2 mm short of radiographic apex), dense void-free, no extrusion; technique equivalence beyond 3 years (Mushtaq 2026 SR+MA 84 studies, n=11,965). Final coronal restoration quality is the dominant prognostic factor (Llena 2020).
+Stage 1 (Access): TEC standard for normal anatomy; MIA is conditionally attractive but evidence-deficient; guided endodontics for PCO/complex anatomy. Stage 2 (Shaping): conservative NiTi instrumentation as irrigation access, not cleaning — instruments leave 10–80% of canal walls untouched (Siqueira 2018); maintain anatomical apical patency during shaping (≈2× long-term healing, Kuzhanchinathan 2024 SR, limited evidence). Stage 3 (WL): EAL "0" minus 0.85 mm (anterior) / 0.70 mm (posterior); diagnosis-dependent tuning — vital cases tolerate a shorter terminus, necrosis + AP requires close-to-apex debridement (Chugal 2003: +14% failure per mm of WL loss). Stage 4 (Irrigation): NaOCl + PUI first-line, EDTA second-line, distilled-water intermediate flush mandatory, CNI single-use prohibited (Orozco-Gallego 2025 umbrella). Stage 5 (Obturation): fill to AC (0–2 mm short of radiographic apex), dense void-free, no extrusion; technique equivalence beyond 3 years (Mushtaq 2026 SR+MA 84 studies, n=11,965). Final coronal restoration quality is the dominant prognostic factor (Llena 2020).
 
 ## 세줄요약
 
-근관치료 정립 프로토콜 5단계: ①TEC 직선접근(표준) → ②보존적 NiTi 형성(세정 접근로 확보, 기구는 벽의 10–80% 미준비) → ③EAL 기반 작업장 측정(진단 종속: 전치 −0.85mm·구치 −0.70mm; 괴사+AP는 근첨 근접) → ④NaOCl+PUI+EDTA 세정(활성화 필수, CNI 단독 금지) → ⑤AC까지 dense 충전(extrusion 없음, 기법은 장기 동등).
+근관치료 정립 프로토콜 5단계: ①TEC 직선접근(표준) → ②보존적 NiTi 형성(세정 접근로 확보, 기구는 벽의 10–80% 미준비; 해부학적 근단 개통성 유지) → ③EAL 기반 작업장 측정(진단 종속: 전치 −0.85mm·구치 −0.70mm; 괴사+AP는 근첨 근접) → ④NaOCl+PUI+EDTA 세정(활성화 필수, CNI 단독 금지) → ⑤AC까지 dense 충전(extrusion 없음, 기법은 장기 동등).
 
 최종 보철 밀폐가 최대 예후 인자(Llena 2020); 충전 기법은 3년 이후 차이 소멸(Mushtaq 2026); 단회치료로 충분(단회 ≥ 다회; Wong 2015 RCT, Rossi-Fedele 2023 SR+MA).
 
@@ -109,8 +110,10 @@ This overview synthesizes content from the following wiki pages — it does not 
 - **Rotary/Reciprocating NiTi** + glide path 준비 → 근관 운반·파절 방지
 - **보존적 형성(minimal instrumentation)**: 상아질 벽 두께 보존이 수직치근파절 예방과 직결 (Lee 2026)
 - 형성의 목적은 **기구·세정액이 근첨까지 도달할 수 있는 통로 확보** — recess·isthmus의 biofilm 소독은 세정액의 화학작용과 활성화가 전담
+- **근단 개통성(Apical Patency, AP) 유지**: 형성 중 #10 K-file을 근단 수축부까지 반복 통과시켜 근단 폐쇄를 방지. AP 유지 시 장기 치유율 **약 2배**(Kuzhanchinathan 2024 SR, 5편·4370근관, 5편 중 3편 유의, RCT 1편 → 근거 제한적). 목표는 **해부학적 개통성**(원래 형태 존중)이지 근단 너머 강압 삽입인 시술적 개통성이 아님(Ishizaki 2026). 술후 통증 악화 우려는 최신 메타분석에서 지지되지 않으나 개별 연구는 상충 → 근단 밖 압출을 최소화하는 선에서 "노력하되 강압하지 않는다". 달성 실패가 곧 실패 예후는 아님.
+- **곡관 기구 선택**: 글라이드패스는 수동 SS K-file보다 rotary pathfinder가 이송(transportation)이 적고 rotary끼리는 동등; 본 형성은 곡관에서 low-taper 우선; file 폐기 기준은 멸균 횟수가 아니라 사용 횟수+곡률 노출 — 전부 bench 근거 ([[overviews/canal-shaping-glidepath-niti-fatigue-overview]])
 
-> 출처: [[endodontics/shaping/siqueira-2018-unprepared-root-canal-surface-areas]], [[endodontics/shaping/lee-2026-residual-pericervical-apical-dentine-vertical]]
+> 출처: [[endodontics/shaping/siqueira-2018-unprepared-root-canal-surface-areas]], [[endodontics/shaping/lee-2026-residual-pericervical-apical-dentine-vertical]], [[endodontics/shaping/kuzhanchinathan-2024-influence-apical-patency-endodontic-treatment]], [[endodontics/shaping/ishizaki-2026-clinical-significance-anatomical-considerations-apical-patency]], [[overviews/apical-patency-endodontic-outcome-overview]]
 
 ---
 
@@ -275,6 +278,7 @@ Mushtaq 2026 (SR+MA, **84편·11,965표본**): 기법 간 유의한 차이는 **
 ├─────────────────────────────────────────────────────────┤
 │  3. Glide path → Rotary/Reciprocating NiTi 형성           │
 │     → 보존적 형상 목표 (상아질 벽 두께 보존)                  │
+│     → 해부학적 근단 개통성 유지 (#10 K-file, 강압 금지)       │
 ├─────────────────────────────────────────────────────────┤
 │  4. 작업장 측정 (EAL + 방사선)                              │
 │     → 전치: "0" −0.85mm / 구치: −0.70mm                   │
@@ -314,8 +318,9 @@ Mushtaq 2026 (SR+MA, **84편·11,965표본**): 기법 간 유의한 차이는 **
 | **최종 보철 적합도** | 최대 조절 변수 | Llena 2020 |
 | **충전 밀도 (void 없음)** | 유의 | Ng 2007 |
 | **WL 정확도** | 진단 의존적 | Chugal 2003 (1mm당 실패 +14%) |
+| **근단 개통성 유지** | 유의 가능 (장기 치유 ~2배, 근거 제한적) | Kuzhanchinathan 2024 |
 | **충전 길이 (AC 근접)** | 유의 (0–2mm short) | Schaeffer 2005, Ng 2007 |
-| **충전 기법** | 이차적 (3년 이후 차이 소멸) | Mushtaq 2026 |
+| **충전 기법** | 이차적 (24개월 일시 차이, 3년 이후 수렴) | Mushtaq 2026 |
 | **과충전 (extrusion)** | 성공률↓ | Ricucci 2011, Schaeffer 2005 |
 | **농양·대형병소·누공** | 예후 악화 | Artaza 2024 |
 
@@ -327,6 +332,8 @@ Mushtaq 2026 (SR+MA, **84편·11,965표본**): 기법 간 유의한 차이는 **
 - **레이저 활성화 outcome-level RCT**: Fiegler-Rudol 2025 대리지표 일관 우위, 단 12개월 치유 RCT 부재 (Doğan 2024 NS)
 - **PUI vs ANP 임상 치유 head-to-head RCT**: 도달은 ANP 우위, 치유는 PUI 우위 — 어느 쪽이 실제 결과를 결정하는지 미확정
 - **WL 진단별 RCT**: Chugal 2003의 진단-stratified WL 효과를 현대 프로토콜로 재검증
+- **근단 개통성 RCT**: 장기 치유 ~2배 신호가 SR 5편 중 RCT 1편에 의존 — 술후 통증·압출과의 trade-off 포함한 RCT 필요
+- **곡관 기구 선택의 임상 종점**: 글라이드패스·NiTi 피로 근거는 전부 bench — in-vivo 파절률·치유율 연결 데이터 없음
 - **최종 보철 품질 vs 치유 인과관계**: Ricucci(무영향) vs Ng(유의) 충돌 미해결
 - **상아질 손상 → 파절 임상 연결**: 세정제 미세경도 감소 ↔ 실제 치근 파절률 데이터 부족
 
@@ -342,3 +349,7 @@ Mushtaq 2026 (SR+MA, **84편·11,965표본**): 기법 간 유의한 차이는 **
 - [[overviews/single-vs-multivisit-endodontic-outcomes-overview]] — 단회 vs 다회
 - [[endodontics/irrigation/llena-2020-outcome-root-canal-treatments-provided]] — 최종 보철 = 최대 예후 인자
 - [[overviews/endodontics-comprehensive-ladder]] — VPT·재생·균열치 결정 사다리
+- [[overviews/apical-patency-endodontic-outcome-overview]] — Stage 2 상세 (근단 개통성: 해부학적 vs 시술적, 장기 치유 ~2배)
+- [[overviews/canal-shaping-glidepath-niti-fatigue-overview]] — Stage 2 상세 (글라이드패스·곡관 형성·NiTi 순환피로·멸균, bench 근거)
+- [[overviews/endodontic-postoperative-pain-overview]] — 술후 통증 (최강 변수는 술전 증상 상태, 공통 매개는 근단 밖 압출)
+- [[overviews/vertical-root-fracture-overview]] — 장기 실패 축 (재근관치료·근단 상아질 과삭제가 위험인자 → Stage 2 보존적 형성의 근거)

@@ -1,0 +1,59 @@
+PMID: 41857601
+PMCID: PMC13123174
+DOI: 10.1186/s12903-026-08146-4
+Title: Assessment and localization of the posterior superior alveolar artery in lateral window approach for maxillary sinus floor elevation
+Authors: Urechescu H, Pricop M, Cuzic C, Oncescu NG, Pricop A, Streian F
+Journal: BMC Oral Health
+Year: 2026
+Published: 2026-03-19
+
+ABSTRACT:
+BACKGROUND: Maxillary sinus (MS) floor elevation using the lateral window approach is a predictable technique for bone augmentation in the posterior maxilla. However, injury to the posterior superior alveolar artery (PSAA) during osteotomy can result in significant intraoperative bleeding and compromise surgical visibility. This study aimed to evaluate the presence, anatomical location, and vertical distance of the PSAA using cone-beam computed tomography (CBCT) and to analyze its relationship with the vertical position of the simulated lateral window relative to the sinus floor, relevant to sinus floor elevation procedures.
+
+METHODS: A retrospective observational analysis was performed on 1152 MS assessed on CBCT scans obtained for various diagnostic purposes. Scans fully visualizing the MS and lateral wall were included. The PSAA was identified and classified according to its anatomical location: intraosseous, submucosal, or extraosseous. The vertical distance between the artery and the sinus floor was measured, and the vertical position of the simulated lateral window relative to the sinus floor was categorized into four classes (0-3 mm, 3-8 mm, 8-11 mm, and > 11 mm).
+
+RESULTS: The PSAA was identified in 68.1% of evaluated MS and was more frequently visible in males than in females. The artery was most commonly located beneath the Schneiderian membrane (48.6%), followed by intraosseous (17.6%) and extraosseous (1.8%) courses. The mean distance from the sinus floor was 8.3 ± 4.3 mm. Higher vertical positions of the simulated lateral window were significantly, although weakly, associated with an intraosseous arterial course.
+
+CONCLUSIONS: The PSAA is identifiable on CBCT in approximately two-thirds of MS, most commonly following a submucosal course, with a mean distance of 8.3 mm from the sinus floor. PSAA location was significantly associated with the vertical position of the simulated lateral window relative to the sinus floor, supporting the value of CBCT-based anatomical assessment for preoperative lateral window planning in MS floor elevation procedures.
+
+FULL TEXT:
+[Background section]
+Rehabilitation of the posterior edentulous maxilla often presents a significant challenge in oral and maxillofacial surgery due to limited bone height resulting from anatomical constraints or post-extraction bone resorption. Maxillary sinus (MS) floor elevation has become the gold-standard technique to address this limitation. Lateral wall sinus floor elevation involves creating a bony window in the lateral wall of the MS to elevate the Schneiderian membrane and place a bone graft beneath it, thereby increasing vertical bone height for implant placement.
+
+Arterial supply of the MS walls is provided primarily by three main arteries, subdivisions of the maxillary artery: the infraorbital artery (IOA), the posterior lateral nasal artery, and the posterior superior alveolar artery (PSAA), all of which may be encountered during lateral approach sinus elevation surgery. The lateral maxilla is supplied by branches of PSAA and the IOA that form an anastomosis, alveolar antral artery, which also supplies the Schneiderian membrane.
+
+The lateral osteotomy window is generally created 2-3 mm above the floor of the MS, with its superior border and overall length determined by the number and size of the implants planned for placement. The height of the lateral window for MS floor elevation can be classified as small (<5 mm), medium (5-8 mm), or large (>8 mm).
+
+[Methods]
+Retrospective observational analysis. n=1152 maxillary sinuses (547 male, 605 female). CBCT scans from Municipal Emergency Hospital, Timisoara, Romania. PSAA classified as: Class 1 intraosseous (canal completely encased within bone), Class 2 submucosal (immediately beneath Schneiderian membrane), Class 3 extraosseous (along external cortical surface).
+
+Lateral window vertical position classified into four classes:
+- Class 1: 0-3 mm (PSAA below inferior border of window, no interference)
+- Class 2: 3-8 mm (small window, single-implant sites)
+- Class 3: 8-11 mm (medium window, 1-2 implants)
+- Class 4: >11 mm (large window, multiple implants)
+
+Inter-observer reliability: Cohen's kappa κ = 0.87 (almost perfect agreement).
+
+[Key Results]
+- PSAA detection rate: 68.1% overall (72.4% male, 64.1% female)
+- Anatomical location of identified PSAAs (n=784):
+  * Submucosal (Class 2): 48.6% (n=560)
+  * Intraosseous (Class 1): 17.6% (n=203)
+  * Extraosseous (Class 3): 1.8% (n=21)
+  * Total identified: 68.1% of 1152 sinuses
+- Mean vertical distance from sinus floor: 8.30 mm (SD=4.31, 95% CI [8.00, 8.60])
+- Window class distribution:
+  * <3mm (no interference): 22.7%
+  * 3-8mm (small): 44.3%
+  * 8-11mm (medium): 23.9%
+  * >11mm (large): 9.1%
+- Chi-square test: significant association between window position and PSAA location (χ²(6)=19.11, p=0.004; Cramer's V=0.111 — weak)
+- Large window (>11mm): significantly more intraosseous PSAA (standardized residual=2.3)
+- Mean distance by window class (all): <3mm=2.0±0.7mm; 3-8mm=5.9±2.9mm; 8-11mm=9.4±0.9mm; >11mm=14.2±2.9mm
+
+[Discussion key points]
+The predominance of submucosal PSAA course is consistent with thin bony component of lateral sinus wall and close PSAA-sinus mucosa relationship. Intraosseous course more frequent at higher vertical positions may reflect anatomical variations in lateral wall thickness. Higher vertical window positioning → more likely to encounter intraosseous vascular canal. Comparison to literature: Tofangchiha 2022 (intraosseous 63.6%), Torkzadeh 2024 (intraosseous 54.8%), Alqhtani 2025 (submucosal most frequent). Gulec 2025 mean distances comparable.
+
+[Conclusions]
+PSAA identifiable in ~2/3 MS, most commonly submucosal course, mean distance 8.3mm from sinus floor. Statistically significant (weak) association between lateral window vertical position and PSAA anatomical location. Higher vertical windows → more intraosseous PSAA. Supports CBCT-based anatomical assessment for individualized lateral window planning.

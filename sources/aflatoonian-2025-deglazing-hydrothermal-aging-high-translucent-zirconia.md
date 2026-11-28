@@ -56,7 +56,7 @@ XRD: DG-A 4.23%, NG-A 7.63% 단사정 — 글레이즈 제거 후 소량의 t→
 
 ## 3. Methodology and Architecture
 
-- 40 discs (12mm diameter, 1.2mm), milled, sintered, all initially glazed
+- 40 discs (12mm diameter, 1.2mm), milled, sintered; G/G-A/DG-A glazed, NG-A never glazed
 - Groups: G (glaze only), G-A (glaze + aging), DG-A (remove glaze + aging), NG-A (never glazed + aging)
 - Combined aging sequence: hydrothermal (134°C) → pH cycling → load cycling
 - Biaxial flexural strength (ISO 6872, piston-on-3-balls setup)

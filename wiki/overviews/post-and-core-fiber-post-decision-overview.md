@@ -52,6 +52,7 @@ tags: [post-and-core, fiber-post, ferrule, endocrown, endodontically-treated-tee
 > - **[2026-08-08 추가] 최소~중등도 손상 ETT: 직접 레진도 viable option**: 구치부(Suksaphar 2017, 3편, n=623)에서 최대 3면 손상까지 직접 레진과 크라운 생존율 동등(94-100% vs 91.9-100%). 전치부 cervical lesion(Intaraprasong 2024, n=175, 평균 32.9개월)에서도 단순 1면 손상에 레진 96.15% vs 크라운 100%로 동등 — 다만 추가 치질 소실 시 파절 위험 7.25배(HR 7.25, 95% CI 1.68-31.30).
 > - **[2026-08-08 추가] 전치부: 크라운 > 레진, 단 선택 기준 있음**: 전향 코호트(Phengudom 2021, n=263, 평균 38개월)에서 전치부 crown(99.1%) > 직접 레진(90.4%, P<0.01). 레진에서 파절 위험인자: cervical wall <3벽(HR 8.95), 치근 두께-근관 폭 비 <1:1:1(HR 12.98), 구치부 지지 소실(HR 9.05), 이갈이(HR 19.37). 이 인자들이 없으면 레진도 크라운과 동등.
 > - **[2026-08-08 추가] 실제 개원가 3~5년 데이터**: PEARL Network 후향 코호트(Spielman 2012, n=1,298, 64개 개원 치과)에서 수복 실패율 13.9%(95% CI 12.1-15.8%). 성공 예측인자: 구치부, full-coverage 수복, 인접면 접촉 유지, 건전한 치주 상태, 전문의 근관치료. 이 데이터는 대학병원이 아닌 일반 개원가 기반이라 임상 현실 반영도 높음.
+> - **[2026-11-10 추가] 엔도크라운 SR의 SR(Morimoto 2024, 9편)**: 세라믹·간접 레진 엔도크라운 (Endocrown)의 5년 생존·성공률은 포스트를 쓴 통상 크라운과 유사하고, 주된 실패는 유지력 상실(대구치·소구치 비슷). 다만 포함 SR의 방법론적 질이 낮고 1차 연구 중복이 매우 커서 확정적 결론은 불가 — 지르코니아·금속 재료와 환자보고결과 (Patient-Reported Outcome Measures, PROMs) 근거는 없음.
 
 ## Three-line Summary
 
@@ -136,3 +137,15 @@ Restoring an endodontically treated tooth is repeatedly mis-framed as "which pos
 Alkahtani 2010 (in vitro fluid-filtration, n=70 single-rooted teeth; 2×2 factorial: eugenol vs AH26 sealer × immediate vs delayed post cementation) found that **neither sealer type nor cementation timing** significantly affected ParaPost microleakage. Instead, leakage increased significantly over time (24 h → 2 months → 3 months) in all groups, with persistent voids at the resin–dentin interface. The clinical implication: for resin-cemented posts, the ferrule and long-term resin–dentin bond durability outweigh sealer selection. This extends the overview's "ferrule first, post second" principle by adding a temporal dimension — even optimally designed restorations degrade at the interface over months.
 
 [[post-and-core/alkahtani-2010-root-canal-sealers-timing-parapost]]
+
+## Evidence Update — Endocrowns: Nine Reviews, One Body of Evidence (2026-11-10)
+
+[[inlay/morimoto-2024-endocrown-overview-systematic-reviews]] is an overview of 9 systematic reviews of one-piece endodontic crowns in posterior teeth, searched to June 2024.
+
+- Ceramic and indirect-resin endocrowns show high 5-year survival and success, comparable to conventional crowns with posts.
+- Loss of retention is the dominant failure mode, at similar rates in molars and premolars.
+- The authors decline to draw firm conclusions: the included reviews are of low methodological quality and overlap very heavily in their primary studies. There is no evidence for zirconia or metal endocrowns, and none on patient-reported outcomes.
+
+**Where it fits.** This page lists the endocrown as the post-free alternative. Morimoto supports keeping it there for posterior teeth and identifies the weak point: the failure mode is adhesive, so the option is only as good as the bonding protocol and the enamel available to bond to. The similar premolar and molar retention rates are worth noting because premolars are usually considered the riskier indication.
+
+**Caution on counting.** Nine reviews agreeing is not nine independent confirmations when they pool largely the same trials. The evidence weight here is closer to a single moderate-sized body of studies read nine times.

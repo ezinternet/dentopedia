@@ -1,0 +1,10 @@
+Comparative safety of NSAIDs for gastrointestinal events in Asia-Pacific populations: A multi-database, international cohort study.
+Lai EC, Shin JY, Kubota K, Man KKC, Park BJ, Pratt N, Roughead EE, Wong ICK, Kao Yang YH, Setoguchi S.
+Pharmacoepidemiol Drug Saf. 2018 Nov;27(11):1223-1230. doi:10.1002/pds.4663. PMID 30232832. (abstract only; no PMC full text)
+
+ABSTRACT
+The safety of nonsteroidal anti-inflammatory drugs (NSAIDs) commonly used in Asia-Pacific countries has had limited study. We assessed the risk of hospitalization for gastrointestinal events with loxoprofen and mefenamic acid compared with other NSAIDs in Asia-Pacific populations.
+We conducted a cohort study using a distributed network with a common data model in Australia, Hong Kong, Japan, Korea, and Taiwan. We included patients who initiated diclofenac, loxoprofen, mefenamic acid, or celecoxib and followed them until their first gastrointestinal hospitalization, switch or discontinuation of medication, disenrollment, or end of database coverage. We used Cox proportional hazards models to assess hospitalization risk.
+We identified 9879 patients in Japan, 70 492 in Taiwan, 263 741 in Korea, and 246 in Hong Kong who initiated an NSAID, and 44 013 patients in Australia, a predominantly Caucasian population. The incidence of gastrointestinal hospitalization was 25.6 per 1000 person-years in Japan, 32.8 in Taiwan, 11.5 in Korea, 484.5 in Hong Kong, and 35.6 in Australia. Compared with diclofenac, the risk of gastrointestinal events with loxoprofen was significantly lower in Korea (hazards ratio, 0.37; 95% CI, 0.25-0.54) but not in Japan (1.65; 95% CI, 0.47-5.78). The risk of gastrointestinal events with mefenamic acid was significantly lower in Taiwan (0.45; 95% CI, 0.26-0.78) and Korea (0.11; 95% CI, 0.05-0.27) but not Hong Kong (2.16; 95% CI, 0.28-16.87), compared with diclofenac.
+Compared with diclofenac, loxoprofen was associated with a lower risk of gastrointestinal hospitalizations in Korea and mefenamic acid with a lower risk in Taiwan and Korea.
+Keywords: anti-inflammatory agents; non-steroidal; pharmacoepidemiology

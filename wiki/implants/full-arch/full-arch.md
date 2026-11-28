@@ -2,7 +2,7 @@
 title: "임플란트·전악수복 — full-arch"
 authors: navigation
 year: 2026
-date: 2026-10-07
+date: 2026-11-11
 doi: N/A
 source: navigation
 category: implants/full-arch
@@ -15,17 +15,17 @@ tags: [navigation, category-index, full-arch]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·전악수복
 > - **범위**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperios…
-> - **수록 논문**: 67편
+> - **수록 논문**: 66편
 
 ## Three-line Summary
 
 **Scope**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperiosteal).
-**Indexed papers**: 67 papers in `wiki/implants/full-arch/`.
+**Indexed papers**: 66 papers in `wiki/implants/full-arch/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·전악수복
-**수록 논문**: 67편
+**수록 논문**: 66편
 **하위 카테고리**: 없음
 
 ## Papers in this Category (66)
@@ -34,7 +34,6 @@ tags: [navigation, category-index, full-arch]
 |---|
 | [[abdunabi-2019-immediately-loaded-maxillary-full-arch-sr|Impact of immediately loaded implant-supported maxillary full-arch dental prostheses: a systematic review]] |
 | [[aboelez-2026-clinical-and-prosthetic-outcomes-of|Clinical and Prosthetic Outcomes of Titanium Zirconium Versus PEEK Composite Maxillary Fixed Prostheses Opposing Distal Extension Partial Dentures: Comparative Clinical Study]] |
-| [[acar-2026-full-arch-bruxism-complications-4-10yr|Long-term outcomes and complications of full-arch implant-supported fixed prostheses: a 4–10 year retrospective study]] |
 | [[acar-2026-full-arch-bruxism-complications-4-10yr|Long-term outcomes and complications of full-arch implant-supported fixed prostheses: a 4–10 year retrospective study]] |
 | [[alshahrani-2026-zirconia-full-arch-3300-5yr|Five-year survival and failure patterns of complete arch fixed implant-supported monolithic zirconia prostheses: A retrospective analysis of 3300 laboratory cases]] |
 | [[bagnasco-2024-evaluation-of-internal-and-external|Evaluation of Internal and External Hexagon Connections in Immediately Loaded Full-Arch Rehabilitations: A Multicenter Randomized Split-Mouth Controlled Trial With a 6-Year Follow-Up]] |
@@ -50,11 +49,11 @@ tags: [navigation, category-index, full-arch]
 | [[cuello-de-garcia-2026-zirconia-height-cantilever-fracture-in-vitro|Effect of Zirconia Height on the Fracture Resistance of Cantilever Full-Arch Implant-Supported Prostheses: An In-Vitro Study]] |
 | [[de-araujo-nobre-2025-mandibular-all-on-four-20-25yr|Immediate full-arch mandibular rehabilitation supported by four implants: A retrospective study with 20 to 25 years of follow-up]] |
 | [[de-araujo-nobre-2026-maxillary-all-on-four-15-20yr|Immediate Full-Arch Maxillary Rehabilitation Supported by Four Implants: A Retrospective Study with 15 to 20 Years of Follow-Up]] |
-| [[zhang-2022-all-on-four-vs-six-cohort-3-13yr|Comparison of 4- or 6-implant supported immediate full-arch fixed prostheses: A retrospective cohort study of 217 patients followed up for 3-13 years]] |
 | [[del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma|Outcomes of Fixed Full-Arch Rehabilitations Supported by Tilted and Axially Placed Implants: A Systematic Review and Meta-Analysis]] |
 | [[emam-2025-evaluation-of-the-marginal-gap|Evaluation of the marginal gap and the three-dimensional trueness of suprastructures generated from scanning two different substructure framework materials for full arch implant-supported restorations]] |
 | [[eskan-2020-tapered-implants-full-arch-immediate-function|Tapered BLT Implants for Full-Arch Immediate Function: 55-Month Retrospective]] |
 | [[fan-2026-rescue-therapy-with-quad-zygoma|Rescue Therapy With Quad Zygoma After Failure of Full-Arch Implant Rehabilitation: A Retrospective Study With a Mean Follow-Up of 8 Years]] |
+| [[fernandez-ruiz-2021-evaluation-of-quality-of-life|Evaluation of Quality of Life and Satisfaction in Patients with Fixed Prostheses on Zygomatic Implants Compared with the All-on-Four Concept: A Prospective Randomized Clinical Study]] |
 | [[figueiredo-2025-all-on-four-overview-sr|Rehabilitation of edentulous jaws using the 'All-on-Four' treatment concept: an overview of systematic reviews]] |
 | [[fiorellini-2026-global-consensus-edentulous-maxilla-group3|Consensus Report of Group 3 of the 1st Global Consensus for Clinical Guidelines for the Rehabilitation of the Edentulous Maxilla: Advanced Diagnostic Imaging, Augmentation Techniques, and Management of Complications]] |
 | [[gaonkar-2021-survival-rates-of-axial-and|Survival Rates of Axial and Tilted Implants in the Rehabilitation of Edentulous Jaws Using the All-on-Four Concept: A Systematic Review]] |
@@ -89,6 +88,7 @@ tags: [navigation, category-index, full-arch]
 | [[rossi-2021-two-year-follow-up-of|Two-Year Follow-Up of 4-mm-Long Implants Used as Distal Support of Full-Arch FDPs Compared to 10-mm Implants Installed after Sinus Floor Elevation. A Randomized Clinical Trial]] |
 | [[schwarz-2026-global-consensus-edentulous-maxilla-guidelines|First Global Consensus for Clinical Guidelines: Structured Recommendations (S2k-Level Guideline Framework) for the Rehabilitation of the Edentulous Maxilla Based on Core Outcome Sets]] |
 | [[scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma|Zygomatic implants for rehabilitation of head and neck cancer patients: a systematic review and meta-analysis]] |
+| [[seok-2023-tilted-implants-implant-supported-fixed-hybrid|Tilted implants for implant-supported fixed hybrid prostheses: retrospective review]] |
 | [[shao-2026-all-on-four-vs-all-on-six-sr-ma|All-on-4 and All-on-6 implant-supported fixed prostheses for the edentulous jaw: a systematic review and meta-analysis]] |
 | [[storelli-2021-use-of-narrow-diameter-implants|Use of Narrow-Diameter Implants in Completely Edentulous Patients as a Prosthetic Alternative: A Systematic Review]] |
 | [[szabo-2022-all-on-four-tilted-distal-implants-mbl|Distally Tilted Implants in All-on-Four: 3.5-Year Retrospective MBL Study]] |
@@ -96,3 +96,5 @@ tags: [navigation, category-index, full-arch]
 | [[topdagi-2026-all-on-4-bone-type-outcomes|Medium-term clinical outcomes of the all-on-4 system in different bone types: a retrospective analysis]] |
 | [[uesugi-2024-risk-factors-early-failure-all-on-four|Associated Risk Factors for Early Failure and the Effect of Photofunctionalisation in Full-Arch Immediate Loading (All-on-Four)]] |
 | [[uesugi-2026-investigation-of-the-long-term|Investigation of the long-term prognosis (3–13 Years) of full mouth implant prosthetics combining zygomatic implants based on the all-on-four concept]] |
+| [[visconti-2026-zygomatic-implants-severely-atrophic|Cochrane SR: Zygomatic Implants for the Severely Atrophic Edentulous Maxilla]] |
+| [[zhang-2022-all-on-four-vs-six-cohort-3-13yr|Comparison of 4- or 6-implant supported immediate full-arch fixed prostheses: A retrospective cohort study of 217 patients followed up for 3-13 years]] |

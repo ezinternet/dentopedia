@@ -1,0 +1,338 @@
+TITLE: Lift with precision: Microsurgical application in maxillary sinus elevation
+AUTHORS: Sun Teresa Chanting, Tu Kang‐Wei, Chen Bor‐Jian
+JOURNAL: Clinical Advances in Periodontics
+ID[pmcid]: PMC13080432
+ID[pmcid-ver]: PMC13080432.1
+ID[pmcaid]: 13080432
+ID[pmcaiid]: 13080432
+ID[pmid]: 41982187
+ID[doi]: 10.1002/cap.70041
+ID[publisher-id]: CAP70041
+
+## ABSTRACT
+Abstract
+BackgroundSinus augmentation is a key procedure in implant dentistry for managing vertical bone loss in the posterior maxilla. However, conventional techniques may present limitations in precision, complication management, and ergonomics. The operating microscope has been introduced to enhance precision during procedures performed in anatomically complex maxillary sinus regions. This review aims to examine the fundamental principle, clinical application, and instrumentation of microscope‐assisted sinus augmentation, with a focus on lateral and transcrestal approaches, and to evaluate current evidence in comparison to conventional methods.
+MethodsA narrative review was conducted on studies published between 1986 and 2025 in PubMed, Web of Science, and Google Scholar, supplemented by manual reference checks. The review synthesized evidence on the application of microscope in lateral and transcrestal sinus augmentation, microsurgical instrumentation, ergonomic strategies, and piezoelectric, osteotome, and osseodensification techniques under magnification, as well as recent clinical outcomes of microscope‐assisted augmentation.
+ResultsMicroscope‐assisted sinus augmentation offers distinct advantages in both lateral and transcrestal approaches. In lateral procedures, enhanced visualization enables smaller antrostomy sizes, precise lateral wall preparation, and improved membrane handling, thereby reducing the risk of perforation and postoperative complications. Transcrestal techniques may reduce patient morbidity, and lower the risk of sinus membrane perforation. Both approaches are associated with improved operator posture and ergonomic stability, contributing to greater practitioner comfort. Nevertheless, evidence remains limited, relying largely on small‐scale studies with heterogeneous methodologies and short‐term follow‐up.
+ConclusionMicroscope‐assisted sinus augmentation shows promising result but requires validation through randomized controlled trials with long‐term outcomes to establish its clinical superiority and broader applicability.
+Key points
+Microscope‐assisted sinus augmentation enhances precision and safety by enabling smaller antrostomies, more accurate bone preparation, and improved membrane handling.It benefits both lateral and transcrestal approaches, reducing morbidity and the risk of perforation.Operating microscope also improves surgeon ergonomics, although long‐term, high‐quality evidence is still needed.
+Plain language summaryWhen people lose teeth in the back of the upper jaw, there often is not enough bone left to place dental implants. To fix this, a procedure called sinus augmentation is used to build‐up bone in that area. Traditionally, this can be difficult due to limited visibility and a higher risk of complications. This review looked at how using an operating microscope during sinus augmentation can improve the process. The microscope gives dentists a clearer view, allowing for smaller operation area and more careful handling of the sinus membrane, which may lower the risk of tearing and other complications. It can be used with different techniques and also helps improve the dentist's working posture. Early findings suggest that microscope‐assisted procedures may lead to fewer complications and better outcomes for both patients and clinicians. However, current evidence comes mostly from small studies with short follow‐ups. More rigorous research is needed to confirm whether this approach is truly better than traditional methods.
+
+## FUNDAMENTAL PRINCIPLES OF MICROSCOPE IN SINUS AUGMENTATION
+
+Modern surgical techniques increasingly emphasize the principle of “seeing is believing,” recognizing that a clear visual field is essential for precision and accuracy. The evolution from unaided vision to the use of surgical loupes, and subsequently to high‐magnification operating microscopes, has enabled clinicians to visualize fine anatomical details, facilitating more meticulous and controlled interventions. This principle highlights the critical role of magnification in modern surgical practice, enhancing procedural accuracy, safety, and efficiency, and ultimately leading to improved clinical outcomes.
+
+Maxillary sinus augmentation, initially developed by Tatum in 1986 using the lateral window technique
+1
+ and later refined by Summer in 1994 with the osteotome approach,
+2
+ has undergone significant advancements aimed to reduce invasiveness while maintaining comparable predictability. Sinus augmentation procedures can be broadly categorized into two approaches: lateral and transcrestal techniques. Furthermore, implant placement may be performed either simultaneously with sinus augmentation or in a staged manner.
+
+Lateral sinus augmentation involves creating an access window through the lateral osseous wall to elevate the Schneiderian membrane. This technique allows for the vertical augmentation of up to 9 mm or more, which is generally sufficient to compensate for alveolar bone deficiency.
+3
+ Alternatively, transcrestal sinus augmentation is considered as a minimally invasive approach compared to the lateral technique. Various strategies for the transcrestal approach have been developed to achieve predictable outcomes. The traditional osteotome technique typically results in a vertical bone gain ranging from 3 to 9 mm.
+4
+, 
+5
+, 
+6
+ More recently, the osseodensification technique has demonstrated a significant vertical augmentation of approximately 7.0 ± 2.49 mm, achieved without sinus membrane perforation.
+7
+
+The decision between simultaneous implantation and a staged approach primarily depends on the level of implant primary stability achievable at the time of augmentation. Residual bone height is one of major factors influencing the attainment of adequate primary stability. According to the ABC classification proposed by Wang and Katranji,
+8
+ even when the residual ridge height to the sinus floor is ≤5 mm, simultaneous implant placement can be performed, if sufficient primary stability is achieved.
+
+Despite the high implant survival rates of 92%–98% reported for both lateral and transcrestal approaches, complications can still arise and potentially compromise overall implant success.
+9
+, 
+10
+ Traditionally performed under unaided vision, sinus augmentation has been associated with intraoperative challenges, including membrane perforation, bleeding, as well as postoperative complications such as swelling, pain, infection, sinusitis, graft material displacement, and oroantral fistula formation.
+9
+, 
+10
+ Most studies reported sinus membrane perforation as the most common intraoperative complication, with incidence rates ranging from 0% to 58.2% and 0% to 21.4% for lateral and transcrestal approaches, respectively.
+11
+, 
+12
+, 
+13
+ Sinus septa and severe vertical ridge deficiency have been identified as key risk factors for an increased incidence of membrane perforation. Moreover, membrane perforation has been linked to a higher prevalence of postoperative sinusitis.
+14
+ Given these challenges, minimizing complications remains a critical objective in sinus augmentation procedures.
+
+To address these challenges, the integration of microscope‐assisted techniques has revolutionized periodontal and implant therapy. Microscope‐assisted periodontal therapy was first introduced by Shanelec and Tibbets in 1992,
+15
+ marking a significant advancement in the field of periodontology. The use of the operating microscope not only enhanced precision in surgical interventions but also improved treatment outcomes, leading to its adoption in both non‐surgical and surgical periodontal therapy.
+16
+ Building upon this foundation, Sirinirund et al. further extended its application to sinus augmentation, thereby broadening its impact in implant therapy.
+17
+
+The utilization of microscope provides superior magnification, coaxial illumination, and ergonomic benefits that enhance precision, safety, and the implementation of minimally invasive techniques in dental procedures. The value of microscopic magnification in improving clinical outcomes has been demonstrated across various domains of dentistry.
+
+Perrin et al. investigated the impact of different optical aids—including unaided vision, Galilean loupes (2.59×), and an operating microscope (6.9×)—on intraradicular visualization in a simulated clinical setting.
+18
+ Their results showed that natural vision was insufficient for detecting canal structures, while loupes provided limited orifice visualization, particularly among younger practitioners. Only the operating microscope enabled measurable visualization inside the root canal, regardless of the examiner's age. Similarly, Eichenberger et al. confirmed that magnification enhances clinical precision in tooth preparation, demonstrating that the microscope outperformed both loupes and unaided vision in direct and indirect procedures under standardized conditions.
+19
+ These findings underscore the critical role of microscopic magnification in improving visualization and procedural accuracy.
+
+Recent studies
+16
+, 
+17
+, 
+18
+, 
+19
+ continue to highlight the benefits of microscope‐assisted techniques, which overcome the limitations of unaided vision and loupes. At the practitioner level, microsurgical techniques enhance visual acuity, fine motor control, and tactile sensation, all of which are crucial for performing delicate interventions. Clinically, magnification enables more precise manipulation and facilitates the creation of smaller lateral windows, a biological advantage that has been demonstrated histologically.
+
+In a clinical study, Avila‐Ortiz et al. evaluated 24 sinus augmentation procedures performed with the lateral window technique. Window dimensions were calculated by multiplying the height and width (mm2) measured with a periodontal probe. Allograft was used exclusively, and bone core biopsies were harvested after 6 months for histologic evaluation. The analysis quantified vital bone (VB), remaining allograft (RA), and non‐mineralized tissue (NMT). Results showed that VB averaged 21.7% ± 16.3%, RA 23.5% ± 16.3%, and NMT 55.1% ± 8.5%. Importantly, lateral window size showed a significant negative correlation with VB and a significant positive correlation with residual allograft, indicating that larger windows impair bone maturation and delay graft consolidation.
+20
+
+Microsurgical magnification makes it feasible to create and operate through smaller windows, thereby enhancing precision, reducing trauma, accelerating vascularization, and promoting wound stability. Collectively, these advantages underline the essential role of magnification‐assisted techniques in optimizing periodontal and more predictable implant integration, further solidifying their importance in modern periodontal practice.
+
+## MATERIALS AND METHODS
+
+This narrative review focused on maxillary sinus augmentation techniques and the application of magnification in periodontal and implant surgery. A comprehensive literature search was conducted in PubMed, Web of Science, and Google Scholar for studies published between 1986 and 2025, supplemented by manual searches of reference lists from key review papers and textbooks. Search terms and Boolean operators included combinations of “microscope‐assisted” OR “microsurgery” OR “magnification,” “sinus augmentation” OR “sinus floor elevation,” “lateral window” OR “transcrestal” OR “osteotome,” and “piezoelectric surgery” OR “osseodensification.” Inclusion criteria comprised studies describing techniques, outcomes, or complications of lateral or transcrestal sinus augmentation, as well as studies addressing microsurgical approaches or magnification in sinus lift procedures. Exclusion criteria included non‐English publications without accessible translations and studies unrelated to maxillary sinus augmentation. Two authors independently screened titles and abstracts, followed by full‐text review for eligibility. Given the narrative nature of this review, no meta‐analysis was performed; however, study quality was considered based on design, sample size, and follow‐up duration. Thematic synthesis was used to provide a historical perspective (e.g., refs.1,2), highlight advancements in surgical techniques (e.g., piezoelectric surgery, osseodensification), and describe the role of microsurgical principles and magnification in minimizing complications and improving outcomes, based on 45 landmark and contemporary studies.
+
+## MICROSURGICAL LATERAL SINUS AUGMENTATION
+
+With the goal of achieving atraumatic surgery, the microsurgical approach to lateral sinus augmentation can minimize the size of the antrostomy while achieving augmentation results comparable to the conventional method.
+21
+, 
+22
+, 
+23
+ Shakibaie, in a series of 20 sinuses, demonstrated that the use of the microscope‐guided external sinus elevation (MGES technique) significantly reduces the window size to approximately 5 mm in diameter while preserving the alveolar bone.
+21
+ Similarly, Pariente et al. reported that using a microsurgical sinus kit (EBI Sinus Kit, EBI North America) resulted in an elliptic‐shaped antrostomy measuring 5 mm in height and 8 mm in length, with a calculated area of 31.4 mm2 across 15 maxillary sinus augmentation procedures.
+22
+ In comparison, Merli et al., in a series of 147 sinuses employed a piezoelectric device (Piezosurgery, Mectron) to create a circular lateral wall opening of 5–6 mm in diameter.
+23
+
+Through magnification, enhanced visualization enables the operator to perform high‐accuracy of lateral wall preparation and precise membrane elevation.
+22
+, 
+23
+ These advantages help minimize excessive bone removal, preserve more of the native bone structure, and, because of smaller windows, enhance bone maturation and graft consolidation.
+20
+ With improved visibility and a clear surgical field, the integrity of Schneiderian membrane can be better protected by the surgeon, thereby reducing the risk of perforation.
+
+Furthermore, Pariente et al. reported that microscopic techniques resulted in less intraoperative bleeding and improved surgical predictability,
+22
+ while Merli et al. observed fewer postoperative infections and cases of sinusitis with magnification‐assisted sinus augmentation.
+23
+ They reported a lower rate of complications, including membrane perforation in 6% of cases, postoperative infection in 2%‒5.6%, using their minimally invasive lateral sinus floor elevation technique. In terms of long‐term clinical follow‐up, Shakibaie found that preservation of the vestibular alveolar bone led to improved primary stability of implants.
+21
+ Similarly, Merli et al. reported that marginal bone levels were well maintained with their technique, with a mean vertical bone gain of 7.44 mm.
+23
+
+Microscope‐assisted lateral sinus augmentation improves surgical control, allowing smaller antrostomies, better membrane preservation, and precise lateral wall preparation. These advantages reduce the risk of membrane perforation, excessive bone removal, and postoperative infections. Studies have demonstrated that microscopic techniques result in less intraoperative bleeding, fewer postoperative complications, and improved implant stability.
+21
+, 
+22
+, 
+23
+ The microscope‐assisted minimally invasive approach supports improved outcomes, especially in complex or high‐risk cases, making it a valuable adjunct for clinicians seeking enhanced precision and predictability in sinus augmentation procedures (Figure 1).
+
+[FIGURE] Operating microscope was applied during a lateral sinus augmentation. (A, I, and K) Clinical, radiographic, and reconstructed cone‐beam computed tomography (CBCT) segmentation image presented prior to surgery. (B) Surgical site after flap elevation. (C) Bone window osteotomy with piezosurgical inserts. (D) Detachment of the membrane with hand instrument. (E) Size of the circular lateral wall opening minimized to 5 mm in diameter. (F) Bone augmentation with allograft and covered by collagen membrane subsequently. (G) Implant placement, staged approach after healing of the sinus augmentation. (H, J, and L) Clinical, radiographic, and reconstructed CBCT segmentation image presented at three year follow up of final prosthesis (Video S1).
+
+## MICROSURGICAL TRANSCRESTAL SINUS AUGMENTATION
+
+Gargallo‐Albiol et al. and Sirinirund et al. supported the utilization of microscope in transcrestal sinus augmentation as an effective method for improving visualization and reducing complications.
+24
+, 
+25
+ During transcrestal sinus augmentation procedures, the microscope provides magnification (6‒20×) and enhanced illumination, allowing for better control during sinus preparation and membrane elevation. This improved visibility minimizes tissue damage and enhances the detection of small tears in the Schneiderian membrane that might go unnoticed under standard visualization methods (Figure 2).
+24
+, 
+25
+
+[FIGURE] Microsurgery for transcrestal sinus augmentation. (A‒C) Clinical and radiographic presentation at baseline. (D) Microscopic examination at beginning of sinus elevation, membrane was intact. (E) Small size sinus membrane perforation noticed before implant placement, perforation was sealed with collagen matrix prior placement. (F) Implant in place. (G) Delivery of final prosthesis. (H and I) Two‐year follow‐up, noticed the successful sinus augmentation without pathological complication.
+
+Microscope‐assisted transcrestal sinus augmentation has been associated with lower complication rates, including membrane perforation, postoperative sinus infections, and peri‐implant bone loss. By enabling early detection of membrane tears and reducing surgical trauma, the microsurgical approach preserves sinus membrane integrity, shortens recovery, and contributes to higher implant success.
+26
+, 
+27
+, 
+28
+ Moreover, long‐term bone volume appears more stable compared with conventional techniques.
+24
+, 
+25
+
+During transcrestal sinus elevation, the microscope supports various techniques—such as osteotome, osseodensification, and piezoelectric approaches—enhancing the operator's ability to navigate anatomical constraints and minimize surgical trauma. In challenging cases, such as transcrestal sinus augmentation combined with ridge preservation at tooth extraction (Figure 3), the microscope‐assisted approach demonstrates high precision and predictable healing highlighting its value in complex procedures requiring refined surgical control.
+
+[FIGURE] Microsurgery for combined transcrestal sinus augmentation with alveolar ridge preservation at the time of tooth extraction. (A‒C) Clinical and radiographic images revealed maxillary right second molar presented with root fracture. (E) Socket morphology after tooth extraction. (F) Preparation of osteotomy through the thinnest apical point of the socket correspond to the palatal and buccal root apex. (G and H) Detachment of the membrane, noticed the intact septum and detachment both from palatal and buccal direction. (I) Sinus membrane fully elevated. (J and L) Allograft was packed and covered with resorbable collagen membrane. (D and K) Cone‐beam computed tomography (CBCT) revealed successful augmentation and implant placement with no complication. (M and N) Radiographic and clinical follow‐up of final prosthesis (Video S2).
+
+## MICROSURGICAL INSTRUMENTS FOR SINUS AUGMENTATION
+
+Periodontal microsurgery has marked a new era of enhanced surgical precision with a minimally invasive approach. The use of conventional instruments is unsuitable due to its size, which requires larger surgical access and contradicts microsurgical principles. Thus, specialized microsurgical tools—with features distinct from standard instruments—are essential for maintaining the precision and minimally invasive nature of these procedures.
+
+Microsurgical instruments are lightweight to minimize hand fatigue during prolonged procedures and sufficiently rigid to maintain stability. The handles are designed to be long enough to rest comfortably on the saddle formed by the thumb and index finger, enhancing precision and control. A round, circular cross‐sectional design facilitates smooth rotational movements, which is essential for delicate techniques. Moreover, the working tips are significantly smaller than those of standard instruments, allowing for precise manipulation of fine structures. Microsurgical instruments are also non‐magnetic and machined to an exceptionally high level of precision, enabling secure handling of small needles or delicate tissues without causing damage, while ensuring smooth opening and closing actions. Proper use of the operating microscope further supports a neutral ergonomic posture, minimizing musculoskeletal strain and extending the surgeon's career longevity (Figure 4).
+29
+
+[FIGURE] Comparison of lateral sinus augmentation hand instrument working ends. (A) Suitable for micro (top) and classical sinus lift instrument (bottom). (B) Sinus lift elevator for a microsurgical approach. (C) View of the sinus access window under operative microscope (approximately 5 mm in diameter).
+
+The application of minimally invasive surgical principles in regenerative and implant‐related procedures, including microscope‐assisted sinus augmentation, results in less invasive surgeries, improved graft stability, and better long‐term results. In lateral sinus augmentation, piezoelectric devices are primarily used to create controlled lateral windows and to safely elevate the Schneiderian membrane under high magnification. For transcrestal sinus augmentation, several minimally invasive approaches have been developed, including the use of osteotomes, osseodensification burs, and piezoelectric techniques—each offering distinct advantages in membrane elevation and implant site preparation.
+
+### Lateral sinus augmentation
+
+#### Piezoelectric techniques
+
+Piezoelectric devices generate ultrasonic microvibrations that selectively cut mineralized tissues while sparing adjacent soft tissues, making them suitable for lateral sinus augmentation.
+30
+ This enables precise and controlled osteotomy with a significantly lower risk of Schneiderian membrane perforation compared to rotary instruments. A meta‐analysis reported perforation rates of 7%–8% with piezosurgery versus 20%–30% with conventional rotary burs (Figure 5).
+31
+
+[FIGURE] (A and B) Piezoelectric inserts for lateral sinus augmentation, which allow micrometric, controlled cutting for the surgeon to fully exploit the magnification benefits. (C) Insert for osteoplasty of the sinus vestibular wall. (D) Insert for sinus membrane separation from the bony window margins. (E) Insert to finalize the sinus membrane elevation from the palatal wall.
+
+Beyond membrane protection, piezoelectric surgery offers several clinical advantages, including reduced intraoperative bleeding, improved visibility, and preservation of the bony window, which can often be repositioned as a biological barrier over the graft.
+30
+, 
+31
+, 
+32
+ In a prospective case series of 21 lateral sinus augmentations, the perforation rate was just 4.7%, with the only incident associated with the presence of a septum.
+30
+
+A randomized controlled trial comparing two piezoelectric techniques—direct window outlining and cortical wall erosion—demonstrated superior outcomes with the erosion approach. The latter resulted in zero perforations, compared to 11.1% in the outlining group (p < 0.05), with no vascular injuries observed. Although the erosion method required slightly more time (13.3 vs. 9.2 min), the difference was not clinically significant.
+32
+
+Although piezoelectric devices may require a longer surgical time, this can be mitigated through a strategic approach guided by preoperative cone‐beam computed tomography (CBCT). When a thick lateral wall is anticipated, it can first be outlined or thinned either with rotary burs or with sharp piezoelectric inserts designed for osteotomy and bone chip harvesting to improve cutting efficiency. Once a bluish hue becomes evident, indicating proximity to the Schneiderian membrane, the surgeon should switch to smoothing inserts with diamond‐coated surfaces for precise final window refinement. These strategies preserve the enhanced safety, precision, and clinical outcomes that make piezoelectric techniques a preferred option for lateral sinus elevation.
+31
+
+### Transcrestal sinus augmentation
+
+#### Osteotome
+
+The osteotome technique, introduced by Summers in 1994,
+2
+ controlled fracture of the sinus floor using progressively larger osteotomes. It is minimally invasive compared with the lateral window approach and can enhance local bone density.
+
+Although more conventional than osseodensification or piezoelectric surgery, current evidence indicates that, when performed with careful technique, its clinical outcomes remain comparable to these contemporary approaches.
+33
+, 
+34
+, 
+35
+
+In a series of 12 surgeries, both osteotome and osseodensification techniques achieved similarly favorable clinical outcomes, with mild‐to‐moderate postoperative pain and edema and no statistically significant differences between them. However, osseodensification significantly reduced operative time and achieved higher primary stability.
+33
+ In another series of 36 surgeries, no significant difference in bone augmentation level was observed between osteotome and piezosurgery, although the latter offered improved surgical control and reduced postoperative discomfort.
+35
+
+Despite its simplicity and clinical effectiveness, the osteotome technique presents several drawbacks. It may cause postoperative discomfort, such as benign positional vertigo, and carries a risk of Schneiderian membrane perforation.
+34
+, 
+35
+ Additionally, achieving consistent membrane elevation beyond 5–6 mm remains technically challenging, particularly in cases with limited bone elasticity or sinus floor irregularities.
+36
+
+#### Osseodensification
+
+Osseodensification, developed by Huwais and Meyer in 2016,
+37
+ utilizes specially designed densifying burs that rotate in a counterclockwise direction to compact bone laterally and apically while simultaneously elevating the sinus membrane. This technique preserves native bone, enhances implant primary stability, and minimizes the risk of sinus membrane perforation.
+34
+ Compared to conventional drilling, the technique aligns with microsurgical principles by minimizing trauma, improving tactile control, and maintaining sinus integrity.
+37
+
+Clinical studies have reported predictable vertical bone gain of 6.65 ± 1.06 mm and a 100% implant survival, although the absence of sinus membrane perforation in one pilot trial should be interpreted with caution because integrity was assessed only radiographically using CBCT, which is not a definitive method. Compared with piezoelectric internal sinus elevation (PISE) and conventional osteotome techniques, osseodensification may provide advantages in terms of bone density gain, healing dynamics, and patient comfort.
+38
+ Importantly, complication rates must be considered when evaluating minimally invasive claims. A recent systematic review by Hsu et al.28 analyzed 74 studies with 4411 sinus floor elevation procedures. Sinus membrane perforation was the most frequent intraoperative complication, reported in 17.8% of lateral approaches and about 5% of transcrestal cases. The review discussed various instruments, including rotary burs, piezoelectric devices, osteotomes, and hydraulic methods, but did not provide specific complication data for osseodensification. Densifying burs were only mentioned as an emerging transcrestal approach, potentially lowering perforation risk, although the evidence was limited to technical rationale and small case series. Thus, while osseodensification shows promise as a minimally invasive method, current evidence does not yet confirm fewer complications compared with piezoelectric or osteotome‐based approaches, and further well‐designed studies are needed.
+
+#### Piezoelectric techniques
+
+Piezoelectric surgery utilizes microvibrations (25–30 kHz) to selectively cut mineralized tissues while preserving soft tissues. In PISE, specialized piezo tips gradually widen the osteotomy and elevate the Schneiderian membrane through hydrodynamic pressure generated by the cavitation effect of ultrasonic vibration, thereby significantly reducing the risk of membrane perforation compared with osteotome techniques.
+34
+, 
+39
+
+Although this approach may increase surgical time, it offers superior safety and enhanced tactile control.
+30
+, 
+34
+, 
+39
+ In a clinical trial comparing piezosurgery and a crestal approach sinus kit, both methods showed comparable implant stability, although piezosurgery was associated with longer operative time.
+40
+ Hydrodynamic PISE (HPISE) further enhances this approach by combining ultrasonic vibration with hydraulic pressure. In a multicenter study of 353 implants across 250 sinuses, HPISE demonstrated a membrane perforation rate of 2.83% and an implant success rate of 97.2% over an average loading period over 1 year.
+41
+
+Beyond individual clinical studies, a systematic review of piezoelectric applications in oral and maxillofacial surgery concluded that piezoelectric osteotomies provide accurate, clean, and minimally traumatic cuts compared with conventional drills and saws. The technique was consistently associated with reduced intraoperative bleeding, better protection of adjacent soft tissues, and fewer complications in procedures near delicate structures such as nerves and the sinus membrane.
+42
+
+Despite requiring more time, piezoelectric elevation techniques offer precise, minimally invasive sinus augmentation with favorable clinical outcomes and reduced morbidity, making them a valuable alternative in cases with limited residual bone.
+30
+, 
+34
+, 
+39
+, 
+40
+
+## ERGONOMICS IN MICROSURGICAL SINUS AUGMENTATION
+
+Achieving a neutral ergonomic posture should be a non‐negotiable goal for physicians during patient care. The use of operative microscope often help to improve ergonomics and posture to prevent musculoskeletal disorders and cognitive fatigue.
+29
+ The following steps help to establish an optimal setup follows a logical sequence: starting with surgeon posture, followed by patient positioning, assistance, and finally microscope adjustment.
+43
+, 
+44
+, 
+45
+
+For sinus augmentation procedures involving the posterior maxilla, ergonomic alignment of both the operator and the patient is essential to maximize surgical access and reduce physical strain on the clinician. The operator should maintain a stable, balanced posture in an ergonomic chair equipped with adjustable armrests and lumbar support, positioning between the 9 and 12 o'clock orientations relative to the patient. The 12 o'clock position—directly behind the patient's head—provides particularly favorable access during both lateral window and transcrestal approaches.
+43
+, 
+45
+ The patient should be placed supine with the dental chair reclined approximately 5°–10° from the horizontal plane, and the head supported to ensure stability throughout the procedure.
+45
+
+In lateral sinus augmentation, rotating the patient's head completely to one side enhances direct visualization under the operating microscope and the Schneiderian membrane can be inspect with direct view most of the time. For evaluation of the Schneiderian membrane during the transcrestal approach, indirect viewing with a front‐surface mouth mirror is advised. Applying a defogging solution to the mirror or having it periodically cleaned by the assistant helps preserve clarity, thereby avoiding unnecessary head repositioning and maintaining an uninterrupted surgical field.
+44
+
+Moreover, to optimize ergonomics and workflow efficiency during sinus augmentation, a coordinated six‐handed operating arrangement is recommended. In this configuration, the surgeon is supported by two chairside assistants with clearly delineated roles. The primary assistant, typically positioned between the 12 and 15 o'clock orientations relative to the patient, is responsible for maintaining an unobstructed surgical field through retraction, high‐volume suction, and irrigation. The secondary assistant, seated between the 2 and 4 o'clock positions, manages adjunctive tasks such as preparing biomaterials, organizing microsurgical instruments, and delivering them promptly to the operator. This division of labor minimizes interruptions and allows the surgeon to maintain focus on the procedure (Figure 6).
+43
+, 
+44
+, 
+45
+
+[FIGURE] Positioning in a microsurgical workflow for sinus augmentation procedures for maxillary right sextant. (A) Patient chair angulation will be positioned at about 5°–10° with respect to the ground line. (B) Operator position will be at 9–12 o'clock. (C) Primary assistant position will be at 1–2 o'clock. (D) Secondary assistant position will be at 10–11 o'clock. (Figures adapted from Chan HA, Velásquez‐Plata D. Microsurgery in Periodontal and Implant Dentistry: Concepts and Applications. Springer International Publishing; 2022.)
+
+In sinus augmentation procedures, magnification management should follow a stepwise approach tailored to each surgical phase. Surgeons should begin under lower magnification (4–7×) with low illumination for incision making and flap reflection, allowing a broader operative field and reducing glare from the mucosa. As proficiency and hand stability improve during the procedure, magnification can be gradually increased. For delicate steps such as sinus membrane elevation or assessing membrane integrity—particularly in small osteotomy preparations during vertical approaches—higher magnification (10–15×) combined with higher light intensity is recommended to enhance precision and depth perception.
+29
+, 
+45
+
+To maintain workflow efficiency, the microsurgical team should be actively engaged throughout. For example, assistants can facilitate smooth progression by adjusting the microscope focus during membrane elevation, cleaning and defogging mirrors for indirect visualization, and managing material delivery without disrupting the surgeon's posture or field of view. Incorporating these magnification and teamwork strategies into training enables operators to progressively master the fine motor control and visual coordination required for high‐precision sinus augmentation, ultimately reducing the risk of membrane perforation and improving surgical outcomes.
+
+## CONCLUSIONS
+
+Microscope‐assisted sinus augmentation marks a paradigm shift toward minimally invasive, precision‐driven surgical intervention. Enhanced magnification, improved illumination, and optimized ergonomic control allow clinicians to achieve refined manipulation of both soft and hard tissues, even within the anatomically constrained maxillary sinus region.
+15
+, 
+16
+, 
+17
+, 
+18
+, 
+19
+
+While current scientific evidence supporting the clinical superiority of microscope‐assisted sinus augmentation remains limited, as it is derived mainly from case series, pilot studies, and small comparative trials, the technical advantages and potential benefits of operating microscopes are compelling. In clinical practice, these techniques can be integrated gradually, beginning with straightforward cases to develop proficiency in microsurgical handling and progressing to more complex lateral and vertical sinus augmentations.
+
+Successful incorporation into routine care requires appropriate microscope setup, ergonomic positioning, and a stepwise magnification strategy aligned with each surgical phase. Collaborative team training, including assistants’ role in focus adjustment, mirror cleaning, and instrument delivery, can further streamline workflow. By combining deliberate skill development with structured team coordination, clinicians can harness the full potential of microscope‐assisted sinus augmentation to enhance surgical precision, improve patient comfort, and optimize treatment outcomes.
+
+## AUTHOR CONTRIBUTIONS
+
+Teresa Chanting Sun and Kang‐Wei Tu contributed to conceptualization, data collection, and manuscript preparation. Bor‐Jian Chen contributed to conceptualization and data collection. All authors have read and approved the final version of the manuscript.
+
+## CONFLICT OF INTEREST STATEMENT
+
+The authors declare they have no conflicts of interest in relation to the cases presented in this study.
+
+## Supporting information

@@ -1,0 +1,103 @@
+Introduction
+
+The maxillary sinus, one of the four paranasal sinuses, including the ethmoid, frontal, and sphenoid sinuses, is a bony cavity filled with air and lined with a mucous membrane. The sinuses are thought to play roles in voice resonance, air humidification, and reducing skull weight.
+
+In the field of dental implantology, the maxillary sinus plays a crucial role in the rehabilitation of the posterior maxilla. Sinus pneumatization, which occurs following tooth extraction, reduces the alveolar bone available for implantation. To address this issue, sinus augmentation was proposed in the 1970s to increase bone volume for implantation. This procedure has become highly popular throughout the years,,,,,,as the knowledge of its risk factors for failure and complications increased.,,
+
+Preoperative imaging, such as cone-beam computed tomography (CBCT) or multidetector computed tomography (MDCT), has become increasingly prevalent in recent years.These imaging techniques are utilized to evaluate the residual alveolar bone height and maxillary sinus health, aiding in determining the necessity, and possibility for augmentation. Additionally, they reveal anatomical structures such as the Schneiderian membrane, the alveolar antral artery (AAA), sinus septa (Underwood's septa), and the lateral sinus wall. While identifying these structures assists surgeons in planning the procedure and informing patients about potential surgical risks, it does not guarantee the prevention of complications.,For instance, encountering the AAA during surgery may limit visibility, prolong the procedure, and increase difficulty, potentially affecting the success rate of dental implants placed in the augmented sinus.Furthermore, the thickness of the Schneiderian membrane can influence its integrity and the risk of perforation during the procedure, with some studies suggesting that both thin and thick membranes may be susceptible to tearing.The presence of Underwood's septa can complicate membrane elevation, which might increase the likelihood of complications and early implant failure (EIF).Finally, extensive augmentation procedures may necessitate greater bone formation, potentially impacting early implant success, particularly when considering the limitations of the bone graft material used.
+
+The correlation between the anatomical structures of the sinus and EIF following sinus augmentation has not been extensively explored. Previous research has largely focused on the residual alveolar bone height, indicating that lesser bone is associated with a higher risk of EIF, likely due to decreased cells and bone source, which could compromise initial implant stability and new bone formation.,,
+
+Consequently, the present study examined the correlation between maxillary sinus anatomical structures and EIF following sinus augmentation. Better understanding of local factors influencing EIF may encourage preoperative risk assessment and surgical planning.
+
+Methods
+
+A retrospective cohort study was conducted at the Department of Oral and Maxillofacial Surgery, Beilinson Hospital, Rabin Medical Centre, Petach Tikva, Israel. The study was conducted in accordance with the Helsinki Declaration and its subsequent amendments and was approved by the relevant ethics committee (0674-19-RMC). All patients signed an informed consent. Data was collected from the electronic files of individuals who underwent maxillary sinus floor augmentation via the lateral window approach.
+
+Inclusion criteria
+
+•
+
+Age >18 years old.
+
+•
+
+Consecutive patients.
+
+•
+
+Lateral approach sinus floor augmentation.
+
+•
+
+Implants placed and followed up at least until temporary or permanent implant rehabilitation.
+
+•
+
+Available preoperative cross-sectional imaging (CBCT or MDCT).
+
+Exclusion criteria
+
+•
+
+Incomplete documentation.
+
+Surgical protocol
+
+Highly skilled oral and maxillofacial surgeons performed the surgical interventions. Preoperative radiographic evaluations utilized either CBCT or MDCT (and). Patients presenting with less than 5 mm of residual alveolar bone height underwent sinus floor augmentation using the lateral window technique described by Boyne and James.
+
+The method for accessing the lateral wall of the maxillary sinus involved the creation of a full-thickness mucoperiosteal flap, incorporating crestal and vertical releasing incisions. To enhance flap mobility, to achieve primary closure, buccal periosteal-releasing incisions were made when needed. A bony window to the maxillary sinus was performed using a big round diamond bur (). Subsequently, careful elevation of the sinus membrane, taking care not to perforate it, was initiated. In instances of perforation, the defect was covered with a crosslinked collagen membrane (Ossix Plus, Datum Dental Biotech). The resulting cavity was filled with a xenogeneic bone substitute (Bio-Oss, Geistlich Pharmaceutical). Implant placement followed, adhering to the manufacturer's dedicated bur set and guidelines for achieving primary implant stability. Closure of the incisions was managed with sutures to ensure haemostasis and tension-free primary healing.
+
+Prosthetic loading was initiated 9 months postoperatively, accommodating both simultaneous and delayed implant placements. In the delayed approach, implant placement procedures were performed 4 months after augmentation, with exposures following an additional 5 months.
+
+Data collection
+
+Patient data, including systemic background and the occurrence of intraoperative Schneiderian membrane perforation, were collected from the hospital's electronic medical records. Each sinus was treated as an individual unit of analysis.
+
+Preoperative CBCT or MDCT scans were independently evaluated by two experienced oral and maxillofacial surgeons (O.G. and E.J.). Measurements were performed, two times in 2 weeks intervals, using the Carestream Vue Picture Archiving and Communication System (PACS) software (11.3.2.4, Carestream Health Inc), which features calibrated measurement tools. In cases where the difference between the two surgeons’ measurements exceeded 5%, a third measurement was obtained by D.M. to reach a consensus value. The following anatomical variables were collected from the imaging data:
+
+Early implant failure definition
+
+EIF was defined as the removal of an implant prior to the attachment of either a temporary or permanent abutment. If one or more implants within a sinus experienced EIF, the entire sinus was classified as having experienced an EIF.
+
+Data analysis
+
+Data was analysed using Python version 3.12, with Pandas version 2.1.3 and Statsmodels 0.14.1 for statistical computations. Descriptive statistics calculated means and standard deviations for numeric and continuous variables. Frequencies were calculated for discrete variables. Kolmogorov-Smirnov test was performed to assess the normal distribution of the variables. Univariate analysis was performed using chi-square tests, while the Mann–Whitney test was used for independent sample comparisons. A multivariable analysis was conducted using Generalized Estimated Equations to account for within-patient correlations and confounding factors. Variables were initially selected for inclusion based on a univariatevalue threshold of .1. A variance inflation factor test with a threshold of 5 was then employed to assess and mitigate multicollinearity. The model was adjusted for clustering of subjects, binomial distribution, logit link function, and an exchangeable working correlation was assumed. Avalue below 5% was considered statistically significant.
+
+Results
+
+A total of 159 sinus augmentations performed in 143 patients were included in the present study. The average age of the participants was 60.6 ± 12.7 years. Males accounted for 60 (37.7%) of the augmented sinuses and 8.8% of augmentations were performed in smokers. Regarding the systemic background, 35.2% had hypertension, 18.2% had diabetes mellitus, and 11.3% were diagnosed with osteoporosis. 48.4% of sinuses had simultaneous implant placement while the rest (51.6%) were treated following at least 4 months of follow-up. Radiographic assessments showed that 33.3% of the sinuses had at least one bony septum, and 44.7% revealed the presence of a blood vessel (AAA). Regarding sinus morphology, 55.4% were round, 24.5% oval, and 20.1% triangular. The average residual alveolar ridge height was 3.8 ± 1.4 mm, while the mean lateral wall width was 1.6 ± 0.95 mm. During the augmentation, 18.2% of the Schneiderian membranes were perforated and repaired using a collagen membrane. At least one EIF was observed in 21 of the augmented sinuses (13.2%). Refer tofor detailed data.
+
+Univariate analysis indicated a significant correlation between the reduced presence of bony septa (4.8% vs 37.7%) and EIF (= .006). Additionally, sinuses with thinner lateral walls (1.2 ± 0.96 vs 1.8 ± 0.7 mm) and smokers (28.6% vs5.8%) were associated with EIF (= .04 and= .002, respectively). All other collected variables, including hypertension, diabetes mellitus, Schneiderian membrane perforation, and sinus morphology did not present any significant differences associated with EIF. Refer tofor detailed data.
+
+Results from the multivariable Generalized Estimated Equations model were consistent, showing that sinuses with bony septa significantly correlated with procedural success (O.R = 0.13,= .033) and smokers had significantly higher chances of EIF (O.R = 6.09,= .0019). Furthermore, sinuses with greater lateral wall thickness experienced borderline significantly fewer EIFs (O.R = 0.67,= .054). Refer tofor detailed data.
+
+Discussion
+
+The preoperative radiographic examination is an everyday process for oral surgeons performing sinus augmentation. Typically, the surgeon focuses on the residual alveolar bone height to assess the necessity of such a procedure for implant therapy and rehabilitation of the posterior maxilla. This study is one of the first to radiographically assess the relationship between anatomical structures of the maxillary sinus and EIF. Other studies that evaluated the influence of such structures usually focused on their effect on intraoperative and postoperative complications, such as Schneiderian membrane perforation, haemorrhage, pain, and difficulty in performing the augmentation. This article adds another perspective on the significance of these anatomical structures and the importance of evaluating them.
+
+Underwood first described bony septa in the maxillary sinus in 1909.Some authors have described the significance of septa as risk factors, disadvantages, or obstacles focusing mainly on the technical challenge in managing it. Underwood's septa are correlated with thinner Schneiderian membranes, which may cause their perforation or block access to the sinus cavity.It is noteworthy that studies that investigated the impact of Schneiderian membrane perforation demonstrated similar or insignificant influence of perforation on EIF.,,,In the present study, bony septa in the sinus were significantly correlated with lower odds of EIF (= .033). Sinuses with a septa had 87% less odds of failure vs sinuses without septa. We assume the septa increase the available bone source for augmentation, which aids in the formation of new bone. Kolerman et alconducted a histomorphometry study to assess new bone formation following sinus augmentation. They concluded that new bone forms from the sinus walls to the core of the bone graft and the sinus membrane. Septa may act as an additional sinus wall and bone source, which increases graft-to-bone contact and accelerates osteoblasts’ formation and progenitor cell migration.
+
+The lateral wall width was another significant risk factor for EIF. The multivariable analysis revealed that thicker walls decrease the odds of failure by 33% for every millimetre of bone. To the best of our knowledge, this is the first study to assess the relationship between the width of the lateral wall of the sinus and EIF. Thicker bones exhibit increased cellular reserves that allow more progenitor cells to be available for the bone graft and its regeneration.
+
+Unlike previous studies, the current research did not result in significant influence of the residual alveolar bone height on EIF.We postulate that due to the parabolic shape of the inferior border of the maxillary sinus, there is a significant variation in alveolar bone height in the mesiodistal dimension, creating a challenge in this measurement and generalizing the minimal height as a representation of the inferior bony wall of the maxillary sinus. As mentioned earlier, numerous studies reported a significant relationship between the alveolar bone and EIF. Therefore, we conclude that this variable should be assessed for each implant location individually to avoid false negative results.
+
+This study emphasizes the importance of bone source availability in determining the success of sinus augmentation. This anatomical consideration extends beyond the technical execution of the procedure to encompass patient (or sinus) specific planning. Identifying the sinus bony structures, such as septa and the sinus walls, through radiographic imaging can aid surgeons in assessing the success rate of the potential augmentation. Furthermore, the study's results call for revising the standard preoperative radiographic assessments. Traditional evaluations that heavily focus on alveolar bone height might overlook other crucial anatomical factors that contribute to the overall success of the augmentation. By integrating comprehensive anatomical assessments into preoperative planning, surgeons can enhance the predictability and safety of sinus augmentation.
+
+The limitations of this study arise from its retrospective nature and the involvement of multiple surgeons. The retrospective design of this study may limit our ability to account for all potential confounding variables or to accurately capture the subtle variations in surgical techniques as they occurred. Furthermore, the involvement of multiple surgeons, each with their own level of experience, could contribute to inconsistencies in the observed outcomes.
+
+Conclusions
+
+This retrospective study highlights the significant impact of maxillary sinus anatomy on sinus augmentation and EIF. The presence of bony septa and thicker lateral walls were identified as statistically significant protective factors. This study underscores the importance of comprehensive preoperative radiographic assessment beyond the traditional focus on alveolar bone height alone. Surgeons should consider incorporating these anatomical factors into their decision-making process to enhance the predictability and success of the procedure.
+
+Author contributions
+
+All authors contributed significantly to the study's idea and design. E.J., O.G., and D.M. were involved in the data collection. E.J., D.M., G.A., and G.C. were involved in the data analysis and data interpretation. E.J., L.C., and G.C. were involved in drafting the manuscript and revising it critically and have given final approval of the version to be published.
+
+Funding
+
+The authors did not receive any funding for the conduct of this study.
+
+Conflict of interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this article.

@@ -1,0 +1,16 @@
+TITLE: The effect of zirconia or titanium as abutment material on soft peri-implant tissues: a systematic review and meta-analysis.
+AUTHORS: Tomas Linkevicius, Julius Vaitelis
+JOURNAL: Clinical oral implants research 2015;26 Suppl 11:139-47
+PMID: 26073346
+DOI: 10.1111/clr.12631
+SOURCE: PubMed abstract (E-utilities efetch, 2026-11-25). No PMC record; no full text retrieved.
+
+## ABSTRACT
+
+AIM: The objective of this review was to analyze research with regard to the effect of zirconia or titanium as abutment material on soft peri-implant tissues.
+
+METHODS: Clinical studies were selected via electronic and hand searches in English language journals until December 1, 2014. Only randomized clinical trials (RCTs) and prospective controlled clinical trials (CCTs) showing direct comparison between zirconia (Zr) and titanium (Ti) abutments in the same patient were considered. The outcome measures were (1) soft tissue color, (2) soft tissue recession, (3) peri-implant probing, (4) bleeding on probing, (5) esthetic indexes, (6) patient-reported outcome, (7) marginal bone level, and (8) biological complications.
+
+RESULTS: Nine relevant studies (11 papers) were identified: 4 RCTs and 5 CCTs. Due to heterogeneity in the study design, statistical methods, and reported results, a meta-analysis of the data was feasible only for soft tissue color. The outcome was found to be significantly superior for Zr abutments. For the other outcome measures, a qualitative analysis of the selected articles was performed. The studies did not show any statistically significant differences between Zr and Ti abutments on soft tissue recession, probing depths, bleeding on probing, marginal bone level, and patient-reported outcome. One study reported significantly higher pink esthetic score (PES) scores at Zr implants with Zr abutments, compared to metal implants and Ti abutments.
+
+CONCLUSION: Overall, the research does not support any obvious advantage of Ti or Zr abutments over each other. However, there is a significant tendency in Zr abutments evoking better color response of peri-implant mucosa and superior esthetic outcome measured by PES score.

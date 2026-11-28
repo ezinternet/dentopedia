@@ -1,0 +1,18 @@
+Title: Platform switching for marginal bone preservation around dental implants: a systematic review and meta-analysis.
+Authors: Atieh MA, Ibrahim HM, Atieh AH
+Journal: J Periodontol 2010;81(10):1350-66
+DOI: 10.1902/jop.2010.100232
+PMID: 20575657
+Source: PubMed abstract only (no PMC record; full text not retrieved)
+
+BACKGROUND:
+Platform switching for maintaining peri-implant bone levels has gained popularity among implant manufacturers over the last few years. However, the assumption that the inward shifting of the implant-abutment junction may preserve crestal bone was primarily based on serendipitous finding rather than scientific evidence. The objectives of the present study were to systematically review radiographic marginal bone-level changes and the survival of platform-switched implants compared to conventional platform-matched implants.
+
+METHODS:
+A literature search of electronic databases (MEDLINE, EMBASE, The Cochrane Oral Health Group's Trials Register, The Cochrane Central Register of Controlled Trials, the U.K. National Research Register, the Australian New Zealand Clinical Trials Registry, the Database of Abstracts of Reviews of Effectiveness, and Conference Proceedings Citation Index) was performed up to March 15, 2010. Hand searches included several dental journals, and authors were contacted for missing information. Controlled trials that compared marginal bone-level changes around platform-switched dental implants with those restored with platform-matched prostheses were selected. The review and meta-analysis were done according to the guidelines of the Preferred Reporting Items for Systematic Reviews and Meta-Analyses statement. Data were analyzed using two meta-analytic statistical packages. Mean differences (MDs) were calculated for analyzing continuous data, and risk ratios (RRs) were used for dichotomous data with 95% confidence intervals (CIs).
+
+RESULTS:
+Ten studies with 1,239 implants were included. The marginal bone loss around platform-switched implants was significantly less than around platform-matched implants (MD: -0.37; 95% CI: -0.55 to -0.20; P <0.0001). No statistically significant difference was detected for implant failures between the two groups (RR: 0.93; 95% CI: 0.34 to 2.95; P = 0.89). Subgroup analyses showed that an implant-abutment diameter difference >= 0.4 was associated with a more favorable bone response.
+
+CONCLUSIONS:
+The review and meta-analysis show that platform switching may preserve interimplant bone height and soft tissue levels. The degree of marginal bone resorption is inversely related to the extent of the implant-abutment mismatch. Further long-term, well-conducted, randomized controlled studies are needed to confirm the validity of this concept.

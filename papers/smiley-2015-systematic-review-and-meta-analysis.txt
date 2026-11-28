@@ -1,0 +1,18 @@
+TITLE: Systematic review and meta-analysis on the nonsurgical treatment of chronic periodontitis by means of scaling and root planing with or without adjuncts.
+AUTHORS: Smiley Christopher J, Tracy Sharon L, Abt Elliot, Michalowicz Bryan S, John Mike T, Gunsolley John, Cobb Charles M, Rossmann Jeffrey, Harrel Stephen K, Forrest Jane L, Hujoel Philippe P, Noraian Kirk W, Greenwell Henry, Frantsve-Hawley Julie, Estrich Cameron, Hanson Nicholas
+JOURNAL: J Am Dent Assoc 2015 Jul;146(7):508-24.e5
+ID[pmid]: 26113099
+ID[doi]: 10.1016/j.adaj.2015.01.028
+ID[pii]: S0002-8177(15)00346-3
+ARTICLE_TYPES: Journal Article; Meta-Analysis; Research Support, Non-U.S. Gov't; Systematic Review
+KEYWORDS: Antibiotics; MEDLINE; chlorhexidine; evidence-based dentistry; lasers; minocycline; periodontitis; root planing
+FULL_TEXT: not retrieved (no PMC full text) — abstract only; source: PubMed MCP get_article_metadata
+
+## ABSTRACT
+BACKGROUND: Conduct a systematic review and meta-analysis on nonsurgical treatment of patients with chronic periodontitis by means of scaling and root planing (SRP) with or without adjuncts.
+
+METHODS: A panel of experts convened by the American Dental Association Council on Scientific Affairs conducted a search of PubMed (MEDLINE) and Embase for randomized controlled trials of SRP with or without the use of adjuncts with clinical attachment level (CAL) outcomes in trials at least 6 months in duration and published in English through July 2014. The authors assessed individual study bias by using the Cochrane Risk of Bias Tool and conducted meta-analyses to obtain the summary effect estimates and their precision and to assess heterogeneity. The authors used funnel plots and Egger tests to assess publication bias when there were more than 10 studies. The authors used a modified version of the US Preventive Services Task Force methods to assess the overall level of certainty in the evidence.
+
+RESULTS: The panel included 72 articles on the effectiveness of SRP with or without the following: systemic antimicrobials, a systemic host modulator (subantimicrobial-dose doxycycline), locally delivered antimicrobials (chlorhexidine chips, doxycycline hyclate gel, and minocycline microspheres), and a variety of nonsurgical lasers (photodynamic therapy with a diode laser, a diode laser, neodymium:yttrium-aluminum-garnet lasers, and erbium lasers).
+
+CONCLUSIONS AND PRACTICAL IMPLICATIONS: With a moderate level of certainty, the panel found approximately a 0.5-millimeter average improvement in CAL with SRP. Combinations of SRP with assorted adjuncts resulted in a range of average CAL improvements between 0.2 and 0.6 mm over SRP alone. The panel judged the following 4 adjunctive therapies as beneficial with a moderate level of certainty: systemic subantimicrobial-dose doxycycline, systemic antimicrobials, chlorhexidine chips, and photodynamic therapy with a diode laser. There was a low level of certainty in the benefits of the other included adjunctive therapies. The panel provides clinical recommendations in the associated clinical practice guideline.

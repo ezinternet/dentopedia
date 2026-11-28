@@ -1,0 +1,12 @@
+IMPACT OF SCHNEIDERIAN MEMBRANE PATHOLOGICAL THICKENING ON TRANSCRESTAL SINUS FLOOR ELEVATION: A PROSPECTIVE STUDY.
+Li X, Li B, Yin Z, Meng S, Zhao X, Sun Y, Chen W, Cai Q, Meng W. Clinical implant dentistry and related research. 2026. doi:10.1111/cid.70149. PMID 41992510.
+
+[ABSTRACT-ONLY — full text not retrieved]
+
+To investigate the differential effects of primary (PPT) and odontogenic (OPT) pathological Schneiderian membrane thickening on outcomes of transcrestal sinus floor elevation (TSFE) with simultaneous implant placement.
+
+This prospective cohort study enrolled 89 patients (123 implants), divided into normal, PPT, and OPT groups. All patients underwent TSFE with simultaneous implant placement. The Schneiderian membrane perforation, early implant failure, postoperative complications, and implant stability quotient (ISQ) value were recorded. Cone beam computer tomography was obtained preoperatively, immediate postoperatively, and 6 months postoperatively to perform linear measurements including Schneiderian membrane thickness (SMT), residual bone height (RBH), sinus floor elevation height (SFEH), endo-sinus bone gain (ESBG), and graft material resorption height (GMRH).
+
+No early implant failure or postoperative complications were observed, and no significant difference in ISQ values was found among the three groups (p = 0.116). The OPT group had a significantly higher membrane perforation rate (30.4%) than the normal (9.5%) and PPT (7.7%) groups (p = 0.023), lower ESBG (2.88 ± 1.59 mm vs. normal 4.02 ± 1.63 mm, p = 0.015), and higher GMRH (2.98 ± 1.84 mm vs. normal 1.37 ± 1.15 mm/PPT 1.41 ± 1.26 mm, p < 0.001). PPT showed no significant differences in ESBG/GMRH versus normal (p > 0.05).
+
+Our results demonstrate that neither primary nor odontogenic pathological Schneiderian membrane thickening influences the early success rate of implants placed simultaneously with transcrestal sinus floor elevation. Nevertheless, odontogenic pathological Schneiderian membrane thickening significantly increases the incidence of Schneiderian membrane perforation and decreases the formation of new bone.

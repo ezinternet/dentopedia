@@ -1,0 +1,169 @@
+TITLE: The Influence of Surface Preparation, Chewing Simulation, and Thermal Cycling on the Phase Composition of Dental Zirconia
+AUTHORS: Wertz Markus, Fuchs Florian, Hoelzig Hieronymus, Wertz Julia Maria, Kloess Gert, Hahnel Sebastian, Rosentritt Martin, Koenig Andreas, Özcan Mutlu
+JOURNAL: Materials
+ID[pmcid]: PMC8122781
+ID[pmcid-ver]: PMC8122781.1
+ID[pmcaid]: 8122781
+ID[pmcaiid]: 8122781
+ID[pmid]: 33922280
+ID[doi]: 10.3390/ma14092133
+ID[publisher-id]: materials-14-02133
+
+## ABSTRACT
+The effect of dental technical tools on the phase composition and roughness of 3/4/5 yttria-stabilized tetragonal zirconia polycrystalline (3y-/4y-/5y-TZP) for application in prosthetic dentistry was investigated. Additionally, the X-ray diffraction methods of Garvie-Nicholson and Rietveld were compared in a dental restoration context. Seven plates from two manufacturers, each fabricated from commercially available zirconia (3/4/5 mol%) for application as dental restorative material, were stressed by different dental technical tools used for grinding and polishing, as well as by chewing simulation and thermocycling. All specimens were examined via laser microscopy (surface roughness) and X-ray diffraction (DIN EN ISO 13356 and the Rietveld method). As a result, the monoclinic phase fraction was halved by grinding for the 3y-TZP and transformed entirely into one of the tetragonal phases by polishing/chewing for all specimens. The tetragonal phase t is preferred for an yttria content of 3 mol% and phase t″ for 5 mol%. Mechanical stress, such as polishing or grinding, does not trigger low-temperature degradation (LTD), but it fosters a phase transformation from monoclinic to tetragonal under certain conditions. This may increase the translucency and deteriorate the mechanical properties to some extent.
+
+## 1. Introduction
+
+Over the past 20 years, yttria-stabilized tetragonal zirconia polycrystalline (Y-TZP) has become increasingly popular for application in dental restorations [1,2,3].
+
+Compared to other dental materials, Y-TZP has an outstanding mechanical performance [4] (flexural strength between 750 and 1300 MPa [5,6]). The material is biologically inert [6] and has a high X-ray opacity, and, depending on the yttria content, its optical properties such as translucency [7] are similar to those of enamel.
+
+The materials are pre-sintered industrially and can be easily processed automatically in blocks and blanks using computer aided manufacturing (CAM) [8]. Y-TZP ceramics may be applied in monolithic dental restorations, such as fixed dental prostheses (FDPs) and abutments [5,8,9].
+
+A disadvantage of Y-TZP ceramics is its low-temperature degradation (LTD). This aging phenomenon is characterized by slow tetragonal (t) to monoclinic (m) phase transformation [10,11,12,13], is caused by thermal [3,14,15] or mechanical [2,16,17] stress, and is fostered by humidity [14,16].
+
+It may impair mechanical and physical properties of the material and lead to the formation of micro cracks at the grain boundaries and even to complete failure of restoration [14,16,18]. Typical examples include the catastrophic failure of more than 200 femoral heads of hip implants that occurred between 2000 and 2002 [19] as well as the failure of 13 of 200 dental implants in a batch from 2003 to 2007 [20]. In dentistry, meta-analysis shows that the overall survival rate of one- and two-piece dental implants fabricated from zirconia can be calculated to be 92% after one year of clinical service [21].
+
+Y-TZP features several crystallographic modifications: as a mineral and under standard conditions, ZrO2 is monoclinic (P21/c); under high-temperature conditions, there are three tetragonal (P42/nmc) phases and one cubic (Fm3¯m) phase [22,23,24,25,26].
+
+The cubic phase features a fluorite structure type [27] and transforms into a tetragonal (t, t′, t″) phase with decreasing yttria content and temperature [22,23,24].
+
+The three tetragonal phases differ in volume and result from phase separation caused by quenching of Y-TZP after sintering. According to Lipkin et al. [24], the yttria-lean phase components initially transform to the tetragonal phase t, which is followed by a transformation to the monoclinic phase. The yttria-rich phase components transform to the tetragonal phase t″ and the cubic phase c [24].
+
+The tetragonal phases are slightly distorted and connected with the cubic phase by a clear group-subgroup chain. Thus, the transformation from a cubic to a tetragonal phase is not disruptive [22,23].
+
+However, this circumstance does not apply to the phase transformation from the tetragonal phase t to the monoclinic phase m. This process coincides with a substantial volume change and a large shear strain of from 8% [28] to 9% [21]. This may lead to micro cracking, twinning [28], and an increasing amount of surface irregularities [18]. The consequences include an increasing loss of flexural strength [29] and, in the worst case, failure [19,20] associated with the increasing proportion of the monoclinic phase [14,16,18,24].
+
+The phase transformation from the tetragonal to the monoclinic phase (m → t) may initially increase the fracture toughness. However, with a further increase in the monoclinic phase, this effect vanishes [28]. It has been postulated [24] that only the tetragonal phase t may transform into the monoclinic phase [24], so it is important to also examine the other phases.
+
+In contrast to these considerations, Bothelo et al. [29] postulated that mechanical processing (e.g., grinding and polishing) does not influence the monoclinic phase fraction, suggesting that a monoclinic phase fraction in 3y-TZP (Cercon base from Dentsply Sirona) does not exist, despite the fact that processing and mechanic processing partly restore some mechanical properties, such as flexural strength.
+
+The current study aims to investigate the influence of different dental technical tools employed for the fabrication and processing of zirconia restorations as well as aging processes, such as thermocycling (TC) and mechanical loading on the phase composition (m, t, t′, t″, c) of zirconia with three different yttria contents.
+
+The null hypothesis is that the monoclinic phase fraction and the roughness (Sa) will increase with increasing mechanical (grinding, polishing, and chewing) and hydrothermal (thermocycling) stress.
+
+## 2. Materials and Methods
+
+### 2.1. Materials
+
+The seven types of commercially available zirconia that can be applied to the fabrication of dental restorations plates were fabricated using a dental furnace (inFire HTCspeed sintering furnace, Dentsply Sirona, Bensheim, Germany; program: Pre-heating with 10 K/min up to 1450 °C; holding time: 120 min; cooling off: 10 K/min) and a five-axis milling machine (Sirona inLab MC XL, Dentsply Sirona, Bensheim, Germany). For polishing, a Dental Direkt Panther edition Kit (Dental Direct GmbH, Spenge, Germany, Lot #61525) was used. Treatment included 6 min with a “Panther Flame 055M at 15,000 U/min”, 5 min with a “Panther Flame 055XF at 15,000 U/min”, and 2 min with a goat hair bur (19 mm) and Panther diamond polishing agent (Table 1).
+
+The plates were subjected to three mechanical treatments and one thermal treatment, resulting in an overall total of six measurement positions (Table 2/Figure 1).
+
+Figure 1 displays the different treatments applied on the surface of each specimen. Due to the thermal cycling, we distributed the measurement points (treatments) over two different plates.
+
+### 2.2. Methods
+
+#### 2.2.1. Confocal Laser Scanning Microscopy (CLSM)
+
+A Keyence VK-X1000/1050 (Keyence Deutschland GmbH, Neu-Isenburg, Germany) confocal laser scanning microscopy (CLSM) with a Nikon CF IC EPI Plan 50X (NA: 0.5, NIKON, Osaka, Japan) objective was used for surface measurement. Sa as the amount of the height difference of each point compared to the arithmetic mean of the surface was evaluated with Multi File Analyzer software (2.1.3.89, Keyence Deutschland GmbH, Neu-Isenburg, Germany) according to ISO 25178-2:2012. Therefore, five different areas per samples were characterized five times each with an area of 100 µm × 100 µm each and filtered to receive the surface for roughness evaluation (S-Filter: 0.5 µm; F-Filter: 0.1 mm; Filter type: spline).
+
+As values identified for Sa were not normally distributed across the samples of all materials analyzed in this study (Shapiro-Wilk test [30]: p < 0.05), medians and 25/75 percentiles were calculated, and statistical analyses were performed using the Kruskal–Wallis test [31] and post hoc analyses using the Dunn [32] post hoc test with Bonferroni [33] correction. To determine the strength of the effects, Cohen’s r [34,35] was calculated using the psychometrica platform. The general level of significance (α) was set to 0.05, and for interpretation, the Bonferroni-adjusted p-values were used.
+
+#### 2.2.2. X-ray Diffraction (XRD)
+
+All X-ray diffraction (XRD) measurements were performed using a Bruker D8 discover (Bruker AXS Advanced X-ray Solutions GmbH, Karlsruhe, Germany) with CuKα radiation (1.54 Å, 40 mA, 40 kV).
+
+The measuring spot was between 1 and 4 mm2 in size, and the snout diameter was 0.5 mm.
+
+A VÅNTEC-500 (Vantec Thermal Technologies, Fremont, CA, USA) was used as area detector, and three frames (1200 s each) from 25° to 75° with a 15° interval between the frames were measured. The goniometer radius on the secondary side was 300 mm.
+
+Using a measurement spot between 1 and 4 mm2 in size, a large surface area was measured, which produced robust data in each single measurement due to the small crystallite size of the material and, hence, the high number of measured grains.
+
+The diffractograms were integrated with the program DIFFRAC.EVA (Version 3.1; Bruker AXS Advanced X-ray Solutions GmbH, Karlsruhe, Germany); indexing of the registered reflexes was performed by means of structure maps from the ICDD-PDF2 database as well as [36].
+
+Two different principles of quantitative phase analysis were applied as follows:(a)Semi quantitative phase analyses (XRD).
+
+The proportion of the monoclinic phase was quantified according to DIN EN ISO 13,356 [37] on a polished surface using the equation of Garvie and Nicholson [38].
+(1)α=M1¯11+M111M1¯11+T111+M111
+
+α is the proportion of the monoclinic phase, M(hkl) denotes the intensity of monoclinic reflections of different indexing, and T (111) is the intensity of a tetragonal reflection. Prior to the calculations, the background was subtracted to avoid relevant overestimation of the monoclinic fraction.
+
+The volume fraction of the monoclinic phase was determined according to Toraya et al. [39].
+(2)Vm=1.311∝1+0.311∝
+
+The results of less than one percent were assumed not to have a monoclinic phase in the sample.
+
+(b)Rietveld refinement.
+
+Rietveld refinement was performed using the software TOPAS (Version 4.2, Bruker AXS Advanced X-ray Solutions GmbH, Karlsruhe, Germany).
+
+While ICSD (Inorganic Crystal Structure Database; Karlsruhe, Germany, https://icsd.fiz-karlsruhe.de/index.xhtml, accessed on 22 November 2021) structural data are available for the phases m, t, and c, the structural models for phases t′ and t″ were developed using literature data [13,25,36] and included in the Rietveld refinement.
+
+The crystallite size, the lattice constants, the site occupancy factor (S.O.F.) of the individual atom positions, and the isotropic temperature form were refined. The refinements achieved by this procedure fitted the measured diffractogram. The Rwp values (parameter for assessing the quality of the refinement, weighted profile R-value) ranged between 1.5 and 2.2 (example displayed in Figure 2).
+
+The pronounced overlapping of reflexes can be explained by the strong similarity of the tetragonal and cubic phases. Notably, between the phases t and t′ as well as t″ and c, the transition is fluent (cf. Figure 3) [22,24], which becomes clear by comparing the “tetragonality” (apseudocubic = a × 20.5) of the tetragonal phases [36] (t: 1.0159, t′: 1.0149, t″: 1.0033). Only at high diffraction angles (particularly around 59° and 73°) were reflexes (visualized as peaks in the diffractogram) identified, which allowed a distinction.
+
+The consequence of this flowing transition between the tetragonal phases is that overlaps occur between the tetragonal phases t and t′ and between the phases t′′ and c, so portions of one phase can be misinterpreted for the other.
+
+## 3. Results
+
+### 3.1. Surface Roughness
+
+Sa increased significantly after grinding (B) and decreased after polishing (C + D). Chewing simulation (E) did not significantly influence Sa (Figure 4).
+
+The Kruskal–Wallis test indicated significant differences in Sa between the various ceramics.
+
+Sa in measurement position A (untreated) did not differ significantly from B (grinding) but significantly differed from the positions C (grinding and polishing), D (polishing), and E (grinding, polishing, chewing, and thermocycling). Position B significantly differed on the samples of all the studied materials from all groups except group A.
+
+No significant differences in Sa were identified in the positions C (grinding and polishing), D (polishing), and E (grinding, polishing, chewing, and thermocycling) between the various Y-TZP ceramics.
+
+Detailed information regarding the results of the statistical analyses can be retrieved in the Appendix (Table A1, Table A2, Table A3, Table A4, Table A5, Table A6 and Table A7).
+
+### 3.2. X-ray Diffraction (XRD)
+
+(a)Semi quantitative phase analyses (XRD)
+
+X-ray data evaluated using the formula of Garvie and Nicholson [38] and the correction by Toraya [39] showed a monoclinic phase fraction that was dependent on the yttria content. No dependency on the type of processing was observed (cf. Figure 5).
+
+Polishing and chewing simulation led to the disappearance of the monoclinic phase fraction. However, a halving of the proportion of the monoclinic phase from processing step (1)A to processing step (1)B is not recognizable with this method (cf. Figure 5).
+
+(b)Rietveld refinement
+
+The properties of the untreated specimens were set as baseline and showed the initial phase composition prior to mechanical and hydrothermal accelerated aging (Figure 6, position (1)A).
+
+The proportion of the monoclinic phase decreased after mechanical processing (grinding) and entirely disappeared after chewing and polishing (Figure 6, position (1)B).
+
+Thermocycling predominantly caused a slight increase in the monoclinic phase fractions and made it difficult to distinguish between the different phases (Figure 6, positions (1)A, (1)C, and (1)D).
+
+Chewing completely transformed the monoclinic fraction into a tetragonal phase (Figure 6, position (2)E).
+
+With increasing yttria content, the proportion of the tetragonal phase t″ increased, while the proportions of the tetragonal phase t and the monoclinic phase decreased accordingly.
+
+Differences between the Y-TZPs from the two manufacturers were within the limits of measurement accuracy. The values identified were comparable with those reported by Keuper et al. [14].
+
+## 4. Discussion
+
+In the current study, the monoclinic phase fraction transformed entirely to a tetragonal phase under mechanical stress (cf. Figure 6) [40]. These findings are in contrast to other studies where no monoclinic fraction was identified at all [29] or where the monoclinic phase fraction increased by thermal [3,14,15,41] or mechanical [2,16,17] stress (which may be supported by water [3,14,15]).
+
+From a thermodynamic point of view, a phase transformation from a stable phase into a high-temperature (pressure) phase (tetragonal) could only be induced by a sufficient local input of energy.
+
+There are several publications [42,43,44] that report a transformation of the monoclinic phase into the tetragonal phase of “pure zirconia” with the combination of moderately increased pressure and temperature (e.g., 2.2 GPa/600 °C [42]), which could be even lower due to the yttria stabilization.
+
+In the current study, the phase boundary between the monoclinic and tetragonal phases must have been passed by a high energy input (grinding and polishing process), which can be explained by three combinable theories:
+
+As erosion and compression of the materials was visible, the mechanical load induced a critical stress state, which exceeded at least the strength.
+
+Since partially stabilized zirconia is a poor heat conductor [45,46], high local temperatures are possible.
+
+The tetragonal phase t features a higher density than the monoclinic phase. Thus, the multiphase system might avoid the appearance of pressure by compression (i.e., transformation into one of the tetragonal phases).
+
+The formula of Garvie and Nicholson [38] in combination with the correction by Toraya [39] only applies to a homogeneous powder mixture with a homogeneously distributed monoclinic phase (no preferred orientation). In order not to increase the half-width, the phases must have crystallized sufficiently well and not have changed due to the treatments applied [36].
+
+Furthermore, it must be taken into account that the analyzed sample volume depends on the measurement setup (measurement geometry, wavelength used, and intensity of the primary beam) employed [41].
+
+Generally, the number of XRD reflexes increases with decreasing symmetry of the phases. Further reflexes occur, although they are in some cases accompanied by low intensity. Monoclinic crystal systems have lower symmetry, and, therefore, the number of reflexes is high, and the intensity of each reflex is low. This method is particularly prone to errors in systems with small monoclinic components since the monoclinic reflections hardly stick out of the noise (cf. Figure 7).
+
+Thus, the proportions determined by this procedure should not be regarded as absolute numbers but rather seen as describing the progress of phase transformation, thereby allowing comparisons with other studies.
+
+While the absolute fraction of the monoclinic phase is up to three times higher with the Rietveld refinement, the proportions identified for the changes in the fraction of the monoclinic phase coinciding with a continuous increase in the yttria fraction are similar. However, halving of the proportion of the monoclinic phase from A (reference) to processing step B (grinding) is not discernible with the formula of Garvie and Nicholson [38,39].
+
+As the diffractograms (Figure 7) clearly show the transformation of the monoclinic phase (2θ = 27.5–28.4°) in two stages, it is obvious that the Rietveld refinement is far better than the method of Garvie and Nicholson [38].
+
+With regard to the tetragonal phase t′, it should be noted that it is very similar to the tetragonal phase t and that portions of t can be very easily attributed to the tetragonal phase t′ (“tetragonality” t: 1.0159; t′: 1.0149; t″: 1.0033 [36]). Since removing the tetragonal phase t′ affects the refinement only insignificantly, the distinction between the tetragonal phases t′ and t is doubtful. On the other hand, there are several papers [23,24,25] that describe the occurrence of the tetragonal phase t′ in a non-dental context.
+
+## 5. Conclusions
+
+Despite the limitations of the present study, the null hypothesis cannot be confirmed. The following conclusions were drawn:(1)X-ray diffraction (XRD) is a suitable method for analyzing the phase composition of yttria-stabilized zirconia.(2)Mechanical processing partly (grinding) or completely (polishing and chewing) transforms the monoclinic phase into the tetragonal phase in all specimens investigated. Low-temperature degradation was not observed in the current study.(3)The composition of the tetragonal phase is dependent on the yttria content. In specimens with a content of 3 mol% yttria, the tetragonal phase t was preferred, while in specimens with a content of 5 mol% yttria, the tetragonal phase t″ was preferred.(4)The Rietveld refinement is far more accurate for the evaluation of XRD data than the Garvie-Nicholson method [38,39] (DIN EN ISO 13,356 [37]).
+
+Due to the limited number of specimens (two to three per yttria content) and measurements per position, this study can only suggest future approaches. In order to achieve reproducible and comparable test results, the influences (of sampling) and measurement settings (X-ray tube, detector, and measurement count) should be investigated more extensively. The current study could not verify whether a failure-controlled (cause of damage: local stress peaks, consequence of phase transformation) or a transformation-controlled (cause: Phase transformation, consequence of micro crack formation) failure pattern occurred.

@@ -1,0 +1,15 @@
+TITLE: Microvascular response in the periosteum following mucoperiosteal flap surgery in dogs: angiogenesis and bone resorption and formation.
+AUTHORS: Nobuto Takahiro, Suwa Fumihiko, Kono Tomoo, Taguchi Yoichiro, Takahashi Tsurayuki, Kanemura Naoko, Terada Shoichiro, Imai Hisao
+JOURNAL: Journal of Periodontology
+ID[pmid]: 16101368
+ID[doi]: 10.1902/jop.2005.76.8.1346
+
+## ABSTRACT
+
+BACKGROUND: When surgical stress reaches the periosteum, bone resorption and formation that occur as a periosteal response are closely related to angiogenesis and hemodynamics. Thus, we investigated bone remodeling in the healing process after mucoperiosteal flap surgery, focusing our attention on the microcirculation.
+
+METHODS: Mucoperiosteal flap surgery was performed on 12 adult beagle dogs. The periosteal vascular plexus was observed on days 7, 14, 21, and 28 after surgery, using three different techniques: in histological specimens into which India ink was injected into blood vessels, under a light microscope; in ultrathin sections, using a transmission electron microscope; and in acryl plastic-injected vascular corrosion cast specimens, under a scanning electron microscope.
+
+RESULTS: On day 7 after surgery, the interstitum of the elevated mucoperiosteal vascular plexus was filled with sinusoidal new blood vessels. Bone resorption by osteoclasts was observed around these new blood vessels and many highly permeable fenestrations were present in the vascular endothelium. On day 14 after surgery, sinusoidal new blood vessels were more markedly developed and some regions exhibited glomeruluslike morphology consistent with bone resorption cavities. Activated osteoblasts were present around these new blood vessels and highly permeable vesicles, which were considered to be possible vesiclo-vacuolar organelles (VVOs) and caveolae, were noted in the vascular endothelium. On days 21 and 28 after surgery, the mucoperiosteal vascular plexus was dissected through regression of endothelial cells and fibroblasts and reconstructed into a rough mesh structure, and simultaneously the bone surface became smooth.
+
+CONCLUSION: The morphology of the mucoperiosteal vascular plexus changed with bone metabolism and these changes contributed to transport of substances involved in periodontal repair.

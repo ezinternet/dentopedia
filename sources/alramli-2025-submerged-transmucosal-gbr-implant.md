@@ -19,6 +19,22 @@ RCT (n=28, CBCT): submerged vs transmucosal healing after simultaneous GBR with 
 ## 한줄요약
 RCT (n=28, CBCT): 임플란트 동시 GBR 후 서브머지드 vs 치통 점막 치유의 수직골획득·결손해소·협측골두께 차이 없음 (4개월).
 
+## Three-line Summary
+
+RCT (n=28, CBCT at 4 months) comparing submerged versus transmucosal healing approaches after simultaneous GBR with immediate implant placement in patients requiring ≥2 mm coronal bone exposure management.
+
+No significant differences were found in vertical bone gain (VGAIN), defect resolution, or radiographic bone thickness (RBT) between groups; both groups showed significant within-group reduction in RBT from baseline to 4 months.
+
+Transmucosal healing does not compromise GBR dimensional outcomes, supporting its use to simplify the surgical protocol without radiographic penalty.
+
+## 세줄요약
+
+RCT (n=28, 4개월 CBCT): 임플란트 동시 골유도재생 (Guided Bone Regeneration, GBR) 후 서브머지드 (SBM) vs 치통 점막 (TSM) 치유 방식 비교.
+
+수직골획득 (VGAIN)·결손해소·방사선적 골두께 (Radiographic Bone Thickness, RBT) 모든 지표에서 두 군 간 유의한 차이 없음; 양 군 모두 협측 골두께는 기저치 대비 유의하게 감소 (p<0.05).
+
+치통 점막 접근법은 GBR 골 결과를 손상시키지 않아 임상 프로토콜 단순화 가능.
+
 ## 1. Document Information
 - Journal: Clinical Oral Implants Research, Vol. 37, Issue 3, pp. 373–382
 - Publication date: 2025-12-26 (online)

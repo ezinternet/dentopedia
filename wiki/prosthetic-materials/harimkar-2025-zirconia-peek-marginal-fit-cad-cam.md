@@ -3,7 +3,7 @@ title: "Zirconia vs PEEK Copings Marginal Fit CAD/CAM: SR+MA"
 authors: "Harimkar RL, Jaiswal N, Gangurde AP, Chauhan M, Shaikh S, Bhosale S"
 year: 2025
 doi: 10.7759/cureus.96664
-source: Cureus
+source: harimkar-2025-zirconia-peek-marginal-fit-cad-cam.md
 category: prosthetic-materials
 evidence_level: sr+ma
 date: 2025-11-12

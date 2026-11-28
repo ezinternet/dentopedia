@@ -20,6 +20,8 @@ tags: [implant-angulation, placement-direction, anatomic-constraints, CBCT, ante
 > - **비축방향의 생물역학적 대가** (kim 2026): 비축방향 임플란트의 5년 변연골 소실(MBL) **0.22 mm vs 축방향 0.10 mm** (P<.05); 비축방향 × 임플란트 지지 대합치 상호작용 시 Δ0.373 mm 추가 — 해부학이 기울기를 강제하더라도 교합 설계로 보정 필요.
 > - **CBCT 필수성**: 후방 하악 IAC·LPP 위험 + 상악 소구치 천공 위험 + 후방 상악 잔존골 높이 모두 2D 방사선으로 계량화 불가.
 > - **공통 원칙**: 해부학이 비축방향을 강제할 때 → ① 최소 필요 각도로 기울임 ② CBCT로 계량화 ③ 각도형 지대주는 최소 각도 + 멀티유닛(나사유지) ④ 교합 최적화(협설 하중 방향 제어).
+> - **인접 치근 손상 10년 코호트 추가(2026-11-10, Yi 2021, 분당서울대병원, 28명·32개, 평균 122.7개월)**: 손상된 치아의 90.6%가 기능 유지 — 미치료 27개 중 19개(70.4%)가 생활력 유지·무증상, 7개가 근관치료 필요(3개는 이후 발치), 기존 근관치료치 5개는 영향 없음. 임플란트 생존율 96.9%. **직접 치근 침범만으로는 치아도 임플란트도 발거 적응증이 아니다** — 증상이나 방사선학적 악화 시에만 개입하는 관찰 전략.
+> - **하악 전방부 — 구강저 출혈 (Floor-of-Mouth Hemorrhage) 추가(2026-11-27, 5편)**: 이 페이지가 비워둔 부위의 *방향 위반 결과*. 설측 피질골 천공 → 설하동맥 (Sublingual Artery) 손상이 구강저 혈종의 **84%**(Law 2017, 25증례), 최다 부위 **하악 견치부**·임플란트 **≥15 mm**(Balaguer-Martí 2015 SR); 응급 기도 확보 68%. 출혈은 즉시 70.6%·최대 7시간 지연 → 술후 ≥2시간 관찰. 가이드 수술 후 손 식립에서 설측 편위된 국내 증례(Mun 2026)도 있다 — **안전 각도의 정량값은 여전히 없다**(근거가 전부 증례).
 
 ## Three-line Summary
 
@@ -182,6 +184,7 @@ Off-axis is sometimes anatomically mandatory. But the biomechanical debt is real
 | Maxillary premolar | Palatal concavity, LCA | Buccal tilt ~18° from tooth axis | ILAA 18.3°; LCA, tooth-apex distance | Cortical perforation 84% (prosthetic axis) |
 | Posterior mandible (IAC) | IAC proximity | True axial; length = IAC − 2 mm | IAC margin ≥2 mm; 2M shortest (4.65 mm) | IAN paresthesia; early failure |
 | Posterior mandible (LPP) | Lingual concavity (CPDU) | Axis clear of D-I / U-I concavity | Undercut depth, IAC position | Lingual cortical perforation, vascular injury |
+| Anterior mandible (interforaminal, canine) | Lingual cortex + sublingual artery | Buccolingual angle kept inside the cross-sectional ridge; short implant | No quantified angle; risk rises with ≥15 mm implants, canine site | Floor-of-mouth hematoma, airway obstruction (68% needed emergency airway) |
 | Posterior maxilla | Sinus floor (RBH 4–9 mm) | Axial within 1-mm margin; TSFE | 1-mm sinus safety margin; RBH | Schneiderian membrane perforation (7.2% vs 2.5%) |
 | All sites | Nonaxial loading → MBL | Axial whenever anatomy permits | 0.22 vs 0.10 mm MBL at 5 yr | Crestal bone loss; amplified by FDP antagonist |
 
@@ -215,6 +218,7 @@ IAC shortest (4.65 mm), U-type ridge most common (73%), lingual concavity deepes
 | Posterior mandible IAC distances | [[immediate-implant/anatomic-assessment/behfarnia-2025-anatomic-immediate-implant-mandibular-posterior]] | SR+MA (12 studies) | 1,834 | SR+MA |
 | Posterior mandible CPDU ridge classification | [[immediate-implant/anatomic-assessment/alqaood-2026-cpdu-classification-posterior-mandible]] | Retrospective CBCT | 195 | Cross-sectional |
 | Posterior maxilla direction + TSFE | [[sinus-lift/transcrestal/jia-2025-accuracy-robotic-cais-tsfe-posterior-maxilla]] | Retrospective case series | 40 | Retrospective |
+| Anterior mandible floor-of-mouth hemorrhage | [[oral-surgery/balaguermart-2015-immediate-bleeding-complications-in-dental]]; [[oral-surgery/law-2017-floor-of-mouth-hematoma-following]] | SR of case reports; case review | 15 reports; 25 cases | Case-based |
 | Nonaxial angulation → MBL | [[implants/peri-implantitis/kim-2026-implant-angulation-peri-implant-bone]] | Retrospective cohort (5 yr) | 288 / 506 implants | Retrospective |
 | Tilted vs axial SR/MA + angled abutments | [[overviews/tilted-axial-implant-angled-abutment-overview]] | Synthesis (7 papers) | — | Synthesis |
 
@@ -229,4 +233,37 @@ IAC shortest (4.65 mm), U-type ridge most common (73%), lingual concavity deepes
 - **Posterior mandible healed-site anatomy**: Behfarnia 2025 and Alqaood 2026 both used immediate placement CBCT data. True delayed-placement anatomy (remodeled ridge) may differ — no PMC paper available.
 - **Posterior maxilla anatomy (healed ridge)**: No PMC paper quantifies buccolingual bone width or palatal-buccal axis constraints for delayed posterior maxillary implants outside the TSFE context. Couso-Queiruga 2023 (PMID 37493201) is a relevant candidate without PMC access.
 - **Upper premolar delayed placement direction**: Najm 2024 is an IIP study; ILAA 18.3° applies to fresh sockets — healed-ridge anatomy may be less extreme.
-- **Mandibular anterior and canine**: No papers in this wiki specifically quantify safe placement direction in this region.
+- **Mandibular anterior and canine**: Partly filled 2026-11-27 — the *consequence* of lingual perforation here is now documented (floor-of-mouth hemorrhage, 5 papers; see Evidence Update below), but no paper quantifies a safe buccolingual angle or a lingual-cortex margin for this region, and all hemorrhage data are case-based with no incidence denominator.
+
+## Evidence Update — When the Constraint Is Violated: Adjacent-Root Injury at Ten Years (2026-11-10)
+
+[[implants/yi-2021-long-term-clinical-result-implant]] is a retrospective cohort from Seoul National University Bundang Hospital: 32 implants with adjacent-root injury in 28 patients, mean follow-up 122.7 months, graded as direct root invasion, root-surface contact, or proximity under 1 mm.
+
+- 90.6% of injured teeth remained functional.
+- Of 27 teeth with no prior root canal treatment, 19 (70.4%) stayed vital and asymptomatic; 7 needed root canal treatment, and 3 of those were later extracted.
+- All 5 previously root-treated teeth were unaffected.
+- Implant survival 96.9%; ISQ rose from 64.1 to 73.9 (P=0.007).
+
+**How it complements this page.** The framework above covers anatomic limits on implant direction region by region. The adjacent root is a limit it does not treat separately, and Yi supplies the outcome data for when that limit is breached. The result is milder than the usual assumption. Most injured teeth needed nothing, and the implants integrated normally.
+
+**Management implication.** Direct root invasion alone is not an indication to remove either the implant or the tooth. The supported approach is monitoring, with endodontic treatment reserved for symptoms or radiographic deterioration. About a quarter of untreated teeth did eventually need root canal treatment, so monitoring means scheduled review with vitality testing and radiographs, not reassurance and discharge.
+
+**Limits.** These are cases identified after the fact in which the implant was retained, so the worst injuries may be under-represented. Thirty-two implants across three injury grades leaves each grade thinly populated. The finding does not relax the planning standards above.
+
+## Evidence Update — Anterior Mandible: When the Lingual Cortex Is Perforated (2026-11-27)
+
+The Decision Framework above had no anterior-mandible row, because no held paper quantified placement direction there. Five newly ingested papers do not supply that angle either, but they document what happens when the lingual cortex is breached in this region — and it is the most dangerous failure mode on this page.
+
+| Paper | Design | Key finding |
+|---|---|---|
+| [[oral-surgery/balaguermart-2015-immediate-bleeding-complications-in-dental]] | SR of 15 case reports/series | Canine region most common; lingual perforation → sublingual artery; implants ≥15 mm whenever length was reported; bleeding immediate 70.6%, delayed up to 7 h; intubation 41%, tracheotomy 47%; no deaths; anticoagulated patients excluded |
+| [[oral-surgery/law-2017-floor-of-mouth-hematoma-following]] | Review of 25 cases + 1 case | 84% from lingual perforation; 68% emergency airway; 72% surgical management in hospital; pre-op 3D imaging in only 1 of 17 |
+| [[oral-surgery/sfondrini-2024-floor-of-the-mouth-hemorrhage]] | Case report (n=2) | Second route: ascending mental artery cut during GBR periosteal release; management order bimanual compression → transfer → airway; prevention incl. short implants (≤10 mm) and ≥2 h observation |
+| [[oral-surgery/vehmeijer-2016-airway-management-of-a-patient]] | Case report (abstract only) | Two malpositioned implants through the lingual plate; awake fiberoptic intubation, implants removed |
+| [[oral-surgery/mun-2026-life-threatening-floor-of-mouth]] | Case report (abstract only, Korean centre) | Severely resorbed mandible; one implant deviated lingually during freehand insertion after a fully guided osteotomy |
+
+**How it extends this page.** Principle 1 (CBCT is non-negotiable) has so far been argued from the posterior mandible and posterior maxilla. The anterior mandible is often treated as the "easy" site; these papers show that it is where a direction error is most likely to become an airway emergency. Mun 2026 adds a point that matters for Principle 3: a guided osteotomy does not protect the site if the implant itself is inserted freehand and drifts.
+
+**What it does not give.** No incidence per implant placed, and no safe angle or lingual-cortex margin. Treat the ≥15 mm signal as a description of reported cases, not a validated length threshold.
+
+**Chairside protocol** (prevention, recognition, the airway-first sequence) lives in [[overviews/antithrombotic-seminar-evidence-check-overview]] §3.1, where it was built to check a seminar claim — the hemorrhage is anatomical, not drug-driven.

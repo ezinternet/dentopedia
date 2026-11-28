@@ -1,0 +1,129 @@
+TITLE: Does Collagen Membrane Coverage Offer any Advantage for Lateral Window Sinus Augmentation? A Histologic and Histomorphometric Analysis
+AUTHORS: Jabbari Negin, Shooshtari Zahra, Mohammadi Shabnam, Ghazi Narges, Kazemian Mozhgan
+JOURNAL: World Journal of Plastic Surgery
+ID[pmcid]: PMC11629758
+ID[pmcid-ver]: PMC11629758.1
+ID[pmcaid]: 11629758
+ID[pmcaiid]: 11629758
+ID[pmid]: 39665008
+ID[doi]: 10.61186/wjps.13.3.49
+
+## ABSTRACT
+Background:We aimed to determine whether collagen membrane coverage in maxillary sinus floor elevation surgery, provides an advantage regarding bone regeneration.
+Methods:This randomized clinical trial included all healthy adults presented for dental implant placement in the posterior edentulous maxilla at the Maxillofacial Surgery Department of Mashhad Dental School, Mashhad, Iran from 2021-2022. Participants were candidates for sinus floor elevation surgery. Patients were randomly allocated to control (with membrane) and test (without membrane) groups. Surgery was performed through the lateral window technique and using allograft particles. According to the assigned study group; either a collagen membrane was placed over the osteotomy window or it was left uncovered. Six months after surgery when patients were recalled for implant placement, a bone specimen was obtained and sent for histologic and histomorphometric analysis. The predictor variable was the use of collagenous membrane and the outcome variables were the amount of newly formed bone, native bone, and connective tissue.
+Results:A total of 30 consecutive patients, with a mean age of 46.33±7.25 years completed the study. Histomorphometric measurements, six months after augmentation revealed that the mean area of connective tissue was significantly less in the group with membrane coverage (P=0.015). The area of newly formed bone was significantly greater in sites covered with a collagen membrane compared to grafted but uncovered sites; (P <0.001).
+Conclusion: Covering the lateral osteotomy window with a bioabsorbable collagenous membrane is able to significantly enhance vital bone formation and decrease connective tissue proliferation.
+
+## INTRODUCTION
+
+Dental implant installation is only possible in the presence of adequate and appropriate bone in terms of both quantity and quality. Bone atrophy secondary to tooth extraction and periodontal disease is an extremely common finding in the maxilla, this is especially evident while accompanied by sinus pneumatization in the posterior region 1, 2. Therefore, implant placement in the posterior maxilla has always been a challenge for the treating surgeon. Multiple surgical procedures have been employed to overcome these obstacles while treating this region 3.
+
+Sinus augmentation is a well-known and versatile technique that is commonly used to develop the proposed surgery site for implant placement in the edentulous areas of the maxilla 3-5. This technique was initially introduced by Tatum in 1977, and was later modified by Boyne and James and has been extensively used ever since 6, 7. The lateral antrostomy and the transalveolar technique are considered the two main approaches to maxillary sinus elevation in preparation for implant placement; the employed surgical technique can potentially influence the final clinical outcome 8. Therefore, it is necessary for the treating practitioner to obtain a highly competent knowledge of the details and indications of each technique. When using the lateral antrostomy technique, a bony window is made to expose the lateral wall of the maxillary sinus; the Schneiderian membrane is then elevated and graft material is placed into the space created inferior to the membrane. Before soft tissue closure, the bone graft is covered with either cortical bone or a collagenous membrane.
+
+Employing this technique provides a much better view of the maxillary sinus and therefore facilitates sinus floor elevation and graft placement. On the other hand, the lateral window approach is proven to be more time-consuming, costly and is followed by a higher rate of postoperative pain and discomfort for candidate patients 9-11.
+
+The advantage of sinus floor augmentation with a membrane versus without barrier membrane coverage of the lateral window still remains a subject of controversy. It is well established that collagen membranes are able to provide a considerable amount of trabecular bone and thus promote appropriate bone regeneration, but on the other hand membrane placement is potentially accompanied by a higher risk of postoperative infection in candidate patients 12.
+
+Hence the purpose of the present study was, therefore, to assess whether collagen membrane coverage offers any advantage in the healing process of the graft site while using the lateral window approach for maxillary sinus elevation. The authors hypothesized that placing a collagen membrane over the grafted site in sinus floor elevation surgery would be able to enhance vital bone formation. This study was directed at histopathologic and histomorphometric analysis We aimed to evaluate and compare the amount of newly formed bone, native bone, and connective tissue, six months after sinus augmentation with and without concurrent collagen membrane placement.
+
+## METHODS AND MATERIALS
+
+Study design and patient selection
+
+The protocol of this randomized clinical trial was approved by the Research and Ethics Committee of Mashhad University of Medical Sciences (IR.MUMS.DENTISTRY.REC.1397.099) and was registered in IRCT under the code 20200125046247N1. Guidelines of the declaration of Helsinki and Consort statement were followed in this research. Patients were only recruited after obtaining fully informed written consent.
+
+Healthy adults over the age of 18, with an American Society of Anesthesiologist (ASA) status I or II; were included in this study. Participating patients were candidates for maxillary sinus floor elevation surgery prior to implant placement in the Maxillofacial Surgery Department of Mashhad Dental School, Mashhad, Iran, from October 2021 to October 2022. Patients’ developed treatment plan entailed dental implant installation to replace the missing second premolar and first molar; either on the left or right side of the maxilla (to replace teeth 23 and 24 or 13 and 14). The height of the residual alveolar bone was measured to be 3 to 5 mm in all patients. All individuals were able to maintain good oral hygiene.
+
+Exclusion criteria were as follows: pertaining medical history that contraindicates or hinders ideal implant placement, sinus pathologies, maxillary sinuses with a septum, and encountering Schneiderian membrane perforation during the surgical procedure. Patients who refused to show up for routine follow-up visits were also subsequently excluded from the study.
+
+Patients who finally met the above-listed inclusion criteria were enrolled and then randomly allocated into two equal groups: those receiving a collagen membrane (control group) and those without a membrane (test group). This was achieved by using the block randomization technique; which was performed by one of the nursing staff members who was blind to the study. Allocation concealment was performed using sequentially numbered opaque envelopes. The randomization codes were concealed from the study investigator who was in charge of the histomorphometric and histologic analysis. The data analyzer was also unaware of which group each patient was assigned to and the randomization codes were kept in a secure location until the end of the study. A Double-blind randomized clinical trial was carried out.
+
+Clinical Procedure
+
+All maxillary sinus augmentation surgeries were performed by the same surgical team and under local anesthesia. The lateral window approach was employed. A crestal incision was made in the posterior edentulous maxilla and the lateral wall of the maxillary sinus. Releasing incisions were then made to allow adequate exposure of the sinus wall. A full-thickness mucoperiosteal flap was reflected and sequels of osteotomies were made to form a bony window in accordance with the sinus anatomy. Once the window was created and the Schneiderian membrane was exposed, it was elevated using appropriate curettes and after that, the bony window was lifted. Freeze-dried bone allografts (Tehran Grafting Bank Inc., Tehran, Iran) a mixture of mineralized and demineralized, consisting of large particles sized from 1000 to 2000; were used as grafting material and were loosely packed into the cavity. Only in the control group, the grafted site was then covered by a 0.2-0.4 mm thick absorbable collagen membrane (Tehran Grafting Bank Inc., Tehran, Iran); while in the test group no membrane was used and the mucoperiosteal flap, with an intact periosteum, was simply repositioned. Soft tissue closure was accomplished by suturing using Silk 3-0 (Supa Medical, Tehran, Iran) at the end of every surgery.
+
+Patients were provided with a printed set of postoperative instructions and were advised to strictly adhere to sinus precautions. Patients were then treated with Co-amoxiclav 625mg (Farabi, Tehran, Iran), three times a day for 7 days in addition to Gelofen (Arian, Tehran, Iran), as an analgesic, if needed after surgery. Sutures were removed 7 days after the surgery and the surgical site was examined and checked in case of any complications or dehiscence.
+
+Bone volume changes were evaluated using cone beam computed tomography (CBCT), six months after graft surgery. In condition to the presence of adequate bone, patients underwent another surgery, this time for implant placement.
+
+Histologic and histomorphometric analysis
+
+A 3 mm-diameter trephine bur was utilized to collect bone core specimens from the augmented site prior to implant installation. The retrieved bone biopsy samples were immediately fixated and prepared for histopathologic analysis. The specimens were fixed in 10% formalin for 24 hours and then decalcified with 7% nitric acid solution and finally embedded in paraffin. The central parts of the specimens were cut into 5 µm-thick sections and then stained with hematoxylin-eosin and finally observed under a light microscope (Olympus BX51, Japan). The presence of inflammation, necrosis, as well as the nature and quality of connective tissue and bone, were assessed through a light microscope. The histomorphometric analyses were performed through ImageJ software (U.S. National Institutes of Health, Bethesda, Maryland), in aims of measuring the amount of newly formed bone and connective tissue. The following histologic parameters were measured: the area of newly formed bone, native bone, and connective tissue.
+
+Statistical analysis
+
+The sample size was set at 30 patients, 15 in each group. The predictor variable was the use of collagenous membranes and the primary outcome variables were the area of newly formed bone, native bone, and connective tissue. Data were analyzed using SPSS Software V.21 (IBM Corp., Armonk, NY, USA). Independent t-test, paired t-test, Chi-square test as well as Pearson’s correlation coefficient were all incorporated for statistical analysis. As for descriptive analysis, appropriate charts and tables were used to display the central tendency and dispersion indexes. The significance level was set at P- value<0.05.
+
+## RESULTS
+
+A total of 30 patients with an average age of 46.33±7.25 years and an age range of 37 to 64 years were recruited during the 1-year period. Patient distribution frequency consists of 15 females (50%) and 15 males (50%). The group with membranes (control group) consisted of 7 males (46.7%) and 8 females (53.3%) with a mean age of 46.07±7.12 years. Patients in the group without membranes (test group) comprised 8 males (53.3%) and 7 females (46.7%) with an average age of 46.60±7.62 years. There was no statistically significant difference in terms of age and gender distribution among the two study groups (P= 0.845 and P = 0.715, respectively). The area of the newly formed bone, native bone, and connective tissue were the investigated variables among both groups; those who received collagen membranes and those who did not. According to Shapiro-Wilk test, all variables were normally distributed.
+
+Histologic Findings
+
+In all biopsy specimens evaluated, newly formed bone trabeculae consisting of both mature lamellar and unorganized woven bone were noticed. Furthermore, the newly formed vital bone was characterized by distinctly larger lacunae and a higher density of osteocytes. Regardless of the study group, no histologic evidence of prominent inflammation was present, or only scarce inflammatory cells were identified (Fig. 1).
+
+Histomorphometric Findings
+
+Histomorphometric analysis demonstrated that the average amount of connective tissue in the membrane group and the group without a collagen membrane were 41.20 ± 12.82 µm2 and 54.20 ± 14.5 µm2, respectively. This difference was proven to be statistically significant (P =0.015). The amount of native bone was found to be 100.27±11.45 µm2 in the test group and 79.33±13.76 µm2 in the control group, which was again considered statistically significant (P <0.001). The average amount of newly formed bone was significantly higher in graft sites covered with a collagen membrane compared to grafted but uncovered sites; 100.47 ± 16.37 µm2 and 85.27 ± 12.37 µm2, respectively (P <0.001). Table 1 illustrates these results in greater detail.
+
+As displayed in Table 2, in the group with uncovered graft sites, the amount of connective tissue was significantly but inversely correlated to the amount of native and newly formed bone. The amounts of native and newly formed bone were significantly and directly correlated (P <0.001). On the other hand, in cases that received membrane coverage, the amount of native and newly formed bone were the only variables that were significantly correlated, exhibiting an inverse correlation to be exact (P =0.050).
+
+According to the obtained results from independent t-test, there was no significant difference between the amount of soft tissue, native bone, and newly formed bone in males compared to females.
+
+[FIGURE] Histologic view, 6 months after sinus augmentation with (A) and without (B) using collagen membrane coverage. Newly formed bone with osteocyte lacunae and connective tissue with mild inflammation was observed under a light microscope. No evidence of necrosis or foreign body reaction was identified
+
+[TABLE] Comparison of the amount of connective tissue, newly formed bone and native bone in both study groups
+Connective Tissue | Without Membrane | 15 | 54.20 | 33 | 76 | T=2.59P=0.015
+With Membrane | 15 | 41.20 | 20 | 68
+Native bone | Without Membrane | 15 | 100.27 | 84 | 117 | T=4.53P<0/001
+With Membrane | 15 | 79.33 | 58 | 108
+Newly Formed Bone | Without Membrane | 15 | 85.27 | 64 | 104 | T=2.87P<0.001
+With Membrane | 15 | 100.47 | 60 | 123
+
+[TABLE] Comparison of the quantitative variables between the two study groups
+Without Membrane | Age | Pearson's Correlation Coefficient |  | 268/0- | 0.400 | 0.392
+P -value | 0.333 | 0.140 | 0.148
+Connective Tissue | Pearson's Correlation Coefficient | 268/0- |  | 674/0- | 699/0-
+P -value | 0.333 | 0.006 | 0.004
+Native bone | Pearson's Correlation Coefficient | 0.400 | 674/0- |  | 984/0
+P -value | 0.140 | 0.006 | P<0.001
+Newly Formed Bone | Pearson's Correlation Coefficient | 0.392 | 699/0- | 984/0 | 
+P -value | 0.148 | 0.004 | P<0.001
+With Membrane | Age | Pearson's Correlation Coefficient |  | 218/0- | 120/0- | 188/0-
+P -value | 436/0 | 669/0 | 503/0
+Connective Tissue | Pearson's Correlation Coefficient | 218/0- |  | 098/0 | 346/0-
+P -value | 436/0 | 727/0 | 206/0
+Native bone | Pearson's Correlation Coefficient | 120/0- | 098/0 |  | 515/0-
+P -value | 669/0 | 727/0 | 050/0
+Newly Formed Bone | Pearson's Correlation Coefficient | 188/0- | 346/0- | 515/0- | 
+P -value | 503/0 | 206/0 | 050/0
+
+## DISCUSSION
+
+In a clinical setting, the lack of adequate bone mass in the posterior maxilla can restrict implant surgery. The loss of bone in this region is frequently encountered, especially secondary to tooth extraction and subsequent sinus pneumatization. In such cases, maxillary sinus floor elevation surgery is considered to be the mainstay of treatment for pre-implant preparation. Multiple approaches for sinus floor elevation exist, the lateral window method being one of the most widely performed. Therefore, we aimed to assess and compare the healing process in sinus floor elevation using allograft material, with or without concomitant collagen barrier coverage of the lateral window.
+
+According to the obtained results, the average amount of connective tissue and native bone were significantly greater among the group who underwent maxillary sinus augmentation, without collagen membrane coverage (P =0.015 and P <0.001, respectively). Whereas the group with collagen membranes (control group) demonstrated a significantly higher amount of new bone formation six months postoperatively (P <0.001).
+
+Numerous previously conducted studies, indicate that the percentage of new bone formation is inversely proportional to the bucco-palatal width of the maxillary sinus 13-15. Thus the anatomical sinus characteristics can play a predominant role in the process of new bone formation. However, some authorities do not support this notion and do not seem to consider the anatomical parameters of the maxillary sinus to be quite as crucial; and stand by the fact that this surgical procedure can be highly successful regardless of the sinus anatomy 16, 17. Moreover, the sinus floor anatomy which can provide a close vital bone to graft material contact; can optimize vital bone formation.
+
+The hypothesis that membrane coverage can influence the amount of new bone formation; has been speculated over time. Some researchers continue to believe that the presence of a barrier membrane can dramatically increase new bone formation, while others argue that barrier membrane coverage does not highly affect the creation of vital bone. As a matter of fact, membrane coverage is associated with some advantages and disadvantages. A collagen membrane prevents non-osteogenic cells from invading the bone formation site and therefore provides adequate bone and a much more promising implant survival rate and primary stability. On the contrary, appropriate membrane placement requires a further extension of the flap and is also accompanied by less blood supply secondary to reflection of the buccal flap 18.
+
+A study conducted by Wallace et al. 19 compared the healing results after sinus augmentation with bovine bone; after lateral window coverage with bioabsorbable and non-absorbable membranes. It was concluded that although membrane coverage can enhance vital bone formation, there was no significant difference between absorbable and non-absorbable membranes. There was also a higher amount of connective tissue in the non-membrane group. Tarnow et al. 18 also revealed that the rate of vital bone formation was approximately two times greater when a barrier membrane was placed. The results of the aforementioned studies were in accordance with the present study.
+
+Schulten et al. 20 claim that covering the lateral window with a barrier membrane does not seem beneficial and can in fact decrease the osteoid density and eventually lead to a lower rate of new bone trabeculae formation. This was in contrast to the results of our study; which may be rationalized by the fact that we used allografts as augmentation material and also had a larger study sample.
+
+Choi et al. 21 state that using an absorbable membrane drastically decreases the amount of connective tissue present in the sinus cavity, which was similar to the findings of the present study. On the other hand, they also state that the rate of new bone formation was practically the same among the membrane and non-membrane groups, this is probably attributable to the fact that the bone-core specimens were obtained from the central part of the maxillary sinus. The same was done when retrieving the bone samples in the present study.
+
+Another study by Barone et al. 22 also shows that although the rate of vital bone formation was higher in cases with a membrane covered over the augmentation material; but this difference was insignificant. This insignificancy is most likely due to the small sample size incorporated in the mentioned study and it should also be noted that there was a significant difference in terms of age distribution among the membrane and non-membrane groups. According to this study, connective tissue proliferation was significantly lower when a membrane was used; which is similar to the findings of the present study.
+
+In 2019 a systematic review and meta-analysis was conducted by Starch-Jensen et.al 23, in aims of comparing sinus floor elevation with versus without barrier membrane coverage of the lateral window. After maxillary sinus augmentation, it was shown that the rate of vital bone and connective tissue formation was relatively similar in both groups. All in all, membrane coverage is able to enhance vital bone formation, reduce connective tissue formation and also prevent graft material displacement. This was similar to the established results of our study. It is worth mentioning that none of the investigated studies in this meta-analysis utilized allografts as their grafting material, our study is the only similar study that has used an allograft material to augment the maxillary sinus.
+
+Using adjuvant methods for maxillary sinus floor augmentation has also been assessed in previous studies. A randomized clinical trial by Shiezadeh et al. 24 revealed that using PRF as and adjunctive graft material with bone allografts for sinus floor elevation, is able to induce bone marrow formation.
+
+Tawill et al. 25 conducted a study in order to assess implant survival rates after sinus augmentation using bovine bone mineral with and without concomitant use of a bi-layered collagen membrane. A higher implant survival rate and shorter healing period were identified in cases that received membrane coverage. In the membrane group; implant survival rate was relatively similar after delayed and immediate implantation. While in the non-membrane group, there was a higher rate of failure after immediate implant placement. Other researchers such as Tarnow and Wallace have also concluded that implant survival rates are higher when the grafted site is covered with a barrier membrane 9, 18. Tarnow et al. also 18 state that the highest chance for implant failure is anticipated in grafted but uncovered sites.
+
+While the results of this randomized clinical trial are encouraging, they are not without limitations. Since patients were not evaluated after implant placement surgery, post-implantation follow-up visits would also be beneficial. Sample size limitations also restrict the generalization of results. Further multi-center studies, with a longer follow-up period and using different types of grafting materials and membranes; are recommended.
+
+## CONCLUSION
+
+Placing a collagen membrane over the lateral window while performing sinus floor elevation surgery can increase the rate of vital bone formation and also prevent connective tissue from entering the grafted sinus cavity. Therefore, when using the lateral window approach for sinus augmentation, collagen membrane coverage is highly advocated. Future well-designed clinical trials with long-term follow-ups and larger sample sizes are necessary in order to substantiate our findings.

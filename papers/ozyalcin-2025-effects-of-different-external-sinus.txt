@@ -1,0 +1,190 @@
+TITLE: Effects of Different External Sinus Lifting Techniques on Perioperative Complications and Patient Comfort
+AUTHORS: Ozyalcin Mehmet Safa, Omezli Mehmet Melih, Torul Damla
+JOURNAL: Clinical Implant Dentistry and Related Research
+ID[pmcid]: PMC12050164
+ID[pmcid-ver]: PMC12050164.1
+ID[pmcaid]: 12050164
+ID[pmcaiid]: 12050164
+ID[pmid]: 40320286
+ID[doi]: 10.1111/cid.70044
+ID[publisher-id]: CID70044
+ID[other]: CID-24-538.R1
+
+## ABSTRACT
+ABSTRACT
+AimThe objective of this study is to explore how different external sinus lifting approaches affect perioperative complications and patient comfort.
+Materials and MethodsThis prospective, randomized, controlled clinical study was conducted with patients who were admitted for rehabilitation of the posterior maxilla and met inclusion the criteria. Sinuses to be lifted were randomized into three groups: piezosurgery with a surgical guide, a specially designed bur for lateral sinus lift, and conventional burs. Intraoperative complications, ease of access, and operation time were recorded. Pain measured with visual analog scale (VAS) and analgesic consumption were evaluated over 1 week postoperatively. Edema was evaluated preoperatively and on the 2nd and 7th postoperative days. Patient expectations, experiences, and quality of life with the OHIP‐14 questionnaire were assessed preoperatively and on the 7th postoperative day.
+Result30 sinus lifting procedures were conducted on 27 patients, comprising 16 men and 11 women. There were no statistically significant differences among the groups in terms of operation and osteotomy time, pain level, analgesic consumption, edema, patient experience, and quality of life (p > 0.05). However, significant differences were found regarding membrane elevation time (p < 0.05) and ease of access to the surgical site (p < 0.001) among the groups.
+ConclusionPiezo surgical approach assisted by a surgical guide appears advantageous in terms of operation time, surgical site accessibility, and quality of life. However, in cases where increased edema is expected, the use of specially designed burs for lateral sinus lift may be preferable.
+Trial Registration: ID: NCT06601816. This randomized clinical trial was not registered before participant recruitment and randomization (https://register.clinicaltrials.gov/prs/beta/studies/S000EWSQ00000038/recordSummary)
+
+## Introduction
+
+Maxillary sinus floor elevation, also known as sinus lifting, is a frequently used procedure to increase the volume of posterior maxillary bone in cases with vertical deficiency [1]. Currently, sinus lifting with autogenous or synthetic graft materials is accepted as a safe surgical approach for increasing alveolar bone height in the posterior maxilla for dental implant applications [2]. In this way, a standard‐length dental implant can be placed in posterior maxillary edentulous areas that lack adequate dimensions [3]. Planning the augmentation of the atrophic alveolar crest with the sinus lifting operation, however, requires taking anatomical elements like septa, vascular anastomoses, and bone window design into account for the surgery to be successful [4].
+
+Many studies investigating the success of different techniques in maxillary sinus lifting surgery have been published in the past [5, 6]. Some studies have reported that specially designed burs and piezo surgery for sinus lifting are successful in reducing the risk of complications, while other studies have found no superiority and noted disadvantages such as extended operation time compared to the conventional method [5, 7, 8, 9]. With the developments in digital dentistry, surgical guides used in sinus lifting surgery have become popular. Guides used in sinus lifting surgery predict the borders of bony windows and prevent membrane perforation and other complications during sinus grafting. This technique, which was developed to transfer the position of anatomical structures associated with the maxillary sinus and to optimize the position of the lateral window, is reported to increase the safety and efficacy of the procedure by reducing the operational risks [10, 11].
+
+Clinical indicators alone do not fully reflect the effect of surgery on patient satisfaction, quality of life, and activities of daily living after surgery. Oral Health Impact Profile‐14 (OHIP‐14) is a scale that can be preferred in studies to assess quality of life [12]. OHIP‐14 assesses general health status and functional limitation, pain, psychological discomfort, physical disability, psychological disability, and social disability in addition to oral health assessments [13].
+
+In the literature, there seems to be no consensus about the sinus lifting approach that provides optimum outcomes regarding patient/clinician comfort and perioperative complications. While specially designed lateral window osteotomy bur and piezo surgery provide advantages in terms of the risk of perforation, surgical guides enable clinicians to optimally localize the lateral window and prevent complications. Therefore, this study aimed to comparatively evaluate guided piezo surgery (by combining the advantages of piezo surgery and guide), specially designed lateral window osteotomy bur, and the conventional approach in terms of their effect on perioperative complications and patient/clinician comfort to determine the approach that would provide the most promising outcomes. The study hypothesizes that advanced approaches like guided piezo surgery and specially designed lateral window osteotomy bur can provide better results in terms of patient/clinician‐reported outcomes and management of perioperative complications when compared to the conventional approach.
+
+## Materials and Methods
+
+### Study Design
+
+This prospective, randomized clinical study was conducted with patients who applied to Ordu University Faculty of Dentistry, Department of Oral and Maxillofacial Surgery with the complaint of edentulousness in the posterior region of the maxilla and met the inclusion criteria. Ordu University Clinical Research Ethics Committee (No. 2023/109) and the Ministry of Health, Turkish Medicines and Medical Devices Agency approved this study (No. 23‐AKD‐48). The start date for the voluntary recruitment of patients has been set to June 12th, 2023, and the end of recruitment was December 14th, 2023. All participants were informed about the study and informed consent was obtained. This study was conducted in accordance with the principles of the Declaration of Helsinki and the CONSORT (Consolidated Standards of Reporting Trials) guidelines.
+
+### Participants
+
+The inclusion criteria of the study were:
+Severe resorption or sinus pneumatization in the posterior maxilla that prevents standard implant treatment; class V or VI according to Cawood and Howell classification, patients with residual bone height less than 6 mm.Patients over 18 years of age.Patients without a history of reconstructive preprosthetic surgery or previous implant surgery.Patients with partial edentulism who have applied to our center for implant treatment and need sinus lifting.Patients with cone beam computed tomography (CBCT) taken within the last 1 month.
+
+The exclusion criteria from the study were:
+Patients with a history of systemic diseases (hematologic, neurologic, etc.) that may be contraindicated for surgery.Patients who are pregnant or in the lactation period.Patients with a history of immune system disorders and substance abuse.Patients with a history of radiotherapy in the head and neck region.Patients with existing maxillary sinus pathology or who have undergone surgery.Patients who smoke > 10 cigarettes per day.Patients using antibiotics or steroids in the 30 days before surgery.Uncooperative patients who do not comply with the study protocol or follow‐up regimen.Patients with perforation of the Schneiderian membrane.
+
+Computer‐generated simple randomization with sealed envelopes was performed in this study. The researcher not involved in operations provided randomly generated treatment allocations inside sealed opaque envelopes. Because a surgical guide was used in one group, blinding is not possible for the patient and surgeon. Only the researcher who performed the analysis of the data is blinded to the groups.
+
+Sinuses to be lifted included in the study were randomly divided into three groups as follows:
+Conventional Group (C) (n = 10): The group in which the lateral window was created with conventional rotary instrument burs.Reamer Group (L) (n = 10): The group in which the lateral window was created with specially designed burs for lateral sinus lift.Piezo surgery with Surgical Guide Group (P) (n = 10): The group in which the lateral window was created using piezo surgery and a surgical guide.
+
+### Surgical Procedure
+
+All surgical operations were performed in the local operating room of Ordu University, Faculty of Dentistry, Department of Oral and Maxillofacial Surgery, following the rules of asepsis and antisepsis. For standardization, the same particle‐size synthetic graft was used in all patients, and all surgical procedures were performed by a single surgeon. Care was taken to avoid traumatic excision of the tissues. A researcher who was not involved in the surgery and data collection, and blinded to the groups, performed the statistical analysis.
+
+For the osteotomy site in each group, a bone window was planned to include approximately the width of 1 premolar and 1 Molar tooth, with the upper border at least 10 mm above the bone surface facing the alveolar crest, considering the limits of the sinus cavity and the required grafting volume. After completion of the surgical preparations, tuber block anesthesia and additional palatinal infiltrative anesthesia were performed using articaine hydrochloride solution (Ultracain D‐S forte, Aventis, Istanbul, Turkey). After that, horizontal and vertical incisions were made, and the mucoperiosteal flap was reflected. Subsequently, in group C with a rotary motor (NSK SurgicPro, NSK Nakanishi Inc., Tochigi, Japan) using the conventional method with tungsten carbide, diamond round bur (Meisinger, Colorado, USA) under sterile saline irrigation, in group L using burs specially designed for lateral sinus lift (Dentium Advanced Sinus Kit, Dentium, Seoul, Korea) or in group P using a piezo surgical device (NSK Variosurg 3 Ultrasonic Bone Surgery System, Nakanishi Inc., Tochigi, Japan) with a surgical guide, osteotomies were performed in all three groups. Sinus membrane dissection and elevation were also performed with direct sinus elevators.
+
+After sufficient space was obtained by elevating the sinus membrane, a synthetic bone graft (NTM‐Cera Synthetic Bone Graft, ZeSa, İzmir, Turkey) was placed. Mucoperiosteal flaps were closed with 3/0 silk sutures (Doğsan, Trabzon, Turkey). In the postoperative period, routine instructions were given to the patients. All patients received 1000 mg amoxicillin + clavulanic acid (Augmentin 1000 mg tb, Glaxo Smith Kline, Istanbul, Turkey), dexketoprofen 25 mg (Arveles 25 mg tb, Menarini, Istanbul, Turkey), and Benzidamine HCl + Chlorhexidine Gluconate 0.15% / 0.12% mouthwash (Orohex plus mouthwash, Tripharma, Istanbul, Turkey). Patients were instructed to use painkillers as needed and refrain from heavy exercises or swimming. Oral decongestants were also prescribed for patients with sinus membrane perforation. Sutures were removed on postoperative Day 7.
+
+### Surgical Guide Production
+
+The DICOM (Digital Imaging and Communication) files obtained from the CBCT images of the maxilla were imported into a 3D model slicer software (3D Slicer, BWH) and converted into STL (Stereolithography) files (Figure 1) and the intraoral scans of the patients in this group were obtained with TRIOS 4, wireless, v. 21.2.0 (3Shape A/S, Copenhagen, Denmark) and the STL files were loaded into the three‐dimensional modeling program MeshMixer (Autodesk Inc., San Rafael, CA, USA). These scans were superimposed to visualize the patient's soft and hard tissues. With the 3D marking of the sinus cavity, the sinus lifting procedure required for augmentation was planned. The appropriate lateral window size was then designed. In addition, according to the virtually preplanned lateral window osteotomy, modified surgical guides were designed in software using a 3D modeling program (Figure 1). Finally, the surgical guide was exported as STL files and sent to a 3D printer (NextDent 5100, Soesterberg, Netherlands) for manufacturing. The guides produced with resin (NextDent Surgical Guide‐3D Printing Resin, Soesterberg, Netherlands) were used during lateral sinus window osteotomy.
+
+[FIGURE] (A) Conversion of DICOM file to STL (stereolithography) file with 3D slicer program. (B) Surgical guide design using a three‐dimensional modeling program meshmixer.
+
+### Data Collection
+
+#### Operation Time
+
+The time elapsed during the osteotomy of the sinus window and membrane elevation was evaluated with a chronometer during the surgical procedure. To evaluate the time from the beginning to the completion of osteotomy and the time from the beginning to the completion of sinus membrane elevation, the durations were recorded as minutes.
+
+#### Surgeon's Comfort
+
+The access to the operation site was evaluated by the surgeon on a 4‐point scale. The scores on the scale are: 0, very poor visibility; 1, fair visibility; 2, good visibility; and 3, excellent visibility [5].
+
+#### Patient Experience
+
+On the 7th postoperative day, patients were asked to rate their postoperative experience with a 3‐point scale. The scores on the scale were: 0, my expectation and experience were the same/similar; 1, my experience was better than my expectation; 2, my experience was worse than my expectation.
+
+#### Pain and Analgesic Consumption
+
+The intensity of pain experienced by patients was assessed using a 10‐cm Visual Analogue Scale (VAS), with 0 representing no pain and 10 representing the most severe pain ever experienced. Pain level was monitored with a form given to the patients. Patients were asked to record their pain levels from 6 h to 7 days after the operation. During the same period, the patients were asked to record the need for analgesics for 7 days after the operation.
+
+#### Edema
+
+To evaluate the edema, some anatomical points on the face were taken as reference points, and measurements were made before the operation and on the 2nd and 7th days after the operation. To evaluate swelling, markings were made before surgery on facial landmarks: tragus, pogonion, lip commissure, gonion, lateral canthus, and nasal border were determined as reference points. Five measurements of distance (I–V) were made. By dividing the total of the five measurements by five, facial edema was calculated [14, 15].
+
+#### Quality of Life
+
+Quality of life was assessed preoperatively and on postoperative day 7 with the OHIP‐14 (scores ranging from 0 (no impact) to 56 (all oral health problems experienced very frequently)). Scoring was done as Never, 0 point; Rarely, 1 point; Sometimes, 2 points; Often, 3 points; Very often, 4 points. The evaluation was made by analyzing the total score of the participant's responses to each item. As the total score increases, the severity of the problem increases and the quality of life decreases. The Turkish version of OHIP‐14 was found to be a valid and reliable instrument [16].
+
+### Sample Size
+
+The sample size was determined with the G*Power program (version 3.1.9.2, Universität Düsseldorf, Düsseldorf, Germany). Considering the pain values, it was calculated that at least 8 observations should be taken in each group with 95% confidence and 81.96% test power [5]. Considering the edema values, it was calculated that at least 7 observations should be taken in each group with 95% confidence and 82% test power [5]. Considering the operation time, it was seen that at least 9 observation values should be taken in each group with 95% confidence and 81.11% test power [17]. Considering the specified parameters, it was determined that at least 9 observations should be taken in each group.
+
+### Statistical Analysis
+
+Statistical analyses were performed with IBM SPSS software (version 29.0.2.0, IBM Corp, Armonk, NY, USA). The Shapiro–Wilk test was used to assess the normality of the data. One‐way ANOVA or Kruskal–Wallis tests were used to compare age, operation time, pain, painkiller consumption, edema, and quality of life values between groups. Repeated Measures ANOVA or Friedman tests were used for intra‐group comparison of pain and painkiller consumption. Wilcoxon and Paired t‐tests were used to evaluate the change in quality of life within the group. The Chi‐Square test was used to compare categorical data between groups. A p‐value of 0.05 was accepted as significant.
+
+## Results
+
+This study was completed with the participation of 27 volunteers, out of 33 patients who met the inclusion criteria. Due to Schneiderian membrane perforation occurring in 6 patients during surgery, the study included 11 females and 16 males aged 26–70 years. A total of 30 sinus lifting operations were performed on 27 patients (Figure 2). There were no statistically significant differences observed between groups in terms of age and gender (p > 0.05). Demographic data are shown in Table 1.
+
+[FIGURE] Consort diagram.
+
+[TABLE] Demographic data.
+Age (year) | 56.70 ± 11.58 | 55.5 (38–69) | 50 ± 11 | 49 (26–69) | 53 ± 12 | 53 (34–70) | 0.453
+a
+Gender (n)
+Female | 7 | 2 | 3 | 0.054
+b
+Male | 3 | 8 | 7 | 
+
+### Intraoperative Time
+
+There was no statistically significant difference between the groups in terms of window osteotomy time and total intraoperative time (p > 0.05). However, when only the time taken for membrane elevation was evaluated, a significant difference was detected between the groups (p < 0.05) (Table 2).
+
+[TABLE] Evaluation of intraoperative time measurements between groups.
+Total | 16.80 ± 4.76 | 17 (11–23) | 22.3 ± 8.90 | 21 (13–44) | 24 ± 8.99 | 23.5 (12–37) | 0.135
+Window osteotomy | 8.30 ± 2.54 | 10 (4–11) | 6.5 ± 1.8 | 6 (5–9) | 10 ± 3.83 | 11.5 (4–15) | 0.058
+Membrane elevation | 8.50 ± 3.44 | 7.5 (5–15) | 15.8 ± 8.69 | 14.5 (8–38) | 14 ± 6.04 | 13.5 (8–25) | 0.015
+
+### Surgeon's Comfort
+
+To evaluate the effect of the osteotomy technique on the ease of access to the maxillary sinus cavity during membrane elevation and the surgeon's field vision, each operation was scored by the physician, and the recorded data were evaluated. A statistically significant difference was found in the comparison of the scores between the groups (p < 0.05) (Table 3).
+
+[TABLE] Assessment of surgeon comfort.
+Very bad visibility | 0 | 0 | 0 | < 0.001
+Moderate visibility | 0 | 1 | 3
+Good visibility | 1 | 7 | 7
+Perfect visibility | 9 | 2 | 0
+
+### Pain and Analgesic Consumption
+
+There were no statistically significant differences between the groups in terms of the change in VAS scores (p > 0.05). Statistically significant differences were found in intra‐group comparisons (p < 0.05) (Figure 3B).
+
+[FIGURE] (A) Change in analgesic consumption in different time periods. (B) Pain changes in different periods.
+
+According to the intra‐group comparisons, there was a statistically significant difference in the P group, while there were statistically highly significant differences in the C and L groups in terms of analgesic consumption. There was no statistically significant difference in the use of analgesics between the groups (p > 0.05) (Figure 3A).
+
+### Edema
+
+There were no statistically significant differences between preoperative and day 2 (p = 0.868), preoperative and day 7 (p = 0.179), and day 2 and day 7 (p = 0.242) edema changes (p > 0.05).
+
+### Patient Experience
+
+Patients were asked to evaluate their surgical experience and expectations on day 7, and no statistically significant difference was found when the data were compared between the groups (p > 0.05) (Table 4).
+
+[TABLE] Comparison of patient experience and expectations between groups.
+My experience and expectations were the same/similar | 2 | 1 | 3 | 0.387
+My experience was better than my expectation | 7 | 9 | 5
+My experience was worse than my expectation | 1 | 0 | 2
+
+### Quality of Life
+
+No statistically significant differences were found in the intra‐group comparison of OHIP‐14 scores obtained preoperatively and on day 7 (p > 0.05). No statistically significant difference was found in the comparison of the change in preoperative and postoperative quality of life between the groups (p = 0.912).
+
+## Discussion
+
+In the literature, information regarding the sinus lifting approach that would provide the optimum patient/clinician‐reported outcomes and management of perioperative complications is not clear. Therefore, this study aimed to comparatively explore guided piezo surgery, specially designed lateral window osteotomy bur, and conventional approach in terms of their effect on perioperative complications and patient/clinician comfort to determine the approach that would provide the most promising outcomes. According to the results, the piezo surgical approach assisted by a surgical guide was found advantageous in terms of the operation time, surgical site accessibility, and quality of life, while the use of specially designed burs for lateral sinus lift seemed to offer advantages in terms of edema.
+
+Different studies have explored various sinus lifting approaches regarding their safety and efficacy previously, with conflicting results. Jordi et al. [18] in their meta‐analysis reported that traditional rotary instruments were associated with a membrane perforation rate of 24%, while piezoelectric devices had a significantly lower rate of 8%, with a significant difference between the two methods. Torrella et al. [19] and Vercellotti et al. [20] also mentioned the advantages of piezo surgery in terms of membrane perforation. However, Barone et al. [7] observed more membrane perforations in the piezo surgery group compared to the conventional instrument group, without a significant difference in their study. As an alternative to the conventional method, Lozada et al. [8] aimed to facilitate and accelerate the procedure by using only a single bur. In their study involving 17 patients operating with specially designed burs for lateral sinus lift, only one patient (5.8%) experienced membrane perforation. The authors suggested this approach to be an alternative to the conventional technique, potentially reducing complications associated with maxillary sinus membrane perforation during grafting procedures [8]. In addition to these techniques, Mandelaris and Rosenfeld [21] published the prototype sinus lifting surgical guide in the literature to facilitate the precise positioning of the lateral window and elevation of the Schneiderian membrane. With the experience gained from the treatment of eight patients using these surgical guides, it was reported that the guides were most helpful in defining the anterior and inferior osteotomy margins of the lateral wall [22]. With advancing technology, a tooth‐supported single‐piece surgical guide has been developed to perform implant placement and sinus lifting surgery simultaneously, while also allowing for the marking and protection of intraosseous vascular structures during osteotomy [10]. Different techniques have been developed over time to increase guide stability. Considering that a single‐piece surgical guide may cause difficulties in practice, it has been suggested that surgical procedures can be facilitated by placing magnetic 2‐piece surgical guides separately on both teeth and bone [11]. The utilization of digital workflow facilitates the guided approach to the precise planning and preparation of the lateral osteotomy window using 3D‐printed surgical guides, thereby reducing the incidence of intraoperative complications in both simple and complex cases [23]. Three perforations with the traditional method, two perforations with specifically made burs for lateral sinus lift, and one perforation with guided piezo surgery were observed in this study when the number of Schneiderian membrane perforations were examined. The guided piezo surgery group showed the least amount of perforation.
+
+Regarding operation time, Delilbasi and Gurler [5] compared the time between the opening of the bony window and the completion of membrane elevation between piezo surgery and the conventional methods on 23 patients in direct sinus lifting procedures. The mean procedure time was found to be longer in the piezo surgery group, without a significant difference. In this study, when the intraoperative times between the techniques were evaluated in the guided piezo surgery group, a shorter operation time compared to the other groups was observed, thanks to the surgical guides, which enabled the consideration of anatomical factors such as tooth roots, antral septa, and small arterial branches that may increase the difficulty of membrane elevation and limit field vision, where osteotomy will be performed.
+
+During the operation, the surgeon's field of view can often vary depending on the position of the patient and the physician. This field is often further restricted by teeth or buccal mucosa. Access to the surgical field is critical in sinus lifting surgery [24]. Cho et al. [24], reported that lateral window osteotomy with a digital navigation system is a promising technique for a more precise and safer sinus augmentation in a study of five patients using a surgical guide. Barone et al. [7] suggested a piezo surgical device that provides a bloodless surgical field and a clear visualization of the operation site during osteotomy due to the cavitation effect. Delilbasi and Gurler [5] reported that the visibility of the operation field with the piezo surgical device was better than the conventional method. Similarly, the results obtained in our study showed a statistically significant difference in favor of the superiority of the guided piezo surgery group in terms of the surgeon's ease of access to the operation field.
+
+The number of studies evaluating the patient's perception of recovery after sinus lifting is limited. Mardinger et al. [25] evaluated the experience of patients after sinus lifting operations performed according to a conventional protocol. Seventy‐six patients scheduled for sinus lifting were analyzed using the health‐related quality of life scale, a scale designed to assess the patient's perception of recovery in four main criteria: pain level, oral dysfunction, ability to perform daily activities, and other symptoms. According to the findings, difficulty in opening mouth after surgery was usually at its highest severity on the first day, resolved on the third day in most patients, but persisted on the seventh day in some patients. In this study, the OHIP‐14 scale was used on the patients to compare factors such as postoperative phonation, eating, irritability in social behavior, tension in mood, and ability to perform daily life functions between the groups. It was observed that the group treated with the guided piezo surgery method had the least decrease in quality of life in the perioperative period. However, when the patient's expectations and experience of surgery on the 7th day were compared, most of the patients stated that they had a better experience than expected in all three groups.
+
+Sinus lifting is a proven and reliable technique with low postoperative complication rates and a high success [26]. However, patients may still experience postoperative complications such as pain, edema, bleeding, and oral dysfunction. Delilbasi and Gurler [5] found that pain intensities at the 8th and 24th postoperative hours were significantly higher in the conventional group than in the piezo surgery group. Significantly more edema was observed in the conventional group compared to the piezo surgery group at the 8th, 24th, and 36th postoperative hours. Delilbasi and Gurler [5] claimed that ultrasonic motion, as well as more precise osteotomy and less pressure application during osteotomy with the piezo surgical device may have led to less postoperative pain and swelling. In this study, when postoperative pain intensity was evaluated, the mean pain score on the 7th day decreased below 1 in all groups. The change in pain and edema between days was compared between groups, but no significant difference was found in favor of any group, contrary to studies suggesting that piezo surgery provides less pain and swelling. The mean number of painkiller consumption decreased below 1 for all groups on day 6, but no significant difference was found between the groups. This result supports the conclusion that the groups were not significantly superior to each other in terms of postoperative complications during the recovery period.
+
+Some limitations should be taken into consideration when evaluating the results of the study. The small sample size is one of the limitations of the study. However, a power analysis was performed before the study, and the sample size was determined by considering the minimum number that would provide sufficient power. In addition, the subjective evaluation of assessment tools such as the VAS scale and OHIP‐14 scale used in the clinical data collection phase is another limitation of the study. However, it is thought that the reliability of the results will not affected since the tools used are frequently used in literature with proven validity and reliability. The clinician's experience was evaluated by only one surgeon to ensure standardization, and this also limits the generalizability of the results. Thickness and density of the buccal plate, membrane thickness, depth of vestibular sulcus, limitation of mouth opening, and tissue phenotype were not measured; these may be other limitations.
+
+## Conclusion
+
+Based on the data obtained, it was concluded that the piezo surgical approach with surgical guidance may be preferable in terms of the advantages it may provide in clinical practice regarding the operation time, access to the field, and quality of life; however, in cases where higher edema is predicted, such as cases with a high thickness of the lateral sinus wall, the use of specially designed burs for lateral sinus lift may be preferable in terms of postoperative edema management. The results obtained from our study were obtained with a limited sample size. Therefore, to generalize these results, they need to be confirmed by further studies to be conducted with larger samples and different designs.
+
+## Author Contributions
+
+Mehmet Safa Ozyalcin: conceptualized the study, defined the methodology, collected and organized data, drafted manuscript. Mehmet Melih Omezli: conceptualized the study, defined the methodology, supervised all phases of the study, reviewed and edited the manuscript. Damla Torul: conceptualized the study, supervised all phases of the study, performed statistical analysis and interpretation of the data; reviewed and edited the manuscript. All authors confirm the final submission of the manuscript.
+
+## Ethics Statement
+
+The clinical research ethics committee at Ordu University (No. 2023/109) and the Ministry of Health, Turkish Medicines and Medical Devices Agency (No. 23‐AKD‐48) approved the study. This study was conducted in accordance with the Declaration of Helsinki principles.
+
+## Consent
+
+Every patient who consented to take part in the trial was fully informed about it, and their informed consent was obtained.
+
+## Conflicts of Interest
+
+The authors declare no conflicts of interest.

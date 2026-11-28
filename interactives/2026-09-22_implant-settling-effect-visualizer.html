@@ -310,6 +310,14 @@ tags: [implant, abutment-screw, preload, settling-effect, torque, prosthetics]
 (function(){
   var HK='_cr_h_2026_09_22_implant_settling_effect_visua';
   var THRESHOLD=30*60*1000;
+  /* OPERATIONS.md §7 — 콘텐츠 업데이트 시 PAGE_VERSION 범프 */
+  const PAGE_VERSION='20261120-v1';
+  var VK='implant_settling_visualizer_ver';
+  try{
+    var sv=localStorage.getItem(VK);
+    if(sv&&sv!==PAGE_VERSION){localStorage.setItem(VK,PAGE_VERSION);location.reload(true);}
+    else localStorage.setItem(VK,PAGE_VERSION);
+  }catch(e){}
   document.addEventListener('visibilitychange',function(){
     if(document.hidden){
       try{localStorage.setItem(HK,Date.now());}catch(e){}
@@ -421,6 +429,13 @@ tags: [implant, abutment-screw, preload, settling-effect, torque, prosthetics]
     * 세틀링 손실 후 재조임하면 전하중이 회복되고, 2회차 재조임에서 plateau에 도달합니다 <span class="ev">Saleh-Saber 2017</span>.
     피로하중 단계(사용 중)에서 16–39% 추가 손실.
   </div>
+  <div style="margin-top:10px; padding:10px 12px; background:var(--chip-bg); border-radius:8px; font-size:0.92rem;">
+    <strong>⚠ 재조임은 세틀링 회복용이지 회전성 풀림 방지책이 아닙니다 (2026-11 갱신).</strong>
+    반복 비틀림 하중(100,000회) 벤치에서는 5분 후 재조임 군의 하중 후 제거 토크 (Removal Torque, RT)가 오히려 가장 낮았습니다 —
+    티타늄 27.9 vs 즉시 재조임 28.9 vs 재조임 없음 30.2 Ncm, 토크 손실률(약 15–19%)은 군간 차이 없음 <span class="ev">Hara 2026</span>.
+    차이가 작고 저하중 약 1개월 모델이라 재조임 단계 자체를 뒤집지는 않습니다.
+    같은 연구에서 지르코니아 2피스 임플란트는 모든 프로토콜에서 티타늄보다 RT가 낮아(23.1–25.4 Ncm), 이 도구의 수치를 그대로 옮겨 쓰면 안 됩니다.
+  </div>
 </div>
 
 <!-- Section 4: Connection type comparison -->
@@ -442,13 +457,14 @@ tags: [implant, abutment-screw, preload, settling-effect, torque, prosthetics]
   <div class="checklist" id="checklist"></div>
   <div style="margin-top:14px; padding:10px 12px; background:var(--accent-red-light); border-radius:8px; font-size:0.94rem; color:var(--accent-red);">
     ⛔ 피해야 할 것: PTFE 테이프는 전하중 감소 <span class="ev">Coelho 2024</span> ·
-    탄소코팅 나사 재사용 시 전하중 329→254 N으로 감소 <span class="ev">Sagheb 2023</span> — 일회용 권장 ·
+    탄소코팅 나사 재사용 시 전하중 329→254 N으로 감소 <span class="ev">Sagheb 2023</span> —
+    코팅 없는 티타늄 나사도 첫 조임부터 역토크가 가한 토크보다 낮음(30/30개, 중앙값 87%), 변형은 나사 머리에 집중 <span class="ev">Batista 2026</span> — 최종 장착은 새 나사 ·
     연결부 오염(3~6면)은 전하중을 유의하게 저하 <span class="ev">Sun 2026</span>
   </div>
 </div>
 
 <div style="font-size:0.86rem;color:var(--text-muted);text-align:center;margin-top:8px;">
-  근거: wiki/overviews/abutment-screw-preload-joint-stability-overview.md · 2026-09-22
+  근거: wiki/overviews/abutment-screw-preload-joint-stability-overview.md · 2026-09-22 (2026-11-20 갱신: 벤치 5편 반영 — 모두 in-vitro, 셀당 5–10개, 새 역치 아님)
 </div>
 
 <script>
@@ -832,16 +848,22 @@ const checkItems = [
     warn: '정기 교정 필수'
   },
   {
+    title: '최종 장착은 새 나사로',
+    detail: '시적·기공 단계에서 쓴 나사는 재사용하지 않음. 코팅 없는 티타늄 나사도 조일 때마다 역토크가 가한 토크보다 낮았고(중앙값 87%), 한 시스템에서는 회차마다 더 감소(−0.17 N·cm/회). 교체 횟수 기준은 근거 없음.',
+    ref: 'Batista 2026',
+    warn: null
+  },
+  {
     title: '제조사 규정 토크로 조임',
-    detail: 'Ncm 단위 토크값은 제조사 프로토콜 기준. 과조임도 나사 파절 위험.',
-    ref: null,
+    detail: 'Ncm 단위 토크값은 제조사 프로토콜 기준. 과조임도 나사 파절 위험. 6° 콘모스 연결부(25–40 Ncm)에서 미세간극은 30 Ncm에서 최소 — 40 Ncm이 더 낫지 않음(단, 한 연결 설계의 수치라 다른 시스템에 옮기지 말 것).',
+    ref: 'Lorusso 2025',
     warn: null
   },
   {
     title: '2–10분 후 재조임 1회 시행',
-    detail: '세틀링으로 손실된 전하중 회복. 2분 후 재조임이 10분과 동등 이상의 효과.',
-    ref: 'Varvara 2020',
-    warn: null
+    detail: '세틀링으로 손실된 전하중 회복. 2분 후 재조임이 10분과 동등 이상의 효과. 단, 반복 비틀림 하중 벤치에서는 재조임 이득이 없었음 — 세틀링 회복 목적으로만 기대할 것.',
+    ref: 'Varvara 2020 · Hara 2026',
+    warn: '조건부'
   },
   {
     title: '필요 시 2차 재조임 (plateau 확인)',
@@ -859,6 +881,12 @@ const checkItems = [
     title: '조기 리콜 (1–2주) 및 재조임 확인',
     detail: '피로하중 축적 전 전하중 상태 확인. 나사 풀림 조기 발견.',
     ref: null,
+    warn: null
+  },
+  {
+    title: '리콜 시 인접면 접촉 확인 · 원심 지대주 먼저',
+    detail: '인접면 접촉 감소만으로 제거 토크가 낮아지고, 연결부 부적합(25 µm)과 겹치면 더 낮아짐(26.82 → 21.70 N·cm). 3본 고정성 보철에서는 원심 임플란트의 역토크가 근심보다 낮았음(13.5 vs 18.6 Ncm). 벤치 근거이며, 환자에서 두 현상을 직접 연결한 연구는 없음.',
+    ref: 'Gülgezen Aydın 2026 · Rutkūnas 2025',
     warn: null
   }
 ];

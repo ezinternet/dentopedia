@@ -31,11 +31,11 @@ source_wiki:
 
 ## Three-line Summary
 
-Cross-paper synthesis of 5 papers (1 RCT, 3 narrative/scoping/SR reviews, 1 SR) mapping gingival crevicular fluid (GCF) as a passive, site-specific diagnostic biomarker medium across two axes: functional layers (inflammatory cytokines → enzymes/MMPs → bone-turnover regulators RANKL/OPG/sclerostin → epigenetic miRNAs; diagnostic miRNAs include miR-146a/200b/223/23a with AUC > 0.8) and clinical purposes (periodontal diagnosis and treatment response, orthodontic tooth-movement monitoring, bone-turnover/systemic read-out).
+Cross-paper synthesis of 7 papers (1 RCT, 3 narrative/scoping/SR reviews, 1 SR, 1 prospective cohort, 1 cross-sectional 16S microbiome study) mapping gingival crevicular fluid (GCF) as a passive, site-specific diagnostic biomarker medium across two axes: functional layers (inflammatory cytokines → enzymes/MMPs → bone-turnover regulators RANKL/OPG/sclerostin → epigenetic miRNAs; diagnostic miRNAs include miR-146a/200b/223/23a with AUC > 0.8) and clinical purposes (periodontal diagnosis and treatment response, orthodontic tooth-movement monitoring, bone-turnover/systemic read-out).
 
 IL-1β is the single most robust marker across all five GCF papers and reappears as a progression signal in the saliva arm (Teles 2024); the RANKL:OPG ratio is the master bone-resorption switch; MMP-9 is detectable within 4 hours of orthodontic force; GBT reduced GCF IL-1β significantly while TNF-α/MMP-8 showed no group difference (Donertas 2026 RCT, n=80).
 
-The shared barriers are the absence of any oral-cavity-exclusive marker, missing standardized cut-offs, and ELISA cost/complexity; the forward path is multiplex AI-integrated chairside platforms (lateral flow/microfluidic/biosensor), with today's GCF serving as a research and monitoring tool rather than a stand-alone diagnostic test.
+The shared barriers are the absence of any oral-cavity-exclusive marker, missing standardized cut-offs, and ELISA cost/complexity; the forward path is multiplex AI-integrated chairside platforms (lateral flow/microfluidic/biosensor). A salivary 16S microbial-DNA axis (Regueira-Iglesias 2024, n=796, 16-ASV random forest) now extends the diagnostic picture: AUC 0.944 (sens 90.7%, spec 87.2%), with batch-effect correction trading sensitivity for specificity — multi-centre deployability, not algorithm accuracy, is the actual bottleneck, and today's GCF serves as a research and monitoring tool rather than a stand-alone diagnostic test.
 
 ## 세줄요약
 

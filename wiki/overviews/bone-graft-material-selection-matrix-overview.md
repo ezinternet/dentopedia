@@ -2,7 +2,7 @@
 title: "Bone Graft Material Selection Matrix — biological-property classes, defect-type algorithm, tooth-derived autografts, and adjuncts"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-10-21
+date: 2026-11-22
 doi: N/A
 source: N/A
 category: overviews
@@ -28,8 +28,9 @@ relations:
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - bone-regeneration·골이식재 관련 논문 총 **29편**(narrative review 8, SR/SR+MA/NMA 15, 동물 2, 전향 1, 후향 1, in-vitro 1, scoping review 1)을 "골이식재 클래스 선택" 단일 축으로 종합. *(2026-07-13 초판 19편; 2026-10-21 골이식재 서베일런스 10편 추가)* 결손 유형별 재료·보조제 선택 프레임.
+> - bone-regeneration·골이식재 관련 논문 총 **31편**(narrative review 10, SR/SR+MA/NMA 15, 동물 2, 전향 1, 후향 1, in-vitro 1, scoping review 1)을 "골이식재 클래스 선택" 단일 축으로 종합. *(2026-07-13 초판 19편; 2026-10-21 골이식재 서베일런스 10편 추가)* 결손 유형별 재료·보조제 선택 프레임.
 > - **4대 생물학적 특성 매트릭스가 선택의 뼈대**: 자가골(autograft)만이 골형성(osteogenic)+골유도(osteoinductive)+골전도(osteoconductive)+골유착(osseointegration) 4특성을 모두 가진 유일한 재료이며 복잡 증대의 gold standard — 시판 동종/이종/합성 대체재는 사실상 골전도성만 충족(Zhao 2021, DePace 2025, Bubalo 2026). **Haugen 2026 종설**이 전 스펙트럼(자가골/동종골/이종골/합성골/복합체/CAD-CAM)을 골형성/골유도/골전도 삼각 구도로 재정리하고 임상 적용(치조제 보존·상악동 거상·GBR·치주재생·임플란트주위염)별 권장 재료 매핑 제공.
+> - **[2026-11-22] 서술 리뷰 2편 연결**: Ferraz 2023은 4대 특성 매트릭스를 독립적으로 재확인한다. 자가골이 표준이고, 합성재는 5 mm 초과 임계 결손에서 골유도성이 없다. Florencio-Silva 2015는 골세포·리모델링 단위 (Basic Multicellular Unit, BMU)·RANKL/RANK/OPG 축을 설명하는 생물학 배경이다. 새 순위는 없다. [확인]
 > - 자가골의 대가는 **공여부 이환율과 흡수**: 하악 상행지 온레이 블록이 12개월에 43.7% 흡수(상악 60.2% > 하악 37.6%, Stricker 2021), narrative review는 자가골 6개월 내 최대 55% 부피 소실 보고(Bubalo 2026) — "gold standard이지만 부피가 사라진다"는 핵심 trade-off.
 > - **결손 유형별 알고리즘**(Bubalo 2026 제안): 수평결손 → 이종골/동종골 + 흡수성 막 ± PRF, 수직결손 → 자가골 + 합성골/이종골, 복잡결손 → 3D 프린팅 스캐폴드. 최고 신생골형성은 이종골:자가골 1:1 혼합(65.8%) 보고.
 > - **자가골 첨가는 동종골 단독 대비 추가 이득 없음**: 수평 GBR 4 RCT(n=109) SR+MA에서 동종골+자가골 vs 동종골 단독 골획득 차이 무의미(치조정 0mm MD −0.46mm, 4–5mm MD +0.17mm, GRADE very low) — 공여부 이환만 더할 뿐(Meza-Mauricio 2022).
@@ -45,6 +46,7 @@ relations:
 > - **동종골 블록이 수평증대의 자가골 블록 대안**: 실패 2.4%, 수평획득 4.79mm, 임플란트 생존 96.9%(Monje 2014, SR 15편); 블록 생존 94.52%, 임플란트 97.36%, 주요 합병증은 노출(Pérez-González 2020, SR 7편, 323 블록, 501 임플란트). 공여부 없이 자가골 블록에 근접하는 임상 결과.
 > - **맞춤형 CAD/CAM 스캐폴드 수직증대 결과** (Saleh 2026, SR+MA 13편, 241 환자): 6–9개월에 수직 5.64mm, 수평 4.96mm, 용적 1,307mm³. 합병증 21.7%(조기 24.3%, 후기 16.5%). 경흡연 −2.4mm, 숙련 술자 +2.42mm. GRADE 수직·수평 moderate, 용적·합병증 low. 대부분(9/13편) 맞춤형 티타늄 메쉬.
 > - **임상 bottom line**: 재료 선택은 대개 효능이 아니라 부피안정성 목표·비용·가용성·공여부 이환·잔존입자 허용도로 결정된다. 생활골 최대화가 목표면 자가골/치아유래, 부피장기유지가 목표면 저흡수 이종골, 공여부 회피면 동종골/합성골(또는 동종골 블록) — 그리고 어떤 재료든 봉합 시 붕괴를 과충전·막고정으로 방어하라.
+> - **돼지뼈 이종골 장기 자료 추가(2026-11-10, Choi 2023, 분당서울대병원, 28명·49개, 부하 후 평균 67.5개월)**: 수평 치조제 증대술과 동시 식립 — 변연골 소실 1년 0.23 mm·최종 0.40 mm, 생존 95.9%·성공 89.8%; 돼지뼈 단독 24부위는 생존·성공 100%. 차폐막 사용 여부는 무차이, 실패는 모두 감염된 치조제 분할·혼합 이식 부위. 소 유래 입자골·자가 블록골의 정당한 대안이나 **수평 폭 자체는 측정하지 않았고** 비교가 결손 중증도에 교란됨.
 
 ## Three-line Summary
 
@@ -56,7 +58,7 @@ Independent of material, the graft physically collapses 15–40% at primary clos
 
 ## 세줄요약
 
-bone-regeneration·골이식재 논문 총 29편(narrative review 8, SR/SR+MA/NMA 15, 동물 2, 전향 1, 후향 1, 사체 1, scoping review 1)을 골이식재 선택 매트릭스로 종합 *(초판 19편 2026-07-13, 서베일런스 10편 추가 2026-10-21)*: 4대 생물학적 특성(골형성+골유도+골전도+골유착) 프레임에서 자가골만이 4특성을 모두 갖춘 유일 재료이자 gold standard이고, 시판 동종/이종/합성 대체재는 사실상 골전도성만 충족(Zhao 2021, DePace 2025, Bubalo 2026). **Haugen 2026 종설**이 전 스펙트럼(자가골/동종골/이종골/합성골/복합체/CAD-CAM)을 골형성/골유도/골전도 삼각 구도로 재정리하고 임상 적용별(치조제 보존·상악동 거상·GBR·치주재생·임플란트주위염) 권장 재료 매핑 제공. **Yang 2025 스티키 본 종설**이 AFG/i-PRF+골 이식재 복합체(피브린 네트워크 부착력·성장인자 지속방출·M2 극성화·MSC 모집)를 새로운 클래스로 정리.
+bone-regeneration·골이식재 논문 총 31편(narrative review 10, SR/SR+MA/NMA 15, 동물 2, 전향 1, 후향 1, 사체 1, scoping review 1)을 골이식재 선택 매트릭스로 종합 *(초판 19편 2026-07-13, 서베일런스 10편 추가 2026-10-21)*: 4대 생물학적 특성(골형성+골유도+골전도+골유착) 프레임에서 자가골만이 4특성을 모두 갖춘 유일 재료이자 gold standard이고, 시판 동종/이종/합성 대체재는 사실상 골전도성만 충족(Zhao 2021, DePace 2025, Bubalo 2026). **Haugen 2026 종설**이 전 스펙트럼(자가골/동종골/이종골/합성골/복합체/CAD-CAM)을 골형성/골유도/골전도 삼각 구도로 재정리하고 임상 적용별(치조제 보존·상악동 거상·GBR·치주재생·임플란트주위염) 권장 재료 매핑 제공. **Yang 2025 스티키 본 종설**이 AFG/i-PRF+골 이식재 복합체(피브린 네트워크 부착력·성장인자 지속방출·M2 극성화·MSC 모집)를 새로운 클래스로 정리.
 
 Head-to-head 근거는 재료 간 차이를 상당 부분 무너뜨린다 — 동종골에 자가골 첨가해도 수평 골획득 추가 이득 없고(GRADE very low, Meza-Mauricio 2022), 이상성 HA/β-TCP 세라믹이 우골 이종골과 골충전 동등(Rokn 2011), 이종/합성골이 대체로 호환되므로 선택은 비용·부피안정성 목표·잔존입자 허용도·공여부 이환으로 결정; 치아유래 자가이식재가 공여부 없는 자가골 대안으로 거의 완전한 생활골 형성(Janjua 2022, Minetti 2020, Nakajima 2026), 반면 약물·생물학적 보조제(심바스타틴·히알루론산·혈소판농축물)는 효과가 modest·비일관(Tale 2026, Domic 2023, Giannotti 2023). 스티키 본은 복합체 개념을 피브린 매트릭스 조작성으로 확장하나 인체 RCT 증거 제한적.
 
@@ -157,6 +159,8 @@ Adjuncts (simvastatin, hyaluronic acid, platelet concentrates) may be added at l
 - [[bone-regeneration/haugen-2026-bone-grafts-everything-you-need]] — comprehensive 2026 review of all graft classes (autograft, allograft, xenograft, alloplast: β-TCP/HA/bioglass, composites, CAD-CAM) mapped to clinical indications (socket preservation, sinus lift, GBR, periodontal, peri-implantitis); composite strategy rationale; future: precision biomimetics
 - [[bone-regeneration/yang-2025-sticky-bone-advances-and-applications]] — sticky bone (AFG/i-PRF + bone substitutes) narrative review: composition, preparation (AFG/i-PRF/self-folding i-PRF), biological properties (growth factor release 7–14 days, M2 polarization, MSC recruitment), clinical applications (socket preservation, sinus lift, peri-implant GBR, periodontal defects); human RCT evidence limited
 - [[bone-regeneration/zhao-2021-bone-grafts-substitutes-dentistry-review]] — four-property matrix; substitutes satisfy only osteoconductivity
+- [[bone-regeneration/ferraz-2023-bone-grafts-dental-medicine-overview-autografts]] — 신규 2026-11-22: narrative review restating the Axis 1 matrix (autograft gold standard with donor-site and supply limits; xenograft most used; synthetics lack osteoinductivity in >5 mm critical defects); best new bone with cell- and growth-factor-loaded scaffolds. Adds no new ranking, but confirms the matrix from an independent group.
+- [[bone-biology/florencio-silva-2015-biology-bone-tissue-structure-function]] — 신규 2026-11-22: biology background for Axis 1 — osteoblast/osteocyte/osteoclast/lining-cell roles, the BMU remodeling cycle and RANKL/RANK/OPG control of osteoclastogenesis. It explains *why* only living-cell autograft is osteogenic and why resorption (Axis 1, Stricker 2021) is a cell-driven remodeling process rather than a material failure.
 - [[bone-regeneration/depace-2025-bone-regeneration-treatment-strategies-review]] — six-category substitute survey; donor-site morbidity >10%
 - [[bone-regeneration/bubalo-2026-bone-substitutes-alveolar-ridge-augmentation]] — defect-type selection algorithm; 1:1 xeno:auto mix 65.8% new bone
 - [[bone-regeneration/meza-mauricio-2022-substitute-autogenous-bone-graft-horizontal]] — adding autograft to allograft = no horizontal gain benefit (SR+MA)
@@ -189,3 +193,16 @@ Adjuncts (simvastatin, hyaluronic acid, platelet concentrates) may be added at l
 - [[overviews/gbr-barrier-membrane-overview]] — barrier-membrane axis
 - [[overviews/bone-regeneration-socket-biology-and-arp-critique]] — vital-bone vs volume tension, when NOT to graft
 - [[overviews/sinus-lift-graft-material-prf-overview]] — sinus-lift graft material and PRF sub-overview (updated 2026-10-21 with cross-class NMA)
+
+## Evidence Update — Porcine Xenograft in Horizontal Augmentation at Five Years (2026-11-10)
+
+[[bone-regeneration/choi-2023-horizontal-ridge-augmentation-porcine-bone]] is a single-centre retrospective cohort from Seoul National University Bundang Hospital: 28 patients, 49 implants placed simultaneously with horizontal ridge augmentation using a porcine bone-derived xenograft, followed a mean 67.5 months after loading.
+
+- Marginal bone loss 0.23 mm at 1 year and 0.40 mm at final follow-up.
+- Survival 95.9%, success 89.8% overall.
+- The 24 porcine-only sites: 100% survival and success (0.41 mm at 65.8 months).
+- Membrane use made no difference. Every failure occurred in an infected ridge-split, mixed-graft site.
+
+**Where it sits in the matrix.** The xenograft class in this matrix is represented mostly by bovine mineral. Choi provides the long-term clinical entry for porcine-derived material in the same slot, and the marginal bone figures are of the same order as those reported for bovine particulate. It is reasonable to treat porcine xenograft as an alternative within the class for contained horizontal defects with simultaneous placement.
+
+**What it does not show.** The paper never measured horizontal width, so it documents implant outcomes in augmented bone and not how much augmentation was gained or kept. The membrane and mixed-graft comparisons are confounded by indication: surgeons added membranes and autogenous bone to the worse defects, and ridge splits failed through infection. The clean result is the porcine-only subgroup, and those were the most favourable defects.

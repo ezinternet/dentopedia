@@ -1,0 +1,91 @@
+1. Introduction
+
+Dental implants have emerged as the most promising treatment option for addressing partial or complete edentulousness, ensuring a firm and long-term stable osseointegration [,]. Despite the high success rate and average survival rate of implants, which are 89.7% and 94.6%, respectively, failures still occur [,]. Dental implant failure (DIF) occurs in 5% of cases, resulting from a lack of primary implant integration due to fibrous scar formation and inflammation of the periodontal tissues (peri-implantitis); DIF can be categorized into early and late losses [,]. Early failures, which occur more frequently than late ones, occur before prostheses are placed by the prosthetist (typically within 3–5 months after implant placement) and are associated with slow bone healing [,,].
+
+The remainder of the relevant report indicates that a dental implant is at risk of early failure if it exhibits mobility, pain during function, and bone loss more significant than half of the implant's length []. The success of dental implant therapy depends on various etiologies, including both patient-related and nonpatient-related factors []. Patient-related factors encompass smoking habits, alcohol consumption, age, osseous density, bone quality, underlying pathologies, and systemic diseases such as cardiovascular diseases, thyroid diseases, diabetes, bruxism, the oral microbiome, and host response [–,–]. Nonpatient-related factors include dental implant design, length, width, prosthetic component, surgical techniques, and the quality of materials used [].
+
+Previous studies have suggested a significant association between early implant failure and factors such as patient age, gender, and systemic diseases [,]. However, some studies found no connection between these variables (≥ 0.05) [,]. Notably, discrepancies exist between studies reporting the incidence of early DIF, with one retrospective study in 2019 stating a rate of 4.4% [] and another study reporting 3.4% []. One investigation identified implant placement in the posterior mandible as a significant risk factor for early DIF []. At the same time, other studies have shown a higher risk of primary implant failure when placed in the maxilla (≤ 0.05) [,].
+
+Understanding the etiologies and influential risk factors associated with early implant failure is crucial, as patients experiencing this issue may face dissatisfaction and the need for secondary surgeries []. Considering the limited research on this topic in Iran, the absence of a relevant study in the Mashhad Dental Clinic, and the numerous controversies mentioned above, the authors aim to determine the early failure rate and potential causes to help surgeons recommend the best treatment options for their patients.
+
+This study examines the early failure rate of various types of dental implants placed in the implant department at the Mashhad Faculty of Dentistry. The research compares the early failure rates of all dental implant types based on the manufacturing company and their microdesign surface. It also investigates other factors related to early implant failure.
+
+The null hypothesis of this study posits that parameters such as systemic diseases, smoking habits, implant size, surgery-related factors, and loading time contribute to early implant failure (≤ 0.05).
+
+2. Materials and Methods
+
+2.1. Study Design
+
+This historical observational study occurred from March 2018 to 2020 in Mashhad, Iran. Before registration, all participants signed a consent document per the Helsinki Declaration principles. The researchers pledged to maintain the confidentiality of patients' information. The study protocol received ethical approval from Mashhad University of Medical Sciences (IR.MUMS.DENTISTRY.REC.1399.065). The STROBE (Strengthening the Reporting of Observational Studies in Epidemiology) guidelines were adhered to, and no interventions were conducted during this research. The study population comprised patients referred to the implant department of Mashhad University of Medical Science's dental clinic over 2 years. The sample size was calculated using the census method, considering= 0.2,= 0.8, and a mean difference = 0.3.
+
+2.2. Inclusion of Participants
+
+The study inclusion criteria based on previous studies, all those who received implant-supported prostheses were included with the following characteristics [,]:
+
+2.3. Study Variables and Data Collection
+
+Data were collected from participants who met the inclusion criteria, considering various demographic variables such as age, gender, and systemic diseases (including metabolic diseases, cardiovascular diseases, smoking habits, and diabetes). Independent variables such as the implant system used, surgical location, secondary surgeries due to surgical complications (e.g., a fracture of implant fixtures and inferior alveolar nerve (IAN) exposure), early failures (if observed), implant loading time (immediate or delayed), dimensions (length and diameter), type (bone level, tissue level), and the manufacturer of the implant were also taken into account.
+
+2.4. DIF
+
+According to previous studies, no specific definition has been provided for DIF []. Implant mobility, radiolucency around the implant, and peri-implantitis are considered DIF []. However, it is said that DIF is divided into early and late failure [].
+
+Early failure represents a failure to establish osseointegration of dental implants. Early failure is related to biological factors (not mechanical, etc.) that can be due to peri-implantitis (including soft and hard tissue recession) []. Early failure was characterized by the appearance of any of these symptoms within 3–4 months following the surgery [].
+
+In the present study, according to the mentioned contents, early failure was diagnosed during the study period from the clinical examinations recorded in the patients' files (mobility) and radiographs.
+
+2.5. Statistical Analysis
+
+The data collected on the forms was encoded, and SPSS software (version 22, SPSS Inc., Chicago, IL, USA) was utilized to determine the frequency of each variable and perform statistical analysis. Qualitative variables were reported as percentages (%), while quantitative variables were expressed as mean ± standard deviation (SD). The data were analyzed using the Chi-square, Fisher's exact, and Mann–Whitneytests. A-value of 0.05 or lower was deemed statistically significant.
+
+3. Results
+
+3.1. Patient Characteristics
+
+This study encompassed 983 implants placed in the implant ward of Mashhad Dental School during the study period. The sample consisted of 555 (56.5%) implants in females and 428 (43.5%) in males, with an average age of 49.34 ± 13.67 years (range: 18–93 years).
+
+Additionally, 217 (22.1%) implants were placed in patients with a history of systemic diseases and 22 (2.2%) in participants who smoked. Patients were followed for an average of 13.95 ± 5.88 months (1–38 months).
+
+Early failures occurred in 42 (4.3%) cases. The frequency of early failure was higher in men than women, but the difference was not statistically significant (=0.238). There was also no significant correlation between implant failure and other demographic variables such as age, systemic conditions, and smoking habits (=0.263,=0.388, and=0.316, respectively). Furthermore, the follow-up duration in participants without early DIF was significantly longer (< 0.001) ().
+
+3.2. Implant-Related Parameters
+
+Concerning implant-associated factors, the failure rate was influenced by the implant manufacturer. Specifically, the highest failure rate occurred in Biodenta companies, followed by Medentis and ITI, but the association with early failure was not statistically significant (=0.066). The sandblasted, large grit, acid-etched level exhibited the highest relative frequency of failures; however, there was no significant difference between various implant surfaces and early failures (=0.886). Although there were 10 (6%) implant failures in tissue and 32 (3.9%) in bone, no meaningful association was found between implant-level impression and its failures.presents the implant failure rate according to implant-related factors ().
+
+3.3. Surgery-Related Parameters
+
+The frequency of implant failure rate was examined for the surgery-related variables mentioned (). The results revealed a significant association between failure rate and incidences during the surgery (=0.005) as well as implant loading time (< 0.001). In other words, early DIF was more likely to occur in patients with records of IAN exposure and implant fixture fractures during the procedure. There was no significant association between the early failure rate and factors such as the planting area, implant dimensions (height and diameter), and type (bone level, tissue level). Slightly more implant failures occurred in the mandible (4.7%) compared to the maxilla (3.8%), but this difference was not significant (=0.511). The study's findings also revealed no association between early DIF and the presence of grafts (=0.351).
+
+4. Discussion
+
+Considering the results of the present study, accepting the null hypothesis from all aspects is not possible definitively. Incidence during surgery and implant loading time were among the factors that rejected the study's null hypothesis and showed a significant relationship with DIF (-value <0.05).
+
+Despite the widespread success of dental implants, early fractures continue to occur for various reasons. Early DIF may arise from numerous factors, but the primary causes remain debatable [,]. Consequently, we focused on exploring the relationship between this issue and potential contributing factors. This investigation determined that the rate of early implant failure among 983 implants was 4.3%. In contrast, other studies, such as Derks et al. [] and Olmedo-Gaya et al. [], reported rates of 4.4% and 5.79%, respectively. This variation in prevalence could result from differences in sample sizes. The authors propose that early DIF is associated with implant loading time and events occurring during surgery. However, there was no significant association was found between population parameters and implant-related variables.
+
+The reduction of peri-implant pockets can be achieved by using probiotics in conjunction with mechanical debridements, such as scalling and root planing [,]. Butera et al. [] asserted that the composition of the microbiota plays a role in the progression of peri-implantitis. Nevertheless, applying postbiotic gels and other forms has proven effective in reducing inflammation [,]. This discrepancy may be attributed to inadequate studies on standardized protocols for administering probiotic products and possible functional changes in the inflammatory process.
+
+The impact of age on implant failure remains a contentious issue. In the current study, no significant association with age was observed. Some other authors reached similar conclusions [,], while others noted that older patients are more likely to experience early DIF than younger ones [,,,–]. It has been suggested that this is due to declining bone quality and longer healing processes in older patients. In contrast, Manor et al. [] proposed that DIF occurs more frequently in younger patients. This discrepancy may be attributed to differences in the mean ages of the study populations [].
+
+Gender was another demographic risk factor examined in this investigation. Consistent with other studies, many researchers found no significant correlation between a patient's gender and the likelihood of DIF [,,,]. However, several studies identified a statistically significant higher risk in males [,,,,], particularly among those who smoke [,]. In contrast, other studies reported that DIF occurs more frequently in women than men []. Although the current research found that DIF was more common in men, the association was not significant. The differences in results may be due to our study's larger sample size.
+
+The influence of systemic disorders and smoking on the success of implant therapy was also assessed. Numerous articles identified a strong connection between smoking habits and early DIF [,,,,]. Additionally, nicotine has been shown in many experiments to reduce implant longevity []. Sverzut et al. [] supported that smoking cannot be considered a risk factor. The present study did not reveal a significant relationship between smoking and early DIF. This discrepancy could be attributed to the small number of smokers (2.2%) in our study population. Buhara and Pehlivan [] found a significant association between a history of systemic diseases and early DIF; however, the current investigation and other authors reported conflicting findings [,].
+
+During the operation, complications, such as IAN exposure and fractures of the implant fixture, may occur. Implants may also penetrate the maxillary sinus during the procedure. Most studies did not observe a relationship between Schneiderian membrane perforation and implant failure []. However, Hernandez-Alfaro et al. [] held a contrary view. A significant correlation was found between DIF and fractures of the implant fixture. However, insufficient information about this factor was found in similar studies [].
+
+A higher risk of implant failure was observed in loaded implants [,]. The present study also revealed a significant association between early failure and the implant's loading time.
+
+It is worth noting that fewer studies have investigated the impact of manufacturers on implant failure []. The authors did not find a significant difference between these factors.
+
+Atarchi et al. [] found that implant lengths greater than 11.5 mm had a higher failure rate. However, Manzano et al. [] concluded that there was a significant relationship between early implant failure and short implant length. In this study, no significant correlation was observed between the length or diameter of implants and DIF.
+
+There are two theories about the implant location and its connection with DIF. Some reports suggest that implants in the mandible are more vulnerable to infectious complications [] due to their proximity to the alveolar nerve [,]. It has also been suggested that the location of the mandible and the implant fracture have a statistically significant association []. In contrast, this study and others reported no differences in implant failure rates between implant sites (anterior, middle, and posterior mandible/maxilla) [].
+
+It is important to note that DIF is multifactorial, and other parameters, such as surgical traumatic errors, oral hygiene status before and after implant treatment, poor quality and quantity of the patient's bone, and improper choice of implant type, can also be influential []. Indeed, the surgeon's experience and skill play a critical role in the success of the implant []. Understanding the extent and causes of DIF can assist dentists in making informed decisions regarding treatment settings and alternative treatment options [].
+
+Analyzing a large sample size is a strength of this study. The primary limitation of this study was its retrospective nature, which relied on available data from archived records, making it impossible to control all variables. Bone quality and quantity were not directly examined in our sample. However, the difference between those with grafts and those without was not significant. We evaluate different regions of the jaw known to have different bone qualities. Therefore, more studies should examine additional risk factors and their importance.
+
+Another limitation that can be mentioned is the lack of examination of some effective factors of implant failure, such as proximity to the sinus floor and hormonal imbalance (especially in women). One of the reasons for its justification is the study's nature. As mentioned, due to the large sample size of the present study, the results of the study may be generalized to a larger population. Notably, the present study is the first epidemiological study of implant failure in Iran.
+
+5. Conclusion
+
+The results of this retrospective study suggest a significant relationship between surgical incidents and implant loading time with early DIF. These findings highlight the importance of reducing the incidence of surgical complications to prevent dental implants from failing prematurely. Therefore, the authors suggest that future analyses incorporate these factors. Well-designed future studies are likely to identify additional risk factors.

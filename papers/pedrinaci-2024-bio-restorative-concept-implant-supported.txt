@@ -1,0 +1,197 @@
+Journal of Esthetic and Restorative Dentistry, 2024; 36:1516–1527
+https://doi.org/10.1111/jerd.13306
+1516
+Journal of Esthetic and Restorative Dentistry
+REVIEW ARTICLE OPEN ACCESS
+The Bio- Restorative Concept for Implant- Supported 
+Restorations
+Ignacio Pedrinaci 1,2  |  Adam Hamilton 1,3 |  Alejandro Lanis 1 |  Mariano Sanz 2 |  German O. Gallucci 1
+1Department of Restorative Dentistry and Biomaterials Science, Harvard School of Dental Medicine, Harvard University, Boston, Massachusetts, 
+USA | 2Section of Graduate Periodontology, Faculty of Odontology, University Complutense, Madrid, Spain | 3Division of Oral Restorative and 
+Rehabilitative Sciences, University of Western Australia, Perth, Australia
+Correspondence:  Ignacio Pedrinaci ( ignacio_pedrinaci@hsdm.harvard.edu; ignpedri@ucm.es )
+Received:  3 June 2024 | Revised:  7 August 2024 | Accepted:  9 August 2024
+Keywords: 3D implant position | digital dentistry | emergence profile | implant-  supported restoration | peri-  implant phenotype | virtual implant planning
+ABSTRACT
+Objective: This study aims to present the bio-  restorative approach in implant dentistry, which combines biological and restora -
+tive concepts through digital planning. This concept combines periodontal, surgical, and prosthetic variables, aiming to reduce 
+patient morbidity while achieving satisfactory esthetic and functional outcomes in implant-  supported restorations in the long 
+term.
+Overview: Implant dentistry evolved from a primarily surgical to a recent prosthetically driven approach. This evolution was 
+partly due to advancements in bone reconstructive techniques and an increased demand for esthetic outcomes. Recently, digital 
+planning has introduced a new paradigm that allows for the full integration of both approaches. The bio- restorative concept con-
+siders functional, esthetic, and biological variables in a virtual planning environment. This is achieved through the simultaneous 
+digital assessment of (A) anatomical site characteristics and (B) implant restorative variables. These variables include digital 
+tooth arrangement, soft–  hard tissue conditions, implant variables, supra- platform components, and a surgical plan that respects 
+or modifies peri- implant phenotype.
+Conclusions: The bio- restorative concept is intended to improve contemporary implant dentistry by integrating updated bio -
+logical and prosthetic notions through digital planning. Adopting this paradigm has the potential to redefine the standards in 
+implant dentistry, fostering a holistic and patient- centered approach.
+Clinical Considerations: It enhances patient and clinician satisfaction through more efficient and less invasive procedures. 
+Significantly, it improves predictability, leading to successful implant-  supported restorations in the long term.
+1   |   Introduction
+Dental implants and their restorative components are integral 
+elements for a unified treatment approach to restore teeth. The 
+success in implant dentistry rests in the long-  term outcomes of 
+the implant-  prosthetic complex [ 1]. Similarly, among the dif -
+ferent implant treatment modalities, it is paramount that the 
+planning phase should comprehensively evaluate a combination 
+of implant placement and loading protocols [ 2], ideally prior to 
+tooth extraction.
+The treatment concepts in implant dentistry have evolved through 
+a combination of technological advances and scientific evidence. 
+Initially, implants were placed in areas with sufficient bone, the 
+so- called “surgically driven implant placement.” However, bone 
+augmentation procedures became more predictable and the 
+This is an open access article under the terms of the Creative Commons Attribution  License, which permits use, distribution and reproduction in any medium, provided the original work is 
+properly cited.
+© 2024 The Author(s). Journal of Esthetic and Restorative Dentistry published by Wiley Periodicals LLC.
+The SQUIRE reporting guidelines has been applied in this manuscript.  
+
+1517
+importance of an adequate biomechanical relation between abut-
+ments and implants was recognized. Thus, the seek to achieve 
+improved esthetic and functional outcomes shifted the surgical 
+protocols toward a “prosthetically driven implant placement.” 
+This current concept is based on the 3D implant positioning 
+aligned with the intended restoration, facilitates the prosthetic 
+design, enhances the esthetic outcomes, and reduces potential 
+mechanical complications. However, it may involve additional 
+treatment complexity or interventions due to its inherent need 
+for concomitant regenerative procedures. In the last decade, the 
+incidence of peri- implant diseases has shifted the focus toward 
+achieving peri- implant health, giving more relevance to the peri- 
+implant soft tissues and the implant supra- platform complex [3].
+The advent of digital technologies provides a new treatment con-
+cept where the most suitable surgical (biological) and prosthetic 
+(restorative) strategies can be pre-  assessed in a virtual environ -
+ment and then combined into a comprehensive approach, the 
+so- called “bio-  restorative concept.” This concept encompasses 
+digitally assisted elements of diagnosis, treatment planning, and 
+sequencing, thus optimizing the biological and restorative ele -
+ments of the implant- supported restorations (ISR).
+This article introduces the rationale behind utilizing the bio- 
+restorative concept. We provide a checklist that serves as a 
+strategic guideline for the future development of this con -
+cept, following evidence-  based recommendations and digital 
+technologies.
+2   |   Key- Element of the Bio- Restorative Concept
+The key elements presented in Figure  1 constitute the integral 
+components of the bio-  restorative concept. They should be as -
+sessed in combination with the most suitable implant place -
+ment and loading strategies. These elements aim to respect or 
+reconstruct the peri-  implant phenotype through a comprehen -
+sive diagnosis and planning that entails the design of the in -
+tended restoration, implant design and its 3D position, selecting 
+optimal prosthetic components, and surgical strategy.
+2.1   |   Digital Tooth Arrangement
+Any ISR aims to provide a functional and esthetic outcome that 
+harmonizes with the patient's orofacial structures and occlusion 
+[4, 5]. To achieve this goal, the proposed bio-  restorative concept 
+should start with a meticulous diagnosis of the edentulous site to 
+assess the biological and restorative determinants relevant to the 
+successful outcome of the ISR. These determinants include (1) 
+the number and size of teeth missing or to be replaced, (2) incisal 
+edge/central fossa positions, (3) prosthetic volume and configura-
+tion, (4) mucosal contours, (5) the need for surgical or prosthetic 
+tissue replacement, (6) extraoral factors (facial analysis), and (7) 
+occlusion. Notably, the ISR should be designed to promote biolog-
+ical integration, conducive to effective oral hygiene procedures, 
+to ensure a long- term prognosis free of biological complications, 
+and achieve good soft tissue esthetics (Figure 2 ).
+To achieve the link between the implant and ISR, digital tools are 
+employed, either with a scanned conventional diagnostic wax- up 
+or with a fully digitized workflow superimposing the radiographic 
+anatomical information (e.g., DICOM files) with the scanned dig-
+ital images (e.g., PLY or STL files). A diagnostic mock- up may be 
+of added value for full- arch restorations (Figure 3 ).
+2.2   |   Assessment of Soft and Hard Tissues
+The peri-  implant phenotype encompasses the morphological 
+and dimensional characteristics of the tissues surrounding a 
+functional ISR [6].
+FIGURE 1    |    Key- element points of the bio- restorative concept.
+ 17088240, 2024, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jerd.13306, Wiley Online Library on [10/11/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+1518 Journal of Esthetic and Restorative Dentistry, 2024
+It consists of a soft tissue component, entailing keratinized 
+mucosa width (KMW), mucosal thickness (MT), and height of 
+the supracrestal tissues (STH), as well as an osseous compo -
+nent, namely the bone thickness (BT). The relative dimensions 
+of these components may significantly influence the planning 
+(e.g., implant selection, need for tissue augmentation), execution 
+(e.g., implant fixture position, transmucosal components mate -
+rial, and design), and outcome of the ISR (e.g., tissue stability 
+and potential incidence of biological complications).
+Presurgical assessment of these soft and hard tissue dimensions 
+can be done by combining digital information from optical 
+surface scans (e.g., PLY or STL files) and 3D radiographic im -
+aging (e.g., DICOM files) (Figure  4). This strategy allows for a 
+virtual—  noninvasive—  and exact evaluation of the peri- implant 
+phenotype to determine the treatment needs [7– 9] (Figure 5 ).
+Recent evidence has emphasized the importance of a mini -
+mum dimension of these peri-  implant components to achieve 
+predictable outcomes and long-  term treatment success (KMW 
+≥2 mm, MT ≥2 mm, STH ≥3 mm, and PBT ≥ 2 mm) [10– 12]. 
+Contemporary clinical practice [ 13] prioritizes the peri-  implant 
+FIGURE 2    |    Representation of three different digital tooth arrangement. (A) Diagnose of lack of tissue by recreating the ideal mucosal contours; 
+(B) Bio- restorative design (optimal cervical margin of ISR determined by the natural shape of the missing and adjacent teeth); (C) Ridge- lap design 
+incompatible with a biological integration.
+FIGURE 3    |    Registration process (superimposition) of digital tooth arrangement for virtual implant planning. (A) Baseline IOs (PLY); (B) Baseline 
+CBCT scan render (DICOM); (C) Registration of A + B; (D) Digital tooth arrangement performed on (A); (E) Registration of D + C to include intended 
+restoration design—  note that lower IOs is also registered to assess occlusion; (F) Virtual implant planning based on (E)—  note that adjacent teeth 
+segmentation provides additional visual information of adjacent teeth roots position.
+FIGURE 4     |    Digital phenotype assessment prior to implant 
+placement. Note how a thick periodontal phenotype is present according 
+to the virtual digital planning.
+ 17088240, 2024, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jerd.13306, Wiley Online Library on [10/11/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+1519
+soft tissue component to achieve successful outcomes [ 14] of 
+minimal BT or even dehiscence defects [ 15– 17]. However, the 
+presence of an adequate peri- implant phenotype, including min-
+imal BT, may be critical when planning specific implant surgi -
+cal interventions, such as immediate implants, since they can 
+largely influence the patterns of alveolar bone resorption [ 18], 
+the translucency of transmucosal components [ 19], and soft 
+tissue volume stability [ 19, 20]. Implant planning considerably 
+differs from other implant placement strategies (i.e., early or 
+conventional) and nonesthetic posterior sites.
+This thorough assessment, combined with the most suitable im -
+plant placement and loading strategies, aims to respect or recon-
+struct the peri- implant phenotype.
+2.3   |   Implant Selection
+2.3.1   |   Macro- Implant Design
+The choice for a specific macro- implant design may depend on the 
+clinical situation. Specifically when high- insertion torque and ef-
+ficient load distributions to the implant restorations are intended. 
+Other factors, such as bone quality and configuration, may influ-
+ence selecting a specific macro- implant design. For example, “ta-
+pered implants” may prevent apical bone fenestration in sites with 
+prominent ridge concavities [21] or increase insertion torque [22].
+Although tissue- level implants have demonstrated a lower prev-
+alence of peri-  implant diseases [ 23] and have been reported 
+successfully in the esthetic zone, bone-  level implants offer ad -
+vantages including (1) flexibility of the abutment height and 
+design, (2) greater prosthetic space for the emergence profile 
+manipulation depending on the supra-  platform tissue height 
+(STH) and 3D implant position, (3) versatility for supra- platform 
+components replacement (particularly [24] ns with peri- implant 
+soft tissue dehiscence or esthetic concerns).
+Yet, the advent of tissue- level implants with a concave or straight 
+polished supra-  platform collar may be the appropriate choice 
+when the position of the restorative margin and the 3D implant 
+position have been planned appropriately (Figure  6). When 
+planned and placed adequately, these implants may provide ad -
+equate vertical space for the STH (≥3 mm) and the correct emer-
+gence profile (Figure 7 ).
+2.3.2   |   Length and Diameter
+When choosing the most appropriate implant length and di -
+ameter, the (#1) anatomical site characteristics (related to (a) 
+phenotype, (b) alveolar ridge height and configuration, and (c) 
+intended restoration cervical margin) and (#2) the volumetric 
+characteristics of the restorative span (associated with the emer-
+gence profile) have equal importance.
+FIGURE 5    |    Preoperative soft tissue assessment of the implant site. (A) Digital measurement of KTW on PLY file; (B) Clinical situation.
+FIGURE 6     |    Type 1A implant placement using a straight tissue- level implant to replace an upper second premolar. (A) Virtual planning considering 
+STH and emergence profile; (B) Immediate post-  op periapical x- ray; (C) Immediate post-  op CBCT reconstruction.
+ 17088240, 2024, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jer

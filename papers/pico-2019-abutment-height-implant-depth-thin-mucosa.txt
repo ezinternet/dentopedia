@@ -1,0 +1,22 @@
+SOURCE: PubMed E-utilities (PMID 31021469), abstract only — full text not retrieved.
+TITLE: Influence of abutment height and implant depth position on interproximal peri-implant bone in sites with thin mucosa: A 1-year randomized clinical trial.
+AUTHORS: Pico A, Martín-Lancharro P, Caneiro L, Nóvoa L, Batalla P, Blanco J
+JOURNAL: Clin Oral Implants Res. 2019 Jul;30(7):595-602.
+DOI: 10.1111/clr.13443
+EPUB: 2019 May 12
+PMID: 31021469
+PMCID: none (no PMC record)
+OA STATUS: subscription required (Europe PMC isOpenAccess=N; fullTextUrl DOI only)
+PUB TYPE: Journal Article; Randomized Controlled Trial (no retraction notice)
+AFFILIATION: Periodontology Unit, School of Medicine and Dentistry, University of Santiago de Compostela, Santiago de Compostela, Spain; Odontología Médico-Quirúrgica (OMEQUI) Research Group, Health Research Institute of Santiago de Compostela (IDIS), Spain.
+KEYWORDS: Platform Switching; Implant-abutment Connection; Abutment Height; Interproximal Bone Loss; Thin Mucosa
+
+ABSTRACT (verbatim from PubMed):
+
+OBJECTIVES: The aim of this RCT was to assess radiographically the effect of abutment height and depth of placement of platform-switched implants on interproximal peri-implant bone loss (IPBL) in patients with thin peri-implant mucosa.
+MATERIAL AND METHODS: Thirty-three patients received one prosthesis supported by two implants replacing at least two adjacent missing teeth (66 implants). Patients were randomly allocated and implant insertion depth adapted to abutment height groups (3 mm height group the implants were placed 2 mm subcrestally; 1 mm height group, equicrestally). Clinical and radiological measurements were performed at 3, 6 and 12 months after surgery. Interproximal bone-level changes were compared between treatment groups using repeated measures mixed ANOVA. The association between IPBL and categorical variables was also analyzed.
+RESULTS: The mean IPBL in 1 mm abutment group was 0.76 ± 0.79 mm at 3 months, 0.92 ± 0.88 mm at 6 months, and 0.95 ± 0.88 mm at 12 months, while in the 3 mm abutment group was 0.06 ± 0.21, 0.07 ± 0.22 mm, and 0.12 ± 0.33 mm, respectively. Significant differences between both groups were observed at every time point. When the influence of patient characteristics and clinical variables was analyzed, no statistically significant differences were also observed.
+CONCLUSIONS: The use of long abutments, in combination with subcrestal implant position in sites with thin mucosa, led to lower IPBL in comparison with the use of short abutments.
+
+DOI: 10.1111/clr.13443
+PMID: 31021469 [Indexed for MEDLINE]

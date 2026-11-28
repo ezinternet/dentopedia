@@ -39,6 +39,14 @@ IIP(immediate implant placement)는 핵심어를 풀어 쓰면 osseodensificatio
 ```
 주의: PubMed는 IIP를 `Immediate Dental Implant Loading[MeSH]`로 색인해 IIL(즉시부하)과 섞는다. 식립만 노린다면 abstract 확인 단계에서 IIL(immediate loading/provisionalization)을 한 번 더 분리할 것. MeSH 단독 의존 금지.
 
+#### implant-iip-success-criteria (서베일런스 2026-11-17 등록)
+"기준 가이드" = 증례선택·성공/생존 판정 기준·분류체계·컨센서스·의사결정 프레임워크. IIP phrase에 criteria 축을 교차시킨다(유방 재건 immediate implant 노이즈는 제목 스크리닝에서 제거):
+```
+("immediate implant placement"[tiab] OR "immediately placed implant"[tiab] OR "immediate placement"[tiab] OR "immediate implantation"[tiab])
+AND (classification[tiab] OR criteria[tiab] OR guideline*[tiab] OR consensus[tiab] OR indication*[tiab] OR "case selection"[tiab] OR "decision-making"[tiab] OR "success rate"[tiab] OR survival[tiab])
+```
+보완 축(별도 실행): `("extraction socket"[tiab] AND classification[tiab])`, `(immediate implant[tiab] AND (consensus[tiab] OR "position paper"[tiab]))`. 1차 스크리닝 결과 108개 후보 중 신규·on-topic 4편 인제스트(42689035, 41590814, 40900554, 36196906); PMC 전문 없는 컨센서스 3종(40900553/54/55)·40007328은 전문 확보 대기.
+
 ### endo
 ```
 (root canal OR endodontic OR "vital pulp therapy" OR "pulp capping" OR "irrigation activation")
@@ -148,6 +156,31 @@ ingest 라우팅: 치실/치간칫솔/구강세정기 효능 RCT·SR → `period
 
 **라우팅**: `wiki/implants/isq/` + 오버뷰 `implants-isq-stability-ladder` · `isq-loading-threshold`.
 
+### implant-prosthetic-screw-torque (보철 세팅 최종토크 / 전하중 / 나사풀림)
+
+**목적**: 보철물 세팅 시 **최종 체결 토크 (Final Tightening Torque)** 축 — 전하중 (Preload) 형성, 토크 손실 (Torque Loss), 재조임 (Retightening) 프로토콜, 토크렌치 (Torque-Limiting Device, TLD) 정확도, 나사 코팅·오염, 연결부 설계가 풀림에 미치는 영향. `implant-primary-stability`(식립 토크)와 **다른 축**이다 — 저쪽은 골-픽스쳐 계면, 이쪽은 픽스쳐-지대주-보철 나사 계면.
+
+```
+("torque loss"[tiab] OR preload[tiab] OR "removal torque"[tiab] OR "tightening torque"[tiab] OR "torque-limiting"[tiab] OR "torque limiter"[tiab] OR retightening[tiab] OR "re-tightening"[tiab] OR "settling effect"[tiab] OR "screw loosening"[tiab] OR "final torque"[tiab] OR "torque accuracy"[tiab] OR "torque application"[tiab] OR "reverse torque"[tiab] OR detorque[tiab] OR "closing torque"[tiab]) AND ("dental implant"[tiab] OR "dental implants"[tiab] OR "implant abutment"[tiab] OR "abutment screw"[tiab] OR "implant-supported"[tiab] OR "implant prosthesis"[tiab] OR "screw-retained"[tiab])
+```
+
+**ptyp**: 없음(`[]`) — 이 축의 근거는 **in vitro 기계시험과 bench SR/MA가 지배적**이라 RCT/SR/MA 필터를 걸면 코어를 놓친다. 대신 tiab 앵커로 좁힌다.
+
+**노이즈 주의**:
+- `preload` 단독은 심장·정형외과·공학 문헌 대량 → 반드시 임플란트 앵커 유지.
+- `"screw loosening"`은 정형외과(척추·고관절) 나사 풀림 다수 → `"dental implant"`/`"implant abutment"` 앵커 필수.
+- 표면처리·골유착 논문이 `"removal torque"`(동물 실험 제거토크)로 섞여 들어온다 — 초록 단계에서 픽스쳐 제거토크(골유착 지표)와 **나사 제거토크(전하중 지표)**를 구분할 것. 후자만 이 토픽.
+
+**주요 변수 축** (ingest 우선순위 판단 기준):
+1. 체결 프로토콜 — 초기 토크 → 재조임 시점(2분 vs 5분 vs 10분) → 재조임 횟수 상한
+2. 토크 손실 정량 — 세틀링 + 동적 피로 후 잔류 전하중 비율
+3. 토크 전달 기기 — friction vs spring vs beam/single-value, 시야각·가속도·노화·멸균
+4. 나사 계면 개입물 — 코팅(PTFE·DLC·GapSeal), 윤활, 오염(혈액·석고·타액)
+5. 연결부·지대주 설계 — conical vs hex, MUA 각도, CAD-CAM vs stock, Ti-base vs direct-to-abutment
+6. 임상 결과·진단 — 나사 풀림 발생률, RFA/방사선 기반 조기 탐지
+
+**라우팅**: `wiki/prosthetic-materials/abutment-screw/` + 오버뷰 `abutment-screw-preload-joint-stability-overview`.
+
 ### antibiotic-dental (치과 항생제 · 항균 치료)
 
 ```
@@ -220,7 +253,7 @@ ingest 라우팅: 치실/치간칫솔/구강세정기 효능 RCT·SR → `period
 
 **라우팅**: `pdrn/` + 오버뷰 `pdrn-dentistry-evidence-synthesis`.
 
-**현황 (2026-06-19)**: 17편 보유. 2026-06 신규: jeon-2026 (in vitro 기전 — 오스테오블라스트 선택적 활성화, 오스테오클라스트 무영향).
+**현황 (2026-11-21)**: `wiki/pdrn/` 25편 보유. 2026-11-21 서베일런스 edat 2026/09/21–11/21 창 신규 3편 **인제스트 완료**: 43017077 → [[pdrn/lee-2026-polydeoxyribonucleotide-and-polynucleotide-effects-in]](비치과 근골격계 SR이나 TMJ·최대개구 포함, PMC OA) · 43059186 → [[pdrn/lee-2026-early-bone-regeneration-with-different]](토끼 두개골 결손 PDRN 제형 A/B/C head-to-head — 위키 제형 표준화 공백, JPIS publisher OA) · 42883322 → [[pdrn/jeong-2026-polydeoxyribonucleotide-promotes-longitudinal-bone-growth]](전신 성장판·간 IGF-1/JAK2-STAT5 기전, **cross-domain·기전 참고용**, PMC OA). pdrn `last_run_edat` 2026/11/21. 이전 2026-06 신규: jeon-2026 (in vitro 기전 — 오스테오블라스트 선택적 활성화, 오스테오클라스트 무영향).
 
 ---
 
@@ -471,4 +504,111 @@ ptyp: SR, MA, Review
 6. 충전재(filler) 종류·함량이 광산란(scattering)·DC에 미치는 영향
 
 **라우팅**: `wiki/resin/` + 오버뷰 후보 `resin-polymerization-kinetics-conversion-overview`.
+
+---
+
+### zirconia-occlusal-adjustment (지르코니아 교합조정 · chairside grinding / 연마 / glaze)
+
+**목적**: 보철 장착 전 **교합조정(chairside adjustment)** 축 — 삭제(bur grinding)가 지르코니아의 상전이(t→m)·굽힘강도·색/투명도·대합치 마모에 미치는 영향, 조정 후 재연마·재유약의 필요성, **조정량(extent) 한계**, 그리고 워크플로·디자인이 조정 수요(접촉 오차·조정 시간)에 미치는 영향. `prostho`(일반 보철 재료)와 **다른 축**이다 — 저쪽은 재료 선택, 이쪽은 *배송 직전 개입*.
+
+**stem A — 조정 어휘 직접** (state.json 본문):
+```
+(zirconia[tiab] OR "zirconium dioxide"[tiab] OR "zirconia ceramic"[tiab] OR "zirconium oxide"[tiab]) AND ("occlusal adjustment"[tiab] OR "occlusal adjustments"[tiab] OR "intraoral adjustment"[tiab] OR "intraoral grinding"[tiab] OR "selective grinding"[tiab] OR "occlusal correction"[tiab] OR "occlusal refinement"[tiab])
+```
+
+**stem B — 조정×결과 축** (백필 시 추가로 돌릴 것; state.json에는 A만 고정):
+```
+(zirconia[tiab] OR "zirconium dioxide"[tiab] OR "zirconia ceramic"[tiab] OR "zirconium oxide"[tiab] OR "Y-TZP"[tiab] OR "3Y-TZP"[tiab] OR "tetragonal zirconia"[tiab]) AND (grinding[tiab] OR ground[tiab] OR "adjustment"[tiab] OR "adjustments"[tiab] OR "adjusted"[tiab]) AND (polishing[tiab] OR polished[tiab] OR glazing[tiab] OR glazed[tiab] OR "phase transformation"[tiab] OR "flexural strength"[tiab] OR "surface roughness"[tiab] OR wear[tiab] OR monoclinic[tiab] OR "low-temperature degradation"[tiab])
+```
+**stem B는 날짜 창을 반드시 건다** — 전 기간이면 305+건. 2020–2026으로 자르면 147건(그중 A와 중복 아닌 것 126). 위키가 2019년 이전 코어(kosmac-1999·lawson-2014·ramos-2016·sarabi-2024)를 이미 보유하므로 **델타는 2020+**다.
+
+**ptyp**: 없음(`[]`) — in vitro 기계시험이 지배적(시드 sweep 큐 114건 중 89건). RCT/SR/MA 필터는 코어를 놓친다.
+
+**노이즈 주의**:
+- `"adjustment"` 단독은 교정장치·보청기·정형외과까지 잡는다 → stem B의 polishing/glazing/phase/strength/wear AND 묶음이 방어선.
+- **접착(bonding) 축이 최대 노이즈** — sandblasting·laser·primer·MDP가 "surface treatment"를 공유. 위키 `resin-bonding` 축과 중복이므로 abstract에서 "조정 후 표면"인지 "접착 전 처리"인지 확인.
+- 기계가공(grinding force·laser cutting·소결 온도), 착색·shade 단독, 브라켓 접착, biofilm 단독, 비치과(THA·TBC) 제외.
+
+**시드 sweep(2026-11-12)**: 합집합 197(A 68 + B 신규 126 + SR 보강 3) → 기보유 6 제외 → **include 114**(OA:PMC 44) + **exclude 77**. 티어 T1(조정→재료 결과) 61 · T2(마무리·연마) 34 · T3(조정량·접촉 정확도) 19. 결정적 갭은 SR+MA 2건(PMID 36634437 · 40435897). 상세 로그 `logs/2026-11-12_surveillance-zirconia-occlusal-adjustment.md`.
+
+**라우팅**: `wiki/dental-materials/zirconia/` + 오버뷰 후보 `zirconia-adjustment-finishing-overview`.
+
+### occlusal-efficiency (교합·저작 효율)
+
+**목적**: 저작효율(masticatory efficiency/performance)을 **결과변수 또는 주제 자체**로 다루는 축 — ① 계측법·검증(chewing gum 2-color, gummy jelly, mixing ability, glucose, digital texture) ② 보철 결정인자(교합양식, 어태치먼트, 잔존악 형태, 교합접촉면적) ③ 중재(구강운동, 껌저작 훈련, biofeedback, 교합조정) ④ 인구집단 연결(허약·영양·인지). `zirconia-occlusal-adjustment`와 **다른 축** — 저쪽은 표면 마감이 *마모*에 미치는 영향, 이쪽은 *저작 기능*.
+
+**stem A — 효율 어휘 직접** (state.json 본문):
+```
+("masticatory efficiency"[tiab] OR "masticatory performance"[tiab] OR "masticatory ability"[tiab] OR "chewing efficiency"[tiab] OR "chewing performance"[tiab] OR "chewing ability"[tiab] OR "food comminution"[tiab] OR "masticatory performance"[MeSH Terms])
+```
+
+**stem B — 교합 인자 축** (백필 시 추가; state.json에는 A만 고정):
+```
+("occlusal contact area"[tiab] OR "occlusal contacts"[tiab] OR "occlusal contact"[tiab] OR "occlusal scheme"[tiab] OR "occlusal design"[tiab] OR "food comminution"[tiab] OR "comminution"[tiab] OR "chewing cycles"[tiab]) AND (masticat*[tiab] OR chew*[tiab]) AND (dental[tiab] OR dentistry[tiab] OR prosthodont*[tiab] OR tooth[tiab] OR teeth[tiab] OR occlusal[tiab] OR implant*[tiab] OR denture*[tiab] OR crown*[tiab])
+```
+**치과 문맥 절이 필수** — 없으면 779건(식품 텍스처·동물 저작), 붙이면 619건. stem A에는 `2020:2026[edat]` + ptyp(RCT/SR/MA)를 걸고, stem B는 2005+ 전 기간(교합양식 literature는 2015–2019가 코어).
+
+**ptyp**: 없음(`[]`) — 관찰·기기검증이 본체(시드 sweep 큐 194건 중 obs 135).
+
+**노이즈 주의**:
+- **인접 축이 최대 노이즈** — 영양·허약·QoL·인지 논문이 abstract에 "masticatory performance"를 부수적으로 쓴다. abstract 키워드로 승격하면 70건이 추가 유입되므로 **title 기준 CORE/OCC 판정**이 안전(이번 sweep: 341 → 194).
+- 동물 저작·치아 마모 고고학(hominin, deer, macaque, microwear)은 BIOMECH/EXC 규칙으로 제거.
+- FEA·파절·피로 논문은 "masticatory"가 배경일 뿐이므로 제외 — 그 축은 `zirconia-occlusal-adjustment`·`prostho` 담당.
+- **glaze/polish × 저작효율 논문은 이 축에 없다**(530건 중 4건 전부 마모 실험) — 표면 마감을 저작효율로 정당화하려는 질문은 이 토픽으로 답할 수 없다.
+
+**시드 sweep(2026-11-13)**: 합집합 539(A 152 + B 400 상한) → 기보유 13 · 중복 8 제외 → 스크리닝 530 → **include 194**(OA:PMC 64) + **exclude 323**(T3 인접 130 포함, 복구가능). 티어 T1(효율이 결과/주제) 157 · T2(교합 인자) 37. 앵커 후보 PMID 41793788(계측법 SR, 2026) · 34836460(구강운동 SR+MA, JDR). 상세 로그 `logs/2026-11-13_surveillance-occlusal-efficiency.md`.
+
+**라우팅**: `wiki/prosthetic-materials/` 또는 신설 `wiki/occlusion/` + 오버뷰 후보 `masticatory-efficiency-assessment-overview`.
+
+### zirconia-crown-function (지르코니아 크라운 × 교합·저작 기능)
+
+**목적**: 지르코니아(크라운·단관) 관점에서 **저작기능을 결과변수로** 다룬 문헌 + 교합접촉 정확도·교합면 설계 축. `occlusal-efficiency`(기능 축)와 `zirconia-occlusal-adjustment`(표면 마감 축)의 교집합이 아니라, **재료가 기능에 미치는 영향**만 따로 본다.
+
+**stem A — 저작효율 어휘 직접** (state.json 본문):
+```
+(zirconia[tiab] OR "zirconium dioxide"[tiab] OR "zirconium oxide"[tiab] OR "Y-TZP"[tiab] OR "monolithic zirconia"[tiab]) AND ("masticatory performance"[tiab] OR "masticatory efficiency"[tiab] OR "chewing efficiency"[tiab] OR "masticatory ability"[tiab] OR "chewing ability"[tiab] OR "food comminution"[tiab])
+```
+
+**stem B — 교합 인자 축** (백필 시 추가; state.json에는 A만 고정):
+```
++zirconia 계열 AND ("occlusal contact"[tiab] OR "occlusal contacts"[tiab] OR "occlusal scheme"[tiab] OR "occlusal function"[tiab] OR "occlusal force"[tiab] OR "bite force"[tiab] OR "occlusal load"[tiab])
+```
+
+**규모 경고**: **stem A는 전 PubMed에서 12건뿐**(2026-11 기준). 이 축은 증분 sweep으로 운용할 토픽이 아니라 **한 번 백필하고 닫는 토픽**이다. stem B는 174건이지만 대부분 FEA·파절·마모 — 교합접촉 정확도/교합면 설계만 남기면 10건 안팎.
+
+**ptyp**: 없음(`[]`).
+
+**노이즈 주의**:
+- stem B의 최대 노이즈는 **FEA·강도·마모**(stress, fracture, fatigue, roughness, wear, bond) — 전부 `zirconia-occlusal-adjustment`·`prostho` 담당.
+- **지르코니아 임플란트(fixture)** 논문이 섞인다 — 크라운 축이면 제외.
+- "masticatory"가 배경 문장에만 나오는 증례·VDO 리뷰는 T3로.
+
+**시드 sweep(2026-11-13)**: 합집합 184(A 12 + B 174) → seen 13 · screened 11 제외 → 스크리닝 160 → **keep 15**(신규 8 + 기존 큐 7) + **screen-out 152**. T1(재료→저작기능 직접) 3 · T2(교합접촉 정확도) 10 · T3 2. 핵심 결론: **RCT로 저작효율을 1차 결과로 삼은 지르코니아 크라운 연구는 0건**. 상세 로그 `logs/2026-11-13_surveillance-zirconia-crown-function.md`.
+
+**라우팅**: `wiki/dental-materials/zirconia/` + 오버뷰 후보 `zirconia-occlusal-contact-accuracy-overview` (저작효율 오버뷰와 **분리** — 합치면 "접촉 정확도 = 기능" 비약이 박힌다).
+
+### alcohol-oral-surgery (음주 × 발치·임플란트·구강외과)
+
+**목적**: 음주(에탄올)를 **노출 변수**로 두고 발치·임플란트·구강외과 결과(실패·주위염·골유착·출혈·감염·금단)를 다룬 문헌. 재료·용제로서의 "ethanol/polyvinyl alcohol"은 노이즈.
+
+**stem A — 임플란트·치유 축** (state.json 본문 + AND):
+```
+("alcohol drinking"[tiab] OR "alcohol consumption"[tiab] OR alcoholism[tiab] OR "alcohol use"[tiab] OR ethanol[tiab] OR alcohol[tiab]) AND ("dental implant"[tiab] OR "dental implants"[tiab] OR osseointegration[tiab] OR "peri-implantitis"[tiab] OR "bone-implant interface"[tiab])
+```
+
+**stem B — 발치·안전 축** (백필 시 추가):
+```
++("tooth extraction"[tiab] OR "tooth extractions"[tiab] OR "oral surgery"[tiab] OR "alveolar osteitis"[tiab] OR "dry socket"[tiab] OR osteomyelitis[tiab] OR "alcohol withdrawal"[tiab] OR "liver cirrhosis"[tiab])
+```
+
+**ptyp**: 없음(`[]`).
+
+**노이즈 주의**:
+- **"polyvinyl alcohol"(PVA)**, 에탄올을 **용제**로 쓰는 접착·소독 논문 — 스크리닝 1차 컷.
+- 알코올 **소독제**(chlorhexidine+alcohol) 비교 연구 — 감염관리 축이지 음주 축이 아니다.
+- 알코올성 간질환 자체의 병태생리(간섬유화 등) — 치과 결과변수가 없으면 제외.
+
+**시드 sweep(2026-11-19)**: 광역 질의 4 + 정제 질의 6 → 고유 PMID ~400 → 후보 40편 초록 정독 → **keep 9**(그중 1편 `40489307`은 기존 인제스트 → 보강). 인제스트 8편. **핵심 결론**: ①신호는 "음주 여부"가 아니라 **과량**(전체 OR 0.87 vs 과량 2.78) ②주위염 OR 2.07(3편, I²=0.0) ③가역성 근거 1편(마우스, 술후 금주) ④간경변 출혈 0–8.9%·국소지혈 충분 ⑤**건성발치와는 공백** — 위험인자 문헌 36편이 음주를 측정하지 않음.
+
+**라우팅**: `wiki/implants/survival/` (실패 OR) 또는 `wiki/oral-surgery/` (출혈·감염) + 오버뷰 `alcohol-extraction-implant-surgery-risk-overview`. **우선 점검**: 기존 `da-rocha-coelho-2021-evaluation-of-the-association`(알코올 null)과 `galarraga-vinueza-2025-peri-implant-disease-risk-factors`(주위염 OR 2.07)가 이미 있으므로, 신규 후보는 **용량 층화 여부**로 먼저 걸러라.
 

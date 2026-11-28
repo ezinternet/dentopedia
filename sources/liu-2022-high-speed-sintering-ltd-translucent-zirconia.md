@@ -18,7 +18,7 @@ Addresses a clinically emerging question: does chairside high-speed sintering (~
 
 In-vitro comparative study (5 commercial Y-PSZ: KATANA HT/STML/UTML, Zpex 4, Zpex Smile; speed ~90min, conventional ~7h, super-speed 18min sintering): translucency and biaxial flexural strength were NOT significantly different between sintering protocols (P>0.05) for most materials.
 
-Speed-sintered Y-PSZ had smaller average grain size, more fine grains, and lower cubic ZrO₂ content vs conventionally sintered (except KATANA HT/STML); LTD behavior was comparable between protocols for tested materials.
+Conventionally sintered Y-PSZ had larger average grain size and fewer fine grains; speed-sintered Y-PSZ had lower cubic ZrO₂ content (except KATANA HT/STML); LTD behavior was comparable between protocols for tested materials.
 
 Conclusion: high-speed sintering is clinically acceptable for Y-PSZ — translucency, strength, and LTD resistance are not significantly compromised, supporting same-day CAD/CAM workflows.
 
@@ -26,7 +26,7 @@ Conclusion: high-speed sintering is clinically acceptable for Y-PSZ — transluc
 
 Y-PSZ 5종(KATANA HT/STML/UTML, Zpex 4, Zpex Smile), 고속 소결(~90분) vs 일반 소결(~7시간) vs 초고속 소결(18분): 대부분 재료에서 투명도·굴곡강도 차이 없음(P>0.05).
 
-고속 소결: 더 작은 평균 결정립 크기, 더 많은 미세 결정립, 더 낮은 큐빅 ZrO₂ 비율(KATANA HT/STML 제외); LTD 거동은 소결 프로토콜 간 유사.
+고속 소결: 더 작은 평균 결정립 크기·더 많은 미세 결정립, 더 낮은 큐빅 ZrO₂ 비율(큐빅만 KATANA HT/STML 제외); LTD 거동은 소결 프로토콜 간 유사.
 
 결론: 고속 소결이 Y-PSZ의 투명도·강도·LTD 저항을 유의하게 저해하지 않아 당일 CAD/CAM 임상 워크플로에 적합.
 
@@ -62,9 +62,9 @@ Y-PSZ 5종(KATANA HT/STML/UTML, Zpex 4, Zpex Smile), 고속 소결(~90분) vs �
 - Translucency: NOT significantly different between sintering protocols (P>0.05)
 - Flexural strength: NOT significantly different for most materials
 - Weibull modulus: conventionally sintered KATANA STML = highest; speed-sintered Zpex 4 = lowest
-- Grain size: speed-sintered < conventionally sintered (more fine grains); exception: KATANA HT/STML similar
+- Grain size: speed-sintered < conventionally sintered (more fine grains)
 - Cubic ZrO₂: speed-sintered had lower cubic content than conventional (exception: KATANA HT/STML)
-- LTD: comparable monoclinic volume fractions between speed and conventional sintering for most materials
+- LTD: some speed- and conventionally sintered groups showed similar monoclinic volume fractions (abstract says "some")
 
 ## 5. Limitations and Future Work
 

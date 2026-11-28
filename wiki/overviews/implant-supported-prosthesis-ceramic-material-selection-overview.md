@@ -10,6 +10,7 @@ source_papers:
   - wiki/dental-materials/zirconia/talmazov-2020-fea-one-piece-zirconia-implant-anterior.md
   - wiki/inlay/spitznagel-2025-multilayer-zirconia-partial-coverage-fatigue.md
   - wiki/inlay/comba-2022-post-fatigue-fracture-resistance-lithium-disilicate.md
+  - wiki/dental-materials/zirconia/gohil-2026-occlusal-surface-changes-in-single.md
 tags: [zirconia, lithium-disilicate, implant-fdp, ceramic-selection, fatigue, fea, monolithic, veneered, chipping, synthesis]
 ---
 
@@ -149,6 +150,12 @@ LDS significantly outperformed PICN on static post-fatigue fracture load (p=0.00
 | Spitznagel 2025 | In-vitro fatigue + SLF | 72 restorations | Crossed thickness×design interaction: PCR ≫ crown at 0.5mm, equal at 1.0mm, crown > PCR at 1.5mm | in-vitro |
 | Comba 2022 | In-vitro fatigue + fracture | 84 ETT molars | Overlay ≈ adhesive crown; veneer inferior (p=0.042); LDS > PICN static load (p=0.0002); PICN better cyclic tolerance | in-vitro |
 
+## Evidence Update — Occlusal Wear by Restoration Configuration (2026-11-20)
+
+- [[dental-materials/zirconia/gohil-2026-occlusal-surface-changes-in-single]] — retrospective, n=120 posterior implant-supported zirconia restorations (64 single, 56 three-unit), 12-month 3D scan superimposition. Single units showed less restoration occlusal wear (14.6 ± 3.4 vs 19.8 ± 4.1 µm, p<0.001), less antagonist enamel wear (15.2 ± 3.8 vs 19.7 ± 4.5 µm, p<0.001), and fewer complications (9.4% vs 25.0%, p=0.022).
+- Reading against this page's framework: configuration (single vs splinted multi-unit) is a wear and complication modifier on top of material choice — it adds a 12-month clinical wear signal to a set otherwise limited to survival (Pjetursson, Le) and in-vitro fatigue (Spitznagel, Comba). It does not change the material-selection ladder. Retrospective, single-site configuration comparison with 12-month follow-up only; allocation was not randomized, so case-mix may explain part of the difference.
+- Finishing of adjusted zirconia surfaces (polish vs glaze, kit, speed) is synthesized in [[overviews/zirconia-chairside-adjustment-polishing-overview]].
+
 ## Gaps & Future Research
 
 - All five sources cap out at 3 years (clinical: Le, Pjetursson) or are in-vitro/FEA proxies (Talmazov, Spitznagel, Comba) — none report 5–10 year implant-supported ceramic superstructure fracture differentiation, which is precisely where material differences are expected to diverge (per Pjetursson's own stated limitation).
@@ -164,6 +171,7 @@ LDS significantly outperformed PICN on static post-fatigue fracture load (p=0.00
 - [[dental-materials/zirconia/talmazov-2020-fea-one-piece-zirconia-implant-anterior]] — FEA mechanistic basis for stiffness-dependent peri-implant bone stress
 - [[inlay/spitznagel-2025-multilayer-zirconia-partial-coverage-fatigue]] — thickness×design fatigue interaction, multilayer zirconia
 - [[inlay/comba-2022-post-fatigue-fracture-resistance-lithium-disilicate]] — material×preparation-design fatigue, LDS vs PICN
+- [[dental-materials/zirconia/gohil-2026-occlusal-surface-changes-in-single]] — 12-month wear: single vs three-unit implant-supported zirconia
 
 ### Related overviews
 

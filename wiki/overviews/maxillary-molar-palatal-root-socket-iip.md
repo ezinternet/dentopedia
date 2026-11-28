@@ -2,7 +2,7 @@
 title: "Maxillary Molar Immediate Implant — Palatal Root Socket Anchorage (Decision Synthesis)"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-06-17
+date: 2026-11-17
 doi: N/A
 source: N/A
 category: overviews
@@ -12,6 +12,8 @@ pdf_filename: N/A
 source_collection: synthesis
 tags: [immediate-implant, maxillary-molar, palatal-root, inter-radicular-septum, sinus-floor, isq, all-on-x, decision-ladder, overview]
 relations:
+  - type: extends
+    target: liu-2026-expanded-classification-for-immediate-molar
   - type: extends
     target: liu-2024-maxillary-immediate-molar-palatal-root-socket
   - type: extends
@@ -37,6 +39,7 @@ relations:
 > - **연조직/개방창**: 대구치 발치와는 임플란트 주위 잔존 gap이 커 개방창 치유가 되며, 반응성 연조직(Reactive Soft Tissue, RST)과 흡수성 콜라겐 스폰지(Absorbable Collagen Sponge, ACS)가 ~6개월 치유에 동등(Deng 2024).
 > - **보철 응용**: All-on-X 전악 보철에서 구개 치근와 식립은 **후방 cantilever를 제거**하는 원위 지대주 확보 전략으로 활용(Yaghmai 2025).
 > - **결정 틀**: ① 술전 CBCT 필수 → ② 격벽 충분(Type A)이면 격벽 정착 → ③ 불충분하면 구개 치근와 평가(직경·길이·동 거리) → ④ 동 근접 시 경치조골 거상 병행 → ⑤ 보철축·1차 안정성(≥35 Ncm) 확인 후 부하 결정. 구개치근와 단독 정착의 직접 근거는 아직 **증례 수준**(Liu 2024, Yaghmai 2025)임을 명시.
+> - **[2026-11-17 신규] 6범주 분류의 Type P(Liu 2026, 델파이 컨센서스 + 후향적 64건)**: Smith–Tarnow A/B/C 중격 분류에 치근와 정착 D(원위)·M(근심)·**P(구개)**를 더한 체계에서 Type P는 ISQ ≥60·초기 변연골소실(Marginal Bone Loss, MBL) 0.11–0.19mm(6–24개월)·평균 구개 경사 9.6°를 보였고 **상악동 거상 회피 옵션**으로 위치시킴. 코호트 평균 IT 35±12 N/cm·ISQ 72±8→78±6(4주). 단 금기 역치(구개골 높이 <4mm 또는 동 접촉 <1mm면 Type P 금기)와 "예후 검증 아닌 의사결정 보조" 명시 — **전향적 다기관 검증 필요**. 분포상 Type P는 64건 중 5건(8%)으로 상악에 편중.
 
 ## Three-line Summary
 
@@ -44,7 +47,7 @@ Cross-paper synthesis on using the palatal root socket as primary anchorage for 
 
 Overall molar IIP survival is ~97% (RR 0.99 vs delayed, Patel 2023 SR+MA), but the palatal root delivers a distinct stability trajectory — maxillary posterior implants reach ISQ >73 at placement yet undergo a 2–4 week stability dip and end at lower 24-week ISQ than mandibular (78.2 vs 81.5); sinus proximity is the dominant anatomical constraint, with palatal root apex intruding deepest into the antrum (mean −2.2 mm, 28.85% sinus involvement), making transcrestal sinus elevation a frequent concomitant requirement.
 
-The clinical bottom line is: pre-operative CBCT must quantify IRS dimensions, palatal root length, and sinus-floor distance before planning palatal-socket IIP; primary stability ≥35 Ncm is required before loading; and while the palatal root is the most reliable fallback anchorage when the septum fails, its direct clinical evidence remains at case level (Liu 2024, Yaghmai 2025), warranting conservative loading decisions in the maxillary posterior.
+The clinical bottom line is: pre-operative CBCT must quantify IRS dimensions, palatal root length, and sinus-floor distance before planning palatal-socket IIP; primary stability ≥35 Ncm is required before loading; and while the palatal root is the most reliable fallback anchorage when the septum fails, its direct clinical evidence has been at case level (Liu 2024, Yaghmai 2025), warranting conservative loading decisions in the maxillary posterior. Liu 2026's new six-category classification now gives the palatal-socket strategy a consensus-backed slot (Type P: ISQ ≥60, early MBL 0.11–0.19 mm, often sinus-augmentation-sparing) — though it remains decision support requiring prospective validation, not outcome proof.
 
 ## 세줄요약
 
@@ -52,7 +55,7 @@ The clinical bottom line is: pre-operative CBCT must quantify IRS dimensions, pa
 
 대구치 즉시식립 전체 생존율 ~97%(지연 동등); 상악 구치는 식립 직후 ISQ >73이나 2–4주 안정성 저하(dip)가 있고 24주 ISQ가 하악보다 낮으며(78.2 vs 81.5); 구개근 첨부가 세 치근 중 상악동에 가장 깊이 침범(−2.2 mm, 동 침범률 28.85%)해 경치조골 상악동거상술 동반이 자주 필요하다.
 
-임상 핵심: 수술 전 CBCT로 IRS·구개근 길이·상악동 거리 반드시 정량화; 부하 전 1차 안정성 ≥35 Ncm 확인; 구개 치근와가 격벽 실패 시 가장 신뢰할 수 있는 대안이지만 직접 근거는 증례 수준(Liu 2024, Yaghmai 2025)임을 명시하고 보수적 부하 결정이 원칙이다.
+임상 핵심: 수술 전 CBCT로 IRS·구개근 길이·상악동 거리 반드시 정량화; 부하 전 1차 안정성 ≥35 Ncm 확인; 구개 치근와가 격벽 실패 시 가장 신뢰할 수 있는 대안이지만 직접 근거는 증례 수준(Liu 2024, Yaghmai 2025)임을 명시하고 보수적 부하 결정이 원칙이다. Liu 2026의 6범주 분류가 구개 치근와 전략에 컨센서스 기반 자리(Type P: ISQ ≥60, 초기 MBL 0.11–0.19mm, 상악동 거상 회피 경향)를 부여했으나, 예후 검증이 아닌 의사결정 보조로 전향 검증이 필요하다.
 
 ## Summary
 
@@ -70,7 +73,7 @@ This page synthesizes the anatomy, biomechanics, stability, sinus constraint, so
 | Palatal-root sinus intrusion rate | 28.85 % | — | Deporter 2021 |
 | Buccal / palatal plate thickness | 1.58 / 1.34 mm | — | Matsuda 2016 |
 
-Matsuda 2016 proposes a 3-tier (favorable / intermediate / contraindicated) framework, classifying ~32 % of first-molar sites as contraindicated for straightforward IIP — these are exactly the sites where palatal-root anchorage (± sinus elevation) is the salvage path. Milenkovic 2022 and Smith 2013 provide the septum-shape and A/B/C classifications that decide whether septal or palatal-root anchorage is chosen.
+Matsuda 2016 proposes a 3-tier (favorable / intermediate / contraindicated) framework, classifying ~32 % of first-molar sites as contraindicated for straightforward IIP — these are exactly the sites where palatal-root anchorage (± sinus elevation) is the salvage path. Milenkovic 2022 and Smith 2013 provide the septum-shape and A/B/C classifications that decide whether septal or palatal-root anchorage is chosen. Liu 2026 extends Smith–Tarnow to a **six-category system** (A/B/C septal + D/M/P root-socket) and makes the palatal root (Type P) an explicit category rather than an off-label fallback: in its exploratory 64-molar cohort, Type P (n=5, 8%, maxillary-predominant) showed ISQ ≥60, early MBL 0.11–0.19 mm at 6–24 months, and a mean palatal inclination of 9.6°, positioned as a sinus-augmentation-sparing option — with hard contraindication thresholds (palatal bone height <4 mm, sinus-floor contact <1 mm).
 
 ## 2. Biomechanical rationale (why the palatal socket integrates)
 
@@ -119,6 +122,7 @@ Maxillary molar to be extracted → pre-op CBCT (mandatory)
 | Theme | Key paper | Type |
 |---|---|---|
 | Socket classification | [[immediate-implant/molar-septum/smith-2013-classification-molar-extraction-immediate-implant]] | technical note |
+| Expanded 6-category classification (incl. Type P) | [[immediate-implant/molar-septum/liu-2026-expanded-classification-for-immediate-molar]] | consensus / concept-development |
 | Septum shape taxonomy | [[immediate-implant/molar-septum/milenkovic-2022-interradicular-septum-classification-iip]] | cross-sectional |
 | CBCT eligibility | [[immediate-implant/molar-septum/deporter-2021-cbct-immediate-maxillary-molar-implant]] | retrospective |
 | CBCT palatal-root anatomy | [[immediate-implant/molar-septum/matsuda-2016-3d-alveolar-bone-maxillary-first-molar-cbct]] | cross-sectional |
@@ -132,7 +136,7 @@ Maxillary molar to be extracted → pre-op CBCT (mandatory)
 
 ## Bottom line
 
-The palatal root socket is the **default fallback anchorage** for maxillary molar IIP when the inter-radicular septum is inadequate — anatomically the widest/deepest root, biomechanically favorable (low-strain, PDL-driven osseointegration), and consistent with palatal positioning. Overall molar-IIP survival is ~97 % (delayed-equivalent), but **direct evidence for palatal-root single-anchorage specifically remains case-level** (Liu 2024, Yaghmai 2025). The make-or-break variables are primary stability (≥35 Ncm), the near-universal need to assess/elevate the sinus, the maxillary 2–4 week stability dip (conservative loading), and prosthetic axis control.
+The palatal root socket is the **default fallback anchorage** for maxillary molar IIP when the inter-radicular septum is inadequate — anatomically the widest/deepest root, biomechanically favorable (low-strain, PDL-driven osseointegration), and consistent with palatal positioning. Overall molar-IIP survival is ~97 % (delayed-equivalent), but **direct evidence for palatal-root single-anchorage specifically has remained case-level** (Liu 2024, Yaghmai 2025); Liu 2026's consensus-backed **Type P** category adds a formal decision slot (ISQ ≥60, early MBL 0.11–0.19 mm, sinus-sparing) while explicitly stopping short of outcome validation. The make-or-break variables are primary stability (≥35 Ncm), the near-universal need to assess/elevate the sinus, the maxillary 2–4 week stability dip (conservative loading), and prosthetic axis control.
 
 ## Related Overviews
 - [[overviews/immediate-implant-decision-ladder]] — general IIP timing/type ladder
@@ -140,4 +144,4 @@ The palatal root socket is the **default fallback anchorage** for maxillary mola
 - [[overviews/short-implant-vs-sinus-augmentation-decision]] — sinus vs short-implant trade-off
 - [[overviews/implant-placement-timing-immediate-early-delayed]] — placement timing evidence
 
-<!-- thesis-reviewed: 2026-10-30 -->
+<!-- thesis-reviewed: 2026-11-17 (added Liu 2026 Type P consensus classification) -->

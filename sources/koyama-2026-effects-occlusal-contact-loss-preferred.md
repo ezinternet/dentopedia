@@ -16,6 +16,22 @@ RCT crossover (n=28) using occlusal splints to simulate unilateral SDA: PCS mola
 ## 한줄요약
 RCT 교차설계(n=28), 교합 스플린트로 편측 단축치열 시뮬레이션: 선호 저작측 (Preferred Chewing Side, PCS) 대구치 제거 시 저작 효율 (Masticatory Efficiency, ME) 및 주관적 저작 능력 (Subjective Masticatory Ability, SMA) 유의하게 감소(p<0.05), 제2소구치 교합력 상승; 비선호측 제거는 유의 차이 없음 (J Prosthodont Res 2026).
 
+## Three-line Summary
+
+Koyama et al. (2026) conducted a randomised crossover trial using custom occlusal splints to simulate unilateral shortened dental arch (SDA) in 28 participants with intact dentition, isolating the effect of preferred chewing side (PCS) versus non-preferred chewing side (non-PCS) molar loss on masticatory function. The study design addressed a gap in the SDA literature by experimentally controlling for which side molar contact was removed, providing the first RCT evidence for the asymmetric SDA scenario.
+
+PCS molar removal significantly decreased masticatory efficiency (ME) and subjective masticatory ability (SMA) (p<0.05), while increasing compensatory occlusal load on the second premolar on the removal side. In contrast, non-PCS molar removal produced no significant functional effects, suggesting that the clinical decision to provide prosthetic treatment after molar loss may depend critically on whether the missing tooth was on the patient's preferred chewing side.
+
+A clinically important subgroup finding was that participants whose main occluding area (MOA) was at the second premolar level showed attenuated functional impact from PCS molar loss compared to those with MOA at the first molar, indicating a protective anatomical factor. These results provide quantitative functional evidence to refine prosthetic indication thresholds in unilateral SDA management.
+
+## 세줄요약
+
+코야마 등(2026)은 완전 치열 성인 28명에게 교합 스플린트로 편측 단축치열(Shortened Dental Arch, SDA)을 시뮬레이션하는 무작위 교차 임상시험을 시행해, 선호 저작측(Preferred Chewing Side, PCS) 대 비선호측 대구치 소실이 저작 기능에 미치는 비대칭 영향을 분리했다. PCS 대구치 소실은 저작 효율(Masticatory Efficiency, ME) 및 주관적 저작 능력(Subjective Masticatory Ability, SMA)을 유의하게 감소시켰으나(p<0.05), 비선호측 소실은 유의한 기능 저하를 초래하지 않았다.
+
+PCS 소실 측 제2소구치에서 보상적 최대 교합력(Maximum Occlusal Force, MOF) 상승이 관찰됐다. 주교합면적(Main Occluding Area, MOA)이 제2소구치에 위치한 하위군은 PCS 소실의 기능적 영향이 완화됐으며, 이는 보호적 해부학적 인자임을 시사한다.
+
+이 연구는 편측 SDA에서 보철 치료 필요성이 소실 측의 선호 저작 여부에 따라 달라질 수 있다는 임상적 의사결정 근거를 최초로 제공했다. 비선호측 대구치 소실은 보철 개입 없이 경과 관찰이 가능할 수 있다는 점에서 치료 계획에 직접 영향을 미친다.
+
 ## 1. Document Information
 - **Journal:** Journal of Prosthodontic Research
 - **Published:** July 2026

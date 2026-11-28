@@ -342,6 +342,7 @@ T0(식립) 63.8 → T2(3mo) 73.5 → T3(6mo) 74.65 [BBM 이식]
 
 ## Related Overviews
 
+- [[overviews/stability-dip-fixture-treatment-decision-overview]] — **NEW** (2026-11-17): 이 페이지의 "임계값 도달 속도 가속" 원칙을 골질×부위별 처치 배정표로 구체화 — dip이 measuring되는 곳에 어떤 레버를 쓸지
 - [[overviews/sinus-lift-isq-loading-timing]] — 상악동거상술 술식별 ISQ 궤적과 부하 시기 (이 페이지의 sinus 섹션 확장판)
 - [[overviews/eal-working-length-protocol]] — 근관장측정 (Electronic Apex Locator, EAL) 프로토콜
 - [[overviews/implants-isq-stability-ladder]] — ISQ 측정 도구·임계값·영향 변수 3축 종합 (stability ladder)

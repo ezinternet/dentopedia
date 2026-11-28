@@ -3,7 +3,7 @@ title: "Endocrown Overview: 1-Piece Endodontic Crowns SR of SRs"
 authors: "Morimoto S, Arakaki Y, Raggio DP, Özcan M"
 year: 2024
 doi: 10.1016/j.prosdent.2024.09.001
-source: Journal of Prosthetic Dentistry
+source: morimoto-2024-endocrown-overview-systematic-reviews.md
 category: inlay
 evidence_level: sr
 date: 2024-10-09

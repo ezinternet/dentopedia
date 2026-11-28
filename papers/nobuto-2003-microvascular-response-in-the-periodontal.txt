@@ -1,0 +1,15 @@
+TITLE: Microvascular response in the periodontal ligament following mucoperiosteal flap surgery.
+AUTHORS: Nobuto Takahiro, Imai Hisao, Suwa Fumihiko, Kono Tomoo, Suga Hitoshi, Jyoshi Katuzi, Obayashi Kazuyoshi
+JOURNAL: Journal of Periodontology
+ID[pmid]: 12747458
+ID[doi]: 10.1902/jop.2003.74.4.521
+
+## ABSTRACT
+
+BACKGROUND: When the mucoperiosteal flap is elevated, the gingivo-periosteal vascular plexus and periodontal ligament (PDL) vascular plexus sever their connection with the circulatory tracts that pass through alveolar bone. We studied the effect exerted on the PDL vascular plexus during restoration of the circulatory tract.
+
+METHODS: We performed experimental mucoperiosteal flap surgery in adult beagle dogs. Histological specimens, prepared after injecting India ink into the blood vessels on postoperative days 5, 7, 14, 21, 28, and 42, were examined under a light microscope. In addition, vascular corrosion cast specimens of the PDL, into which acrylic resin was injected, were observed using a scanning electron microscope.
+
+RESULTS: On postoperative day 5, the PDL vascular plexus had formed new blood vessels toward the bone side and root side, and bone resorption of the alveolar bone proper had initiated primarily around the opening of the Volkmann's canal. From postoperative day 7 to 14, the PDL vascular plexus formed new vessels on the bone side and root side accompanied by bone resorption of the alveolus, and demonstrated a complicated vascular architecture, which gradually organized and transformed into a mesh structure from postoperative day 21. Osteogenesis was initiated and encircled the newly formed vessels, and the alveolar bone proper recovered to a flat morphology. Judging from the quantity of new vessels and bone resorption, the width of the PDL space seemed to be the greatest on postoperative day 14.
+
+CONCLUSIONS: When the mucoperiosteal flap was elevated, active wound healing was activated because of angiogenesis from the PDL, which possesses a microcirculatory system. Moreover, it was suggested that angiogenesis of the PDL vascular plexus and subsequent bone resorption of alveolar bone might temporarily reduce the tooth-supporting function and cause postoperative mobility.

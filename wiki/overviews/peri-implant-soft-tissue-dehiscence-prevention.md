@@ -1,8 +1,8 @@
 ---
 title: "Peri-Implant Soft Tissue Dehiscence (PSTD) Prevention & Management — Synthesis"
-authors: synthesis page (compiled by Claude from 11 wiki entries, ingested through 2026-05-22)
+authors: synthesis page (compiled by Claude from 15 wiki entries — 11 original + Ebrahim 2026, Nart 2025, Fathi 2025, Sabri 2025; updated 2026-11-25)
 year: 2026
-date: 2026-05-22
+date: 2026-11-25
 category: overviews
 evidence_level: synthesis
 source_collection: internal
@@ -13,12 +13,19 @@ source: synthesis
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 핵심: 임플란트 주위 연조직 dehiscence(Peri-implant Soft Tissue Dehiscence, PSTD)의 예방·관리를 식립 전 평가 → 술식 → 유지관리 3단계 알고리즘으로 종합(11편).
+> - 핵심: 임플란트 주위 연조직 dehiscence(Peri-implant Soft Tissue Dehiscence, PSTD)의 예방·관리를 식립 전 평가 → 술식 → 유지관리 3단계 알고리즘으로 종합(15편).
 > - PSTD는 질환 없는 상태에서도 평균 46.2% 발생 — "예외적 합병증"이 아니라 기대 가능한 자연 진행으로 봐야 함(Tavelli 2025 AO/AAP SR+meta-regression, 221편).
 > - 점막퇴축(Mucosal Recession, MREC)은 23.1%; Galarraga-Vinueza 2025·Derks 2015도 유사 prevalence로 수렴.
 > - 위험인자(식립 전 식별 가능): thin biotype(≤1mm), 각화조직(Keratinized Tissue, KT) 폭 <2mm, 협측 위치, 즉시식립, 흡연, CTG 미시행.
 > - 보호인자: KT ≥2mm, CTG 동반, 적절한 emergence profile, 연조직 volume 증대, 비흡연.
 > - KT 2mm가 임상 임계값 — KT <2mm면 plaque/BoP/MBL 증가; 식립 전·후 KT 평가·증대가 1차 예방 술식(Thoma 2018 SR+MA).
+> - 2025 우산리뷰(Umbrella Review) 2편이 2mm 역치를 재확인: 각화점막 폭(Keratinized Mucosa Width, KMW) <2mm → 점막퇴축(Mucosal Recession) 동등오즈비(Equivalent Odds Ratio, eOR) 4.05·치태지수 eOR 5.34·치은지수 eOR 3.131·변연골소실(Marginal Bone Loss, MBL) eOR 1.852(Sabri 2025 메타-메타분석, 10 SR); Fathi 2025(10 SR)는 치태·염증·퇴축·MBL·환자 불편감 증가를 서술 종합.
+> - 정밀화: 탐침출혈(Bleeding on Probing, BoP)·탐침깊이(PD)는 umbrella 수준에서 비유의(Sabri 2025) → "KT <2mm면 BoP 증가"는 약화; PSTD에 직결되는 지표는 퇴축(eOR 4.05, p=0.03)이며 추적기간과 무관하게 지속.
+> - 두 우산리뷰는 독립 확증 2건이 아니다: 동일한 KM SR 풀(Ravidà 2022·Mahardawi 2023 등)을 재종합 — Fathi의 10편 중 최대 8편이 Sabri 기간(2012–2023)과 겹칠 수 있고, 둘 다 원발연구 중복(overlap) 보정 없음 → 근거 1줄로 계산.
+> - 불일치: 임플란트주위염 위험은 Fathi가 Mahardawi 2023 OR 2.78을 재인용해 "증가"로, Sabri는 "유병률 연관 근거 불충분"으로 결론 — 같은 근거의 방법 차이.
+> - 증대술 적응증: FGG가 KMW 증대·출혈지수 1차 선택, 결합조직이식(CTG)은 두께, 이종 콜라겐 기질(Xenogeneic Collagen Matrix, XCM)은 심미·저이환 대안(Fathi 2025) — 단 증대가 PSTD를 예방한다는 장기 중재 근거는 없음(연관 근거 + 단기 증대 효과 근거만).
+> - 한계: Sabri는 초록만 보유(AMSTAR-2·GRADE 등급 미확인), Fathi는 10편 전부 "low ROB"로 판정(비표준 점수화), 7,139명·132편은 SR 간 합산치(중복 포함). KM 세부(술식 결정트리·20년 코호트)는 [[overviews/keratinized-mucosa-peri-implant-health-overview]] 참조.
+> - 서베일런스(2026-11-24): 2021–2026 PubMed 우산리뷰 검색 — 신규 umbrella 없음; Cochrane 연조직 증대 overview(PMID 40662426)는 프로토콜 단계 → 추후 재확인.
 > - 즉시식립 CTG: midfacial 보존 ~0.4~0.7mm로 thin biotype에서 effect 최대(Seyssens 2021); 단 CTG vs 이종 콜라겐 매트릭스 우위는 통계적으로 marginal(Azadi 2025 NMA) → thin biotype 아니면 콜라겐 매트릭스 대체 가능.
 > - 해부학적 근간: 협측 골판(Facial Bone Wall) <1mm → 발치 후 흡수 → 협측 점막 지지 상실 → 퇴축 → PSTD(Martins 2024); 따라서 연조직 술식 + 골 보존 술식 결합 필요.
 > - 흡연: 금연은 시간 의존 효과 — 식립 ≥6개월 전 금연 권고(Caggiano 2022).
@@ -27,7 +34,7 @@ source: synthesis
 
 ## Three-line Summary
 
-Synthesis of 11 wiki entries on peri-implant soft tissue dehiscence (PSTD) as a 3-stage prevention-to-management algorithm: PSTD averages 46.2% even in disease-free sites (Tavelli 2025 AO/AAP SR+meta-regression, 221 studies) — it is an expected natural progression, not an exceptional complication.
+Synthesis of 15 wiki entries on peri-implant soft tissue dehiscence (PSTD) as a 3-stage prevention-to-management algorithm: PSTD averages 46.2% even in disease-free sites (Tavelli 2025 AO/AAP SR+meta-regression, 221 studies) — it is an expected natural progression, not an exceptional complication.
 
 Risk factors identifiable before placement: thin biotype (≤1 mm), keratinized tissue (KT) <2 mm, buccal malposition, immediate placement, smoking, no CTG; protective interventions (CTG/SCTG, KT ≥2 mm augmentation, soft-tissue volume) roughly halve prevalence; thin facial bone wall (<1 mm) is the anatomic root cause (Martins 2024).
 
@@ -56,6 +63,8 @@ Clinical algorithm: LOW risk → standard placement ± CTG; MOD → CTG or xenog
 | implants/peri-implantitis/carra-2023-primordial-primary-prevention-peri-implant-sr-ma | sr+ma | Primordial + primary prevention 효과 |
 | implants/survival/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr | sr | 금연이 peri-implant 결과 개선 |
 | immediate-implant/martins-2024-facial-bone-wall-immediate-implant-esthetic | sr | facial bone wall ↔ recession 직접 연결 |
+| implants/peri-implantitis/sabri-2025-keratinized-mucosa-implant-health-umbrella-review | umbrella SR + meta-meta-analysis (abstract-only held) | KMW <2 mm → recession eOR 4.05, mPI 5.34, GI 3.131, MBL 1.852; BoP/PD NS |
+| implants/peri-implantitis/fathi-2025-keratinized-mucosa-implant-health-umbrella-review | umbrella SR (narrative, 10 SRs) | KMW ≥2 mm protective across all 10 SRs; FGG/CTG/XCM indication mapping |
 
 ---
 
@@ -101,7 +110,38 @@ KT가 PSTD prevention의 핵심인 이유:
 - KT 부족 → 협측 mobile mucosa가 임플란트로 견인 → mechanical recession
 - Thin biotype + thin KT → buccal bone resorption 노출 → dehiscence
 
-Thoma 2018은 *식립 전·후 KT 평가와 증대가 PSTD 예방의 1차 술식*임을 SR+MA로 입증. [확인]
+Thoma 2018은 *식립 전·후 KT 평가와 증대가 PSTD 예방의 1차 술식*임을 SR+MA로 입증. [확인] *(Refined 2026-11-25 — see Cluster 2b: the BoP component is not significant at umbrella level, and "1차 술식" rests on association + short-term augmentation-efficacy evidence, not on trials showing augmentation prevents PSTD.)*
+
+---
+
+## Cluster 2b — KM width umbrella evidence (2025): two umbrellas, one evidence line
+
+This cluster covers only the PSTD-relevant slice. Full KM synthesis (evidence map across Ravidà/Zhang/Mahardawi/Roccuzzo, augmentation technique table, second-stage decision tree) lives in [[overviews/keratinized-mucosa-peri-implant-health-overview]] and is not duplicated here.
+
+**[[implants/peri-implantitis/sabri-2025-keratinized-mucosa-implant-health-umbrella-review]]** (umbrella SR + quantitative meta-meta-analysis, 10 SRs published 2012–2023, Hedges' g → equivalent OR; Int J Oral Implantol 2025) — KMW <2 mm vs ≥2 mm:
+
+| Outcome | eOR | p | PSTD relevance |
+|---|---|---|---|
+| Mucosal recession | **4.05** | 0.03 | Direct — recession is the apical-margin component of PSTD |
+| Modified Plaque Index | 5.34 | 0.005 | Upstream (hygiene) |
+| GI / mGI | 3.131 | 0.001 | Upstream (inflammation) |
+| Marginal bone loss | 1.852 | 0.0007 | Loss of buccal support |
+| BoP, PD (change and value) | NS | — | — |
+| Implant survival, peri-implant disease prevalence | insufficient evidence / NS | — | — |
+
+Follow-up time was not a significant moderator — the KM-related risk is persistent, not front-loaded. **Appraisal caveat**: the held artifact is the PubMed abstract only; AMSTAR-2 ratings, GRADE certainty per outcome, the list of the 10 included SRs and any overlap (CCA) analysis are not available to us. Sabri 2025 shares authors (Tavelli, Barootchi, Wang) with the Tavelli 2025 AO/AAP anchor in Cluster 1 — the same research group, so agreement between them is not independent corroboration. [확인 — abstract-level]
+
+**[[implants/peri-implantitis/fathi-2025-keratinized-mucosa-implant-health-umbrella-review]]** (umbrella review, 10 SRs/MAs searched to August 2024; narrative synthesis, no pooling; J Oral Implantol 2025) — every one of the 10 SRs reported a positive association between KMW ≥2 mm and peri-implant health; narrower KT was linked to more plaque, inflammation, mucosal recession, MBL and greater patient discomfort (the discomfort signal comes from a single constituent SR in Fathi's Table 1). It re-cites Mahardawi 2023's OR 2.78 for peri-implantitis and Montero 2022's prevalence gradient (5.1–8% at KT ≥2 mm vs 20.5–53% at KT 0 mm) — these are *re-cited* numbers from constituent SRs, not new estimates. **Appraisal caveats**: all 10 SRs rated "low risk of bias" using a count-of-affirmatives cut-off (≥8 = low), which is not the standard AMSTAR-2 critical-domain rating and likely overstates quality; the "7,139 participants / 132 studies" total is a sum across SRs and double-counts shared primary studies; no overlap/CCA analysis; no funding, authors declare no competing interests. [확인]
+
+**Overlap — the two umbrellas are largely the same evidence counted twice.** Fathi's 10 SRs: Thoma 2014, Moraschini 2017, Longoni 2019, Moraschini 2020, Montero 2022, Ravidà 2022, Ramanauskaite 2022, Mahardawi 2023, Atieh 2024, Oh 2024. Sabri's window (2012–2023) excludes Atieh 2024 and Oh 2024, so at most 8 of Fathi's 10 can be shared; Sabri's ingest notes name Ravidà 2022 and Mahardawi 2023 as included, but its full list is not held, so the exact overlap cannot be counted. Both draw from the same small pool of KM SRs, which themselves re-use the same primary cohorts. **Treat Fathi + Sabri as one convergent evidence line on the 2 mm threshold, not two independent confirmations.** [확인 for Fathi's list and the date windows; exact shared count 미검증]
+
+**Where they disagree** — peri-implantitis: Fathi concludes KM deficiency raises peri-implantitis risk (via Mahardawi OR 2.78); Sabri finds insufficient evidence / no significant association for disease prevalence. This is a method difference on overlapping inputs (narrative re-citation of one SR vs pooled Hedges' g across SRs), not new contradictory data. For PSTD the disagreement is moot: both agree on recession, plaque, inflammation and MBL. [확인]
+
+**Refinement of held claims**:
+- Cluster 2 / Thoma 2018 "KT <2 mm → plaque/BoP/MBL ↑": plaque and MBL are confirmed at umbrella level; **BoP is not** (Sabri NS; Fathi reports Longoni 2019's bleeding difference as a non-significant trend). [확인]
+- Tavelli 2025 risk factor "KTW <2 mm" (Cluster 1) is consistent with the umbrella recession eOR 4.05 — but note the outcome is *mucosal recession*, not the broader PSTD definition Tavelli uses. [확인]
+
+**Is augmentation indicated?** Fathi's indication mapping: FGG = first-line for KMW gain and bleeding-index improvement; CTG = superior to XCM for gingival thickness; XCM = viable alternative at esthetic or low-morbidity sites (comparable to CTG for KMW and PAS). Both umbrellas are **association** evidence; Fathi explicitly states long-term interventional data are insufficient and causality is unproven. So the defensible indication is: KMW <2 mm is a modifiable risk marker for recession, and augmentation reliably adds KM — but no RCT shows that augmenting KM prevents PSTD over time. Reserve "mandatory pre-placement FGG" language for sites where KM <2 mm coexists with other PSTD risk factors (thin phenotype, buccal position, immediate placement) — the HIGH tier of the algorithm below. [미검증 — Claude 해석]
 
 ---
 
@@ -198,7 +238,7 @@ Causal chain: Thin facial bone wall → 발치 후 bundle bone 흡수 → 협측
 
 | 시나리오 | 1차 권고 | 2차 옵션 | 근거 |
 |---|---|---|---|
-| 전치부 신규 식립 + thin biotype + KT <2 mm | 식립 *전* FGG → 4–8wk healing → IIP + CTG + SG | 즉시 CTG (동시) + collagen matrix overlay | Thoma 2018 + Seyssens 2021 |
+| 전치부 신규 식립 + thin biotype + KT <2 mm | 식립 *전* FGG → 4–8wk healing → IIP + CTG + SG | 즉시 CTG (동시) + collagen matrix overlay | Thoma 2018 + Seyssens 2021; FGG first-line for KMW gain — [[implants/peri-implantitis/fathi-2025-keratinized-mucosa-implant-health-umbrella-review]] |
 | 전치부 신규 식립 + thick biotype + intact wall | 표준 IIP + SG (jump space ≥2 mm); CTG optional | 이종 collagen matrix (CTG 대체) | Azadi 2025 (SUCRA) |
 | 흡연 환자 | ≥6mo 금연 권고 후 식립 | 금연 거부 시 식립 보류 또는 강화 SPT | Caggiano 2022 |
 | 기존 임플란트 PSTD 1–3 mm | CTG (multi-island 또는 SCTG) | Vestibular incision subperiosteal tunnel access (VISTA) | Tavelli 2025 |
@@ -214,11 +254,13 @@ Causal chain: Thin facial bone wall → 발치 후 bundle bone 흡수 → 협측
 4. **흡연·당뇨 dose-response 부족** — Pack-year, HbA1c 임계값 SR+MA 없음.
 5. **임플란트 표면 (HA·zirconia·UV)이 PSTD risk에 미치는 영향** 직접 SR 없음.
 6. **Tavelli 2025의 PSTD 정의가 disease-free 한정** — 실제 임상에서 disease 동반 case에서의 dehiscence는 prevalence 더 높을 가능성.
+7. **KM augmentation → PSTD prevention: no interventional proof** — the 2025 umbrellas (Sabri, Fathi) are association-level; neither reports an RCT showing KM augmentation reduces PSTD incidence long-term. Both umbrellas re-synthesize an overlapping SR pool and neither corrects for primary-study overlap, so the umbrella tier adds precision on the 2 mm threshold but not independent replication. Sabri's AMSTAR-2/GRADE detail is unavailable (abstract-only) — re-read if the full text is acquired.
+8. **Surveillance (2026-11-24)**: a 2021–2026 PubMed search for umbrella reviews on peri-implant soft-tissue dehiscence / KM / soft-tissue augmentation found **no new umbrella** beyond Sabri 2025 and Fathi 2025. A Cochrane overview of soft-tissue augmentation at implant sites (PMID 40662426) exists only as a **protocol** — re-check for the completed review later.
 
 ## 임상 권고 요약 [미검증]
 
 - PSTD는 *기대 가능한 자연 진행*. 환자 동의 시 prevalence 46%를 사전 고지.
-- *식립 전 KT 평가*가 가장 cost-effective 예방 — KT <2 mm 시 식립 전 FGG 강력 권고.
+- *식립 전 KT 평가*가 가장 cost-effective 예방 — KT <2 mm 시 식립 전 FGG 권고 (umbrella-level association: recession eOR 4.05, Sabri 2025; FGG first-line, Fathi 2025). "강력" 수준은 KT <2 mm + 다른 PSTD 위험인자 동반(HIGH tier)에 한정 — 증대가 PSTD를 예방한다는 중재 근거는 아직 없음 (Cluster 2b).
 - 즉시식립에서 thin biotype은 CTG 동반이 *standard add-on*. Thick biotype은 이종 collagen matrix로 대체 가능.
 - 흡연 환자는 ≥6mo 금연 권고가 evidence-based; 거부 시 SPT 강화.
 - 기존 PSTD 1–3 mm는 CTG로 회복 가능; ≥3 mm + 협측 골 결손은 보철 제거 + GBR 필요.
@@ -253,6 +295,9 @@ Causal chain: Thin facial bone wall → 발치 후 bundle bone 흡수 → 협측
 - [[implants/peri-implantitis/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]]
 - [[implants/survival/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr]]
 - [[immediate-implant/esthetic-soft-tissue/martins-2024-facial-bone-wall-immediate-implant-esthetic]]
+- [[implants/peri-implantitis/sabri-2025-keratinized-mucosa-implant-health-umbrella-review]] — umbrella SR + meta-meta-analysis (10 SRs, abstract-only held): KMW <2 mm → recession eOR 4.05, MBL eOR 1.852; BoP/PD NS
+- [[implants/peri-implantitis/fathi-2025-keratinized-mucosa-implant-health-umbrella-review]] — umbrella review (10 SRs, overlaps Sabri's pool): KMW ≥2 mm protective; FGG/CTG/XCM indication mapping
+- [[overviews/keratinized-mucosa-peri-implant-health-overview]] — full KM synthesis (자매 페이지; KM 상세는 여기서 중복하지 않음)
 - [[overviews/type-1a-immediate-placement-immediate-loading-decision]] — Type 1A 적응증 (자매 페이지)
 - [[overviews/cosyn-immediate-implant-4-bundle-decision]] — 4변수 술식 의사결정 (자매 페이지)
 - [[implants/soft-tissue/nart-2025-soft-tissue-augmentation-pstd-sr-ma]] — SR+MA (PSTD management 술식): CAF+CTG for established PSTD — professional esthetic score 7.7/10, patient satisfaction only 60.8/100 (significant perception gap); complete coverage does not guarantee patient satisfaction. Patient-reported outcome integrated at treatment planning stage.

@@ -100,6 +100,8 @@ Gan's finding is the most directly actionable item in this set because it is pre
 
 A flat, shallow, wide-angled ridge is the unfavorable phenotype: nothing supports the membrane, and soft-tissue pressure wins. That is the case to either over-contour aggressively, stabilize mechanically, or stage.
 
+A population-level reason to expect contour problems at all comes from Januário 2011, a CBCT study of 250 subjects: the anterior maxillary facial bone wall was ≤1 mm thick at most measured sites and close to 50% of sites were ≤0.5 mm, with the CEJ-to-facial-crest distance 1.6–3 mm. A wall that thin has little reserve against post-extraction or post-placement remodeling, which is why the facial wall is the structure this page's contour-augmentation logic protects. The source is abstract-only (no per-tooth breakdown or dispersion), and it describes wall thickness, not outcomes of augmentation. [확인 for the quoted ranges]
+
 ### 2. Simultaneous or staged? — defect geometry, per PASS
 
 Buser's review frames the decision through the PASS conditions and post-extraction timing types 1–4, with composite graft (autogenous chips for osteogenesis + DBBM for volume maintenance) as the horizontal-augmentation standard. Simultaneous GBR is appropriate when the residual walls can both stabilize the implant and supply the centripetal bone ingrowth that Darby demonstrated. When the defect has too few walls to do either, the space-maintenance leg of PASS fails and the case belongs to a staged or vertical protocol — delegated to the vertical ridge augmentation and protocol-ladder overviews.
@@ -143,6 +145,7 @@ The mechanistic read fits this overview's thesis directly: if the rate-limiting 
 
 ## Related Papers
 
+- [[immediate-implant/anatomic-assessment/januario-2011-dimension-facial-bone-wall]] — CBCT, 250 subjects: anterior maxillary facial bone wall ≤1 mm at most sites (~50% ≤0.5 mm); abstract-only, anatomical baseline for contour augmentation
 - [[bone-regeneration/song-2017-local-ridge-augmentation-bone-patch]] — Split-mouth animal study (dogs, n=6): bone patch (composite bone substitute + collagen membrane) vs conventional GBR (fixed/unfixed) at peri-implant dehiscence defects; histologic new bone formation and micro-CT bone volume equivalent between bone patch and conventional GBR; bone patch significantly shorter surgical time — supports simplified GBR materials for dehiscence management (animal, 2017)
 - [[overviews/gbr-barrier-membrane-overview]] — extends (membrane classification and crosslinking chemistry; this page takes membrane choice as settled and asks what else moves the outcome)
 - [[overviews/gbr-barrier-membrane-exposure-axis]] — extends (exposure as failure mode; complementary — exposure is the soft-tissue failure, graft displacement is the hard-tissue one)

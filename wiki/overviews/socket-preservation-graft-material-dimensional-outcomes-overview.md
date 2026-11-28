@@ -34,6 +34,7 @@ relations:
 > - 저용량 rhBMP-2 코팅 β-TCP(Wei 2025, 40명): 6주 신생골 7.72%로 β-TCP 단독 2.96%보다 많았지만 자연 치유 8.37%와 비슷했다. 식립 시 추가 증대가 필요한 비율은 36% vs 50% vs 89%였다(p=0.0447). [확인]
 > - 대안 재료: 자가 상아질 이식(Ogui 2023, 37명)은 이종골+자가골 혼합과 치수·조직계측이 같았다. 돼지 이종골은 소 이종골보다 6개월 폭 변화가 적었다(Bhatavadekar 2022, 군당 10명). 동종골+I-PRF는 3개월 폭 손실과 잔존 이식재가 적었다(Talebi-Ardakani 2024, 20 소켓). [확인]
 > - 종합 한 줄: ARP는 흡수를 줄이지만 없애지 못하고, 폭 보존은 이식재 채움만으로는 부족하다. 재료와 입자 크기는 대체로 동등한 변수이며, 소켓 완전성과 부위가 상한을 정한다. [미검증]
+> - **RCT 3편 추가(2026-11-10) — 인접 2치 발치·구치부 상악·치유 기간**: ① 인접 두 치아 발치 후 탈단백우골미네랄-콜라겐 (Deproteinized Bovine Bone Mineral with Collagen, DBBM-C)+흡수성 막은 수평 손실을 57.7%→23.0%, 협측 수직 손실을 3.0→1.5 mm로 줄임(Cecchinato 2026, n=42). ② 구치부 상악에서 치조제 보존술 (Alveolar Ridge Preservation, ARP)이 측방 상악동 거상 필요를 89%→42%로 낮춤(Lam 2024 파일럿, n=28). ③ 치유 3·6·9개월의 광화조직 13.53·33.33·37.05% — 6개월 이후 이득이 작아 6개월 재진입 권고, 추가 골유도재생술 (Guided Bone Regeneration, GBR)이 필요했던 16.7% 중 85.7%가 협측골 ≤1 mm(Couso-Queiruga 2022, n=42).
 
 ## Three-line Summary
 
@@ -214,3 +215,22 @@ What they add:
 - [[overviews/open-healing-arp-technique-variables-overview]] — open-healing technique variables (existing sibling)
 - [[overviews/dbbm-bone-substitute-overview]] — DBBM across indications (existing sibling)
 - [[overviews/immediate-vs-delayed-ridge-preservation-timing-overview]] — timing of ridge preservation (existing sibling)
+
+## Evidence Update — Adjacent Sockets, Posterior Maxilla, and Healing Time (2026-11-10)
+
+Three RCTs extend the dimensional evidence to situations the earlier trials did not cover.
+
+| Paper | Design | Finding |
+|---|---|---|
+| [[bone-regeneration/ridge-preservation/cecchinato-2026-biomaterial-used-to-counteract-ridge]] | Multicentre RCT, n=42, two adjacent teeth removed, DBBM-C + resorbable membrane vs natural healing, 6 months, STL models | Horizontal ridge reduction 23.0% vs 57.7% (p<0.001); buccal vertical loss 1.5 vs 3.0 mm. |
+| [[bone-regeneration/ridge-preservation/lam-2024-alveolar-ridge-preservation-in-posterior]] | Randomised pilot, n=28, posterior maxilla, unassisted vs DBBM granules vs DBBM-C, CBCT at 4 months | Need for lateral sinus floor elevation fell from 89% to 42%; sinus pneumatisation was significantly reduced (p=0.03). |
+| [[bone-regeneration/ridge-preservation/couso-queiruga-2022-alveolar-ridge-preservation-dbbm-healing-time]] | Three-arm RCT, n=42, non-molar sites, DBBM-C + collagen matrix, re-entry at 3, 6 or 9 months | Mineralised tissue 13.53% → 33.33% → 37.05%; residual graft 16.94% → 10.69% → 9.46%. 16.7% of sites needed ancillary GBR, and 85.7% of those had facial bone ≤1 mm at baseline. |
+
+**Synthesis.**
+
+1. *The adjacent-socket case is not a special case.* Cecchinato's control arm lost 57.7% of ridge width when two neighbouring teeth were removed, and DBBM-C held the loss to 23.0%. The proportional benefit is in line with the single-socket trials above; the absolute stakes are higher because there is no interdental septum left to hold the ridge.
+2. *In the posterior maxilla the outcome that matters is a second surgery.* Lam reports the benefit as avoided sinus elevation rather than millimetres, which is the framing the molar ARP review in [[overviews/socket-preservation-arp-overview]] also uses. It is a pilot with 28 sites, so the size of the effect is uncertain even if its direction is consistent.
+3. *Healing time has a plateau.* Mineralised tissue more than doubled between 3 and 6 months and barely moved between 6 and 9. With DBBM's slow resorption, waiting beyond 6 months buys little, which supports a 6-month re-entry for most non-molar sites.
+4. *Thin facial bone predicts who still needs grafting.* Baseline buccal bone ≤1 mm was the common thread among sites that needed further GBR despite ARP. This is the same threshold that drives the indication elsewhere on this page: ARP reduces resorption in thin-wall sites but does not make them equivalent to thick-wall sites.
+
+**Limit.** All three use DBBM-family materials, so they say nothing about material choice; they refine indication and timing.

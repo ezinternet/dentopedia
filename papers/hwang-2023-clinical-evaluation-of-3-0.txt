@@ -1,0 +1,545 @@
+INTRODUCTION
+
+Dental implants are currently the most commonly used treatment option in dentistry for restoring missing teeth []. Successful implant treatment requires sufficient alveolar bone width and height, and bone grafting procedures such as guided bone regeneration (GBR) are usually applied to compensate for insufficient bone volume []. However, bone augmentation may be unsuccessful depending on site- or patient-related conditions, resulting in unexpected complications, such as wound dehiscence, infections, and postoperative pain []. Moreover, the mesiodistal width is sometimes limited, especially when the maxillary lateral or mandibular incisors are lost. In cases with these restrictions, narrow-diameter implants (NDIs) can be an efficient alternative as a less time-consuming and cost-effective method [].
+
+According to Klein et al. [], NDIs are divided into 3 categories based on their diameters; category 1 refers to NDIs whose diameters are less than 3.0 mm, so-called “mini-implants.” Category 2 refers to NDIs whose diameters range from 3.0 mm to 3.25 mm, while category 3 includes NDIs whose diameters range from 3.30 mm to 3.50 mm. NDIs are available as 1- or 2-piece designs, and those with smaller diameters are more likely to have a 1-piece design []. Many studies have proven successful clinical results of NDIs; in particular, category 3 NDIs have shown a favorable implant survival rate in comparison to regular-diameter implants [].
+
+Although NDIs could be a reasonable alternative in clinical situations with limited ridge augmentation, it has been reported that NDIs have inferior clinical outcomes compared to regular-diameter implants []. According to Quek et al. [], NDIs have lower mechanical resistance than wider implants and are more prone to mechanical complications, such as fixture fractures or screw fractures. Because the ratio of implant diameter to the occlusal surface area is small in NDIs, overload induced by the cantilever effect can be applied to NDIs [].
+
+Moreover, because NDIs have a smaller surface area for bone-to-implant contact than regular-diameter implants, the risk of osseointegration failure might be higher in NDIs []. Although several retrospective studies have reported the survival rates and clinical outcomes of NDIs, many have addressed different implant systems with different diameters. Given that implant success is a multifactorial problem, differences in implant types and diameters within a single study can lead to confusion when interpreting the results.
+
+In this study, we focused on a single type of category 2 NDI with a diameter limited to 3.0 mm. This study aimed to analyze the survival rate of NDIs of a single-implant system with a 3.0-mm diameter and to evaluate the factors affecting survival.
+
+MATERIALS AND METHODS
+
+Study design and inclusion of participants
+
+This retrospective cohort study analyzed data from patients who received dental implant treatment with a single type of 3.0-mm diameter implant system, TS III SA 3.0 (Osstem Implant Co., Seoul, Korea). Implants with lengths of 8.5, 10, 11.5, and 13 mm were included in the study (TS3M3008S, TS3M3010S, TS3M3011S, and TS3M3013S). The NDIs included in this study were 2-piece internal-type tapered implants with sandblasted and acid-etched surfaces. Patients’ dental records at Seoul National University Dental Hospital were reviewed from March 2017 to April 2022. Patients who did not complete the final prosthesis or did not have radiographs taken after prosthesis installation were excluded. The Institutional Review Board approved the study protocol (IRB No. ERI22022) of the Seoul National University Dental Hospital and the study was performed according to the Strengthening the Reporting of Observational Studies in Epidemiology guidelines. The requirement for informed consent from patients was waived because of the anonymity of the dataset.
+
+Data collection
+
+The following data were collected by 2 examiners (Y.D.C. and I.K.H.): patient age at implant placement, sex, implant location, implant length, stage of surgery, whether GBR was performed, the type of implant placement [], and prosthesis type (single crown or splinted restoration). Along with the data mentioned above, implant survival and follow-up periods were also investigated. In this study, implants were considered to have survived if they remained in the mouth independent of biological and technical complications. Implants removed from the oral cavity were defined as failed. The follow-up period for a failed implant was defined as the survival time of the implant (the period between implant placement and implant removal). For surviving implants, the follow-up period was defined as the period between the implant placement date and the most recent follow-up.
+
+Radiographic evaluation
+
+Peri-implant marginal bone loss (MBL) was measured by 1 examiner (I.K.H.) from the most recent radiographs, including panoramic and periapical radiographs taken after prosthesis insertion. Among the 64 implants, 6 failed implants were excluded from radiographic evaluation because all failed implants were removed before starting prosthetic treatment. If an implant was detected in more than 1 image, the image with the largest bone loss was selected for measurement. MBL was determined from the fixture-abutment junction (FAJ) to the first bone-to-implant contact (fBIC) on both the mesial and distal sides (). The distance between the FAJ and fBIC was measured to the nearest 0.1 mm using the linear measurement tool of INFINITT PACS software (INFINITT Healthcare, Co., Ltd. Seoul, Korea). If the FAJ was located at the equicrestal or subcrestal level, MBL was considered 0. The mean MBL was calculated by averaging the mesial and distal values, and calibration was performed using the implant length, as an already known value, as a reference.
+
+Figure 1
+
+Methods of measuring the MBL of an implant. (A) Periapical radiograph of an implant showing the MBL. (B) Reference points for calculating the MBL. Implant length is used as a known value for calibration, and the MBL is determined by averaging the mesial and distal MBL.
+
+MBL: marginal bone loss, fBIC: first bone-to-implant contact, FAJ: fixture-abutment junction, (m) and (d): mesial and distal side, respectively.
+
+Statistical analysis
+
+Descriptive statistics of patients and implants are presented as number and percentage or median and interquartile range (IQR) values. Kaplan-Meier survival analysis was used to estimate the implant survival rate. A univariate Cox proportional-hazard model was initially applied to evaluate the factors affecting implant survival, and crude hazard ratios (HRs) were calculated for each variable. The final model and adjusted HRs were calculated using multivariate Cox regression analysis with a backward stepwise model. As the Kolmogorov-Smirnov test showed that the data did not follow a normal distribution, non-parametric tests were used to verify the factors affecting MBL. The Mann-Whitney and Kruskal-Wallis tests were used to assess the influence of categorical variables on MBL, and Spearman correlation analysis was used to evaluate the influence of continuous variables on MBL. All statistical analyses were performed using the statistical software package SPSS version 26 (SPSS Inc., IBM Corp., Armonk, NY, USA). The statistical significance level was set at 5% (<0.05).
+
+RESULTS
+
+Implant survival and failure
+
+Sixty-four implants from 49 patients were included in the study.shows the patient demographics. After placement, the implants were followed for a median of 30.5 months (IQR, 26.75–45 months). At the patient level, 6 out of 49 patients experienced implant failure. At the implant level, 6 out of 64 implants failed: 5 due to osseointegration failure, and 1 due to an aesthetic problem caused by severe buccal thread exposure (). From the Kaplan-Meier curve analysis, the cumulative survival rate for the NDIs was 90.6% ().
+
+Table 1
+
+Description of the patients’ data
+
+Variable
+
+Value
+
+Patients (male/female)
+
+49 (24/25)
+
+Age (yr)
+
+64 (49.75–72)
+
+Follow-up period (mo)
+
+30.5 (26.75–45)
+
+Implants
+
+64
+
+Jaw (maxilla/mandible)
+
+28/36 (44/56)
+
+Location (maxillary lateral incisors and mandibular incisors/others)
+
+55/9 (86/14)
+
+Implant length (8.5 mm/10 mm/over 10 mm)
+
+5/32/27 (8/50/42)
+
+Prosthesis type (single/splinted)
+
+24/34 (41/59)
+
+Values are presented as number (interquartile range) or number (%).
+
+Table 2
+
+Description of the failed implants
+
+Patient ID
+
+Gender
+
+Age
+
+Tooth number
+
+Length (mm)
+
+GBR
+
+Stage
+
+Type of placement
+
+Proficiency of the surgeon
+
+Removal time (mo)
+
+Reason for removal
+
+1
+
+M
+
+62
+
+41
+
+10
+
+Yes
+
+1
+
+3
+
+R
+
+3
+
+Thread exposure
+
+2
+
+F
+
+84
+
+22
+
+13
+
+No
+
+1
+
+1
+
+R
+
+4
+
+Osseointegration failure
+
+3
+
+M
+
+77
+
+22
+
+11.5
+
+Yes
+
+1
+
+1
+
+R
+
+3
+
+Osseointegration failure
+
+4
+
+F
+
+72
+
+41
+
+10
+
+Yes
+
+1
+
+1
+
+R
+
+0
+
+Osseointegration failure
+
+5
+
+F
+
+82
+
+41
+
+8.5
+
+Yes
+
+1
+
+2
+
+P
+
+2
+
+Osseointegration failure
+
+6
+
+M
+
+75
+
+31
+
+11.5
+
+Yes
+
+1
+
+3
+
+R
+
+1
+
+Osseointegration failure
+
+M: male, F: female, GBR: guided bone regeneration, R: resident, P: professor.
+
+Figure 2
+
+Kaplan-Meier survival curve at the implant level.
+
+Risk factors for implant failure
+
+The univariate Cox proportional hazard model indicated that the jaw, implant location, sex, implant length, the stage of surgery, whether GBR was performed, the type of implant placement, and the surgeon’s proficiency (resident or professor) did not affect the implant survival rate (>0.05) (). The implants placed with GBR tended to show a higher risk of implant failure than those placed without GBR, although it was not statistically significant (HR, 4.75; 95% confidence interval [CI], 0.55–40.65;=0.16). The patient’s age was associated with implant survival in the univariate Cox regression analysis (HR, 1.12; 95% CI, 1.01–1.23;=0.03). The multivariate Cox analysis showed that implant failure was higher as the patient’s age increased after adjusting for the jaw, implant location, sex, implant length, the stage of surgery, and the type of implant placement (HR, 1.17; 95% CI, 1.04–1.31;=0.01) ().
+
+Table 3
+
+The result of the univariate Cox analysis and multivariate Cox analysis for implant failure
+
+Variable
+
+Univariate regression
+
+Multivariate regression
+
+cHR (95% CI)
+
+P
+
+aHR (95% CI)
+
+P
+
+Male (ref: female)
+
+0.99 (0.20–4.90)
+
+0.99
+
+Age
+
+1.12 (1.01–1.23)
+
+0.03
+
+1.17 (1.04–1.31)
+
+0.01
+
+Mandible (ref: maxilla)
+
+1.65 (0.30–8.99)
+
+0.57
+
+Tooth number #12, 22, 32–42 (ref: others)
+
+0.04 (0.00–744.30)
+
+0.52
+
+Implant length (ref: 8.5 mm)
+
+0.59
+
+=10 mm
+
+0.29 (0.03–3.20)
+
+0.31
+
+>10 mm
+
+0.52 (0.05–4.95)
+
+0.57
+
+1-stage (ref: 2-stage)
+
+47.07 (0.06–3.97E+4)
+
+0.26
+
+GBR done (ref: no GBR)
+
+4.75 (0.55–40.65)
+
+0.16
+
+8.12 (0.86–76.28)
+
+0.07
+
+Type of implant placement (ref: type I)
+
+0.69
+
+Type 2
+
+0.96 (0.10–9.21)
+
+0.97
+
+Type 3
+
+0.35 (0.06–2.08)
+
+0.25
+
+Type 4
+
+0.00 (0.00–7.18E+199)
+
+0.96
+
+Surgeon’s proficiency
+
+0.60 (0.07–5.10)
+
+0.63
+
+cHR: crude hazard ratio, aHR: adjusted hazard ratio, CI: confidence interval, ref: reference, GBR: guided bone regeneration.
+
+Statistically significant difference in the cumulative survival rate with increasing age in the univariate Cox analysis.
+
+Statistically significant difference in the cumulative survival rate with increasing age in the multivariate Cox analysis.
+
+MBL
+
+shows the peri-implant MBL from the FAJ during the observation period. The overall mean MBL was 0.44±0.75 mm. Thirty-two implants (55.2%) showed no bone loss from the FAJ, 16 implants (27.6%) showed MBL of less than 1 mm, 8 implants (13.8%) showed MBL ranging from 1 to 2 mm, and 2 implants (3.4%) showed MBL of more than 2 mm. From the results of the Mann-Whitney and Kruskal-Wallis tests, the distance between the FAJ and the peri-implant bone level was not affected by the jaw, GBR, prosthesis type, the type of implant placement, and implant location (>0.05). Spearman correlation analysis also revealed no statistically significant relationship between age or loading time and MBL (>0.05) ().
+
+Table 4
+
+Marginal bone loss during the observation period
+
+Variable
+
+Mesial
+
+Distal
+
+Average
+
+Mean (mm)
+
+0.50±0.80
+
+0.39±0.78
+
+0.44±0.75
+
+Range (mm)
+
+0.00–4.01
+
+0.00–3.85
+
+0.00–3.53
+
+0–1
+
+46 (79)
+
+48 (83)
+
+48 (83)
+
+1–2
+
+10 (18)
+
+8 (14)
+
+8 (14)
+
+>2
+
+2 (3)
+
+2 (3)
+
+2 (3)
+
+Total
+
+58 (100)
+
+58 (100)
+
+58 (100)
+
+Values are presented as mean±standard deviation or number (%).
+
+Table 5
+
+Comparison of MBL according to the investigated variables
+
+Variable
+
+MBL
+
+Spearman’s rho
+
+value
+
+Jaw
+
+0.73
+
+Maxilla
+
+0.46±0.81
+
+Mandible
+
+0.43±0.72
+
+GBR
+
+0.31
+
+Yes
+
+0.58±0.81
+
+No
+
+0.31±0.67
+
+Prosthesis type
+
+0.54
+
+Single
+
+0.44±0.84
+
+Splinted
+
+0.44±0.75
+
+Type of implant placement
+
+0.32
+
+Type 1
+
+0.47±1.17
+
+Type 2
+
+0.65±0.56
+
+Type 3
+
+0.58±0.90
+
+Type 4
+
+0.33±0.51
+
+Implant location
+
+0.70
+
+#12, 22, 32–42
+
+0.40±0.66
+
+Others
+
+0.69±1.16
+
+Age
+
+0.014
+
+0.92
+
+Loading time
+
+−0.050
+
+0.71
+
+Values are presented as mean±standard deviation.
+
+MBL: marginal bone loss, GBR: guided bone regeneration.
+
+For categorical variables, the Mann-Whitney and Kruskal-Wallis tests were used to evaluate their influence on MBL.
+
+For continuous variables, Spearman correlation analysis was used to evaluate their influence on MBL.
+
+DISCUSSION
+
+The present study reviewed the survival rate of NDIs and the risk factors for implant failure and MBL. The survival rate of the implants was 90.6% at the implant level, and the patient's age was found to be a factor affecting the implant survival rate. For MBL, there were no statistically significant results for the investigated patient-, surgery-, or implant-related factors.
+
+Previous cohort studies reported that the survival rate of 2-piece NDIs ranged from 93.8% to 100% []. In a recent meta-analysis, the mean survival rate of NDIs classified as category 2 was 97.3%±5% []. The present study showed a slightly lower survival rate than previous results. However, the results should be interpreted with caution since only implants with a diameter of 3.0 mm were included in this study. In contrast, other studies also included implants with diameters larger than 3.0 mm, and the number of the included patients was limited due to this constraint. Another possible reason for the relatively low survival rate could be that a significant number of implants (48 out of 64) were placed by residents (i.e., less experienced surgeons) in this study. NDIs may require a more accurate placement and insertion technique due to their smaller size, which can be challenging for inexperienced surgeons. However, according to a univariate Cox proportional hazard model, there was no statistically significant difference in the survival rate according to the surgeon’s proficiency. An explanation for the absence of a significant disparity in survival rates in the statistical analysis may be that while a number of implants placed by residents failed, a substantial number also survived.
+
+Whether age influences the implant survival rate is a matter of debate, and conflicting results exist. Some studies have suggested that age is not a significant prognostic factor for implant survival []. In this study, age was identified as a risk factor, and the reason for removing 5 of 6 implants was osseointegration failure. Recent retrospective studies on early implant failure have also found that age contributed to early implant loss []. Another retrospective study, including a relatively large number of patients with long-term follow-up, found a strong relationship between increasing age and implant failure []. Many geriatric patients have medical problems such as cardiovascular disease, diabetes mellitus, osteoporosis, and nutrient deficiencies, which can influence wound healing and osseointegration after implant surgery []. Since implant failure is a multifactorial problem, patient-related factors, including age, should be considered when planning implant surgery [].
+
+In a recent meta-analysis, the mean MBL ranges from 0.09 mm to 1.6 mm in category 2 NDIs []. During an average follow-up period of 25 months, the present study found that the mean MBL was 0.44 mm, which was within the range of those results. When defining MBL, the FAJ of the implants can be used as a reference point, and the distance between the fBIC and FAJ is measured to calculate MBL []. However, MBL can also be defined as the difference in crestal bone level between baseline and follow-up radiographs []. It should be considered that the values of MBL can be heterogeneous depending on how the parameter is defined. Because the former method was applied to measure MBL in this study, peri-implant bone loss above the FAJ in subcrestally placed implants might have been overlooked.
+
+The limitations of this study are that the number of investigated implants was small, and the follow-up period was limited to less than 5 years. This is because NDIs have been used clinically since 2017. Owing to the short follow-up period, the cases of implant failure observed in this study were mainly related to early failure. If more data are collected over a longer period, the causes of late failure, such as occlusal overload and peri-implantitis, can be evaluated []. Another limitation is that systemic diseases and smoking, which are patient-related factors associated with osseointegration and wound healing, were not analyzed []. Patients’ medical history and smoking habits are often omitted or inaccurate because they are recorded based only on verbal statements, which is a limitation of retrospective studies.
+
+Similarly, bone quality, an important site-related factor, was not measured directly. Lekholm and Zarb [] proposed a 4-type classification of bone quality depending on the cortical bone thickness and the trabecular bone distribution. Although bone quality is critical in determining implant survival, its classification in dental records is subjective and often omitted []. Instead, we tried to evaluate bone quality indirectly according to the stage of the surgery and whether GBR was performed.
+
+Within the limitations of this study, 2-piece NDIs with a diameter of 3.0 mm may be a reasonable treatment option when standard-diameter implants are not applicable. The main reason for failure was osseointegration failure, and old age could be a risk factor for failure. No factors had a statistically significant association with MBL. Further long-term research with a larger number of implants is required to assess the prognosis and risk of late failure in NDIs.

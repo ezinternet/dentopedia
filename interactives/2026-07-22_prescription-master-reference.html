@@ -32,6 +32,7 @@ notes: |
   쇼그렌(pSS)·BMS·코르티코스테로이드·이식·ACEI/ARB+스타틴·아나필락시스 6개 카드
   신설 (Shiboski 2016·Lee 2024·Satpathi 2024·Batlle 2021·Khalilurrahman 2026·
   Jevon 2020); 근거 등급 요약 5행 추가.
+  updated 2026-11-20: 항생제 스튜어드십 오버뷰 2026-11-10 예방 항생제 5편 반영 — ext 단순발치 Martins 2023(균혈증), ext 매복 제3대구치 Torof 2023(감염 69%↓·건성발치와 무효, Camps-Font NNT 25와 불일치 명시), imp 상악동 Salgado-Peralvo 2023·Visconti 2026(근거 불충분), aller STEP 2 Arteagoitia 2022(Clindamycin RR 0.66 NS).
   updated 2026-10-06: (1) 항생제 스튜어드십 2026-09-30 신규 cluster — aller 탭 STEP 2
   Azithromycin 행에 Ceccon-Chianca 2026(내성 24.88% in silico)·Ramsey 2022
   (라벨 ~10%)·Salgado-Peralvo 2021/2022 근거 추가. (2) 전신질환 오버뷰 2026-10 신규
@@ -251,6 +252,14 @@ tags: [drug, antibiotics, analgesics, prescription, chairside, reference]
 (function(){
   var HK='_cr_h_2026_07_22_prescription_master_reference';
   var THRESHOLD=30*60*1000;
+  /* OPERATIONS.md §7 — 콘텐츠 업데이트 시 PAGE_VERSION 범프 */
+  const PAGE_VERSION='20261120-v1';
+  var VK='prescription_master_reference_ver';
+  try{
+    var sv=localStorage.getItem(VK);
+    if(sv&&sv!==PAGE_VERSION){localStorage.setItem(VK,PAGE_VERSION);location.reload(true);}
+    else localStorage.setItem(VK,PAGE_VERSION);
+  }catch(e){}
   document.addEventListener('visibilitychange',function(){
     if(document.hidden){
       try{localStorage.setItem(HK,Date.now());}catch(e){}
@@ -335,8 +344,9 @@ const CARDS = [
   {l:'항생제', v:'no', vt:'예방적 항생제 불필요',
    dose:'처방하지 않는다',
    notes:['Cochrane 3rd update — 무합병증 발치에서 예방 항생제는 <b>건성발치와(dry socket)·감염·통증 감소에 효과 없음</b>.',
-          '“Augmentin 3일” 관행은 근거가 없다 (스튜어드십 5룰 ①).'],
-   src:['Lodi 2021 Cochrane'], lvl:'s'},
+          '“Augmentin 3일” 관행은 근거가 없다 (스튜어드십 5룰 ①).',
+          '균혈증 (Bacteremia) 발생률: 발치 62–66%, 치석제거·치근활택 36–44%, 칫솔질 8–26%, 치실 16% — 정점은 술후 5분 이내. 일상 구강위생에서도 반복되므로 발치 1회 전 투여가 막는 몫은 작다 (Martins 2023 SR-MA).'],
+   src:['Lodi 2021 Cochrane','Martins 2023 SR-MA'], lvl:'s'},
   {l:'진통제', v:'yes', vt:'Ibuprofen + APAP 교대',
    dose:'<em>Ibuprofen 400 mg</em> / <em>Acetaminophen 1000 mg</em> — 4시간마다 <em>교대</em> × 48시간',
    notes:['교대(alternate) 투약이 동시(concurrent)보다 우월 — 구제투약 필요 <b>15% vs 53%</b> (p=0.002).',
@@ -357,8 +367,9 @@ const CARDS = [
    notes:['단순 발치엔 효과 미미, <b>매복·외과적 발치에 한정 적응</b> — 일관된 루틴 권고는 없다.',
           'Network MA: 예방 항생제가 건성발치와 <b>NNT=25</b>, 수술부위감염 <b>NNT=18</b> — 높은 NNT는 “루틴”이 아니라 위험인자 기반 선별을 뜻한다.',
           '제3대구치에서 술전 단회 Amoxicillin 2 g은 감염 위험 60–70% 감소 보고.',
-          '<b>술후 24시간 초과 연장 금지</b> — >72시간은 오히려 SSI 증가, >7일은 지연 SSI 유의 증가.'],
-   src:['De Angelis 2025 SR','Camps-Font 2024 NMA (16 RCT)','Mohammadpour 2025 스코핑 (125편)'], lvl:'m'},
+          '<b>술후 24시간 초과 연장 금지</b> — >72시간은 오히려 SSI 증가, >7일은 지연 SSI 유의 증가.',
+          'Torof 2023 SR-MA(16 RCT): 항생제가 술후 감염을 <b>69%</b> 줄였지만(p&lt;0.001) <b>건성발치와에는 효과 없음</b>, 창상 열개·혈종·부종도 무차이, 이상반응은 위약과 비슷(RR 0.96) — 기저 위험이 낮은 건강한 환자의 단순 매복 발치엔 루틴 비권고. ※ 건성발치와 효과는 위 Network MA(NNT=25)와 엇갈린다 — 두 결과 모두 보유 근거.'],
+   src:['De Angelis 2025 SR','Camps-Font 2024 NMA (16 RCT)','Mohammadpour 2025 스코핑 (125편)','Torof 2023 SR-MA'], lvl:'m'},
   {l:'술전약', v:'yes', vt:'NSAID가 아니라 코르티코스테로이드',
    dose:'<em>Dexamethasone 4 mg IM 1회 · 술전</em> (주사 여건 없으면 3일 경구 프레드니솔론 테이퍼)',
    notes:['술전 NSAID(preemptive)는 제3대구치에서 <b>효과 없음</b> (p=0.2227) — 술후 통증 peak가 12–24h라 술전 dose가 그 시점을 못 덮는다.',
@@ -442,8 +453,9 @@ const CARDS = [
           'Amoxicillin/Clavulanate와 단순 Amoxicillin은 감염 예방에서 <b>차이 없음</b>.',
           '감염률 기준선: 치조정접근 <b>0.3–1.0%</b> / 측방창 접근 <b>1.7–2.9%</b>.',
           '고위험 시나리오(항생제 적응 강화): 슈나이더막 천공 특히 &gt;10 mm · 흡연 · 기존 부비동염 · 전신 기저질환.',
-          '중증 감염 치료 시: Amoxicillin/Clavulanate 또는 Levofloxacin + 비강 스테로이드 + 충혈완화제; 불응 시 내시경 부비동 수술.'],
-   src:['Díaz 2025 umbrella (7 SR/MA, 18,900+명)'], lvl:'w'},
+          '중증 감염 치료 시: Amoxicillin/Clavulanate 또는 Levofloxacin + 비강 스테로이드 + 충혈완화제; 불응 시 내시경 부비동 수술.',
+          '예방 항생제 자체의 근거: 상악동 거상술 SR(12편)에서 항생제 유무 비교 1건은 임플란트 실패 차이 없음, 투여 기간 RCT 1건도 부비동 감염 차이 없음 — <b>찬반 모두 근거 불충분</b>. 골증대 동반 식립은 코크란 리뷰가 아직 프로토콜 단계 (Salgado-Peralvo 2023 · Visconti 2026).'],
+   src:['Díaz 2025 umbrella (7 SR/MA, 18,900+명)','Salgado-Peralvo 2023 SR','Visconti 2026 Cochrane protocol'], lvl:'w'},
   {l:'알레르기', v:'case', vt:'이 적응증에선 Clindamycin 유효',
    dose:'<em>Clindamycin 300–600 mg q6–8h</em> (그 외 Cephalosporin·Azithromycin)',
    notes:[], src:['Díaz 2025 umbrella'], lvl:'w'}
@@ -653,8 +665,9 @@ const CARDS = [
    dose:'<em>Cephalexin 2 g</em> 또는 <em>Azithromycin 500 mg</em> (예방 단회 기준)',
    notes:['치과 스튜어드십의 현행 권고는 <b>Clindamycin에서 Cephalexin·Azithromycin으로 이동</b>했다 (5룰 ④). 임플란트에서 Clindamycin 대체군 조기 실패 RR 3.84 (Salgado-Peralvo 2021 SR, n=5편, 교락 있음). Azithromycin 500mg 술전 단회가 SEI 합의(GRADE C) 권고 (Salgado-Peralvo 2022).',
           'Azithromycin은 <b>QT 연장</b> 주의 — 부정맥 이력·심혈관 환자 확인. 마크로라이드 사망의 주원인이 심장 부정맥이다.',
-          '<b>⚠ Azithromycin 내성 주의 (신규 2026)</b>: 구강 연쇄상구균 in silico 유전체 분석에서 Azithromycin 내성 유전자 <b>24.88%</b> 예측 (Ceccon-Chianca 2026; 임상 결과 아닌 유전자 예측). Amoxicillin 내성 유전자 0건 — 1차 선택 타당성 유지. 알레르기 라벨 ~10%가 실제 알레르기, 이중 알레르기 0.7% (Ramsey 2022) — 확인 가능하면 유발검사로 라벨 제거 우선.'],
-   src:['스튜어드십 overview 5룰 ④','Thornhill 2019 NHS','Salgado-Peralvo 2021 SR','Salgado-Peralvo 2022 SEI 합의','Ceccon-Chianca 2026','Ramsey 2022'], lvl:'m'},
+          '<b>⚠ Azithromycin 내성 주의 (신규 2026)</b>: 구강 연쇄상구균 in silico 유전체 분석에서 Azithromycin 내성 유전자 <b>24.88%</b> 예측 (Ceccon-Chianca 2026; 임상 결과 아닌 유전자 예측). Amoxicillin 내성 유전자 0건 — 1차 선택 타당성 유지. 알레르기 라벨 ~10%가 실제 알레르기, 이중 알레르기 0.7% (Ramsey 2022) — 확인 가능하면 유발검사로 라벨 제거 우선.',
+          '<b>Clindamycin은 예방 효과도 입증되지 않았다</b>: 제3대구치 발치 경구 Clindamycin 4 RCT 통합 RR 0.66 (95% CI 0.38–1.16, p=0.15), NNT 29, I²=0 (Arteagoitia 2022 SR-MA) — 알레르기 환자에서 대체약을 고르기 전에 예방 적응 자체를 먼저 다시 물을 것.'],
+   src:['스튜어드십 overview 5룰 ④','Thornhill 2019 NHS','Salgado-Peralvo 2021 SR','Salgado-Peralvo 2022 SEI 합의','Ceccon-Chianca 2026','Ramsey 2022','Arteagoitia 2022 SR-MA'], lvl:'m'},
   {l:'예외', v:'case', vt:'구강외과·상악동 감염 — Clindamycin 유효',
    dose:'상악동/구강외과 <em>Clindamycin 300–600 mg q6–8h</em>',
    notes:['구강외과·상악동 감염 적응증에서는 Clindamycin이 알레르기 대안으로 계속 유효하며, 그람음성 커버가 필요하면 Gentamicin 추가.',

@@ -18,6 +18,22 @@ Multicenter RCT (n=42, 6 months): DBBM-C + resorbable membrane reduced horizonta
 ## 한줄요약
 다중기관 RCT (n=42, 6개월): 인접 2개 발치 후 DBBM-C + 흡수성 차폐막으로 수평 치조제 폭 감소를 57.7%→23.0%, 협측 수직 감소를 3.0mm→1.5mm로 줄임.
 
+## Three-line Summary
+
+Multicenter RCT (n=42, 4 Italian specialist clinics, 6 months) testing DBBM-C + resorbable collagen membrane versus natural healing after extraction of two adjacent teeth, with dimensional changes measured by STL digital models from stone casts.
+
+DBBM-C reduced horizontal ridge width loss from 57.7% to 23.0% and buccal vertical ridge loss from 3.0 mm to 1.5 mm (all primary endpoints p<0.001); lingual vertical loss also significantly reduced (3.0 → 1.3 mm).
+
+First multicenter RCT for alveolar ridge preservation (ARP) after adjacent tooth extraction; specialist private-clinic setting; supports DBBM-C as effective for preserving volume in multi-tooth extraction scenarios at 6 months.
+
+## 세줄요약
+
+다기관 RCT (n=42, 이탈리아 전문 클리닉 4곳, 6개월): 인접 2개 발치 후 탈단백 소이종골 콜라겐 (Deproteinized Bovine Bone Mineral with Collagen, DBBM-C) + 흡수성 차폐막 vs 자연 치유 비교, STL 디지털 모델 계측.
+
+DBBM-C군 수평 치조 폭 감소 57.7%→23.0%, 협측 수직 감소 3.0 mm→1.5 mm (전 지표 p<0.001); 설측 수직 감소도 유의하게 차이.
+
+인접 복수 발치 후 치조골 보존 (Alveolar Ridge Preservation, ARP) 최초 다기관 RCT; DBBM-C는 다치아 발치 시나리오에서 치조 용적 보존에 효과적.
+
 ## 1. Document Information
 - Journal: Journal of Periodontology 2026;97(7):1481–1490
 - PMID: 41870328 | PMC: PMC13380361 | DOI: 10.1002/jper.70084

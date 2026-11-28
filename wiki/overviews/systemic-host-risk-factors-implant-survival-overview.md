@@ -132,5 +132,6 @@ Narrative cross-cutting synthesis (no new pooling; the sources are themselves um
 - [[overviews/drug-systemic-disease-dental-management-overview]] — medication & systemic-disease dental management
 - [[overviews/bone-quality-implant-risk-modification-overview]] — bone-quality risk modification
 - [[overviews/peri-implantitis-risk-assessment-overview]] — peri-implantitis risk assessment
+- [[overviews/alcohol-extraction-implant-surgery-risk-overview]] — **알코올 축** (this page had no alcohol content): 과량 음주 = implant failure OR 2.78 · peri-implantitis OR 2.07, 전체 음주군은 null(0.87); 간경변 출혈·악골 골수염·금단까지 포함
 - [[overviews/diabetic-patient-immediate-implant-decision]] — diabetic immediate-implant decision
 - [[implants/isq/sachelarie-2025-osteoporosis-diabetes-dental-implant]] — 전향 파일럿 코호트(50명; T2DM 21 vs 골다공증 29; 12개월): 6개월 ISQ T2DM 62.10 vs 골다공증 67.04 (p=0.02), 12개월엔 두 군 모두 유의하게 개선; 두 질환이 서로 다른 기전(기계적 안정성 vs 생물학적 치유)으로 골유착에 영향 (prospective, 2025)

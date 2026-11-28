@@ -21,6 +21,22 @@ In-vitro confocal Raman study (Gauthier 2005, J Dent Res) showing viscosity limi
 
 공형광 Raman 분광법으로 점도·필러·온도가 산소확산 및 표면 중합전환도(DC)에 미치는 영향 규명; 점도 증가 → 산소확산 억제 → 표면 DC 향상, 110°C 이상 → 산소억제 완전 제거.
 
+## Three-line Summary
+
+Gauthier et al. (2005) used confocal Raman micro-spectroscopy to characterize how resin viscosity, filler content, and polymerization temperature modulate oxygen diffusion and the surface degree of conversion (DC) in dental photopolymers. This in-vitro bench study provided the first quantitative framework showing that higher viscosity limits oxygen diffusivity, thereby raising near-surface DC without necessarily reducing oxygen-inhibited layer (OIL) depth; filler creates competing effects by simultaneously increasing both oxygen diffusivity and bulk viscosity.
+
+The study's most clinically significant finding was that polymerization temperature exceeding approximately 110°C completely eliminates the OIL, as elevated temperature renders oxygen's radical-quenching reactivity negligible. This established the thermomechanical basis for heated-resin protocols in laboratory settings and explained why material formulation choices fundamentally affect surface quality in polymerized resins.
+
+While the conditions tested (up to >110°C) are not directly applicable to chairside luting cements, the mechanistic principles of this paper underpin glycerin oxygen-barrier techniques validated in subsequent work by Lim 2022. Understanding the interplay of viscosity, filler, and temperature remains essential for selecting resin systems and post-curing protocols in both laboratory and indirect restorative workflows.
+
+## 세줄요약
+
+가티에 등(2005)은 공형광 라만(Confocal Raman) 현미분광법으로 치과용 광중합 레진에서 점도·필러 함량·중합 온도가 산소 확산과 표면 중합전환도(Degree of Conversion, DC)에 미치는 영향을 정량화했다. 점도 증가 → 산소 확산계수 감소 → 표면 DC 향상이라는 메커니즘을 확립했으며, 필러는 산소 확산 증가(기공 경로)와 점도 증가(확산 억제)라는 상반된 효과를 동시에 유발함을 보였다.
+
+110°C 초과 중합 온도에서 산소억제층(Oxygen-Inhibited Layer, OIL)이 완전히 제거된다는 발견은 가열 레진 프로토콜의 이론적 근거를 제공했다. 이 연구의 메커니즘은 이후 임상 적용성 연구(Lim 2022: 글리세린 침지법)의 이론적 토대가 되었다.
+
+직접적인 임상 조건(37°C 구강 온도, 수분 환경)은 테스트되지 않았으나, 점도·필러·온도의 상호작용 원리는 간접 수복 레진 선택과 후중합 프로토콜 설계에 여전히 적용되는 근본 원리다.
+
 ## 1. Document Information
 
 - Journal: Journal of Dental Research

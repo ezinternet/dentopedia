@@ -1,0 +1,70 @@
+Anatomic evaluation of the posterior superior alveolar artery using cone-beam computed tomography: A systematic review and meta-analysis
+
+Authors: Faraz Radmand, Tahmineh Razi, Milad Baseri, Leili Faraji Gavgani, Fatemeh Salehnia, Masoumeh Faramarzi
+Journal: Imaging Science in Dentistry 2023;53(3):177-191
+DOI: 10.5624/isd.20230009
+PMID: 37799745 | PMCID: PMC10548151
+Published: 2023 Sep (ePub 2023 Aug 02)
+Institution: Tabriz University of Medical Sciences, Iran
+
+PURPOSE / BACKGROUND
+Sinus augmentation is a predictable but complication-prone procedure. The posterior superior alveolar artery (PSAA) traverses the lateral sinus wall and can be injured during osteotomy. No new systematic review had been conducted on PSAA characteristics since Varela-Centelles 2015. This review fills that gap by collating CBCT-based data on detection rate, diameter, location, and distances.
+
+METHODS
+- Design: Systematic review + meta-analysis (PRISMA)
+- Databases: Web of Science, MEDLINE, Scopus, Embase + gray literature (searched to May 16, 2022)
+- Inclusion: CBCT-based cross-sectional/prevalence studies examining at least 1 PSAA characteristic
+- Exclusion: medical CT studies, cadaveric/mixed samples, anatomic abnormalities, systemic diseases affecting bone metabolism
+- 1,474 records → 37 studies included, 34 in meta-analysis
+- Quality assessment: 5-item binary scale (Varela-Centelles); 13 high, 22 moderate, 2 low
+- Statistical: CMA v2.2.064; random-effects for heterogeneous outcomes; I² and Cochran Q
+
+KEY RESULTS
+
+Detection rate (31 studies, 11,402 sinuses):
+- Mean detection rate: 79% (95% CI: 72%–84%)
+- Higher in males: OR 1.34 (95% CI: 1.17–1.55; P<0.05)
+- Note: PSAA present in ALL sinuses per cadaveric studies; non-detection ≠ absence
+
+Diameter (16 studies, 3,757 sinuses):
+- Mean diameter: 1.06 ± 0.05 mm (95% CI: 0.96–1.16 mm)
+- Diameter classification (8 studies, 2,076 sinuses):
+  < 1 mm: 55% (95% CI: 42%–68%)
+  1–2 mm: 41% (95% CI: 31%–53%)
+  > 2 mm: 2% (95% CI: 1%–5%)
+- Larger in males: mean difference 0.14 ± 0.05 mm (P<0.05)
+- Risk threshold: diameter < 1 mm → bleeding manageable; > 2 mm → potential excessive bleeding (non–life-threatening)
+- Only 2% of arteries could lead to serious complications
+
+Location (18 studies, 3,339 sinuses):
+- Intraosseous (IO): 64% (95% CI: 57%–69%)
+- Intrasinus/submucosal (IS): 30% (95% CI: 24%–37%)
+- Superficial (SF): 5% (95% CI: 3%–7%)
+- IO type hidden in osseous wall → highest inadvertent injury risk during lateral osteotomy
+- IS type risk during membrane detachment
+
+Distance from alveolar crest (17 studies, 4,271 sinuses):
+- Mean: 16.71 ± 0.49 mm (95% CI: 15.75–17.68 mm)
+- Further in males: mean difference 0.59 mm (P<0.05)
+- Safe limit cited in literature: lateral window no higher than 15 mm from alveolar crest
+- Risk increases in edentulous patients (alveolar resorption shortens this distance)
+
+Distance from sinus floor (9 studies, 2,489 sinuses):
+- Mean: 8.85 ± 0.40 mm (95% CI: 8.06–9.65 mm)
+- Further in males: mean difference 0.89 mm (P=0.017)
+- Surgical implication: lateral window < 8 mm height from sinus floor minimizes artery encounter
+
+CLINICAL SIGNIFICANCE / CONCLUSIONS
+- "Severe hemorrhage after damage to this artery during sinus augmentation procedures is not a substantial clinical problem."
+- "Life-threatening hemorrhage resulting from injury to the superior alveolar arteries is not a genuine clinical concern."
+- Only 2% of arteries (diameter > 2 mm) could lead to serious complications.
+- Reactive vasoconstriction limits blood loss.
+- Experienced clinicians can easily manage bleeding with normal hemostasis.
+- Less experienced surgeons may face visibility compromise.
+- Preoperative CBCT is essential to prevent complications.
+
+SURGICAL RECOMMENDATIONS
+- Window height: keep inferior border close to sinus floor (< 8 mm above sinus floor); superior border < 15 mm from alveolar crest (~16 mm from crest is mean PSAA position)
+- If window must be large: preoperative CBCT to map PSAA course
+- Male patients: extra caution due to larger artery diameter
+- Edentulous patients: alveolar resorption brings PSAA closer to alveolar crest

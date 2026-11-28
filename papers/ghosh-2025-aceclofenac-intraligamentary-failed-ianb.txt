@@ -1,0 +1,74 @@
+Title: The efficacy of pre-operative oral aceclofenac and intra-ligamentary mepivacaine on the success of failed inferior alveolar nerve block in patients with symptomatic irreversible pulpitis: a prospective, randomised, double-blinded clinical trial
+Authors: Susmita Ghosh, Paras Mull Gehlot, Ganesh Jadhav, Annapoorna Ballagere Mariswamy, Karkala Venkappa Kishan, Ahmed Al Malwi, Shahabe Saquib Abullais
+Journal: PeerJ
+Year: 2025
+DOI: 10.7717/peerj.19293
+PMID: 40321815
+PMCID: PMC12049097
+
+ABSTRACT:
+Objective: This study aimed to compare the effects of oral pre-operative aceclofenac and supplemental intra-ligamentary mepivacaine and articaine injection on the anaesthetic efficacy of failed inferior alveolar nerve block (IANB) in patients with symptomatic irreversible pulpitis in mandibular molars.
+
+Materials and Methods: A total of 126 patients who fulfilled the inclusion criteria were selected for the study intervention. The study design was a prospective, randomised, double-blinded clinical trial. Pre-operative medication was administered 15 minutes before the patients received the standard IANB. Subsequently, the endodontic therapy was started. Pain felt at any time during the procedure was recorded on a 170 mm Heft-Parker visual analogue scale (VAS), and a supplemental intra-ligamentary injection was administered. Based on the pre-operative medication and the intra-ligamentary injection received, the patients were categorized into the following four groups: two groups received 4% articaine with 1:100,000 epinephrine as an intra-ligamentary injection with or without aceclofenac as the pre-operative medication (Group 1 and Group 2, respectively), and two other groups received 3% plain mepivacaine with or without aceclofenac (Group 3 and Group 4, respectively). The VAS scores were determined pre-operatively, following access preparation and/or instrumentation within the dentin, the pulpal space, and the instrumentation of canals. Data were analyzed using Pearson's chi-square test and independent-test.
+
+Results: Concerning the supplemental intra-ligamentary injection, 4% articaine with 1:100,000 epinephrine showed a higher success rate than 3% plain mepivacaine, irrespective of the pre-operative medication used, and the difference was statistically significant (p < 0.05). The anesthetic efficacies of the four groups were as follows: Group 1 (87.1%) > Group 2 (66.7%) > Group 3 (60.6%) > Group 4 (53.1%). Primary IANB had an 85% failure rate (15% primary success rate). Overall success rate across all groups was 66.7%.
+
+Conclusions: In patients with symptomatic irreversible pulpitis of mandibular molars, an intraligamentary injection of 4% articaine combined with 1:100,000 epinephrine can significantly aid in achieving anesthesia in situations where primary IANB is unsuccessful. Adding an oral pre-operative aceclofenac medication augments the anaesthetic efficacy.
+
+FULL TEXT:
+
+Introduction:
+Pain management is a significant concern in dentistry. Attaining significant pulpal anaesthesia is crucial in endodontic care. The incidence of anesthesia failures associated with inferior alveolar nerve blocks (IANBs) ranges from 44% to 81%. This high failure rate may be attributed to factors such as accessory innervations, improper injection technique, deflection of the needle, cross innervations and central core theories. Supplemental anesthesia after initial IANB is often ineffective for endodontic treatment of these specific types of teeth. Intra-osseous and intra-ligamentary injections are among the methods that can be employed to precisely deliver a local anaesthetic solution near the root apex.
+
+Administering an anaesthetic solution into the periodontal space — the intra-ligamentary injection technique — requires the application of high pressure. Unlike intra-osseous anesthesia, which penetrates the cortical bone, the pressure makes it easier to administer the anesthetic solution into the cancellous bone surrounding the tooth's root apex.
+
+Aceclofenac, chemically known as 2-(2'-6'-dichlorophenyl) amino phenylacetoxyacetic acid, is a phenylacetic acid derivative and a potent selective inhibitor of COX-2. Aceclofenac is a well-tolerated NSAID with a lower incidence of gastrointestinal adverse effects than other NSAIDs. NSAIDs block the cyclooxygenase (COX) pathway, halting prostaglandin production. This suppression of prostaglandins is crucial in reducing the inflammation and pain associated with pulpal inflammation.
+
+Materials & Methods:
+Study Design: Prospective, randomised, parallel, double-blind clinical trial.
+Setting: JSS Dental College and Hospital, Mysore, India (September 2023 to February 2024).
+Ethics: EC/NEW/INST/2022, JSSDCH IEC Research Protocol No. 35/2022.
+Registration: CTRI/2023/08/056538.
+Sample size: 126 patients (randomized after exclusions), power: 80%, alpha: 0.05.
+
+Inclusion criteria: healthy participants with symptomatic, irreversible pulpitis in mandibular molars; no periapical changes on IOPAR; pain score >54 on Heft-Parker VAS; positive responses to thermal and electric pulp tests; ASA class I or II.
+
+Intervention protocol:
+- Standard IANB: 1.8 mL 2% lidocaine with 1:80,000 epinephrine (Halsted approach)
+- 15 minutes wait, then confirmed lip numbness
+- 148 patients with lip numbness proceeded; 6 excluded for absent numbness
+- 126 of 148 had moderate to severe pain (failed IANB) and were randomized:
+  - Group 1: aceclofenac + articaine IL injection
+  - Group 2: placebo + articaine IL injection
+  - Group 3: aceclofenac + mepivacaine IL injection
+  - Group 4: placebo + mepivacaine IL injection
+- IL injection: 0.6 mL per root (3 doses 0.2 mL via pressure syringe, 30-G 12-mm needle at mesiobuccal and distobuccal line angles)
+- Supplemental agents: 4% articaine 1:100,000 epinephrine (Septanest, Septodont) or 3% plain mepivacaine (Scandonest, Septodont)
+
+Primary outcome: Heft-Parker VAS ≤54 mm during access preparation and instrumentation = success.
+
+Results:
+- Primary IANB success rate: 15% (22/148 teeth)
+- 126 teeth randomized after failed IANB
+- Group 1 (aceclofenac + articaine): 87.1% success
+- Group 2 (placebo + articaine): 66.7% success
+- Group 3 (aceclofenac + mepivacaine): 60.6% success
+- Group 4 (placebo + mepivacaine): 53.1% success
+- Overall articaine groups: 77% success
+- Overall mepivacaine groups: 56.9% success (significant difference p < 0.05)
+- Group 1 vs Group 2: p = 0.048 (significant)
+- Group 1 vs Group 3: p = 0.02 (significant)
+- Group 3 vs Group 4: p = 0.595 (not significant)
+
+Demographic data: mean age 33-37 years, equal gender distribution, balanced between groups.
+
+Discussion highlights:
+- Primary IANB failure rate of 85% consistent with previous studies (70-80% failure rates in Aggarwal et al.)
+- Previous study: success rate 93% with ibuprofen, 90% with aceclofenac, 73% with paracetamol as premedication
+- Intraligamentary injection success rates: 70-92% in previous studies
+- Aggarwal et al.: articaine 66% vs lidocaine 78% for supplemental intraligamentary
+- Limitation: variation in epinephrine concentrations between solutions (articaine with epi vs plain mepivacaine)
+- Post-operative pain not recorded
+
+Conclusions:
+Combining pre-operative oral aceclofenac and supplemental intraligamentary injection of 4% articaine showed superior results compared to 3% plain mepivacaine. The best protocol for failed IANB in symptomatic irreversible pulpitis: aceclofenac premedication + 4% articaine intraligamentary injection (87.1% success).

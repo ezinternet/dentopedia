@@ -1,0 +1,255 @@
+TITLE: Effects of ionizing radiation exposure during pregnancy
+AUTHORS: Mainprize James G., Yaffe Martin J., Chawla Tanya, Glanc Phyllis
+JOURNAL: Abdominal Radiology (New York)
+ID[pmcid]: PMC10024285
+ID[pmcid-ver]: PMC10024285.1
+ID[pmcaid]: 10024285
+ID[pmcaiid]: 10024285
+ID[pmid]: 36933026
+ID[doi]: 10.1007/s00261-023-03861-w
+ID[publisher-id]: 3861
+
+## ABSTRACT
+PurposeTo review the effects of ionizing radiation to the conceptus and the relationship to the timing of the exposure during pregnancy. To consider strategies that would mitigate potential harms associated with exposure to ionizing radiation during pregnancy.
+MethodsData reported in the peer-reviewed literature on entrance KERMA received from specific radiological examinations were combined with published results from experiment or Monte Carlo modeling of tissue and organ doses per entrance KERMA to estimate total doses that could be received from specific procedures. Data reported in the peer-reviewed literature on dose mitigation strategies, best practices for shielding, consent, counseling and emerging technologies were reviewed.
+ResultsFor procedures utilizing ionizing radiation for which the conceptus is not included in the primary radiation beam, typical doses are well below the threshold for causing tissue reactions and the risk of induction of childhood cancer is low. For procedures that include the conceptus in the primary radiation field, longer fluoroscopic interventional procedures or multiphase/multiple exposures potentially could approach or exceed thresholds for tissue reactions and the risk of cancer induction must be weighed against the expected risk/benefit of performing (or not) the imaging examination. Gonadal shielding is no longer considered best practice. Emerging technologies such as whole-body DWI/MRI, dual-energy CT and ultralow dose studies are gaining importance for overall dose reduction strategies.
+ConclusionThe ALARA principle, considering potential benefits and risks should be followed with respect to the use of ionizing radiation. Nevertheless, as Wieseler et al. (2010) state, “no examination should be withheld when an important clinical diagnosis is under consideration.” Best practices require updates on current available technologies and guidelines.
+Supplementary InformationThe online version contains supplementary material available at 10.1007/s00261-023-03861-w.
+
+## Introduction
+
+We review the effects of ionizing radiation received during pregnancy, with a focus on patients with known or newly discovered cancer in pregnancy. The knowledge of concurrent pregnancy and cancer may alter decisions regarding the timing and type of imaging, as well as the treatment and delivery plan. These decisions are best discussed within a multidisciplinary context to optimize informed decision-making and treatment planning. The potential effect of ionizing radiation to the embryo or fetus (here collectively referred to as the conceptus) is determined by both the dose and timing of the exposure. When the maternal condition necessitates use of diagnostic imaging with ionizing radiation, it is important to weigh the potential benefits versus risks of the exposure. Pregnancy associated cancers (PAC) is a special clinical subset in which there will be consideration of intrapartum serial imaging, thus dose monitoring and prediction of the number of exposures during the intrapartum period is of value to balance against the gestational age and proposed timing of delivery.
+
+There is a documented rise in both the utilization of ionizing radiation during pregnancy and the incidence of PACs. A 2016 multicenter review of over 3 million pregnancies, found that in 20 years, CT usage increased from 2 to 9.3 per 1000 pregnancies. Moreover, 5.3% of pregnant women in the US underwent ionizing radiation studies (0.8% were CT) [1]. PAC incidence is 1 in 1000 pregnancies and is anticipated to rise [2], related to both an increase in maternal age and the relatively new discovery that the routine use of non-invasive prenatal testing (NIPT) in early pregnancy for fetal anomaly detection may also indicate a potential for maternal cancer [3, 4]. Additionally, the landmark June 24, 2022 US Supreme Court decision to overturn Roe v. Wade has led to multiple states implementing restrictions or eliminating the right to abortion. Historically in PAC, pregnancy termination occurred in 9–28% of cases with the majority occurring in the first trimester [5], and this is the group that is most likely to be affected by the new ruling. This has led to estimates that another 135–420 women with PAC may require imaging during their pregnancy. Evolving socio-political changes are driving the need to formulate best practice recommendations and appropriate imaging selections to minimize anxiety, reassure those with excessive concern of exposure to ionizing radiation and avoid unwarranted termination of pregnancy related to diagnostic studies.
+
+Examinations that expose the conceptus to ionizing radiation, such as radiography, fluoroscopy, CT and hybrid modalities such as PET/CT or PET/MRI can be evaluated for radiation dose and projected cumulative doses during an intrapartum staging and response to therapy regime. PET/CT involves both radioisotopes and ionizing radiation, thus should be used judiciously in pregnancy. Early data suggests that hybrid PET/MRI may permit better prediction [6] of metastases with lower fetal radiation exposure than PET/CT. Note that currently, only a small fraction of centers have access to PET/MRI compared to PET/CT. Nonetheless, all studies should adhere to the “as low as reasonably acceptable” ALARA principle [7] as the stochastic effects of radiation have no known threshold dose. As most diagnostic imaging studies remain well below the tissue damage threshold of 50–100 mGy (5–10 rad) (discussed below), indicated studies should not be withheld due to concerns about fetal exposure to ionizing radiation and do not warrant a pregnancy termination [6, 8]. In general, an examination which does not include direct exposure to the fetus, such as head, neck, thorax or extremities should not elicit concerns about radiation. Interventional fluoroscopic procedures or multiple direct CT exposures may result in higher exposures for individual studies and careful monitoring and options for dose reduction must be considered. Decision-making regarding such studies may benefit from dose estimation by a qualified medical physicist.
+
+This article will provide an update on fetal exposure to ionizing radiation, safety concerns, and best practice guidelines. Summary points are indicated in Table 1.Table 1Key take-home points (knowledge)The incidence of pregnancy associated cancers is increasing as is the use of medical imaging during pregnancyThe potential effect of ionizing radiation is dependent both on dose and timing of the exposure during the pregnancyDiagnostic imaging exposures which do not include direct fetal exposure are unlikely to result in significant fetal dosesEntrance air KERMA (entrance skin exposure) and conversion factors for typical radiographic procedures can be used to estimate the dose to the conceptusThe term “Tissue Reactions” has replaced the term “Deterministic Effects”. The term “Stochastic Effects” remains appropriateFetal or gonadal shielding is no longer recommended for diagnostic examinationsInformed risk counseling and clarity of communication is needed, in particular in potential high risk exposures such as multiphase CTs with direct fetal exposure or prolonged fluoroscopy times as in interventional proceduresEmerging technologies such as Whole-Body MRI with Diffusion Weighted Imaging and Dual-Energy CT may help decrease overall ionizing radiation dose
+
+## Ionizing radiation in medical imaging
+
+Most medical imaging techniques require exposure of the patient to energy in the form of electromagnetic (EM) radiation. A notable exception is ultrasound, where imaging is accomplished through the application of mechanical pressure waves. Through quantum theory, EM can be considered as either being wavelike or particle (quantum) like, depending on the frequency, ν. As waves, EM propagates at the speed of light, c, with a wavelength, \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\lambda$$\end{document}λ, and energy, \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$E$$\end{document}E, given by\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\lambda = c/\nu \;{\text{and}}\;E = h\nu = hc/\lambda ,$$\end{document}λ=c/νandE=hν=hc/λ,where \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$h$$\end{document}h is Planck’s constant—6.626 × 10–34 J s (Joule seconds). For wavelengths shorter than about 1 mm, the EM radiation becomes more particle-like in its behavior and it becomes useful to think of it in terms of quanta or “bullets” of energy moving at the speed of light.
+
+The EM spectrum as a function of wavelength is illustrated in Fig. 1. Long waves (large \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\lambda$$\end{document}λ) like the radio-frequency waves used for MRI and the much shorter waves of visible light carry very little energy, however, as the wavelength decreases to that of ultraviolet light and beyond that to x rays and gamma rays, the energy contained by each quantum is sufficiently high to break chemical bonds in intracellular water or in DNA. This occurs when at least 10 electron·volts (eV) is transferred in a single interaction. In this context, the EM is referred to as “ionizing radiation” and its effect on biological tissue is detailed below.Fig. 1Nomogram of the electromagnetic spectrum (not to scale) from long wavelengths (radio waves) to very short wavelengths (x rays). The wavelengths and photon energies are indicated. Distance units used are m (meter), mm (millimeter), µm (micrometer), nm (nanometer), pm (picometer), and energy units used are eV (electron-volt), keV (kilo-electron-volt), and MeV (mega-electron-volt)
+
+### Initial radiation interactions with matter
+
+When ionizing radiation passes through matter, quanta can transfer energy to that medium via three different mechanisms: the photoelectric effect, Compton scattering and pair-production [9, 10].
+
+These interactions all result in electrons being liberated in the target medium, with each electron carrying perhaps tens of thousands of eV of kinetic energy. As they travel through the media, they lose that energy in a series of multiple interactions with other electrons in the material, transferring the energy to the material and causing ionization of various molecules.
+
+### Absorbed dose
+
+Absorption of ionizing radiation by material is characterized by the quantity, “absorbed dose” whose unit is the Gray.
+
+1 Gy = 1 Joule of energy from ionizing radiation/kg mass of absorbing material.
+
+Doses received in medical imaging are typically much less than 1 Gy and it is conventional to describe doses in milligray (mGy = 0.001 Gy). In contrast, localized doses to target tissue in radiation therapy may be in the range of several Gy.
+
+Absorbed dose can be expressed as an average over a large mass (e.g., a specific organ or the entire body) or as a local quantity when detailed dose distributions or dose maps are used.
+
+Although 1 Gy is a very small amount of energy, the associated ionizing radiation can cause harm because that energy is delivered as a relatively small number of quanta, each carrying a highly concentrated amount of energy that is deposited in a very localized region. A dose of 3 Gy delivered to the whole body could potentially be acutely lethal [11]. This same dose to a cup of coffee would only raise its temperature by just under 0.001 ℃. The pronounced biological effect of ionizing radiation occurs because of the high linear energy transfer of the electrons that transfers tens of thousands of electron-volts (energy) to cellular molecules, adequate to produce chemical transformations in biological molecules such as the genetic material or cellular water.
+
+Radiation dose is expressed per kg, thus multiple doses received by different volumes of tissue are not additive while those to the same tissue are. For example, 3 mGy to each of the left and right breast from mammograms do not result in a total of 6 mGy; correctly speaking, a dose of 3 mGy is received to both breasts. Conversely, two exposures 3 mGy received by the same breast would be additive, resulting in 6 mGy to that breast.
+
+### Effects of ionizing radiation on biological molecules and tissue
+
+In biological tissue, ionizing radiation causes direct changes in DNA and indirect damage following ionization of intracellular water to create highly reactive chemical species which then act on genetic elements of the cell. These species, which are fragments of water molecules, include hydroxyl radicals, solvated or aqueous electrons and hydrogen radicals. Direct DNA damage includes loss or damage to the bases and single or double strand breaks. Damage can be lethal to the cell or sub-lethal. Sub-lethal damage is subject to attempts at repair which can be either successful or lead to abnormal function.
+
+### Deleterious effects of ionizing radiation in pregnancy
+
+The deleterious effects of ionizing radiation are most pronounced in cells that are actively proliferating and those which are less well differentiated. This is why exposure of the conceptus to ionizing radiation is of particular concern.
+
+There are two generic types of radiation effects that have traditionally been referred to as stochastic and deterministic. Stochastic refers to phenomena where the probability of an effect occurring is related to the dose of radiation received. Deterministic effects, which more recently have been re-labeled “tissue reactions” [12] are considered to be effects that have a threshold radiation dose, below which they will not occur. Above the threshold, it is thought that the effect will occur with increasing certainty and severity. These concepts are illustrated in Fig. 2.Fig. 2Conceptual dose response curves for stochastic effects (left) and tissue reactions (right)
+
+#### Stochastic effects
+
+The classic example is radiation-induced cancer. After any dose has been received, cancer may or may not develop, with the risk of cancer being proportional (in some manner) to the dose received. The nature of such proportionality is still investigational, especially for the relatively low (sub 0.5 Gy) doses received in diagnostic medical imaging. Extrapolating downward in dose from the higher dose regime where effects are well documented is challenging [13]. The natural background frequency of effects (non-radiation induced cancer) is sufficiently high that it would be difficult to reliably observe the excess of radiation-induced cancers above expected variations in the background. Constructing a carefully controlled random trial sufficiently powered to detect an increase would involve hundreds of thousands of individuals exposed to precisely known doses of radiation. Ethical considerations preclude implementing such a trial.
+
+The most frequently used model invokes a linear, no-threshold relationship—where any added dose increases the risk of an effect and doubling the dose, doubles the risk of excess cancers [14].
+
+As a rule of thumb, the lifetime attributable risk of developing cancer is approximately 0.4% per 10 mGy of dose for a newborn infant, and potential risks may be similar in utero, although estimated uncertainty is large [14]. The absolute risk of dying from childhood cancer developing before the age of 15 due to in utero irradiation was estimated to be 1 cancer death in 1700 for a dose of 10 mGy [15].
+
+#### Tissue reactions (previously “deterministic effects”)
+
+While all radiation interactions with matter may be stochastic, once a sufficiently high dose has been received, cellular reactions and/or cell death become likely causing tissue reactions. These reactions exhibit a threshold dose response effect. As of ICRP Publication 103 (2007) [8], the threshold is defined as the dose level in which the tissue reaction is estimated to affect more than 1% of those exposed [16]. Doses above the threshold confer increasing probability and severity of the tissue reaction.
+
+For radiation absorbed by the conceptus, these so-called non-stochastic effects include spontaneous pregnancy loss, and teratogenic effects such as brain damage (microcephaly, mental retardation, reduced IQ, neurobehavioral malfunctions), fetal growth retardation and organ malformations. Table 2 details each effect and dose threshold through stages of pregnancy at which the dose was received [6, 7, 17].Table 2Tissue effects by gestational age and radiation threshold dose needed to observe the effect.Adapted from Refs. [6, 7, 17]StageKey developmentTime (weeks)aRadiation tissue effectThresholdGerminal0–2All (death) or none50–100 mGyImplantation in uterus1Some likelihood of implant failureHigh likelihood of implant failure100–500 mGy > 500 mGyEmbryonicFormation of neural tube4Pregnancy loss likelihood increased > 500 mGyArms and legs5Congenital anomalies (skeleton, eyes, genitals)200 mGyOrganogenesis3–8FetalFurther neural development9–12Stunted growthDeformities100–500 mGyMental retardation (low risk)60–310 mGyFingers, toesSevere mental retardation (high risk)610 mGySex organsIntellectual deficit > 100 mGy (0.25–0.29 IQ point loss/10 mGy)Fully formed fetusMicrocephaly200 mGyFetal (second and third trimesters)18–25Mental retardation250–280 mGyIntellectual deficit > 100 mGy (0.13–0.25 IQ point loss/10 mGy)Effects other than cancer only at doses high enough to cause acute illness in mother > 26Similar to postnatal, little chance of birth defectsaTime post-conception
+
+As suggested in the ACR-SPR practice parameters [6] (Table 1 therein) based on details from reports by the ICRP [15, 18], for all gestational ages there are no observable effects below 50 mGy, and between 50 and 100 mGy only “potential effects” are noted for gestational ages less than 17 weeks. For gestational ages less than 27 weeks and where the doses exceed 100 mGy tissue reactions become clinically detectable and increasingly probable with increasing dose. However, beyond 27 weeks, no relevant tissue reactions or birth defects due to radiation exposure in the diagnostic regime have been observed.
+
+## Doses received from imaging procedures
+
+The amount of radiation used in an X-ray imaging procedure is determined by several factors, including the image quality required and the amount of X-ray attenuation provided by the body part [10]. The first factor is the need to ensure that enough X-ray quanta are used to form the image such that the information sought can be perceived above the random X-ray quantum fluctuation (noise). This also depends on the quality (quantum efficiency) of the image detecting system, as well as its proper operating condition. The second factor is related to the thickness of the body part being imaged, its density and atomic number (air, bone, soft tissue, and contrast agent), the penetrating power (kV, selection of metallic beam filter) of the X-ray beam and whether an anti-scatter grid is used.
+
+These factors largely determine the amount of radiation that will be present at the entrance surface of the patient per image. Previously, this amount was referred to as “entrance skin exposure” (units of Roentgens). In the International System of Units (SI), this is the “entrance air KERMA” whose unit (confusingly) is also the Gray. KERMA is not strictly a dose, but is also given as joules of energy that would be transferred per kg of air in a real or hypothetical air-filled measuring device placed at the location where the radiation beam enters the patient.
+
+The total incident KERMA received depends also on the number of images that are produced in the examinations, either individual projection views or fluoroscopy frames. Once the entrance KERMA is estimated, it is then possible to estimate the dose to the conceptus.
+
+Medical physicists have conducted experiments with objects simulating human anatomy (called phantoms), or by computer modeling using Monte Carlo simulation algorithms to estimate the dose absorbed by various organs, including the gravid uterus, per Gy of entrance air KERMA. This organ dose “conversion factor”, \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$g$$\end{document}g, expressed in absorbed dose per unit KERMA (e.g. mGy(tissue)/mGy (KERMA)) have been published in tables for specific radiological procedures and views [19–21]. Values of entrance air KERMA, \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$K$$\end{document}K, for typical procedures can be obtained from published survey data or from measurements made on a specific clinical system. By multiplying these two values together the dose for each procedure performed is [19]\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$D = gK,$$\end{document}D=gK,where D is the absorbed dose in the uterus. Typical values for g and K are given in Table 3. The dose estimates using this approach are rough approximations–better dose estimations require more accurate information on the specific imaging conditions and equipment.Table 3Typical conversion factors, g, (fetal dose per unit entrance air KERMA), entrance air kerma, K, and doses to the conceptus for common medical imaging procedures in radiology, fluoroscopy and CTProcedureConversion factor (g) (mGy/mGy)aEntrance air kerma (K) (mGy)Typical dose to conceptus (mGy)Additional refs.Conceptus not in primary beam AP/PA ribs (barium swallow)0.00137–– Lat ribs (barium swallow)0.00046–– AP chest0.003080.40.001 PA chest0.002960.40.001 Lat chest0.001251.50.002 AP thoracic spine0.0020570.014 Lat thoracic spine0.00057200.011 Extremity (humerus)b0.00011–– Mammography < 10–73 < 0.01[59] CT chest0.0045c20 (CTDI)0.09 CT pulmonary angiogram (CTPA)––0.01–0.66[60] CT low-dose CTPA–– < 0.01[60]Conceptus in primary beam AP lumbar spine0.405104.0 Lat lumbar spine0.051301.5 AP abdominal0.454104.5 PA abdominal0.235102.3 Lat abdominal0.06830 < 0.001 AP pelvis0.464104.6 Lat pelvis0.073 Endoscopic retrograde Cholangiopancreatography (ERCP)0.1b–0.4[61] CT abdomen0.067c33 (CTDI)2.2[62] CT abdomen–2.4[20] CT pelvis0.073c27 (CTDI)1.97[62] CT pelvis––25.0[20] CT pelvis––9–24[21]Unless otherwise noted, conversion factors adapted from Rosenstein [19], assuming 14 × 17 and 3.5 mmAl HVLa7 × 17 collimationbFrom Ref. [61] assuming 10% depth dose at the uterus, average 14 s fluoroscopy timeCfor CT measurements, g is absorbed dose per unit CTDI (mGy/mGy) and K is CTDI
+
+For CT, a similar estimation approach can be used, but the conversion factor is absorbed dose per CTDIvol (CT dose index—volume, a standardized absorbed dose to a water phantom reported on all modern CT scanners), as g, in mGy of dose per mGy CTDIvol. [21, 22]. Examples of CT procedures, doses and conversion factors, are provided Table 3. In some cases, multiple entries for a given CT procedure are included in Table 3 as reported in different studies.
+
+For projection imaging, of particular importance in these models is the orientation (anterior–posterior AP, posterior-anterior PA, lateral, etc.) on the body, the area of the X-ray beam and the distance (depth) of the sensitive tissue from the beam entrance. The latter depends on the actual position of the conceptus at the time of irradiation, which will depend on the individual patient.
+
+### Practical perspective
+
+Most diagnostic radiographs deliver much less than 50 mGy to a conceptus, well below the tissue damage threshold dose, for any single examination.A single phase CT scan of the abdomen/pelvis is less than 50 mGy. Modern scanners with dose reduction optimization may deliver much lower doses.From an ALARA perspective there is no threshold for stochastic effect, thus all maneuvers which may result in dose reduction should be considered.It is estimated that a dose of 10 mGy represents an additional projected lifetime risk of about 20 additional cancers or less per 5,000 offspring or 0.4% but the uncertainty on this estimate is large [14].When counseling, the most effective way to transmit this information is to state there is above 99% likelihood the conceptus will be unaffected by the radiation exposure [6].
+
+### Interventional radiology
+
+There is a paucity of literature on dose exposures during interventional procedures in the pregnant population. McCaughey et al., [23] in a retrospective single cohort study reported that during angiography and embolization, in a non-gravid population, the most significant dose reduction was achieved via use of newer generation fluoroscopy systems. Newer systems can also provide immediate feedback to the operator of individualized technical exposure data and separate dose reports for fluoroscopic and angiographic images. Secondary predictors were the number of DSA (digital subtraction angiography) runs and the patient BMI (body mass index).
+
+Operators of fluoroscopic or CT guided interventions should meet institutional and governmental regulations for training. These are considered “substantial risk” procedures, as they may approach, or even exceed, tissue reaction thresholds, in turn warranting a detailed informed consent process.
+
+### Nuclear medicine (molecular imaging)
+
+Monte Carlo calculations have been carried out simulating various radionuclide procedures. These simulations are done by considering the organ distribution of the radiopharmaceutical over the time course of its physical (radioactive) and biological (via metabolism or elimination) decay in the body. Modeling the radiation (mainly gamma rays) interactions can be used to determine the dose absorbed per activity of administered radiopharmaceutical. The activity of a radiopharmaceutical indicates the number of radioactive decays per second (1 Bq = 1 decay/second, older activity unit: curie). Each decay can produce one or more particles (e.g., gamma rays) with a specific kinetic energy that, in turn, interacts in the body. The Monte Carlo simulation can estimate the average dose to the conceptus per unit activity for a given radiopharmaceutical. The absorbed dose would be estimated by multiplying this value by the total amount of radioactivity (in megabecquerels, MBq) administered for the exam.
+
+Parpinel et al., [24] reviewed several small studies that estimated dose to the conceptus for 18F-2-fluoro-2-deoxy-D-glucose (FDG) PET. Their pooled results are given in Table 4. Because PET and CT imaging occur at essentially the same time, the conceptus dose is the summation of the doses.Table 4Reported doses to the conceptus for selected nuclear medicine studiesTrimesterRadiopharmaceuticalImagingActivity (MBq)Conversion factor (g) (mGy/MBq)Nuc Med dose (mGy)CT dose (mGy)Typical dose to conceptus (mGy)1FDGPET/CT3720.0190711182FDGPET/CT259**0.01403.61.8**5.43FDGPET/CT259**0.00701.81.8**3.6199mTc (V*)SPECT400.00030.011–0.011299mTc (V)SPECT400.00040.017–0.017399mTc (V)SPECT400.00050.020–0.020199mTc (Q*)SPECT1600.00220.357–0.357299mTc (Q)SPECT1600.00180.285–0.285399mTc (Q)SPECT1600.00170.278–0.278*V = ventilation with Technegas, Q = perfusion with macroaggregated albumin (MAA)**Parpinel et al. reported a single activity and CT dose average for 2nd and 3rd trimester exams
+
+#### Pulmonary embolism (PE) investigation
+
+The incidence of pulmonary embolism (PE), a potentially life-threatening condition, is increased both in the setting of pregnancy and PACs. Both ventilation/perfusion (V/Q) scan after a normal chest X-Ray (CXR) and CTPA (CT-pulmonary angiography) are possible options for the diagnosis of PE.
+
+CTPA is the preferred option for the pregnant population primarily due to the ability to diagnose alternative patholos and to risk-triage the need for thrombectomy. Maternal and breast dose is higher for CTPA than for V/Q scans whereas fetal dose is similar or lower [25, 26]. The breast dose from conventional CTPA can be high (10–60 mGy) which may pose a concern for breast cancer risk, especially for younger women [26–28]. CT dose reduction strategies (see “Reducing Risk”, below) can bring the maternal dose down to < 3 mGy and the fetal absorbed dose to < 0.01 mGy (Table 3). The recent emergence of dual-energy CT (DE-CT) for CTPA permits lower doses of iodine contrast, lower radiation dose, useful attributes in suspected PE.
+
+Although largely replaced by CTPA, a V/Q scan after a normal chest X-Ray (CXR) may be used for the diagnosis of PE in the pregnant population [29]. In a literature review by Niemann et al. [30], the estimated fetal dose was 0.1–0.6 mGy in early and 0.6–0.8 mGy in late stage pregnancy for perfusion and 0.1–0.3 mGy for ventilation scintigraphy. The latter could be even lower, < 0.01 mGy if Xe-133 gas is used. From a recent retrospective study by Tester et al. [25], the doses to the conceptus were estimated using various V/Q protocols (Table 4).
+
+#### Practical considerations
+
+Doses from most nuclear medicine studies are less than 50 mGy and isotopes have short half-lives, thus pregnancy tests are not routinely required, unless the patient is uncertain of their status [6].Whole body iodine-131 studies for staging thyroid cancer may approach or exceed 50 mGy [6], and adversely affect the fetal thyroid); thus are contraindicated during pregnancy. Technetium-99 m may be used as an alternative.Catheterization, maternal hydration and frequent voiding are recommended to decrease fetal radiation exposure from urinary bladder activity.Hybrid PET/MR, as it becomes more widely available, may be a feasible alternative modality to PET/CT with an associated overall reduction in ionizing dose.CTPA is a more commonly utilized study as compared to V/Q in PE investigation
+
+### Multiple examinations
+
+As noted in the previous sections, the dose from any single examination is typically well below the threshold for tissue reactions and the stochastic risk of cancer induction is very low. During initial diagnosis, staging and monitoring of treatment, a patient may undergo several imaging exams using ionizing radiation. It is generally believed [31, 32] that the threshold dose for tissue reactions could be achieved by repeated exposures.
+
+As recommended by the ACR-SPR practice parameters, if multiple examinations are expected to exceed 50 mGy (the threshold for ‘potential’ fetal tissue reactions) additional consideration is required. Prospective preplanning can reduce the expected cumulative dose to the conceptus, by selecting alternative modalities (MRI, U/S), using lower dose imaging, and/or modifications to standard protocols when multiple or protracted imaging is expected. Medical physicists can be engaged to provide more accurate fetal dose estimates, dose planning and/or provide additional dose measurement [33].
+
+Additionally, image procedure tracking and dose tracking/monitoring in the patient recordcan provide a mechanism to rule out proposed examinations that are potentially repeats or unnecessary [34].
+
+Note “cumulative dose” tracking can be misused as a decision tool, especially when considering radiation-induced cancer risk [31, 32, 35]. Healthcare providers may erroneously withhold imaging, because of a perceived increasing sensitization to cancer risk akin to the “sunk cost” or “gambler’s fallacy” misunderstanding of probability in which it is believed that the patient is somehow increasingly due for cancer. Although cumulative lifetime cancer risk does increase with each radiation event, each new event only “confers the same risk whether or not a patient has experienced prior exposure.” [35]. Even for multiple exposures, the total lifetime risk of cancer induction in the fetus will be very small. For the pregnant patient—or any patient for that matter—“no examination should be withheld when an important clinical diagnosis is under consideration.” [33].
+
+### Anatomical and physiological changes that can impact detection of pathology
+
+An awareness of the anatomical changes that occur during pregnancy is vital to image patients accurately and appropriately in the setting of pathological processes. This is most relevant in imaging of the breast, which undergoes its most dynamic physiological changes during pregnancy. Clinical examination of the breast is confounded by increased size, tenderness and a nodular consistency to the breast on palpation. Whole-breast US is the recommended first-line of imaging; however, the increased echogenicity may limit the diagnostic evaluation. Furthermore, the mammographic appearance is challenging related to increased breast density which may conceal smaller lesions, albeit the diagnostic sensitivity remains high [36–38]. The fetal risk to ionizing radiation is considered negligible during mammography. Dynamic contrast enhanced MRI is contraindicated during pregnancy, albeit safe in lactating patients.
+
+## Reducing risk of radiation to the unborn child
+
+Exposure of ionizing radiation to the conceptus should be avoided if possible by imaging with non-ionizing modalities such as ultrasound or MRI, but only if this does not jeopardize the health of the woman or fetus. Otherwise, existing options for reducing doses without compromising the diagnostic utility of the examination should be employed. In these cases, consideration of gestational age and consultation with a medical physicist to ensure that the benefits outweigh the risks can be integrated with one or more of the following dose reduction strategies:
+
+### Radiography and fluoroscopy
+
+Dose minimization to the conceptus is achieved through a combination of the following:Avoid direct exposure of the uterus where feasible.Reposition the X-ray beam, or employ beam collimation to avoid exposing the uterus to the primary beam (Fig. 3). This causes the dose imparted to drop dramaticallyUse a sufficiently penetrating (“harder”) X-ray beam. Higher kV means more X-rays pass through the patient and reach the detector, improving the signal-to-noise in the image. In examinations not employing contrast media, the trade-off is some reduction in tissue-contrast.Avoid geometric magnification (interposing added space between the patient and the imaging system) which can be used to enlarge the appearance of imaged structures. However, the patient dose is increased by the square of the ratio of between the X-ray tube-detector and tube-patient distance (“inverse square law”). Digital zooming is sufficient in most cases to visualize small structures, without the cost of increased dose.Modern equipment with more efficient systems will achieve better image quality at a lower dose [39]. Some older equipment may lack dose reduction features or have less efficient detector technology.Image PA, particularly, when the conceptus is directly in the field of view. Tissues along the path between the X-ray tube and the uterus act as a natural dose-absorbing shield as shown in Fig. 4.Limit active (beam on) fluoroscopy to the shortest times compatible with the diagnostic requirement using intermittent fluoroscopy and ‘last image hold’ for reference by the fluoroscopist.Ensure that all imaging equipment is in proper working order and is calibrated so that dose outputs are known.Fig. 3Partial irradiation of the conceptus (left) can be avoided by repositioning (center) or collimation of the field of view (right), or a combination of the twoFig. 4Sketch of PA positioning of a fluoroscopy system and corresponding dose versus depth in tissue illustrating the dose minimization to the fetus. Posterior-anterior (PA) view (left) delivers less dose to the uterus than an anterior–posterior (AP) view
+
+### Computed tomography (CT)
+
+Dose minimization to the conceptus is achieved through a combination of the following [40, 41]:Use tube current modulation/automatic exposure control (AEC) rather than fixed mAs. Reduce the tube current when imaging thin or lower density regions to significantly reduce dose.Use iterative reconstruction methods that are more noise tolerant than traditional filtered back projection. The dose reduction can be significant, in one study showing 48% dose reduction without loss of image quality [42].Adjust scanning pitch as needed. For spiral imaging, increasing the pitch can reduce the dose with minimal loss of long axis resolution.Limit scan volume (to avoid exposure of the uterus) but only when this does not impact on diagnostic accuracyFor non-contrast imaging, choose lowest mAs and the highest kV that are consistent with required image quality. Raising kV generally allows mA to be decreased, resulting in a reduction of dose.For iodine contrast imaging, reduced kV (80–100) provides image contrast between the iodine and tissue by taking advantage of the increased iodine attenuation at its K-edge, (this may come at the expense of noisier images as fewer&nbsp;X-rays penetrate through to the detector) [41].Limit to single phase imaging where possible when this does not impact diagnostic accuracy.
+
+### Discontinuing use of gonadal and fetal shielding
+
+Historically, gonadal and fetal shielding (lead or bismuth aprons or smaller shields) were used to block primary or external scattered radiation from reaching radiation sensitive tissue or organs. Evidence review suggests that such protective devices confer little benefit and, in some situations, negatively affects the exam. In 2019, the AAPM issued a position statement on discontinuing routine use of such devices [43], based on the evidence that the risk of harm on the gonads or fetus for typical diagnostic imaging procedures is negligible and that the shielding does nothing to stop internal scatter (scattered x-rays from inside the body) illustrated in Fig. 5. Improper placement of shielding may obscure anatomy or introduce artifacts. Improper placement is a common occurrence: In a review of pediatric hip/pelvis examinations only 26% of patients were deemed to have gonadal shielding properly placed. Repeat examination may be required if the diagnostic quality of the exam is compromised by the shielding. Finally, with the routine use of AEC, the AEC may overcompensate by increasing mAs (and dose) as it attempts to increase signal levels in the parts of the image blocked by the shield to the preset targeted value.Fig. 5Illustration of internal scattered radiation which is not reduced by external patient shielding, and may cause backscatter from the material that would have otherwise escaped
+
+Similar position statements [44–47] from American College of Radiology (ACR), National Council on Radiation Protection and Measurements (NCRP), American Board of Radiologists (ABR), Society for Pediatric Radiology (SPR), and Image Gently recommend discontinuing the use of such shielding.
+
+Although use of fetal shielding is discouraged, if your local regulatory body requires shielding, then it may be necessary to use shielding pending changes to those standards. It may be possible to contact your local regulatory body to ask for an exemption from shielding usage based on the AAPM recommendations. The AAPM Communicating Advances in Radiation Education for Shielding (CARES) group has provided a “frequently asked questions” document on gonadal shielding that can be useful in helping to educate both healthcare professionals and patients. Nevertheless, if after they are educated about the disadvantages of using shielding the patient or guardian requests their use, it should be provided to allay patient concerns.
+
+Finally, the use of internal shielding [48] via ingesting oral barium suspension was initially reported to reduce internal scatter dose exposure by 96% in phantom studies. However, recent clinical studies of pregnant patients undergoing CTPA (such as Ebrahimian et al., [49]) demonstrated that with AEC, there was a significant increase in mAs at the level of the barium filled stomach in addition to streak artifacts limiting diagnostic sensitivity.
+
+## Approach to ionizing radiation examinations in potentially pregnant or pregnant population
+
+Selection of imaging modality during pregnancy should include consideration of the gestational age, the necessity of the study at that particular point in the pregnancy and determination of the minimum necessary diagnostic information. Use of ionizing radiation should be made only if US or MRI are precluded as first line imaging choices. Algorithms to determine examination appropriateness for the work-up of pregnant patients may be useful decision aides. Examples of such algorithms are discussed by Wieseler et al. [33] for many common clinical scenarios. Following the ACR-SPR practice parameter guidelines [6], ionizing exposure exams can be divided into one of 3 groups (Fig. 6) with respect to radiation risk. The third group, “substantial risk” uses a 50 mGy general threshold, below which there have been almost no observable tissue reactions of the conceptus. Note: we prefer the term ‘elevated risk’ compared to “substantial risk” as the latter could be misconstrued to imply ‘almost certain’ although the expected risk for tissue reactions at 50 mGy is expected to be low A determination of substantial risk requires additional planning, pregnancy verification, and informed consent should be considered. In addition, certain nuclear medicine, most interventional radiology, multiphasic CT or multiple imaging procedures are classified as substantial risk even if the 50 mGy threshold is not initially expected.Fig. 6Adapted from ACR [6], algorithm for determining procedure risk, need verification pregnancy status and formal consent process for ionizing radiation examinations. Pregnancy verification (lab test) can be performed via urine or blood sample, as per local practice. **Pregnancy verification required for long half-life nuclear medicine studies when conceptus dose > 0.5 mGy, e.g., Iodine-131 whole body imaging/thyroid imaging
+
+Pregnancy verification status should be obtained from menarche to menopause (1 year of amenorrhea), although the relevant ACR guideline recommends upper limit of 50 years) [6] The use of standardized language pregnancy verification, informed consent and frequently asked questions (FAQ) documents using simple language are helpful in counseling patients in low-risk exposure settings. The ACR guidelines provide examples of consent forms and pregnancy screening policies [6]. An example of simple language forms and policies are available from the University of New Mexico Hospitals (https://radiology.unm.edu/clinical/protocols/nucmed/radiology-pregnancyverification.pdf, accessed Nov 17, 2022). For substantial risk exposure, a more individualized approach to informed consent is recommended as the variables of operator experience, machine age, type of procedure, body habitus and stage of pregnancy will all have to be accounted for in the decision-making process.
+
+## Future directions
+
+Emerging technologies have the potential to decrease doses of ionizing radiation incurred during imaging evaluation of PACs, enhance the ability to provide individualized fetal dose exposure estimates and provide rapid web-based fetal dose estimates.
+
+Whole-body MRI with diffusion weighted imaging (WB-DWI/MRI) has demonstrated superior results as compared to MRI without DWI sequences in the detection of metastases [50–52]. DWI adds additional diagnostic information thus particularly mitigating the restriction on gadolinium-based contrast enhancement agents during pregnancy [53].
+
+Low-dose CT protocols are well established in clinical scenarios such as renal colic or testicular tumor diagnosis and surveillance. More recently, low-dose CT protocols have been developed in chest CT in the setting of Covid-19 [54] and ultra-low dose protocols have been established for renal colic studies [55]. Ultra-low dose protocols in non-traumatic abdominal imaging for bowel obstruction, acute colitis, IBD and diverticulitis were demonstrated to have similar sensitivity and specificity to standard dose CT whereas lower sensitivity was demonstrated in the setting of appendicitis and pyelonephritis [56]. There is a paucity of information in the use of ultra-low dose CT in the pregnant population at this time [56].
+
+The emergence of dual-energy (DE) CT is promising in the pregnancy population given additional dose reduction strategies and diagnostic options such as iodine maps to image perfusion defects in suspected PE.
+
+A recent publication [57] demonstrated a validated non-commercial web-based tool for fast conceptus dose calculations after CT scan (www.fetaldose.org) which requires data input of 4 parameters including trimester number, kV, scan range and radiation output parameter of CTDIvol. Note, we recommend use of software tools with caution as, without fully understanding the assumptions used, these can result in incorrect dose estimation and impact patient care. To get the most accurate fetal dose estimation and associated risks, it isbest to consult with a medical physicist. It is anticipated that more research in this area will provide increasingly accurate automated rapid dose calculations. Another innovative approach is the construction of a digital fetus library [58] for radiation dosimetry using computational anthropomorphic models ranging from 8 to 35 weeks gestational age. Use of anthropomorphic models could yield a comprehensive radiation dosimetry database which may permit more accurate counseling or decision-making for pregnant patients undergoing/deciding to undergo imaging studies.
+
+## Conclusion
+
+There is an increase in both the number of pregnant women with PACs and those undergoing intrapartum ionizing radiation studies. Thus, it is critical that knowledge of potential benefits and risks are transmitted in a clear standardized method to both patients and referring clinicians. Best practice requires ongoing updates on current and emerging technologies and guidelines.
+
+## Supplementary Information
+
+Below is the link to the electronic supplementary material.Supplementary file1 (DOCX 18 KB)

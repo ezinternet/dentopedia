@@ -16,7 +16,7 @@ tags: [inlay, onlay, partial-coverage, lithium-disilicate, e-max, cad-cam, 3d-pr
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 후방부 부분피개 수복(인레이·온레이·overlay) 13편을 4축(장기 임상성적·재료 비교·와동/디자인·제작방식)으로 종합한 결정 ladder.
+> - 후방부 부분피개 수복(인레이·온레이·overlay) 14편을 4축(장기 임상성적·재료 비교·와동/디자인·제작방식)으로 종합한 결정 ladder.
 > - 결론 한 줄: 리튬디실리케이트(Lithium Disilicate, e.max)가 10년 95% 이상 생존으로 1선, CAD/CAM 간접레진은 5–7년에 격차 벌어지며 장기 열위, 풀크라운보다 부분피개가 치질보존·예후 모두 우위.
 > - 축1 장기 생존[확인]: LiDiSi 인레이/온레이 10년 95.6%(인레이 93.9% < 온레이 98.3%, 대구치 위험↑, Malament 2021 n=551); 간접 RBC(레진)는 7.8년 84.9% vs LiDiSi 96.8%로 연간실패율 5배 차이(Lempel 2023).
 > - 축2 재료 직접 비교: 1–2년 단기 split-mouth RCT에서는 e.max vs 나노세라믹/하이브리드 차이 NS(Hassan 2024, Souza 2021) — 단기 RCT만 보고 "차이 없다" 판단 금지, 후향 7년+에서 격차 벌어짐.
@@ -26,6 +26,7 @@ tags: [inlay, onlay, partial-coverage, lithium-disilicate, e-max, cad-cam, 3d-pr
 > - 축4 제작방식[미검증]: 3D 프린팅 인레이 적합도가 밀링 그룹과 임상 허용 한계 내 유사(Lim 2023) — 단일 in-vitro, 장기 임상 부재.
 > - IRFPD: 지르코니아 IRFPD는 672N으로 전통 FDP 동등, 지르코니아강화 리튬실리케이트는 391N으로 유의하게 약함 → 후자 권장 안 함(Kermanshah 2020, in-vitro 한정).
 > - 확신도: 축1 [확인](다수 후향 ≥7년+SR+MA), 축2 단기 [확인]/장기 [확인], 축3 [확인], 축4 [미검증].
+> - **재료 비교 SR+MA 추가(2026-11-10, Prott 2024)**: 구치부 부분피개 수복물 (Partial Coverage Restoration, PCR)에서 리튬 디실리케이트 (Lithium Disilicate, LDS) 93.7% vs 레진 기질 세라믹 (Resin-Matrix Ceramic, RMC) 89.3% — 단기 생존율 차이 비유의(근거확실성 낮음). 실패 양상이 갈린다: RMC는 벌크 파절이 적고 LDS는 탈락이 적다. 재료 선택은 파절 위험과 술자의 접착 프로토콜 준수 능력으로 정한다.
 
 ## Three-line Summary
 
@@ -37,7 +38,7 @@ Short-term RCTs (1–2 years) show no material difference between e.max and nano
 
 ## 세줄요약
 
-후방부 부분피개 수복(인레이·온레이·overlay) 13편 종합.
+후방부 부분피개 수복(인레이·온레이·overlay) 14편 종합.
 
 리튬디실리케이트(Lithium Disilicate, e.max)가 10년 95% 이상 생존으로 1선;
 
@@ -146,3 +147,12 @@ Inlay/onlay 카테고리 wiki 13편을 합쳐 4축으로 정리: ①장기 임�
 Chen 2026 (3D FEA, 36 mandibular first molar models; 4 materials [resin ceramic RBC ~38 GPa, lithium disilicate ~95 GPa, leucite ceramic ~65 GPa, zirconia 210 GPa] × 3 depths × 3 widths; 100 N vertical + 30° oblique loading) mapped stress distribution by material–preparation interaction. Key findings: (1) low-modulus **resin-based ceramics (RBC, ~38 GPa)** distributed stress most uniformly and produced the lowest internal inlay stress — closest to natural tooth modulus minimizes stress concentration at interfaces; (2) **zirconia** (210 GPa) produced the highest inlay and cervical enamel stress but lowest stress in the remaining tooth structure — its stiffness shields the remaining tooth at the cost of interface stress concentration; (3) preparation depth 4 mm / width 4 mm minimized inlay stress across all materials. This material-modulus analysis complements the survival and marginal-fit data in this overview: high-modulus materials may perform well clinically while creating stress patterns that differ from the tooth.
 
 <!-- thesis-reviewed: 2026-10-30 -->
+
+## Evidence Update — LDS vs Resin-Matrix Ceramic: Same Survival, Different Failures (2026-11-10)
+
+[[inlay/prott-2024-partial-coverage-restorations-posterior-sr-ma]] is a SR+MA of posterior partial-coverage restorations by material.
+
+- Short-term survival: lithium disilicate 93.7% vs resin-matrix ceramic 89.3%, not statistically different (low certainty).
+- Failure pattern differs: RMC has fewer bulk fractures; LDS has fewer debondings.
+
+**Reading it with the material-comparison axis.** The earlier reviews on this page rank materials by failure rate. Prott suggests that over the short term the rate is not what distinguishes these two; the mode is. That turns material selection into a matching exercise: a high fracture-risk situation (parafunction, thin restoration) leans towards RMC, and a situation where retention depends on the bond leans towards LDS, provided the HF and silane protocol is actually followed. The certainty is low and the horizon short, so this is a tie-breaker, not a ranking.

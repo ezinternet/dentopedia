@@ -116,3 +116,5 @@ Three convergences emerge that no single paper states alone: (1) the gap is a *j
 - [[evidence-appraisal/asl-aminabadi-2025-implication-gap-why-evidence]] — 원인의 시스템 프레이밍 + 개입 체크리스트
 - [[practice-management/george-2025-gaps-dentistry-between-education]] — 격차의 교육 단 기원 + 작동하는 전환 장치
 - [[practice-management/erridge-2008-green-dentistry]] — BDJ letter: dental mercury minimal vs volcanic emissions; calls for environmental audit manufacturing→clinic→lobby; first carbon-neutral dental practice featured (Vital)
+
+<!-- thesis-reviewed: 2026-11-22 — no new evidence-practice-gap / guideline-implementation paper ingested since 2026-08-22; thesis unchanged -->

@@ -1,0 +1,12 @@
+TITLE: Restorative design and associated risks for peri-implant diseases.
+AUTHORS: Dixon DR, London RM
+JOURNAL: Periodontology 2000
+CITATION: Periodontol 2000 2019 Oct;81(1):167-178
+ID[pmid]: 31407441
+ID[doi]: 10.1111/prd.12290
+FULL_TEXT: false (abstract-only — no PMC record, no open-access copy; retrieved via PubMed E-utilities 2026-11-25)
+AFFILIATION: University of Washington, Seattle, Washington, USA
+PUBLICATION TYPE: Journal Article; Review
+
+ABSTRACT:
+The prevalence of inflammatory conditions around dental implants is significant. Current analysis indicates that the rates for peri-mucositis and peri-implantitis may be as high as 40%-65% and 20%-47%, respectively. Over the last decade, many risk factors have been associated with peri-mucositis and peri-implantitis, creating a multifactorial disease etiology that complicates both diagnosis and treatment. Furthermore, additional considerations such as initial surgical implant placement position, disruption of the biologic interface associated with the implant-abutment interface manipulation, or prosthetic design may also influence the host response to commonly employed oral prostheses or the diagnosis of inflammatory states. Coupled with the temporal nature of disease progression around implants, understanding and accounting for these additional parameters may help reduce the number of variables that the surgeon/restorative team face when incorporating implant therapy into daily practice. Therefore, this review discusses the importance of surgical and restorative design by reviewing the concepts of natural and prosthetic emergence profile and implant design and position, as well as many other restorative concepts related to potential implant complications and disease. Understanding both the inflammatory nature of peri-implant disease and additional parameters related to both surgical and prosthetic procedures may provide the best possible approach to reducing the prevalence of both peri-mucositis and peri-implantitis within the realm of dental implant therapy.

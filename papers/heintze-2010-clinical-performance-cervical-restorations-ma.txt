@@ -1,0 +1,43 @@
+1. Dent Mater. 2010 Oct;26(10):993-1000. doi: 10.1016/j.dental.2010.06.003. Epub 
+2010 Jul 16.
+
+Clinical performance of cervical restorations--a meta-analysis.
+
+Heintze SD(1), Ruffieux C, Rousson V.
+
+Author information:
+(1)R&D, Ivoclar Vivadent AG, Schaan, Liechtenstein. 
+siegward.heintze@ivoclarvivadent.com
+
+OBJECTIVES: To carry out a meta-analysis in order to assess the influencing 
+factors on retention loss and marginal discoloration of cervical restorations 
+made of composites and glass ionomer (derivates).
+METHODS: The literature was searched for prospective clinical studies on 
+cervical restorations with an observation period of at least 18 months.
+RESULTS: Fifty clinical studies involving 40 adhesive systems matched the 
+inclusion criteria. On average, 10% of the cervical fillings were lost and 24% 
+exhibited marginal discoloration after 3 years. The variability ranged from 0% 
+to 50% for retention loss and from 0% to 74% for marginal discoloration. Hardly 
+any secondary caries was detected. When linear mixed models with a study and 
+experiment effect were used, the analysis revealed that the adhesive/restorative 
+class had the most significant influence, with 2-step self-etching adhesive 
+systems performing best and 1-step self-etching adhesive systems performing 
+worst; 3-step etch-and-rinse systems, glass ionomers/resin-modified glass 
+ionomers, 2-step etch-and-rinse systems and polyacid-modified resin composites 
+were ranked in between. Restorations placed in teeth whose dentin/enamel had 
+been prepared/roughened showed a statistically significant higher retention rate 
+than those placed in teeth with unprepared dentin (p<0.05). Beveling of the 
+enamel and the type of isolation used (rubberdam/cotton rolls) had no 
+significant influence.
+SIGNIFICANCE: The clinical performance of cervical restorations is significantly 
+influenced by the type of adhesive system used and/or the adhesive class to 
+which the system belonged and whether the dentin/enamel is prepared or not. 
+2-Step self-etching- and 3-step etch&rinse systems shall be chosen over 1-step 
+self-etching systems and glass ionomer derivates. The dentin (and enamel) 
+surface shall be roughened before placement of the restoration.
+
+Copyright 2010 Academy of Dental Materials. Published by Elsevier Ltd. All 
+rights reserved.
+
+DOI: 10.1016/j.dental.2010.06.003
+PMID: 20638116 [Indexed for MEDLINE]

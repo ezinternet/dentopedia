@@ -1,0 +1,242 @@
+TITLE: Impact of sintering speed and surface finishing on translucency, mechanical, microstructural and surface properties of monolithic zirconia restorations
+AUTHORS: Gülmez Özge, Kul Esra
+JOURNAL: BMC Oral Health
+ID[pmcid]: PMC12709688
+ID[pmcid-ver]: PMC12709688.1
+ID[pmcaid]: 12709688
+ID[pmcaiid]: 12709688
+ID[pmid]: 41402817
+ID[doi]: 10.1186/s12903-025-07225-2
+ID[publisher-id]: 7225
+
+## ABSTRACT
+BackgroundThe aim of this study was to evaluate the effects of sintering speed and surface finishing on the optical, mechanical, microstructural, and surface properties of monolithic zirconia ceramics with different yttria content.
+Materials and methodsThree different zirconia materials (Katana UTML, Katana STML, DD Cube Bio ZX2) were subjected to either speed or conventionally sintering, followed by the application of various surface treatments. Translucency parameters were measured before and after aging. The biaxial flexural strength was measured after aging. The microstructure of the specimens was examined using scanning electron microscopy (SEM) and X-Ray diffraction (XRD) analyses, while the surface roughness was analyzed using atomic force microscopy (AFM). Statistical analysis of the data was performed using three-way ANOVA, one-way ANOVA, the Kruskal–Wallis test, and Bonferroni post hoc comparisons.
+ResultsThe applied sintering speed, clinical adjustment, and aging processes did not produce a statistically significant effect on flexural strength (p = 0.245) or translucency (p = 0.478). The phase content of Katana UTML was not influenced by sintering speed or clinical adjustment either before or after aging. For the Katana STML material, phase content was unaffected by sintering speed and clinical adjustment prior to aging, but the monoclinic phase was detected in the structure after aging. In the DD Cube Bio ZX2 material, the monoclinic phase was observed both before and after aging, and the proportion of the monoclinic phase increased after aging. SEM analysis revealed that speed sintering reduced the average grain size of monolithic zirconia. AFM analysis indicated that, after aging, the glazed samples of Katana UTML and Katana STML exhibited smoother surfaces compared to the grinding and polishing groups of the same materials. Furthermore, the speed sintering of DD Cube Bio ZX2 material resulted in the formation of a more homogeneous surface. The increase in yttria content in the material decreased flexural strength and the amount of monoclinic phase formed after aging while increasing translucency, grain size, and the proportion of the cubic phase (p = 0.000).
+ConclusionSpeed sintering, surface finishing, and aging did not significantly affect the translucency or flexural strength of monolithic zirconia. Polishing kits designed for zirconia can be used after speed sintering. Higher yttria content improved translucency, grain size, cubic phase, and aging resistance, but reduced flexural strength and monoclinic phase after aging.
+
+## Introduction
+
+Traditional yttria-tetragonal zirconia polycrystalline (3Y-TZP), also known as steel ceramic, is a popular material in the field of prosthodontics owing to its excellent biocompatibility and superior mechanical properties [1, 2]. Owing to their high opacity, restorations must be veneered with feldspathic porcelain. Stresses between the core material and feldspathic porcelain may cause cohesive fractures in the veneered zirconia restorations [3, 4]. Owing to these complications, fully anatomically contoured zirconia ceramics without the need for layering have been developed by increasing the sintering temperature and reducing the diameter and weight ratio of the alumina grains in the structure [5]. However, the translucency of these zirconia ceramics is insufficient to provide aesthetics of restorations in the anterior region [3, 6–10]. Recently, there has been an increasing trend towards the direct fabrication of dental restorations in clinical settings [11]. Zirconia restorations are usually produced by milling pre-sintered zirconia blocks, followed by sintering [10]. Sintering zirconia using the conventional sintering protocol takes 6–8 h [12]. This prevents the delivery of restorations to the patients in a single session. With the development of speed sintering furnaces that generate heat by induction, protocols have been developed that allow zirconia ceramics to be sintered in a shorter time and restorations to be delivered to the patient in a single session [13]. Speed sintering protocols focus on increasing the final sintering temperature and heating rate and reducing the time to hold zirconia at the sintering temperature [14].
+
+Although zirconia materials used in dentistry have similar formulations, changes in the sintering parameters (sintering conditions, temperature, and holding time) may have different effects on the microstructure, surface properties, aging resistance, and mechanical properties [15–21]. Many researchers have reported that speed sintering can be a good option for the production of zirconia restorations [13, 22, 23].
+
+After sintering, monolithic zirconia restorations are subjected to an additional heat treatment process, called glazing, before the restoration is delivered to the patient [24–26]. With glazing, the restoration surface is covered with a thin layer of glass, which provides advantages, such as filling defects and obtaining a natural appearance. Despite the advantages of CAD/CAM, restorations must still be adjusted intraorally to achieve ideal occlusion and proper emergence profiles. Rough zirconia surfaces can affect the mechanical strength and aesthetic success of the restoration and increase plaque accumulation on the surface [27–29]. Intraoral polishing systems have been developed in the clinic to replace time-consuming re-glazing after minor abrasions on the porcelain surface. It is known that a well-polished zirconia restoration surface has properties similar to a glazed zirconia restoration surface [30–33].
+
+The objective of this study was to examine the effects of sintering speed and surface finishing on the properties of zirconia materials with varying yttria ratios, including optical and mechanical characteristics, microstructural features, and surface properties. The null hypothesis (H0) of this investigation posits that rapid sintering and clinical modification will not significantly influence the light transmittance, flexural strength, microstructure, or surface properties of zirconia.
+
+## Material method
+
+### Preparation of samples
+
+In this in vitro study, three commercially available pre-sintered monolithic zirconia blocks (A2 shade) with varying yttria concentrations were used. The chemical compositions and lot number of the blocks employed are presented in Table 1. A total of 180 specimens were fabricated using a milling device (VHF K5+, vhf camfacture AG, Germany) with dimensions of 12 × 12 × 1.2 mm square prism-shaped specimens under water cooling subsequent to sintering. Following the milling process, half of the specimens underwent sintering in a speed sintering furnace (In Fire HTC speed; Dentsply Sirona) according to the conventional sintering protocol, while the remaining half were subjected to the speed sintering protocol. The dimensions of the samples were quantified using a digital caliper (Absolute Digimatic Caliper; Mitutoyo Corp.). The speed and conventional sintering protocols applied to the samples are delineated in Table 2. The distribution of experimental groups are delineated in Table 3.Table 1Chemical content and batch codes of the materials usedProductManufacturerCompositiona (wt%)LotKatanaUTML(5-PSZ)Kuraray Noritake Dental Inc. Miyoshi, JapanZrO2 + HfO2 87–92(Y2O3) 8–11Other oxides 0–2EAUVIKATANA STML(4-PSZ)Kuraray Noritake Dental Inc., Miyoshi, JapanZrO2 + HfO2 88–93% (Y2O3) 7–10Other oxides 0–2EGZJSDDBio ZX(2(3Y-TZP)Dental Direkt GmbH, Spenge, GermanyZrO2 + HfO2 + Y2O3Y2O3 < 6 Al2O(2)≤0.15Other oxides < 16,162,205,021aInformation from manufacturer’s data sheetsTable 2Conventional and speed sintering protocol applied to the samplesMaterialSinteringHeating °C/minTimeCoolingKatana UTMLConventional sintering10 °C/min (1550 °C)1550 °C 120 min10 °C/min (RT*)Speed sintering35 °C/min 1560 °C1560 °C 30 min45 °C/min 800 °CKatana STMLConventional sintering10 °C/min (1550 °C)1550 °C 120 min10 °C/min (RT*)Speed sintering35 °C/min 1560 °C1560 °C 30 min45 °C/min 800 °CDD Bio ZX2Conventional sintering8 °C/min 900 °C3 °C 1450 °C1450 °C 120 min10 °C/min 200 °CSpeed sintering60 °C/min 990 15 °C/min 1450 °C1450 °C 50 min10 °C/min 1350 °C 990 °CRT Room TemparutureTable 3Distribution of experimental groupsGroup CodeMaterialSinteringFinishingURPUTMLSpeedGrinding + polishingURGUTMLSpeedGlazeUCPUTMLConventionalGrinding + polishingUCGUTMLConventionalGlazeSRPSTMLSpeedGrinding + polishingSRGSTMLSpeedGlazeSCPSTMLConventionalGrinding + polishingSCGSTMLConventionalGlazeDRPDD Cube Bio ZX2SpeedGrinding + polishingDRGDD Cube Bio ZX2SpeedGlazeDCPDD Cube Bio ZX2ConventionalGrinding + polishingDCGDD Cube Bio ZX2ConventionalGlaze
+
+Following the sintering process, glaze (Ivoclar Vivadent AG, FL-9494 Schaan, Liechtenstein) was applied to one surface of each specimen utilizing an Ivoclar Vivadent Programat P300 oven (Ivoclar Vivadent AG, Shaan, LICHTENSTEIN).
+
+The glazing protocol was as follows: initial temperature (°C), 450; preheating time (min), 5; heating rate (°C/min), 60; final temperature (°C), 840; holding time (min), 1; prolonged cooling (°C), 750. The glaze layer on the surface of 15 randomly selected specimens from each group was abraded with a DYP-W13g abrasive cutter of the EVE Diacera RA 322 (EVE Diapro, EVA Ernst Vetter GmbH, Pforzheim, Germany) for 15 s, followed by the sequential application of polishing discs from the same set at a speed of 10,000 rpm, with each disc polishing the specimen surface for 60 s. For hydrothermal aging, the specimens were subjected to aging in a standard steam autoclave (W&H Lina Pro13, Sirona Dental, NY, USA) at 134 °C, 0.2 MPa pressure, for a duration of 5 h.
+
+### Measurement of translucency
+
+The L, a, and b values were measured before and after hydrothermal aging using a digital spectrophotometer (Vita Easyshade V, Vita Zahnfabrik, Germany) on a black and white background. All measurements were performed by a single operator, and the device was calibrated before each measurement [1]. Translucency parameter (TP) was calculated by the following formula: [34]\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\mathrm{TP}=\left[\left({\mathrm L}_{\mathrm B}-{\mathrm L}_{\mathrm W}\right)^2+\left({\mathrm a}_{\mathrm B}-{\mathrm a}_{\mathrm W}\right)^2+\left({\mathrm b}_{\mathrm B}-{\mathrm b}_{\mathrm W}\right)^2\right]^{1/2}$$\end{document}
+
+(LW: Brightness on white background, LB: Luminance on black background, aW: red-green colour on white background, aB: red-green colour on black background, bW: yellow-blue colour on white background, bB: yellow-blue colour on black background)
+
+### Measurement of biaxial flexural strength
+
+Biaxial flexural strength was performed using a universal testing machine (Instron 4467, Norwood, MA, USA) with the piston-on-3-ball (P3B) test according to ISO 6872 [35] at a speed of 1 mm/min [36].
+
+The piston-on-three-ball test (ISO 6872) was employed to measure biaxial flexural strength, as this configuration eliminates edge effects while producing pure biaxial stress particularly advantageous for brittle ceramic materials. Tests were conducted at 1 mm/min with specimens centered on three support balls (3.2 mm diameter, 10 mm support circle). Equation used to calculate the biaxial flexural strength:\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\sigma=-0.2387P\left(X-Y\right)/b^2$$\end{document}
+
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$X=\left(1+v\right)1n\left(r2/l\right)\;^2+\left[\left(1-v\right)/2\right]\left(r2/l\right)^2$$\end{document}
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Y=\left(1+v\right)\left[1+1\mathrm n\left(r1/l\right)\;^2\right]+\left[\left(1-v\right)/2\right]\left(r1/l\right)^2$$\end{document}
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\mathrm\sigma\;\;=\;\mathrm{maximum}\;\mathrm{central}\;\mathrm{tensile}\;$$\end{document}
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\mathrm P\;=\;\mathrm{load}\;\mathrm{recorded}\;\mathrm{at}\;\mathrm{fracture}\;(\mathrm{in}\;\mathrm{Newtons})$$\end{document}
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\mathrm v\;=\;\mathrm{Poisson}'\mathrm s\;\mathrm{ratio},$$\end{document}
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\mathrm r\left(1\right)\;=\;\mathrm{radius}\;\mathrm{of}\;\mathrm{the}\;\mathrm{support}\;\mathrm{circle},$$\end{document}
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\mathrm r\left(2\right)\;=\;\;\mathrm{radius}\;\mathrm{of}\;\mathrm{the}\;\mathrm{loading}\;\mathrm{area},$$\end{document}
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\mathrm l\;=\;\mathrm{is}\;\mathrm{half}\;\mathrm{the}\;\mathrm{edge}\;\mathrm{length}\;\mathrm{of}\;\mathrm{the}\;\mathrm{sample}\;\mathrm{and}$$\end{document}
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\mathrm b\;=\;\mathrm{is}\;\mathrm{the}\;\mathrm{thickness}\;\mathrm{of}\;\mathrm{the}\;\mathrm{sample}.$$\end{document}
+
+For the determination of the 3D surface topography, the surface of a randomly selected sample from each group (20 µm2 area) was examined with an atomic force microscope (Hitachi 5100 N, Tokyo, Japan) in tapping mode.
+
+The microstructure of 1 sample from each group was analysed by field emission scanning electron microscope (FE-SEM, Merlin, Carl Zeiss) at a magnification of x10000 with an accelerating voltage of 15 kV in DAYTAM laboratory of Atatürk University and YÜTAM laboratory of Erzurum Technical University. After abrasive polishing, the specimens were thermally etched at 1200 °C for 20 min in order to clarify the grain boundaries [37].\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\mathrm C=\;1.56\;C\;/\;MN$$\end{document}
+
+C is the line length, M is the magnification of the micrograph and N is the total number of intersections.
+
+In order to evaluate the effect of aging on phase change, the phase components of 24 zirconia samples were analysed with an X-ray diffractometer (Empyrean, Malvern Panalytical, Malvern, UK) using a monochromatic CuK α beam between 2θ, 5–90o angles, at a step interval of 0.02o, waiting 200 s at each step. The treated surfaces of the samples were scanned with a current of 40 mA and a voltage of 45 kV.
+
+Peak refinement was carried out using the pattern decomposition and profile fitting features of HighScore Plus software (Malvern Panalytical, Worcestershire, UK). Phase structure analysis and refinement were conducted through Rietveld refinement utilizing TOPAS V3.0 software (Bruker, Karlsruhe, Germany) to fit a normal distribution. The normally distributed data were subjected to 3-way analysis of variance to determine the differences between groups and interactions. One-way analysis of variance method was used to compare within-group differences. Differences between means were determined by Tukey multiple comparison test.
+
+## Results
+
+### Comparison of TP values before and after aging
+
+When the effect of aging process on translucency was evaluated, it was concluded that only material difference was effective on ΔTP. The material difference significantly affected the translucency (p < 0.05) (Table 4 and 5). When the translucency of the zirconia materials was ranked from most to least, they were Katana UTML, Katana STML, and DD Cube Bio ZX2 (Figs. 1, 2 and 3).Table 4Comparison of TP values obtained before and after aging by 3-way analysis of varianceSourceType III Sum of SquaresDegree of Freedom (df)Mean SquareF ValueSignificance (Sig.)Adjusted Model45.984114.1802.1490.020Constant Term (intercept)528.7211528.721271.8140.000Material (M)25.721212.8616.6120.002Sintering (S)1.21111.2110.6220.431Surface Treatment (F)1.38011.3800.7090.401M*S3.49121.7460.8970.410M* F4.08922.0441.0510.352S*F7.06717.0673.6330.058M*S*F2.88421.4420.7410.478Error324.8411671.945Total898.249179Adjusted Total370.826178Table 5One-way analysis of variance results for the means and standard deviations and comparison of TP values before and after agingBefore agingAfter agingMin.-Max.Mean.±S.S.(M.)Min.-Max.Mean.±S.S.(M.)p valueURP22.17–26.7423.87 ± 1.4(23.54)20.18–27.0724.13 ± 2.02(24.54)> 0.05URG20.02–24.9622.84 ± 1.33(22.95)18.57–24.7922.03 ± 1.89(22.15)> 0.05UCG22.98–27.0925.04 ± 1.17(24,99)24.16–28.7626.16 ± 1.39(25.72)> 0.05UCP21.05–27.5224.69 ± 1.55(24.78)22.19–28.5325.7 ± 1.91(25.7)> 0.05SRP19.97–24.7121.6 ± 1.13(21.26)19.1–24.66.1.6621.61 ± 1.39(21.44)> 0.05SRG18.92–22.4121.1 ± 1.01(21.16)18.2–23.54.2.5420.73 ± 1.25(20.74)> 0.05SCP20.56–25.7722.19 ± 1.26(22.3)22.09–23.9523.25 ± 0.55(23.39)> 0.05SCP18.66–25.8922.85 ± 1.85(22.51)20.17–28.1122.6 ± 2.27(21.76)> 0.05DRP19.97–24.718,42 ± 0,98(8,45)6,95 − 11,157,91 ± 1,2(8,45)> 0.05DRG18.92–22.417,94 ± 0,97(7,94)6,13 − 9,436,86 ± 0,8(6,76)> 0.05DCG20.56–25.779,83 ± 0,84(9,86)7,91 − 11,4310,11 ± 1,4(9,79)> 0.05DCP18.66–25.8910,52 ± 1,08(10,74)7,93 − 11,9710,63 ± 0,9(10,6)> 0.05One way analysis of variance (one way ANOVA) was performed to evaluate the change in ΔTP values. TP change before and after aging was not significant (p > 0.005)
+
+Fig. 1Translucency values of UTML material before and after aging. URP: UTML, speed sintered, grinding-polishing, UCP: UTML, conventionally sintered, grinding-polishing, URG: UTML, speed sintered, glazed, UCG: UTML, conventionally sintered, glazed
+
+Fig. 2Translucency values of STML material before and after aging. SRP: STML, speed sintered, grinding-polishing, SCP: STML, conventionally sintered, grinding-polishing, SRG: STML, speed sintered, glazed, SCG: STML, conventionally sintered, glazed
+
+Fig. 3Translucency values of DD cube Bio ZX2 material before and after aging. DRP: DD cube Bio ZX2, speed sintered, grinding-polishing, DCP: DD cube Bio ZX2, conventionally sintered, grinding-polishing, DRG: DD cube Bio ZX2, speed sintered, glazed, DCG: DD cube Bio ZX2, conventionally sintered, glazed
+
+### Evaluation of flexural strength results
+
+The flexural strength was significantly influenced by material differences (p < 0.05). The results indicated that speed sintering significantly decreased the flexural strength (p < 0.05), whereas surface finishing did not exhibit a significant effect (p = 0.189). No double or triple interactions were observed between these factors (p > 0.05) (Table 5). Subsequently, a Tukey multiple comparison test was conducted to identify the material responsible for the observed difference. The analysis revealed that the flexural strength of DD Cube Bio ZX2 was significantly higher than those of Katana UTML and Katana STML (p < 0.05). Among the materials tested, Katana UTML demonstrated the lowest flexural strength (p < 0.05) (Fig. 4).
+
+Fig. 4Results of flexural strength (Mpa)
+
+As a result of one way analysis of variance (one way ANOVA) performed to determine the intra-group differences in flexural strength, it was determined that speed sintering and different surface treatments did not cause a significant difference between the groups of the same material (p > 0.05) (Table 6 and 7).Table 6Investigation of the effect of different materials, sinterization protocol and finishing processes on flexural strengthSourceType III Sum of SquaresDegree of Freedom (df)Mean SquareF ValueSignificance (Sig.)Adjusted Model2.163110.19771.8910.000*Fixed Term (Intersept)1366.59511366.595499697.0880.000*M2.07421.037379.2430.000*S0.06610.06624.0540.000*F0.00510.0051.7380.189M*S0.00820.0041.4260.243M*F0.00220.0010.3180.728S*F0.00110.0010.2030.653M* S* F0.00820.0041.4180.245Error0.4271560.003Total1369.184168Adjusted Total2.589167(Adjusted R Squared = 0.824), The significance of the symbol '*' (p < 0.05)
+
+Table 7One-way analysis of variance results for the distribution and comparison of MPa measurements according to sintering speed and surface treatment after agingUTMLSTMLDDMean.±S.S.Mean.±S.S.Mean.±S.S.p valueSpeed SinteringAbrasion + Polishing508.09 ± 31.77A669.39 ± 56.79B982.68 ± 122.3C< 0.05Speed Sintering Glaze515.38 ± 43.21A660.22 ± 73.61B891.2 ± 101.16C< 0.05Conventional Sintering Glaze548.02 ± 41.55A694.57 ± 42.55B1081.49 ± 208.84C< 0.05Conventional SinteringAbrasion + Polishing568.85 ± 49.82A707.4 ± 53.0B1080.91 ±.83C< 0.05p value > 0.05 > 0.05 > 0.05
+
+### Evaluation of phase transformation data of samples
+
+The speed and conventional sintering protocol of the Katana UTML material and surface finishing resulted in similar cubic and tetragonal-phase ratios. No monoclinic phase was detected in the structure before or after aging. As a consequence of the aging process, the cubic phase content decreased, whereas the tetragonal phase content increased. However, this change was minimal (Fig. 5). The phase content of the Katana STML material prior to aging was not influenced by sintering speed or surface finishing. Following aging, 8.9% of the monoclinic phase was detected in the Katana STML speed sintering grinding + polishing group, whereas 4% monoclinic phase was detected in the Katana STML conventional sintering grinding + polishing group (Fig. 6). Upon evaluation of the phase content of the DD Cube Bio ZX2 material before the aging process, it was determined that speed sintering resulted in less monoclinic phase and more tetragonal phase formation. Subsequent to the aging process, it was observed that the cubic phase content of the DD Cube Bio ZX2 speed sintering grinding + polishing group decreased and the monoclinic phase ratio increased, whereas the monoclinic phase ratio increased and the tetragonal phase ratio decreased in the DD Cube Bio ZX2 conventional sintering grinding polishing group (Fig. 7, Table 8.).
+
+Fig. 5XRD graphs of katana UTML material
+
+Fig. 6XRD graphs of Katana STML material
+
+Fig. 7XRD graphs of DD Cube Bio ZX2 material
+
+Table 8Phase fraction before and after agingGroups%Tetragonal Phase%Cubic Phase%Monoclinic PhaseURP%47%530URPA%49%510UCP%44%560UCPA%47.5%53.50SRP%48%520SRPA%47.5%43.6%8.9SCP%48%520SCPA%48%48%4DRP%69.7%25.3%5DRPA%62%22%16DCP%60.4%22.8%15.8DCPA%64.4%15.919.8RP Speed sintering grinding + polishing, RG Speed sintering glaze, CP Conventional sintering grinding + polishing, CG Conventional sintering glaze
+
+### Evaluation of atomic force microscopy data
+
+When the images obtained were evaluated, it was observed that the glazed samples of Katana UTML and Katana STML materials after aging had smoother surfaces than the samples with abrasive polishing. There were defect areas in the abrasive polished groups that could be caused by the abrasion and polishing process (Fig. 8 and 9). The speed sintered DD Cube Bio ZX2 samples were observed to have smoother surface topography than the conventionally sintered samples (Fig. 10).
+
+Fig. 8AFM results of Katana UTML material after aging process. (A) URP, (B) URG, (C) UCP, (D) UCG. URP: UTML, speed sintered, grinding-polishing, UCP: UTML, conventionally sintered, grinding-polishing, URG: UTML, speed sintered, glazed, UCG: UTML, conventionally sintered, glazed
+
+Fig. 9AFM results of Katana STML material after aging process (A) SRP group, (B) SRG group, (C) SCP group, (D) SCG group. SRP: STML, speed sintered, grinding-polishing, SCP: STML, conventionally sintered, grinding-polishing, SRG: STML, speed sintered, glazed, SCG: STML, conventionally sintered, glazed
+
+Fig. 10AFM results of DD Cube Bio ZX2 material after aging process. A DRP, (B) DRG, (C) DCP, (D) DCG. DRP: DD cube Bio ZX2, speed sintered, grinding-polishing, DCP: DD cube Bio ZX2, conventionally sintered, grinding-polishing, DRG: DD cube Bio ZX2, speed sintered, glazed, DCG: DD cube Bio ZX2, conventionally sintered, glazed
+
+### Electron scanning microscopy results (SEM)
+
+The images taken from the sample surfaces with the SEM device at x10000 magnification are shown in Figs. 11, 12 and 13. When the average grain size is sorted from large to small; Katana UTML Katana STML and DD Cube Bio ZX2. When evaluated independently of the material, the average grain diameter of the samples with conventional sintered grinding + polishing was larger than the samples with speed sintered grinding + polishing (Table 9).Fig. 11SEM images of Katana UTML material after aging process. A URP, (B) URG, (C) UCP, (D) UCG. URP: UTML, speed sintered, grinding-polishing, UCP: UTML, conventionally sintered, grinding-polishing, URG: UTML, speed sintered, glazed, UCG: UTML, conventionally sintered, glazedFig. 12SEM images of STML material after aging process. A.SRP, B. SRG C. SCP, D.SCG. SRP: STML, speed sintered, grinding-polishing, SCP: STML, conventionally sintered, grinding-polishing, SRG: STML, speed sintered, glazed, SCG: STML, conventionally sintered, glazedFig. 13SEM images of DD Cube Bio ZX2 material after aging process. A.DRP, B. DRG, C. DCP, D. DCG. DRP: DD cube Bio ZX2, speed sintered, grinding-polishing, DCP: DD cube Bio ZX2, conventionally sintered, grinding-polishing, DRG: DD cube Bio ZX2, speed sintered, glazed, DCG: DD cube Bio ZX2, conventionally sintered, glazed
+
+Table 9Average grain size after aging processGroup NameAverage grain size (µm)URP1.6UCP1.95SRP1.04SCP1.15DRP0.5DCP0.78
+
+When the SEM images of three different monolithic zirconia ceramics after aging were examined, similar images were recorded between the groups with speed and conventional sintering protocols.
+
+## Discussion
+
+In the present study, the H0 hypothesis was accepted in terms of translucency and flexural strength. However, it was partially rejected in terms of phase fraction and surface properties, and completely rejected in terms of microstructure. The results of this study, which evaluated the effect of speed sintering and surface finishing on the flexural strength, translucency, and microstructure of three different monolithic zirconia ceramics, indicated that speed sintering, surface finishing, and aging did not significantly alter the translucency and flexural strength of the different zirconia ceramics (p >0.05). Although numerous researchers have investigated the impact of speed sintering of monolithic zirconia and surface finishing on the optical, mechanical, microstructural, and surface properties of monolithic zirconia restorations, the effects of both speed sintering and surface finishing on these properties in monolithic zirconia ceramics with varying yttria content remain insufficiently elucidated. Only two studies have examined the effects of sintering speed and clinical compatibility on the translucency of monolithic zirconia ceramics. Unlike the results of the present study Al-Zordk et al. [38] reported that rapid sintering and glaze application increased the translucency of DD Cube Bio ZX2, while the aging process decreased the translucency. This difference may be due to the glaze material used and the difference in the aging procedure. In a study investigating the effects of sintering speed and various surface treatments on the optical and surface properties of 3-TZP zirconia, it was reported that speed sintering and polishing increased translucency and resulted in smoother surfaces, whereas aging reduced translucency [39]. These findings are partially consistent with the results of the present study. While our findings showed that speed sintering and surface finishing procedures did not significantly affect the translucency, it was observed that speed sintering contributed to the formation of smoother surfaces in 3-TZP zirconia. The discrepancy in translucency outcomes may be attributed to differences in experimental protocols, such as sintering parameters, specimen thickness, and aging conditions. Upon examination of studies evaluating the effect of sintering speed on optical and mechanical properties, numerous researchers noted that monolithic zirconia subjected to rapid and conventional sintering processes demonstrated similar optical and mechanical characteristics [40–44]. Consistent with the findings of the present study, Dokuzlu et al. [45] reported that speed sintering and surface finishing did not affect the flexural strength of monolithic zirconia after aging, and that speed-sintered monolithic zirconia exhibited a smaller grain size compared to conventionally sintered monolithic zirconia. Upon examination of the effect of surface finishing and aging on the optical and mechanical properties of monolithic zirconia ceramics, it was observed that glazing, grinding, and polishing post-aging processes exhibited comparable flexural strengths and translucencies, which aligns with the findings of the present study [46, 47]. Sarabi et al. [48] reported that grinding and polishing increased the flexural strength of 3Y-TZP zirconia, while aging did not affect the flexural strength. The discrepancy with the results of the present study may be attributed to differences in the material and the abrasion and polishing system employed.
+
+It is known that increasing the yttria ratio in the formulation of zirconia increases the cubic phase ratio and transparency, decreases the flexural strength, and provides resistance to t-m phase transformation caused by LTD [12, 49–54]. In parallel with the studies in the literature, in the present study, increasing the yttria content in the formulation of the material increased the cubic phase ratio and grain diameter, increased the translucency, decreased the flexural strength, and provided resistance to the t-m phase transformation caused by LTD. X-ray diffraction (XRD) analysis revealed that increasing the yttria content led to an increase in the cubic phase in the structure and a decrease in the formation of the monoclinic phase. The highest cubic phase content was observed in the Katana UTML material, while the lowest cubic phase content was found in the DD Cube Bio ZX2 material. The sintering protocol and surface finishing processes did not induce a significant change in the phase structure of Katana UTML and Katana STML materials; however, they did cause a change in the crystallographic structure of DD Cube Bio ZX2. Surface finishing and aging did not result in monoclinic phase formation in the structure of Katana UTML, whereas these processes increased the monoclinic phase in the structure of DD Cube Bio ZX2 material. Furthermore, speed sintering was found to increase the cubic phase content of the DD Cube Bio ZX2material. While certain researchers have reported that speed sintering reduces the grain size and cubic phase content of monolithic zirconia [23, 55–57], Abed et al., [58] observed that speed-sintered and conventionally sintered monolithic zirconia exhibit comparable grain sizes and phase fractions. In accordance with the results of the present study, it was reported that speed sintering and surface finishing did not affect the phase composition of Katana UTML and Katana STML [12, 56]. These findings are partially consistent with those of the aforementioned study. In the present investigation, the phase composition of Katana UTML remained stable regardless of the sintering speed and clinical simulation, even after undergoing the aging procedure. In contrast, although Katana STML exhibited similar phase stability prior to aging, the presence of a monoclinic phase was identified following the aging process. This divergence may be attributed to the intrinsic differences in yttria content between the two materials. Katana UTML, which contains a higher percentage of yttria, demonstrates greater resistance to low-temperature degradation, thereby preserving its phase structure under aging conditions.
+
+Some researchers have reported that the surface finishing and aging process may cause the cubic phase in the structure to turn into a tetragonal phase [59, 60]. In the present study, it is thought that the decreasing cubic phase ratio after aging. In XRD analyses, especially at certain diffraction angles, there may be overlap between the tetragonal and cubic phases [61–63]. Several studies have reported that abrasion and polishing procedures tend to induce monoclinic phase formation in 3Y-TZP zirconia due to its metastable tetragonal structure, whereas 4Y-PSZ and 5Y-PSZ compositions exhibit greater resistance to such transformation due to their higher cubic phase content and yttria stabilization [64]. In accordance with these findings, the current study observed the presence of a monoclinic phase in DD Cube Bio ZX2 (3Y-TZP) even prior to aging, while no monoclinic phase was detected in Katana STML (4Y-PSZ) and Katana UTML (5Y-PSZ) before aging. This reinforces the influence of yttria content on the low-temperature degradation susceptibility of zirconia ceramics and highlights the importance of material composition in determining their phase stability under clinical conditions.
+
+Several researchers have reported that the clinical harmonization and aging process may induce a transformation from the cubic phase to the tetragonal phase in the structure [38, 39, 55–57]. In the current study, it is hypothesized that the observed decrease in the cubic phase ratio after aging may be attributed to these two conditions. The cubic phase exhibits a fluorite-type crystal structure. Wertz et al. [65] reported that abrasive polishing can increase the cubic phase content of monolithic zirconia. Due to the low thermal conductivity of monolithic zirconia, it is established that the cubic phase may form as a consequence of localized heat increase on the zirconia surface during processes such as abrasive polishing; however, this cubic phase structure with low stability tends to transform into tetragonal phases. XRD analyses, particularly at specific diffraction angles, an overlap between the tetragonal and cubic phases may occur. SEM analysis conducted to examine the microstructure revealed that speed sintering resulted in a reduction of the average grain size. Atomic force microscopy (AFM) analysis indicated that the glazed groups exhibited smoother surfaces compared to the abrasive polishing groups in Katana UTML and Katana STML materials following aging. Additionally, smoother surfaces were observed in the DD Cube Bio ZX2’ material as a consequence of speed sintering. As these microstructural alterations did not elicit a statistically significant difference in translucency and flexural strength. The present study has several limitations, including the evaluation of only three different monolithic zirconia specimens and a single-color shade. Further investigations should be conducted to assess how different zirconia materials and shades affect mechanical, optical, microstructural, and surface properties. The specimens were prepared as square prisms, which do not accurately represent the complex geometry of restorations in the oral cavity. Another limitation is that the rapid aging process applied to the ceramics cannot fully simulate the intraoral environment. The utilization of a singular etching and polishing system for all specimens represents a significant limitation of this study, as different results may be obtained with alternative systems. Future studies should examine how the sintering rate affects different layers of multilayer monolithic zirconia.
+
+## Conclusion
+
+Considering the limitations of this in vitro study, the following conclusions can be drawn:The translucency and flexural strength of monolithic zirconia were not affected by sintering speed, surface finishing, or aging.AFM analysis revealed that 3Y-TZP zirconia exhibited smoother surfaces as a result of speed sintering, while 4-PSZ and 5-PSZ demonstrated smoother surfaces with glaze application compared to the abrasive polishing process.When evaluating the XRD results, the structure of 3Y-TZP zirconia may potentially weaken due to the emergence of the monoclinic phase in its structure during long-term use. In clinical practice, surface treatments should be applied with caution, as they may induce phase transformations.The speed sintering procedure and grinding polishing during surface finishing are clinically viable, enabling the delivery of monolithic zirconia restorations to patients in a single session.

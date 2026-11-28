@@ -1,0 +1,22 @@
+TITLE: Restoration contour is a risk indicator for peri-implantitis: A cross-sectional radiographic analysis.
+AUTHORS: Katafuchi M, Weinstein BF, Leroux BG, Chen YW, Daubert DM
+JOURNAL: Journal of clinical periodontology (J Clin Periodontol) 2018 Feb;45(2):225-232
+ID[pubmed]: 28985447
+ID[doi]: 10.1111/jcpe.12829
+SOURCE: PubMed E-utilities (efetch), abstract-only — PMC record absent; full text not retrieved.
+
+## ABSTRACT
+
+AIM: The purpose of this study was to determine whether restoration emergence angle was associated with peri-implantitis.
+
+MATERIALS AND METHODS: A data set consisting of 96 patients with 225 implants (mean follow-up: 10.9 years) was utilized. Implants were divided into bone-level and tissue-level groups, and radiographs were analysed to determine the restoration emergence angles, as well as restoration profiles (convex or concave). Peri-implantitis was diagnosed based on probing depth and radiographic bone loss. Associations between peri-implantitis and emergence angles/profiles were assessed using generalized estimating equations.
+
+RESULTS: Eighty-three patients with 168 implants met inclusion criteria. The prevalence of peri-implantitis was significantly greater in the bone-level group when the emergence angle was >30 degrees compared to an angle <=30 degrees (31.3% versus 15.1%, p = .04). In the tissue-level group, no such correlation was found. For bone-level implants, when a convex profile was combined with an angle of >30 degrees, the prevalence of peri-implantitis was 37.8% with a statistically significant interaction between emergence angle and profile (p = .003).
+
+CONCLUSIONS: Emergence angle of >30 degrees is a significant risk indicator for peri-implantitis and convex profile creates an additional risk for bone-level implants, but not for tissue-level implants.
+
+KEYWORDS: dental implant; dental prosthesis; implant-supported; peri-implantitis; prevalence; risk factors.
+
+PUBLICATION TYPE: Journal Article; Research Support, Non-U.S. Gov't
+AFFILIATIONS: Department of Periodontics, University of Washington, Seattle, WA, USA (Katafuchi, Weinstein, Daubert); Department of Oral Health Sciences, University of Washington (Leroux); Department of Restorative Dentistry, University of Washington (Chen).
+HISTORY: accepted 2017-09-30; electronic publication 2017-12-05; print 2018-02.

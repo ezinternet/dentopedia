@@ -1,0 +1,16 @@
+TITLE: A 5-Year Esthetic RCT Assessment of Anterior Maxillary Single-Tooth Implants with Different Abutment Interfaces.
+AUTHORS: Cooper LF, Reside G, DeKok I, Stanford C, Barwacz C, Feine J, Nader SA, Scheyer T, McGuire M
+JOURNAL: Int J Oral Maxillofac Implants
+CITATION: Int J Oral Maxillofac Implants 2021;36(1):165-176
+ID[pmid]: 33600538
+ID[doi]: 10.11607/jomi.8333
+FULL_TEXT: false (abstract-only — no PMC full text; retrieved via PubMed MCP 2026-11-21)
+
+ABSTRACT:
+PURPOSE: This study sought to define the tissue responses at different implant-abutment interfaces by studying bone and peri-implant mucosal changes using a 5-year prospective randomized clinical trial design study. The conus interface was compared with the flat-to-flat interface and platform-switched implant-abutment systems.
+
+MATERIALS AND METHODS: One hundred forty-one subjects were recruited and randomized to the three treatment groups according to defined inclusion and exclusion criteria. Following implant placement and immediate provisionalization in healed alveolar ridges, clinical, photographic, and radiographic parameters were measured at 6 months and annually for 5 years. The calculated changes in marginal bone levels, peri-implant mucosal zenith location, papillae lengths, and peri-implant Plaque Index and bleeding on probing were statistically compared.
+
+RESULTS: Forty-eight conus interface implants, 49 flat-to-flat interface implants, and 44 platform-switched implants were placed in 141 subjects. Six platform-switched interface and eight flatto- flat interface implants failed, most of them within 3 months. After 5 years, 33 conical interface, 28 flat-to-flat interface, and 27 platform-switched interface implants remained for evaluation. Calculation of marginal bone level change showed a mean marginal bone loss of -0.16 ± 0.45 (-1.55 to 0.65), -0.92 ± 0.70 (-2.90 to 0.20), and -0.81 ± 1.06 (-3.35 to 1.35) mm for conical interface, flat-to-flat interface, and platform-switched interface implants, respectively (P < .0005). The peri-implant mucosal zenith changes were minimal for all three interface designs (0.10 mm and +0.08 mm, P > .60). Only 16% to 19% of the surfaces had presence of bleeding on probing, with no significant differences (P > .81) between groups. Interproximal tissue changes were positive and similar among the implant interface designs.
+
+CONCLUSION: Over 5 years, the immediate provisionalization protocol resulted in stable peri-implant mucosal responses for all three interfaces. Compared with the flat-to-flat and platform-switched interfaces, the conical interface implants demonstrated significantly less early marginal bone loss. The relationship of marginal bone responses and mucosal responses requires further experimental consideration.

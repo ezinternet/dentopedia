@@ -1,0 +1,689 @@
+Background
+
+Since Brånemark’s groundbreaking discovery of osseointegration in the 1960s, the field of dental implantology has seen extensive scientific progress and innovation []. Osseointegration, defined as the direct structural and functional connection between bone and the surface of the load bearing implant, is a prerequisite for long-term success of dental implants []. Several factors influence osseointegration such as local factors including surgical techniques, implant material, design, surface characteristics and patient related factors including general health of the patient, immune response, medications, radiation, bone volume and bone quality. Most research has been focusing on the surgical and the implant related factors over the last decades, with less emphasis on systemic factors [,], where in particular the effects of smoking and uncontrolled diabetes have been extensively studied [].
+
+Recently, there has been an increasing interest in the role of micronutrients and nutraceuticals in physiological regulation processes in the body []. The skeletal system relies on several essential minerals and vitamins including calcium, fluoride, potassium, magnesium, vitamin B6, vitamin D and zinc for regular function. Rickets represents one of the most famous known disease based on deficiency of vitamin D. In line with this, a positive relationship between vitamin D levels and the success of dental implants has been reported []. Animal studies indicate that vitamin D deficiency can impair osseointegration and increase early dental implant failure. Supplementation of vitamin D is reported to enhance osseointegration in animals with systemic comorbidities such as vitamin D deficiency, diabetes mellitus, osteoporosis and chronic kidney disease []. However, due to the limited number of human studies investigating the effects of vitamin D supplementation on implant outcomes, the current evidence remains weak and preliminary [,]. Moreover, nutrients such as calcium, phosphorus, magnesium, and zinc are also essential for bone formation and remodeling, while vitamin C contributes to collagen synthesis and soft-tissue healing around implants [].
+
+Despite the recent growing interest and research insights, there is limited evidence on how the deficiency or supplementation of other micronutrients (e.g., boron, selenium, copper, or iron) influences osseointegration or the long-term implant survival and success. Data regarding optimal dosing regimens, timing, and synergistic effects among nutrients are also lacking. A previous review explored the effects of dietary supplements and nutraceuticals on dental implant osseointegration; however, most of the included studies were preclinical animal experiments with limited evidence from human research [].
+
+This scoping review aims to systematically map and evaluate the existing clinical evidence on the relationship between dietary factors and nutrients and the outcomes of dental implant treatment including osseointegration, implant stability, marginal bone loss, peri-implant tissue health and implant survival/success, implant failure incidents. In particular, it seeks to address whether the deficiency of such nutrients may reduce implant survival and success. By identifying current knowledge gaps, this review will help guide future research and clinical recommendations on the role of nutrition in oral implantology.
+
+Materials and methods
+
+Protocol and registration
+
+Our protocol was drafted using the Preferred Reporting for Systematic Reviews and Meta-analyses Extension for Scoping Reviews (PRISMA-ScR) model []. The protocol of the current study is registered in PROSPERO (International Prospective Register of Systematic Reviews) under CRD420251172055 ().
+
+PICO question
+
+The clinical focus question was formulated by the PICO (Population, Intervention, Comparator, Outcome) framework as follows:
+
+Population: Human patients receiving dental implant treatment regardless of age or sex, in whom systemic nutritional status, dietary intake, or supplementation was assessed.
+
+Intervention: Dental implant installation in patients with defined dietary or micronutrient status.
+
+Comparison: Dental implant placement in patients with different nutritional statuses.
+
+Outcome: Implant-related clinical outcomes, including: implant stability quotient (ISQ), early dental implant failure (EDIF), implant survival / success, implant failure, marginal bone loss (MBL), and clinical parameters such as clinical attachment level, probing depth, bleeding index.
+
+Focus question
+
+What are the short and long-term beneficial or detrimental effects of nutrition on dental implant success and survival?
+
+Literature search strategy
+
+A comprehensive electronic and manual search was conducted in PubMed, Web of Science and Cochrane Library for the nutrients that impact bone metabolism using the following Medical Subjects Headings (MeSH) terms: “dental implants”, “osseointegration”, “implant survival”, “implant success”, “marginal bone loss”, “peri-implantitis”, “bone-to-implant-contact” together with nutrient terms such as “dietary supplement”, “micronutrients”, “nutraceutical”, “vitamin” (Table). Additionally, a hand-search were carried out in relevant oral implantology journals such as Clinical Oral Implant Research, International Journal of Implant Dentistry, International Journal of Oral Implantology, and Clinical Implant Dentistry and Related Research. Bibliographies of relevant publications were also cross searched.
+
+Table 1
+
+Search strategy
+
+Databases
+
+Search Algorithm
+
+Results
+
+PubMed (Medline)
+
+(“Dental Implants“[Majr] OR “Osseointegration“[Majr] OR “Peri-Implantitis“[Majr] OR peri-implantitis[tiab] OR periimplantitis[tiab] OR “peri-implant mucositis“[tiab] OR “peri-implant disease*“[tiab] OR “dental implant*“[tiab] OR “implant survival“[tiab] OR “implant success“[tiab] OR “marginal bone loss“[tiab] OR “bone-to-implant contact“[tiab] OR “bone to implant contact“[tiab] ) AND ( nutraceutical*[tiab] OR micronutrient*[tiab] OR “dietary supplement*“[tiab] OR “vitamin D“[tiab] OR vitamin*[tiab] OR calcium[tiab] OR magnesium[tiab] OR fluoride[tiab] OR zinc[tiab] OR iron[tiab] OR copper[tiab] OR selenium[tiab] OR boron[tiab] OR resveratrol[tiab] OR diet*[tiab] OR nutrition*[tiab] ) NOT ( coating*[tiab] OR “surface modification“[tiab] OR surface*[tiab] OR anodiz*[tiab] OR sandblast*[tiab] OR etch*[tiab] OR SLA[tiab] OR SLActive[tiab] OR roughness[tiab] OR nanotub*[tiab] OR hydroxyapatite[tiab] OR “calcium phosphate“[tiab] OR CaP[tiab] OR “titanium nitride“[tiab] OR bioglass[tiab] OR “bioactive glass“[tiab] OR “bioactive coating*“[tiab] ) AND humans[MeSH Terms] AND english[lang]
+
+364
+
+Web of Science
+
+TS=(( “dental implant*” OR osseointegration OR “peri-implantitis” OR periimplantitis OR “peri-implant mucositis” OR “peri-implant disease*” OR “implant survival” OR “implant success” OR “marginal bone loss” OR “bone-to-implant contact” OR “bone to implant contact” ) NEAR/10 ( nutraceutical* OR micronutrient* OR “dietary supplement*” OR vitamin* OR calcium OR magnesium OR fluoride OR zinc OR iron OR copper OR selenium OR boron OR resveratrol OR diet* OR nutrition* ))AND TS=(human* OR patient* OR clinical*)
+
+NOT TS=( coating* OR “surface modification” OR surface* OR anodiz* OR sandblast* OR etch* OR SLA OR SLActive OR roughness OR nanotub* OR hydroxyapatite OR “calcium phosphate” OR CaP OR “titanium nitride” OR bioglass OR “bioactive glass” OR “bioactive coating*”)
+
+86
+
+Cochrane Library
+
+((dental implant OR osseointegration OR implant survival OR implant success OR marginal bone loss OR bone-to-implant contact) AND (nutraceutical OR micronutrient OR dietary supplement OR vitamin OR calcium OR magnesium OR fluoride OR zinc OR iron OR copper OR selenium OR boron OR resveratrol OR diet OR nutrition) AND (human OR patient OR clinical)) NOT (material OR biomaterial OR coating OR surface OR SLA OR SLActive OR roughness OR hydroxyapatite OR topical)
+
+142
+
+Using the search algorithm described above, a total of 592 studies were found. All studies were entered into EndNote (version 2025; Clarivate) to eliminate duplicates.
+
+Eligibility criteria
+
+Human, clinical trials published in the medical literature up to November 2025 in English language were included. The detailed inclusion criteria comprised of human clinical studies investigating the effect of nutrients and dietary factors reporting osseointegration, implant survival/success, MBL, ISQ, and peri-implant tissue health; these studies had to include information on systemic nutrient status, intake, or supplementation. Exclusion criteria were case reports, technical reports, animal studies, in vitro studies, and review papers. Studies were excluded if they did not fit into the conceptual framework of the study, focused on topical application of micronutrients for example onto the implant surface such as vitamin D coated implants, magnesium/fluoride-coated surfaces, anodized/HA, drug-eluting implants.
+
+Quality assessment and risk of bias
+
+Two authors (B.S-I. and V.H.) independently assessed the risk of bias for each study using domain-based evaluation tools. Randomized controlled trails (RCTs) were assessed using the revised Cochrane Risk of Bias tool (RoB 2) []. Five domains were assessed for RoB 2, including bias arising from the randomization process, deviations from intended interventions, missing outcome data, measurement of the outcome, and selection of the result. The risk bias was categorized as low risk, some concerns, or high risk of bias.
+
+For non-randomized studies, the Risk Of Bias In Non-randomized Studies of Interventions (ROBINS-I) tool [] was used across seven domains including bias due to confounding, selection of participants into the study, classification of interventions, deviations from intended interventions, missing data, measurement of outcomes, and selection of the reported result.
+
+Statistical analysis
+
+Although this study was designed as a scoping review, a quantitative synthesis of findings was performed when sufficient methodological and outcome comparability were available for meaningful pooling of a data subset. Quantitative synthesis and forest plots were generated using RevMan Web. For continuous outcomes such as ISQ and MBL, pooled mean differences (MDs) with 95% confidence intervals (CIs) were calculated using the inverse-variance method with a random-effects model. For dichotomous outcomes (early dental implant failure), risk ratios (RRs) with 95% CIs were calculated using the Mantel–Haenszel method with a fixed-effect model. Heterogeneity was assessed using the I² statistic. Outcomes not suitable for meta-analysis were summarized qualitatively.
+
+Results
+
+Study selection
+
+A total of 522 studies were identified through the electronic search and after removal of duplicates. Following title and abstract screening, 37 articles were retained for full-text evaluation. Of these, 10 were excluded because they did not directly investigate the influence of nutrition on implant osseointegration and did not meet the inclusion criteria.　Eventually 27 articles were included in the systematic review (qualitative analysis), and 9 articles were included in the meta-analysis (quantitative analysis) (Fig.) (Tables,and).
+
+Table 2
+
+Studies reporting the early outcomes of the effects of nutrition and implant osseointegration (outcomes assessed ≤ 12 months)
+
+No.
+
+References
+
+Study design
+
+Sample size
+
+Measured parameters
+
+Follow-up
+
+Main findings
+
+1
+
+Grigoras et al.  []
+
+Prospective cohort study
+
+166 patients; 556 implants
+
+Short term implant survival
+
+Up to 12 months
+
+No statistically significant correlation between vitamin D levels and early implant failure.
+
+2
+
+Dulinska-Litewka et al. []
+
+Retrospective
+
+cohort study
+
+72 patients; 115 implants
+
+Gingiva height and bone level changes
+
+3–4 months
+
+Vitamin D deficiency showed significantly higher levels of bone loss.
+
+3
+
+Toy et al.  []
+
+Case control study
+
+42 patients, 84 implants
+
+MBL,
+
+ISQ, ELISA
+
+2 -3 months
+
+Low level of vitamin D may impair bone hemostasis around dental implants by altering RANKL and IL-10 levels.
+
+4
+
+Singh et al. []
+
+RCT
+
+40 patients
+
+ISQ and radiographic bone changes
+
+3 months
+
+Vitamin D supplementation led to higher stability, more bone regeneration, and less bone loss.
+
+5
+
+Toy et al.  []
+
+Prospective cohort study
+
+129 patients; 357 implants
+
+ISQ and RFA
+
+3 months
+
+High levels of vitamin D may promote dental implant osseointegration.
+
+6
+
+Iqbal et al. []
+
+RCT
+
+100 patients; 100 implants
+
+ISQ
+
+3 months
+
+There was strong positive correlation between vitamin D level and ISQ value at 3 months.
+
+7
+
+Al-Quisi et al.  []
+
+Prospective cohort study
+
+108 patients; 128 implants
+
+Insertion torque value and grayscale value on CBCT
+
+4 months
+
+Severe vitamin D3 deficiency could be associated with early dental implant failure.
+
+8
+
+Francis et al.  []
+
+Prospective cohort study
+
+109 patients; 174 implants
+
+EDIF
+
+3–6 months
+
+No correlation between patients’ low serum vitamin D levels and early implant failure.
+
+9
+
+Mohsen et al.  []
+
+Prospective cohort study
+
+53 patients; 143 implants
+
+EDIF and ISQ
+
+12 weeks
+
+A higher incidence of EDIF was associated with lower vitamin D levels.
+
+10
+
+Wach et al.  []
+
+Retrospective cohort study
+
+2196 implants
+
+MBL
+
+3 months
+
+A decrease in vitamin D was correlated with higher marginal bone loss.
+
+11
+
+Ghasemi et al. []
+
+RCT
+
+46 patients
+
+Postoperative pain intensity and rate of paresthesia
+
+3 months
+
+No significant difference between pain intensity.
+
+12
+
+Singh et al. []
+
+Retrospective cohort study
+
+30 patients
+
+MBL
+
+6 months
+
+The success of the implant is significantly affected by vitamin D.
+
+13
+
+Bhandage et al.  []
+
+Prospective cohort study
+
+20 patients
+
+ISQ
+
+3–6 months
+
+Positive influence of vitamin D on stability of implant.
+
+14
+
+Tabrizi et al.  []
+
+Prospective cohort study
+
+90 patients
+
+MBL
+
+1 year
+
+Low serum level of vitamin D may be associated with increased MBL.
+
+15
+
+Kwiatek et al.  []
+
+RCT
+
+122 patients; 122 implants
+
+MBL
+
+12 weeks
+
+Vitamin D levels have a significant influence on the bone level at the implant site during osseointegration.
+
+16
+
+Garg et al. []
+
+RCT
+
+31 patients
+
+MBL
+
+6 months
+
+Supplementation improved systemic effects on accelerating bone formation around dental implants.
+
+17
+
+Singh et al.  []
+
+Retrospective cohort study
+
+90 patients
+
+EDIF
+
+5 months
+
+Increased incidence of EDIF with lowering of serum vitamin D levels.
+
+18
+
+Piccolotto et al.  []
+
+Cross-sectional study
+
+33 patients
+
+Peri-implant clinical parameters
+
+8-week supplementation follow-up
+
+Vitamin D serum do not seem to affect peri-implant health.
+
+19
+
+Li et al. []
+
+RCT
+
+128 patients
+
+Soft tissue healing and pain response scores were evaluated.
+
+14 days
+
+Vitamin C supplementation improves postoperative healing.
+
+20
+
+Mangano et al.[]
+
+Retrospective
+
+cohort study
+
+885 patients; 1,740 implants
+
+EDIF
+
+4 months
+
+No statistically significant correlation between EDIF and vitamin D serum levels.
+
+21
+
+Schulze-Späte et al. []
+
+RCT
+
+20 patients
+
+Histology and histomorphometry (peri-implant bone response)
+
+6–8 months
+
+Significant association between increased vitamin D levels and number of bone-resorbing osteoclasts around graft particles.
+
+22
+
+Mangano et al. []
+
+Retrospective cohort study
+
+822 patients; 1,625 implants
+
+Implant failure rate
+
+4 months
+
+No link between low serum levels of vitamin D and an increased risk of early implant failure.
+
+RCT: randomized controlled trial; MBL: marginal bone loss; EDIF: early dental implant failure; ISQ: implant stability quotient; RFA: resonance frequency analysis; CBCT: cone-beam computed tomography
+
+Table 3
+
+Studies reporting on the long-term outcomes of the effects of nutrition and implant osseointegration (outcomes assessed > 12 months)
+
+No.
+
+References
+
+Study design
+
+Sample size/
+
+Measured parameters
+
+Follow-up
+
+Main findings
+
+1
+
+Diachkova et al. []
+
+RCT
+
+384 patients
+
+ISQ and MBL, peri-implantitis rate
+
+Up to 10 years
+
+Peri-implantitis rate was significantly higher in patients with severe vitamin D deficiency.
+
+2
+
+Cheng et al.
+
+[]
+
+Retrospective case-control study
+
+73 patients; 291 implants
+
+MBL
+
+Up to 19 years
+
+Excess vitamin D levels were associated with adverse implant outcomes.
+
+3
+
+Paz et al. []
+
+Prospective uncontrolled interventional study
+
+20 patients; 20 implants
+
+Implant success rate
+
+1 year after implant placement
+
+Vitamin D levels were normalized, and all implants were successful.
+
+4
+
+Ustaoglu et al. []
+
+Cross-sectional study
+
+156 patients; 196 implants.
+
+Peri-implant clinical parameters
+
+Post-loading (implants functioning ≥ 12 months); cross-sectional assessment
+
+The peri-implantitis group had the lowest level of vitamin D.
+
+5
+
+Acipinar et al. []
+
+Cross-sectional observational study
+
+53 patients; 90 implants
+
+Peri-implant clinical parameters recorded.
+
+Post-loading (implants functioning ≥ 12 months); cross-sectional assessment
+
+FGF-23 and vitamin D seems to affect peri-implant bone health, and further studies are needed.
+
+RCT: randomized controlled trial; MBL: marginal bone loss; EDIF: early dental implant failure; ISQ: implant stability quotient; FGF-23: Fibroblast growth factor-23; ELISA: enzyme-linked immunosorbent assay
+
+Table 4
+
+Qualitative summary of evidence for the effects of micronutrients on dental implant outcomes
+
+Outcome category
+
+No. of studies
+
+Study designs
+
+Risk-of-bias profile (ROB 2 / ROBINS-I)
+
+Strength of evidence
+
+Implant stability (ISQ)
+
+7
+
+RCT, cohort
+
+Low (1), Moderate (5), Serious (1)
+
+++
+
+EDIF
+
+5
+
+Prospective, retrospective
+
+Moderate (2), Serious (3)
+
++
+
+Short-term MBL
+
+7
+
+Case control, prospective, retrospective, RCT
+
+Moderate (2), Some concern (1), High (1), Serious (3)
+
+++
+
+Bone density / quality
+
+2
+
+RCT, prospective
+
+Moderate (1), serious (1)
+
++
+
+Soft tissue outcomes
+
+5
+
+RCT, retrospective, cross-sectional
+
+Serious (1), High (1) Not assessed (3 cross-sectional)
+
++ / ++
+
+Long-term outcomes
+
+5
+
+RCT, cohort, cross-sectional
+
+Low (1), Serious (1), Critical (1), Not assessed (2 cross-sectional)
+
++
+
+RCT: randomized controlled trial; EDIF: early dental implant failure; ISQ: implant stability quotient
+
+Primary characteristics
+
+Of the 27 included articles, 13 were cohort studies (8 prospective and 5 retrospective), 8 were randomized controlled trials, 3 were cross-sectional studies, 2 were retrospective case–control studies, and 1 was an uncontrolled interventional study. Twenty-four studies investigated the role of vitamin D, one study examined the effects of vitamin B on pain and sensory problems related to inferior alveolar nerve damage, and one study focused on the effects of vitamin C supplementation in wound healing following dental implant placement.
+
+Risk of bias assessment
+
+The basic characteristics of the included studies were shown in Table. Among the 8 included RCTs [,–], two studies were judged to be at “low risk” [,], three studies were assessed as “some concerns” [–], and three studies were rated as “high risk” [,,]. Four studies were judged to be “low risk” for the randomization process, employing a clearly described physical or block randomization with balanced group allocation [,,,]. Most studies were judged to be at “low risk” to deviations from intended interventions (D2), and all trials were assessed as “low risk” due to missing outcome data (D3). In the domain of bias in measurement of the outcome (D4), several studies were judged as having “some concerns” or “high risk”, mainly due to limited reporting of outcome assessor blinding or the use of subjective outcome measures. For bias in selection of the reported result (D5), only two studies showed clear consistency between pre-specified and reported outcomes [,] (Fig.).
+
+For the included non-randomized interventional and observational studies, most studies were rated as moderate to serious [,–] (Fig.). 1 study was deemed as critical due to the absence of a control group, inability to control for confounding, and selective outcome reporting [].
+
+Osseointegration outcomes
+
+The reported outcomes were categorized as early or late according to the different healing phases of dental implant treatment. Early outcomes included parameters related to early osseointegration and implant stability, such as ISQ, short-term marginal bone loss changes, early implant failure, bone density and quality outcomes and peri-implant soft tissue quality parameters []. Late outcomes reflected long-term peri-implant health and functional outcomes, including the incidence of peri-implant mucositis, peri-implantitis, long-term marginal bone loss, and implant survival [].
+
+Early outcomes
+
+Implant stability
+
+Implant stability was the most frequently reported outcome and was evaluated in seven studies using resonance frequency analysis (RFA). Of these, five studies (71%) demonstrated a statistically significant positive association between vitamin D status and implant stability, whereas two studies reported no significant relationship.
+
+Toy et al. reported a postoperative ISQ value of 82.02 ± 4.98 in the vitamin D sufficient group versus 79.86 ± 5.86 in the insufficient group, which did not reach statistical significance (> 0.05) []. Similarly, Diachkova et al. compared patients who received implant placement after normalization of serum vitamin D levels with those who underwent implantation during vitamin D supplementation and found no significant differences in implant stability. ISQ values at implant insertion ranged from 82 to 86 (group 1: 84 ± 1.4; group 2: 83.8 ± 1.4;> 0.05), and at prosthetic insertion from 86 to 90 (group 1: 87.8 ± 1.4; group 2: 87.5 ± 1.4;> 0.05) [].
+
+In contrast, the remaining five studies investigating implant stability reported a significant positive association with vitamin D levels [,,,,]. Notably, Bhandage et al. demonstrated that for every 1 ng/mL increase in serum vitamin D concentration, the ISQ value increased significantly by 0.48 units at 3 months and 0.62 units at 6 months (= 0.01 and= 0.002, respectively) [].
+
+Due to the heterogeneity in study design, only two studies with comparable methodology and follow-up duration were eligible for quantitative synthesis. Meta-analysis of these two studies showed a significantly higher ISQ at 3 months in vitamin D–sufficient patients compared with vitamin D–insufficient patients (mean difference = 4.37 ISQ units; 95% CI: 0.41–8.33;= 0.03), although the heterogeneity remained substantial (I² = 75%) (Fig.).
+
+Early dental implant failure (EDIF)
+
+Out of 5 studies that reported EDIF, one study reported a statistically significant association between vitamin D deficiency and an increased EDIF [], while four studies that observed higher EDIF rates in patients with low vitamin D levels did not reach a statistical significance [,,,].
+
+All five studies reporting EDIF were included in the quantitative synthesis. Pooled analysis demonstrated a significantly higher risk of EDIF in patients with low vitamin D levels compared with vitamin D sufficient patients (risk ratio = 1.87; 95% CI: 1.01–3.45;= 0.05) (Fig.).
+
+Short-term marginal bone loss (MBL) changes
+
+Short-term MBL changes were evaluated in 7 studies during the early healing phase, reflecting early peri-implant bone remodeling and initial osseointegration. In studies where comparable data were available, quantitative synthesis demonstrated significantly greater early MBL in patients with low serum vitamin D levels compared with sufficient patients (Fig.) [,]. Overall, most studies consistently reported increased MBL associated with low vitamin D [,,,,,,].
+
+Bone density and quality
+
+A total of two studies reported on the bone density and quality outcomes in relation to vitamin D levels. In a study by Al-Quisi et al., in which most patients presented with deficient serum vitamin D3 levels (81 of 108 patients), a weak positive correlation was observed between serum vitamin D3 levels and alveolar bone density; however, severe vitamin D3 deficiency was associated with early implant failure despite favorable bone density and primary stability []. In another study, Schulze-Späte et al. used histological and histomorphometric analyses of bone core biopsies and reported that vitamin D supplementation was associated with increased cellular bone remodeling activity, reflected by higher osteoclast numbers [].
+
+Effects of micronutrients on peri-implant soft-tissue
+
+A total of 5 studies reported on the effects of micronutrients including vitamin C and D on peri-implant soft tissue outcomes using clinical parameters, gingival phenotype measurements, peri-implant cervical fluid biomarkers and wound healing indices [,,,,].
+
+Among the four studies investigating vitamin D, three reported significant associations between low serum vitamin D levels and less favorable peri-implant soft tissue conditions. Dulinska et al. showed that vitamin D–deficient patients with thin gingival tissue (< 3 mm) exhibited significantly greater peri-implant bone loss at implant exposure (= 0.040) and crown placement (< 0.001) []. Similarly, Ustaoglu et al. found significantly lower serum vitamin D levels in patients with peri-implantitis compared with peri-implant healthy individuals (< 0.05) []. At the molecular level, Toy et al. reported significantly higher peri-implant crevicular fluid RANKL levels and lower IL-10 levels in vitamin D insufficient patients compared with sufficient controls (< 0.05) []. In contrast, one study by Piccolotto et al. found no significant association between serum vitamin D levels and peri-implant clinical soft tissue parameters (> 0.05) [].
+
+Finally, one study evaluating vitamin C supplementation reported significantly improved early postoperative wound healing at 7–14 days compared with controls (< 0.05) [].
+
+Long-term outcomes
+
+Long-term outcomes assessing the effects of vitamin D on implant success and survival, incidents of peri-implantitis were reported in five studies with follow-up periods ranging from 1 to 19 years [,,,,].
+
+Diachkova et al., reported that all cases of peri-implantitis occurred in patients with vitamin D deficiency or severe deficiency (= 0.04;< 0.05) at 10-year follow-up []. Cheng et al., with the follow-up of 19 years, observed that vitamin D hypervitaminosis were associated with increased peri-implant bone loss and implant failure, particularly in the maxilla, suggesting a potential detrimental effect of excessive vitamin D levels over the long term [].
+
+Summary of key findings
+
+Overall, the available evidence suggests a positive relationship between sufficient vitamin D status and early dental implant osseointegration.
+
+For marginal bone changes and peri-implant soft tissue outcomes, the findings were consistent but statistically heterogeneous, with several studies indicating greater bone loss, thinner gingival phenotypes, or a more pro-inflammatory peri-implant environment in the presence of vitamin D deficiency. Long-term outcomes were supported by limited and heterogeneous evidence, suggesting that both vitamin D deficiency and excess may be associated with unfavorable peri-implant conditions over time.
+
+Discussion
+
+To the best of the authors knowledge, this scoping review is the first to comprehensively synthesize evidence from clinical human studies assessing the influence of nutrients on dental implant osseointegration. In recent years, there has been growing interest in investigating the effects of nutritional factors on osseointegration [,,,,–]. Both macronutrients and micronutrients may modulate bone metabolism and immune function, which are central to early implant healing and long-term peri-implant stability []. Among micronutrients listed in the EU Register of nutrition and health claims made on foods, several have been implicated in bone metabolism, including calcium, fluoride, magnesium, potassium, sodium, zinc, resveratrol, vitamin D, vitamin C, vitamin K, vitamin A, vitamin E, and vitamin B []. However, most clinical evidence in implant dentistry has focused on vitamin D, whereas evidence for other micronutrients remains limited. Notably, only two clinical studies in the present review evaluated micronutrients other than vitamin D (e.g. vitamins B and C), addressing postoperative pain-related outcomes and early soft-tissue healing, underscoring a substantial gap in clinical research [,].
+
+In this review, outcomes were interpreted according to the different healing phases of implant therapy. Early outcomes included parameters related to early osseointegration and implant stability, whereas late outcomes reflected longer-term peri-implant health and function, including incidence of peri-implant mucositis, peri-implantitis, long-term MBL and implant survival. Importantly, the current evidence remains highly heterogeneous, with substantial variability in study design, baseline nutritional assessment, supplementation protocols, outcome definitions, and follow-up intervals. Therefore, quantitative analysis was performed only when outcomes were comparable across studies in a specified data subset, while the remaining evidence in the broader thematic field evaluated in this study was synthesized qualitatively using a structured approach. The pooled analyses should be interpreted with caution due to the limited number of studies included and the heterogeneity in the respective study designs as well as outcome reporting. This highlights the need for standardized reporting and outcome measures in future clinical research addressing the effect of dietary factors and nutrients on dental implant success and survival.
+
+Despite a growing number of studies examining vitamin D, the evidence base is dominated by observational designs, while randomized controlled trials remain scarce. In addition, follow-up periods are predominantly short-term, limiting conclusions regarding sustained implant performance. Long-term outcomes were reported in only a small number of studies, with follow-up extending up to 10 and 19 years in individual reports [,]. The short-term outcomes investigating the effects of vitamin D on dental implants show that the deficiency of vitamin D effected the early healing phase, with an increased EDIF compared to the sufficient vitamin D group [,,,,,]. Conversely, data also suggest that excessively high serum vitamin D levels may be associated with adverse implant outcomes, including increased implant failure and peri-implant bone loss []. Taken together, the findings are compatible with the possibility that both deficiency and excess vitamin D could be unfavorable, but the current evidence is insufficient to define an optimal therapeutic range for implant patients.
+
+In the included literature, serum 25-hydroxyvitamin D levels were classified as deficiency or insufficiency using a threshold of < 30 ng/mL, while a subset of studies further categorized insufficiency as 20–29 ng/mL, deficiency as < 20 ng/mL, and severe deficiency as < 10 ng/mL. Seven clinical studies reported a defined vitamin D supplementation regimen for deficient or insufficient individuals. These included monthly high-dose cholecalciferol administration of 60,000 IU for at least three months, daily moderate-dose protocols of 5,000–8,000 IU/day administered for approximately 12 weeks, weekly high-dose regimens of 50,000 IU/week for eight weeks, a structured pre-surgical supplementation program providing 6,000 IU/day for six weeks, and an endocrinologist-guided individualized correction approach followed by maintenance dosing of 1,000–2,000 IU/day after achieving target serum levels [,–,,]. Notably, although multiple co-factors such as vitamin K, magnesium, boron, manganese and other micronutrients have been shown to enhance the absorption and metabolism of vitamin D supplements [,], the included studies did not systematically assess these additional micronutrient co-factors in relation to implant-related outcomes.
+
+Based on the available clinical evidence, the following clinical recommendations are considered: vitamin D screening may be considered in patients planning to undergo implant therapy, particularly in individuals at higher risk of deficiency (limited sun exposure, older age, malabsorption, osteoporosis, chronic illness, or a history of early implant failure), as baseline assessment may support individualized pre-operative optimization. Vitamin D deficiency may represent a potentially modifiable risk factor in the early osseointegration, since pooled evidence suggested a higher risk of early dental implant failure and several studies reported less favorable early marginal bone changes in deficient patients. Furthermore, the available evidence remains heterogeneous and does not support a standardized dosing regimen; therefore, supplementation should follow established medical deficiency guidelines. Importantly, both deficiency and excessive serum vitamin D levels should be avoided, given limited long-term data suggesting potentially unfavorable outcomes at both extremes.
+
+Conclusion
+
+Based on the available clinical evidence, sufficient vitamin D status appears to support early dental implant osseointegration and stability, whereas deficiency is associated with less favorable early outcomes. Future research should focus on randomized controlled trials with standardized outcome measures, uniform timing of outcome assessment, and with adjustment for key confounding factors, such as smoking status, systemic comorbidities, bone quality, and implant and site-related variables. In addition, future studies should consider the potential influence of other micronutrients known to affect vitamin D absorption and metabolism. Longer follow-up periods are needed to determine whether optimization of vitamin D or other micronutrients status results in clinically meaningful improvements in implant survival and peri-implant health.
+
+Fig. 1
+
+PRISMA flow chart of the review
+
+Fig. 2
+
+Risk of bias (RoB 2.0) assessment of the included randomized controlled trials
+
+Fig. 3
+
+Risk of bias in non-randomized studies of interventions (ROBINS-I) assessment of the included studies
+
+Fig. 4
+
+Forest plot comparing ISQ between vitamin D sufficient and low vitamin D groups at 3 months follow-up
+
+Fig. 5
+
+Forest plot comparing EDIF between vitamin D sufficient and low vitamin D groups
+
+Fig. 6
+
+Forest plot comparing early MBL changes (≤ 12 months) between vitamin D sufficient and low vitamin D groups

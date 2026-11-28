@@ -21,6 +21,22 @@ In-vitro study (Lim 2022, J Mech Behav Biomed Mater, n=16/group) showing glyceri
 
 3D 프린팅 의치상 레진 후중합 시 글리세린 침지(GL)가 진공(VA)·대조군 대비 중합전환도(DC)·경도 최고값을 기록; SEM으로 층간 계면 강인성 확인.
 
+## Three-line Summary
+
+Lim et al. (2022) conducted an in-vitro study comparing glycerin immersion (GL), vacuum (VA), and air (CON) as post-polymerization oxygen shielding strategies for a 3D printed denture base resin, measuring degree of conversion (DC), microhardness, flexural properties, water sorption/solubility, dynamic mechanical analysis (DMA), and SEM morphology. The study was motivated by the clinical relevance of the oxygen-inhibited layer (OIL) in photopolymers and the need for practical protocols to maximise surface DC without specialised equipment.
+
+Glycerin immersion consistently produced the highest DC and Vickers microhardness across both room temperature (RT) and 80°C conditions, outperforming both vacuum and air. SEM analysis showed more continuous and dense inter-layer interfaces in GL specimens. An important finding was that GL at RT showed elevated water solubility—a potential biocompatibility concern—while GL at 80°C normalised solubility, suggesting that the clinically optimal protocol combines glycerin oxygen shielding with elevated post-curing temperature.
+
+Dynamic mechanical analysis (DMA) confirmed that the glass transition temperature (Tg) was similar across all groups, indicating that glycerin shielding improves surface quality without fundamentally altering the polymer network architecture. While the study used a denture base resin rather than direct luting cement, the mechanistic principles validate the glycerin oxygen-barrier technique for post-polymerization of 3D printed dental prosthetics and provide supporting rationale for glycerin-assisted light-curing in chairside resin cementation.
+
+## 세줄요약
+
+임 등(2022)은 3D 프린팅 의치상 레진의 후중합 시 글리세린 침지(GL), 진공(VA), 대기(CON) 세 가지 산소 차단 조건을 비교하는 시험관 내 연구를 시행했다. 중합전환도(Degree of Conversion, DC), 비커스 경도, 굴곡 물성, 수분 흡수·용해도, 동적 기계 분석(Dynamic Mechanical Analysis, DMA), 주사전자현미경(SEM) 형태 분석을 통해 평가했다.
+
+글리세린 침지(GL) 조건이 상온(RT) 및 80°C 양쪽에서 DC와 경도 최고값을 달성해 진공과 대기 조건을 일관되게 상회했다. SEM에서 GL군은 더 치밀하고 연속적인 층간 계면을 보였다. GL+상온 조건에서 수분 용해도 증가가 관찰됐으나, GL+80°C에서는 용해도가 정상화됐다—최적 프로토콜은 글리세린+고온 후중합 병용임을 시사한다.
+
+DMA 결과 유리전이온도(Glass Transition Temperature, Tg)는 군간 차이가 없어, 글리세린 차단이 중합체 네트워크 구조를 변경하지 않고 표면 품질만 향상시킴이 확인됐다. 이 연구는 3D 프린팅 치과 보철물의 후중합 최적화와 의자 옆 글리세린 보조 광중합(Glycerin-Assisted Light Curing) 프로토콜의 기계적 근거를 제공한다.
+
 ## 1. Document Information
 
 - Journal: Journal of the Mechanical Behavior of Biomedical Materials

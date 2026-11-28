@@ -1,0 +1,14 @@
+RETROSPECTIVE RADIOGRAPHIC OBSERVATIONAL STUDY OF 1692 STRAUMANN TISSUE-LEVEL DENTAL IMPLANTS OVER 10 YEARS: I. IMPLANT SURVIVAL AND LOSS PATTERN.
+Kim S, Jung UW, Cho KS, Lee JS. Clinical implant dentistry and related research. 2018. doi:10.1111/cid.12659. PMID 30110515.
+
+[ABSTRACT-ONLY — full text not retrieved]
+
+Implant dentistry is progressing based on extensive scientific results including preclinical and clinical studies. Researchers and clinicians have focused on implant designs and surface characteristics, which has resulted in various features being developed and introduced for enhancing osseointegration and reducing complications.
+
+The purpose of this study was to determine the cumulative survival rates of Straumann tissue-level dental implants over a 10-year period and identify the patterns of implant loss at a single research institution.
+
+In total, 1692 implants were installed in 881 patients who visited the Department of Periodontology, Dental Hospital, Yonsei University, Seoul from January 2003 to December 2009. Cases in which the implant was completely removed were defined as implant failures. Electronic or paper charts and radiographs were used to determine whether the implants failed. The survival rate of implants was analyzed using lifetime tables and Kaplan-Meier survival estimates. Log-rank test and Cox regression with shared frailty were used to analyze the risk factors and the types of implant failure.
+
+The 10-year cumulative survival rates were 98.23% and 95.70% at the implant and patient levels, respectively. Before installing a prosthesis (defined as the early stage), 13 implants in 10 patients were removed, while eight implants in seven patients were removed after completing a prosthesis (defined as the late stage). The cumulative survival rate was related to the implant diameter, length, site, and insertion torque. Most implant failures within 1 year were attributable to osseointegration failure. There were several cases of failure in the late stage without apparent marginal bone loss.
+
+Straumann tissue-level dental implants showed low failure rates and can be considered a useful long-term treatment option. The length, placement site, and insertion torque might affect implant survival.

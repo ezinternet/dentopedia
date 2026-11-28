@@ -1,0 +1,14 @@
+IMPACT OF HYPERTENSION AND ANTIHYPERTENSIVE MEDICATIONS ON EARLY IMPLANT FAILURE FOLLOWING SINUS AUGMENTATION.
+Jonas E, Chaushu L, Leibovitch M, Kahn A, Masri D. Dental and medical problems. 2026. doi:10.17219/dmp/200179. PMID 42664374.
+
+[ABSTRACT-ONLY — full text not retrieved]
+
+Hypertension (HTN) is a prevalent condition affecting a significant proportion of the population. It requires careful management due to its potential systemic complications. While the overall effects of HTN are well documented, its specific impact on implant dentistry procedures, such as sinus augmentation, remains less clear.
+
+The present study aimed to investigate the influence of HTN and antihypertensive medications on early implant failure (EIF) following sinus augmentation.
+
+A retrospective cohort study was conducted at a tertiary referral center between 2013 and 2021. Data from 425 implants in 152 patients were analyzed. The primary outcome was EIF. Univariate and multivariable analyses were performed to identify potential risk factors. A p-value <0.05 was considered statistically significant.
+
+Hypertension did not significantly affect EIF. However, beta-blocker therapy was identified as an independent risk factor at both the patient and implant levels (OR (odds ratio) = 4.05; p = 0.018 and OR = 3.13; p = 0.045, respectively). A higher number of implants per patient and tobacco smoking were also associated with an increased risk of EIF (OR = 1.49; p = 0.039 and OR = 8.52; p < 0.001, respectively). Other antihypertensive medications were not significantly associated with EIF.
+
+Hypertension was not a significant risk factor for EIF following sinus augmentation. However, beta-blocker therapy was associated with an increased risk of failure, whereas other antihypertensive agents, including diuretics, angiotensin-converting enzyme inhibitors (ACEIs), angiotensin II receptor blockers (ARBs), and calcium channel blockers (CCBs), were not significantly associated with EIF.

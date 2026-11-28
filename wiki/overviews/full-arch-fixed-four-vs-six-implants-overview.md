@@ -94,10 +94,11 @@ tags: [full-arch, all-on-four, all-on-six, fixed-complete-denture, implant-numbe
 > - **악궁 형태 계획 변수 (Garza 2026)**: V형 하악 MBR 0.91mm vs U형 0.81mm; 하악 임플란트 간격↑=MBR↓(r=−0.70). V형 하악에서 임플란트 간격 최대화 더욱 중요.
 > - **식립 파라미터 임계값 (Midha 2026)**: 실패군 C/AP 비 1.42 vs 대조 0.89; 캔틸레버 14.2 vs 10.4mm; 근원심 각도(Mesiodistal Angulation) 18.4° vs 12.1° — CBCT 기반 보철 주도 계획(Prosthetically Driven Placement)의 근거.
 > - **분절형 디지털 워크플로(Segmented Digital Workflow) (Mijiritsky 2026)**: 14명, 119 임플란트, 3년 ISR/PSR 100%, 생역학 합병증 0건 — 분절형 설계의 응력 분산 가능성.
+> - **갱신 2026-11-10 (+2편 → 총 51편)**: ① Zhang 2022 후향 코호트(217명·1,222개·보철 271개, 3–13년) — 임플란트·보철 생존, 합병증, 변연골 소실 (Marginal Bone Loss, MBL) 모두 All-on-4와 All-on-6 사이 차이 없음(HR 1.0); 다만 고령·대합 자연치/고정성·흡연·이갈이·긴 캔틸레버·낮은 골밀도·전부 아크릴 임시 보철 같은 고위험 하위군에서는 6개가 더 예측 가능. ② 코크란 SR(Visconti 2026, RCT 2편, 3년) — 관골 임플란트 (Zygomatic Implant)는 골이식 후 일반 임플란트 대비 임플란트 실패를 줄이고(OR 0.23) 재활 기간을 약 444일→1.3일로 단축하나 합병증은 늘림(OR 4.53, 약 80% vs 50%). 결정 규칙은 바뀌지 않음.
 
 ## Three-line Summary
 
-Synthesis of 49 papers on edentulous fixed full-arch implant rehabilitation across ten axes: clinical outcomes (RCTs, retrospective cohorts, SR+MAs, an umbrella review; axial vs tilted), an atrophic-maxilla pathway (trans-sinus and zygomatic implants, including long-term and rescue series and one QoL RCT), biomechanics (FEA), consensus (two independent processes plus an Italian GRADE conference), prosthetic material, CAD design thresholds, retention systems (conometric vs screw), treatment modality (overdenture vs fixed; narrow-diameter implants as an overdenture-only boundary), planning variables (arch morphology, segmented digital workflow), surgical timing and distal support, connection design and PEEK vs zirconia frameworks, and digital impression workflow.
+Synthesis of 51 papers on edentulous fixed full-arch implant rehabilitation across ten axes: clinical outcomes (RCTs, retrospective cohorts, SR+MAs, an umbrella review; axial vs tilted), an atrophic-maxilla pathway (trans-sinus and zygomatic implants, including long-term and rescue series and one QoL RCT), biomechanics (FEA), consensus (two independent processes plus an Italian GRADE conference), prosthetic material, CAD design thresholds, retention systems (conometric vs screw), treatment modality (overdenture vs fixed; narrow-diameter implants as an overdenture-only boundary), planning variables (arch morphology, segmented digital workflow), surgical timing and distal support, connection design and PEEK vs zirconia frameworks, and digital impression workflow.
 
 Core findings: survival 4 ≈ 6 at SR+MA level (Shao 2026: ≥5yr 98.14% vs 97.50%); prosthetic material evidence now at SR+MA level (Marinkovic 2026: metal-zirconia wear RR=0.29, peri-implantitis RR=0.67); 17-year complication trajectory confirms Ti-resin as worst-performing material (HR=4.25); CAD thresholds quantified (CSSA ≥80mm²; CL/CSCA<0.51; CL/SAOL<1.48); conometric retention is a viable maintenance-reducing option for permanent prostheses; V-shaped mandible and inter-implant distance are plannable MBR modifiers. Supplementary evidence (2026-10-11) is non-inferiority-consistent: axial vs tilted, immediate vs delayed placement, 4-mm distal implants vs sinus lift, external vs internal hex, and digital vs conventional impression all show equivalent short-to-medium-term outcomes; zygomatic implants are high-performing but below conventional implants at 8 years (95.9% vs 98.7%) with sinusitis the main failure mode; PEEK frameworks show better 1-year peri-implant readings (n=30) but poorer fit and remain unproven.
 
@@ -105,7 +106,7 @@ Decision rule: six implants where anatomy allows; four is the evidence-backed mi
 
 ## 세줄요약
 
-무치악 고정성 풀아치 임플란트 전악 재건 49편을 임상 성적·위축 상악 대안 경로(관골·경유 상악동)·생체역학·합의·재료·CAD 임계값·유지 방식·치료 방식·계획 변수·식립 시기/원위 지지·연결부/PEEK 프레임워크·디지털 인상의 10축으로 종합.
+무치악 고정성 풀아치 임플란트 전악 재건 51편을 임상 성적·위축 상악 대안 경로(관골·경유 상악동)·생체역학·합의·재료·CAD 임계값·유지 방식·치료 방식·계획 변수·식립 시기/원위 지지·연결부/PEEK 프레임워크·디지털 인상의 10축으로 종합.
 
 생존 동등성 SR+MA 수준 확인(Shao 2026); 재료 SR+MA — 금속-지르코니아 마모 RR=0.29(Marinkovic 2026); CAD 임계값 수치화(CSSA ≥80mm², CL/CSCA<0.51); 코노메트릭 임상 근거(Biscaro 2026); 17년 장기 — Ti-레진 HR=4.25(Pelser 2026); V형 하악 MBR 차이 전향 확인(Garza 2026).
 
@@ -254,62 +255,16 @@ Retrospective multicenter cohort, 250 edentulous patients (125 maxillary + 125 m
 
 ## Atrophic maxilla alternative pathway — zygomatic and trans-sinus implants
 
-When the maxillary residual bone is insufficient for conventional axial or tilted implant placement even with augmentation, two alternative techniques allow implant-supported full-arch rehabilitation without major grafting:
+> **Split 2026-11-24.** The paper-by-paper synthesis of this pathway now lives in [[overviews/severe-atrophy-graftless-rehabilitation-ladder]] (rung 3), which already held most of these papers — keeping two full copies had let them drift. This section keeps only what the 4-vs-6 decision needs.
 
-### Gianfreda 2025 (SR+MA, trans-sinus implants, 10 studies)
-**Source**: [[implants/full-arch/gianfreda-2025-trans-sinus-full-arch-sr-ma]]
-- 10 studies (2,359 screened), PROSPERO CRD42024537320; trans-sinus (경유 상악동, TSI) vs axial/tilted, meta-analysis with Haldane + hybrid corrections.
-- 232 trans-sinus implants (5 failed) vs 675 axial/tilted (5 failed): **RR=2.80, 95% CI 0.89–8.77, p=0.076 (NS)**; hybrid RR=2.74, p=0.070.
-- **Comparable pooled success rate** — trans-sinus is a statistically equivalent bone-graft-sparing alternative.
-- Caveat: only 10 studies, low absolute failure count (5+5); CI crosses 1.0 but upper bound reaches 8.77 — underpowered. RCTs needed.
+When residual maxillary bone cannot take conventional axial or tilted implants even with augmentation, the full-arch plan leaves the 4-vs-6 question and enters the graftless ladder:
 
-### Grandi 2025 (retrospective, zygomatic hybrid, 1yr)
-**Source**: [[implants/full-arch/grandi-2025-zygomatic-hybrid-full-arch-1yr]]
-- 35 patients, 98 straight + 81 zygomatic implants (extrasinus approach), angled abutments 45°/52.5°/60°; 1yr follow-up.
-- **Implant survival 100%; prosthesis survival 94.3%; ZICL0-1 in 95% of zygomatic sites.**
-- Sinus opacity in 7/35 (20%); sinus membrane perforation 2/35 (5.7%).
-- **No significant differences among abutment angulation groups** — surgical angle flexibility confirmed.
+- **Trans-sinus implants**: failure not significantly different from axial/tilted (RR 2.80, 95% CI 0.89–8.77, p=0.076; 10 studies) — underpowered, point estimate leans against ([[implants/full-arch/gianfreda-2025-trans-sinus-full-arch-sr-ma]]).
+- **Zygomatic hybrid, short-to-middle term**: 100% implant survival at 1 year (n=35; [[implants/full-arch/grandi-2025-zygomatic-hybrid-full-arch-1yr]]) and >3 years (n=31; [[implants/full-arch/menchini-fabris-2025-zygomatic-full-arch-3yr]]); pooled non-oncologic ZI survival 98.22% with sinusitis the commonest complication ([[implants/full-arch/gracher-2021-full-arch-rehabilitation-in-patients]]).
+- **Long horizon**: ZI implant-level survival 95.9% vs 98.7% conventional at mean 8.3 years, palatal platform worst (92.5%, HR 18.2) ([[implants/full-arch/uesugi-2026-investigation-of-the-long-term]]); as rescue, quad zygoma 98.2% at ~8 years with sinusitis 28.5% ([[implants/full-arch/fan-2026-rescue-therapy-with-quad-zygoma]]).
+- **Against All-on-4 in atrophic bone**: one RCT (n=80) favours ZI on OHIP-14 (18.48 vs 30.43, p<0.001), survival equivalent ([[implants/full-arch/fernandez-ruiz-2021-evaluation-of-quality-of-life]]) — the comparator is All-on-4 in atrophic bone, not in standard anatomy.
 
-### Menchini-Fabris 2025 (retrospective, zygomatic hybrid, >3yr)
-**Source**: [[implants/full-arch/menchini-fabris-2025-zygomatic-full-arch-3yr]]
-Same Italian research group (Grandi, Toti, Covani, Menchini-Fabris); companion middle-term dataset:
-- 31 patients, 62 zygomatic + 90 standard implants; >3yr follow-up.
-- **Implant survival 100%; prosthesis survival 100%** (no losses); implant success 98.4%; prosthesis success 87% (patient unit).
-- 1 mucositis; 7 patients with mechanical/biological complications — **all resolved**; ZICL1 >80%; MSEE <4mm in 81%.
-
-| Study | Follow-up | N pts | Implant survival | Prosthesis survival |
-|---|---|---|---|---|
-| Grandi 2025 | 1yr | 35 | **100%** | 94.3% |
-| Menchini-Fabris 2025 | >3yr | 31 | **100%** | 100% |
-
-**Atrophic-maxilla pathway verdict:** For severely atrophic maxillae where conventional tilted/axial implants are not feasible, both trans-sinus implants and zygomatic hybrid configurations provide bone-graft-sparing full-arch rehabilitation with comparable short-to-medium term survival. The 1yr → 3yr trajectory from the same Italian group shows maintained 100% implant survival. The evidence base remains limited (small retrospectives; 1 SR+MA of low-powered observational studies), and these approaches are complementary to — not competitive with — conventional All-on-4/6 planning when anatomy allows standard placement.
-
-### Gracher 2021 (SR, zygomatic implants for atrophic-maxilla full-arch rehabilitation)
-**Source**: [[implants/full-arch/gracher-2021-full-arch-rehabilitation-in-patients]]
-- PRISMA SR, 42 studies (2003–2019), 1247 patients, 2919 zygomatic implants (ZIs).
-- **Overall ZI survival 98.22%** (52 failures; follow-up 1–228 months): intrasinusal 98.3% (23 studies), extrasinusal 99.1% (11 studies), sinus slot 97.7% (4 studies). **Sinusitis** was the commonest complication (39 cases).
-- Technique choice should follow anatomy and operator experience; no RCTs and industry funding limit the evidence.
-
-### Uesugi 2026 (retrospective, All-on-4 with zygomatic implants, 3–13 yr)
-**Source**: [[implants/full-arch/uesugi-2026-investigation-of-the-long-term]]
-- 203 patients, 923 implants (323 ZIs + 600 conventional), mean follow-up 8.3 yr; Kaplan–Meier + Cox regression.
-- **ZI implant-level survival 95.9% vs conventional 98.7% (p=0.0178)**; patient-level 94.5% vs 97.9% (p=0.16, NS).
-- **Palatal ZI platform: 92.5% survival (HR 18.2, p=0.026)** vs vestibular 98.6% and ridge 96.9%; systemic disease raised patient-level risk (HR 14.9, p=0.012) but not implant-level risk.
-- ZI failures: 11 implants, sinusitis in 6 of 9 failure cases (platform-related: palatal/ridge) — sinusitis is the principal failure mode.
-
-### Fan 2026 (retrospective, quad zygoma as rescue therapy)
-**Source**: [[implants/full-arch/fan-2026-rescue-therapy-with-quad-zygoma]]
-- 28 consecutive patients, 112 ZIs placed to rescue failed maxillary full-arch rehabilitations (2006–2024), mean follow-up 8.2 ± 4.1 yr; 113 failed conventional implants removed; 48 ZIs placed immediately into explantation sockets; all immediately loaded.
-- ZI survival 98.2% (2 late removals); implant success 93.5%; prosthetic success 96.4%.
-- **Sinusitis 28.5%** (8 patients, mean 5.9 yr post-op; all medically managed, no implant loss); soft-tissue recession 9.8%; oroantral and facial fistula 0.9% each.
-
-### Fernández-Ruiz 2021 (RCT, patient-reported QoL, zygomatic vs All-on-4 — sources-only)
-**Source**: [[fernandez-ruiz-2021-evaluation-of-quality-of-life]]
-- RCT, n=80 (40:40), atrophic edentulous maxilla: ZI + anterior implants vs All-on-4 fixed prosthesis; primary outcome OHIP-14.
-- **OHIP-14 total 18.48 ± 3.42 (ZI) vs 30.43 ± 4.37 (All-on-4), p<0.001** (lower = better), all seven domains favoring ZI; "very satisfied" 77.5% vs 0%. Survival and peri-implantitis rates were reported as equivalent.
-- This paper has no wiki page (source summary only); treat the QoL signal as a single-trial finding.
-
-**Verdict update (2026-10-11, +4 papers):** The earlier 1-yr and >3-yr Italian series (100% implant survival) are the *optimistic end* of the zygomatic literature. With longer follow-up the picture is **high but not equal to conventional implants**: ZI implant-level survival 95.9% vs 98.7% at mean 8.3 yr (Uesugi), pooled SR survival 98.2% (Gracher) but with sinusitis as the dominant complication (28.5% in the rescue series, Fan). Platform position (palatal worst) and systemic disease are the modifiable/identifiable risks. Where anatomy forces the pathway, the single RCT (Fernández-Ruiz) favors ZI over All-on-4 on QoL — but the comparator is All-on-4 *in atrophic bone*, not in standard anatomy. Lifelong sinus surveillance belongs in the counselling.
+**Verdict for this page:** the pathway is complementary to, not competitive with, conventional All-on-4/6 planning when anatomy allows standard placement; where anatomy forces it, survival is high but not equal to conventional implants over the long term, and lifelong sinus surveillance belongs in the counselling. Technique path (extrasinus vs sinus-slot), sinusitis dose–response and the Cochrane trade-off: see the ladder.
 
 ---
 
@@ -714,3 +669,30 @@ The six dimensions are compatible once framed correctly. **Equivalent survival i
 **Related overviews:**
 - [[overviews/tilted-axial-implant-angled-abutment-overview]] — tilted-implant biomechanics underlying All-on-4
 - [[overviews/supportive-peri-implant-therapy-maintenance-overview]] — maintenance for full-arch prostheses
+
+## Evidence Update — A 13-Year 4-vs-6 Cohort and the Cochrane Zygomatic Review (2026-11-10)
+
+### Axis 1 addition: [[implants/full-arch/zhang-2022-all-on-four-vs-six-cohort-3-13yr]]
+
+Retrospective cohort from Peking University: 217 patients, 1,222 implants, 271 immediately loaded full-arch fixed prostheses (202 on four implants, 69 on six), followed 3–13 years, with a clinician questionnaire alongside.
+
+- No significant overall difference in implant survival (HR 1.0), prosthesis survival, biological or technical complications, or MBL at 1, 5 or 10 years.
+- In high-risk subgroups (elderly, opposing natural or fixed dentition, smoking, bruxism, long cantilever, low bone density, all-acrylic provisionals) six implants were more predictable on some measures.
+- Medium-experience clinicians and prosthodontists significantly preferred six (P<0.05).
+
+This is the decision rule of this page observed inside one cohort: four and six are equivalent on average, and the case for six is carried by risk modifiers rather than by a general survival advantage. It adds follow-up length to Axis 1 without moving the verdict. The questionnaire result is a reminder that the stated preference for six among experienced clinicians runs ahead of the outcome data.
+
+### Atrophic-maxilla pathway addition: [[implants/full-arch/visconti-2026-zygomatic-implants-severely-atrophic]]
+
+Cochrane systematic review (evidence to November 2025; 2 RCTs, 3-year follow-up) of zygomatic implants versus conventional implants in grafted bone for the severely atrophic edentulous maxilla.
+
+| Outcome | Zygomatic vs grafted conventional |
+|---|---|
+| Implant failure | probably reduced (OR 0.23) |
+| Time to rehabilitation | about 1.3 days vs 444 days |
+| Complications | probably increased (OR 4.53; about 80% vs 50%) |
+| Prosthetic failure, patient satisfaction | uncertain (imprecise) |
+
+The earlier verdict here described the Italian case series as the optimistic end of the zygomatic evidence. The Cochrane review supplies the randomised counterweight and it is a trade rather than a win: fewer failures and more than a year saved, paid for with a markedly higher complication rate. That is the honest framing for consent in the graftless pathway. It rests on two trials, so every estimate is "probably", not "does".
+
+**Net effect on the decision rule:** none. Both papers fit the existing structure.

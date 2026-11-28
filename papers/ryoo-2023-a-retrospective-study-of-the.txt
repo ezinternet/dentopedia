@@ -1,0 +1,1037 @@
+INTRODUCTION
+
+Implant dentistry has become highly predictable for treating both fully and partially edentulous patients since the concept of osseointegration was first described by the research group of Brånemark et al. []. During the initial clinical stage of implant dentistry, as described by the Brånemark group, implants were used for fixed dental prostheses in completely edentulous patients and showed a favorable long-term prognosis for more than 15 years, especially in the mandible []. Since then, the focus has shifted to partially edentulous patients; a recent study reported that 95% of patients who received implant therapy were partially edentulous []. Surgical innovations such as guided bone regeneration (GBR) [] and sinus floor elevation (SFE) [] have made it possible to place implants even in patients with horizontal and vertical bone deficiencies, thereby broadening the indications for implant therapy.
+
+With the advent of implant surface technology in the 1990s [], implants with sandblasted, large grit, acid-etched (SLA) surfaces demonstrated rough or micro-rough surfaces that significantly increased the removal torque compared to that of implants with smooth machined surfaces or titanium plasma-sprayed surfaces [], and the healing period of implant therapy could be reduced []. SLA surfaces are created by sandblasting with large grit particles such as aluminum oxide (AlO) or titanium oxide (TiO), followed by acid etching to remove the remaining particles and increase the roughness, resulting in an average roughness value (S) of 1.78 []. The long-term survival rates of implants with SLA surfaces have been reported to be >95% []. Another type of implant surface for clinical use is resorbable blast media (RBM). An RBM surface is created by blasting the titanium surface of a fixture with resorbable coarse bioceramics, such as calcium phosphate, followed by a passivation process, which removes foreign materials embedded on the surface of the implant []. When fabricating an SLA surface, it is essential to remove remnant particles, such as those of alumina or silica, during acid-etching; however, an RBM surface has the advantage of acid-free surface roughening without leaving embedded foreign materials and acid residues []. A 50-month clinical study reported an RBM implant survival rate of 99.3% in the mandible and 100% in the maxilla []. The cumulative survival rate of RBM implants after 7 years of follow-up was 95.37% []. Although implant failures are few, it is important to understand the risk factors because failures can occur in any type of implant. Furthermore, studies reporting the survival rate of RBM implants after 10 years or more are scarce.
+
+The aim of this study was to retrospectively evaluate the survival rate of RESTOREdental implants with an RBM surface over a 10-year follow-up period and to analyze the factors affecting the survival rate of these dental implants.
+
+MATERIALS AND METHODS
+
+Study design
+
+This retrospective study was conducted in accordance with the Helsinki Declaration with approval from the Institutional Review Board (IRB No. S-D20210020) of the School of Dentistry, Seoul National University, Republic of Korea, and written according to the Strengthening the Reporting of Observational Studies in Epidemiology guidelines. Initially, a total of 360 implants from 134 patients who underwent implant placement were evaluated. The data were reviewed using dental records and radiographs of patients who underwent implant surgery between March 2006 and April 2011 at Seoul National University Dental Hospital. The patients were followed up for more than 10 years after implant placement, until 2022. Patients’ most recent appointment date was used to calculate the follow-up period. Implants placed in these patients were examined according to the following variables: time of follow-up, sex, age, implant location (mandible vs. maxilla, anterior vs. posterior), type of implant placement, International Team for Implantology consensus [], implant diameter, implant length, prosthesis type, surgery type, whether GBR and/or SFE with a lateral/crestal approach was performed, and the patients’ dental and medical conditions, including a history of treated periodontitis, hypertension, diabetes, and chronic kidney disease ().
+
+Table 1
+
+Implant characteristics and cumulative survival rates for each variable
+
+Variables
+
+No. of placed implants
+
+No. of failed implants
+
+CSR (%)
+
+Sex
+
+Male
+
+127 (51.4)
+
+14
+
+88.3
+
+Female
+
+120 (48.6)
+
+3
+
+96.7
+
+Diameter (mm)
+
+3.3
+
+24 (9.7)
+
+0
+
+100
+
+3.75
+
+7 (2.8)
+
+1
+
+85.7
+
+4.0
+
+209 (84.6)
+
+15
+
+92.2
+
+5.0
+
+7 (2.8)
+
+1
+
+85.7
+
+Length (mm)
+
+8.0
+
+6 (2.4)
+
+0
+
+100
+
+10.0
+
+60 (24.3)
+
+1
+
+98.3
+
+11.5
+
+162 (65.6)
+
+16
+
+89.3
+
+13.0
+
+19 (7.7)
+
+0
+
+100
+
+Type of implantation
+
+Type 1, immediate implantation
+
+38 (15.4)
+
+3
+
+88.4
+
+Type 2, implantation after 4 to 8 wk of tooth extraction
+
+5 (2.0)
+
+0
+
+100
+
+Type 3, implantation after 12 to 16 wk
+
+63 (25.5)
+
+5
+
+91.8
+
+Type 4, implantation after 16 wk
+
+141 (57.1)
+
+9
+
+93.5
+
+Location
+
+Mandible
+
+111 (44.9)
+
+8
+
+91.2
+
+Maxilla
+
+136 (55.1)
+
+9
+
+93.2
+
+Anterior
+
+29 (11.7)
+
+2
+
+89.7
+
+Posterior
+
+218 (88.3)
+
+15
+
+92.9
+
+Type of surgery
+
+Implant placement without GBR
+
+117 (47.3)
+
+10
+
+90.1
+
+Implant placement with GBR
+
+82 (33.2)
+
+4
+
+95.1
+
+Implant placement with SFE (lateral approach)
+
+34 (13.8)
+
+1
+
+97.1
+
+Implant placement with SFE (crestal approach)
+
+10 (4.1)
+
+1
+
+90
+
+Implant placement with GBR and SFE (lateral approach)
+
+4 (1.6)
+
+1
+
+75.0
+
+Type of prosthodontics
+
+Single crown
+
+67 (27.1)
+
+6
+
+90.6
+
+Overdenture
+
+2 (0.8)
+
+2
+
+0
+
+Bridge
+
+178 (72.1)
+
+9
+
+94.8
+
+History of periodontitis treatment
+
+Positive
+
+198
+
+14
+
+92.3
+
+Negative
+
+49
+
+3
+
+93.6
+
+Hypertension
+
+Positive
+
+74
+
+2
+
+97.3
+
+Negative
+
+173
+
+15
+
+90.5
+
+Diabetes mellitus
+
+Positive
+
+26
+
+3
+
+85.7
+
+Negative
+
+221
+
+14
+
+93.5
+
+Chronic kidney disease
+
+Positive
+
+5
+
+0
+
+100
+
+Negative
+
+242
+
+17
+
+92.3
+
+Values are presented as number (%).
+
+CSR: cumulative survival rate, GBR: guided bone regeneration, SFE: Sinus floor elevation.
+
+Inclusion and exclusion criteria
+
+The inclusion criteria were patients receiving 1 or more RESTORERBM implants (Keystone Dental, Burlington, MA, USA), and the exclusion criteria were implants with a follow-up period of less than 10 years after prosthetic rehabilitation. Patients with insufficient dental records or radiographs that could not be tracked after prosthetic loading were excluded from the initial screening. Ultimately, 247 implants from 86 patients were included in the analysis.
+
+Statistical analysis
+
+The overall cumulative survival rates of the implants were calculated using Kaplan-Meier analysis. Univariate regression tests using a Cox proportional hazards model with a significance level of 95% were conducted for each variable. Multivariate regression tests were conducted using the variables for which thevalue from univariate regression was <0.05. Statistical analyses were performed using SPSS version 26.0 (IBM Corp., Armonk, NY, USA).
+
+RESULTS
+
+Of the 247 implants, 127 (51.4%) and 120 (48.6%) were placed in male and female patients, respectively (). The patients ranged in age from 19 to 74 years, with an average age of 57.9 years. In total, 111 (44.9%) and 136 (55.1%) implants were placed in the mandible and maxilla, respectively, and 29 (11.7%) in the anterior region and 218 (88.3%) in the posterior region. The distribution of implant placement type according to the International Team for Implantology consensus was 38 (15.4), 5 (2.0%), 63 (25.5%), and 141 (57.1%) implants for types I, II, III, and IV, respectively. The most common implant diameter was 4.0 mm (n=209, 84.6%), followed by 3.3 mm (n=24, 9.7%), and 3.75 mm and 5.0 mm (7 implants each, 2.8%). The length of the implants was 11.5 mm (n=162, 65.6%) for the most part, followed by 10.0 mm (n=60, 24.3%), 13.0 mm (n=19, 7.7%), and 8.0 mm (n=6, 2.4%). Regarding prosthetic type, most implants (n=178, 72.1%) were rehabilitated with fixed partial dentures, while 67 (27.1%) were rehabilitated with a single crown. Only 2 implants (0.08%) served as abutments for a removable prosthesis in 1 patient. Alveolar bone augmentation was performed using GBR with demineralized bovine bone material and a collagen membrane in 82 implants (33.2%). SFE was performed through the lateral approach or the crestal approach in 34 (13.8%) and 10 implants (4.1%), respectively. In 4 implants (1.6%), GBR and SFE with the lateral approach were performed simultaneously. A total of 198 implants (80.2%) were placed in patients with a history of periodontitis. Regarding systemic diseases, 74 implants (30.0%) were placed in patients with hypertension, 26 (10.5%) in patients with diabetes, and 5 (2.0%) in patients with chronic kidney disease.
+
+Implant survival and failure
+
+During a follow-up period of more than 10 years, 247 implants showed a cumulative survival rate of 92.5% (). In total, 17 implants were removed at an average of 6.88 years post-placement (). The majority (10 out of 17 implants, 55.82%) of failures occurred due to fixture fracture, 6 (35.29%) resulted from peri-implantitis, and 1 (5.88%) occurred due to screw fracture. The cumulative survival rates of male and female patients were 88.3% and 96.7%, respectively (), showing a statistically significant difference (hazard ratio [HR], 4.542; 95% CI, 1.305–15.807;=0.017;) in the univariate regression analysis. Supporting a removable prosthesis (HR, 15.498; 95% CI, 3.105–77.357;=0.001;) was the other statistically significant risk factor for implant failure. However, a limitation of this retrospective study is the small sample size of implants that supported overdentures—only 2 out of 247 implants ().
+
+Figure 1
+
+Kaplan-Meier cumulative survival rate.
+
+Table 2
+
+Case list of failed implants
+
+Patient characteristics
+
+Implant characteristics
+
+Implant failure
+
+Patient number
+
+Age (yr)
+
+Sex
+
+Systemic disease
+
+Tooth number (FDI system)
+
+Diameter (mm)
+
+Length (mm)
+
+Cause of failure
+
+Duration before implant failure (yr)
+
+1
+
+64
+
+Male
+
+n/s
+
+26
+
+4.0
+
+10.00
+
+Peri-implantitis
+
+10
+
+2
+
+46
+
+Male
+
+n/s
+
+26
+
+4.0
+
+11.50
+
+Fixture fracture
+
+10
+
+2
+
+46
+
+Male
+
+n/s
+
+27
+
+4.0
+
+11.50
+
+Fixture fracture
+
+10
+
+2
+
+46
+
+Male
+
+n/s
+
+36
+
+4.0
+
+11.50
+
+Fixture fracture
+
+7
+
+3
+
+64
+
+Male
+
+n/s
+
+46
+
+4.0
+
+11.50
+
+Peri-implantitis
+
+10
+
+4
+
+57
+
+Male
+
+n/s
+
+16
+
+4.0
+
+11.50
+
+Peri-implantitis
+
+6
+
+5
+
+47
+
+Male
+
+HTN
+
+46
+
+4.0
+
+11.50
+
+Fixture fracture
+
+8
+
+6
+
+51
+
+Female
+
+n/s
+
+34
+
+3.75
+
+11.50
+
+Peri-implantitis
+
+8
+
+7
+
+64
+
+Female
+
+DM
+
+32
+
+4.0
+
+11.50
+
+Peri-implantitis
+
+2
+
+7
+
+64
+
+Female
+
+DM
+
+43
+
+4.0
+
+11.50
+
+Peri-implantitis
+
+12
+
+8
+
+63
+
+Male
+
+n/s
+
+16
+
+4.0
+
+11.50
+
+Fixture fracture
+
+11
+
+9
+
+49
+
+Male
+
+DM HTN
+
+26
+
+4.0
+
+11.50
+
+Fixture fracture
+
+1
+
+10
+
+27
+
+Male
+
+n/s
+
+46
+
+4.0
+
+11.50
+
+Fixture fracture
+
+11
+
+11
+
+51
+
+Male
+
+n/s
+
+16
+
+4.0
+
+11.50
+
+Fixture fracture
+
+1
+
+11
+
+51
+
+Male
+
+n/s
+
+17
+
+4.0
+
+11.50
+
+Screw fracture
+
+1
+
+11
+
+51
+
+Male
+
+n/s
+
+46
+
+5.0
+
+11.50
+
+Fixture fracture
+
+2
+
+12
+
+54
+
+Male
+
+n/s
+
+16
+
+4.0
+
+11.50
+
+Fixture fracture
+
+7
+
+FDI: Fédération Dentaire Internationale, DM: diabetes mellitus, HTN: hypertension, n/s: non-specific.
+
+Table 3
+
+Results of the univariate and multivariate analysis
+
+Variables
+
+Univariate analysis
+
+Multivariate analysis
+
+B
+
+Exp (B)
+
+SE
+
+95% CI
+
+value
+
+B
+
+Exp (B)
+
+SE
+
+95% CI
+
+value
+
+Sex (ref: female)
+
+1.513
+
+4.542
+
+0.636
+
+1.305–15.807
+
+0.017
+
+2.639
+
+14.004
+
+1.036
+
+1.840–106.600
+
+0.011
+
+Age
+
+−0.030
+
+0.971
+
+0.017
+
+0.939–1.003
+
+0.074
+
+Type of implant placement (ref: type 4)
+
+Type 1
+
+0.234
+
+1.264
+
+0.667
+
+0.342–4.670
+
+0.725
+
+Type 2
+
+−11.940
+
+0
+
+688.669
+
+0.000–0.000
+
+0.986
+
+Type 3
+
+0.219
+
+1.245
+
+0.558
+
+0.417–3.716
+
+0.694
+
+Mandible (ref: maxilla)
+
+0.105
+
+1.111
+
+0.486
+
+0.428–2.881
+
+0.829
+
+Anterior (ref: posterior)
+
+0.008
+
+1.008
+
+0.753
+
+0.230–4.408
+
+0.992
+
+Implant diameter (ref: 5.0 mm)
+
+3.3
+
+−13.900
+
+0
+
+554.076
+
+0
+
+0.980
+
+3.75
+
+−0.041
+
+0.960
+
+1.415
+
+0.060–15.353
+
+0.977
+
+4
+
+−0.744
+
+0.475
+
+1.033
+
+0.063–3.598
+
+0.469
+
+Implant length (ref: 13.0 mm)
+
+8
+
+0.003
+
+1.003
+
+280.092
+
+0.000–2.607E+238
+
+1.000
+
+10
+
+8.759
+
+6,366.299
+
+142.241
+
+0.000–7.577E+124
+
+0.951
+
+11.5
+
+10.555
+
+38,376.854
+
+142.238
+
+0.000–4.538E+125
+
+0.941
+
+Type of surgery (ref: none)
+
+GBR
+
+−0.584
+
+0.578
+
+0.592
+
+0.181–1.845
+
+0.355
+
+SFE with lateral approach
+
+−1.111
+
+0.329
+
+1.049
+
+0.042–2.575
+
+0.290
+
+SFE with crestal approach
+
+0.144
+
+1.155
+
+1.049
+
+0.148–9.024
+
+0.891
+
+SFE with GBR + lateral approach
+
+1.314
+
+3.722
+
+1.051
+
+0.474–29.220
+
+0.211
+
+Type of prosthodontics (ref: bridgework)
+
+Single crown
+
+−0.613
+
+0.542
+
+0.527
+
+0.193–1.522
+
+0.245
+
+−0.719
+
+0.487
+
+0.528
+
+0.173–1.370
+
+0.173
+
+Overdenture
+
+2.741
+
+15.498
+
+0.820
+
+3.105–77.357
+
+0.001
+
+4.695
+
+109.345
+
+1.26
+
+9.245–1,293.229
+
+<0.001
+
+History of periodontitis treatment (ref: -)
+
+0.154
+
+1.167
+
+0.637
+
+0.335–4.062
+
+0.809
+
+Hypertension (ref: -)
+
+1.175
+
+3.239
+
+0.753
+
+0.741–14.163
+
+0.753
+
+DM (ref: -)
+
+0.306
+
+1.359
+
+0.335
+
+0.728–2.535
+
+0.335
+
+CKD (ref: -)
+
+1.518
+
+4.565
+
+0.676
+
+0.004–5,617.364
+
+0.676
+
+SE: standard error, CI, confidence interval; SFE: sinus floor elevation, GBR: guided bone regeneration, DM: diabetes mellitus, CKD: chronic kidney disease.
+
+DISCUSSION
+
+In this retrospective study, the cumulative survival rate of dental implants with an RBM surface over a 10- to 15-year follow-up period was 92.5%. Among the 17 implant failures, implant fixture fractures were the most frequent cause of implant removal (55.82%). Berglundh et al. [] reported that the rate of fixture fractures of implants during a 5-year period was less than 1.0% (range, 0.08%–0.74%), with the highest incidence of implant fractures found in patients with fixed partial dentures. Thus, the prevalence of implant fractures in this study was higher than that reported in other systematic reviews, possibly due to a longer follow-up period and the use of a 4.0-mm implant diameter in the molar region. The results of the univariate regression analysis using a Cox proportional hazards model showed that the insertion of dental implants in male patients was a statistically significant factor for implant failure. Similarly, in a meta-analysis of 91 studies, Chrcanovic et al. [] reported that the implant failure rate was 21% higher when dental implants were inserted in male patients. A possible explanation for the increased risk of implant failure in male patients may be the higher prevalence of periodontitis in men and the greater susceptibility to peri-implantitis in patients with periodontitis. Epidemiological studies have shown that men are at a greater risk of developing chronic periodontitis than women []. According to data from the 2009 and 2010 National Health and Nutrition Examination Survey, the prevalence of periodontitis in male participants was significantly higher than that in female participants after adjusting for the effect of age []. Freitag-Wolf et al. [] analyzed the sexually dimorphic role of alleles in the gene encoding neuropeptide Y with respect to the risk of developing aggressive periodontitis on a genome-wide scale and observed an increased risk for aggressive periodontitis in males and a decreased risk in females. Another possible explanation is related to the fact that men tend to have stronger bite loads on their implants than women []. Cosme et al. [] reported that the voluntary maximal bite force of men (1,009±290 N) was approximately one-third greater than that of women (668±179 N), constituting a statistically significant difference. The greater biting force of men is consistent with the larger diameter and cross-sectional area of type II fibers of the masseter muscle observed in men []. However, it is challenging to determine the relationship between occlusal overload and implant failure because of the difficulties in clinically quantifying the magnitude and direction of occlusal forces [].
+
+Although the relationship between periodontitis and peri-implantitis has not been conclusively established, some studies have shown that periodontally compromised patients may be more likely to experience implant loss than periodontally healthy patients due to greater marginal bone loss and peri-implantitis [] and an abundant proportion of Gram-negative anaerobic bacteria; the microbiota associated with periodontitis has been found to have a similar composition to the microbiota associated with peri-implant diseases []. Systematic reviews have reported a significantly higher risk of peri-implantitis in patients with a history of treated periodontitis than in those without a history of periodontitis []; however, we found no statistically significant difference in implant failure according to the presence or absence of periodontitis.
+
+The finding that male sex was a significant factor associated with implant failure, together with previous reports of greater occlusion forces [] and a higher prevalence of periodontitis in men [], suggests that sex is a potential risk factor for implant failure that has not been adequately explored. Implant failure can be classified as early or late depending on whether the failure occurs before or after osseointegration, respectively [], and the failures observed in this study were late implant failures. Most implant failures observed in this long-term follow-up study were caused by implant fracture (55.56%) and peri-implantitis (38.89%), which is consistent with the previously reported major etiologic factors for late implant loss, including excess occlusal overloading and peri-implantitis [].
+
+The 10- to 15-year cumulative survival rate of RESTOREdental implants with an RBM surface in this retrospective study was 92.5%. Within the limitations of this retrospective study, the RESTOREdental implant with an RBM surface demonstrated a favorable implant survival rate with stable long-term clinical outcomes.

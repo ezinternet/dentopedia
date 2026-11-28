@@ -1,0 +1,34 @@
+1. J Adhes Dent. 2021 Dec 3;23(6):487-496. doi: 10.3290/j.jad.b2287831.
+
+Glass Hybrid Versus Nanocomposite for Restoration of Sclerotic Non-carious 
+Cervical Lesions: 18-Month Results of a Randomized Controlled Trial.
+
+Göstemeyer G, Seifert T, Jeggle-Engbert LM, Paris S, Schwendicke F.
+
+PURPOSE: To compare the clinical performance and treatment times between glass 
+hybrid (GH; EQUIA Forte Fil/EQUIA Forte Coat﻿, GC) and adhesive/nanofilled resin 
+composite restorations (RC; OptiBond FL﻿, Kerr/Filtek Supreme XTE﻿, ﻿3M﻿ Oral 
+Care) of sclerotic non-carious cervical lesions (sNCCL).
+MATERIALS AND METHODS: This is an 18-month interim analysis of a 36-month 
+cluster-randomized trial (ClinicalTrials.gov Identifier: NCT02631161). 
+Eighty-eight patients (50-70 years) with 175 sNCCLs were randomized to receive 
+GH or RC restorations. Restorations were placed without mechanical cavity 
+preparation, and treatment time was recorded. After 18 months, restorations were 
+evaluated using FDI criteria. Factors associated with restoration survival were 
+evaluated using multi-level Cox-regression analysis. Generalized linear mixed 
+modelling was used to analyze factors associated with treatment time.
+RESULTS: After a mean of 18 months (min/max: 8/25), 78 patients (160 
+restorations) were assessed. Fifteen restorations (18%) failed in GH, and 11 
+(12%) in the RC, without a significant difference in survival (p = 0.904/Cox). 
+Retention loss was the most common reason for failure in both groups. 
+Restorations placed in older patients showed lower risk of failure [OR (95% CI): 
+0.90 (0.81-0.99) per year], while mandibular teeth showed higher risks [2.89 
+(1.00-8.31)]. Treatment time was significantly shorter for GH (mean ± SD: 8.6 ± 
+4.3 min) than RC (11.7 ± 5.7 min; p < 0.001).
+CONCLUSIONS: GH may be a suitable alternative to RC for restoring sNCCLs, 
+without any significant difference in survival between the two materials at this 
+interim analysis. In addition, placing ﻿GH restorations required less chairtime 
+than did placing RC restorations.
+
+DOI: 10.3290/j.jad.b2287831
+PMID: 34817964 [Indexed for MEDLINE]

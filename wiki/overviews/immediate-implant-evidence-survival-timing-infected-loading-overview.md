@@ -2,7 +2,7 @@
 title: "Immediate Implant Placement — Evidence Hub: Survival · Timing · Infected Sockets · Loading & Restoration"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-10-16
+date: 2026-11-17
 doi: N/A
 source: N/A
 category: overviews
@@ -51,6 +51,8 @@ source_wiki:
   - wiki/immediate-implant/molar-septum/atieh-2010-immediate-placement-loading-molar-implants-sr-ma.md
   - wiki/immediate-implant/esposito-2026-7mm-5mm-immediate-molar-rct.md
   - wiki/immediate-implant/yang-2026-immediate-dental-implants-insights-into.md
+  - wiki/immediate-implant/findler-2026-clinical-success-rates-of-dental.md
+  - wiki/immediate-implant/molar-septum/liu-2026-expanded-classification-for-immediate-molar.md
 relations:
   - type: extends
     target: implant-placement-timing-immediate-early-delayed
@@ -71,7 +73,7 @@ relations:
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 이 페이지는 즉시식립(immediate/Type 1 placement)의 5개 결정축 — 생존율·식립타이밍·감염소켓·부하/보철·환자체감(PROM) — 을 27편으로 종합한 근거 허브다. 특화 결정은 기존 [[overviews/implant-placement-timing-immediate-early-delayed]]·[[overviews/immediate-implant-infected-sites-decision]]로 link-out.
+> - 이 페이지는 즉시식립(immediate/Type 1 placement)의 5개 결정축 — 생존율·식립타이밍·감염소켓·부하/보철·환자체감(PROM) — 을 29편으로 종합한 근거 허브다. 특화 결정은 기존 [[overviews/implant-placement-timing-immediate-early-delayed]]·[[overviews/immediate-implant-infected-sites-decision]]로 link-out.
 > - **생존율의 새 기준점 = Gallucci 2026**(PROSPERO 갱신 SR, 140편·임플란트 10,456개, 2024.1까지): 식립×부하 9조합 전부의 가중누적생존율 산출 — Type 1A(즉시식립+즉시부하) 98.0%(SCV, 검증등급 최상), Type 1C(즉시식립+통상부하) 95.0%(SCV) 인 반면 **Type 1B(즉시식립+조기부하)는 91.6%(CD, 검증 미흡)** — 같은 즉시식립이라도 부하 타이밍에 따라 손실률이 **거의 4배** 갈린다(1A 2.0% vs 1B 8.4% 손실). 전신 Gallucci 2018(69편, 이 논문의 전신·직접 supersede 대상)이 확립한 Type1–4×A–C 분류체계 위에서 갱신된 수치.
 > - **즉시 vs 지연 생존 — 갈림은 해소됨(Mello 2017 superseded)**: Mello 2017은 **García-Sánchez 2022에 의해 완전 대체(full supersession, 2026-08-11)**. García-Sánchez 2022(RCT 6편 head-to-head)가 현행 기준 — **생존 유의차 없음** + 즉시가 1년 변연골·PES 우세. Mello 2017(관찰포함 30편)의 ~3%p 열세(p=.001)는 약한 관찰연구의 설계 편향이었으며, 방법론적 교훈으로만 남음.
 > - **해소는 독립 SR+MA 2편이 받친다**: Patel 2023(비교연구 10편 = RCT 6 + 비무작위 4, 즉시 341 vs 지연 359 임플란트)이 별도 검색·별도 저자진으로 **위험비 0.99(95% CI 0.96–1.02, p=0.44), I²=0%**, 총생존 즉시 97.4% vs 지연 97.5%를 냈다 — **이질성 0%**라 "무차이"가 통계적 검출력 부족이 아니라 연구 간 일관된 동등임을 뜻한다. Mello 2017의 열세를 재현하지 못한 SR+MA가 이제 둘이며, 두 SR+MA 모두 "생존율은 즉시 vs 지연의 결정 인자가 아니다"로 수렴한다.
@@ -89,16 +91,18 @@ relations:
 > - **구치부 즉시식립 후 early vs conventional 부하(Botros 2025, RCT, n=30 임플란트)**: 완전 가이드 플랩리스 즉시 구치부 임플란트에서 6주 early vs 3개월 conventional 부하 — 양군 생존율 100%, ISQ/DCA 무차이(p>0.05); 구치부에서도 early loading이 안전함을 RCT로 확인.
 > - **Yang 2026 코호트**(후향적, 1,513 즉시식립·781명, 10년 임플란트 생존 93.15%): 조기 실패 위험 — 남성(HR 2.48)·상악동 거상(HR 2.49)·상악 전치부(HR 3.15)·상악 구치부(HR 2.75; vs 하악 구치부). 매몰형 치유(submerged healing)가 조기 실패를 낮춤(HR 0.53) — **단 토크 <20–25 N·cm 시 매몰 선택이라 적응증 교란(confounding by indication) 있음**, 인과 해석 불가. 흡연 미수집.
 > - **당뇨 환자 즉시식립(Li 2026, SR+MA, 10편, 1,350명)**: 혈당 조절 여부와 무관하게 즉시식립 생존율 무차이(well-controlled RR=1.00, poorly-controlled RR=0.96, 양쪽 NS); 단 변연골소실(Marginal Bone Loss, MBL)·탐침 출혈(Bleeding on Probing, BOP)은 당뇨군에서 유의하게 높고 혈당 조절 불량할수록 악화(MBL MD=0.39mm, p<0.00001) — 즉시식립 가능하나 철저한 혈당 관리와 장기 monitoring 필수.
+> - **인구 수준 위험인자(Findler 2026, 후향적 국가 코호트, 임플란트 158,824개·환자 53,874명, 이스라엘)**: 동시 골이식 임플란트 45,715개의 임상 성공률 97.83%(실패 2.17%)로 전체 집단과 유사 — 골이식 자체가 실패를 높이지 않는 "안정화 가설" 지지. 그러나 **즉시식립은 독립 실패 위험인자**(실패 3.08% vs 조기/지연 2.07%, 오즈비(Odds Ratio, OR) 1.487, p<0.000), 실패의 70%가 1년 이내 발생; 남성(2.5% vs 1.9%)·상악(특히 상악 대구치 3.36%)·낮은 사회경제적 지위(Socioeconomic Status, SES; 3.07% vs 2.06%)도 위험 차원. RCT·SR의 "생존 무차이"에 대비되는 **실세계 등록자료의 기술 민감성 경고** — 행정 코딩 설계라 세부 교란 통제 제한.
 > - **심미부위 SR 기반선(Slagter 2014 SR 34편·Yan 2016 SR+MA 13편)**: 1년 생존율 97.1%·변연골소실(Marginal Bone Loss, MBL) 0.81 mm가 심미부위 즉시식립 인구 기준선; 배치×보철 타이밍 조합 간 MBL·유두·협측 유의차 없음(Yan) — Pommer 2021 무차이 결론을 SR 수준에서 재확인. Rieder 2014 RCT(n=48, 4군)는 조기배치+즉시보철(Early Placement + Immediate Restoration, EPIR)이 PES 유의 최고 — 방향성 신호지만 소규모.
 > - **부하 프로토콜 MBL 중립성 — SR+MA 기반 확인(Suarez 2012)**: 즉시/조기/관행부하 간 MBL 4쌍대비교 전부 유의차 없음 — Shibly 2010·Azarias 2025보다 이른 최초 풀링 확인. 신경지배 촉진(Huang 2014 SR: 부하 임플란트 = 비부하보다 높은 치주인대(Periodontal Ligament, PDL) 신경섬유밀도)이 즉시부하의 점막-치은 경계(Mucogingival Junction, MGJ) 위치 보존의 생물학적 근거.
 > - **구치부 즉시식립·부하 SR+MA(Atieh 2010)**: 즉시식립 99.0%·즉시부하 97.9% (구치부 전용, 2개 별도 분석) — Checchi 2017의 PES·변연골 불이 즉시식립의 생존 축까지 확장되지는 않음. 구치부에서 즉시식립 생존은 안전하나 심미는 별도 판단.
+> - **구치부 해부 기반 증례선택 분류(Liu 2026, 개념 개발 + 3라운드 델파이 합의 + 후향적 64건)**: Smith–Tarnow 중격 분류(A/B/C)에 치근와 정착(D 원위·M 근심·P 구개)을 더한 **6범주 분류**. Type A(완전 중격 봉입)가 가장 예측 가능(삽입토크(Insertion Torque, IT) >30 N/cm, 생존 >90%); Type P(구개 치근와)는 ISQ ≥60·초기 MBL 0.11–0.19mm(6–24개월)로 상악동 회피 옵션. 코호트 평균 IT 35±12 N/cm, ISQ 72±8→78±6(4주), 12개월 ΔMBL −0.4±0.3mm; type 분포 A12/B15/C14/D10/M8/P5. **예후 검증이 아닌 의사결정 보조** — 전향적 다기관 검증 필요. [[overviews/maxillary-molar-palatal-root-socket-iip]]의 Type P 근거를 강화.
 > - **전악 즉시부하 파일럿 RCT(Markovic 2024)**: 즉시 vs 조기부하 2년 — ISQ 동등(p>0.268)·MBL 1mm 미만·생존 91.7%; 소규모 파일럿이지만 Azarias 2025 서술 합성에 1차 RCT 데이터 추가.
 > - **근거 한계**: 최신 이탈리아 컨소시엄 RCT 다수가 초록전용 — pooled 수치는 방향성으로 해석. 가장 약한 지점이 하필 임상적으로 가장 중요한 곳(즉시 vs 지연 effect size, 감염소켓 프로토콜, 장기 데이터).
 > - **임상 함의**: 생존율 논쟁의 실무 기준은 이제 Gallucci 2026 — Type 1A/1C는 검증된 고생존, **Type 1B(즉시식립+조기부하)는 피하거나 신중히**. 부위 특이성 확인(전치부 표준직경 vs 구치부 광경직경은 반대 결론). 감염소켓은 무외상·debridement·1차안정성 3요소 하에 선택적 시행. 전악 즉시부하는 중등도 안정성으로 가능, 부하 프로토콜은 배치 타이밍과 별개로 판단, 보철재료 선택은 골결과에 영향 없음, 환자 선호는 결정을 주도하지 않는다.
 
 ## Three-line Summary
 
-Evidence hub over 27 papers spanning immediate (Type 1) placement's five decision axes — survival, placement/loading timing, infected sockets, loading/restoration, and patient-reported experience: the current reference for the survival question is Gallucci 2026 (PROSPERO-updated SR, 140 studies, 10,456 implants), whose 9-combination weighted-survival/validation-tier table shows Type 1A (immediate placement + immediate loading) at a validated 98.0% but **Type 1B (immediate placement + early loading) at only 91.6%, still under-validated** — roughly a 4-fold difference in implant loss hiding inside "immediate placement" depending on loading timing alone.
+Evidence hub over 29 papers spanning immediate (Type 1) placement's five decision axes — survival, placement/loading timing, infected sockets, loading/restoration, and patient-reported experience: the current reference for the survival question is Gallucci 2026 (PROSPERO-updated SR, 140 studies, 10,456 implants), whose 9-combination weighted-survival/validation-tier table shows Type 1A (immediate placement + immediate loading) at a validated 98.0% but **Type 1B (immediate placement + early loading) at only 91.6%, still under-validated** — roughly a 4-fold difference in implant loss hiding inside "immediate placement" depending on loading timing alone.
 
 The immediate-vs-delayed survival conflict is now resolved, and by two independent SR+MAs rather than one: Mello 2017 (30-study, observational-inclusive, ~3-point penalty) has been **fully superseded by García-Sánchez 2022** (August 2026) — restrict to RCTs and the penalty disappears — while Patel 2023 reaches the same verdict from a separate search and author group (10 comparative studies, RR 0.99, 95% CI 0.96–1.02, **I²=0%**, 97.4% vs 97.5%), the zero heterogeneity meaning this is consistent equivalence rather than an underpowered null; Mello 2017 survives only as a design-sensitivity lesson, and the same trade-off shape reappears **within a single 210-patient 3-arm RCT** (Felice 2016 / Esposito 2017): immediate and immediate-delayed (6-week) placement win significantly on bone level and PES over delayed (4-month) placement, while showing a non-significant but persistent higher failure trend (6.0–6.2% vs 1.6%, stable from 4 months to 1 year). Site and diameter can flip the esthetic direction entirely — Checchi 2017's molar, wide-diameter immediate RCT loses decisively on PES and marginal bone to delayed ridge-preservation placement, the mirror image of Puisys 2022's anterior single-tooth RCT (comparable PES, small mucosal gain for immediate, ~50% less chair time).
 
@@ -106,7 +110,7 @@ Loading protocol is a variable distinct from placement timing — Shibly 2010's 
 
 ## 세줄요약
 
-즉시식립(Type 1)의 5개 결정축(생존·타이밍·감염소켓·부하/보철·환자체감)을 27편으로 종합한 허브: 생존율의 새 기준은 Gallucci 2026(PROSPERO 갱신 SR, 140편·10,456임플란트) — 9조합 가중생존율에서 Type 1A(즉시+즉시부하) 98.0%(검증됨) 대비 **Type 1B(즉시+조기부하) 91.6%(미검증)**로 손실률 약 4배 차이.
+즉시식립(Type 1)의 5개 결정축(생존·타이밍·감염소켓·부하/보철·환자체감)을 29편으로 종합한 허브: 생존율의 새 기준은 Gallucci 2026(PROSPERO 갱신 SR, 140편·10,456임플란트) — 9조합 가중생존율에서 Type 1A(즉시+즉시부하) 98.0%(검증됨) 대비 **Type 1B(즉시+조기부하) 91.6%(미검증)**로 손실률 약 4배 차이.
 
 즉시 vs 지연 생존 갈등은 해소: Mello 2017(관찰포함 30편 ~3%p 열세)은 **García-Sánchez 2022에 의해 완전 superseded**(2026-08) — RCT만 보면 생존 무차이이고 설계 편향이 원인이며, 독립 SR+MA인 Patel 2023(비교연구 10편, 위험비 0.99, I²=0%, 97.4% vs 97.5%)이 이질성 0%로 같은 결론을 재확인한다. 동일한 트레이드오프(골·PES 우세, 실패율 비유의 증가)가 **하나의 210명 3군 RCT 내부**(Felice 2016/Esposito 2017)에서도 재현 — 즉시·즉시지연이 골·PES는 유의 우위이나 실패율은 비유의하게 더 높은 경향(4개월→1년 안정). 부위·직경이 방향을 뒤집기도 함 — [[immediate-implant/checchi-2017-wide-diameter-immediate-post-extractive]](구치·광경직경)은 지연군이 PES·변연골 모두 우위([[immediate-implant/puisys-2022-immediate-implant-placement-vs-early]] 전치부와 정반대).
 
@@ -201,7 +205,7 @@ Read together, the PROM evidence converges with the clinical evidence on where t
 
 ## Methodology
 
-Narrative synthesis (no new pooling; heterogeneous designs). Base (27): 1 NMA (Qian 2024 — anterior maxillary placement × loading), 8 SR/SR+MA/SRs on survival, timing, and infected sockets (García-Sánchez, Patel, Mello [superseded], Pommer, Lang [superseded], Gallucci 2026, Gallucci 2018, Pranckeviciene 2024, Ickroth 2025), 2 further SRs on patient-reported outcomes (Gotfredsen, Huynh-Ba), 1 scoping review (Espada-Salgado), 2 narrative reviews (Azarias, Thoma 2026), 8 RCTs (Aldebes, Puisys, Checchi, Felice/Esposito — same cohort at two timepoints — Shibly ×2, Yang 2026), 2 prospective clinical cohorts (Zhang, Elaskary). A substantial share — particularly the Italian-consortium RCTs (Felice, Esposito, Checchi) — are abstract-only; directionality is captured but some effect sizes are not independently recoverable. All figures quoted verbatim from source pages.
+Narrative synthesis (no new pooling; heterogeneous designs). Base (29): 1 NMA (Qian 2024 — anterior maxillary placement × loading), 8 SR/SR+MA/SRs on survival, timing, and infected sockets (García-Sánchez, Patel, Mello [superseded], Pommer, Lang [superseded], Gallucci 2026, Gallucci 2018, Pranckeviciene 2024, Ickroth 2025), 2 further SRs on patient-reported outcomes (Gotfredsen, Huynh-Ba), 1 scoping review (Espada-Salgado), 2 narrative reviews (Azarias, Thoma 2026), 8 RCTs (Aldebes, Puisys, Checchi, Felice/Esposito — same cohort at two timepoints — Shibly ×2, Yang 2026), 2 prospective clinical cohorts (Zhang, Elaskary), 1 large national retrospective cohort (Findler 2026 — 158,824 implants, GEE-adjusted), 1 concept-development/Delphi-consensus classification study with exploratory retrospective arm (Liu 2026 — 64 molars). A substantial share — particularly the Italian-consortium RCTs (Felice, Esposito, Checchi) — are abstract-only; directionality is captured but some effect sizes are not independently recoverable. All figures quoted verbatim from source pages.
 
 ## Results
 
@@ -257,6 +261,8 @@ Narrative synthesis (no new pooling; heterogeneous designs). Base (27): 1 NMA (Q
 - [[immediate-implant/esthetic-soft-tissue/rieder-2014-placement-restoration-timing-esthetic-outcome-rct]] — RCT (n=48, 4 arms): early placement + immediate restoration (EPIR) yielded significantly highest PES among four timing combinations (rct, 2014)
 - [[immediate-implant/molar-septum/atieh-2010-immediate-placement-loading-molar-implants-sr-ma]] — SR+MA (molar-specific, two analyses): immediate placement 99.0% survival (9 studies, 1,013 implants); immediate loading 97.9% (7 studies, 188 implants); no significant MBL differences — confirms high-survival pattern extends to molars (sr+ma, 2010)
 - [[immediate-implant/yang-2026-immediate-dental-implants-insights-into]] — Retrospective cohort (1,513 IIP, 781 patients, China, 10-yr survival 93.15%): early failure elevated by maxillary anterior/posterior sites and sinus elevation; submerged healing HR 0.53 — confounding by indication (assigned at low torque); smoking not collected (retrospective, 2026)
+- [[immediate-implant/findler-2026-clinical-success-rates-of-dental]] — National retrospective cohort (158,824 implants / 53,874 patients, GEE-adjusted): augmented success 97.83%; **immediate placement an independent failure risk indicator (3.08% vs 2.07%, OR 1.487, p<0.000)**; 70% of failures within 1 yr; male/maxillary/low-SES higher risk — real-world registry counterweight to the RCT/SR no-difference verdict (retrospective, 2026)
+- [[immediate-implant/molar-septum/liu-2026-expanded-classification-for-immediate-molar]] — Concept-development + 3-round Delphi consensus + exploratory retrospective (64 molars): six-category anatomy-based IIP classification extending Smith–Tarnow (A/B/C + root-socket D/M/P); Type A IT>30 N/cm & survival>90%, Type P (palatal socket) ISQ≥60 & early MBL 0.11–0.19 mm — decision support, not outcome validation (consensus, 2026)
 
 ## Related Overviews
 
@@ -266,3 +272,4 @@ Narrative synthesis (no new pooling; heterogeneous designs). Base (27): 1 NMA (Q
 - [[overviews/immediate-vs-delayed-ridge-preservation-timing-overview]] — timing vs ridge preservation
 - [[overviews/type-1a-immediate-placement-immediate-loading-decision]] — Type 1A immediate placement + immediate loading
 - [[overviews/immediate-implant-placement-loading-timing-evidence-overview]] — earlier placement × loading protocol synthesis built on the same Gallucci/Shibly/Felice/Checchi core; this hub extends it with the survival SR+MA layer and the infected-socket axis
+- [[overviews/maxillary-molar-palatal-root-socket-iip]] — maxillary-molar palatal-root socket anchorage; Liu 2026's Type P category supplies a consensus-backed classification layer for this decision

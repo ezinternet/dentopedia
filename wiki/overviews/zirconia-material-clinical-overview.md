@@ -33,6 +33,7 @@ tags: [zirconia, y-tzp, monolithic-zirconia, ltd, low-temperature-degradation, c
 > - **캔틸레버 IRFDP 5년 (Kasem 2026, RCT n=47)**: 생존율 91.7%, 성공률 81.7%; 지르코니아=연결부 파절(비수복성), FRC=수복 가능한 변형 — 재료가 실패 모드를 결정, 생존율은 동등.
 > - **실험실 하중 지지능 (Waldecker 2026, in-vitro)**: WR 1,025–1,617 N > IR 684–1,216 N; 3Y-TZP/5Y-PSZ 다층형(중심 네스팅) > 5Y-PSZ 단독; 인공 노화 영향 없음 — 5Y-PSZ 단독 RBFPD는 하중 안전역 낮아 주의.
 > - **임플란트 지지 보철 재료 비교 — 3축 RCT (2026)**: ① Kowar 2026 (3-arm FDP, 1yr, n=63): 모놀리식 지르코니아(Monolithic Zirconia, MZ) 1년 생존 100%·칩핑 0% vs 베니어 지르코니아(Veneered Zirconia, VZ) 95%·5% vs 티타늄-세라믹(Ti-Ceramic, TC) 95%·11.1% — MBL 전 그룹 NS; ② Yi 2026 (split-mouth RCT, 3yr, n=80): 이규산리튬(Lithium Disilicate, LS₂) vs ZrO₂ — MBL 비열등성 확인(차이 0.26 mm, 95% CI -0.17 to 0.70); 크라운 파절·디본딩 0건; ③ Pachiou 2026 (MonoZR vs 금속-도재 보철(Porcelain-Fused-to-Metal, PFM) 3-unit iFDP RCT, 3yr, n=55/45 완료, Zurich): MZ 칩핑 **0% vs PFM 13%** (p=0.11 표본 부족); 보철 실패 1건/군=임플란트 상실(재료 탓 아님); MBL NS — MonoZR은 **다수치 iFDP에서도 칩핑 없는 PFM 대안** 확인. 임플란트 지지 수복에서 재료 선택은 심미·비용 기준으로 유연 가능.
+> - **5편 추가(2026-11-10) — 접착 전처리·제작 방식·IRFDP 장기 성적**: ① 플라스마는 무처리 대비 전단결합강도 (Shear Bond Strength, SBS)를 크게 높이지만(SMD 3.04) 샌드블라스팅과는 1차 분석에서 차이 없음(Shaikh 2026, in-vitro 14편). ② 저온 대기압 플라스마 (Cold Atmospheric Plasma, CAP)≒공기입자마모 (Airborne-Particle Abrasion, APA), **처리를 겹치면 오히려 떨어지고** 10-MDP 프라이머가 지배 변수(Alnazzawi 2026). ③ 탄화규소(SiC) 버는 APA의 대체도 보조도 못 됨 — 37.0 vs 20.8 vs 24.9 MPa(Aburawa 2026). ④ 밀링이 3D 프린팅보다 변연 적합 13.12 µm 우수, 내면 적합은 동등(Sengottaiyan 2026). ⑤ 인레이 유지형 고정성 보철 (Inlay-Retained FDP, IRFDP) 10년 생존 89%·성공 70.4%, 베니어 치핑 20.1%(Chaar 2023).
 
 ## Three-line Summary
 
@@ -378,3 +379,29 @@ When veneered zirconia chips or fractures, intraoral repair is the first-line op
 - [[prosthetic-materials/kowar-2026-monolithic-veneered-zirconia-titanium-ceramic-fdp-rct]] — 3-arm prospective RCT (n=63 FDPs, 1yr): MZ 100%/0% chipping > VZ 95%/5% > TC 95%/11.1%; MBL NS; 5yr data pending
 - [[prosthetic-materials/yi-2026-split-mouth-rct-zirconia-lithium-disilicate]] — split-mouth RCT (n=80 implants, 3yr): LS₂ non-inferior to ZrO₂ for MBL (diff 0.26 mm NS); 0 fractures/chipping/debonding; LS₂ valid esthetic alternative
 - [[prosthetic-materials/pachiou-2026-monolithic-zirconia-pfm-implant-fdp-rct]] — RCT (n=55/45 completing, 3yr, Zurich): MonoZR 0% chipping vs PFM 13% (p=0.11 underpowered); 1 prosthesis failure per group = implant loss; MBL NS; MonoZR chipping-free PFM alternative for multi-unit iFDP
+
+## Evidence Update — Bonding Pretreatment, Manufacturing Route, and Long-Term IRFDPs (2026-11-10)
+
+### Surface pretreatment: more steps is not better
+
+| Paper | Design | Finding |
+|---|---|---|
+| [[dental-materials/zirconia/shaikh-2026-influence-of-plasma-treatment]] | SR+MA, 14 in-vitro studies | Plasma vs untreated zirconia: SMD 3.04 (95% CI 1.76–4.32; I²=89%). Plasma vs sandblasting: not significant in the primary analysis (SMD 0.89), significant only after excluding one outlier (SMD 1.49, p=0.01). Plasma + 10-MDP primer gave the best results. |
+| [[dental-materials/zirconia/alnazzawi-2026-role-of-cold-atmospheric]] | In vitro, n=200, 3Y-TZP and 5YSZ bonded to dentin, 10,000 thermocycles | CAP and APA were equivalent (~17 MPa without primer, ~26–27 MPa with). Zirconia type made no difference. Combinations (APA+CAP, HF+CAP) scored *lower* than single treatments. MDP primer was the dominant variable. |
+| [[dental-materials/zirconia/aburawa-2026-effect-of-a-silicon-carbide]] | In-vitro pilot, n=30, 4Y-PSZ, 5,000 thermocycles | APA 37.0 MPa vs SiC bur 20.8 MPa vs APA + SiC bur 24.9 MPa (both p<0.001 against APA). |
+
+Three independent papers converge on one rule. A mechanical or energetic activation step (APA or plasma) plus a phosphate-monomer primer is the working protocol, and stacking a second surface treatment on top of the first degrades the bond rather than adding to it: APA followed by plasma in Alnazzawi, APA followed by a SiC bur in Aburawa. The likely reason given in both is that the second step disturbs the surface the first one produced. Plasma is best read as an alternative to air abrasion where abrasion is undesirable, not as an upgrade to it; the meta-analytic advantage over sandblasting depends on dropping an outlier.
+
+The one combination that does help is chemical, not mechanical: plasma with 10-MDP primer (Shaikh), which agrees with Alnazzawi's finding that the primer matters more than the choice between CAP and APA.
+
+### Manufacturing route
+
+[[prosthetic-materials/sengottaiyan-2026-zirconia-milling-vs-3d-printing-marginal-fit]] pooled 9 in-vitro studies: milled zirconia had better marginal fit than 3D-printed (MD −13.12 µm, P<.001) with equivalent internal adaptation (P=.30). Both were clinically acceptable. Heterogeneity was high (I² ≈ 92%) and the data are single crowns on the bench, so this is a small, consistent difference of uncertain clinical weight.
+
+### Inlay-retained FDPs at ten years
+
+[[inlay/chaar-2023-long-term-zirconia-ceramic-inlay-retained-fdps]] followed 30 three-unit zirconia IRFDPs prospectively for a mean 10.6 years (up to 15.4). Ten-year cumulative survival was 89% and success 70.4%; veneering-ceramic chipping (20.1%) was the dominant complication. The design used a short retainer-wing bevel within enamel, bonded with a phosphate-monomer resin after air abrasion.
+
+This is primary long-term data behind the between-design comparison already summarised above. The gap between survival and success is the familiar veneered-zirconia pattern on this page: the framework survives and the veneer chips. The bonding protocol that kept these restorations in place is the same APA + phosphate monomer rule the three pretreatment papers support.
+
+**Limit.** All four bonding and fit papers are in vitro. Chaar is a single-centre series of 30.

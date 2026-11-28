@@ -19,7 +19,7 @@ relations:
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 7편 종합. 질문은 "어떤 이식재를 쓸까"가 아니라 "**골을 어디서 채취할까**" — 기존 오버뷰들이 다루지 않은 공여부(Donor Site) 선택 축.
+> - 8편 종합(공여부 7편 + GBR 대안 맥락 Benic 2014). 질문은 "어떤 이식재를 쓸까"가 아니라 "**골을 어디서 채취할까**" — 기존 오버뷰들이 다루지 않은 공여부(Donor Site) 선택 축.
 > - **1차 위계는 명확하다: 구강내(Intraoral) > 구외(Extraoral)**. 구강내 자가골(IOG)이 장골능(ICG) 대비 전 추적시점(6~120개월) 생존율 우위, 24개월에서 격차 최대(98.2% vs 85.9%, p<0.001, McKenna 2022 SR+MA 23편). Donkiewicz 2021(SR 100편)도 자가골 블록(AUBB) 하위군에서 구강내>구외 유의(p=0.0003) 재확인.
 > - **자가골 vs 동종골은 전체적으로 동등**(96.23% vs 97.66%, p=0.54 NS, Donkiewicz 2021) — 공여부 회피가 우선이면 동종골 블록(ALBB)이 실행 가능한 대안. 단 ALBB도 수직증대·신선동결처리 시 생존율 하락.
 > - **장골능(ICG)은 "열등"이 아니라 "최후 수단"**: Sethi 2020(173명·190그래프트·869임플란트·최장 23년)는 95%±2.7% 장기 생존을 보고 — 대형 결손에서 구강내로 불충분할 때 여전히 유효한 옵션. 공여부 합병증도 혈청종(seroma)뿐, 보행장애·감각이상 보고 없음(McKenna 2022의 "합병증 흔함" 서술과 대비되는 저이환 코호트).
@@ -33,15 +33,15 @@ relations:
 
 ## Three-line Summary
 
-Synthesis of 7 papers on autogenous bone graft **donor site** selection — a question distinct from graft *material* choice: intraoral sources consistently outperform extraoral (iliac crest) on implant survival at every follow-up point (98.2% vs 85.9% at 24 months, p<0.001, McKenna 2022 SR+MA) and carry far lower donor-site morbidity, while autogenous and allogeneic blocks are broadly equivalent overall (96.23% vs 97.66%, NS, Donkiewicz 2021 SR).
+Synthesis of 8 papers on autogenous bone graft **donor site** selection — a question distinct from graft *material* choice: intraoral sources consistently outperform extraoral (iliac crest) on implant survival at every follow-up point (98.2% vs 85.9% at 24 months, p<0.001, McKenna 2022 SR+MA) and carry far lower donor-site morbidity, while autogenous and allogeneic blocks are broadly equivalent overall (96.23% vs 97.66%, NS, Donkiewicz 2021 SR).
 
 Iliac crest remains a viable last-resort option for large defects intraoral sites cannot supply — Sethi 2020's 25-year, 869-implant cohort reports 95%±2.7% long-term survival with only seroma as donor-site morbidity — but the emerging frontier is not choosing among conventional harvest sites at all: repurposing surgical byproducts (a sinus lateral bony window, a 16-year-old previously-grafted sinus core) as autogenous donor material eliminates the second surgical site entirely, and the retromolar donor site itself heals 89.2% spontaneously by 12 months, supporting sequential re-harvest.
 
-Evidence weight is uneven — the site-hierarchy conclusions rest on strong SR/SR+MA evidence (McKenna, Donkiewicz) and a large retrospective cohort (Sethi), while the repurposing concept rests on small prospective/case-report data (Daoud, Zufia, Park×2) that should be read as proof-of-concept, not yet practice-changing volume.
+Evidence weight is uneven — the site-hierarchy conclusions rest on strong SR/SR+MA evidence (McKenna, Donkiewicz) and a large retrospective cohort (Sethi), while the repurposing concept rests on small prospective/case-report data (Daoud, Zufia, Park×2) that should be read as proof-of-concept, not yet practice-changing volume. Benic 2014 (Periodontology 2000 narrative review) provides the foundational GBR alternative paradigm: native collagen membrane+DBBM for standard horizontal augmentation, autogenous block for large defects, Ti-reinforced PTFE for Class 3 dehiscence — contextualizing when autogenous donor-site selection becomes necessary versus when GBR alone suffices.
 
 ## 세줄요약
 
-자가골이식 **공여부** 선택(재료 선택과는 다른 축) 7편 종합 — 구강내 공여부가 전 추적시점에서 장골능(구외)보다 임플란트 생존율 우수(24개월 98.2% vs 85.9%, p<0.001, McKenna 2022 SR+MA), 자가골 vs 동종골 블록은 전체적으로 동등(96.23% vs 97.66% NS, Donkiewicz 2021 SR).
+자가골이식 **공여부** 선택(재료 선택과는 다른 축) 8편 종합 — 구강내 공여부가 전 추적시점에서 장골능(구외)보다 임플란트 생존율 우수(24개월 98.2% vs 85.9%, p<0.001, McKenna 2022 SR+MA), 자가골 vs 동종골 블록은 전체적으로 동등(96.23% vs 97.66% NS, Donkiewicz 2021 SR).
 
 장골능(ICG)은 구강내로 부족한 대형 결손의 최후수단으로 여전히 유효(Sethi 2020, 25년·869임플란트, 생존 95%±2.7%, 합병증은 혈청종뿐)하나, 진짜 신흥 프론티어는 재래식 공여부 사이의 선택이 아니라 **수술 부산물의 재활용** — 상악동 측방골창·16년 전 이식 상악동 골코어를 재채취해 추가 공여부를 아예 없애는 것이며, 후구치 공여부 자체도 12개월에 89.2% 자발 치유돼 순차 재채취 가능성을 시사한다.
 
@@ -49,7 +49,7 @@ Evidence weight is uneven — the site-hierarchy conclusions rest on strong SR/S
 
 ## Thesis
 
-Most bone-regeneration synthesis pages in this wiki ask "which graft *material*" — DBBM vs BCP vs allograft. This overview asks a prior, distinct question: when the graft is autogenous, **where does the surgeon cut it from?** The seven papers held here answer that question at two very different levels of maturity.
+Most bone-regeneration synthesis pages in this wiki ask "which graft *material*" — DBBM vs BCP vs allograft. This overview asks a prior, distinct question: when the graft is autogenous, **where does the surgeon cut it from?** The eight papers held here (seven on donor site, plus Benic 2014 as GBR-alternative context) answer that question at two very different levels of maturity.
 
 At the level of settled evidence, the answer is a clean hierarchy: intraoral donor sites beat extraoral (iliac crest) on both implant survival and patient morbidity, and this hierarchy is now supported by SR+MA-level data (McKenna 2022) rather than tradition alone. Within the extraoral option, long-term outcome data (Sethi 2020) shows iliac crest is not obsolete — it remains a durable option when intraoral volume is insufficient — but its adoption should be reserved, not routine, given the well-documented (if in Sethi's cohort, mild) donor-site burden.
 

@@ -35,7 +35,7 @@ Synthesis of two foundational narrative reviews (Koshy 2015; Ballo 2011) providi
 
 The molecular pivot point is the CXCR4/SDF-1α axis: anodically oxidized surfaces upregulate CXCR4 11-fold at 12 h vs machined surfaces, shifting the early inflammatory profile from TNF-α/IL-1β-dominated fibrinous response toward MSC recruitment and accelerated bone formation — the mechanistic WHY behind nanostructured/oxidized surface superiority.
 
-HA coatings provide the highest early BIC via additive topology but carry delamination risk that undercuts long-term outcomes; nanotopography (< 1 µm) governs protein adsorption and fibronectin conformation independently of micro-roughness, establishing hierarchical multi-scale optimization as the theoretical ideal.
+HA coatings provide the highest early BIC via additive topology but carry delamination risk that undercuts long-term outcomes; nanotopography (< 1 µm) governs protein adsorption and fibronectin conformation independently of micro-roughness, establishing hierarchical multi-scale optimization as the theoretical ideal; this molecular framework directly explains UV photofunctionalization's clinical benefit — hydrocarbon contamination (biological aging) progressively occludes the same CXCR4/fibronectin protein-adsorption layer that hierarchical nanostructured surfaces optimize, and UV irradiation reverses this by restoring surface energy and free radical removal.
 
 ## 세줄요약
 

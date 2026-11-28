@@ -18,6 +18,22 @@ Cochrane SR (2 RCTs, n=71+20, 3yr): zygomatic implants probably reduce implant f
 ## 한줄요약
 코크란 SR (RCT 2편, 3년): 지그마틱 임플란트 (지그마 임플란트, Zygomatic Implant)는 골이식 통상 임플란트 대비 임플란트 실패를 줄이고 재활 기간을 단축하지만(1.3일 vs 444일) 합병증은 증가시킴.
 
+## Three-line Summary
+
+Visconti et al. (2026) published the fourth update (pub4) of the Cochrane systematic review on zygomatic implants for severely atrophic edentulous maxillae, now including the first RCT evidence directly comparing zygomatic implants against conventional implants placed in grafted bone. Two RCTs were included (n=71 parallel-group RCT and n=20 split-mouth RCT), both with 3-year follow-up. The primary clinical comparison—zygomatic versus grafted conventional implants—showed moderate-certainty evidence for reduced implant failures (OR 0.23) and dramatically shorter time to rehabilitation (1.3 days vs 444 days) with zygomatic implants.
+
+However, zygomatic implants also showed moderate-certainty evidence for significantly more complications than grafted conventional implants (OR 4.53; approximately 80% vs 50% complication rate), without a significant difference in patient satisfaction. The comparison of drilling techniques (piezoelectric vs rotary) for zygomatic implant site preparation showed moderate-certainty evidence for no meaningful outcome difference, though rotary drilling was moderately faster (9 minutes less operative time).
+
+The evidence base remains limited to 2 small RCTs with serious imprecision throughout. The near-halving of implant failure rates and the elimination of an extended grafting timeline (from 444 days to 1.3 days) represent meaningful clinical advantages for high-volume atrophic maxilla rehabilitation, balanced against a substantially higher complication burden that clinicians and patients must weigh in treatment planning. Longer-term follow-up and larger RCTs are needed.
+
+## 세줄요약
+
+비스콘티 등(2026)은 고도 무치악 상악 재활에서 지그마 임플란트(Zygomatic Implant)를 골이식 후 통상 임플란트와 직접 비교한 최초의 RCT 근거를 포함한 코크란 SR 4판(pub4)을 발표했다. RCT 2편(n=71 평행군, n=20 split-mouth; 3년 추적)이 포함됐다.
+
+지그마 임플란트 대 골이식 통상 임플란트 비교(3년): 임플란트 실패 감소(OR 0.23, 중등도 확신도), 재활 시간 대폭 단축(1.3일 vs 444일, 중등도 확신도). 그러나 합병증 발생률 유의하게 증가(OR 4.53, ~80% vs ~50%, 중등도 확신도). 환자 만족도는 차이 없음(낮은 확신도).
+
+압전 수술 대 회전식 드릴 비교: 결과 차이 없음(낮은 확신도); 회전식이 수술 시간 9분 단축(중등도). 단 2편 소규모 RCT로 근거 수준이 제한적이지만, 골이식 과정(444일)을 1.3일로 단축하는 임상적 이점은 명확하다—합병증 위험 증가와의 균형이 치료 계획의 핵심 쟁점이다.
+
 ## 1. Document Information
 - Journal: Cochrane Database of Systematic Reviews, 2026
 - DOI: 10.1002/14651858.CD004151.pub4 (pub4 — previously pub3: 2013)

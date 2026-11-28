@@ -41,6 +41,7 @@ source_papers:
   - periodontics/oral-hygiene-instruction/saraf-2024-comparative-evaluation-learning-outcome-toothbrushing
   - periodontics/oral-hygiene-instruction/holloway-2022-pilot-study-evaluate-impact-digital
   - behavioral-dentistry/motivational-interviewing/valeriani-2026-influence-psychological-factors-biofilm-related
+  - periodontics/omalley-2026-behavioural-interventions-oral-hygiene
 evidence_level: synthesis
 source: synthesis
 ---
@@ -64,10 +65,11 @@ source: synthesis
 > - **근거 등급**: TBI 전달방식 우월성은 전반적으로 낮음~매우 낮음 (소표본 n=22–62, 추적 8일~3개월, 초록만 4편). 임상 기본값은 착색제 기반 개별 교육 + 반복 강화, 도구 교체보다 피드백·표적화 추가가 합리적. [확인]
 > - **교정 환자**: 전동칫솔(진동회전형)이 교정기에서 특히 효과적 (Luo 2026, Liu 2026). [확인]
 > - **노인**: 전동칫솔 효과 유의하지 않음 (악력·손재주 한계); 개별화된 접근 필요. [확인]
+> - **코크란 SR 추가(2026-11-10, O'Malley 2026, RCT 25편·성인 1,422명)**: 치주질환 성인의 구강위생 개선을 위한 행동 중재(모바일 앱·동기강화 면담·개인화 조언·구내 카메라·일지)는 **전 종점에서 근거확실성 매우 낮음** — 효과가 있다고도 없다고도 결론 못 함. 행동변화기법 (Behaviour Change Technique, BCT) 분류는 Michie 2013 체계. 구강위생교육을 하지 말라는 뜻이 아니라, 어떤 '전달 방식'이 더 낫다는 주장을 지금 근거로는 할 수 없다는 뜻.
 
 ## Three-line Summary
 
-Synthesis of 35 papers on oral hygiene instruction: electric toothbrushes outperform manual for plaque and gingivitis, with oscillating-rotating technology ranking first (SUCRA 89.2% for plaque, 86.5% for gingivitis; Luo 2026 NMA, 19 RCTs); no specific manual toothbrushing technique has proven superior (Rajwani 2020 SR, 13 studies).
+Synthesis of 36 papers on oral hygiene instruction: electric toothbrushes outperform manual for plaque and gingivitis, with oscillating-rotating technology ranking first (SUCRA 89.2% for plaque, 86.5% for gingivitis; Luo 2026 NMA, 19 RCTs); no specific manual toothbrushing technique has proven superior (Rajwani 2020 SR, 13 studies).
 
 Chemical agents in dentifrices drive antiplaque/antigingivitis benefit — triclosan-copolymer and stannous fluoride have strong evidence, chlorhexidine weak evidence, while the dentifrice vehicle itself adds no mechanical plaque-removal benefit (Valkenburg 2019 meta-review); CPC mouthwash is non-inferior to CHX in brushing situations but CHX remains superior for non-brushing plaque control (Windhorst 2025 SR+MA).
 
@@ -75,7 +77,7 @@ Oral hygiene education is most effective when repeated, personalized, and supple
 
 ## 세줄요약
 
-구강위생교육 35편 종합: 전동칫솔이 수동보다 치면세균막·치은염 감소에서 우수하며, 진동회전형이 1위 (SUCRA 89.2%, 86.5%; Luo 2026 NMA, 19 RCT); 특정 수동 칫솔질 기법의 우월성 미확인 (Rajwani 2020 SR).
+구강위생교육 36편 종합: 전동칫솔이 수동보다 치면세균막·치은염 감소에서 우수하며, 진동회전형이 1위 (SUCRA 89.2%, 86.5%; Luo 2026 NMA, 19 RCT); 특정 수동 칫솔질 기법의 우월성 미확인 (Rajwani 2020 SR).
 
 치약의 화학적 활성 성분이 항치태·항치은염 효과를 이끔 — 트리클로산·주석불화물은 강한 근거, 클로르헥시딘은 약한 근거; 치약 자체는 기계적 치태 제거에 부가효과 없음 (Valkenburg 2019); CPC 구강세정제는 양치 시 CHX와 동등하나, 비양치 시 CHX가 우수 (Windhorst 2025 SR+MA).
 
@@ -326,3 +328,13 @@ Oral hygiene education is most effective when repeated, personalized, and supple
 - [[non-surgical-periodontal-therapy-overview]] — 비수술 치주치료
 - [[drug-antibiotic-stewardship-overview]] — 항생제 스튜어드십
 - [[professional-biofilm-management-gbt-air-polishing-overview]] — 전문가 바이오필름 관리
+
+## Evidence Update — Cochrane on Behavioural Interventions: Very Low Certainty Throughout (2026-11-10)
+
+[[periodontics/omalley-2026-behavioural-interventions-oral-hygiene]] is a Cochrane systematic review of 25 RCTs (1,422 adults with periodontitis or gingivitis) testing behavioural interventions to improve oral hygiene: mobile apps, motivational interviewing, personalised advice, intra-oral cameras, diary-keeping. Interventions were coded with the Michie 2013 behaviour-change-technique taxonomy.
+
+All evidence was judged very low certainty, for risk of bias, inconsistency and imprecision. The review cannot conclude whether these interventions work.
+
+**What this does and does not undercut.** It does not show that oral hygiene instruction is ineffective. The mechanical and technique evidence on this page stands on its own trials. What it removes is the basis for preferring one delivery method over another: an app, a camera or a motivational-interviewing protocol cannot currently be recommended over plain personalised instruction on evidence. Where this page or [[overviews/behavioral-dentistry-overview]] describes behavioural techniques, they should be read as reasonable practice, not as demonstrated effect.
+
+**Why the trials fail.** Small samples and heterogeneous interventions measured with different plaque and bleeding indices. The taxonomy coding is the review's lasting contribution, since it makes future trials comparable.

@@ -147,7 +147,7 @@ title: "이번 주 핵심 근거 카드 {digest_date}"
 type: interactive
 date: {digest_date}
 status: done
-category: meta
+category: weekly-card
 agenda: agenda/2026-07-15_audit-to-briefing-bridge.md
 source_wiki: []
 ---

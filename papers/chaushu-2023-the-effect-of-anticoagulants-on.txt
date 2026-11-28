@@ -1,0 +1,97 @@
+1. Introduction
+
+Implant dentistry is a safe and current therapeutic option for patients who are totally or partially edentulous. Research into adverse events endangering osseointegration has appeared more and more in the existing literature []. Dental implants have a 10-year survival rate of 90–95 percent. Typically, failure occurs because of implant loosening, fracture, or infection. Adverse events may include pain, and on rare occasions, neuropathy [].
+
+The time of implant failure occurrence is used to categorize failures []. Early implant failure (EIF) occurs <1 year from abutment connection. Following occlusal loading, late implant (>1 year loading) failures occur. They are thought to develop as a result of a breakdown of established osseointegration [].
+
+Reports on the impact of systemic disorders on implant therapy may be found in the dental literature. Still, many oral and systemic diseases have unclear effects on osseointegration [].
+
+One of the most prevalent complications associated with endosseous implants is hemorrhage []. Anticoagulants (AC) are among the most often prescribed drugs in the world. They are generally used for patients who are at high risk of systemic, pulmonary, or cerebral embolism [,]. Patients with bleeding disorders may be more prone to complications. However, there is no convincing evidence that bleeding problems may hamper implant dentistry [,,]. Whenever modifications of AC medications are discussed for surgery, the potential risks of postoperative bleeding on one hand vs. the potential for embolic events must be evaluated. In oral surgery, the risk of thromboembolic complications typically outweighs the risk of significant bleeding complications [,,].
+
+Extensive research has been conducted on the clinical effects of VKAs on human bone metabolism. There is evidence that VKAs affect bone metabolism. Long-term usage of oral AC has been related with an increased risk of osteoporosis. As a VKA, warfarin has a detrimental effect on bone health. Vitamin K is essential for osteocalcin’s posttranslational glutamination, the primary non-collagenous bone matrix protein. Dietary limitations typically undertaken by patients receiving VKAs are one additional potential indirect mechanism of bone deterioration [,].
+
+There has only been a limited amount of clinical research on the effects of DOACs on bone since they are still relatively new to clinical practice. The possible effect that DOACs may have on bone metabolism have been poorly investigated so far [,]. In 2012, Gigi et al. studied the effects of DOACs on bone biology utilizing a human female osteoblastic cell culture model in vitro. Rivaroxaban dose-dependently reduced up to 60% of the cell’s DNA production. Creatine-kinase-specific activity was likewise dose-dependently decreased to a comparable degree, whereas alkaline-phosphatase-specific activity was suppressed by up to 30%. Osteoblastic mineralization was unaffected, showing that rivaroxaban suppresses the initial stage of bone formation but has no influence on later stages (mineralization of bone), resulting in a transitory suppression of bone development []. According to several studies, rivaroxaban therapy may have an adverse effect on bone by reducing osteoblastic function. The osteocalcin bone marker, the transcription factor Runx2, and the osteogenic factor bone morphogenetic protein (BMP)-2 all showed decreased mRNA expression in conjunction with this reduction []. According to a study conducted in a population of Hong Kong patients with non-valvular AF, Dabigatran was related to a significantly lower risk of osteoporotic fracture than Warfarin []. DOACs are associated with a lower influence on bone metabolism and potentially a decreased risk of fractures compared to VKAs, according to the existing data [,].
+
+The aim of the present retrospective cohort study was to evaluate the effect of anticoagulants (AC) on EIF. The null hypothesis was that use of AC increases the incidence of EIF.
+
+2. Method and Materials
+
+The research included 687 patients who underwent 2971 dental implant placements in the department of oral and maxillofacial surgery in Rabin medical center, Beilinson hospital, by specialists in oral and maxillofacial surgery. Early implant failure (EIF) was defined as the removal of the implant from the oral cavity within a period of up to 12 months from the date of its loading in the oral cavity.
+
+Inclusion criteria:
+
+Exclusion criteria:
+
+Variables collected at implant level included:
+
+Variables collected at patient level included:
+
+3. Statistical Analysis
+
+The software SPSS version 25 was used for data analysis. Tests conducted were as follows: Chi-square ()—univariate correlations; Mann-Whitney—independent samples. A-value < 0.05 was considered statistically significant.
+
+4. Results
+
+4.1. Demographic Data
+
+The cohort (n = 687) comprised 61.7% males and 38.3% females. Ages (years) were: 58.2% ≤65 years, 32.5% 66–79.9 years, and the remaining 9.3%, ≥80 years or older. Physical status was: 32.5%—ASA 1; 35.4%—ASA 2, and the remaining 32.2%—ASA 3. A quarter (173/25.2%) used anticoagulants. Systemic diseases included: 12.2%—ischemic heart disease (IHD); and 8.9%—atrial/ventricular fibrillation (AF/VF). Smokers made up 5.4%. Implant brands were: 12.5%—Ditron Dental; 27.4%—MIS; and 60.1%—Zimmer Dental. More than half (55.7%) of the individuals required bone augmentation for implant placement. The EIF cohort at patient level was 15.1%.
+
+All data were likewise analyzed at implant level (n = 2971). Ages were 57.7% ≤65 years, 34% 66–79.9, and the remining 8.3% ≥80 or older. Physical status was 27.3%—ASA 1, 39.6%—ASA 2, and 33%—ASA 3. A quarter (708) of the implants (23.8%) were inserted in individuals using anticoagulants. Implants inserted in individuals with systemic diseases included: hypertension (HTN)—29%; hyperlipidemia—23.6%; DM—14.9%; and cerebrovascular accident (CVA)—4.6%. Implants inserted in smokers made up 6.6%. Implant brands were: 13.6%—Ditron, 26.3%—Mis, and 60.1%—Zimmer. Most of the implants (61.2%) required augmentation. The implant location was: 15.3% anterior maxilla, 18.5% premolar maxilla, 15% posterior maxilla, 13.7% anterior mandible, 17% premolar mandible, and 20.5% were for posterior mandible. Lastly, EIF was recorded for 3.8% of the implants. For a complete description, seefor implant level descriptive statistics andfor patient level descriptive statistics.
+
+4.2. Variables
+
+anddescribe data distribution.
+
+5. Results
+
+At implant level (), significant characteristics of not using AC included age groups (). Patients ≤ 65 or less were more likely to not use AC (62% vs. 44.2%). However, those between the ages of 66 and 67.9 and those over the age of 80 were more likely to use AC (43.8% and 12%, respectively, vs. 30.9% and 7.2%, respectively).
+
+Smokers were more likely to use AC (8.6% vs. 5.9%) (). Hypertensive individuals (50.7% vs. 22.2%) (), those with DM (24.9% vs. 11.8%) (), those with CVA (9.3% vs. 3.2%) (), and those with hyperlipidemia (40% vs. 18.4%) () were more likely to use AC.
+
+A significant difference was found for the ASA group (). Individuals with ASA 1 with implants were more likely not to use AC (34% vs. 5.9%). Similarly, ASA 2 individuals with implants were more likely not to use AC (45.1% vs. 22.3%). However, those with ASA 3 who had implants were more likely to use AC (71.8% vs. 20.9%). Those with implants placed in the anterior maxilla were more likely not to use AC (16.3% vs. 12.1%) ().
+
+Those with implants in the anterior mandible were more likely to use AC (18.9% vs. 12%) (). Those with implants in the posterior mandible were more likely not to use AC (21.4% vs. 17.1%) (). The overall implant length was increased for those using AC () (= 0.05). EIF was more likely to occur in those using AC (5.5% vs. 3.3%) ().
+
+At the patient level, a significant difference was found for gender (). More females did not use AC (65.5 vs. 50.3%), while males were more likely to use AC (49.7% vs. 34.5%). An additional significant difference was found for age groups (), those ≤65 were more likely to be without AC (65.6% vs. 36.4%), yet those between the ages of 66 and 79.9 and those ≥80 were more likely to use AC (46.2% and 17.3%, respectively) than not (27.8% and 6.6%, respectively). Additionally, differences were found for ASA (): ASA 1 and 2 individuals were more likely not to use AC (41.7% and 39.8%, respectively vs. 4.7% and 22.2%, respectively). However, ASA 3 individuals were more likely to use AC (73.1% vs. 18.5%). Those with IHD were more likely to use AC (31.2% vs. (5.8%) (). Those with AF/VF were more likely to use AC (21.4% vs. 4.7%) (). For full model tests, seeand.
+
+6. Multivariate Analysis
+
+A logistic regression model at the implant level showed that the independent variables significantly predict failure ((15) = 33.07,= 0.005), while it explains about 9.6% of total variance in failure. The model is well fitted to the data ((8) = 2.78,= 0.95), while it classifies about 96.3% of the total observations.
+
+Implants placed in individuals ≥80 (OR = 0.34,= 0.05), and ASA 2/3 vs. ASA 1 individuals (OR = 0.30,= 0.02/OR = 0.33,= 0.03, respectively) had decreased odds of EIF and implants in those using anticoagulants (OR = 2.64,= 0.01) had increased odds of EIF. For complete regression coefficients, see.
+
+A logistic regression model at the patient level showed that the independent variables significantly predict failure ((9) = 27.12,= 0.001), while they explain about 7% of total variance in failure. The model does not fit to the data well ((6) = 8.31,= 0.22), while it classifies about 85.0% of the total observations.
+
+At patient level the odds of EIF in ASA 3 (OR = 0.53,= 0.02) and IHD (OR = 0.40,= 0.02) patients are decreased. In patients with AF/VF (OR = 2.95,= 0.01), the EIF odds are increased. No statistically significant difference in EIF odds was found for those using AC (= 0.87) while controlling for the other variables. For complete regression coefficients, see.
+
+7. Discussion
+
+The potential impact that AC may have on bone metabolism have been poorly investigated so far. The few existing research studies are inconsistent. The evidence from the literature on the effects of AC on bone health is heterogeneous, meaning that it is not consistent and may vary depending on the specific medication and the duration of treatment. Osseointegration is a complex process that is influenced by many factors, including the type of implant, the location of the implant, and the overall health of the individual. As such, it is important to carefully consider all of these factors when evaluating the potential effects of medications on osseointegration.
+
+Various mechanisms have been postulated to explain how AC disrupt bone biology, and these mechanisms may be extrapolated to explain how these drugs may impede osseointegration. However, it is important to note that these results may not necessarily be applicable to humans and further research is needed to determine the effects of AC on osseointegration in people.
+
+According to a series of in vitro investigations conducted by Gigi et al. []. Rivaroxaban induces a decrease in osteoblastic cell proliferation and energy consumption, as well as a minor suppression of the osteoblastic marker, alkaline phosphatase, but osteoblastic mineralization remains unchanged. This is a phenomenon that can be explained by the action of the medicine being temporary or by the cells adapting to the inhibitory effect and compensating via another method. Furthermore, they revealed that rivaroxaban inhibits the modulation of bone cells by several hormones, including estrogenic compounds, vitamin D compounds, and PTH. The mechanisms for the stimulatory actions of bone-modulating hormones remain unknown. To summarize, these results suggest that rivaroxaban may prevent the first step in bone formation without affecting subsequent steps (i.e., bone mineralization).
+
+Treatment with rivaroxaban and enoxaparin [] decreased alkaline phosphatase activity, and the expression of bone morphogenetic protein (BMP)-2, osteocalcin, and Runx2. The conclusion implied a negative outcome on osteoblast activity. Moreover, prolonged therapy with those drugs could jeopardize bone homeostasis [,]. Others [] demonstrated an increased callus volume with lower density following fracture when those drugs were used. This phenomenon was associated with poor fracture healing []. A possible explanation is the creation of a bigger hematoma following fracture using anticoagulant therapy [].
+
+Research examining the potential impact of rivaroxaban on osseointegration demonstrate that rivaroxaban does not have a detrimental effect on osseointegration in this model [].
+
+In the present study, the effect of AC on EIF was investigated. Logistic regression was used to analyze potential predictors of EIF in a sample of dental implants. Two logistic regression models were conducted, at the implant and the patient level. The results suggest that certain independent variables are related to the likelihood of EIF. At the implant level, the use of AC was found to be associated with increased odds of EIF. However, at the patient level, no significant relationship was found between anticoagulant use and implant failure when controlling for other variables.
+
+We also observed that patients with a higher American Society of Anesthesiologists (ASA) score (ASA 2 or 3) had lower odds of implant failure than those with an ASA 1 score. These data imply that, depending on the ASA classification, there might be protective factors or other mechanisms that influence the probability of EIF. The treatment and management of patients with a higher ASA score may have been more thorough, with a greater emphasis on avoiding risks and optimizing outcomes, which may explain this finding []. Further research is required to completely comprehend the mechanisms underlying this association and to establish the optimal strategy for decreasing EIF in patients with varying ASA scores.
+
+It was found that EIF odds for patients with IHD were lower. Patients with AF/VF had increased EIF. Patients with serious medical conditions are often managed with medications and lifestyle changes to reduce the risk of complications. These interventions may also help to reduce the risk of EIF. It is probable that this is reflected in the data for patients with IHD. It is also worth noting that there may be other factors that contribute to the relationship between IHD and EIF, or between AF/VF EIF. To better understand these relationships and to identify the most effective strategies for reducing implant failure in patients with different medical conditions, it will be important to conduct additional research and to consider a wider range of factors that may be influencing the outcome.
+
+One of this study’s limitations is not measuring bone densitometry due to its retrospective nature. Future studies should take this factor into account. There is also the possibility of bias: for patients who take oral anticoagulants, this is usually due to having a cardiac arrhythmia such as atrial fibrillation. This means older age, higher rates of hypertension, and possibly, smoking, factors that also affect bone remodeling.
+
+Osseointegration was compared between 80 implants with hydrophilic SLActive and hydrophobic SLA surface in 20 anticoagulated patients. A “split-mouth” study design was used. After one year, 100% implant survival and success rates were observed [].
+
+A retrospective, study (297 implants, follow-up of up to 76 months) assessed anticoagulant drugs’ effect. A 4.4% lower survival rate was reported, and the odds ratio of failure was 28.2. It was concluded that anticoagulants increase the risk of implant failure [].
+
+A recent review revealed that non-steroidal anti-inflammatory drugs, glucocorticoids, proton pump inhibitors, selective serotonin reuptake inhibitors, anticoagulants, metformin, and chemotherapeutic agents may jeopardize osseointegration and lead to implant failure. However, validation is mandatory from human studies with high evidence [].
+
+The results of the present study suggest that the risk of EIF may be influenced by numerous factors. Additional research is required to better understand the mechanisms underlying these associations and to identify strategies for reducing the risk of EIF. This may entail replicating the study in a different sample, examining the role of other patient characteristics and treatment factors, and investigating the mechanisms underlying the associations between medical conditions and implant failure.
+
+8. Conclusions
+
+Within the limitations of the present study, the use of AC is significantly associated with an increased likelihood of EIF. The OR was 2.64. Future research is required to validate and examine the prospective impact of AC on the osseointegration phenomena.

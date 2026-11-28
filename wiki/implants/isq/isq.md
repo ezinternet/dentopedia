@@ -2,7 +2,7 @@
 title: "임플란트·ISQ — isq"
 authors: navigation
 year: 2026
-date: 2026-10-21
+date: 2026-11-22
 doi: N/A
 source: navigation
 category: implants/isq
@@ -15,20 +15,20 @@ tags: [navigation, category-index, isq]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·ISQ
 > - **범위**: ISQ/RFA measurement, stability dip, loading decision thresholds
-> - **수록 논문**: 93편
+> - **수록 논문**: 96편
 
 ## Three-line Summary
 
 **Scope**: ISQ/RFA measurement, stability dip, loading decision thresholds
-**Indexed papers**: 93 papers in `wiki/implants/isq/`.
+**Indexed papers**: 96 papers in `wiki/implants/isq/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·ISQ
-**수록 논문**: 93편
+**수록 논문**: 96편
 **하위 카테고리**: 없음
 
-## Papers in this Category (93)
+## Papers in this Category (96)
 
 | Paper |
 |---|
@@ -57,11 +57,13 @@ tags: [navigation, category-index, isq]
 | [[cappare-2015-initial-bic-insertion-torque-depth-integral-in-vivo|Correlation between Initial BIC and the Insertion Torque/Depth Integral (Instantaneous Torque-Measuring Motor): In vivo Study]] |
 | [[ceddia-2025-finite-element-analysis-of-implant|Finite Element Analysis of Implant Stability Quotient (ISQ) and Bone Stresses for Implant Inclinations of 0°, 15°, and 20°]] |
 | [[cha-2015-multiscale-analyses-of-the-bone|Multiscale Analyses of the Bone-implant Interface]] |
+| [[cha-2026-stability-immediately-placed-single-molar|Stability of Immediately Placed Single Molar Implants: A Comparison of Damping Capacity and Resonance Frequency Analysis]] |
 | [[chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq|Correlation between the thickness of the crestal and buccolingual cortical bone at varying depths and implant stability quotients]] |
 | [[de-elio-2023-insertion-torque-resonance-frequency-tapered-parallel-implants|Insertion Torque and Resonance Frequency Analysis in Tapered and Parallel Dental Implants]] |
 | [[debruyne-2017-isq-laser-vibrometry-resonance-frequency|ISQ calculation evaluation of in vitro laser scanning vibrometry-captured resonance frequency]] |
 | [[di-stefano-2021-stability-dental-implants-cortical-bone|Implant Stability and Cortical Bone Thickness: Systematic Review]] |
 | [[diehl-2022-narrow-diameter-implant-stability-hyperglycemic|Implant stability of narrow diameter implants in hyperglycemic patients—A 3-month case–control study]] |
+| [[diehl-2024-restoration-posterior-teeth-narrow-diameter|Restoration of posterior teeth by narrow diameter implants in hyperglycemic and normoglycemic patients – 4-year results of a case-control study]] |
 | [[do-vale-souza-2021-relation-insertion-torque-implant-stability|Relation Between Insertion Torque and Implant Stability Quotient: A Clinical Study]] |
 | [[elkattan-2026-insertion-torque-isq-bone-level|Insertion Torque Value and Implant Stability Quotient of Bone-Level Versus Tissue-Level Dental Implants: A Pilot Randomized Clinical Trial]] |
 | [[faot-2019-insertion-torque-mandibular-overdenture|Influence of Insertion Torque on Clinical and Biological Outcomes before and after Loading of Mandibular Implant-Retained Overdentures in Atrophic Edentulous Mandibles]] |
@@ -71,6 +73,7 @@ tags: [navigation, category-index, isq]
 | [[guler-2013-resonance-frequency-analysis-straumann-dental|Resonance frequency analysis of 208 Straumann dental implants during the healing period]] |
 | [[heimes-2023-macrogeometry-primary-stability-implants-narrative-review|How Dental Implant Macrogeometry Affects Primary Implant Stability: A Narrative Review]] |
 | [[herrero-climent-2013-osstell-isq-reliability-icc|Assessment of the Reliability and Repeatability of the Osstell Mentor Device for ISQ Measurement]] |
+| [[hong-2025-comparative-analysis-of-novel-damping|Comparative analysis of novel damping capacity analysis devices for assessing implant stability in clinical practice]] |
 | [[huang-2016-influencing-factors-implant-stability-quotient|Mathematical evaluation of the influence of multiple factors on implant stability quotient values in clinical practice: a retrospective study]] |
 | [[huang-2017-multivariate-regression-isq-prediction|Multivariate linear regression analysis to identify general factors for quantitative predictions of implant stability quotient values]] |
 | [[huang-2020-isq-clinical-significance-literature-review|The Clinical Significance of Implant Stability Quotient (ISQ) Measurements: A Literature Review]] |

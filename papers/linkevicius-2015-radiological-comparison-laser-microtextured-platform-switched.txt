@@ -1,0 +1,16 @@
+TITLE: Radiological comparison of laser-microtextured and platform-switched implants in thin mucosal biotype.
+AUTHORS: Tomas Linkevicius, Algirdas Puisys, Olga Svediene, Rokas Linkevicius, Laura Linkeviciene
+JOURNAL: Clinical oral implants research 2015;26(5):599-605
+PMID: 25558894
+DOI: 10.1111/clr.12544
+SOURCE: PubMed abstract (E-utilities efetch, 2026-11-25). No PMC record; no full text retrieved.
+
+## ABSTRACT
+
+OBJECTIVE: To compare how laser-microtextured implants and implants with platform switching maintain crestal bone stability in thin peri-implant tissues.
+
+MATERIAL AND METHODS: Thirty laser-microtextured implants of 4.6 mm diameter (Tapered Internal Laser-Lok, BioHorizons, Birmingham, AL, USA; Group 1) and 30 implants with platform switching of 5/4 mm diameter (Certain Prevail; Biomet/3i, Palm Beach Gardens, FL, USA; Group 2) were placed in 30 patients (12 males and 18 females, mean age 42.3 ± 2.4) with thin mucosal tissues (≤2 mm). Implants were placed in posterior mandible in one-stage approach and after integration were restored with screw-retained metal-ceramic restorations. Radiographic examination was performed after implant placement, 2 months after healing, at prosthetic restoration delivery and after 1-year follow-up. Mean crestal bone loss was calculated, Mann-Whitney U-test was applied, and significance was set to 0.05.
+
+RESULTS: After 2 months of healing, the crestal bone loss was 0.71 ± 0.25 mm SD (range, 0.25-1.6 mm) and 1.02 ± 0.25 mm SD (range, 0.6-1.55 mm) in groups 1 and 2, respectively (P = 0.001). At restorations' delivery, the crestal bone loss was 1.10 ± 0.30 mm SD (range, 0.65-1.85 mm) and 1.37 ± 0.27 mm SD (range, 0.90-1.80 mm) in groups 1 and 2, respectively (P = 0.001). After 1-year follow-up, the crestal bone loss was 1.41 ± 0.42 mm SD (range, +0.1-2.30 mm) and 1.43 ± 0.23 mm SD (range, 1-1.80 mm) in groups 1 and 2, respectively (P = 0.976).
+
+CONCLUSIONS: Laser-microtexturing of implant collar or platform-switched implant/abutment connection did not eliminate crestal bone loss, if at the time of implant placement vertical soft tissue thickness was ≤2 mm. However, laser-microtextured implants may present less proximal bone loss than platform-switching implants in the period before implant loading.

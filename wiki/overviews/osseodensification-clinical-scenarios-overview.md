@@ -10,6 +10,9 @@ tags: [osseodensification, sub-overview, sub-antral, narrow-ridge, low-density-b
 relations:
   - type: extends
     target: osseodensification-clinical-applications
+  - type: extends
+    target: stability-dip-fixture-treatment-decision-overview
+    note: "OD is assigned as first-line dip-directed treatment in D3/D4 + simultaneous transcrestal sinus elevation, but its survival-equivalence limit (Mello-Machado 2021) is carried into that matrix"
 ---
 
 ## 한국어 핵심요약
@@ -168,6 +171,7 @@ graph LR
 
 ## Related Overviews
 
+- [[overviews/stability-dip-fixture-treatment-decision-overview]] — **NEW** (2026-11-17): OD assigned as first-line dip lever in D3/D4 + simultaneous transcrestal sinus elevation, with its survival-equivalence caveat
 - [[overviews/osseodensification-clinical-applications]] — parent synthesis
 - [[overviews/osseodensification-mechanism-outcomes-limits-overview]] — mechanism, outcome matrix, and evidence limits (sibling)
 - [[overviews/sinus-lift-technique-selection]] — sinus-lift technique selection (existing sibling)

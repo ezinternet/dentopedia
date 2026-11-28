@@ -14,12 +14,15 @@ source_wiki:
   - wiki/immediate-implant/anatomic-assessment/alqaood-2026-cpdu-classification-posterior-mandible.md
   - wiki/sinus-lift/transcrestal/jia-2025-accuracy-robotic-cais-tsfe-posterior-maxilla.md
   - wiki/implants/peri-implantitis/kim-2026-implant-angulation-peri-implant-bone.md
+  - wiki/implants/yi-2021-long-term-clinical-result-implant.md
 tags: [implant-placement, placement-direction, anatomy, CBCT, IAC, TSFE, CPDU, ILAA, chairside]
 notes: |
   6탭 임상 참조 도구 — 전치부·소구치·후방 하악 IAC·CPDU·후방 상악·생물역학.
   각 탭: stat grid + 부위별 시각 요소 (ILAA 막대/CPDU 매트릭스/r-CAIS 비교) + protocol box.
   핵심 임계값: ILAA 18.3°(소구치), IAC ≥2mm(후방 하악, 2M 4.65mm 최단),
   r-CAIS 1.25°·막 천공 2.5%(후방 상악), 비축방향 MBL 0.22 vs 0.10mm(P<.05).
+  updated 2026-11-20: overview 2026-11-10 추가분 반영 — 생물역학 탭에 인접 치근 손상 10년
+  코호트(Yi 2021: 손상 치아 90.6% 기능 유지, 관찰 전략) 블록 신설. 기존 임계값 무변화.
 ---
 -->
 <!DOCTYPE html>
@@ -655,6 +658,14 @@ button { cursor: pointer; font-family: inherit; }
 (function(){
   var HK='_cr_h_2026_08_29_implant_placement_direction';
   var THRESHOLD=30*60*1000;
+  /* OPERATIONS.md §7 — 콘텐츠 업데이트 시 PAGE_VERSION 범프 */
+  const PAGE_VERSION='20261120-v1';
+  var VK='implant_placement_direction_ver';
+  try{
+    var sv=localStorage.getItem(VK);
+    if(sv&&sv!==PAGE_VERSION){localStorage.setItem(VK,PAGE_VERSION);location.reload(true);}
+    else localStorage.setItem(VK,PAGE_VERSION);
+  }catch(e){}
   document.addEventListener('visibilitychange',function(){
     if(document.hidden){
       try{localStorage.setItem(HK,Date.now());}catch(e){}
@@ -1261,6 +1272,48 @@ button { cursor: pointer; font-family: inherit; }
     <span>Retrospective cohort · n=288 / 506 임플란트 · 5년 · 3D CAD 각도 측정</span>
     <span class="ev">retrospective</span>
   </div>
+
+  <div class="visual-section">
+    <h3>방향 제약을 어겼을 때 — 인접 치근 손상 10년 (2026-11 추가)</h3>
+    <div class="stat-grid">
+      <div class="stat-card safe">
+        <div class="stat-label">손상 치아 기능 유지</div>
+        <div class="stat-value">90.6<span class="unit">%</span></div>
+        <div class="stat-note">28명 · 32개 · 평균 122.7개월</div>
+      </div>
+      <div class="stat-card neutral">
+        <div class="stat-label">미치료 치아 생활력 유지·무증상</div>
+        <div class="stat-value">19/27<span class="unit"></span></div>
+        <div class="stat-note">70.4% · 7개 근관치료(3개는 이후 발치)</div>
+      </div>
+      <div class="stat-card safe">
+        <div class="stat-label">기존 근관치료치</div>
+        <div class="stat-value">5/5<span class="unit"></span></div>
+        <div class="stat-note">영향 없음</div>
+      </div>
+      <div class="stat-card safe">
+        <div class="stat-label">임플란트 생존율</div>
+        <div class="stat-value">96.9<span class="unit">%</span></div>
+        <div class="stat-note">ISQ 64.1 → 73.9 (P=0.007)</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="protocol-box">
+    <div class="protocol-label">임상 적용 — 인접 치근을 건드렸다면</div>
+    <div class="protocol-text">
+      직접 치근 침범만으로는 <strong>임플란트도 치아도 제거 적응증이 아니다</strong>.<br>
+      ① 관찰이 기본 — 근관치료는 증상이나 방사선학적 악화가 있을 때만.<br>
+      ② 미치료 치아의 약 1/4이 결국 근관치료를 받았다 → 관찰은 "안심시키고 종료"가 아니라 <strong>정기 생활력 검사 + 방사선 사진</strong>이다.<br>
+      ③ 이 결과가 위 부위별 계획 기준을 완화하지는 않는다 — 임플란트가 유지된 증례만 사후에 모은 연구라 가장 나쁜 손상은 덜 잡혔을 수 있고, 손상 등급 3개에 32개가 나뉘어 등급별 표본이 얇다.
+    </div>
+  </div>
+
+  <div class="paper-badge">
+    <span class="pi">Yi 2021</span>
+    <span>Retrospective cohort · 분당서울대병원 · 28명 / 32 임플란트 · 평균 122.7개월 · 직접 침범·치근면 접촉·&lt;1 mm 근접</span>
+    <span class="ev">retrospective</span>
+  </div>
 </section>
 
 <!-- ══ COMPARISON TABLE ══ -->
@@ -1340,7 +1393,7 @@ button { cursor: pointer; font-family: inherit; }
 <!-- FOOTER -->
 <footer class="site-footer">
   <p>llm-wiki · 치과 임플란트 식립방향 근거 종합 · 2026-08-29</p>
-  <p style="margin-top:4px">출처: fettouh 2026 · najm 2024 · behfarnia 2025 · alqaood 2026 · jia 2025 · kim 2026 — 임상 결정은 개별 환자 평가와 CBCT를 병행하여 시행하십시오.</p>
+  <p style="margin-top:4px">출처: fettouh 2026 · najm 2024 · behfarnia 2025 · alqaood 2026 · jia 2025 · kim 2026 · yi 2021 (2026-11-20 추가) — 임상 결정은 개별 환자 평가와 CBCT를 병행하여 시행하십시오.</p>
 </footer>
 
 <script>

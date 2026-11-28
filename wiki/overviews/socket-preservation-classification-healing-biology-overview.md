@@ -2,7 +2,7 @@
 title: "발치와 보존술(ARP) — 소켓 분류·해부 예측·치유 생물학 종합 (Socket Classification, Anatomical Predictors & Healing Biology)"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-10-09
+date: 2026-11-17
 doi: N/A
 source: N/A
 category: overviews
@@ -14,6 +14,8 @@ tags: [arp, socket-preservation, sub-overview, socket-classification, bundle-bon
 relations:
   - type: extends
     target: socket-preservation-arp-overview
+  - type: extends
+    target: sabri-2022-single-rooted-extraction-socket-classification
 ---
 
 ## 한국어 핵심요약
@@ -27,6 +29,7 @@ relations:
 > - 콜라겐 플러그(Covani 2022, 토끼 micro-CT n=36): 플러그는 약 15일에 흡수되지만 90일 골 체적 변화는 플러그군 −4.6%, 빈 발치와 −58.1%였다. 기전은 공간 유지가 아니라 초기 혈병 안정화와 혈관 지지이므로, 플러그의 가치는 처음 2주에 소진된다. [확인]
 > - 세포·분자 수준(Kamath 2026, Mun 2024, Yin 2024): 두 편은 쥐 연구이고 한 편은 서술 고찰이라 ARP의 임상 효능 근거가 아니다. 특정 이식재나 PRF가 DDR2나 대식세포 TNF-α 경로로 작동한다는 근거로 인용하지 않는다. [확인]
 > - 분류 비교(Juodzbalys 2019 SR, 10편): 소켓 분류 6종 중 형태 변수를 모두 담는 것은 없었고, 심미부/비심미부 두 갈래 결정 나무가 제안되었다. 분류는 결손 형태만이 아니라 연조직과 식립 시기까지 함께 봐야 한다. [확인]
+> - [2026-11-17 신규] 단근 소켓 분류 재평가(Sabri 2022 SR, 13개 분류 + 신규 제안): 반복되는 형태 인자는 협측 골결손·인접면골·치은 퇴축·치은 표현형이나, **전신질환·흡연 등 환자 수준 인자는 거의 누락** — 형태 중심 분류(본 위키의 SRP 계열 포함)의 documented blind spot. 신규 분류는 형태+환자 인자를 결합. 초록전용이라 범주·검증 데이터는 전문 미확보. [[immediate-implant/anatomic-assessment/sabri-2022-single-rooted-extraction-socket-classification]] [확인]
 > - 순측 벽이 더 흡수되는 구조적 이유(Ulm 2021, 기술 보고 1례): 상악 전치부 순측 다발골은 피질판과 융합되어 뒤에 해면골이 없고, 구개측은 해면골 칸이 있다. 구개·설측에 <1 mm 버로 6–10개 천공해 골수 접근을 여는 방법을 제안했으며, 순측 벽은 뚫을 해면골이 없어 제외한다. 임상 효과는 검증되지 않았다. [확인]
 > - 세포 공급원(Yuan 2018, 생쥐 계보 추적): 발치와 골형성의 주 공급원은 다발골에 붙은 치주인대 잔존부의 Wnt 반응성 전구세포였다. 국소 리포솜 WNT3A 1회가 치유 속도를 2배로 높였다. 다발골 보존이 세포 저장소 보존이기도 하다는 기전 근거다. [확인]
 > - 무부하 미니스크류(Jahanbin 2023, 비글 12마리): 즉시 식립이 대조보다 수직 높이를 조금 더 지켰다(12.1 vs 11.7 mm, p=0.02). 폭은 변화가 없었고 차이는 0.4 mm다. [확인]
@@ -121,6 +124,7 @@ The two mechanisms above are structural and clot-level. Three later sources add 
 | Study | Level | Contribution |
 |---|---|---|
 | [[bone-regeneration/ridge-preservation/juodzbalys-2019-morphological-classification-extraction-sockets-clinical]] | sr (10 studies) | Compares six socket classifications (including systems that predate Steigmann 2022); none captures every morphological variable; proposes a two-branch esthetic / non-esthetic decision tree that adds soft tissue and implant timing |
+| [[immediate-implant/anatomic-assessment/sabri-2022-single-rooted-extraction-socket-classification]] | sr (13 classifications) + new proposal | Recurrent morphologic factors: buccal dehiscence, interproximal bone, recession, soft-tissue phenotype; documents that systemic disease/smoking are largely absent from prior systems, and proposes a morphology + patient-factor classification (abstract-only; categories not reproduced) |
 | [[bone-regeneration/ridge-preservation/ulm-2021-bundle-bone-perforation-socket-healing]] | case-report / technical note | Anterior maxillary labial bundle bone is fused to the cortical plate with no trabecular bone behind it; the palatal wall has a trabecular compartment. Proposes 6–10 palatal or lingual perforations (<1 mm bur, 2–3 mm apart) to trigger the regional acceleratory phenomenon; the labial wall is excluded |
 | [[bone-biology/yuan-2018-wnt-pdl-extraction-socket-healing]] | animal (mouse lineage tracing) | Wnt-responsive progenitors in the PDL remnant on bundle bone are the main source of socket osteoblasts; one topical liposomal WNT3A dose doubled healing speed |
 | [[bone-regeneration/ridge-preservation/jahanbin-2023-immediate-delayed-mini-screw-placement-alveolar]] | animal (12 beagles, split-mouth) | Immediate unloaded mini-screws preserved slightly more vertical height (12.1 vs 11.7 mm, p=0.02); width unchanged |

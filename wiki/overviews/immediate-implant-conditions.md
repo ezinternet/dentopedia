@@ -2,7 +2,7 @@
 title: "즉시식립 (Immediate Implant Placement, Type-1) — 가능 조건·실패 위험인자·심미 결과 매트릭스"
 authors: synthesis (llm-wiki)
 year: 2026
-date: 2026-05-18
+date: 2026-11-25
 type: overview
 category: [overviews]
 tags: [immediate-implant, type-1, immediate-placement, immediate-loading, buccal-bone, gap-filling, socket-shield, biotype, esthetic, PES, bundle-bone]
@@ -14,12 +14,15 @@ source: synthesis
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 핵심 명제: Type-1 즉시식립 (Immediate Implant Placement)은 생존율 95–98%로 안전하나, **심미 위험이 가장 높은 타이밍**이다. immediate-implant 24편 통합.
+> - 핵심 명제: Type-1 즉시식립 (Immediate Implant Placement)은 생존율 95–98%로 안전하나, **심미 위험이 가장 높은 타이밍**이다. immediate-implant 24편 + 교차 카테고리 로딩 우산리뷰 (umbrella review) 1편 통합.
 > - 3대 위험인자 (Chen 2009 ITI consensus, 91편): ① 얇은 협측벽 (≤1mm), ② 협측·근심 임플란트 위치, ③ 얇은 생체형 (biotype). 누적 시 type-2 (4–8주 지연)로 전환.
 > - 생리적 기초: 다발골 (bundle bone) 완전 소실은 즉시식립으로 막을 수 없다 (Araujo 2005 동물). 얇은 협측벽 (≤1mm)은 수직 소실 7.5mm vs 두꺼운 벽 1.1mm (Chappuis 2013). 발치 후 박벽형에서 연조직이 약 7배 두꺼워져 7.5mm 골소실을 감추므로 **연조직 윤곽이 양호해도 골부족 판단 불가** (Chappuis 2015). 전치부 90%가 협측벽 <1mm.
 > - 사전 콘빔CT (CBCT) 5항목 평가: ① 협측벽 두께 — 전치부 50%가 ≤0.5mm (Januário 2011, n=250), 발치 시 87%가 ≤1mm·3%만 ≥2mm (Huynh-Ba 2010, n=93), micro-CT에선 0–9mm 전 구간 협측이 <0.5mm·bundle bone만·1/3에서 fenestration (Todorovic 2023) ② 협측벽 완전성 ③ 치근첨~비강/상악동 거리 ④ 인접치 골수준 (유두 (papilla) 보존) ⑤ 생체형.
 > - 수술 프로토콜 4요소: ① 협측 gap ≥2mm는 이종골/자가골 충전 (Sanz 2017 RCT, 흡수 유의 감소), ② 즉시 임시치관 (비기능부하 원칙, 연조직 안정성 유리), ③ 연조직 관리 (경+연조직 복합이식 시 분홍심미점수 (Pink Esthetic Score, PES) 최고, Rondone 2024), ④ 소켓실드는 보류 (합병증 9.5–17%).
 > - 부하 결정: 발치와에서 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)는 인공적으로 낮으므로 (발치와 57.6 vs 치유골 72.9), 삽입토크 (Insertion Torque, IT) ≥35 Ncm을 1차 기준으로. 즉시부하는 IT ≥35 Ncm + ISQ ≥70 양조건 (Wittneben 2023).
+> - 즉시부하 (Immediate Loading, IL) vs 비즉시부하 (Nonimmediate Loading, NIL) — 단일 임플란트 우산리뷰 (Rismanchian 2025, SR 24편·임플란트 18,373개): 생존 IL 92–97.8% vs NIL 95–99%, 변연골소실 (Marginal Bone Loss, MBL) IL 0.2–1 vs NIL 0.1–0.8mm, 모두 유의차 없음. **단 치유골·발치와 식립시기 미구분 혼합 근거** — Type-1에 직접 해당하는 수치는 즉시식립+즉시부하 (IPIL) 99.6% vs 즉시식립+지연부하 (IPDL) 97.9% (신뢰구간 겹침) 한 줄뿐.
+> - 이 우산리뷰는 심미 (PES·점막 퇴축)를 정량 보고하지 않고 IT/ISQ 임계값도 "논쟁 중"이라며 제시하지 않음 → Type-1의 결정 축(심미)과 IT ≥35 + ISQ ≥70 규칙은 **바뀌지 않음**. 서술적 종합 (narrative synthesis)이며 포함 SR 목록 미공개·본문 인용번호가 참고문헌과 불일치해 개별 수치의 원출처 추적 불가 — 보강 근거로만 사용.
+> - 서베일런스 (2026-11-24): 2021–2026 PubMed 우산리뷰 검색에서 신규 우산리뷰 없음; Cochrane 연조직 증대 overview (PMID 40662426)와 즉시 vs 지연 식립 우산리뷰 (PMID 42674793)는 프로토콜만 존재 → 출판 시 재확인.
 > - 타이밍 비교: 생존은 Type 1~4 모두 95% 이상, 차이는 심미. Type 1은 치료기간 단축 이득 vs 심미 위험 (20–30% 점막 퇴축, Buser 2017)의 trade-off.
 > - 장기 결과: 1년 단일치 즉시부하 생존 95.1–98.9% (MBL −0.30mm), 5년 97.1% (MBL −0.32mm, PES 7.2/14). 점막 퇴축은 1–6개월에 가장 큼.
 > - 소켓실드 (Socket Shield): 협측골 −0.5mm 우위이나 실드 노출 합병증 5–17% — 증례보고 위주로 장기 예측성 불명확. 표준 프로토콜 (gap 충전+임시치관+연조직 이식)이 더 안전. [미검증]
@@ -45,7 +48,7 @@ Socket-shield technique shows ~0.5 mm buccal bone advantage but carries 5–17% 
 
 ## Summary
 
-LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 · Prospective 3편 · narrative-review 6편 · in-vivo 1편 · case-report 1편 · animal 1편 · consensus 1편 · retrospective 1편.
+LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 · Prospective 3편 · narrative-review 6편 · in-vivo 1편 · case-report 1편 · animal 1편 · consensus 1편 · retrospective 1편. Plus one cross-category loading-protocol umbrella review (Rismanchian 2025, `implants/loading-protocol/`), cited in §4.3 and §5.1 with its applicability limit stated.
 
 핵심 질문 5개:
 1. **언제 적응증인가** — 환자·해부학적 조건
@@ -194,6 +197,16 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 
 [미검증] 예외적 케이스에 한정. 표준은 IT ≥25 Ncm 미달이면 type-2로 전환.
 
+### 4.3 Immediate vs nonimmediate loading — umbrella-level evidence and its applicability limit
+
+| Confidence | 출처 | 결론 |
+|---|---|---|
+| **umbrella review (narrative, 24 SR/MA, ~8,063 pts / 18,373 implants)** | [[implants/loading-protocol/rismanchian-2025-immediate-nonimmediate-loading-umbrella-review]] | Single-implant IL (≤48 h) vs NIL (3–6 mo): survival IL 92–97.8% vs NIL 95–99%, MBL IL 0.2–1 vs NIL 0.1–0.8 mm (larger in year 1), prosthetic complications similar — all NS. Placement×loading subgroup: IPIL 99.6% (95% CI 98.5–100) vs IPDL 97.9% (95.6–100), overlapping CIs |
+
+**Applicability limit — read before using this for a Type-1 case.** This umbrella is about loading *timing*, not placement timing. Its inclusion criterion is "IL vs NIL in single-tooth implants"; it does not stratify healed vs fresh-socket sites, so most of the pooled evidence is mixed or healed-site. The only number that speaks directly to Type-1 immediate placement is the IPIL vs IPDL subgroup above, and those CIs overlap. It also (a) does not separate non-occlusal immediate provisionalization from occlusal loading, (b) reports no quantitative esthetic outcomes (PES, midfacial recession), which are the deciding axis for Type-1 (§2.4), and (c) gives no IT/ISQ threshold, calling it "still debated". So it **reinforces** the held single-crown figures (Wittneben 2023 5-yr 97.1%; Gaddale 2024 1-yr 95.1–98.9%) that loading timing on its own does not drive survival when primary stability is adequate. It does **not** refine the IT ≥35 Ncm + ISQ ≥70 rule (§4.1) or the esthetic-risk framing.
+
+**Appraisal caveats** (PDF re-read 2026-11-25): (1) the synthesis is narrative, with no new pooled effect; (2) the 24 included SRs are not listed (Table 1 is an empty extraction template) and the quality-scoring results are not reported; (3) in-text citation numbers in the Results do not match the reference list. For example, the IPIL/IPDL figures are attributed to ref [21], which is the 2004 ITI loading consensus statement, so the original source of each number cannot be traced and should be treated as re-cited and secondhand; (4) the PRISMA diagram says 48 included studies but the text says 24 SRs. One flagged outlier MA reported higher IL failure (RR 4.76, 95% CI 1.74–13.02) *even with non-occlusal provisional crowns*. Its source is also untraceable, but it is a reason not to treat non-occlusal provisionalization as risk-free when primary stability is marginal.
+
 ---
 
 ## 5. 장기 결과 — 생존·MBL·심미
@@ -206,6 +219,7 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 | 1년 (즉시 임시치관) | 100% | −0.26mm | Kan 2003 prospective |
 | 5년 (즉시부하 단일치) | 97.1% | −0.32mm | Wittneben 2023 SR |
 | 1–5년 (전악 즉시) | >97% | 0.29–1.48mm | Heimes 2025 narrative |
+| ≥6mo (단일치 IL vs NIL, 식립시기 혼합) | IL 92–97.8% vs NIL 95–99% (NS); IPIL 99.6% vs IPDL 97.9% | IL 0.2–1 vs NIL 0.1–0.8mm (NS) | [[implants/loading-protocol/rismanchian-2025-immediate-nonimmediate-loading-umbrella-review]] (narrative umbrella; not Type-1-specific, §4.3) |
 
 [확인] **생존율은 모든 시기에서 95% 이상**. 핵심은 MBL과 심미.
 
@@ -237,7 +251,7 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 | 즉시 임시치관 | 연조직 안정성 유리, 생존 동등 (Pitman 2022 SR+MA) | 환자 만족 100% (Kan 2003) | 비기능부하 기준 정량화 |
 | 연조직 이식 | 복합 이식 PES 최고 (Rondone 2024 SR+MA) | CTG·콜라겐 매트릭스 동등 미확정 | 재료 비교 RCT |
 | 소켓 실드 | 협측 골 −0.5mm 우위 but 합병증 9.5–17% (Gharpure 2022, Ogawa 2022) | 장기 예측성 불명확 | 임상 표준화 |
-| 부하 결정 | IT ≥35 Ncm + ISQ ≥70 (Wittneben 2023 SR); IT 우선 (Bavetta 2019) | 발치와 ISQ 인공 저하 | 발치와 전용 안정성 지표 |
+| 부하 결정 | IT ≥35 Ncm + ISQ ≥70 (Wittneben 2023 SR); IT 우선 (Bavetta 2019) | 발치와 ISQ 인공 저하; IL≈NIL 생존·MBL (Rismanchian 2025 umbrella — 식립시기 혼합·narrative) | 발치와 전용 안정성 지표; Type-1 한정 IL vs NIL 심미 비교 |
 | 생존율 | 95–98% 모든 타이밍 (Thoma 2026 ITI) | — | 10년 이상 데이터 |
 | 심미 PES | 7.2 ± 1.8 단일치 (Wittneben 2023) | 복합 이식 우위 (Rondone 2024) | 얇은 생체형 환자 결과 |
 
@@ -271,3 +285,8 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 - 10년 이상 즉시식립 장기 결과 prospective
 - 소켓 실드 표준화 RCT (현재 증례 위주)
 - 즉시식립 후 점막 퇴축 정량 예측 모델
+- Type-1 즉시식립에 한정한 즉시 vs 지연 부하 SR (심미 결과 포함) — 현재 우산리뷰 (Rismanchian 2025)는 식립시기 혼합
+
+### Surveillance log
+
+- **2026-11-24** — PubMed umbrella-review search (2021–2026) found no new published umbrella review for this topic. Two relevant reviews exist **only as protocols**: a Cochrane overview on soft-tissue augmentation (PMID 40662426) and an immediate-vs-delayed placement umbrella review (PMID 42674793). Re-check later and fold in if published. The held loading-protocol umbrella (Rismanchian 2025) was folded in on 2026-11-25 (§4.3).

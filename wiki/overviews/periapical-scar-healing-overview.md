@@ -3,11 +3,9 @@ title: "Periapical Scar Healing: Diagnosis, Epidemiology, and Surveillance"
 authors: "Synthesis: Grung 1990, Nair 2006, Lee 2021, Kasperek 2023"
 year: 2026
 date: 2026-11-06
-source: navigation
 category: overviews
 evidence_level: synthesis
 tags: [periapical-scar, endodontic-failure-differential, surveillance, scar-healing]
-superseded_by: null
 ---
 
 > [!summary] 한국어 핵심요약

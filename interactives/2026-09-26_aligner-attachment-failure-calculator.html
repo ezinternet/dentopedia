@@ -297,6 +297,14 @@ updated: 2026-10-06  # jedlinski-2023 재독(2026-09-30) 접착 프로토콜 세
 (function(){
   var HK='_cr_h_2026_09_26_aligner_attachment_failure_ca';
   var THRESHOLD=30*60*1000;
+  /* OPERATIONS.md §7 — 콘텐츠 업데이트 시 PAGE_VERSION 범프 */
+  const PAGE_VERSION='20261121-v1';
+  var VK='_cr_v_2026_09_26_aligner_attachment_failure_ca';
+  try{
+    var sv=localStorage.getItem(VK);
+    if(sv&&sv!==PAGE_VERSION){localStorage.setItem(VK,PAGE_VERSION);location.reload(true);}
+    else localStorage.setItem(VK,PAGE_VERSION);
+  }catch(e){}
   document.addEventListener('visibilitychange',function(){
     if(document.hidden){
       try{localStorage.setItem(HK,Date.now());}catch(e){}

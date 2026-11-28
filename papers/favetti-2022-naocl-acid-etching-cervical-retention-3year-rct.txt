@@ -1,0 +1,49 @@
+1. Oper Dent. 2022 May 1;47(3):268-278. doi: 10.2341/20-166-C.
+
+NaOCl Application after Acid Etching and Retention of Cervical Restorations: A 
+3-Year Randomized Clinical Trial.
+
+Favetti M(1), Schroeder T(2), Montagner AF(3), Moraes RR(4), Pereira-Cenci T(5), 
+Cenci MS(6).
+
+Author information:
+(1)Morgana Favetti, DDS, MS, PhD student, Graduate Program in Dentistry, School 
+of Dentistry, Federal University of Pelotas, Brazil.
+(2)Thaiane Schroeder, DDS, Graduate Program in Dentistry, School of Dentistry, 
+Federal University of Pelotas, Brazil.
+(3)*Anelise Fernandes Montagner, DDS, MS, PhD, Graduate Program in Dentistry, 
+School of Dentistry, Federal University of Pelotas, Brazil.
+(4)Rafael Ratto Moraes, DDS, MS, PhD, Graduate Program in Dentistry, School of 
+Dentistry, Federal University of Pelotas, Brazil.
+(5)Tatiana Pereira-Cenci, DDS, MS, PhD, associate professor, Graduate Program in 
+Dentistry, School of Dentistry, Federal University of Pelotas, Brazil.
+(6)Maximiliano Sergio Cenci, DDS, MS, PhD, associate professor, Graduate Program 
+in Dentistry, School of Dentistry, Federal University of Pelotas, Brazil.
+
+This study evaluated the retention of composite resin restorations in noncarious 
+cervical lesions (NCCLs) performed with or without pretreatment with 10% NaOCl 
+solution (deproteinization). A randomized, controlled, split-mouth, 
+double-blinded trial was carried out. Thirty patients with at least two NCCLs 
+were included in the study. The NCCLs were randomly allocated into two treatment 
+groups: control (acid etching with 37% phosphoric acid + placebo solution + 
+Adper Single Bond 2/3M Oral Care + Filtek Z350/3M Oral Care) or experimental 
+group (acid etching with 37% phosphoric acid + 10% NaOCl solution + Adper Single 
+Bond 2 + Filtek Z350). A calibrated examiner evaluated the restorations at 
+baseline (1 week) and recalls (6, 12, 24, and 36 months) using the FDI criteria. 
+The primary outcome evaluated was retention of the restorations. Data were 
+analyzed by the Kaplan-Meier method and the log-rank test (α=0.05). After 3 
+years, 64 restorations were evaluated in 23 patients. The annual failure rate 
+was 9% for the control group and 17.8% for the experimental group 
+(deproteinization technique). Considering the failures and their distribution 
+among the characteristics of the patients and NCCLs, no statistically 
+significant differences were observed for the control and experimental treatment 
+groups (p=0.077) or the number of teeth in the mouth (p=0.320). Restorations in 
+the mandible (p=0.039) and premolars (p=0.013) showed significantly lower 
+clinical survival rates. The deproteinization pretreatment with a 10% NaOCl 
+solution did not promote additional retention of restorations in NCCLs. 
+(clinicaltrials. gov: NCT03086720).
+
+©Operative Dentistry, 2022.
+
+DOI: 10.2341/20-166-C
+PMID: 35584331 [Indexed for MEDLINE]

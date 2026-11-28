@@ -2,7 +2,7 @@
 title: "임플란트·주위염 — peri-implantitis"
 authors: navigation
 year: 2026
-date: 2026-11-04
+date: 2026-11-25
 doi: N/A
 source: navigation
 category: implants/peri-implantitis
@@ -15,20 +15,20 @@ tags: [navigation, category-index, peri-implantitis]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·주위염
 > - **범위**: Peri-implantitis prevalence, risk factors, non-surgical/surgical treatment, surface decontamination, GBR for peri-implant defects
-> - **수록 논문**: 93편
+> - **수록 논문**: 105편
 
 ## Three-line Summary
 
 **Scope**: Peri-implantitis prevalence, risk factors, non-surgical/surgical treatment, surface decontamination, GBR for peri-implant defects
-**Indexed papers**: 93 papers in `wiki/implants/peri-implantitis/`.
+**Indexed papers**: 105 papers in `wiki/implants/peri-implantitis/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·주위염
-**수록 논문**: 93편
+**수록 논문**: 105편
 **하위 카테고리**: 없음
 
-## Papers in this Category (93)
+## Papers in this Category (105)
 
 | Paper |
 |---|
@@ -47,6 +47,7 @@ tags: [navigation, category-index, peri-implantitis]
 | [[brunello-2026-nonsurgical-peri-implant-mucositis-sr|Effectiveness of nonsurgical therapy of peri-implant mucositis: A systematic review]] |
 | [[cafferata-2025-impaired-treg-mediated-immune-regulation|Impaired Treg-Mediated Immune Regulation in Peri-Implantitis Lesions and Implant Loss: Insights From Histological and Molecular Analyses]] |
 | [[carra-2023-primordial-primary-prevention-peri-implant-sr-ma|Primordial and primary prevention of peri-implant diseases: A systematic review and meta-analysis]] |
+| [[chih-2023-the-impact-of-smoking-on|The impact of smoking on peri-implant microbiota: A systematic review]] |
 | [[chrcanovic-2025-neck-design-peri-implant-tissues-12mo-rct|Influence of Neck Design on Peri-Implant Hard and Soft Tissues: A 12-Month Randomized Clinical Trial of Immediately Placed Implants]] |
 | [[chuachamsai-2022-adjunctive-measures-peri-implant-mucositis|The effectiveness of adjunctive measures in managing peri-implant mucositis: an umbrella review]] |
 | [[clementini-2026-evaluation-of-the-adjunctive-use|Evaluation of the Adjunctive Use of Er:YAG Laser or Erythritol Air-Polishing in the Non-Surgical Treatment of Peri-Implantitis: A Pilot RCT]] |
@@ -65,29 +66,36 @@ tags: [navigation, category-index, peri-implantitis]
 | [[giok-2024-risk-factors-peri-implantitis-umbrella|Risk factors for Peri-implantitis: An umbrella review of meta-analyses of observational studies and assessment of biases]] |
 | [[gong-2022-novel-histopathological-classification-implant|A novel histopathological classification of implant periapical lesion: A systematic review and treatment decision tree]] |
 | [[grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma|Antibiotics as Adjunctive Therapy in the Non-Surgical Treatment of Peri-Implantitis: A Systematic Review and Meta-Analysis]] |
+| [[guney-2024-the-impact-of-electronic-cigarettes|The impact of electronic cigarettes on peri-implant health: A systematic review and meta-analysis]] |
 | [[hakkers-2026-adjunctive-systemic-amoxicillin-and-metronidazole|Adjunctive Systemic Amoxicillin and Metronidazole Following Surgical Peri-Implantitis Treatment: A Single-Blind Randomised Controlled Trial With a 1-Year Follow-Up]] |
 | [[hakkers-2026-reconstructive-peri-implantitis-3wall-4wall-rct|Surgical Reconstructive Peri-Implantitis Treatment for 3- and 4-Wall Bone Defects: A Single-Blind Randomised Controlled Trial With a 1-Year Follow-Up]] |
 | [[herrera-2023-prevention-treatment-peri-implant-efp|Prevention and treatment of peri-implant diseases—The EFP S3 level clinical practice guideline]] |
 | [[holtzman-2026-effect-of-connective-tissue-graft|Effect of Connective Tissue Graft as an Adjunct to Guided Bone Regeneration in the Surgical Treatment of Peri-Implantitis: A Dual-Center Randomized Controlled Trial]] |
 | [[hong-2024-peri-implantitis-treatment-protocol-flowchart|Peri-implantitis treatment options and a proposed treatment protocol and flowchart]] |
+| [[hwang-2023-survival-analysis-implants-after-surgical|Survival analysis of implants after surgical treatment of peri-implantitis based on bone loss severity and surgical technique: a retrospective study]] |
 | [[isler-2025-long-term-treatment-outcomes-peri-implantitis|Long-Term Treatment Outcomes of Peri-Implantitis Reconstructive Therapy: 7-Year Survival and Success of a Randomized Clinical Trial]] |
 | [[isola-2025-impact-and-efficacy-of-systemic|Impact and efficacy of systemic antibiotics for peri-implant diseases treatment: A systematic review and meta-analysis on clinical and microbiological outcomes]] |
 | [[javiya-2025-peri-implantitis-etiology-prevention-management-strategies|Peri-implantitis: Etiology, prevention and management strategies]] |
 | [[jepsen-2015-primary-prevention-periimplantitis-managing-mucositis|Primary prevention of peri-implantitis: Managing peri-implant mucositis (11th European Workshop, Group 4)]] |
 | [[jervoe-storm-2024-photodynamic-therapy-periodontal-periimplant-diseases|Adjunctive antimicrobial photodynamic therapy for treating periodontal and peri-implant diseases]] |
+| [[katafuchi-2018-restoration-contour-is-a-risk|Restoration contour is a risk indicator for peri-implantitis: A cross-sectional radiographic analysis]] |
 | [[kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology|Current understanding of the etiology, diagnosis, treatment, and management of peri-implant diseases: a narrative review for the consensus report of the Korean Academy of Periodontology]] |
 | [[kim-2025-management-peri-implantitis-perspectives|Current perspectives on the management of peri-implantitis (임플란트 주위염 치료의 최신 지견)]] |
 | [[kim-2025-toothpick-method-cibotium-peri-implant-mucositis-rct|Effects of oral hygiene management containing Cibotium Barometz J. Smith extract on peri-implant mucositis: a randomized clinical trial]] |
 | [[kim-2026-implant-angulation-peri-implant-bone|The Effect of Implant Angulation and Clinical Risk Factors on Peri-implant Bone Changes: A 5-Year Retrospective Study]] |
 | [[kotsakis-2025-microbial-dysbiosis-titanium-release-peri-implantitis|Microbial Dysbiosis, Titanium Release, and Peri-implantitis]] |
+| [[krebs-2024-influence-of-repeated-implant|Influence of repeated implant-abutment manipulation on the prevalence of peri-implant diseases in complete arch restorations. A retrospective analysis]] |
+| [[laleman-2023-implant-connection-and-abutment|Implant connection and abutment selection as a predisposing and/or precipitating factor for peri-implant diseases: A review]] |
 | [[lanzetti-2024-full-arch-prostheses-supportive-peri-implant-care|How often should implant-supported full-arch dental prostheses be removed for supportive peri-implant care to maintain peri-implant health? A systematic review]] |
 | [[lee-2025-self-powered-oxygen-microbubble|Self-Powered Oxygen Microbubble Generator for Decontamination of Anaerobic Biofilm-Fouled Bioimplants]] |
+| [[lee-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct|Adjunctive Use of Locally Delivered 2% Minocycline in the Nonsurgical Treatment of Peri-Implantitis: A Multicenter Randomized Placebo-Controlled Trial]] |
+| [[lee-2026-simultaneous-implant-placement-surgical-management|Simultaneous Implant Placement with Surgical Management of Adjacent Compromised Sites: Case Reports with 3-Year Follow-Up]] |
 | [[li-2025-inflammatory-response-dental-implant-surgery|Analysis of inflammatory response and its factors after dental implant surgery in patients with type 2 diabetes]] |
 | [[lin-2025-influence-of-prosthetic-designs|The influence of prosthetic designs on peri-implant bone loss: An AO/AAP systematic review and meta-analysis]] |
 | [[liu-2026-efficacy-of-adjunctive-antibiotics-compared|Efficacy of adjunctive antibiotics compared to non-antibiotic therapies following mechanical debridement for peri-implantitis: A systematic review and meta-analysis of randomized controlled trials]] |
-| [[lu-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct|Adjunctive Use of Locally Delivered 2% Minocycline in the Nonsurgical Treatment of Peri-Implantitis: A Multicenter Randomized Placebo-Controlled Trial]] |
 | [[mahardawi-2023-lack-keratinized-mucosa-peri-implantitis-sr-ma|The lack of keratinized mucosa as a risk factor for peri-implantitis: a systematic review and meta-analysis]] |
 | [[mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review|The use of chemical and pharmaceutical adjunctive therapies in the treatment of peri-implant mucositis (PiM): a narrative review]] |
+| [[mercado-2026-surgical-therapy-for-peri-implantitis|Surgical Therapy for Peri-Implantitis Using Deproteinised Bovine Bone Mineral With 10% Collagen, Enamel Matrix Derivative and Doxycycline: A Prospective Cohort 10-Year Implant Study]] |
 | [[mojaver-2025-supportive-peri-implant-therapy-efficacy-sr|Efficacy of supportive peri-implant therapy in the management of peri-implant mucositis and peri-implantitis: A systematic review]] |
 | [[monje-2025-long-term-surgical-treatment-outcomes|Long‐term surgical treatment outcomes of peri‐implantitis]] |
 | [[monje-2025-surface-decontamination-reconstructive-peri-implantitis|Surface Decontamination in Reconstructive Peri-Implantitis Therapy: A Multicenter RCT (Electrolytic vs Hydrogen Peroxide)]] |
@@ -95,6 +103,7 @@ tags: [navigation, category-index, peri-implantitis]
 | [[monje-2026-flip-vs-plip-implantoplasty-extent-peri-implantitis-rct|FLIP vs PLIP: Full vs Partial Implantoplasty in Combined Peri-Implantitis Surgery — Quasi-RCT]] |
 | [[moraschini-2026-prevalence-of-peri-implantitis-around|Prevalence of Peri-Implantitis Around Zirconia Implants: A Systematic Review and Meta-Analysis of Current Evidence]] |
 | [[moreira-2026-air-polishing-versus-ultrasonic-instrumentation|Air-Polishing Versus Ultrasonic Instrumentation for Nonsurgical Treatment of Peri-Implantitis: A Randomized Clinical Trial]] |
+| [[park-2021-adjunctive-use-of-metronidazole-minocycline|Adjunctive use of metronidazole-minocycline ointment in the nonsurgical treatment of peri-implantitis: A multicenter randomized controlled trial]] |
 | [[park-2025-implantoplasty-vs-titanium-brushes-peri-implantitis-rct|Implantoplasty vs. Rotating Titanium Brushes in Peri-Implantitis Surgery: 1-Year Non-Inferiority RCT]] |
 | [[piattelli-2003-clinical-histologic-aspects-dental-implants|Clinical and histologic aspects of dental implants removed due to mobility]] |
 | [[pirc-2026-concave-convex-emergence-profiles-mucosal-ma|Concave vs Convex Emergence Profiles and Midfacial Mucosal Stability: First RCT-Level Meta-Analysis]] |
@@ -107,6 +116,7 @@ tags: [navigation, category-index, peri-implantitis]
 | [[ramseier-2024-diagnostic-measures-monitoring-follow-up|Diagnostic measures for monitoring and follow-up in periodontology and implant dentistry]] |
 | [[ravida-2022-keratinized-mucosa-width-peri-implant-disease-sr-ma|The role of keratinized mucosa width as a risk factor for peri-implant disease: A systematic review, meta-analysis, and trial sequential analysis]] |
 | [[regidor-2026-electrolytic-decontamination-peri-implantitis-rct|Adjunctive Electrolytic Decontamination in Reconstructive Peri-Implantitis Surgery: A Negative RCT]] |
+| [[reis-2023-the-influence-of-smoking-on|The influence of smoking on the incidence of peri-implantitis: A systematic review and meta-analysis]] |
 | [[reis-2025-peri-implant-disease-prevalence-world-workshop-criteria|The prevalence of peri-implant mucositis and peri-implantitis based on the world workshop criteria: A systematic review and meta-analysis]] |
 | [[riben-2026-systemic-antibiotics-in-the-surgical|Systemic Antibiotics in the Surgical Treatment of Peri-Implantitis: Impact on the Salivary Microbiome]] |
 | [[roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible|Role of Keratinized Mucosa on the Risk of Peri-Implant Diseases and Soft Tissue Dehiscence in the Posterior Mandible—A 20-Year Prospective Cohort Study]] |
@@ -114,6 +124,7 @@ tags: [navigation, category-index, peri-implantitis]
 | [[sbricoli-2026-peri-implant-disease-prevalence-type2-diabetes|Prevalence of Peri-Implant Diseases in Patients With Type 2 Diabetes Mellitus: A Cross-Sectional Study]] |
 | [[shah-2016-radiographic-classification-retrograde-peri-implantitis|A Radiographic Classification for Retrograde Peri-implantitis]] |
 | [[shetty-2023-platelet-concentrates-peri-implantitis-treatment-sr|Effect of platelet concentrates on the treatment outcome of peri implantitis: A systematic review]] |
+| [[shibli-2026-systemic-and-local-antibiotics-in|Systemic and local antibiotics in the management of peri-implantitis: A systematic review and network meta-analysis]] |
 | [[smeets-2014-peri-implantitis-definition-etiology-review|Definition, etiology, prevention and treatment of peri-implantitis – a review]] |
 | [[soldini-2025-reconstructive-therapy-peri-implantitis-rct|Reconstructive Therapy of Peri-Implantitis Following Non-Surgical Treatment: An RCT]] |
 | [[soulami-2022-implant-abutment-emergence-angle-peri-implantitis-sr|Implant-abutment emergence angle and profile in relation to peri-implantitis: A systematic review]] |
@@ -123,5 +134,6 @@ tags: [navigation, category-index, peri-implantitis]
 | [[vrazic-2026-peri-implantitis-treatment-magnesium-membrane|Peri-Implantitis—An Overview of Treatment Options and a New Approach to the Treatment of Peri-Implantitis Using a Magnesium Membrane in Three Case Reports]] |
 | [[wang-2022-buccal-emergence-profile-peri-implant-rct|Influence of buccal emergence profile designs on peri-implant tissues: A randomized controlled trial.]] |
 | [[wang-2025-ao-aap-consensus-peri-implant-diseases-conditions|AO/AAP consensus on prevention and management of peri-implant diseases and conditions: Summary report]] |
+| [[yi-2020-emergence-angle-peri-implantitis-cross-sectional|Association of prosthetic features and peri-implantitis: A cross-sectional study]] |
 | [[zhang-2025-keratinized-mucosa-width-peri-implant-meta-analysis|The relationship between adequate keratinized mucosa and peri-implant disease: a systematic review and meta-analysis]] |
 | [[zhou-2026-surgical-protocols-peri-implantitis-cohort|Surgical Protocols for Peri-Implantitis: OFD vs Implantoplasty vs Reconstructive vs Combined — Retrospective Cohort (Frankfurt)]] |

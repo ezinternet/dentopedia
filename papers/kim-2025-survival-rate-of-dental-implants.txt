@@ -1,0 +1,123 @@
+I. Introduction
+
+Since Brånemark et al.and Schroeder et al.first introduced titanium implants, dental implants have evolved into an effective approach for restorations in partially edentulous and fully edentulous patients. Over the past 50+ years, implant-fixed dental prostheses have become the standard of care in dentistry through advancements in surface technology, establishment of surgical techniques, and improvements in the stability of the implant-abutment-prosthesis interface.
+
+The mandibular anterior region, which is the area between the mental foramina, is a suitable site for implant placement due to its unique anatomical and structural characteristics. In particular, the mandibular anterior region allows stable implant placement and a variety of prosthetic treatment options due to its favorable bone quality and the ease of sufficient placement depth. Although the narrow cervical width and axial orientation limitations of the mandibular anterior region sometimes necessitate bone grafting, these constraints can be overcome with appropriate treatment planning, enabling successful implant restoration.
+
+Various types of implant-supported prosthetic restorations are possible in the mandibular anterior region. High long-term survival rates have been reported for implants using both fixed and removable dental prostheses. The All-on-four concept, an option for fixed prosthetic restoration in completely edentulous patients, consists of a fully acrylic fixed prosthesis supported by four endosseous implants, with all implant attachments directed toward the cortical bone anterior to the mental foramina. Implant-retained overdentures utilizing attachments are a predictable removable prosthetic option for completely edentulous mandibular patients due to their high long-term survival rates. Recently, implant-assisted removable dentures have attracted attention as a new treatment option for partially edentulous patients, with reports of high success rates.
+
+In a study by Millen et al.on the impact of prosthesis type on implant survival in the edentulous mandible, the authors suggested that prosthesis design can influence implant survival. The choice between screw-retained and cement-retained implant supports affects prosthesis survival and complication rates. Screw-retained full-arch prostheses exhibited a higher frequency of chipping, whereas cement-retained prostheses were associated with more numerous biological and technical complications; however, no significant difference in implant survival was observed. Further research is needed to evaluate the long-term effects of different retention methods.
+
+Several studies on loading protocols demonstrated that immediate loading leads to high survival rates in appropriately selected patient groups. Compared with conventional loading, there were no significant differences in implant failure rates, peri-implant bone resorption, or biological and mechanical complications. However, in single-tooth implants or certain occlusal types, the risk of failure tends to be slightly higher. This suggests that the success of immediate loading depends on factors such as patient selection, surgical technique, and prosthetic design.
+
+Risk factors affecting implant survival can be categorized into systemic and local factors. Systemic factors such as smoking, implant length and diameter, immediate placement and loading, osteoporosis, and systemic diseases like Crohn’s disease have been reported to be major factors in reduced implant survival rates. Local factors including bone quality and quantity, implant position, prosthetic designs involving cantilevers or excessive angulation, and maintenance of aseptic conditions during surgery can also influence survival rates.
+
+Although many studies have examined the impact of implant-supported removable and fixed prostheses on implant prognosis, they did not consider detailed prosthetic factors such as loading protocol, retention type, cantilever presence, or prosthesis classification. Additionally, systemic conditions in patients were not considered. A recent systematic review of implant survival based on arch position reported a lack of data on patients who are partially edentulous in the mandibular anterior region.
+
+This study aims to analyze the survival rates of implants placed in the mandibular anterior region with different prosthetic restorations and to evaluate risk factors associated with implant failure in this area. The null hypotheses are
+
+• Prosthesis design does not affect the survival of implants placed in the mandibular anterior region.
+
+• There are no risk factors associated with implant failure in the mandibular anterior region.
+
+II. Patients and Methods
+
+1. Study population
+
+Information was collected on 631 implants placed in the mandibular anterior region (between the mental foramina) in 343 patients at Wonkwang University Dental Hospital between June 2010 and June 2023. The first implant was installed on June 1, 2010, and the last on June 27, 2023. The implants were placed by skilled oral and maxillofacial surgeons, periodontists, and residents. All implants underwent prosthetic restoration and at least one follow-up visit. Patients were excluded if their medical records were insufficient, if the implants were splinted to another in the posterior region, if they had uncontrolled diabetes, or if they had received radiation therapy to the head and neck region due to malignant tumors. Based on these criteria, the final study population included 326 patients and 604 implants.
+
+2. Ethical approval
+
+This study was approved by the Institutional Review Board (IRB) of Wonkwang University Dental Hospital (WKDIRB202401-01).
+
+3. Data collection
+
+The following information was collected: (1) Patient age at the time of implant placement; (2) Sex; (3) Implant morphological characteristics: diameter, length, and manufacturer; (4) Smoking status; (5) Systemic conditions such as diabetes, osteoporosis, or hypertension; (6) Bone grafting status; (7) Loading protocol; (8) Prosthetic occlusal material; (9) Opposing dentition; (10) Type of prosthesis: single crown, fixed partial denture, hybrid denture, implant overdenture, or implant-assisted removable partial denture; (11) Presence of cantilever; (12) Follow-up period; and (13) Implant failure.
+
+Implant failure was defined as implant loss or removal. The failure criteria were based on those proposed by Cochran et al., which include persistent or irreversible signs such as mobility, pain, or infection. The survival period was the duration from implantation date to the failure date or the last follow-up visit, and survival rates were compared accordingly.
+
+The loading protocol was defined according to the criteria proposed by Weber et al.. Conventional loading was defined as prosthetic loading applied more than 2 months after implant placement. Early loading was defined as loading applied between 1 week and 2 months after implant placement, while immediate loading was defined as prosthetic loading applied within 1 week of implant placement.
+
+Survival analysis was conducted using Kaplan–Meier survival curves. The log-rank test was used to compare survival rates based on prosthesis type. Cox regression analysis was performed to identify factors affecting implant survival. Statistical analysis was conducted using IBM SPSS Statistics ver. 25.0 (IBM), with statistical significance set at 95% (<0.05).
+
+III. Results
+
+1. General characteristics of the study subjects
+
+The general characteristics of the study subjects and the implants are as follows.(,)
+
+2. Comparison of cumulative survival rate according to prosthesis type
+
+The total number of implants was 604, with an observation period ranging from one day after implantation to 163 months. The average observation period was 44.38 months. A total of 14 implants failed, resulting in an overall cumulative survival rate of 97.68%.
+
+1) Loading protocol
+
+Survival analysis based on the loading protocol showed that the cumulative survival rate was lower for immediate loading compared to conventional and early loading, and the log-rank test confirmed a significant difference between the survival curves (χ=12.71, df=2;<0.05).()
+
+2) Opposing dentition type
+
+Survival analysis based on the opposing dentition type showed no significant difference in survival. The log-rank test showed no significant difference in survival curves among groups based on opposing dentition type (χ=2.04, df=2;>0.05).()
+
+3) Prosthesis type
+
+Survival analysis based on prosthesis type showed no significant difference between groups in survival. The log-rank test showed no significant difference in survival curves among groups based on prosthesis type (χ=4.25, df=4;>0.05).()
+
+4) Prosthesis retention type
+
+Survival analysis based on prosthesis retention type showed that the cumulative survival rate was lower for the screw-retained type compared to the cement-retained and attachment types. The log-rank test confirmed a significant difference between the survival curves (χ=26.44, df=2;<0.05).()
+
+5) Presence of cantilever
+
+Survival analysis based on the presence of a cantilever showed that the cumulative survival rate was significantly lower for prostheses with a cantilever compared to those without a cantilever. The log-rank test confirmed a significant difference between the survival curves (χ=5.25, df=1;<0.05).()
+
+3. Factors influencing survival rate
+
+Cox regression analysis was used to identify factors affecting survival rate, and the loading protocol was found to have a significant impact on implant failure. In this study, conventional loading was associated with significantly lower risk of implant failure compared with immediate loading (hazard ratio [HR]=0.00, 95% confidence interval [CI]=0.000-0.509;0.05).
+
+presents the HR for each factor along with its 95% CI. Clinical information on failed implants is provided in,.
+
+IV. Discussion
+
+In this study, a comparison of survival curves based on prosthesis type was conducted to evaluate the impacts of various prosthetic restorations on the survival of implants placed in the mandibular anterior region. Additionally, potential risk factors associated with implant failure in this region were assessed. The survival curves of implants placed in the mandibular anterior region differed significantly according to prosthesis type. Therefore, the first null hypothesis was rejected. Risk factor analysis revealed that loading protocol had an impact on implant failure; thus, the second null hypothesis was also rejected.
+
+The survival curve of implants placed in the mandibular anterior region showed a significant difference according to prosthesis type. There was a difference in survival curves based on the loading protocol, with cumulative survival rate being lower for immediate loading compared to early loading and conventional loading. According to a literature review on immediate loading, all studies reported success rates similar to conventional loading, establishing immediate loading as a successful protocol. Another literature review indicated that, while immediate loading showed success rates comparable to those of conventional loading, the clinical success of this technique is highly dependent on patient selection, bone quality and quantity, implant number and design, occlusal load, and surgeon skill. Among these, implant primary stability was the most critical factor. Excessive stress beyond a critical threshold at the implant-bone interface during the initial loading phase can lead to implant or prosthesis failure. In contrast to previous studies, this study found that the cumulative survival rate of implants with immediate loading was lower than that of conventional loading. Of the implants that failed, the proportion that failed during the temporary prosthesis phase was 60% (3 of 5), suggesting that excessive stress had been applied during the initial loading phase.
+
+In this study, there was no significant difference in cumulative survival rate based on opposing dentition type. A study addressing the impact of opposing teeth on implant restorations suggests that, when opposing teeth are not properly aligned or there is abnormal occlusion, there is a higher likelihood of adverse effects such as minor damage, wear, or framework fracture in the prosthesis. Although studies on the impact of opposing teeth on the clinical outcomes of implant restorations are limited, there are indications that the condition and type of opposing teeth may be associated with technical problems in implant prostheses. In this study, the focus was on implant survival rather than these technical problems, and opposing dentition type did not have a significant effect. Additionally, due to the characteristics of the mandibular anterior region, the influence of opposing teeth, such as occlusal forces, might be less pronounced than that in the posterior region.
+
+A systematic review analyzing the impact of implant-supported prosthesis type on implant loss in edentulous patients suggested that the type of restoration affected the estimated implant loss rate. Prosthesis types were divided into fixed and removable prostheses, with significantly lower estimated implant loss rate for fixed prostheses than that for removable prostheses. However, another clinical study reported that prosthesis types such as single crowns, fixed dental prostheses, and removable dental prostheses did not influence the incidence of implant failure. In this study, while the goal was to investigate the effect of prosthesis type on implant failure by subdividing prosthesis types, no difference was found in cumulative implant survival rate. Previous studies controlled clinical conditions such as edentulous range and loading protocol, but in this study, these conditions varied among patients; in addition, the classification of prostheses was more detailed, resulting in smaller sample sizes for each category. The mandibular anterior region also has better initial stability and lower occlusal force, which might have mitigated the effect of prosthesis type on implant prognosis.
+
+In this study, screw-retained prostheses had a lower cumulative survival rate compared to cement-retained prostheses and attachments. A meta-analysis by Lemos et al.showed that cement-retained fixed implant-supported prostheses had less marginal bone loss and higher implant survival rates compared to screw-retained fixed prostheses. However, another systematic reviewreported no significant difference in 5-year survival rates between cement-retained and screw-retained prostheses (0.05). Differences in implant survival rates based on prosthesis retention type have varied across studies, and since the screw-retained prosthesis in this study included a temporary implant restoration cylinder, accurate comparison and interpretation of failure rates can be challenging.
+
+In this study, the cumulative survival rate was higher for prostheses without a cantilever compared to those with a cantilever. A literature review on implant-supported cantilever prosthesesindicated that the implant survival rate for cantilever prostheses is very high. However, the rate of mechanical, technical, and biological complications was greater than 25% in partially edentulous patients and greater than 39% in completely edentulous patients. Unlike previous studies, this study was limited to the mandibular anterior region. The mandibular anterior region has a narrow alveolar ridge that requires the use of smaller diameter implants, which is less favorable for distribution of the stresses applied to the implant. This suggests that the use of smaller-diameter implants and longer cantilevers can concentrate the stress, increasing the likelihood of implant and prosthesis failure.
+
+In this study, patient-related factors (Sex, age, smoking status, diabetes, osteoporosis, hypertension), a surgical factor (bone grafting), implant-related factors (implant diameter, length), and prosthetic factors (loading protocol, prosthesis material, opposing dentition, prosthesis type, prosthesis retention type, presence of a cantilever) were included in risk factor analysis. That analysis demonstrated that only the conventional loading protocol had a significantly lower likelihood of implant failure compared to immediate loading (HR=0.00, 95% CI=0.000-0.509;0.05).contains some extreme HR values. The primary reason for the abnormally high HR value is the insufficient number of events and the concentration of failures in the 51-70 years age group. Additionally, no failures occurred in the 30 and under and 31-50 years age groups, which can result in extremely low or infinite HR values. Failures were most common in implants with diameters of 3.4-4.0 mm, although the HR values were unstable due to the low number of events relative to the sample size. Therefore, a larger sample size is necessary to obtain more reliable results.
+
+Previous studies have suggested that smoking, immediate implantation, male, and short implantscould influence implant failure; however, these factors were not associated with implant failure in the present research. This study investigated the impact of each risk factor on implant failure as a single variable, and a similar studyconcluded that the presence of a single risk factor, other than bruxism, does not significantly increase the risk of failure. Additionally, the small sample size for each category might have hindered clear establishment of a relationship between each factor and implant failure.
+
+There are few absolute contraindications to dental implant treatment, though certain conditions can increase the risk of failure or complications. Although hypertension itself does not directly affect implant surgery, complications related to the use of anticoagulants can occur. The use of dental implants in patients with osteoporosis is not contraindicated. However, some case-control studies have reported a weak association between osteoporosis and implant failure. Bisphosphonate-related osteonecrosis of the jaw is a significant concern in patients treated with intravenous bisphosphonates, whereas its occurrence in patients receiving oral bisphosphonates is minimal. The osteoporosis medications used in this study were bisphosphonates, selective estrogen receptor modulators, and calcium supplements for oral administration, while bisphosphonates and RANKL inhibitors were used as injectable treatments. However, no implant failures were observed in patients with a history of osteoporosis. Furthermore, risk factor analysis did not provide evidence that systemic diseases increase the risk of implant failure.
+
+The limitations of this study are as follows. First, among the five failed screw-retained implants included in the study, four failed during the temporary restoration phase, suggesting that other factors, such as impaired initial stability, contributed to failure. Second, the relationships between implant failure and factors other than loading protocol could not be clearly identified. This might be due to the relatively small sample size for each category. Last, due to limitations in the records, factors such as the degree of periodontal disease, oral hygiene status, and bone quality, which have been shown to influence implant failure in previous studies, were not considered in this study.
+
+Future research should exclude the temporary cylinder from screw-retained implants to conduct a more systematic analysis. This will allow clearer identification of the risk factors for failure in each phase. Additionally, future studies should evaluate the relationships between various factors and implant failure with a larger sample size, to increase statistical power. Furthermore, periodontal disease severity and oral hygiene status should be included for a more comprehensive and in-depth analysis of variables that can impact implant failure.
+
+V. Conclusion
+
+This study analyzed the survival rate of implants placed in the mandibular anterior region, providing a clear summary of survival rates based on patient characteristics and implant prosthetic features compared to previous studies. The survival curves were compared based on loading protocol, opposing arch type, prosthetic type, retention form, and cantilever presence, revealing significant differences in survival curves according to loading protocol, retention form, and cantilever presence. Additionally, risk factors were analyzed, including patient characteristics and systemic diseases, highlighting that the loading protocol is a significant factor influencing implant survival.
+
+The following conclusions can be drawn from the evaluation of factors influencing the survival of implants placed in the mandibular anterior region and the potential risk factors associated with implant failure.
+
+1. Among the 604 implants placed in the mandibular anterior region, 14 failed, resulting in an overall cumulative survival rate of 97.68%. The observation period ranged from one day after implantation to a maximum of 163 months, with an average observation period of 44.38 months.
+
+2. No significant difference in cumulative survival rates was observed based on the type of opposing dentition.
+
+3. No significant difference in cumulative survival rates was observed based on the type of prosthesis.
+
+4. The cumulative survival rate of implants subjected to immediate loading was lower compared to those subjected to early and conventional loading.
+
+5. The cumulative survival rate of implants supporting screw-retained prostheses was lower compared to those supporting cement-retained prostheses.
+
+6. The cumulative survival rate of implants supporting prostheses without cantilevers was higher compared to those with cantilevers.
+
+7. Risk factor analysis revealed that conventional loading significantly reduced the likelihood of implant failure compared to immediate loading.
+
+This study has several limitations. Most implant failures occurred during the temporary restoration phase, suggesting impaired initial stability. The relationships between implant failure and factors other than the loading protocol were unclear due to the small sample size. Additionally, factors like periodontal disease, oral hygiene, and bone quality were not considered. Future research should adopt a more systematic approach and include larger sample sizes to better identify risk factors for implant failure. Nevertheless, this study is expected to provide a foundation for evaluating the prognosis of mandibular anterior implants.

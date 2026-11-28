@@ -31,7 +31,7 @@ tags: [practice-management, korean-dentistry, constitutional-court, dentist-work
 
 Synthesis of 2 practice-management papers covering the Korean dental landscape: active Korean dentist count grew at 2.39% annually (2012–2022), exceeding population growth in most regions, with statistically significant metropolitan-vs-non-metropolitan distribution disparity (ANOVA confirmed; Yim & Jeon, JKDA 2024 cross-sectional, KDA Health Policy Institute).
 
-The regional concentration (수도권 쏠림) means urban competitive density is markedly higher, making regional density data a necessary input for branch-clinic location and specialty-niche planning; the 2.39% annual-growth rate is the primary quantitative anchor in the ongoing dental-school-quota expansion debate.
+The regional concentration (수도권 쏠림) means urban competitive density is markedly higher, making regional density data a necessary input for branch-clinic location and specialty-niche planning; the 2.39% annual-growth rate is the primary quantitative anchor in the ongoing dental-school-quota expansion debate, and at this trajectory per-capita dentist density approaches OECD high-income-country saturation levels by the early 2030s — the policy implication is a widening regional quality gap, not oversupply in absolute terms.
 
 Ha 2023 (JKDA, Jeonbuk National University) catalogues Korean Constitutional Court decisions and constitutional complaints (헌법소원) involving dental practice — scope likely covers scope-of-practice disputes, licensing/qualification, patient-vs-practitioner rights, and health-insurance regulatory disputes; individual case holdings require manual review (CID font encoding prevented machine-readable extraction).
 

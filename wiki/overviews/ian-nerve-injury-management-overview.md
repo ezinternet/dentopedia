@@ -43,7 +43,7 @@ Synthesis of 18 papers (3 SR, 1 RCT, 5 narrative reviews, 3 case reports/series,
 
 Implant-related neuropathy occurs in 12% at 1 week resolving to 5% at 3 months (SR, n=503–662); implant removal within 36 hours is the single most critical intervention for direct IAN contact (SR of 6 studies, n=157: 47% diagnosed <36 h, 43% diagnosed >6 months with no recovery, full recovery consistent when treated <48 h); PBM and vitamin B12 each independently accelerate sensory recovery in the established-injury phase (SR: 7 RCTs; RCT: n=60, TPD −2.6 mm vs −0.8 mm sham); dexamethasone is effective only when administered early.
 
-No universal treatment guideline exists; all therapies rest on small RCTs with high risk of bias; the strongest clinical levers are prevention (≥2 mm radiographic safety margin, CBCT guidance) and the time-based protocol: intraoperative topical dexamethasone → early implant removal within 36 h if suspected contact → oral corticosteroids + PBM + methylcobalamin × 4–12 weeks → specialist referral at 12 weeks if no improvement.
+No universal treatment guideline exists; all therapies rest on small RCTs with high risk of bias; the 36-hour removal window applies specifically to suspected direct implant-IAN contact — not to chemotoxic or stretch injuries, whose management is pharmacological; the strongest clinical levers are prevention (≥2 mm radiographic safety margin, CBCT guidance) and the time-based protocol: intraoperative topical dexamethasone → implant removal within 36 h if direct IAN contact suspected → oral corticosteroids + PBM + methylcobalamin × 4–12 weeks → specialist referral at 12 weeks if no improvement.
 
 ## 세줄요약
 

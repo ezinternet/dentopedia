@@ -2,7 +2,7 @@
 title: "즉시식립·심미연조직 — esthetic-soft-tissue"
 authors: navigation
 year: 2026
-date: 2026-10-24
+date: 2026-11-22
 doi: N/A
 source: navigation
 category: immediate-implant/esthetic-soft-tissue
@@ -15,20 +15,20 @@ tags: [navigation, category-index, esthetic-soft-tissue]
 > [!summary] 한국어 핵심요약
 > - **분야**: 즉시식립·심미연조직
 > - **범위**: Immediate implant esthetic & soft-tissue outcomes — immediate provisionalization, connective-tissue/soft-tissue grafting (SCTG/CTG), midfacial recession & papilla, pink esthetic score, buccal-dehiscence esthetic, esthetic-zone selection criteria
-> - **수록 논문**: 70편
+> - **수록 논문**: 78편
 
 ## Three-line Summary
 
 **Scope**: Immediate implant esthetic & soft-tissue outcomes — immediate provisionalization, connective-tissue/soft-tissue grafting (SCTG/CTG), midfacial recession & papilla, pink esthetic score, buccal-dehiscence esthetic, esthetic-zone selection criteria
-**Indexed papers**: 70 papers in `wiki/immediate-implant/esthetic-soft-tissue/`.
+**Indexed papers**: 78 papers in `wiki/immediate-implant/esthetic-soft-tissue/`.
 
 ## 세줄요약
 
 **분야**: 즉시식립·심미연조직
-**수록 논문**: 70편
+**수록 논문**: 78편
 **하위 카테고리**: 없음
 
-## Papers in this Category (70)
+## Papers in this Category (78)
 
 | Paper |
 |---|
@@ -47,9 +47,11 @@ tags: [navigation, category-index, esthetic-soft-tissue]
 | [[chappuis-2017-dimensional-bone-soft-tissue-post-extraction|Clinical relevance of dimensional bone and soft tissue alterations post-extraction in esthetic sites]] |
 | [[chen-2009-clinical-esthetic-outcomes-implants-postextraction|Clinical and Esthetic Outcomes of Implants Placed in Postextraction Sites]] |
 | [[chen-2014-esthetic-outcomes-immediate-early-implant|Esthetic Outcomes Following Immediate and Early Implant Placement in the Anterior Maxilla — A Systematic Review]] |
+| [[chu-2015-flapless-postextraction-socket-implant-placement-part2|Flapless Postextraction Socket Implant Placement, Part 2: The Effects of Bone Grafting and Provisional Restoration on Peri-implant Soft Tissue Height and Thickness—A Retrospective Study]] |
 | [[cosyn-2026-buccal-dehiscence-morphotype-regenerative-strategy-iip|Impact of the Buccal Dehiscence Morphotype on the Regenerative Strategy in Immediate Implant Placement]] |
 | [[de-angelis-2021-immediate-implant-provisionalization-soft-tissue-retrospective|Influence of Immediate Implant Placement and Provisionalization with or without Soft Tissue Augmentation on Hard and Soft Tissues in the Esthetic Zone: A One-Year Retrospective Study]] |
 | [[de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma|The effect of soft tissue augmentation on the clinical and radiographical outcomes following immediate implant placement and provisionalization: a systematic review and meta-analysis]] |
+| [[de-rubertis-2025-adjunctive-procedures-immediate-implant|Adjunctive Procedures in Immediate Implant Placement: Necessity or Option? A Systematic Review and Meta-Analysis]] |
 | [[deng-2024-posterior-open-wound-healing-immediate-implant|Posterior open wound healing in immediate implant placement using reactive soft tissue versus absorbable collagen sponge: a retrospective cohort study]] |
 | [[donker-2025-immediate-implant-provisionalization-digital-workflow-prospective|Immediate Implant Placement and Provisionalization in the Aesthetic Zone Using a Digital Workflow: A 1-Year Prospective Case Series Study]] |
 | [[dutra-2025-customized-healing-abutments-immediate-implants|Effectiveness of customized healing abutments in immediate implants: a randomized clinical trial]] |
@@ -63,6 +65,7 @@ tags: [navigation, category-index, esthetic-soft-tissue]
 | [[galve-huertas-2024-inverted-body-shift-design-pilot|Immediate Implant Placement in the Esthetic Area Using an Inverted Body-Shift Design: A Prospective Clinical Pilot Study]] |
 | [[girlanda-2019-deproteinized-bovine-bone-derived-collagen|Deproteinized bovine bone derived with collagen improves soft and bone tissue outcomes in flapless immediate implant approach and immediate provisionalization: a randomized clinical trial]] |
 | [[gomez-meda-2021-esthetic-biological-contour-emergence-profile|The esthetic biological contour concept for implant restoration emergence profile design]] |
+| [[gonzalez-martin-2020-contour-management-implant-restorations-emergence-profiles|Contour Management of Implant Restorations for Optimal Emergence Profiles: Guidelines for Immediate and Delayed Provisional Restorations]] |
 | [[hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma|Selection criteria for immediate implant placement and immediate loading for single tooth replacement in the maxillary esthetic zone: A systematic review and meta-analysis]] |
 | [[han-2025-immediate-implant-maxillary-esthetic-dual-thread|A prospective clinical study of immediate implant placement in the maxillary esthetic zone]] |
 | [[hicklin-2024-immediate-vs-early-blt-implants-pink-esthetic-pilot-rct|Immediately versus early placed bone-level-tapered implants supporting all-ceramic crowns on titanium base abutments: 1-year radiographic and pink esthetic outcomes of a multicenter pilot RCT]] |
@@ -70,6 +73,7 @@ tags: [navigation, category-index, esthetic-soft-tissue]
 | [[jiang-2020-hard-soft-tissue-alterations-during|Hard and soft tissue alterations during the healing stage of immediate implant placement and provisionalization with or without connective tissue graft: A randomized clinical trial]] |
 | [[jurado-2025-achieving-optimal-esthetics-with-immediate|Achieving Optimal Esthetics with Immediate Implants and Veneers in the Smile Zone: A Case Study]] |
 | [[kan-2003-immediate-placement-provisionalization-anterior|Immediate placement and provisionalization of maxillary anterior single implants: 1-year prospective study]] |
+| [[kim-2026-immediate-provisional-prosthetic-components-maintaining|Immediate Provisional Prosthetic Components for Maintaining Anterior Soft Tissue Contours Following Tooth Extraction: Two Case Reports]] |
 | [[kinaia-2017-soft-tissue-changes-around|Soft Tissue Changes Around Immediately Placed Implants: A Systematic Review and Meta-Analyses With at Least 12 Months of Follow-Up After Functional Loading]] |
 | [[lambert-2025-soft-tissue-augmentation-immediate-implant-sr|Esthetic and patient-reported outcomes in immediate implants with adjunctive surgical procedures to increase soft tissue thickness/height: A systematic review]] |
 | [[li-2019-dynamic-peri-implant-soft-tissue-scan|Dynamic changes of peri-implant soft tissue after interim restoration removal during a digital intraoral scan]] |
@@ -91,13 +95,17 @@ tags: [navigation, category-index, esthetic-soft-tissue]
 | [[seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma|Immediate implant placement with or without connective tissue graft: A systematic review and meta-analysis]] |
 | [[slagter-2014-immediate-placement-esthetic-zone-sr|Immediate placement of dental implants in the esthetic zone: a systematic review and pooled analysis]] |
 | [[slagter-2021-immediate-single-implant-provisionalization-5year|Immediate placement of single implants with or without immediate provisionalization in the maxillary aesthetic region: A 5-year comparative study]] |
+| [[soliman-2026-vestibular-socket-therapy-iip-outcomes|Clinical and Esthetic Outcomes of Vestibular Socket Therapy: A Systematic Review and Meta-Analysis]] |
 | [[staas-2026-fiipp-palatal-position-cbct-3year|Flapless immediate implant placement and provisionalisation (FIIPP) using a palatal implant position (≥ 2 mm): A prospective multicentre CBCT study with a 3-year follow-up]] |
+| [[su-2010-implant-abutment-crown-contour-critical-subcritical|Considerations of implant abutment and crown contour: critical contour and subcritical contour]] |
 | [[sutariya-2022-soft-tissue-immediate-provisionalization-sr-ma|The soft tissue esthetic outcome with and without immediate provisionalization in immediate implants: A systematic review and meta-analysis]] |
 | [[tamim-2025-custom-healing-abutment-immediate-implant|Custom healing abutments for immediate implant placement: A systematic review and meta-analysis]] |
 | [[torra-moneny-2024-connective-tissue-grafts-immediate-implant-sr-ma|Association of Connective Tissue Grafts in Immediate Implants: Systematic Review and Meta-Analysis]] |
 | [[wang-2020-volumetric-facial-contour-changes-immediately|Volumetric facial contour changes of immediately placed implants with and without immediate provisionalization]] |
 | [[wang-2026-immediate-anterior-implant-primary-stability-aesthetic|The success rate and aesthetic outcomes of immediate anterior implant placement based on primary stability: A retrospective study]] |
+| [[wang-2026-immediate-restoration-bone-remodeling-esthetic-rct|Impact of immediate restoration on bone remodeling in the esthetic zone: a randomized clinical trial]] |
 | [[weigl-2016-impact-immediately-placed-restored|The impact of immediately placed and restored single-tooth implants on hard and soft tissues in the anterior maxilla]] |
+| [[wittneben-2013-dynamic-compression-technique-soft-tissue-conditioning|Peri-implant soft tissue conditioning with provisional restorations in the esthetic zone: the dynamic compression technique]] |
 | [[wu-2026-immediate-provisionalization-natural-crown-frc|Effect of immediate provisionalization using natural crowns with fiber splints on gingival contour and esthetic outcomes after immediate implant placement: a randomized clinical trial]] |
 | [[yan-2016-soft-hard-tissue-immediate-placement-restoration-esthetic|Soft and hard tissue changes after immediate placement, immediate restoration, or immediate loading of single-tooth implants in esthetic zone: a systematic review and meta-analysis]] |
 | [[yang-2019-labial-bone-thickness-esthetics-iipp|The thickness of labial bone affects the esthetics of immediate implant placement and provisionalization in the esthetic zone: A prospective cohort study]] |

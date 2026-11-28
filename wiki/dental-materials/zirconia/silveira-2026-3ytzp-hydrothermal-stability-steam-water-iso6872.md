@@ -19,7 +19,7 @@ relations:
 
 In-vitro study (150 3Y-TZP discs, 3 groups: immediate control, steam-aged per ISO 6872:2024, water-immersed; both aging at 134°C/2.2 bar/10h): water immersion produced significantly MORE t→m transformation (37% monoclinic) vs steam (24%), a deeper degraded surface layer, and reduced translucency.
 
-Water-immersed group paradoxically showed significantly HIGHER characteristic flexural strength vs steam — consistent with transformation toughening from greater surface monoclinic content.
+Water-immersed group showed significantly HIGHER characteristic flexural strength than the other groups; the abstract does not state a mechanism (transformation-induced surface compression is a plausible interpretation, not a finding).
 
 Conclusion: the ISO 6872:2024 switch from water immersion to steam produces a less severe LTD test; studies before and after this standard update are systematically non-comparable without correction.
 
@@ -33,18 +33,18 @@ ISO 6872:2024 변경(수침지→증기) = LTD 시험 심각도 감소; 개정 �
 
 ## Summary
 
-Silveira et al. (2026) provide the first direct quantitative comparison between ISO 6872:2024 steam aging and the previous water immersion protocol on the same 3Y-TZP material. The finding that water immersion produces more severe LTD (37% vs 24% monoclinic) has immediate implications for interpreting the existing LTD literature: prior studies using water immersion were testing a harsher standard. The paradoxical strength increase with water immersion (transformation toughening) mirrors findings from Sarabi (2024) and Kohorst (2012).
+Silveira et al. (2026) directly compared ISO 6872:2024 steam aging with water-immersion aging on the same 3Y-TZP material under identical temperature, pressure and time. The finding that water immersion produces more severe LTD (37% vs 24% monoclinic) has immediate implications for interpreting the existing LTD literature: prior studies using water immersion were testing a harsher standard. The strength increase with water immersion resembles Sarabi (2024), where aging did not lower flexural strength despite up to 51.2% monoclinic; it does NOT mirror Kohorst (2012), where 3Y-TZP strength fell after aging (1740 → 1169 MPa) and only ATZ increased.
 
 ## Key Contributions
 
 1. **ISO 6872:2024 steam is less aggressive** than water immersion: 24% vs 37% monoclinic under identical temperature/pressure/time
 2. **Deeper degraded layer with water**: cross-sectional SEM confirmed greater LTD penetration depth
-3. **Transformation toughening paradox**: more LTD → more compressive stress → higher characteristic FS in water group
+3. **Strength paradox**: more t→m (37%) and a deeper degraded layer, yet higher characteristic strength in the water group — mechanism not reported in the abstract
 4. **Translucency reduced with water immersion** (TP significantly lower) — optical degradation alongside phase change
 
 ## Methodology
 
-- 150 3Y-TZP discs (Zpex, Tosoh), uniaxial pressing, density >99%
+- 150 3Y-TZP discs (groups labelled "Zpex"; abstract describes the 3Y-TZP as synthesized and does not name a supplier), uniaxial pressing, density >99%
 - Groups: Zpex-I (immediate), Zpex-St (steam, 134°C/2.2 bar/10h per ISO 6872:2024), Zpex-Iw (water immersion, 134°C/2.2 bar/10h)
 - Density, XRD (monoclinic), SEM (grain size, degraded layer depth), TP + CR, biaxial FS + Weibull analysis
 - 1-way ANOVA + Tukey's test

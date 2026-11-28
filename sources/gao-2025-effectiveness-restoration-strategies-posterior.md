@@ -16,6 +16,22 @@ Retrospective study (n=247 patients, 283 regions) comparing M1-only vs M1+M2 imp
 ## 한줄요약
 제1·2대구치 결손 환자에서 제1대구치만 임플란트 수복(SDA 개념) vs 양측 동시 수복 비교: 임플란트 생존율 동등(HR 1.66, p=0.567), M1만 수복군은 비용 1.7배 절감, 치주염 (Peri-implantitis, PI) 0% vs 16.2% (p=0.043), 골흡수 0.5 mm 초과 위험도 보호인자 (Clin Oral Implants Res 2025).
 
+## Three-line Summary
+
+Retrospective cohort study (n=247 patients, 283 regions, ≥3 years) comparing M1-only versus M1+M2 simultaneous implant restoration in patients missing both first and second molars, applying the shortened dental arch (SDA) concept to implant dentistry.
+
+Implant survival was equivalent (HR 1.66, p=0.567); M1-only had 1.7× lower cumulative cost, 0% versus 16.2% peri-implantitis incidence over 3 years (p=0.043), and was protective against marginal bone loss (MBL) >0.5 mm; chewing ability PROMs showed no significant difference.
+
+M1-only implant strategy provides equivalent function with significantly fewer complications and lower cost, supporting conservative implant planning in posterior edentulism as an SDA extension.
+
+## 세줄요약
+
+후향 코호트 (n=247, 283 부위, ≥3년): 제1·2대구치 결손 환자에서 제1대구치만 임플란트(M1 단독) vs 양측 동시 임플란트(M1+M2) 비교 — 단축치열 (Shortened Dental Arch, SDA) 개념의 임플란트 확장.
+
+임플란트 생존율 동등 (HR 1.66, p=0.567); M1 단독군 비용 1.7배 절감, 치주염 (Peri-implantitis, PI) 0% vs 16.2% (p=0.043), 변연골흡수 (Marginal Bone Loss, MBL) >0.5 mm에 보호 인자; 저작 PROMs 차이 없음.
+
+M1 단독 임플란트 전략은 동등한 기능과 현저히 낮은 합병증·비용; 후방 치아 결손의 보수적 임플란트 계획 지지.
+
 ## 1. Document Information
 - **Journal:** Clinical Oral Implants Research
 - **Volume/Pages:** 36(8): 978–990

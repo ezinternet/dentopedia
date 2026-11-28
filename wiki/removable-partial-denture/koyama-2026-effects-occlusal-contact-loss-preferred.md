@@ -6,7 +6,7 @@ date: 2026-07-11
 doi: "10.2186/jpr.JPR_D_25_00327"
 source: koyama-2026-effects-occlusal-contact-loss-preferred.md
 category: removable-partial-denture
-confidence: rct
+evidence_level: rct
 pdf_path: ""
 pdf_filename: ""
 source_collection: pubmed-abstract
@@ -23,6 +23,22 @@ Randomized crossover trial (n=28) using occlusal splints to simulate unilateral 
 
 ## 한줄요약
 RCT 교차설계(n=28): 선호 저작측 (Preferred Chewing Side, PCS) 대구치 결손 시뮬레이션 → 저작 효율 (Masticatory Efficiency, ME)·주관적 저작능력 (Subjective Masticatory Ability, SMA) 유의하게 저하(p<0.05), 제2소구치 교합력 보상성 증가; 비선호측 결손은 유의 영향 없음 (J Prosthodont Res 2026).
+
+## Three-line Summary
+
+Koyama et al. (2026, Institute of Science Tokyo) conducted an experimental randomized crossover trial in 28 participants with intact dentition, using custom occlusal splints to simulate unilateral shortened dental arch by eliminating molar contacts, testing whether the preferred chewing side (PCS) matters for the functional impact of molar loss. Participants underwent both PCS removal and non-PCS removal conditions in randomized order.
+
+PCS molar removal significantly decreased masticatory efficiency (comminution-based, p<0.05) and subjective masticatory ability (SMA, p<0.05), with compensatory loading on the second premolar (second premolar maximum occlusal force increased significantly). In contrast, non-PCS molar removal produced no significant changes in overall masticatory function. A subgroup analysis revealed that individuals whose main occluding area (MOA) was at the second premolar experienced significantly smaller full-arch occlusal force reduction after PCS removal.
+
+This study adds an important side-specificity dimension to the SDA literature, establishing that PCS-specific molar loss drives functional impairment while non-PCS loss does not, refining the clinical decision threshold for prosthetic intervention. The compensatory second premolar loading and the MOA subgroup findings provide mechanistic insight into why SDA extending to premolars maintains functional adequacy in many patients.
+
+## 세줄요약
+
+코야마 등(2026, 도쿄과학대학)은 완전 치열 28명을 대상으로 맞춤형 교합 스플린트로 선호 저작측(Preferred Chewing Side, PCS) 또는 비선호측 대구치 접촉을 제거하는 단축치열 시뮬레이션 무작위 교차 임상 시험을 시행했다. 편측 대구치 소실이 선호측 여부에 따라 저작 기능에 다르게 영향을 미치는지 처음으로 검증했다.
+
+PCS 대구치 제거: 저작 효율(Masticatory Efficiency, ME, p<0.05)·주관적 저작능력(Subjective Masticatory Ability, SMA, p<0.05) 유의하게 저하, 제거측 제2소구치 최대 교합력 보상성 증가. 비선호측(non-PCS) 대구치 제거: ME·SMA·교합력 모두 유의한 변화 없음.
+
+이 연구는 PCS 특이적 대구치 소실이 기능 저하를 유발하고 비선호측 소실은 그렇지 않다는 측면 특이성을 처음으로 실험적으로 확립하며, 보철 중재 필요성의 임상 결정 역치를 정교화한다. 보상적 소구치 부하와 주요 교합 영역(MOA) 하위군 발견이 소구치까지 단축치열 유지가 많은 환자에서 기능적으로 적절한 이유를 기전적으로 설명한다.
 
 ## Summary
 This experimental randomized crossover trial from the Institute of Science Tokyo enrolled 28 participants with intact dentition and used custom occlusal splints to simulate a unilateral shortened dental arch by eliminating molar contacts on one side. Participants underwent both PCS removal and non-PCS removal conditions in randomized order. PCS molar removal significantly decreased masticatory efficiency (comminution-based) and subjective masticatory ability (p<0.05). The second premolar on the removal side showed a compensatory increase in maximum occlusal force. In contrast, non-PCS molar removal produced no significant changes in overall masticatory function. A subgroup analysis revealed that individuals whose main occluding area was located at the second premolar (rather than the first molar) experienced a significantly smaller reduction in full-arch occlusal force after PCS removal, suggesting a naturally protective anatomical arrangement.

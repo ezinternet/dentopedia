@@ -25,7 +25,7 @@ In-vitro XRD study (3Y-TZP, 4Y/5Y-PSZ, and multilayer hybrid zirconia, polished 
 
 Polished specimens showed minor XRD peak broadening (FWHM increase) indicating surface-level microstructural changes (smaller crystallite size, internal stress accumulation); glazed specimens showed no such FWHM change.
 
-Conclusion: polishing is more effective than glazing for microstructural stability; cubic/tetragonal phase dominance confirmed under simulated clinical aging in all tested formulations.
+Conclusion (authors): polishing is more effective than glazing for microstructural stability; note that the 3Y-TZP control (Katana HTML) also showed no t→m, so this 134 °C/12 h test did not discriminate between low- and high-cubic zirconia.
 
 ## 세줄요약
 
@@ -33,15 +33,15 @@ Conclusion: polishing is more effective than glazing for microstructural stabili
 
 연마군: 미세 XRD 피크 확폭(FWHM 증가) → 표면 미세구조 변화(결정립 크기 감소, 내부 응력); 글레이징군: 변화 없음.
 
-연마가 글레이징보다 미세구조 열화 저항에 효과적; 임상 에이징 조건 하 큐빅/정방정 위주 지르코니아의 상 안정성 확인.
+저자 결론: 연마가 글레이징보다 미세구조 열화 저항에 효과적; 단, 대조군 3Y-TZP(Katana HTML)도 단사정이 생기지 않아 이 134 °C/12시간 시험은 저·고입방정 지르코니아를 구별하지 못했다.
 
 ## Summary
 
-Khabadze et al. (2025) independently confirmed and extended Kengtanyakich (2020) findings under harsher conditions (134°C/12h vs 122°C/8h), including multilayer hybrid variants. The study adds the clinically important finding that polishing produces surface microstructural changes (FWHM broadening) that may actually represent beneficial compressive stress buildup, while glazing shows no detectable XRD change but also provides no microstructural improvement.
+Khabadze et al. (2025) aged 3Y-TZP (Katana HTML, control), multilayer hybrid ZirCAD Prime (5Y enamel / 3Y dentin layers), Katana STML (~65% cubic) and Katana UTML (~75% cubic) discs at 134 °C/12 h with polished or glazed surfaces. No material — including the 3Y-TZP control — showed notable t→m transformation, so the study shows phase stability under these conditions but cannot confirm a cubic-content threshold such as Kengtanyakich's (2020) >30%. Polished specimens showed minor FWHM broadening (authors: smaller crystallite size, internal stress); the paper does not interpret this as beneficial compressive stress.
 
 ## Key Contributions
 
-1. **Independent confirmation** of LTD resistance in 4Y/5Y-PSZ under more severe conditions (134°C/12h)
+1. **Phase stability of all tested zirconias at 134 °C/12 h** — including the 3Y-TZP control, so the test does not discriminate cubic-content thresholds
 2. **Extends to multilayer hybrid** zirconia — clinically relevant for esthetic restorations
 3. **Surface treatment distinction**: polished = minor FWHM broadening (surface stress); glazed = stable XRD profile
 4. **Statistical validation**: phase composition stability at P>0.05 for all material groups; correlation peak intensity/FWHM: r=-0.253, P=0.481
@@ -49,7 +49,7 @@ Khabadze et al. (2025) independently confirmed and extended Kengtanyakich (2020)
 ## Methodology
 
 - Standardized discs: 1mm × 10mm diameter
-- Materials: 3Y-TZP, 4Y/5Y-PSZ (partially stabilized), hybrid multilayer variants
+- Materials: Katana HTML (3Y-TZP, control); ZirCAD Prime (Ivoclar; multilayer — 5Y-TZP enamel ~19%, transition ~25%, 3Y-TZP dentin ~56%); Katana STML (~65% cubic); Katana UTML (~75% cubic, 5Y-PSZ)
 - Surface: polished and glazed
 - Aging: 134°C/2 atm/12h autoclave
 - XRD: peak position, intensity, FWHM before and after aging

@@ -1,0 +1,16 @@
+TITLE: Assessing the Esthetic Impact of Platform-Switching Implant Designs: A Systematic Review of Clinical Evidence.
+AUTHORS: Benli M, Cayouette MJ
+JOURNAL: Int J Oral Maxillofac Implants
+CITATION: Int J Oral Maxillofac Implants 2026;41(1):19-34
+ID[pmid]: 40553087
+ID[doi]: 10.11607/jomi.11299
+FULL_TEXT: false (abstract-only — no PMC full text; retrieved via PubMed MCP 2026-11-21)
+
+ABSTRACT:
+PURPOSE: To evaluate the impact of platform-switching (PS) implants on esthetic outcomes, focusing on peri-implant soft tissue stability and the overall esthetics of dental implant restorations.
+
+MATERIALS AND METHODS: MEDLINE (PubMed), Scopus, and Web of Science searches were conducted for in vivo studies of PS implants, specifically those focusing on peri-implant tissue levels, soft tissue behavior, and gingival contour. Two reviewers assessed the identified studies and abstracted data independently, and an additional hand search complimented this. The articles were limited to those in English published between January 2014 and June 2024.
+
+RESULTS: The initial search yielded 91 results, of which 80 were selected for a full-text review following abstract evaluation. A total of 56 articles did not meet the inclusion criteria and were excluded, and the remaining 24 articles that provided peri-implant soft tissue values were used in this review. The results showed that implants with PS had improvements in pink esthetic score (PES), mesial and distal papilla height (PH), buccal peri-implant mucosal level, peri-implant mucosal zenith change, and esthetics recorded via visual analog scale. In the anterior region, implants with PS demonstrated superior esthetic results, with better integration of the implant restoration into the natural dentition.
+
+CONCLUSIONS: The outcome of this review suggests that implants with PS have improved esthetic outcomes because they preserve peri-implant soft tissue and enhance tissue stability. These implants offer a promising solution for achieving optimal esthetic results in dental implant restorations, particularly in the anterior region. Further long-term studies are needed to confirm the sustainability of these benefits and to refine the selection of implant designs for optimal esthetic outcomes.

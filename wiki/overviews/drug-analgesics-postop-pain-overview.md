@@ -35,16 +35,6 @@ source_papers:
   - drug/analgesics/ping-2026-ketorolac-root-canal-pain-sr-ma
   - drug/analgesics/tamgadge-2025-preoperative-dexamethasone-third-molar-pain-swelling-trismus
   - drug/analgesics/breidung-2025-epidemiological-characteristics-prognostic-scoring
-  - drug/analgesics/liborio-2025-methylprednisolone-third-molar-sr-ma
-  - drug/analgesics/singh-2023-dexamethasone-vs-methylprednisolone-third-molar-sr-ma
-  - drug/analgesics/larsen-2021-methylprednisolone-doses-split-mouth-rct
-  - drug/analgesics/gholami-2021-methylprednisolone-masseter-gluteal-third-molar-rct
-  - drug/analgesics/ibikunle-2016-prednisolone-qol-third-molar-rct
-  - drug/analgesics/buyukkurt-2006-prednisolone-diclofenac-third-molar-rct
-  - drug/analgesics/bakri-2024-prednisolone-prescribing-styles-third-molar
-  - drug/analgesics/dan-2010-corticosteroid-administration-oral-orthognathic-surgery
-  - drug/analgesics/almeida-2019-efficacy-corticosteroids-versus-placebo-impacted
-  - drug/analgesics/markiewicz-2008-corticosteroids-reduce-postoperative-morbidity-after-third-molar-surgery
   - drug/analgesics/maurice-szamburski-2025-intravenous-nsaids-perioperative-pain-narrative-review
   - drug/analgesics/beaudart-2025-celecoxib-safety-musculoskeletal-sr-ma
   - drug/analgesics/bailey-2013-ibuprofen-paracetamol-wisdom-teeth-cochrane
@@ -76,7 +66,7 @@ relations:
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 치과 급성 통증 약물 55편(SR+MA·Network MA 24·SR 3·RCT 10·후향 2·narrative 10·지침·합의 6) 종합. **2024년 최초 ADA 공식 진료지침(Carrasco-Labra 2024, JADA)** 발표로 비오피오이드 우선 정책이 공식화됨. 2026-09-13 갱신: 병용 용량(APAP 500mg) 정합, 진통 목적 스테로이드 근거 교체(Miroshnychenko 2023·Canellas 2022), 대체 NSAID·소아·음주·임신·환자 소통 추가.
+> - 치과 급성 통증 약물 47편(SR+MA·Network MA 19·SR 3·RCT 6·후향 3·narrative 10·지침·합의 6) 종합. **2024년 최초 ADA 공식 진료지침(Carrasco-Labra 2024, JADA)** 발표로 비오피오이드 우선 정책이 공식화됨. 2026-09-13 갱신: 병용 용량(APAP 500mg) 정합, 진통 목적 스테로이드 근거 교체(Miroshnychenko 2023·Canellas 2022), 대체 NSAID·소아·음주·임신·환자 소통 추가.
 > - **ADA 2024 CPG 핵심 구분 — 발치 유형이 오피오이드 허용 범위를 가른다**: 단순 발치(simple extraction) = 비오피오이드 단독, 오피오이드 사용 **반대 권고**; 외과 발치(surgical extraction) = 비오피오이드 1선, 불충분 시에만 오피오이드 병합 2선(최소용량·거의 3일 이내). 코르티코스테로이드를 표준 진통요법에 추가하는 것도 **반대 권고**(Very Low certainty). ⚠️ 단, 이 반대 권고는 진통(analgesic) 목적에 한정 — 부종·개구제한(trismus) 등 항염·항부종 목적의 스테로이드는 ADA CPG 범위 밖(out of scope)이므로 Tamgadge 2025 기반 preop dexamethasone 권장(§4)과 충돌하지 않음.
 > - **치통 잠정관리(temporary toothache management)** — 확정 치료(근관치료·발치)가 즉시 불가한 경우: 내원 중 단시간 작용 국소마취제 → 선택적 벤조카인 10–20% → 귀가 후 NSAID±APAP 1선 → 불충분 시에만 APAP+오피오이드 병합 2선(2–3일 내 의뢰까지의 bridge). 오피오이드는 informed consent + PDMP 확인 필수, just-in-case 처방 금지, 12–17세는 극도 주의(tramadol/codeine 일부 연령 금기).
 > - 1차 선택: **이부프로펜 (Ibuprofen) 400mg + 아세트아미노펜 (Acetaminophen, APAP) 병용** — Miroshnychenko 2023 Network MA(82 RCT, n=9,095)와 Moore 2015 Cochrane overview에서 가장 낮은 치료필요수(Number Needed to Treat, NNT ~1.5, APAP 1,000mg 조합 기준). **ADA 2024 CPG의 병용 기본 용량은 APAP 500mg**(Rec 1.1·2.1)이고 APAP 1,000mg은 NSAID 금기 시 단독 전량(Rec 1.4·2.2); APAP 누적 1일 ≤4,000mg. 진통 천장(ceiling)이 ibuprofen 400mg·APAP 1,000mg이라 단일제 증량보다 병용이 진통을 올리는 경로(Becker 2010).
@@ -99,7 +89,7 @@ relations:
 
 ## Three-line Summary
 
-Synthesis of 55 papers (24 SR+MA/network MA, 3 SR, 10 RCTs, 2 retrospective cohorts, 10 narrative reviews, 6 guideline/consensus documents) on acute dental pain management, anchored by the 2024 ADA clinical practice guideline (Carrasco-Labra 2024, JADA 155:102-117) — the first systematically developed ADA guideline: nonopioid first-line (NSAID alone or + acetaminophen 500 mg) for all scenarios; opioids recommended AGAINST after simple extraction; optional opioid-combination second line reserved for rare inadequate control after surgical extraction (lowest dose, fewest tablets, rarely >3 days); corticosteroids recommended AGAINST as analgesic adjuncts (Conditional, Very Low) because their pooled pain reduction falls below a 10-point triviality threshold (Miroshnychenko 2023 SR, 40 RCTs) — anti-edema and anti-trismus use is out of scope.
+Synthesis of 47 papers (19 SR+MA/network MA, 3 SR, 6 RCTs, 3 retrospective cohorts, 10 narrative reviews, 6 guideline/consensus documents) on acute dental pain management, anchored by the 2024 ADA clinical practice guideline (Carrasco-Labra 2024, JADA 155:102-117) — the first systematically developed ADA guideline: nonopioid first-line (NSAID alone or + acetaminophen 500 mg) for all scenarios; opioids recommended AGAINST after simple extraction; optional opioid-combination second line reserved for rare inadequate control after surgical extraction (lowest dose, fewest tablets, rarely >3 days); corticosteroids recommended AGAINST as analgesic adjuncts (Conditional, Very Low) because their pooled pain reduction falls below a 10-point triviality threshold (Miroshnychenko 2023 SR, 40 RCTs) — anti-edema and anti-trismus use is out of scope.
 
 Preemptive NSAIDs do not help for impacted third molars (Costa 2015 meta, p=0.22) but benefit implant/periodontal surgery (Gousias 2025 SR+MA); a single preoperative dexamethasone 4 mg IM clearly improves third-molar pain/swelling/trismus (Tamgadge 2025 split-mouth RCT, day-7 VAS 0.4 vs 1.6, p<0.001); endodontic analgesia is time-dependent — diclofenac+APAP or ketorolac dominate at 6–8 h (MD −6.28; SMD −0.82, rescue RR 0.50) but fade by 24 h, where naproxen/Novafen sustain (Kelidari 2026 NMA; Ping 2026 SR+MA).
 
@@ -107,7 +97,7 @@ Single-dose NSAID adverse-event ranking is largely nocebo — plain placebo rank
 
 ## 세줄요약
 
-치과 급성 통증 55편(SR+MA·Network MA 24·SR 3·RCT 10·후향 2·narrative 10·지침·합의 6) 통합: **2024 ADA 공식 CPG**(Carrasco-Labra 2024)가 최초 체계적 지침 — 전 시나리오 비오피오이드 1선(NSAID 단독 또는 + APAP 500mg); 단순 발치는 오피오이드 반대 권고, 외과 발치는 불충분 시에만 오피오이드 2선; 코르티코스테로이드 진통 보조는 반대 권고(통증 감소가 무의미 임계치 미만, Miroshnychenko 2023 SR; 부종·개구제한 목적은 범위 밖); 이부프로펜 (Ibuprofen) 400mg + 아세트아미노펜 (APAP) 병용이 NNT ≈1.5 최강(Miroshnychenko 2023 NMA 82 RCT n=9,095).
+치과 급성 통증 47편(SR+MA·Network MA 19·SR 3·RCT 6·후향 3·narrative 10·지침·합의 6) 통합: **2024 ADA 공식 CPG**(Carrasco-Labra 2024)가 최초 체계적 지침 — 전 시나리오 비오피오이드 1선(NSAID 단독 또는 + APAP 500mg); 단순 발치는 오피오이드 반대 권고, 외과 발치는 불충분 시에만 오피오이드 2선; 코르티코스테로이드 진통 보조는 반대 권고(통증 감소가 무의미 임계치 미만, Miroshnychenko 2023 SR; 부종·개구제한 목적은 범위 밖); 이부프로펜 (Ibuprofen) 400mg + 아세트아미노펜 (APAP) 병용이 NNT ≈1.5 최강(Miroshnychenko 2023 NMA 82 RCT n=9,095).
 
 술전 NSAID는 제3대구치엔 약함(Costa 2015 p=0.22), 임플란트·치주엔 유효(Gousias 2025 SR+MA); 술전 Dexamethasone 4mg IM은 제3대구치 통증·개구·부종 모두 개선(Tamgadge 2025 split-mouth, day-7 VAS 0.4 vs 1.6 p<0.001, 항염 목적이므로 ADA CPG 범위 밖); 근관치료는 시간대 의존 — Diclofenac+APAP·Ketorolac이 6–8h 최강(SMD −0.82, rescue RR 0.50), Naproxen·Novafen이 24h 지속.
 
@@ -117,7 +107,7 @@ Single-dose NSAID adverse-event ranking is largely nocebo — plain placebo rank
 
 ## Summary
 
-치과 급성 통증 약물 선택은 2024 ADA 공식 CPG 발표로 정책 틀이 명확해짐. 55편(SR+MA·Network MA 24, SR 3, RCT 10, 후향 2, narrative 10, 지침·합의 6) 종합:
+치과 급성 통증 약물 선택은 2024 ADA 공식 CPG 발표로 정책 틀이 명확해짐. 47편(SR+MA·Network MA 19, SR 3, RCT 6, 후향 3, narrative 10, 지침·합의 6) 종합:
 
 1. **1차 선택: Ibuprofen 400mg + Acetaminophen 병용** — Miroshnychenko 2023 Network MA(82 RCT, n=9,095); ADA 2024 CPG 공식 채택(병용 시 APAP 500mg, 단독 시 1,000mg).
 2. **발치 유형이 오피오이드 허용 범위를 가름 (ADA 2024 CPG)** — 단순 발치는 오피오이드 반대 권고; 외과 발치만 불충분 시 2선 옵션(≤3일). 코르티코스테로이드 진통 보조 추가도 반대 권고.
@@ -167,7 +157,7 @@ Preemptive NSAIDs do not help after third-molar surgery (Costa 2015), while a si
 
 ## 4-bis. Corticosteroids for Pain — Analgesic Intent vs Anti-inflammatory Intent
 
-For analgesia alone the corticosteroid benefit is real but below what patients notice, and the signal concentrates in dexamethasone 8 mg submucosal; prescribe the NSAID regimen for pain and dexamethasone when swelling or trismus is the concern. Full synthesis: [[overviews/postop-analgesic-preemptive-steroid-endo-pediatric-overview]].
+For analgesia alone the corticosteroid benefit is real but below what patients notice, and the signal concentrates in dexamethasone 8 mg submucosal; prescribe the NSAID regimen for pain and dexamethasone when swelling or trismus is the concern. Full synthesis: [[overviews/postop-analgesic-preemptive-steroid-endo-pediatric-overview]]; the third-molar corticosteroid trial base (methylprednisolone/prednisolone/dexamethasone RCTs and SR+MAs) is synthesized in [[overviews/drug-corticosteroids-perioperative-dentistry-overview]] and is not counted here (count corrected 55→47 on 2026-11-24: the 2026-09-13 steroid-evidence swap had left 10 steroid papers listed in source_papers but unlinked).
 
 ## 5. Endodontic Pain — 특수 고려사항
 

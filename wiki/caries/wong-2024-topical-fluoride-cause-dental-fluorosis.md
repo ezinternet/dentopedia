@@ -6,7 +6,7 @@ date: 2024-06-01
 doi: "10.1002/14651858.CD007693.pub3"
 source: wong-2024-topical-fluoride-cause-dental-fluorosis.md
 category: [caries]
-confidence: sr
+evidence_level: sr
 text_path: /Users/oracleneo/llm-wiki/papers/wong-2024-topical-fluoride-cause-dental-fluorosis.txt
 text_filename: wong-2024-topical-fluoride-cause-dental-fluorosis.txt
 source_collection: pubmed-text
@@ -21,6 +21,22 @@ Cochrane SR (43 studies — 3 RCTs + 40 observational, pub3): all evidence very 
 
 ## 한줄요약
 코크란 SR (43편 — RCT 3편 + 관찰 40편, pub3): 전체 근거 확신도 매우 낮음; 소아에서 어떤 국소 불소 (Topical Fluoride) 사용이 치아불소증 (Dental Fluorosis) 위험을 높이는지 판단 불가.
+
+## Three-line Summary
+
+Wong et al. (2024) published the third update of the Cochrane systematic review on topical fluoride as a cause of dental fluorosis in children, synthesising 43 studies (3 RCTs + 40 observational) covering evidence to July 2022. The review examined five topical fluoride exposure categories: age at toothbrushing initiation, brushing frequency, toothpaste amount, fluoride concentration, and other topical fluoride exposures (varnishes, gels, mouth rinses), across the critical developmental period for dental fluorosis (ages 0–6 for incisors).
+
+All evidence was rated very low certainty (GRADE) throughout all comparisons, primarily due to the observational nature of most studies, inconsistency across studies, and risk of bias from recall biases in retrospective fluoride use reporting. No clear association between any specific topical fluoride practice and increased dental fluorosis risk could be established with confidence across all five exposure categories.
+
+The clinical significance is not that topical fluorides are safe with respect to fluorosis risk, but that existing evidence is too heterogeneous and confounded to generate definitive guidance. Paediatric fluoride application protocols for children therefore continue to be driven by clinical consensus and precautionary principles rather than definitive trial evidence. This uncertainty coexists with the established association between community water fluoridation and fluorosis (Iheozor-Ejiofor 2024).
+
+## 세줄요약
+
+웡 등(2024)은 소아에서 국소 불소제가 치아 불소증(Dental Fluorosis)의 원인이 되는지를 평가한 코크란 SR 3판으로 43편(RCT 3편+관찰 40편, 근거 2022년 7월까지)을 종합했다. 치솔질 시작 연령, 빈도, 치약 사용량, 불소 농도, 불소 바니시/젤 등 5개 노출 범주를 대상으로 했다.
+
+모든 비교에서 근거 확신도는 매우 낮음(GRADE)이었다. 절대다수 연구가 관찰 설계, 불일관성, 회상 편향으로 고위험 비뚤림을 보였다. 어떤 특정 국소 불소 처방도 불소증 위험 증가와 명확한 연관성을 확립하지 못했다.
+
+이 매우 낮은 확신도의 의미: 국소 불소제가 안전하다는 것이 아니라, 현재 근거가 특정 처방에 대한 명확한 지침을 제시하기에 너무 이질적이다. 소아 국소 불소 처방 프로토콜은 여전히 임상 합의와 예방 원칙에 의존한다.
 
 ## Summary
 This Cochrane SR evaluated whether topical fluoride products — toothpaste, gel, varnish, mouthrinse — cause dental fluorosis in children. Forty-three studies were included (3 RCTs, 4 cohort, 10 case-control, 26 cross-sectional) with evidence to July 2022. The review examined timing of first toothpaste use, toothpaste concentration, brushing frequency, fluoride gel/varnish applications, mouthrinse use, and swallowing patterns. All evidence was judged very low certainty due to the observational nature of most studies, inconsistency across studies, and risk of bias. The review cannot determine which specific topical fluoride practices increase fluorosis risk, nor what threshold (dose/timing) is clinically relevant. This leaves paediatric fluoride recommendations largely unsupported by high-quality evidence.

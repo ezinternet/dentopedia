@@ -1,0 +1,9 @@
+TITLE: Laser Doppler flowmetry of blood perfusion in mucoperiosteal flaps covering membranes in bone augmentation and implant procedures. A pilot study in dogs.
+AUTHORS: Zanetta-Barbosa D, Klinge B, Svensson H
+JOURNAL: Clinical Oral Implants Research
+ID[pmid]: 8329536
+ID[doi]: 10.1034/j.1600-0501.1993.040105.x
+
+## ABSTRACT
+
+In guided tissue regeneration (GTR) procedures, flap recession or sloughing may occur as an unwanted sequel to the placement of a membrane. This study was designed to assess the applicability of laser Doppler flowmetry (LDF) in the evaluation of blood perfusion in the mucoperiosteal flap covering the membrane. Five Labrador dogs were initially used in the study, but one animal was later excluded due to post-operative problems. Maxillary premolar teeth were extracted and full thickness mucoperiosteal flaps were raised. Following removal of the buccal bone plate, 4 titanium implants were placed on each side. An experimental biodegradable polylactic-acid membrane was placed over the fixtures on one side to allow for GTR. The mucoperiosteal flap was repositioned and secured with sutures. The contralateral side served as control with no membrane. Blood perfusion was measured in the flaps before surgery, immediately after suturing and at 24, 48 and 72 h postoperatively. A laser Doppler flowmeter was used to assess the blood perfusion. In 3 animals the membrane was exposed within 2 weeks post-operatively, and in these 3 animals the LDF values were lower on the membrane side than on the control side. The mean LDF value was lower on the membrane side for each of the 4 periods studied. The findings suggest that LDF can be a valuable method to study blood perfusion of oral mucosal flaps and that there may be a relationship between a reduced relative LDF value and subsequent exposure of the membrane to the oral environment.

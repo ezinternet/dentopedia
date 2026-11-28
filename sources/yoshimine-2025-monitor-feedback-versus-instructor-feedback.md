@@ -23,6 +23,22 @@ RCT (n=34, two groups) found that monitor feedback improves CPR chest compressio
 
 무작위대조시험 (n=34, 2군) — 모니터 피드백은 흉부압박 (Chest Compression) 깊이를 개선하고 교관 피드백은 압박 속도를 개선, 치과대학 BLS 훈련에 상호보완적 하이브리드 방식 필요.
 
+## Three-line Summary
+
+Yoshimine et al. (2025) conducted a randomised controlled trial at Kagoshima University comparing monitor feedback (real-time CPR metric display from simulator manikin, no instructor) against traditional instructor feedback for basic life support (BLS) training in dental students (n=34 analysed after attrition from 40, 17 per group), with outcomes assessed by pre-test/post-test measurement of chest compression (CC) depth, rate, fraction, and tidal volume. The study was motivated by COVID-19 pandemic restrictions on face-to-face instruction and aimed to evaluate whether technology-assisted self-directed learning could substitute for or supplement traditional BLS instruction in dental education.
+
+The key finding was a feedback modality-specific dissociation: monitor feedback significantly improved CC depth (p<0.05) while instructor feedback significantly improved CC rate (p<0.05), with neither modality achieving comprehensive CPR quality improvement across both parameters. This complementary pattern suggests that neither feedback type alone is sufficient for complete BLS skill acquisition, and that a hybrid approach incorporating both monitor feedback (for depth optimisation) and instructor feedback (for rate regulation) may be needed.
+
+This study represents the first RCT specifically isolating feedback modality effects on CPR components in dental students, contributing mechanistic understanding to how different training modalities selectively address different aspects of CPR quality. Limitations include the small sample (n=34), single-centre design, lack of retention testing beyond immediate post-training, and the pandemic context that may not reflect normal educational conditions.
+
+## 세줄요약
+
+요시민 등(2025)은 치과대학생(n=34) 대상 BLS 훈련에서 모니터 피드백(CPR 시뮬레이터 실시간 계측치 표시, 교관 없음) 대 전통적 교관 피드백을 비교한 최초의 무작위대조시험을 가고시마 대학에서 시행했다. 코로나19 팬데믹 대면 교육 제한을 배경으로 기술 보조 자기주도 학습의 BLS 교육 대체 가능성을 평가했다.
+
+핵심 발견: 피드백 양식별 선택적 효과 분리. 모니터 피드백은 흉부압박(Chest Compression, CC) 깊이를 유의하게 향상(p<0.05), 교관 피드백은 CC 속도를 유의하게 향상(p<0.05). 어느 양식도 단독으로 CC 깊이와 속도 모두를 종합적으로 개선하지 못했다—두 피드백의 상호보완적 하이브리드 방식이 필요함을 시사한다.
+
+소표본(n=34), 단일 기관, 훈련 직후만 평가(장기 기술 유지 미검증), 팬데믹 맥락이 주요 한계다. 그러나 이 연구는 BLS 훈련의 피드백 양식이 CC 성분별로 다른 효과를 미친다는 기전적 이해를 치과 교육 맥락에서 처음으로 RCT로 확립했다.
+
 ## 1. Document Information
 
 - Journal: BMC Medical Education, Vol. 25, No. 1, p. 918 (2025)

@@ -2,7 +2,7 @@
 title: "상아질 과민증 — dentin-hypersensitivity"
 authors: navigation
 year: 2026
-date: 2026-11-08
+date: 2026-11-28
 doi: N/A
 source: navigation
 category: dentin-hypersensitivity
@@ -15,31 +15,33 @@ tags: [navigation, category-index, dentin-hypersensitivity]
 > [!summary] 한국어 핵심요약
 > - **분야**: 상아질 과민증
 > - **범위**: Dentinal hypersensitivity — etiology (hydrodynamic theory), in-office and at-home management, desensitizing agents
-> - **수록 논문**: 22편
+> - **수록 논문**: 26편
 
 ## Three-line Summary
 
 **Scope**: Dentinal hypersensitivity — etiology (hydrodynamic theory), in-office and at-home management, desensitizing agents
-**Indexed papers**: 22 papers in `wiki/dentin-hypersensitivity/`.
+**Indexed papers**: 26 papers in `wiki/dentin-hypersensitivity/`.
 
 ## 세줄요약
 
 **분야**: 상아질 과민증
-**수록 논문**: 22편
+**수록 논문**: 26편
 **하위 카테고리**: 없음
 
-## Papers in this Category (22)
+## Papers in this Category (26)
 
 | Paper |
 |---|
 | [[ayan-2025-home-use-desensitizing-agents-dentin-hypersensitivity-rct|Home-use agents in the treatment of dentin hypersensitivity: clinical effectiveness evaluation with different measurement methods]] |
 | [[barbosa-2026-arginine-low-level-laser-dentin-hypersensitivity-rct|Efficacy of 8% arginine associated with low-level laser therapy in the treatment of dentin hypersensitivity: randomized double-blind clinical trial]] |
+| [[chen-2025-lasers-vs-topical-desensitizing-agents-dentin-hypersensitivity-sr-ma|The comparison of lasers and topical desensitizing agents in the management of dentin hypersensitivity: a systematic review and meta-analysis]] |
 | [[correa-2025-long-term-desensitizing-agents-efficacy-sr-ma|Long-term clinical efficacy of dentin desensitizing agents: A systematic review and meta-analysis]] |
 | [[creeth-2026-calcium-sodium-phosphosilicate-dentin-hypersensitivity-rct|Time-course of clinical efficacy of a 5% calcium-sodium phosphosilicate toothpaste on dentine hypersensitivity]] |
 | [[defreitas-2021-bioactive-toothpastes-dentin-hypersensitivity-sr|Bioactive toothpastes in dentin hypersensitivity treatment: A systematic review]] |
 | [[erdogan-2026-chemical-laser-desensitization-dentin-hypersensitivity-nspt-rct|Chemical and laser desensitization approaches for managing dentin hypersensitivity after non-surgical periodontal therapy: A randomized clinical trial]] |
 | [[faraoni-2023-laser-therapy-dentin-hypersensitivity-sr-ma|Treatment outcome for dentin hypersensitivity with laser therapy: Systematic review and meta-analysis]] |
 | [[forouzande-2022-fluoride-gluma-laser-dentin-hypersensitivity|Effect of sodium fluoride varnish, Gluma, and Er,Cr:YSGG laser in dentin hypersensitivity treatment: a 6-month clinical trial]] |
+| [[gormley-2026-dentifrice-formulations-dentin-hypersensitivity-sr-nma|Dentifrice formulations for the treatment of dentin hypersensitivity: A systematic review and network meta-analysis]] |
 | [[jiang-2022-desensitizing-agents-permeability-cytotoxicity|Effectiveness and cytotoxicity of two desensitizing agents: a dentin permeability measurement and dentin barrier testing in vitro study]] |
 | [[jkda-2022-60-4-003|Revisiting Dentin Hypersensitivity: prevalence, diagnosis and treatment, limitations and future]] |
 | [[jkda-2022-60-4-004|How to manage Dentin Hypersensitivity]] |
@@ -54,3 +56,5 @@ tags: [navigation, category-index, dentin-hypersensitivity]
 | [[ramli-2022-successful-dentin-hypersensitivity-treatment-strategies|Successful management of dentin hypersensitivity: A narrative review]] |
 | [[scheffel-2015-transdentinal-cytotoxicity-glutaraldehyde-odontoblast|Transdentinal cytotoxicity of glutaraldehyde on odontoblast-like cells]] |
 | [[shan-2021-low-level-light-therapy-dentin-hypersensitivity-sr-ma|Effects of low-level light therapy on dentin hypersensitivity: a systematic review and meta-analysis]] |
+| [[wang-2026-nano-hydroxyapatite-vs-fluoride-toothpaste-dentin-hypersensitivity-sr-ma|Efficacy comparison of nano-hydroxyapatite and fluoride for dentin hypersensitivity: a systematic review and meta-analysis]] |
+| [[ziaaddini-2025-csps-toothpastes-dentin-hypersensitivity-umbrella-review|Calcium sodium phosphosilicate toothpastes impact on the treatment of dentin hypersensitivity: an umbrella review]] |

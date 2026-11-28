@@ -1,0 +1,188 @@
+TITLE: Evaluation of the efficacy of autogenous bone graft in combination with hydroxyapatite and beta-tricalcium phosphate in direct sinus augmentation – A clinical, radiographic, and histologic study
+AUTHORS: Nathani Jaya, Khetarpal Shaleen, Ratre Madhu Singh, Tekade Satyajit Ashok, Verma Manish
+JOURNAL: Journal of Indian Society of Periodontology
+ID[pmcid]: PMC12736675
+ID[pmcid-ver]: PMC12736675.1
+ID[pmcaid]: 12736675
+ID[pmcaiid]: 12736675
+ID[pmid]: 41450803
+ID[doi]: 10.4103/jisp.jisp_30_25
+ID[publisher-id]: JISP-29-529
+
+## ABSTRACT
+Background:Maxillary sinus augmentation is a predictable procedure to increase bone height in atrophic posterior maxilla. Different protocols and procedures for sinus lift are available. Many biomaterials are employed in this technique; however, no biomaterial has been proven as the best.
+Materials and Methods:A single-center, prospective, interventional, single-arm study was done for evaluation of the efficacy of biphasic calcium phosphate mixed in a 1:1 ratio with autogenous bone graft. Patients with ≤5 mm of subantral bone height were recruited. Sinus membrane was elevated using piezosurgical tips and sinus elevators, and a graft was placed to achieve the desired bone height. Lateral window was covered by platelet-rich fibrin membrane, and suturing was done. After 6 months, bone biopsy specimens were harvested, and histomorphometric analysis was performed. Subantral bone height was measured on cone-beam computed tomography at baseline and at 6 months to get the bone height gain.
+Results:(1) The mean gain of bone height was 8.53 ± 1.07 which was statistically significant. (2) On histologic evaluation, new bone% was 48.08% ± 2.41%, soft tissue% was 27.25% ± 3.18%, and residual graft% was 24.36% ± 2.91%. (3) The density and distribution of cells were favorable. (4) All patients had pain and swelling in mild range. (5) No major intra- or postoperative complications were noted.
+Conclusion:The described surgical technique using a combination of hydroxyapatite + beta-tricalcium phosphate 30/70 along with autogenous bone in a 1:1 ratio offers a predictable and practical treatment choice in direct sinus augmentation. It provided significant bone height gain, new bone formation, and good implant stability in grafted sites.
+
+## INTRODUCTION
+
+Oral implantology has emerged as predictable and successful modality for the replacement of teeth, but implant placement is often hindered significantly by anatomic limits such as inadequate vertical dimension, poor bone quality, missing cortex, and vital structures; maxillary sinus being most important. The factors that affect the course of sinus pneumatization are heredity, the pneumatization drive of the nasal mucosa, craniofacial configuration, bone density, and sinus air pressure.[1] Subsequently, reduced bone height leads to a situation in which treatment modalities like sinus augmentation are required.
+
+The Glossary of Dental Implantology 2018 defines sinus augmentation as “Augmentation of the antral floor with autogenous bone and/or bone substitutes to accommodate dental implant insertion.”[2] Two surgical techniques are routinely used: the lateral window technique, introduced by Tatum in 1977 and then published by Boyne and James in 1980, and the transalveolar technique by Summers in 1994.
+
+Direct sinus lift can be performed as one-stage (simultaneous implant placement) or two-stage. The decision for which is based on the amount of residual bone available and the possibility of achieving primary stability. According to the fourth International Team for Implantology Consensus Conference, lateral window technique can be done through simultaneous approach when subantral bone height is >5 mm and staged approach <5 mm.[3]
+
+For the formation of lateral window, rotatory handpieces were used conventionally. However, these have a high prevalence of sinus membrane perforation. An alternative technique is the use of piezosurgery which facilitates selective cutting with different frequencies acting only on hard tissues, thus reducing the risk for membrane perforation and enhanced patient comfort, making piezosurgery to be the preferred method.
+
+Selection of the ideal graft material has been a subject of controversy over the years. Autogenous bone graft is considered the gold standard in augmentation procedures owing to its osteogenic, osteoinductive, and osteoconductive characteristics. However, its use is accompanied by the risk of donor-site morbidity and unpredictable graft resorption.[4] Various bone substitutes have been developed to overcome these drawbacks. Alloplasts such as hydroxyapatite (HA), beta-tricalcium phosphate (β-TCP), or biphasic calcium phosphate (a mixture of HA and β-TCP) are osteoconductive, biocompatible and simulate the chemical composition of natural bone.
+
+Platelet-derived products and growth factors are currently used in implantology to promote bone healing and improve the overall outcome. Choukroun et al.’s platelet-rich fibrin (PRF) is an autologous fibrin matrix which releases growth factors and stimulates cell migration aiding the neoangiogenesis and vascularization.[5] Simonpieri et al. used PRF membranes to cover the Schneiderian membrane and quoted the beneficial effects.[6]
+
+Although various biomaterials and techniques have been employed in sinus augmentation, till date, there is no definitive consensus on which is the best. The present study is aimed at evaluating the efficacy of autogenous bone graft combined with HA + β-TCP radiographically and histologically in direct sinus augmentation. The secondary aim was to evaluate any adverse events such as postoperative pain and swelling related to the procedure.
+
+## MATERIALS AND METHODS
+
+The present study is a single-center, prospective, interventional, single-arm clinical, radiographic, and histological study with 6-month follow-up. A total of 45 patients, both male and female 18–55 years of age, reporting to the outpatient department of periodontology for replacement of missing single/multiple maxillary posterior tooth/teeth (not more than three teeth) were screened on the basis of inclusion and exclusion criteria. Patients with < 5 mm of residual bone on cone-beam computed tomography (CBCT) were included in the study, while smokers and those under systemic medications were excluded from the study. Twelve patients who finally fulfilled the selection criteria were recruited. Figure 1 depicts the complete study design. Informed written consent was obtained from all participants.
+
+[FIGURE] Study design flowchart
+
+Parameters recorded include (1) change in subantral bone height between baseline and 6 months measured on CBCT from the base of the sinus to the alveolar crest, (2) histomorphometric evaluation of the bone formed, and (3) pain and swelling on the Visual Analog Scale (VAS).
+
+### Incision and reflection
+
+Extraoral asepsis was done with 2% chlorhexidine solution and intraoral with 0.12% chlorhexidine rinse for 1 min. Following the administration of local anesthesia (2% lignocaine with 1:80,000 adrenaline), an incision was given 2 mm palatal to the mid-crestal area at the edentulous site [Figure 2a]. It was extended as a crevicular incision involving two teeth on both sides of the edentulous area. Vertical relieving incisions were made both mesial and distal to the incision [Figure 2b]. A trapezoidal buccal mucoperiosteal flap was reflected to expose the lateral wall of the maxilla [Figure 2c].
+
+[FIGURE] (a) Crestal incision; (b) vertical incisions; (c) trapezoidal full-thickness flap elevated
+
+### Harvesting bone graft
+
+Autogenous bone graft was harvested from the local surgical site and from the lateral wall of the sinus using a bone scraper [Figure 3].
+
+[FIGURE] Autogenous bone harvested from lateral window
+
+### Access window
+
+The design of the lateral-access window was planned after the review of the CBCT scan for the position of anastomosis of the posterior superior alveolar and infraorbital artery and septa, if present. Marking was done using a sterile marking pencil [Figure 4a]. A window was traced using a piezosurgical tip UL4 (US II, Woodpecker) [Figure 4b]. The inferior score line was placed approximately 3 mm above the level of the antral floor, and the superior one was approximated 2–3 mm above the planned implant length. Once the lateral-access window is delineated, the piezosurgical tip was used to continue to scratch the lateral wall until a bluish hue or hemorrhage from the site was observed [Figure 4c].
+
+[FIGURE] (a) Marking of lateral window using sterile marking pencil; (b and c) lateral window traced using piezosurgical tip; (d and e) lateral window in-fractured. The elevated bony window forms the new floor of a sinus cavity
+
+### Sinus membrane elevation
+
+A mirror handle and mallet were used to gently in-fracture the lateral-access window from the surrounding bone while still attached to the sinus membrane [Figure 4d and e]. The elevated bony window becomes the new floor of a sinus cavity. This method is called the Tatum technique. Reflection was first done circumferentially using piezosurgical tips and dome-shaped sinus membrane elevator of the sinus lift kit (Dentium Advanced Sinus Kit, Dentium) along the complete inner surface of the bony perimeter for 360°. After that, sinus membrane elevators (Dentium Advanced Sinus Kit, Dentium) were used to gently elevate the sinus membrane to create adequate space for graft placement. The Valsalva maneuver was performed to check the integrity of the sinus membrane.
+
+### Preparation of platelet-rich fibrin membrane
+
+A sample of blood was withdrawn from the patient without anticoagulant in 10 ml tubes which were immediately centrifuged at a rate of 3000 rpm for 10 min. The fibrin clot obtained after centrifugation was removed from the tube and the attached red blood cells scraped off from it and discarded. This PRF was then formed into a membrane by gently pressing it in the PRF box [Figure 5a].
+
+[FIGURE] (a) Platelet-rich fibrin membrane preparation; (b) platelet-rich fibrin membrane placed along the Schneiderian membrane
+
+### Sinus grafting
+
+PRF membrane was placed along the Schneiderian membrane to seal the microperforations if any [Figure 5b]. The previously obtained autologous graft material was mixed with the synthetic bone graft (HA + β-TCP; Osteon™ II, Dentium) in a 1:1 ratio [Figure 6a and b]. The mixture was then placed in the sinus to completely fill the cavity and achieve the desired bone height with planning of the future graft collapse and resorption [Figure 6c]. Lateral window was covered by PRF membrane [Figure 7a]. Interrupted sutures (4-0, monofilament suture) were applied for closure [Figure 7b].
+
+[FIGURE] (a and b) Autogenous bone graft material mixed with the synthetic bone graft in a 1:1 ratio; (c) bone graft placement
+
+[FIGURE] (a) Lateral window covered by platelet-rich fibrin membrane; (b) interrupted sutures placed
+
+Postoperative instructions regarding hygiene maintenance, cold fomentation, and soft diet were given to patients. Postoperative analgesics and antibiotics were given. Nasal decongestant spray was prescribed to the patient to be used for 7 days postoperatively. Patients were advised to refrain from blowing their nose/sucking a straw for 2 weeks after surgery. Sutures were removed after 14 days.
+
+### Assessment of pain and swelling
+
+Assessment of postoperative pain and swelling was done using VAS ranging from 0 to 10. Each patient was given two diaries with markings from 0 to 10 (one for marking the degree of pain and the other for swelling). Patients were asked to mark the number corresponding to the degree of their pain on days 1, 3, 5, and 7. These were later collected from the patient, and the data were recorded.
+
+Scores for pain were further classified as follows:
+
+0 – No pain1–3 – Mild pain3–7 – Moderate pain7–10 – Severe pain.
+
+These readings were noted at days 1, 3, 5, and 7.
+
+### Harvesting of biopsy specimen and histomorphometry
+
+After 6 months, bone biopsy specimens were harvested from the grafted site using a trephine bur, 4 mm in outer diameter, during implant placement [Figure 8].
+
+[FIGURE] Bone specimen harvested using trephine
+
+The samples were placed in a 10% neutral buffered formalin solution for 72 h. The tissue was decalcified with 6% nitric acid solution for 12 h. After that, the tissue was washed in running water to remove acid and processed for paraffin embedding. The specimen was dehydrated in an ascending series in alcohol, cleared in xylene, and embedded in paraffin blocks. The embedding was done with care so that the long axis of core was parallel to the length of block and also the microtome blade. The cores were sectioned from each specimen parallel to the long axis of the cylindrical core using a microtome (YSI-055). Subsequent to deparaffinization of sections, they were exposed to a descending series of alcohol and hydrated and then washed with water. Finally, the sections were stained with hematoxylin and eosin (H and E).
+
+Histomorphometric assessment was carried out using a light microscope (Leica DM – LB2) connected to a high-resolution camera and interfaced to a monitor and personal computer. Image analysis software (GIMP) Calfornia, USA was used to do the morphometric analysis [Figure 9]. The decalcified, H and E-stained section showed a rectangular tissue with epithelium on one end. As a standard procedure, the area in the middle of the core was used for morphometric analysis. Photographs were taken at ×40. Borders of the bone particles were traced and a total area calculated. Similarly, soft tissue and graft particles were also measured. The cell density of osteoblasts, osteocytes, osteoclasts, inflammatory cells, and capillary vessels was analyzed in terms of low (as +), moderate (as ++), and dense (as +++).
+
+[FIGURE] Histomorphometric analysis done using GIMP software
+
+## RESULTS
+
+The present study included a total of 12 participants for the replacement of single/multiple (not more than 3) missing maxillary premolar/molars. However, two patients did not turn up for follow-up after sinus grafting, hence were considered dropouts. The final data were thus evaluated statistically for 10 patients. The result showed significant differences between preoperative and 6-month postoperative data.
+
+### Radiographic parameters
+
+The subantral bone height was measured from the crest of bone to the base of the sinus using CBCT [Figures 10 and 11]. The changes in bone height were obtained by subtracting the baseline data from the 6-month postoperative values.
+
+[FIGURE] (a) Preoperative cone-beam computed tomography (CBCT) of the coronal section; (b) preoperative CBCT of the sagittal section
+
+[FIGURE] (a) Postoperative cone-beam computed tomography (CBCT) of the coronal section; (b) postoperative CBCT of the sagittal section
+
+The mean subantral bone height at baseline was 4.09 ± 0.57 mm and the mean subantral bone height at 6 months was 12.62 ± 0.99. The mean gain of bone height obtained was 8.53 ± 1.07. The statistical analysis of intragroup comparison was performed using a paired sample t-test, and the difference was found to be statistically significant [Table 1].
+
+[TABLE] Comparison of subantral bone height before and after intervention
+Baseline | 10 | 4.09 | 0.57 | 8.53 (1.07) | 7.76 | 9.30 | 25.17 | 9 | <0.001*
+6 months | 10 | 12.62 | 0.99 |  |  |  |  |  | 
+
+### Histologic and histomorphometric parameters
+
+At 6 months, trephine biopsies were obtained from the grafted sites, slides were prepared and studied to obtain the new bone formation %, soft tissue %, residual graft material %, and cell densities of osteoblasts, osteoclasts, osteocytes, inflammatory cells, and capillary vessels in terms of low (as +), moderate (as ++), and dense (as +++) [Tables 2 and 3].
+
+[TABLE] Mean percentages of new bone, graft particle, and soft-tissue areas in the group
+New bone (%) | 48.08±2.41
+Soft (fibrous) tissue (%) | 27.25±3.18
+Graft particle (%) | 24.36±2.91
+
+[TABLE] Histomorphometric finding in the study participants
++ | 3 (30) | 10 (100) | 0 | 9 (90) | 6 (60)
+++ | 7 (70) | 0 | 8 (80) | 1 (10) | 4 (40)
++++ | 0 | 0 | 2 (20) | 0 | 0
+Total | 10 (100) | 10 (100) | 10 (100) | 10 (100) | 10 (100)
+
+Osteoblasts were present in all the sections. Osteocytes were seen embedded in newly formed bone. Capillary vessels were seen showing angiogenesis in the grafted area [Figure 12].
+
+[FIGURE] Photomicrograph showing the central part of core biopsy with lamellar bone (thick black arrow), newly formed bone (thin black arrow), soft tissue (black star), osteoblasts (yellow arrow), and osteocytes (green arrow)
+
+### Assessment of pain and swelling
+
+#### Pain
+
+On day 1, all patients had pain in mild range. Seven of ten gave score 1, whereas 3/10 gave score 2. On day 3, two patients observed no pain at all, whereas eight patients had only mild pain (score 1). On days 5 and 7, none of the patients (0/10) had pain [Table 4].
+
+[TABLE] Pain and swelling score at different time intervals (based on the Visual Analog Scale)
+Pain |  |  |  | 
+Score 0 | 0 | 2 (20) | 10 (100) | 10 (100)
+Score 1 | 7 (70) | 8 (80) | 0 | 0
+Score 2 | 3 (30) | 0 | 0 | 0
+Swelling |  |  |  | 
+Score 0 | 0 | 0 | 6 (60) | 10 (100)
+Score 1 | 4 (40) | 2 (20) | 4 (40) | 0 (0
+Score 2 | 4 (40) | 5 (50) | 0 | 0
+Score 3 | 2 (20) | 3 (30) | 0 | 0
+
+#### Swelling
+
+On day 1, 4/10 patients had a swelling score of 1. Similarly, 4/10 had swelling of score 2. While 2/10 patients complained of swelling of score 3. However, none of the patients reported severe swelling. On day 3, few patients found a slight increase in swelling. Giving the scores of 1 by 20%, 2 by 50%, and 3 by 30% of patients. The swelling was found to be gradually reducing without any interventions. Thus, on day 5, six patients had no swelling left, and four patients had swelling of score 1. On day 7, none of the patients reported swelling.
+
+## DISCUSSION
+
+In the present study, 10 cases of direct sinus lift performed using biphasic calcium phosphate + autogenous bone graft in a 1:1 ratio were evaluated clinically, radiographically, and histologically. Clinical and radiographic evaluation showed that the ridge width was sufficient for placement of the implant of standard dimension. A wide variety of biomaterials can be used for sinus augmentations. Autogenous bone graft, though a gold standard due to its osteogenic, osteoinductive, and osteoconductive properties, is not ideal for maxillary sinus grafting because it has certain drawbacks, such as unpredictable resorption rate. Other drawbacks of harvesting autogenous grafts include an extended operating time, donor-site morbidity, hospitalization, and sensory disturbances. The volume of graft required for direct sinus lift at times cannot be obtained with autogenous graft alone. Various graft options such as allograft/xenograft/alloplasts have been used alone and even in combination with autogenous grafts. Biphasic calcium phosphate composes of slowly resorbing HA and fast-resorbing β-TCP. An advantage of using this combination is that HA stabilizes the augmented space, and β-TCP provides the space for new bone formation.[7] Studies suggest that the solubility of ceramic is mainly dependent on the ratio HA/β-TCP. To our knowledge, radiographic and histological evaluation of combination of HA + β-TCP (30/70) along with autogenous bone in maxillary sinus augmentation is scarcely documented. Therefore, in the present study, direct sinus lift was performed using biphasic calcium phosphate with HA 30% + β-TCP 70%, particle size 1.0 ~ 2.0 mm mixed in a 1:1 ratio with autogenous bone graft. Schopper et al. compared two different ratios (30/70 vs. 50/50) of HA/TCP in a sheep model. A better integration into the host bone was observed in the 30/70 composition, inferring that a higher β-TCP ratio may accelerate bone formation.[8] Lim et al. in an animal study concluded ?-tricalcium phosphate with an HA:β-TCP ratio of 30:70 can be successfully used for sinus augmentation.[9]
+
+Systematic reviews and long-term clinical studies demonstrate that sinus augmentation sites provide predictable vertical bone gain and improved bone density, enabling implant placement in an ideal three-dimensional, prosthetically driven position. These findings support the rationale for using sinus augmentation to achieve adequate bone height and predictable implant survival.[1011] In the present study, subantral bone height was measured using CBCT at baseline (preoperative) and 6 months postoperatively. The mean subantral bone height at baseline was 4.09 ± 0.57 mm which increased to 12.62 ± 0.99 at 6 months. The mean gain in bone height observed was 8.53 ± 1.07 mm at the end of 6 months. Similar results were obtained by Frenken et al. (using HA/β-TCP 60/40 without autogenous bone graft) and Bouwman et al. (using HA/β-TCP 60/40 with autogenous bone) who got an average of 8.7 mm and 9.0 mm increase in bone height, respectively.[1213] However, both of these studies had a limitation of small sample size (6 and 5, respectively). Furthermore, there are other confounding factors such as the span of the edentulous area, height of the lateral window, and the mesiodistal width of the sinus which affects the outcome. Another fact to be paid attention to is that these are radiographic findings alone and cannot be considered a sole criterion for success.
+
+On histologic evaluation, we observed a new bone formation of 48.08 ± 2.41%, soft-tissue component of 27.25 ± 3.18%, and residual graft of 24.36 ± 2.91. Similar results in case of residual bone graft% were found by Kraus et al. on using biphasic calcium phosphate alone (24.5%).[14] However, the new bone formation in their study was less compared to our study (32.6% vs. 48.08%, respectively) which can be a result of difference in the ratio of HA: β-TCP used (10/90 vs. 30/70). Furthermore, autogenous bone graft was not used in their study.
+
+In the present study, histologically HA–β-TCP (30/70) scaffold showed a pattern of bone formation completely surrounded by newly formed bone. Furthermore, osteoblasts were detected apposing bone directly on the particle surface, the marrow stromal cells and blood vessels were found inside the marrow spaces, and the vascular growth was observed next to the newly formed bone. The absence of foreign-body reaction around the grafted particles attests the biocompatibility. Similar histological findings were found by Schopper et al.[8]
+
+The cell density of osteoblasts, osteoclasts, osteocytes, and inflammatory cells and the density of capillary vessels were also analyzed. Osteoblasts were present in all the sections. The density was in range + in 30% while it was ++ in 70% of cases. Osteoclasts were in + density range in all cases. Osteocytes were seen embedded in newly formed bone. They were found to be ++ density in 80% while +++ in 20% of cases. Inflammatory cells were also found in sections, but they were found to be minimum. Capillary vessels were seen showing angiogenesis in the grafted area. The densities of these parameters seemed considerably enough for bone regeneration. After taking the biopsy specimen with trephines, implants were placed in the osteotomy site so created. It was observed that all implants gained an acceptable amount of torque showing the good quality of bone formed. However, since these parameters were not included in the present study, they were not recorded.
+
+It is well known that sinus membrane perforation is a common complication that has been reported a prevalence of 19.5% (range: 0%–58.3%) of sinus floor elevations.[11] Sinus membrane perforation risk is reported to be reduced using piezosurgery. Barone et al. conducted a study that compared conventional drills and piezoelectric device and concluded that the membrane perforation rate was smaller compared with the conventional method (23% vs. 30%).[15] In the present study, no incidences of membrane perforation were observed. Preventively, a PRF membrane was placed against the sinus membrane.
+
+Pain and swelling are the most commonly encountered complications due to the nature of bone surgery, and intraoperative trauma to bone is the most prominent causative factor. On evaluation, none of the patients were found to experience severe swelling and pain. Both pain and swelling remained in a range of 1–3 on VAS which was manageable with prescribed medication. On this, we agree with the statement by Delilbasi and Gurler that ultrasonic nature as well as more precise cut and less pressure during bone manipulation while using piezosurgery lead to less pain and swelling postoperatively.[16]
+
+The present study found a 1:1 combination of autogenous bone graft with biphasic calcium phosphate to be very effective in sinus augmentation procedures.
+
+The limitation of the present study was that it is a single-center study with small sample size and a follow-up duration of 6 months. Further multicentric, long follow-up studies should be conducted with a larger sample size.
+
+## CONCLUSION
+
+The present study observed a significant increase in subantral bone height (8.53 ± 1.07 mm). On histologic evaluation, new bone % was 48.08% ± 2.41%, soft tissue % was 27.25% ± 3.18%, and residual graft % was 24.36% ± 2.91%. The density and distribution of bone cells seen in the augmented area were favorable for a good bone-to-implant contact.
+
+Finally, it can be concluded that the described surgical technique and a combination of HA+β-TCP 30/70 along with autogenous bone graft in a 1:1 ratio offer a valuable, predictable as well as practical treatment choice in direct sinus augmentation. It provided significant bone height gain, new bone formation both radiographically and histologically, and good implant stability in grafted sites.
+
+### Conflicts of interest
+
+There are no conflicts of interest.

@@ -1,0 +1,16 @@
+TITLE: The influence of mucosal tissue thickening on crestal bone stability around bone-level implants. A prospective controlled clinical trial.
+AUTHORS: Algirdas Puisys, Tomas Linkevicius
+JOURNAL: Clinical oral implants research 2015;26(2):123-9
+PMID: 24313250
+DOI: 10.1111/clr.12301
+SOURCE: PubMed abstract (E-utilities efetch, 2026-11-25). No PMC record; no full text retrieved.
+
+## ABSTRACT
+
+OBJECTIVE: To evaluate how bone-level implants maintain crestal bone stability after thickening of thin mucosal tissues with allogenic membrane.
+
+MATERIALS AND METHODS: Ninety-seven bone-level implants of 4.1 mm diameter (Institute Straumann AG, Switzerland) were evaluated in 97 patients (28 men and 69 women, mean age 47.3 ± 1.2 years). According to vertical gingival thickness, patients were assigned into test T1 (thin, 2 mm or less, n = 33), test T2 (thin thickened with allogenic membrane, n = 32) and control C groups (thick, more than 2 mm, n = 32). Implants were placed in posterior mandible in one-stage approach and after integration were restored with single screw-retained metal-ceramic restorations. Radiographic examination was performed after implant placement, 2 months after healing, after prosthetic restoration and at 1-year follow-up. Crestal bone loss was calculated mesially and distally. Mann-Whitney U-test was applied and significance was set to 0.05.
+
+RESULTS: After 2 months, implants in group T1 had 0.75 ± 0.11 mm bone loss mesially and 0.73 ± 0.10 mm distally. Implants in group T2 had 0.16 ± 0.06 mm mesially and 0.20 ± 0.06 mm distally. C group implants lost 0.17 ± 0.05 mm mesially and 0.18 ± 0.03 mm distally. Differences between T1/T2, and T1/C were statistically significant (P = 0.000) both mesially and distally, while between T2 and C was not significant mesially (P = 0.861) and distally (P = 0.827). After 1-year follow-up implants in group T1 had 1.22 ± 0.08 mm bone loss mesially and 1.14 ± 0.07 mm distally. Implants in group T2 had 0.24 ± 0.06 mm mesially and 0.19 ± 0.06 mm distally. C group implants lost 0.22 ± 0.06 mm mesially and 0.20 ± 0.06 mm distally. Differences between T1/T2, and T1/C were statistically significant (P = 0.000) both mesially and distally, while between T2 and C was not significant mesially (P = 0.909) and distally (P = 0.312).
+
+CONCLUSIONS: Significantly less bone loss can occur around bone-level implants placed in naturally thick mucosal tissues, in comparison with thin biotype. Augmentation of thin soft tissues with allogenic membrane during implant placement could be way to reduce crestal bone loss.

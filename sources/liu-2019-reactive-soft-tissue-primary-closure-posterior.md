@@ -20,6 +20,22 @@ Prospective cohort (n=33 posterior immediate implants): using reactive soft tiss
 ## 한줄요약
 전향 코호트 (n=33 후방부 즉시식립): 소켓 내 반응성 연조직을 1차 봉합재로 사용하면 협측골 소실 줄고 KMW 유지, 1년 생존율 100%.
 
+## Three-line Summary
+
+Liu et al. (2019) conducted a prospective cohort study evaluating a novel technique that repurposes reactive soft tissue (granulation tissue and long junctional epithelium) present in compromised extraction sockets as the primary wound closure material for immediate implant placement in posterior sites. The study challenged the conventional dogma that all reactive tissue must be debrided prior to implant insertion, instead repositioning it as a biological resource for socket management.
+
+The experimental group (EG, where primary closure was achieved using reactive tissue) demonstrated less buccal bone height reduction and less decrease in keratinized mucosa (KM) width compared to the control group (CG, where reactive tissue was elevated but insufficient for primary coverage) at 6 months post-surgery. Implant survival was 100% across all 33 implants during the 1-year follow-up period, supporting the safety and efficacy of the approach.
+
+A fundamental methodological limitation is that group assignment was determined by whether reactive tissue closure was successfully achieved rather than by randomisation, introducing potential selection bias (sites where tissue was insufficient may have been inherently more compromised). The 1-year follow-up and small sample (n=33) further limit the evidence quality, but the results establish a proof-of-concept basis for the technique validated in longer follow-up by the same group's 2022 retrospective study.
+
+## 세줄요약
+
+류 등(2019)은 감염·손상된 발치와 내 반응성 연조직(육아조직+긴결합상피)을 제거하지 않고 1차 봉합재로 활용하는 독창적 기법으로 후방부 즉시식립(Immediate Implant Placement, IIP)을 시행한 전향 코호트 연구다. 기존 패러다임인 "반응성 조직 전부 제거 후 식립"에 반하여 반응성 조직을 소켓 관리의 생물학적 자원으로 재개념화했다.
+
+실험군(EG: 반응성 연조직으로 1차 봉합 달성)은 대조군(CG: 반응성 연조직 불충분으로 봉합 실패)에 비해 6개월 시점에서 협측골 높이 소실이 적고 각화 점막(Keratinized Mucosa, KM) 폭 감소가 적었다. 33개 임플란트 모두 1년 추적 동안 생존율 100%를 달성했다.
+
+군 배정이 조직 봉합 성공 여부로 결정됐다는 선택 편향 문제와 소표본(n=33), 1년 추적이 주요 한계다. 그러나 이 연구는 동일 연구진의 2022년 후속 연구(2년 추적)로 이어지는 반응성 연조직 1차 봉합 기법의 개념 증명(Proof-of-Concept) 근거를 확립했다.
+
 ## 1. Document Information
 - Journal: Clinical Implant Dentistry and Related Research, Vol. 22, Issue 1, pp. 13–20
 - Publication date: 2019-11-22 (online)

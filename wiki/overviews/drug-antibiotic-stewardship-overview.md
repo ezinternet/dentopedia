@@ -55,6 +55,11 @@ source_papers:
   - wiki/drug/antibiotics/kinzel-2026-german-dentists-prophylactic-antibacterial-risk-groups.md
   - wiki/drug/antibiotics/orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole.md
   - wiki/drug/antibiotics/vavro-2024-antibiotic-susceptibility-orofacial-infections.md
+  - oral-surgery/martins-2023-bacteremia-following-different-oral
+  - oral-surgery/third-molar/arteagoitia-2022-is-clindamycin-effective-in-preventing
+  - oral-surgery/third-molar/torof-2023-the-role-of-antibiotic-use
+  - sinus-lift/lateral/salgado-peralvo-2023-preventive-antibiotic-therapy-in
+  - drug/visconti-2026-antibiotic-prophylaxis-dental-implant-augmentation
 evidence_level: synthesis
 source: synthesis
 agenda: agenda/2026-05-27_drug-overview-split.md
@@ -81,10 +86,11 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 > - **근관치료 항생제 종합 (Segura-Egea 2017, 유럽 Working Group)**: 60여 년문 종합 — SIP·치수괴사·국소 농양에는 항생제 무효, 배농이 1차; 유럽 치과의사 40-86%가 금기 처방; Amoxicillin 1차, Clindamycin 대체. [확인]
 > - **임플란트 예방 — 근거는 갈린다, 실무 규칙은 술전 단일 2g 유지**: Esposito 2026 Cochrane pub5 (RCT 15편, 2,874명; pub4 2013을 대체) — 술전 Amoxicillin 2g 위약 대비 조기 임플란트 실패 RR 0.34 (95% CI 0.22–0.53), 필요치료수 (Number Needed to Treat, NNT) 19, 보철물 실패·술후 감염도 감소 (전부 moderate 확실성); 단일 투여 = 다회 투여, 술전 vs 술후·Amoxicillin vs Clindamycin 무차이 (low 확실성). 반면 Momand 2024 SR+MA는 위약대조 이중맹검 RCT 7편만 포함해 RR 0.66 (0.30–1.47), NNT 143 비유의, 즉시 발치 후 임플란트 제외 시 방향 역전 (RR 1.10) — 포함 기준(이중맹검 한정)이 다른 두 SR+MA가 반대 방향을 가리키므로 "건강 환자 비복잡 임플란트에 예방 불필요"로 단정할 수 없다. 두 결과가 공통으로 지지하는 것은 **다회·연장 투여는 이득 없음**이며, 처방한다면 술전 단일 2g가 최소 개입이다. [확인]
 > - **소아 항생제 처방 (Goel 2020)**: 소아 치과 항생제 처방 종합 — 적응증·용량·안전성 고려 필요. [확인]
+> - **예방적 항생제 5편 추가(2026-11-10)**: ① 균혈증 (Bacteremia) 발생률 — 발치 62–66%, 치석제거·치근활택 44–36%, 구강위생 술식 27–28%, 칫솔질 8–26%, 치실 16%; 정점은 술후 5분 이내(Martins 2023). ② 제3대구치 발치: 항생제가 술후 감염을 69% 줄이지만 **건성 발치와에는 효과 없음** — 건강한 환자의 단순 발치에 일상 예방은 지지되지 않음(Torof 2023, RCT 16편). ③ 클린다마이신 (Clindamycin)은 감염 예방 효과를 입증 못 함(RR 0.66, 95% CI 0.38–1.16, NNT 29; Arteagoitia 2022). ④ 상악동 거상술 예방 항생제는 찬반 근거 모두 불충분(Salgado-Peralvo 2023). ⑤ 골증대 동반 임플란트 식립은 코크란 프로토콜 단계 — 결과 없음(Visconti 2026).
 
 ## Three-line Summary
 
-Synthesis of 49 papers (16 SR+MA incl. umbrella reviews, 6 SR, 2 RCTs, 4 guidelines/consensus, 8 narrative reviews, 6 cross-sectional prescribing surveys, 5 retrospective, 1 prospective, 1 in silico) on dental antibiotic stewardship: the first principle is restrictive prescribing — infective endocarditis (IE) prophylaxis is limited to the 4 highest-risk cardiac groups (Wilson 2021 AHA; Sperotto 2024 SR+MA n=1.15M); simple extractions in intact dentition need no prophylaxis (Lodi 2021 Cochrane); single perioperative dosing suffices for most oral surgery; >24 h extension raises antimicrobial resistance without reducing infection (Mohammadpour 2025 scoping, 125 papers).
+Synthesis of 54 papers (16 SR+MA incl. umbrella reviews, 6 SR, 2 RCTs, 4 guidelines/consensus, 8 narrative reviews, 6 cross-sectional prescribing surveys, 5 retrospective, 1 prospective, 1 in silico) on dental antibiotic stewardship: the first principle is restrictive prescribing — infective endocarditis (IE) prophylaxis is limited to the 4 highest-risk cardiac groups (Wilson 2021 AHA; Sperotto 2024 SR+MA n=1.15M); simple extractions in intact dentition need no prophylaxis (Lodi 2021 Cochrane); single perioperative dosing suffices for most oral surgery; >24 h extension raises antimicrobial resistance without reducing infection (Mohammadpour 2025 scoping, 125 papers).
 
 Among drug choices, amoxicillin is first-line (adverse-event rate 21.5/million, fatality 0.1/million) and clindamycin should be avoided (fatality 2.9/million, mostly C. difficile — Thornhill 2019 NHS 7-year data); local antibiotic delivery equals 7-day systemic course in periodontal outcomes while minimizing systemic AMR burden (Milinkovic 2025 RCT; Aimetti 2025 RCT NNT=2.73); prescribing-behavior surveys from Singapore, Iran, and Germany (2026) confirm widespread over-prescribing against guidelines — knowledge–performance gap.
 
@@ -92,7 +98,7 @@ Audit-and-feedback (A&F) interventions reduce inappropriate prescribing by 70% (
 
 ## 세줄요약
 
-치과 항생제 49편(SR+MA·umbrella 16·SR 6·RCT 2·지침·합의 4·narrative 8·처방행태 단면조사 6·retrospective 5·prospective 1·in silico 1) 통합: 1차 원칙은 제한(restrictive) — 감염성 심내막염(Infective Endocarditis, IE) 예방은 4개 최고위험 심장군만(Wilson 2021·Sperotto 2024 n=1.15M); 단순 발치 예방 처방 효과 없음(Lodi 2021 Cochrane); 구강외과 대부분 술기에 단일 술전 투약으로 충분, 24시간 초과 연장은 항균제 내성(Antimicrobial Resistance, AMR)만 증가(Mohammadpour 2025 125편).
+치과 항생제 54편(SR+MA·umbrella 16·SR 6·RCT 2·지침·합의 4·narrative 8·처방행태 단면조사 6·retrospective 5·prospective 1·in silico 1) 통합: 1차 원칙은 제한(restrictive) — 감염성 심내막염(Infective Endocarditis, IE) 예방은 4개 최고위험 심장군만(Wilson 2021·Sperotto 2024 n=1.15M); 단순 발치 예방 처방 효과 없음(Lodi 2021 Cochrane); 구강외과 대부분 술기에 단일 술전 투약으로 충분, 24시간 초과 연장은 항균제 내성(Antimicrobial Resistance, AMR)만 증가(Mohammadpour 2025 125편).
 
 약물 선택: 아목시실린(Amoxicillin) 1차(부작용 21.5/백만·치명 0.1/백만), 클린다마이신(Clindamycin) 회피(치명 2.9/백만, 대부분 C. difficile; Thornhill 2019 NHS 7년); 치주 깊은 낭에는 국소 전달 항생제(Local Delivery, LD)가 7일 전신 코스와 동등하고 전신 AMR 최소화(Milinkovic 2025·Aimetti 2025 RCT NNT=2.73); 싱가포르·이란·독일 2026 처방 행태 조사 — 가이드라인 대비 과처방 광범위, 지식↔수행 괴리.
 
@@ -472,3 +478,22 @@ GRADE 확실성: 항생제의 감염 예방 효과는 **낮음**, 임플란트 �
 **Q3.** 원내에서 치과 항생제 과처방이 많습니다. 이 오버뷰에 근거해 처방 패턴 개선에 가장 효과적인 시스템 중재는? *(근거: Méndez-Romero 2025 SR+MA)*
 
 > **모범답안**: **감사+피드백(Audit and Feedback, A&F) 기반 중재가 부적절 처방 70% 감소**(95% CI 33–86%; Méndez-Romero 2025 SR+MA 23편)로 가장 강한 근거를 가진다. 교육 단독은 불충분하며, 임상 의사결정 지원(Clinical Decision Support, CDS) 도구 — 전자처방 시스템에 내장된 알림·체크리스트 등 — 이 가장 효과적인 단일 도구다. 2026년 싱가포르·이란·독일 처방 행태 조사 세 건 모두 "추가 교육 요구 88%대, 가이드라인 배포만으로는 불충분"이라는 동일 결론을 냈다. 실행: ① 월별 처방 통계 공유(A&F) ② 처방 시 적응증 체크리스트(CDS) ③ 오버뷰 5룰 원내 게시로 시작.
+
+## Evidence Update — Prophylaxis: What Bacteremia Data, Third-Molar Trials and Sinus Surgery Actually Support (2026-11-10)
+
+| Paper | Design | Finding |
+|---|---|---|
+| [[oral-surgery/martins-2023-bacteremia-following-different-oral]] | SR+MA, 64 non-randomised + 25 randomised trials, healthy individuals | Bacteremia incidence: extraction 62–66%, SRP 44–36%, oral-hygiene procedures 27–28%, toothbrushing 8–26%, flossing 16%. Peak within 5 minutes of the procedure. |
+| [[oral-surgery/third-molar/torof-2023-the-role-of-antibiotic-use]] | SR+MA, 16 RCTs, third-molar extraction | Antibiotics cut postoperative infection by 69% (p<0.001). No effect on dry socket, dehiscence, haematoma, lymphadenopathy or inflammation. Adverse events similar to placebo (RR 0.96). |
+| [[oral-surgery/third-molar/arteagoitia-2022-is-clindamycin-effective-in-preventing]] | SR+MA, 7 RCTs; 4 poolable trials of oral clindamycin in third-molar extraction | RR 0.66 (95% CI 0.38–1.16), p=0.15, NNT 29, I²=0. Not significant. |
+| [[sinus-lift/lateral/salgado-peralvo-2023-preventive-antibiotic-therapy-in]] | SR, 12 studies, sinus elevation, descriptive only | The one antibiotic-vs-none comparison showed no difference in implant failure; the one duration RCT showed no difference in sinus infection. Insufficient evidence either way. |
+| [[drug/visconti-2026-antibiotic-prophylaxis-dental-implant-augmentation]] | Cochrane protocol, implant placement with bone augmentation | Review in progress. No results. |
+
+**Synthesis.**
+
+1. *Bacteremia is ordinary.* Martins puts numbers on the argument that underlies restrictive endocarditis guidance: toothbrushing and flossing produce transient bacteremia at rates not far below professional oral-hygiene procedures, every day. A single prophylactic dose before one extraction addresses a small share of a patient's cumulative exposure. This is the quantitative basis for reserving prophylaxis for high-risk cardiac conditions.
+2. *Third molars: the infection effect is real, the indication is narrow.* Torof finds a large relative reduction in infection and still concludes against routine use in healthy patients having uncomplicated extractions, because baseline risk is low. Its most useful contribution is separating two outcomes that are often conflated: antibiotics prevent infection and do nothing for dry socket. A prescription written to prevent dry socket has no supporting evidence.
+3. *Clindamycin has no demonstrated preventive effect.* The pooled estimate leans towards benefit but does not reach significance, with consistent trials. Clindamycin is the usual substitute in penicillin-allergic patients, so this weakens the reflex to substitute rather than to ask whether prophylaxis is indicated at all, and it compounds the safety concerns in [[overviews/penicillin-allergy-dental-antibiotic-overview]].
+4. *Augmentation and sinus surgery are evidence gaps, not exceptions.* The intuition that grafted or sinus procedures justify longer cover is untested: Salgado-Peralvo found one comparison of each kind and both were null, and the Cochrane review that would settle the augmentation question is still a protocol. Extended postoperative courses in these procedures are practice habit rather than evidence.
+
+**Net.** These five papers tighten the stewardship position rather than extend it. Where trials exist they support single-dose or no prophylaxis in healthy patients; where clinicians most often reach for longer courses, trials do not exist.

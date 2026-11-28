@@ -2,7 +2,7 @@
 title: "Overview: Implant Macro-Design × Bone Quality → Peri-Implant Stress (FEA Synthesis)"
 authors: synthesis (llm-wiki)
 year: 2026
-date: 2026-06-10
+date: 2026-11-23
 type: synthesis
 category: [overviews]
 tags: [FEA, finite-element-analysis, stress-distribution, bone-quality, bone-density, thread-design, taper, crestal-stress, macrogeometry, von-mises]
@@ -13,37 +13,42 @@ source_papers:
   - wiki/implants/chang-2024-optimization-implant-design-bone-quality-fea.md
   - wiki/implants/ozturk-2026-stress-distribution-anterior-implant-fea.md
   - wiki/implants/cunha-2008-implant-location-mandibular-rpd-fea.md
+  - wiki/implants/qiu-2024-comprehensive-biomechanical-evaluation-length-diameter.md
+  - wiki/implants/ceddia-2025-crestal-position-splinted-implant-fea.md
+  - implants/kim-2026-directional-prosthesis-implant-geometry-eccentric-load-fea
 ---
 
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 유한요소분석(Finite Element Analysis, FEA) 5편 종합 — 임플란트 거시설계(macro-design) × 골질(bone quality)이 임플란트 주위 응력에 미치는 영향. 임상시험이 풀 수 없는 "하중이 어디로 가는가"에 답.
+> - 유한요소분석(Finite Element Analysis, FEA) 7편 종합 — 임플란트 거시설계(macro-design) × 골질(bone quality)이 임플란트 주위 응력에 미치는 영향. 임상시험이 풀 수 없는 "하중이 어디로 가는가"에 답.
 > - 불변 사실 1: 응력은 모든 모델에서 임플란트 경부의 치조정 피질골(crestal cortical bone)에 집중 — 설계·골밀도와 무관(Premnath 2012, Hussein 2019, Leblebicioğlu 2022).
 > - 불변 사실 2: 골밀도가 낮을수록 주위 응력·임플란트 변위↑, D4가 최악 — 해면골 탄성계수↓ + 피질골 두께↓ → 응력·미세동요(micromotion) 동시 증가(Leblebicioğlu 2022, Chang 2024).
 > - 불변 사실 3: 거시설계는 응력을 재분배할 뿐 치조정 집중을 없애지는 못함.
 > - 핵심 레버: 나사(thread) 기하·body 형태가 가장 최적화 가능한 handle이며 효과는 골질 의존적 — 깊은 나사가 D3/D4에서 치조정 응력 ~40%·변위 ≥9% 감소, D2에서는 거의 무변화(Chang 2024).
+> - 두 번째 레버(치수·위치): 40편 FEA 체계적 문헌고찰(Qiu 2024)에서 직경이 지배 인자 — 직경은 피질골 응력·치조정 과부하를, 길이는 해면골 응력을 좌우하며 직경 큰 숏 임플란트가 직경 작은 긴 임플란트보다 응력이 낮았다; D3/D4에서는 길이의 중요성이 커진다. 3본 고정성 보철에서 플랫폼 수직 정렬은 균일(전부 치조정 또는 전부 치조정하)이 혼합 배열보다 유리, 전부 치조정하 배열이 응력 최저(Ceddia 2025, 하악 이방성 모델; 혼합 B형 피질 ~116 MPa vs 전부 치조정하 32 MPa).
 > - 테이퍼(taper)는 trade-off: 일차 안정성(primary stability)을 높이나 모든 밀도에서 peak von Mises 응력↑(Hussein 2019) → 저밀도골 선택은 순수 이득이 아님.
 > - 나사형 > 원통형이 치조정에 더 하중, 원통형이 D3/D4에서 상대적으로 더 잘 분산(Premnath 2012).
 > - 임상 결정점: ①설계 무관 치조정 응력 집중 예상 → 과하중 회피·C/I비 관리·교합 scheme으로 치조정 보호 ②D3/D4에서 나사 설계가 최고 수율 레버 ③테이퍼는 즉시하중 의도·골밀도와 함께 저울질 ④FEA는 옵션 순위용이지 생존 예측용이 아님.
 > - 한계(caveat): 전부 in silico — 균질·등방성 골, 정적 단일하중, 이상화된 골유착. FEA는 응력을 순위·국소화할 뿐 생존을 예측하지 않음; 저밀도골이 왜 더 실패하는지를 설명하는 mechanistic prior로 다룰 것.
 > - Gap: 순환·피로 하중 미반영, 환자별 이방성 거의 미시뮬, FEA 응력→임상 변연골 소실/실패 검증 chain 없음.
+> - **[2026-11-23 추가] 여덟 번째 축 — 보철체-임플란트 "방향성 기하"가 편심 하중 민감도를 설명**: Kim 2026(17개 기하 배치 FEA)에서 30° 편심 하중 시 골-임플란트 계면 응력 중심 487 MPa(중심하중 108 MPa). 접근공이 임플란트 축에서 얼마나 벗어나 있는가보다 **보철체-임플란트 방향성 기하(PIAAR, Prosthesis-Implant Axial Alignment Ratio)의 최취약방향 편심 증폭이 민감도를 예측**(ρ=0.63, p=0.007; 방향성 분산은 ρ=−0.61, p=0.009). 즉 "나사 구멍이 중심인가"만으로 하중 민감도를 판단하면 안 되고, 경사 식립에서 생기는 **방향 자체**를 함께 봐야 함. 단 등방성·선형탄성 정적 모델의 개념 증명이며 임상 역치 미검증.
 
 ## Three-line Summary
 
-Synthesis of 5 FEA studies: peri-implant stress concentrates universally at the crestal cortical bone around the implant neck regardless of design or bone density (Premnath 2012, Hussein 2019, Leblebicioğlu 2022); bone density reduction from D1 to D4 raises peri-implant stress and implant displacement proportionally — D4 cancellous modulus reduction increases both stress and micromotion simultaneously (Leblebicioğlu 2022, Chang 2024) — and macro-design redistributes but never abolishes this crestal concentration.
+Synthesis of 7 FEA studies (including one systematic review of 40 FEA studies): peri-implant stress concentrates universally at the crestal cortical bone around the implant neck regardless of design or bone density (Premnath 2012, Hussein 2019, Leblebicioğlu 2022); bone density reduction from D1 to D4 raises peri-implant stress and implant displacement proportionally — D4 cancellous modulus reduction increases both stress and micromotion simultaneously (Leblebicioğlu 2022, Chang 2024) — and macro-design redistributes but never abolishes this crestal concentration.
 
 Thread depth/geometry is the most optimizable lever and its payoff is bone-quality-dependent: deeper threads reduce crestal stress ~40% and displacement ≥9% in D3/D4 but show negligible change in D2 (Chang 2024); threaded designs load the crest more than cylindrical but cylindrical distributes more favorably in D3/D4 (Premnath 2012); taper raises peak von Mises stress across all densities versus cylindrical (Hussein 2019), making it a stability-vs-crestal-stress trade-off rather than a pure win in soft bone.
 
-FEA ranks and localizes stress but does not predict clinical survival — treat these as mechanistic priors explaining why low-density bone shows higher implant failure rates; gaps include no cyclic/fatigue loading simulation, no patient-specific anisotropic bone, and no validated chain from FEA crestal stress to clinical marginal bone loss.
+FEA ranks and localizes stress but does not predict clinical survival — treat these as mechanistic priors explaining why low-density bone shows higher implant failure rates; gaps include no cyclic/fatigue loading simulation, no patient-specific anisotropic bone, and no validated chain from FEA crestal stress to clinical marginal bone loss. A 2026-11-23 addition shifts attention from implant-only geometry to directional prosthesis–implant geometry: under 30° eccentric loading, interface stress rose from 108 to 487 MPa, and the sensitivity tracked the worst-direction eccentricity amplification of the prosthesis–implant alignment ratio (ρ=0.63) rather than access-hole centricity alone.
 
 ## 세줄요약
 
-5편 유한요소분석(Finite Element Analysis, FEA) 종합: 임플란트 주위 응력은 모든 모델에서 설계·골밀도 무관하게 임플란트 경부 치조정 피질골에 집중(Premnath 2012·Hussein 2019·Leblebicioğlu 2022); 골밀도가 낮아질수록(D4 최악) 응력과 임플란트 변위가 비례 증가하며, 해면골 탄성계수 저하 + 피질골 두께 감소 → 응력·미세동요(micromotion) 동시 악화(Leblebicioğlu 2022·Chang 2024) — macro-design은 재분배할 뿐 치조정 집중을 없애지 못함.
+7편 유한요소분석(Finite Element Analysis, FEA) 종합(그중 1편은 FEA 40편의 체계적 문헌고찰): 임플란트 주위 응력은 모든 모델에서 설계·골밀도 무관하게 임플란트 경부 치조정 피질골에 집중(Premnath 2012·Hussein 2019·Leblebicioğlu 2022); 골밀도가 낮아질수록(D4 최악) 응력과 임플란트 변위가 비례 증가하며, 해면골 탄성계수 저하 + 피질골 두께 감소 → 응력·미세동요(micromotion) 동시 악화(Leblebicioğlu 2022·Chang 2024) — macro-design은 재분배할 뿐 치조정 집중을 없애지 못함.
 
 나사(thread) 기하가 가장 최적화 가능한 레버이며 효과는 골질 의존적: 깊은 나사가 D3/D4 치조정 응력 ~40%·변위 ≥9% 감소(D2는 무변화; Chang 2024), 나사형 > 원통형이 치조정에 더 하중하나 원통형이 D3/D4에서 분산 유리(Premnath 2012), 테이퍼(taper)는 모든 밀도에서 peak von Mises 응력↑(Hussein 2019) → 1차 안정성 이득 vs 치조정 응력 증가의 trade-off.
 
-FEA는 응력을 순위·국소화할 뿐 임상 생존을 예측하지 않음 — 저밀도골 실패 증가의 기전적 선행 근거로 활용하고 임상/SR 근거와 함께 판단; 순환·피로 하중·이방성 골 미시뮬·FEA 응력→변연골소실/실패 검증 chain 부재가 현재 주요 갭이다.
+FEA는 응력을 순위·국소화할 뿐 임상 생존을 예측하지 않음 — 저밀도골 실패 증가의 기전적 선행 근거로 활용하고 임상/SR 근거와 함께 판단; 순환·피로 하중·이방성 골 미시뮬·FEA 응력→변연골소실/실패 검증 chain 부재가 현재 주요 갭이다. 2026-11-23 추가: 보철체-임플란트 방향성 기하(PIAAR)가 편심 하중 민감도를 예측 — 30° 편심 시 계면 응력 108→487 MPa, 최취약방향 편심 증폭 ρ=0.63(p=0.007), 접근공 중심성만으로는 불충분.
 
 ## Thesis
 Finite element analysis answers a question clinical trials cannot resolve cleanly: *where* does load go, and *how* does implant macro-design redistribute it as bone quality degrades? Five FEA studies converge on three invariants and one lever.
@@ -51,6 +56,10 @@ Finite element analysis answers a question clinical trials cannot resolve cleanl
 The invariants: (1) **stress concentrates at the crestal cortical bone around the implant neck** — universally, regardless of design or density (Premnath 2012, Hussein 2019, Leblebicioğlu 2022); (2) **lower bone density raises peri-implant stress and implant displacement** — D4 bears the highest stress, and falling cancellous modulus increases both stress and micromotion (Leblebicioğlu 2022, Chang 2024); (3) **macro-design redistributes but never abolishes crestal concentration**.
 
 The lever: **thread geometry and body shape are the optimizable handles, and their payoff is bone-quality-dependent.** Deeper threads cut crestal stress ~40% and displacement ≥9% in D3/D4 but barely move D2 (Chang 2024). Threaded designs load the crest more than cylindrical, which distribute relatively better in D3/D4 (Premnath 2012); tapered bodies show higher peak von Mises stress than cylindrical across all densities (Hussein 2019). This makes taper a **trade-off** — it aids primary stability (Heimes 2023, macrogeometry review) yet raises functional crestal stress, so the soft-bone design choice is not a pure win. [미검증]
+
+A second lever is **size and vertical position**. A systematic review of 40 FEA studies finds diameter the dominant dimensional factor — it governs cortical stress and crestal overloading, whereas length governs cancellous stress — so a wider short implant generated lower stress than a narrower long one, with length gaining relevance in D3/D4 (Qiu 2024). For three splinted implants in anisotropic mandibular bone, uniform vertical alignment beat mixed alignment: an all-subcrestal model reduced cortical stress to 32 MPa (trabecular 2.11 MPa) while a mixed configuration approached 116 MPa under 45° oblique load, near the 120 MPa physiological limit used by the authors (Ceddia 2025). [확인 for the quoted values; the mechanical reading is in silico]
+
+**[Added 2026-11-23] A third lever: directional prosthesis–implant geometry under eccentric load.** [[implants/kim-2026-directional-prosthesis-implant-geometry-eccentric-load-fea]] (17 geometric configurations, 30° eccentric vs centered loading) reports bone–implant interface stress concentrating to 487 MPa under eccentricity versus 108 MPa under centered load. Its novel variable is not the implant alone but the *directional* relationship between prosthesis and implant: the worst-direction prosthesis–implant axial alignment ratio (PIAAR) eccentricity amplification correlated positively with eccentric-load sensitivity (ρ=0.63, p=0.007), while directional dispersion correlated negatively (ρ=−0.61, p=0.009). The practical correction to earlier sections is that "is the screw access hole centered?" is an incomplete proxy — an inclined implant with an apparently centered access hole can still carry a directionally unfavorable prosthetic load vector. This is a proof-of-concept in isotropic linear-elastic static models with no clinical threshold validation, so it extends rather than overturns the crestal-concentration invariant.
 
 Caveat: every input here is in silico (homogeneous/isotropic bone, static single-load, idealized osseointegration). FEA ranks and localizes stress; it does not predict survival. Treat these as mechanistic priors that explain *why* low-density bone fails more (per [[overviews/bone-quality-implant-risk-modification-overview]]), not as outcome evidence. [확인]
 
@@ -63,19 +72,24 @@ Caveat: every input here is in silico (homogeneous/isotropic bone, static single
 | Hussein 2019 | 3D FEA, mandible | tapered vs cylinder × thread depth | crestal cortical peak; tapered > cylinder peak von Mises (all bone types) | in-vitro |
 | Chang 2024 | 3D FEA, optimization | thread pitch/depth × D2/D3/D4 | deeper thread cuts crestal stress ~40% & displacement ≥9% in D3/D4; negligible in D2 | in-vitro |
 | Öztürk 2026 | 3D FEA, anterior | bone availability × load angle × restoration | scenario-dependent stress for single anterior implant | in-vitro |
+| Qiu 2024 | SR of 40 FEA studies (2003–2023) | implant diameter × length | diameter dominates (cortical/crestal stress); length governs cancellous stress; wide-short < narrow-long stress; length matters more in D3/D4 | sr (of in-vitro) |
+| Ceddia 2025 | 3D FEA, anisotropic mandible | vertical platform alignment of 3 splinted implants, 400 N vertical + 45° oblique | uniform alignment beats mixed; all-subcrestal cortical 32 MPa vs mixed B ~116 MPa (limit 120) | in-vitro |
 | Cunha 2008 | 2D FEA, mandibular RPD | implant location (mesial/central/distal) in Kennedy Class I distal-extension RPD | mesial placement best relieves abutment-tooth stress; central placement minimizes RPD displacement; **internal thread region is the stress riser regardless of location** — a distinct clinical context (implant as RPD abutment, not fixed prosthesis) reinforcing Invariant 1 from a position rather than macro-design axis | in-vitro |
+| Kim 2026 | 3D FEA, 17 geometric configurations | 30° eccentric vs centered load × prosthesis–implant directional alignment (PIAAR) | interface stress 487 MPa eccentric vs 108 MPa centered; worst-direction eccentricity amplification ρ=0.63 (p=.007), directional dispersion ρ=−0.61 (p=.009) — centric access hole alone insufficient | in-vitro (proof of concept) |
 
 ## Clinical Decision Points
 1. **Expect crestal cortical stress concentration regardless of design** — protect the crest (avoid overload, control C/I ratio, occlusal scheme per [[overviews/implant-occlusion-loading-biomechanics-overview]]). [확인]
 2. **In D3/D4 bone, thread design is the highest-yield design lever.** Deeper-threaded designs reduce crestal stress and micromotion where it matters; in D2 the choice is nearly stress-neutral. [미검증]
 3. **Taper is a trade-off, not a free win.** It boosts primary stability but raises peak crestal stress — weigh against immediate-loading intent and bone density. [미검증]
 4. **Use FEA to rank options, not to predict survival.** Pair these priors with clinical/SR evidence on osseodensification, undersizing, and loading timing. [확인]
+5. **[Added 2026-11-23] In inclined-implant / eccentric-load cases, evaluate the prosthesis–implant direction, not just access-hole centricity.** Kim 2026's directional geometry descriptor (PIAAR) tracked eccentric sensitivity better than the access-hole position alone; treat this as a design-check question for angled implants and cantilevers, with no numerical clinical threshold yet. [확인]
 
 ## Gaps & Future Research
 - Static single-load models; cyclic/fatigue loading and dynamic micromotion under-modeled.
 - Idealized bone material properties; patient-specific anisotropy rarely simulated.
 - No direct link from FEA stress magnitude to clinical marginal bone loss or failure — the validation chain is missing.
 - Thread-depth optimization (Chang 2024) needs experimental/clinical confirmation.
+- **[New 2026-11-23] Directional prosthesis–implant geometry (Kim 2026) has no clinical validation.** The PIAAR correlations are derived from isotropic static models with no threshold tied to bone loss, screw loosening, or survival; whether an inclined implant with a centered access hole actually fails more remains untested in patients.
 
 ## Related overviews
 - [[overviews/bone-quality-implant-risk-modification-overview]] — the clinical risk axis these FEA priors mechanistically explain.
@@ -90,4 +104,7 @@ Caveat: every input here is in silico (homogeneous/isotropic bone, static single
 - [[implants/chang-2024-optimization-implant-design-bone-quality-fea]] — thread-depth optimization per bone quality.
 - [[implants/ozturk-2026-stress-distribution-anterior-implant-fea]] — anterior single-implant scenarios.
 - [[implants/isq/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — macrogeometry-stability counterpart to the stress trade-off.
+- [[implants/qiu-2024-comprehensive-biomechanical-evaluation-length-diameter]] — SR of 40 FEA studies; diameter dominates stress, length matters more in D3/D4.
+- [[implants/ceddia-2025-crestal-position-splinted-implant-fea]] — vertical platform alignment of splinted implants; uniform alignment preferred.
 - [[implants/cunha-2008-implant-location-mandibular-rpd-fea]] — 2D FEA, implant-supported RPD context: implant position (not design) as the variable; mesial placement favors abutment protection, central favors RPD stability; internal-thread stress concentration is location-independent.
+- [[implants/kim-2026-directional-prosthesis-implant-geometry-eccentric-load-fea]] — 3D FEA (2026): directional prosthesis–implant geometry (PIAAR) predicts eccentric-load sensitivity at 30° better than access-hole centricity; 487 vs 108 MPa interface stress, proof-of-concept only.

@@ -18,6 +18,22 @@ Cochrane Protocol (2026): to evaluate systemic prophylactic antibiotics vs no an
 ## 한줄요약
 코크란 프로토콜 (2026): 골증대술 동반 임플란트 식립 시 전신 예방적 항생제 (Prophylactic Antibiotic)의 편익·위해 평가 예정 — 결과 없음.
 
+## Three-line Summary
+
+Visconti et al. (2026) registered a Cochrane protocol (CD016385) for a systematic review evaluating systemic prophylactic antibiotics versus no antibiotics for dental implant placement when performed with concomitant bone augmentation procedures (GBR with resorbable or non-resorbable membranes, and sinus floor elevation). This protocol addresses a specific clinical gap: existing evidence on antibiotic prophylaxis for dental implants has largely come from studies of implant placement without augmentation, while augmented procedures carry higher infection risk and potentially different antibiotic needs.
+
+The protocol establishes rigorous methodology—only parallel-group RCTs with ≥10 participants per arm and ≥3-month follow-up will be included, with statistical unit being the participant (not implant) to avoid unit-of-analysis errors. Planned subgroup analyses will examine augmentation type (horizontal vs vertical GBR, resorbable vs non-resorbable membrane) and procedure-specific factors. Outcomes of critical importance are implant failure and prosthetic failure at ≤1 year; important outcomes include postoperative infection and adverse events (gastrointestinal, allergic) within 3 months.
+
+As of the protocol stage, no results are available. One pre-existing RCT found no benefit from systemic antibiotics in healthy patients with simultaneous GBR, and conflicting findings in the broader literature suggest the evidence base may be insufficient for definitive meta-analysis once eligible trials are identified. The companion Cochrane review for implants without augmentation (Esposito 2013) provides context for interpreting future results.
+
+## 세줄요약
+
+비스콘티 등(2026)은 골증대술(Guided Bone Regeneration, GBR 또는 상악동 거상) 동반 임플란트 식립 시 전신 예방적 항생제(Prophylactic Antibiotic) 투여 대 비투여를 평가하는 코크란 프로토콜(CD016385)을 등록했다. 기존 임플란트 항생제 예방 근거가 주로 골증대술 비시행 사례에서 비롯됐다는 갭을 겨냥한다—골증대술 병행 시 감염 위험이 더 높아 별도 평가가 필요하다.
+
+분석 단위를 임플란트가 아닌 참여자로 설정해 단위 분석 오류를 방지하는 엄격한 방법론을 채택했다. 흡수성·비흡수성 차폐막 별, 수평·수직 GBR 별 하위군 분석이 계획됐다. 현재 프로토콜 단계로 결과는 없다.
+
+기존 1건의 RCT가 건강한 환자의 동시 GBR에서 전신 항생제 편익이 없음을 보고했으나, 문헌 전체에 상충되는 결과가 존재한다. 비골증대술 임플란트 항생제 예방에 대한 동반 코크란 리뷰(에스포시토 2013)가 향후 결과 해석의 맥락을 제공한다.
+
 ## 1. Document Information
 - Journal: Cochrane Database of Systematic Reviews, 2026 (Protocol)
 - DOI: 10.1002/14651858.CD016385

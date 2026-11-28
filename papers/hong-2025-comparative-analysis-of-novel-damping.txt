@@ -1,0 +1,747 @@
+INTRODUCTION
+
+Since Brånemark introduced the concept of osseointegration in dental implants, implant success has depended on effective osseointegration []. Implant mobility is a key success criterion, with stability defined as the absence of mobility []. Implant stability during osseointegration is categorized into 2 stages: primary and secondary stability. Primary stability refers to the mechanical engagement achieved during implant placement, and sufficient primary stability facilitates the development of secondary stability []. Secondary stability is the biological stability attained through bone regeneration and remodeling around the implant threads during the healing process []. Thus, evaluating secondary stability is essential to confirm osseointegration, predict implant outcomes, and prevent early complications [].
+
+Various methods have been proposed for clinically evaluating implant osseointegration, including histological examination, removal torque analysis, and radiographic analysis. However, these approaches have limitations in clinical practice due to their invasiveness or lack of reliability. Consequently, resonance frequency analysis (RFA) and damping capacity analysis (DCA) are widely used for their quantitative, reproducible, noninvasive, and straightforward nature in clinical practice []. Although RFA is recognized for its noninvasive approach, accuracy, and reliability in measuring implant stability [], it has notable drawbacks. A primary limitation is the requirement for a consumable transducer to be fixed to the fixture, which necessitates removing the fixture’s upper component. This procedure can prolong chair time, especially for multiple implants or when temporary prostheses need to be removed and replaced. Additionally, the process may compromise implants with weak osseointegration and limit long-term monitoring of cemented restorations, as access to the implant becomes restricted once the final restoration is cemented. Moreover, RFA cannot simultaneously measure multiple implants and tends to be less reliable when assessing implants with low stability [].
+
+Given these challenges, DCA-type devices present a promising alternative to RFA methods. In fact, DCA devices have shown statistically similar correlations with RFA measurements, underscoring their effectiveness in similar applications []. A DCA device assesses the damping characteristics of implants based on contact time. The Periotest (Medizintechnik Gulden, Modautal, Germany) is a well-validated diagnostic device originally developed in 1964 for measuring tooth mobility. It measures the subject’s reaction to a defined percussion force using a tapping device. The tapping head delivers 16 impacts over 4 seconds with constant acceleration. An electronic accelerometer within the handpiece records the contact time and converts it into a Periotest value (PTV) ranging from −8 (indicating rigid integration) to +50 (indicating non-integration), with lower values signifying greater stability []. The measurement requires the handpiece to strike the structure connected to the implant, positioned parallel to the implant’s long axis at a specific distance; deviations in distance or angle can result in non-reproducible values. In the intraoral environment, this limitation may lead to unreliable outcomes [].
+
+Recently, AnyCheck (Neobiotech, Seoul, Korea) was developed as a new DCA device. It directly contacts the subject, limiting measurements to within 30 degrees, which improves user convenience and minimizes errors related to impact distance and angle that are inherent in the Periotest. It delivers 6 strikes over 2 seconds, converting measurements into a scale ranging from 0 to 99. Additionally, it applies a lower force of 0.9 N compared to the Periotest, reducing potential damage to the implant. Several studies have shown that AnyCheck is strongly correlated with the Periotest M and is a reliable device []. More recently, The Trust (Dentium, Seoul, Korea) has been introduced as a DCA device that strikes the subject 7 times over 3 seconds with a force of less than 3 N, providing values from 0 to 90. Its lighter and smaller design may offer superior maneuverability; however, the reliability of The Trust has not yet been documented in the literature. Although several DCA devices have been developed for measuring implant stability, most validation studies have been performed in laboratory settings rather than in the intraoral environment. The accessibility of these devices can vary depending on the dental arch (maxilla or mandible) and the implant placement site (anterior or posterior), potentially affecting accuracy and reliability [].
+
+Additionally, long measurement times, the requirement for precise angles and distances, and the bulky size and weight of some devices pose challenges for accurate intraoral measurements. Therefore, this study aims to evaluate and compare the accuracy and reliability of newly developed devices designed to overcome these clinical limitations, while assessing their performance in real chairside settings.
+
+MATERIALS AND METHODS
+
+Study design
+
+This study retrospectively analyzed chart data from 37 patients (58 implants) who visited Ilsan Hospital in November 2023 for a secondary stability assessment of placed implants. Secondary stability was measured to evaluate osseointegration prior to occlusal loading. On average, implant stability measurements were taken 91 days (standard deviation ±41.91) after placement. In cases where secondary surgery was performed or initial measurements were insufficient for prosthetic loading (PTV<0) [], the measurement timing was delayed to allow additional healing. Measurements involved taking 3 readings per implant in the oral cavity with the healing abutment attached, following the manufacturer’s guidelines for each device (Periotest, referred to as DCA-P; The Trust, referred to as DCA-T; and AnyCheck, referred to as DCA-A). The device was held parallel to the ground, and measurements were obtained by striking the implant from the buccal side. Three readings were taken at 10-second intervals after removing the device from the oral cavity.
+
+Ethics
+
+This prospective study was registered with the Institutional Review Board of the National Research Institute of Health in the Republic of Korea (IRB No. NHIMC 2024-05-002). The requirement for written informed consent was waived because the study was retrospective and utilized anonymized data.
+
+Operational definitions of terms
+
+Accuracy
+
+Accuracy was quantitatively assessed using correlation coefficients between the DCA-P value (DCAV-P), which served as the reference, and the measurements obtained from the DCA-A value (DCAV-A) and DCA-T value (DCAV-T) devices.
+
+Reliability
+
+Reliability was determined by evaluating the reproducibility of 3 readings per device using the intraclass correlation coefficient (ICC).
+
+Variables factor
+
+Factors including healing abutment height, time since implant placement, bone graft status, and fixture diameter and length were recorded for each implant. The Z-test was used to assess the influence of these factors on accuracy and reliability.
+
+Sample size
+
+The sample size was determined based on previous studies comparing implant stability diagnostic devices, using a correlation coefficient of 0.777 as the reference []. Using the Power Analysis and Sample Size (PASS) software (version 11.0.7, PASS, NCSS, LLC, Kaysville, UT, USA) with a power of 0.90 and an alpha value of 0.05, the minimum required sample size was 25; data were collected from more than 25 cases.
+
+Statistical analyses
+
+Accuracy
+
+The study compared the accuracy of DCAV-A and DCAV-T to DCAV-P by evaluating how closely their values aligned with the reference. Accuracy was assessed using the average of 3 measurements and analyzed with Spearman’s rank correlation coefficient. Correlation coefficients were categorized as very strong (0.80≤|r|≤1.00), strong (0.60≤|r|≤0.79), moderate (0.40≤|r|≤0.59), weak (0.20≤|r|≤0.39), very weak (0.00<|r|≤0.19), and no correlation (r=0). The coefficient of determination (R) was interpreted as follows: R<0.3 indicates low explanatory power, 0.3≤R<0.5 moderate, 0.5≤R<0.7 high, and R≥0.7 very high explanatory power. Additionally, DCAV-A was validated using a truncation method at 90 to enhance clinical relevance, as discussed in the Discussion section.
+
+The impact of variables on accuracy was further analyzed using the Z-test. Fisher’s z-transformation was applied to the correlation coefficients from each group, and the Z-test statistic was calculated by dividing the difference between the Z-values by the standard error. The resultingvalue, assessed at a significance level of 0.05, identified variables influencing each device’s accuracy.
+
+Reliability
+
+ICC analysis of the 3 measurements per device was used to determine reliability. Reliability was considered poor if the ICC was <0.4, fair-to-good if it ranged from 0.4 to 0.7, and excellent if the ICC was >0.7.
+
+The statistical significance of reliability differences between variables was evaluated using the 95% confidence intervals (CIs) of the ICCs. If the 95% CIs of 2 groups did not overlap, the difference was considered statistically significant. Although this method does not yield exactvalues and may be conservative when CIs slightly overlap, it was chosen due to the limited subgroup sample sizes and its capacity to directly visualize reliability differences.
+
+Data were analyzed using IBM SPSS Statistics Version 23.0 (IBM Corp., Armonk, NY, USA), with results evaluated at a 95% CI and a significance level set at 0.05.
+
+RESULTS
+
+Accuracy
+
+Accuracy based on DCAV-P
+
+Spearman’s rank correlation coefficient showed that the correlation between DCAV-P and DCAV-A was −0.870 (=0.0039), indicating a very strong negative correlation (0.80≤|r|≤1.00). In contrast, the correlation between DCAV-P and DCAV-T was −0.473 (=0.0002), reflecting a moderate correlation (0.40≤|r|≤0.59). These results suggest that DCAV-A values align more closely with DCAV-P values than do DCAV-T values. A Z-test statistic of 4.28 confirmed that DCAV-A is significantly more accurate than DCAV-T (<0.05) ().
+
+Regression analysis revealed a coefficient of determination (R) of 0.828 for DCAV-A, which falls into the very high explanatory power category (R≥0.7). In comparison, DCAV-T had an Rof 0.379, indicating moderate explanatory power (0.3≤R<0.5). The combined correlation and regression analyses indicate that DCAV-A has a stronger linear relationship with DCAV-P than DCAV-T does. A subsequent Z-test statistic of 4.24 further supported the superior accuracy of DCAV-A over DCAV-T (<0.05).
+
+Table 1
+
+Accuracy of DCAV-T and DCAV-A according to variables
+
+Variables
+
+Group
+
+No.
+
+DCAV-T accuracy
+
+DCAV-A accuracy
+
+Total
+
+58
+
+−0.47
+
+−0.87
+
+Anterior vs. posterior
+
+Anterior
+
+16
+
+−0.59
+
+−0.84
+
+Posterior
+
+42
+
+−0.42
+
+−0.85
+
+Location arch
+
+Maxilla
+
+32
+
+−0.49
+
+−0.93
+
+Mandible
+
+26
+
+−0.46
+
+−0.69
+
+Quadrant
+
+#10
+
+17
+
+−0.45
+
+−0.88
+
+#20
+
+15
+
+−0.50
+
+−0.96
+
+#30
+
+15
+
+−0.16
+
+−0.54
+
+#40
+
+11
+
+−0.57
+
+−0.83
+
+Healing height
+
+Large (>6 mm)
+
+30
+
+−0.39
+
+−0.80
+
+Small (≤6 mm)
+
+28
+
+−0.49
+
+−0.84
+
+Healing diameter
+
+Large (>4 mm)
+
+16
+
+−0.39
+
+−0.80
+
+Small (≤4 mm)
+
+42
+
+−0.46
+
+−0.84
+
+Fixture diameter
+
+Large (>4 mm)
+
+37
+
+−0.40
+
+−0.86
+
+Small (≤4 mm)
+
+21
+
+−0.55
+
+−0.77
+
+Fixture length
+
+Long (10 mm)
+
+14
+
+−0.60
+
+−0.70
+
+Short (≤8.5 mm)
+
+44
+
+−0.45
+
+−0.88
+
+Period
+
+>90 days
+
+23
+
+−0.51
+
+−0.89
+
+≤90 days
+
+35
+
+−0.39
+
+−0.83
+
+Bone graft
+
+No
+
+17
+
+−0.34
+
+−0.77
+
+Yes
+
+41
+
+−0.69
+
+−0.89
+
+Magnitude of DCAV-P
+
+>−5.5
+
+26
+
+−0.47
+
+−0.88
+
+<−5.5
+
+32
+
+−0.14
+
+−0.59
+
+DCAV-T: damping capacity analysis-T value, DCAV-A: damping capacity analysis-A value, #10: right maxillary area, #20: left maxillary area, #30: left mandible area, #40: right mandible area, DCAV-P: damping capacity analysis-P value.
+
+Correlation coefficient after excluding values above DCAV-T 90
+
+After excluding values above 90, the correlation coefficient between DCAV-P and DCAV-T improved to −0.70 (=0.000), indicating a strong correlation (0.60≤|r|≤0.79). The corresponding Rvalue was 0.6067, which falls within the high explanatory power category (0.5≤R<0.7). Although the Rincreased by approximately 0.23—shifting from moderate to high explanatory power—DCAV-P and DCAV-A still demonstrated a higher correlation and explanatory power, as noted previously.
+
+Accuracy of DCAV-T and DCAV-A according to variables
+
+DCAV-A accuracy was significantly higher in the maxilla than in the mandible (=0.0037). The accuracy of DCAV-A significantly decreased at site #30 compared to site #20 (=0.0010). The accuracy of DCAV-A was also higher when DCAV-P values were greater than −5.5 (=0.0124). In contrast, DCAV-T did not show statistically significant differences in accuracy for any of the variables examined. No other variables produced statistically significant differences in accuracy based on the Z-test results (and).
+
+Table 2
+
+Statistical analysis of variables associated with the accuracy of damping capacity analysis-A value using the Fisher Z-test
+
+Variables
+
+Z-statistic
+
+value
+
+Anterior vs. posterior
+
+0.1092
+
+0.9130
+
+Location arch (maxilla vs. mandible)
+
+−2.9025
+
+0.0037
+
+Quadrant
+
+#10 vs. #20
+
+1.4493
+
+0.1473
+
+#10 vs. #30
+
+−1.9614
+
+0.0498
+
+#10 vs. #40
+
+−0.4234
+
+0.6720
+
+#20 vs. #30
+
+−3.2866
+
+0.0010
+
+#20 vs. #40
+
+−1.6602
+
+0.0969
+
+#30 vs. #40
+
+1.2794
+
+0.2007
+
+Healing abutment
+
+Height (large vs. small)
+
+0.4416
+
+0.6588
+
+Diameter (large vs. small)
+
+0.3827
+
+0.7019
+
+Fixture
+
+Diameter (large vs. small)
+
+−0.9366
+
+0.3490
+
+Length (long vs. short)
+
+1.4974
+
+0.1343
+
+Period
+
+−0.8202
+
+0.4121
+
+Bone graft
+
+1.2845
+
+0.1990
+
+Magnitude of DCAV-P
+
+−2.5002
+
+0.0124
+
+#10: right maxillary area, #20: left maxillary area, #30: left mandible area, #40: right mandible area, DCAV-P: damping capacity analysis-P value.
+
+<0.05.
+
+Table 3
+
+Statistical analysis of variables associated with the accuracy of damping capacity analysis-T value using the Fisher Z-test
+
+Variables
+
+Z-statistic
+
+value
+
+Anterior vs. posterior
+
+−0.7181
+
+0.4727
+
+Location arch (maxilla vs. mandible)
+
+−0.1388
+
+0.8896
+
+Quadrant
+
+#10 vs. #20
+
+0.1642
+
+0.8696
+
+#10 vs. #30
+
+−0.8218
+
+0.4112
+
+#10 vs. #40
+
+0.3674
+
+0.7133
+
+#20 vs. #30
+
+−0.9502
+
+0.3420
+
+#20 vs. #40
+
+0.2152
+
+0.8296
+
+#30 vs. #40
+
+1.0651
+
+0.2868
+
+Healing abutment
+
+Height (large vs. small)
+
+0.4477
+
+0.6544
+
+Diameter (large vs. small)
+
+0.2670
+
+0.7895
+
+Fixture
+
+Diameter (large vs. small)
+
+0.6681
+
+0.5041
+
+Length (long vs. short)
+
+−0.6137
+
+0.5393
+
+Period
+
+−0.5295
+
+0.5965
+
+Bone graft
+
+1.5796
+
+0.1142
+
+Magnitude of DCAV-P
+
+−1.3221
+
+0.1861
+
+#10: right maxillary area, #20: left maxillary area, #30: left mandible area, #40: right mandible area, DCAV-T: damping capacity analysis-T value.
+
+Reliability
+
+Reliability of each device
+
+The ICC for DCAV-P was 0.98 (95% CI, 0.97–0.99). DCAV-T had an ICC of 0.94 (95% CI, 0.90–0.96), and DCAV-A had an ICC of 0.96 (95% CI, 0.95–0.98). All 3 DCA devices demonstrated excellent reliability, with DCAV-P exhibiting the highest reliability and DCAV-T the lowest. However, Z-test results did not show statistically significant differences in reliability among DCAV-P, DCAV-A, and DCAV-T ().
+
+Table 4
+
+Statistical analysis of the reliability of each device
+
+Variables
+
+Group
+
+No.
+
+DCAV-P ICC (95% CI)
+
+DCAV-T ICC (95% CI)
+
+DCAV-A ICC (95% CI)
+
+Total
+
+58
+
+0.98 (0.78–0.99)
+
+0.94 (0.90–0.96)
+
+0.96 (0.95–0.98)
+
+Location arch
+
+Maxilla
+
+32
+
+0.99 (0.98–0.99)
+
+0.94 (0.89–0.97)
+
+0.96 (0.93–0.98)
+
+Mandible
+
+26
+
+0.94 (0.89–0.97)
+
+0.92 (0.84–0.96)
+
+0.95 (0.90–0.98)
+
+Tooth classification
+
+Anterior
+
+16
+
+0.97 (0.94–0.99)
+
+0.93 (0.84–0.97)
+
+0.96 (0.91–0.99)
+
+Premolar
+
+15
+
+0.99 (0.97–0.99)
+
+0.96 (0.90–0.99)
+
+0.97 (0.93–0.99)
+
+Molars
+
+27
+
+0.99 (0.97–0.99)
+
+0.92 (0.85–0.96)
+
+0.95 (0.91–0.98)
+
+Anterior vs. posterior
+
+Anterior
+
+16
+
+0.97 (0.94–0.99)
+
+0.93 (0.84–0.97)
+
+0.96 (0.91–0.99)
+
+Posterior
+
+42
+
+0.99 (0.98–0.99)
+
+0.94 (0.90–0.96)
+
+0.96 (0.94–0.98)
+
+Quadrant
+
+#10
+
+17
+
+0.99 (0.99–1.00)
+
+0.97 (0.92–0.99)
+
+0.96 (0.90–0.98)
+
+#20
+
+15
+
+0.98 (0.94–0.99)
+
+0.89 (0.74–0.96)
+
+0.97 (0.94–0.99)
+
+#30
+
+15
+
+0.96 (0.91–0.99)
+
+0.87 (0.69–0.99)
+
+0.95 (0.88–0.98)
+
+#40
+
+11
+
+0.92 (0.78–0.98)
+
+0.97 (0.92–0.99)
+
+0.95 (0.85–0.98)
+
+DCAV-P: damping capacity analysis-P value, ICC: intraclass correlation coefficient, CI: confidence interval, DCAV-T: damping capacity analysis-T value, DCAV-A: damping capacity analysis-A value, #10: right maxillary area, #20: left maxillary area, #30: left mandible area, #40: right mandible area.
+
+Reliability of each device according to variables
+
+DCAV-P demonstrated higher reliability in the maxilla compared to the mandible and showed reduced reliability at the #40 site compared to the #10 sites. In contrast, DCAV-T and DCAV-A did not exhibit statistically significant differences in reliability across the variables.
+
+DISCUSSION
+
+This study investigated the accuracy and reliability of newly developed DCA devices and examined the factors that influence these measurements. Although DCA devices do not directly represent histological osseointegration, they are valuable for inferring bone–implant contact ratios and histological bone levels, thereby aiding in the evaluation of implant stability and the estimation of the bone–implant interface condition [].
+
+PTVs (DCAV-P) measured at the time of prosthetic loading can reliably predict early implant failure []. Given that implants undergo continuous remodeling of the surrounding bone, implant stability devices are instrumental in determining the optimal timing for prosthetic loading []. Noguerol et al. [] reported high sensitivity in predicting early implant loss when DCAV-P was greater than or equal to −2, proposing this threshold as a cutoff for prosthesis loading. Similarly, Aparicio et al. [] suggested that clinical osseointegration could be inferred when DCAV-P was +0 or higher for implants in bone types D1 to D3 and +2 or higher for those in D4 bone. Their research indicated that DCA-P is highly sensitive for detecting early implant failure and effective in evaluating implant stability. In this study, all implants demonstrated DCAV-P values of −1 or lower at the 3-month follow-up, and these implants maintained osseointegration for at least 1 month after prosthetic loading. These findings are consistent with previous studies on implant stability and the maintenance of osseointegration.
+
+We assessed the accuracy of DCAV-A and DCAV-T relative to DCAV-P. DCAV-A exhibited a very strong correlation coefficient, whereas DCAV-T displayed only a moderate correlation coefficient (). Notably, DCAV-T often reached its maximum value of 90, indicating that it cannot record values above 90 when stability exceeds a certain threshold. Clinically, since stability values beyond a specific threshold are not significant for predicting early implant failure, using such a cutoff for prosthetic loading is acceptable []. However, this may negative affect the values in the correlation analysis results of this study. Therefore, we excluded values above 90 from the analysis and re-evaluated the statistics. This adjustment produced a correlation coefficient of −0.70 (R=0.6067374), reflecting improved accuracy compared to the initial analysis. These results indicate that DCAV-A maintains higher accuracy than DCAV-T and demonstrates a stronger correlation with DCAV-P. This discrepancy may be due to physical errors associated with the relatively weak tapping strength and light tapping head of DCAV-T, which can lead to errors in contact time measurement and affect the DCA value (). Excessively light force may create errors in the tapping head’s contact time, which could affect the DCA value. Another reason may be that DCA-A requires a position nearly parallel to the ground for accurate measurement, which may reduce errors. However, since DCA-T does not have this function, striking the target from a higher angle may lead to inappropriate values. While the relatively lower accuracy of DCA-T does not necessarily reflect its osseointegration capability, an alternative study design is required to verify osseointegration while maintaining the advantages of DCA-T, such as its lightweight and compact design.
+
+DCA devices tend to exhibit lower stability values with increased abutment length, necessitating corrections for abutment size []. In this study, the 3 devices were used sequentially without altering the subject’s healing abutment, and the manufacturer-provided correction values were applied.
+
+An analysis of various factors was conducted to determine their effects on accuracy (). These factors included fixture diameter and length, healing abutment height and diameter, timing of implant placement, bone graft status, and the magnitude of DCAV-P. DCAV-A showed statistically significant accuracy differences in the mandible versus the maxilla when the corresponding DCAV-P value was below −5.5 compared to above −5.5. Since the mandible typically exhibits higher DCAV-P values than the maxilla, this finding may reflect the influence of bone quality. Additionally, the accuracy of DCAV-A significantly decreased at position #30 compared to positions #10 and #20. These findings align with Lee et al. [], who reported that DCA-A is sensitive to positional variations, potentially causing discrepancies in accuracy depending on the practitioner’s and patient’s positions. It is important to note that the study used DCA-P as the reference for evaluating DCA-A accuracy. Inherent differences between DCA-P and DCA-A values in different oral regions, due to factors such as bone density, implant angulation, or anatomical variations, may account for the apparent decrease in accuracy at certain positions rather than an actual reduction in DCA-A accuracy. No significant differences in DCAV-T accuracy were observed across the examined variables. Although the correlation between DCAV-P and these variables did not differ significantly for DCAV-A, this does not necessarily indicate a lack of relationship between these variables and osseointegration. Given the limited sample size for each variable in this study, further research with larger and more diverse samples is needed to conclusively determine the impact of these variables on measurement accuracy.
+
+In summary, within the limitations of this study, DCAV-A exhibited superior accuracy compared to DCAV-T when using DCAV-P as a reference in intraoral clinical settings. However, the accuracy of DCAV-A varied according to the intraoral position and the corresponding DCAV-P values.
+
+Consistent reproduction of similar values upon repeated testing is essential for reliable stability measurements []. In this study, repeatability was assessed using the ICC. Although DCAV-P maintained high reliability in clinical settings, several external factors influenced the results []. DCA devices are known to yield variable measurements depending on the measurement position, strike angle, and distance. Therefore, following the manufacturer’s instructions—such as positioning the buccal aspect perpendicular to the tooth axis and maintaining a 1 to 2 mm distance—is critical. These factors inevitably affect measurement reliability in a chairside clinical environment []. Despite these challenges, all 3 devices demonstrated excellent reliability, as also confirmed by a previous study on bovine bone []. However, there remains a lack of extensive chairside studies in clinical settings. Device-specific results showed that DCAV-P exhibited the highest reliability, followed by DCAV-A and then DCAV-T. One possible explanation for the higher reliability of DCAV-P is the greater number of strikes, which allows for a more accurate average measurement.
+
+However, the benefit of increased strikes is effective only when patient movement is minimal. In situations where involuntary tongue movements or implants positioned at challenging angles prolong strike time, measurement reliability may decrease. These factors may explain why DCAV-P reliability is lower in certain cases. In this study, all DCA devices generally demonstrated lower reliability in the mandible compared to the maxilla, with statistically significant differences observed only for DCAV-P. Additionally, DCAV-P showed reduced reliability at the #40 site compared to the #10 sites. This may be because the maxilla is generally more parallel to the ground in an upright position, while the mandible undergoes hinge movements that can alter the position during re-measurement. In contrast, DCAV-A and DCAV-T did not exhibit statistically significant reliability differences across these variables. These findings align with Lee et al. [], who suggested that DCAV-P is more susceptible to accessibility issues compared to DCAV-A, likely due to the lighter and smaller handles of DCAV-T and DCAV-A, which contribute to consistent performance. The measurement time, device size and weight, and duration of each strike may also affect reliability. However, the method used to assess reliability differences has limitations, particularly due to the constraints of 95% CIs for ICCs and the sample size. Further studies are needed to validate these findings.
+
+In conclusion, within the limitations of this study, all DCA devices demonstrated excellent reliability in intraoral clinical settings. DCAV-P exhibited the highest reliability, though its performance was influenced by arch location and quadrant position. In contrast, the newly developed DCAV-A and DCAV-T were not significantly affected by intraoral environmental variables.
+
+Figure 1
+
+Regression line for DCAV-P with DCAV-T (A) and DCAV-A (B).
+
+DCAV-T: damping capacity analysis-T value, DCAV-P: damping capacity analysis-P value, DCAV-A: damping capacity analysis-A value.
+
+Table 5
+
+Specifications of the DCA devices
+
+Device
+
+Weight (g)
+
+Dimensions (mm)
+
+Measurement cycle (sec)
+
+Tapping (times)
+
+Tapping strength (N)
+
+DCA-P
+
+153
+
+180×31×40
+
+Approx. 4
+
+16
+
+1.2
+
+DCA-A
+
+100
+
+207×34.5×32
+
+Approx. 3
+
+6
+
+0.9
+
+DCA-T
+
+80
+
+220×27.5×25
+
+Approx. 3
+
+7
+
+0.6–0.8
+
+DCA: damping capacity analysis.

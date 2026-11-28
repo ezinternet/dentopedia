@@ -23,6 +23,22 @@ Retrospective cohort (N=325, up to 24.8yr) comparing ceramic in/-onlays vs. cast
 
 후향 코호트(N=325, 최대 24.8년): 세라믹 인레이/온레이(CIO) vs 골드 부분크라운(CGPC) — 23.5년 생존율 양군 약 91~93%, CIO는 세라믹 파절(6.7%), CGPC는 근관합병증(8.8%)이 주요 실패 원인.
 
+## Three-line Summary
+
+Krug et al. (2024) conducted a single-centre retrospective cohort study at the University of Würzburg evaluating 325 restorations (ceramic in/onlays [CIO] vs cast gold partial crowns [CGPC]) placed by supervised undergraduate students, with follow-up extending to 24.8 years—the longest published follow-up for cast gold partial crowns. The study aimed to compare long-term survival and clinical quality of these two indirect posterior restorative approaches under standardised academic conditions.
+
+Both materials demonstrated similarly high survival rates at 23.5 years (CIO 91.7%, CGPC 91.8%) with annual failure rates of 0.5%/yr and 0.7%/yr respectively. The primary failure modes diverged: CIO failed predominantly through ceramic fracture (6.7%) while CGPC failed mainly through endodontic complications (8.8%). Endodontically treated teeth showed significantly worse outcomes in both groups (p=.02), highlighting endodontic status as a major prognostic factor rather than restorative material choice.
+
+Both materials achieved FDI-acceptable clinical quality in approximately 70% of restorations at final recall. The use of leucite-reinforced glass ceramic (Empress I) for CIO rather than modern lithium disilicate limits direct extrapolation to contemporary ceramic systems, but the CGPC benchmark data (91.8% survival, 23.5yr) remains the most robust long-term reference for gold partial crowns available in the literature.
+
+## 세줄요약
+
+크루크 등(2024)은 뷔르츠부르크 대학병원에서 감독 하 학생 술자가 시행한 세라믹 인레이/온레이(Ceramic In/Onlay, CIO) 및 골드 부분크라운(Cast Gold Partial Crown, CGPC) 325개를 최대 24.8년 추적한 후향 코호트 연구를 발표했다. CGPC의 장기 임상 근거로는 현재까지 가장 긴 추적 기간이다.
+
+두 군 모두 23.5년 생존율 약 91–93%를 달성했다(CIO 91.7%, CGPC 91.8%). 주요 실패 양상은 차별화됐다: CIO는 세라믹 파절(6.7%), CGPC는 근관합병증(8.8%)이 주원인이었으며, 근관치료치는 양군 모두에서 유의하게 불량한 예후를 보였다(p=.02).
+
+CIO 재료가 현재 주류인 이규산리튬(Lithium Disilicate) 세라믹이 아닌 류사이트 강화 유리 세라믹(Empress I)이라는 한계가 있으나, CGPC 23.5년 생존율 91.8% 데이터는 골드 부분크라운에 대한 현재까지 가장 견고한 장기 참조 수치다.
+
 ## 1. Document Information
 
 - **Journal**: Clinical Oral Investigations, 2024;28(5):298

@@ -3,7 +3,7 @@ title: "Zirconia Marginal Fit: Milling vs 3D Printing SR+MA"
 authors: "Sengottaiyan AK, Bennani V, Veerasamy A"
 year: 2026
 doi: 10.1016/j.prosdent.2026.02.051
-source: Journal of Prosthetic Dentistry
+source: sengottaiyan-2026-zirconia-milling-vs-3d-printing-marginal-fit.md
 category: prosthetic-materials
 evidence_level: sr+ma
 date: 2026-04-10

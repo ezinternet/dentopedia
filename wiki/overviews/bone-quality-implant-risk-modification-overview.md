@@ -46,6 +46,9 @@ relations:
     target: raghavan-2025-bone-density-implant-dentistry-review
   - type: reinforces
     target: khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review
+  - type: extends
+    target: stability-dip-fixture-treatment-decision-overview
+    note: "applies this page's stackable modification levers to the stability-dip outcome specifically, with a bone-quality × site allocation matrix"
 ---
 
 ## 한국어 핵심요약
@@ -174,6 +177,7 @@ The reason this is *not* a clinical recommendation must be stated as plainly as 
 
 ## Related overviews
 
+- [[overviews/stability-dip-fixture-treatment-decision-overview]] — **NEW** (2026-11-17): this page's risk axis × modification levers, resolved into a bone-quality × site allocation matrix for the stability-dip outcome
 - [[overviews/osseodensification-clinical-applications]] — the soft-bone drilling *solution* this page references as one lever
 - [[overviews/implants-isq-stability-ladder]] — the *measurement* layer feeding loading-timing decisions
 - [[overviews/drug-mronj-antiresorptive-overview]] — the *drug* layer for osteoporosis/antiresorptive patients

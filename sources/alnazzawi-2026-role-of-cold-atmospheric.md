@@ -18,6 +18,22 @@ In vitro study (n=200, 3Y-TZP + 5YSZ, 10,000 thermocycles): CAP and APA produce 
 ## 한줄요약
 인비트로 (n=200, 3Y-TZP + 5YSZ, 10,000회 열순환): 냉온 대기압 플라즈마(CAP)와 공기분사연마(APA) 상아질 전단결합강도 동등; 지르코니아 종류(3Y vs 5Y) 차이 없음; 병용처리(APA+CAP, HF+CAP)는 오히려 결합강도 감소; 10-MDP 프라이머 필수.
 
+## Three-line Summary
+
+In vitro study (n=200, 3Y-TZP and 5YSZ, 10,000 thermocycles) comparing cold atmospheric plasma (CAP) versus APA for zirconia-to-dentin bonding with self-adhesive resin cement, testing also combination treatments and two zirconia generations.
+
+CAP and APA produced equivalent SBS (~17 MPa without primer, ~27 MPa with MDP primer); zirconia generation (3Y vs 5Y) did not significantly affect results (p=0.354); combination treatments (APA+CAP, HF+CAP) reduced bond strength vs single-modality treatments.
+
+MDP primer is the dominant variable (η²=0.86); CAP is a viable APA equivalent for clinical zirconia cementation, and combination surface treatments offer no advantage.
+
+## 세줄요약
+
+인비트로 (n=200, 3Y-TZP + 5YSZ, 10,000회 열순환): 냉온 대기압 플라즈마 (Cold Atmospheric Plasma, CAP) vs 공기분사연마 (APA) 상아질 결합강도 비교 — 자가접착 레진 시멘트, 복합처리 및 2세대 지르코니아 비교 포함.
+
+CAP와 APA 동등 (~17 MPa 프라이머 없음, ~27 MPa 10-MDP 프라이머 있음); 지르코니아 세대(3Y vs 5Y) 차이 없음 (p=0.354); 복합처리(APA+CAP, HF+CAP)는 오히려 결합강도 감소.
+
+10-MDP 프라이머가 최우선 결정 변수(η²=0.86); CAP는 APA의 임상적 동등 대안이며, 복합 표면 처리는 추가 이점 없음.
+
 ## 1. Document Information
 - Journal: Biomaterials Investigations in Dentistry 2026;13:45563
 - PMID: 42111598 | PMC: PMC13154724 | DOI: 10.2340/biid.v13.45563

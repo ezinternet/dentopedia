@@ -19,6 +19,8 @@ relations:
     target: juan-montesinos-2022-platform-switching-conventional-sr-ma
   - type: reinforces
     target: messias-2019-platform-switching-mbl-5year-rct
+  - type: refines
+    target: wang-2017-one-time-versus-repeated-abutment
 ---
 
 ## Three-line Summary
@@ -75,6 +77,7 @@ This 2026 SR+MA (PROSPERO-registered) is the first meta-analysis restricted to b
 - Implant systems: Morse Taper M+N, Ankylos C/X, KlocknerVEGA, MISC1 (MIS), ConelogScrew-Line (Camlog)
 
 ## Related Papers
+- [[implants/mbl/wang-2017-one-time-versus-repeated-abutment]] — earlier SR+MA on the same OAOT question; this review narrows its large apparent effect (SMD up to 14.81) to MD −0.23 mm with newer RCTs
 - [[implants/mbl/juan-montesinos-2022-platform-switching-conventional-sr-ma]] — SR+MA PS vs PM (all connection types), 2022; this paper extends with conical-only focus
 - [[implants/mbl/messias-2019-platform-switching-mbl-5year-rct]] — 5yr PS RCT; consistent PS MBL benefit direction
 - [[implants/rios-santos-2020-one-abutment-one-time-rct]] — one of the 7 included RCTs (Ríos-Santos 2020)

@@ -1,0 +1,35 @@
+TITLE: Impact of profile angle of CAD-CAM abutment on the marginal bone loss of implant-supported single-tooth posterior restorations.
+AUTHORS: Han JW (Jin-Won), Han JW (Jin-Woo), Pyo SW, Kim S
+JOURNAL: The Journal of prosthetic dentistry
+CITATION: 2025 Oct;134(4) [electronic publication 2023-12-21]
+ID[pmid]: 38129258
+ID[doi]: 10.1016/j.prosdent.2023.11.025
+PUBDATE: 2025 Oct
+ARTICLE-DATE: 2023-12-21 (electronic)
+ARTICLE-TYPE: Journal Article
+FULL-TEXT-STATUS: ABSTRACT ONLY — no PMC record (PMC ID converter: "Identifier not found in PMC"); Europe PMC isOpenAccess=N/inEPMC=N; Unpaywall is_oa=False; OpenAlex oa_status=closed; Semantic Scholar openAccessPdf CLOSED. Body below is the PubMed structured abstract only.
+
+## ABSTRACT
+
+STATEMENT OF PROBLEM
+Although the emergence angle has been related to marginal bone loss, information regarding the relationship between the transmucosal configuration of a computer-aided design and computer-aided manufacturing (CAD-CAM) abutment at specific subgingival levels and the amount of marginal bone loss is lacking.
+
+PURPOSE
+The purpose of this retrospective clinical study was to evaluate the influence of CAD-CAM abutment profile angles, measured at different subgingival positions, on the marginal bone loss of posterior single-tooth implant-supported restorations.
+
+MATERIAL AND METHODS
+A total of 260 posterior single-tooth implant-supported restorations using CAD-CAM abutments were analyzed in 206 patients. All implants had internal conical seal connections with a platform-switched design. The following data were extracted using digital periapical radiography: emergence profile, profile angle at distance ranges of 0 to 1 mm, 1 to 2 mm, and 2 to 3 mm from the implant-abutment junction, and peri-implant marginal bone loss (MBL). The MBL was measured from the time of delivery of the restorations up to 7 years or more. A linear mixed model was applied to investigate whether there was a significant difference in MBL based on the emergence profile and time, followed by the Bonferroni correction post hoc test. A Pearson correlation analysis was used to analyze the correlation between the profile angle and MBL at each distance range. The cut-off points for each distance range were determined by using the c-index, and independent t tests were conducted based on these cut-off values to evaluate the statistical differences (alpha=.05 for all statistical analyses).
+
+RESULTS
+The convex emergence profile exhibited greater MBL than the concave and straight profiles at each follow-up visit (P<.001). A significant correlation was found between the profile angle and MBL in the 0 to 1 mm, 1 to 2 mm distance ranges. However, no significant correlation was found between the profile angle and MBL in the 2 to 3 mm distance range (P>.05). The cut-off points were 34 degrees at the mesial and 28 degrees at the distal in the 0 to 1 mm range, and 33 and 20 degrees at the mesial and distal in the 1 to 2 mm range.
+
+CONCLUSIONS
+The profile angle near the implant-abutment junction and the type of emergence profile of the CAD-CAM abutment were closely associated with MBL in implants with internal conical seal connection with a platform switch design.
+
+## METADATA FROM PUBMED
+
+Affiliations: former graduate student / graduate student, Yonsei University College of Dentistry, Seoul, Korea; Department of Prosthodontics, Gangnam Severance Dental Hospital, Yonsei University College of Dentistry, Seoul, Korea (corresponding author).
+MeSH: Humans; Computer-Aided Design (major); Alveolar Bone Loss (etiology, diagnostic imaging; major); Retrospective Studies; Dental Implants, Single-Tooth (adverse effects; major); Dental Prosthesis, Implant-Supported (adverse effects; major); Middle Aged; Male; Female; Dental Implant-Abutment Design (adverse effects, methods; major); Dental Abutments (adverse effects; major); Adult; Aged.
+Copyright: Copyright © 2025 Editorial Council for The Journal of Prosthetic Dentistry. Published by Elsevier Inc.
+Retraction check: PubMed article-type list contains no "Retracted Publication"; no CommentsCorrections records.
+Source: PubMed E-utilities efetch, PMID 38129258 (ingest acquisition, 2026-11-25).

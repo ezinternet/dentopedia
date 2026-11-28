@@ -1,0 +1,269 @@
+<!--
+---
+title: "흡연·담배제품 치과 위험 상담기 — 치주·임플란트·발치"
+type: interactive
+date: 2026-11-19
+status: done
+category: systemic-disease
+source_wiki:
+  - wiki/overviews/smoking-tobacco-periodontal-implant-overview.md
+  - wiki/implants/survival/calciolari-2026-tobacco-smoking-smoke-free-products.md
+  - wiki/implants/survival/fan-2024-smoking-early-implant-failure-sr-ma.md
+  - wiki/implants/survival/naseri-2020-smoking-levels-implant-failure-sr-ma.md
+  - wiki/implants/survival/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr.md
+  - wiki/implants/peri-implantitis/reis-2023-the-influence-of-smoking-on.md
+  - wiki/implants/peri-implantitis/chih-2023-the-impact-of-smoking-on.md
+  - wiki/implants/peri-implantitis/guney-2024-the-impact-of-electronic-cigarettes.md
+  - wiki/sinus-lift/lateral/wang-2023-smoking-schneiderian-membrane-perforation-sinus.md
+  - wiki/periodontics/ye-2026-environmental-tobacco-smoke-periodontitis-nonsmokers.md
+  - wiki/oral-microbiology/la-rosa-2026-electronic-cigarette-oral-microbiota.md
+  - wiki/oral-surgery/asmael-2018-novel-application-of-platelet-rich.md
+  - wiki/oral-surgery/taberner-vallverdu-2017-efficacy-of-different-methods-used.md
+tags: [smoking, tobacco, e-cigarette, vaping, ETS, implant, peri-implantitis, periodontitis, extraction, dry-socket, counseling]
+agenda: agenda/2026-11-19_smoking-tobacco-risk-counselor.md
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>흡연·담배제품 치과 위험 상담기</title>
+<style>
+  :root{
+    --bg:#f4f6f9; --card:#ffffff; --ink:#1a2230; --muted:#5c6778; --line:#dde3ec;
+    --accent:#284b63; --accent-soft:#e8eef4; --teal:#2f7d6d; --teal-soft:#e4f2ee;
+    --warn:#b4452b; --warn-soft:#fbe9e4; --gold:#9a6b00; --gold-soft:#f8efd8;
+    --ok:#1f7a3a; --ok-soft:#e7f4eb;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;font-family:"Noto Sans KR",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--bg);color:var(--ink);line-height:1.6;}
+  .wrap{max-width:980px;margin:0 auto;padding:28px 18px 64px;}
+  header{border-bottom:2px solid var(--accent);padding-bottom:14px;margin-bottom:6px;}
+  h1{margin:0 0 6px;color:var(--accent);font-size:1.8rem;letter-spacing:-.01em;}
+  .sub{margin:0;color:var(--muted);font-size:.92rem;}
+  .grid{display:grid;grid-template-columns:1.1fr .9fr;gap:16px;margin-top:18px;}
+  @media (max-width:860px){.grid{grid-template-columns:1fr;}}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px;}
+  h2{margin:0 0 8px;color:var(--accent);font-size:1.15rem;}
+  .lead{margin:0 0 14px;color:var(--muted);font-size:.86rem;}
+  .row{margin-bottom:12px;}
+  label{display:block;font-weight:600;font-size:.9rem;margin-bottom:6px;}
+  select,input[type="number"]{width:100%;padding:10px 11px;border:1px solid var(--line);border-radius:8px;font-size:.92rem;background:#fff;color:var(--ink);}
+  .checks{display:grid;grid-template-columns:1fr 1fr;gap:8px;}
+  @media (max-width:520px){.checks{grid-template-columns:1fr;}}
+  .check{display:flex;gap:8px;align-items:flex-start;padding:9px 10px;border:1px solid var(--line);border-radius:8px;background:#fcfdff;font-size:.88rem;}
+  .check input{margin-top:3px;}
+  .pillrow{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0 2px;}
+  .pill{display:inline-block;padding:4px 10px;border-radius:999px;font-size:.78rem;font-weight:700;}
+  .p-high{background:var(--warn-soft);color:var(--warn);} .p-mod{background:var(--gold-soft);color:var(--gold);} .p-low{background:var(--ok-soft);color:var(--ok);} .p-info{background:var(--accent-soft);color:var(--accent);} .p-unc{background:#eef1f5;color:var(--muted);}
+  .result{margin-top:14px;padding:14px;border-radius:10px;background:var(--accent-soft);}
+  .result h3{margin:0 0 6px;font-size:1rem;color:var(--accent);} .result ul{margin:6px 0 0 18px;padding:0;} .result li{margin:4px 0;font-size:.9rem;}
+  .note{margin-top:10px;padding:11px 12px;border-left:3px solid var(--gold);background:#fafbfc;border-radius:0 8px 8px 0;font-size:.8rem;color:var(--muted);}
+  .warnbox{margin-top:10px;padding:11px 12px;border-left:3px solid var(--warn);background:var(--warn-soft);border-radius:0 8px 8px 0;font-size:.82rem;color:#6f2b1c;}
+  table{width:100%;border-collapse:collapse;font-size:.84rem;margin-top:8px;}
+  th,td{border-bottom:1px solid var(--line);padding:8px 8px;text-align:left;vertical-align:top;}
+  th{color:var(--accent);background:var(--accent-soft);font-weight:700;}
+  .tag{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.76rem;font-weight:700;padding:2px 7px;border-radius:6px;white-space:nowrap;}
+  .t-hi{background:var(--warn-soft);color:var(--warn);} .t-md{background:var(--gold-soft);color:var(--gold);} .t-unc{background:#eef1f5;color:var(--muted);} .t-ok{background:var(--ok-soft);color:var(--ok);}
+  .script{background:#fcfdff;border:1px solid var(--line);border-radius:10px;padding:12px;margin-top:8px;}
+  .script p{margin:0 0 8px;font-size:.9rem;} .script p:last-child{margin-bottom:0;}
+  .small{font-size:.78rem;color:var(--muted);}
+  footer{margin-top:18px;font-size:.76rem;color:var(--muted);text-align:center;}
+  .btn{display:inline-block;margin-top:10px;cursor:pointer;border:1px solid var(--accent);background:var(--accent);color:#fff;padding:9px 14px;border-radius:8px;font-weight:600;font-size:.88rem;}
+</style>
+<script>
+/* llm-wiki cache-refresh */
+(function(){
+  var HK='_cr_h_2026_11_19_smoking_tobacco_risk_counselo';
+  var THRESHOLD=30*60*1000;
+  /* OPERATIONS.md §7 — 콘텐츠 업데이트 시 PAGE_VERSION 범프 */
+  const PAGE_VERSION='20261121-v1';
+  var VK='_cr_v_2026_11_19_smoking_tobacco_risk_counselo';
+  try{
+    var sv=localStorage.getItem(VK);
+    if(sv&&sv!==PAGE_VERSION){localStorage.setItem(VK,PAGE_VERSION);location.reload(true);}
+    else localStorage.setItem(VK,PAGE_VERSION);
+  }catch(e){}
+  document.addEventListener('visibilitychange',function(){
+    if(document.hidden){
+      try{localStorage.setItem(HK,Date.now());}catch(e){}
+    }else{
+      try{
+        var t=parseInt(localStorage.getItem(HK)||'0');
+        if(t&&(Date.now()-t)>THRESHOLD){localStorage.setItem(HK,'0');location.reload(true);}
+      }catch(e){}
+    }
+  });
+})();
+</script>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>흡연·담배제품 치과 위험 상담기</h1>
+    <p class="sub">치주·임플란트·발치 맥락의 근거 요약 및 상담 보조 도구 (근거: <a href="https://ezinternet.github.io/dentopedia/#/page/wiki%2Foverviews%2Fsmoking-tobacco-periodontal-implant-overview" target="_blank" rel="noopener">smoking-tobacco-periodontal-implant-overview</a>, 23편 종합, 2026-11-19 갱신). 교육·상담 보조용이며 개별 진단/치료를 대체하지 않습니다.</p>
+  </header>
+
+  <div class="grid">
+    <section class="card">
+      <h2>1) 노출·상황 평가</h2>
+      <p class="lead">환자의 담배/니코틴 노출과 계획 시술을 선택하면 근거 기반 포인트를 정리합니다.</p>
+
+      <div class="row">
+        <label for="smoke">흡연/노출 상태</label>
+        <select id="smoke">
+          <option value="never">비흡연(현재 노출 없음)</option>
+          <option value="ets">비흡연 + 간접흡연(ETS, 가정/직장)</option>
+          <option value="light">현재 흡연 &lt;10개비/일</option>
+          <option value="heavy">현재 흡연 ≥10개비/일</option>
+          <option value="former">과거 흡연(현재 금연)</option>
+          <option value="ecig">전자담배/베이핑(vaping) 사용</option>
+          <option value="smokeless">무연담배(smokeless tobacco) 사용</option>
+          <option value="unknown">불명/평가 필요</option>
+        </select>
+      </div>
+
+      <div class="row">
+        <label for="context">임상 맥락</label>
+        <select id="context">
+          <option value="implant">임플란트 계획/유지(생존·골소실·임플란트주위염)</option>
+          <option value="sinus">상악동 거상술(sinus augmentation) 포함</option>
+          <option value="extraction">발치/발치와 치유·건성발치와(AO) 우려</option>
+          <option value="perio">치주질환 위험/치료·유지</option>
+          <option value="general">일반 상담</option>
+        </select>
+      </div>
+
+      <div class="row">
+        <label>상담 강조점(선택)</label>
+        <div class="checks">
+          <label class="check"><input type="checkbox" id="c_quit" checked> 금연/완전 중단 목표 제시</label>
+          <label class="check"><input type="checkbox" id="c_dose" checked> 용량-반응(감량 vs 금연) 설명</label>
+          <label class="check"><input type="checkbox" id="c_ets"> 간접흡연(ETS) 문진 포함</label>
+          <label class="check"><input type="checkbox" id="c_alt"> 전자담배 "안전한 대안" 오해 교정</label>
+        </div>
+      </div>
+
+      <button class="btn" id="run">위험 요약 생성</button>
+
+      <div class="result" id="summary">
+        <h3>요약</h3>
+        <div class="pillrow" id="pills"></div>
+        <ul id="points"></ul>
+      </div>
+
+      <div class="note" id="caveats">
+        <b>해석 주의</b>: 조기 실패 근거는 불일치(Fan 2024 등 위험 증가 vs Abtahi 2026 대규모 레지스트리 HR 1.04, NS). Reis 2023 임플란트 단위 RR 2.04의 95% CI는 초록 보고상 내부 불일치 가능성이 있어 원문 확인 필요(abstract-only). Guney 2024·Asmael 2018·Taberner-Vallverdú 2017·Chih 2023·Reis 2023은 abstract-only 근거로 포함됨.
+      </div>
+    </section>
+
+    <aside class="card">
+      <h2>2) 핵심 근거 스냅샷</h2>
+      <p class="lead">수치는 해당 연구/맥락의 요약치이며 인과 단정이 아님.</p>
+      <table>
+        <tr><th>영역</th><th>근거</th><th>요지</th></tr>
+        <tr><td>임플란트 생존/골소실</td><td><span class="tag t-hi">수렴</span></td><td>Calciolari 2026: 생존 OR 0.40(임플란트)/0.43(환자), CBL +0.64mm. Mustapha 2022·Fan 2024와 방향 일치.</td></tr>
+        <tr><td>임플란트주위염 발생</td><td><span class="tag t-md">중등도</span></td><td>Reis 2023(abstract-only): 환자 RR 2.79, 임플란트 RR 2.04(CI 주의), GRADE 중등도.</td></tr>
+        <tr><td>조기 실패</td><td><span class="tag t-unc">불일치</span></td><td>Fan 2024 OR 2.59 등 지지 vs Abtahi 2026 HR 1.04(95% CI 0.89–1.22, NS). 단정 금지.</td></tr>
+        <tr><td>용량-반응</td><td><span class="tag t-md">SR+MA</span></td><td>Naseri 2020: &lt;10개비 RR 1.53, ≥20개비 RR 2.02 (vs 비흡연).</td></tr>
+        <tr><td>금연 효과</td><td><span class="tag t-ok">전향 근거</span></td><td>Caggiano 2022: 금연 시 실패율/MBL이 비흡연자 수준에 근접.</td></tr>
+        <tr><td>상악동 막 천공</td><td><span class="tag t-md">SR+MA</span></td><td>Wang 2023: OR 1.58 (95% CI 1.13–2.20).</td></tr>
+        <tr><td>발치/건성발치와</td><td><span class="tag t-unc">뉘앙스</span></td><td>Taberner-Vallverdú 2017: 흡연 합의된 유의 위험인자 아님(포함 연구 기준), CHX/PRP 유익 가능. Asmael 2018: 흡연자 PRF 연조직 치유 개선, AO/통증/상피화 NS.</td></tr>
+        <tr><td>간접흡연(ETS)</td><td><span class="tag t-md">SR+MA</span></td><td>Ye 2026: 비흡연자 치주염 OR 1.47 (코티닌 OR 2.05).</td></tr>
+        <tr><td>전자담배/베이핑</td><td><span class="tag t-unc">낮은 확실성</span></td><td>Guney 2024: PD·골소실·IL-1β↑, BOP↓ 신호(이질성↑, GRADE 낮음). "안전한 대안" 근거 없음.</td></tr>
+      </table>
+      <div class="warnbox"><b>전자담배/무연담배:</b> "근거 부족·낮은 확실성"은 "안전"을 의미하지 않습니다. Calciolari 2026은 생존/CBL 메타분석 불가를 명시했습니다.</div>
+    </aside>
+  </div>
+
+  <section class="card" style="margin-top:16px;">
+    <h2>3) 상담 스크립트 (자동 구성)</h2>
+    <p class="lead">선택한 노출/맥락을 바탕으로 환자에게 전달할 문장을 제안합니다. 임상 판단과 개별 위험인자(전신질환, 구강위생, 수술 난이도 등)를 함께 반영하세요.</p>
+    <div class="script" id="script"></div>
+    <p class="small" style="margin-top:10px;">출처: [[wiki/overviews/smoking-tobacco-periodontal-implant-overview]] 및 연결된 위키 페이지(23편 종합). 본 도구는 최신 원문을 대체하지 않으며, abstract-only 근거는 원문 확인이 필요합니다.</p>
+  </section>
+
+  <footer>LLM Wiki interactive · 2026-11-19 · light-only · evidence-grounded counseling aid</footer>
+</div>
+
+<script>
+(function(){
+  const $ = (id)=>document.getElementById(id);
+  const smoke = $('smoke'), context = $('context');
+  const pills = $('pills'), points = $('points'), script = $('script');
+
+  function addPill(text, cls){ const s=document.createElement('span'); s.className='pill '+cls; s.textContent=text; pills.appendChild(s); }
+  function addPoint(html){ const li=document.createElement('li'); li.innerHTML=html; points.appendChild(li); }
+  function para(text){ const p=document.createElement('p'); p.textContent=text; script.appendChild(p); }
+
+  function build(){
+    pills.innerHTML=''; points.innerHTML=''; script.innerHTML='';
+    const s = smoke.value, ctx = context.value;
+    const wantQuit = $('c_quit').checked, wantDose=$('c_dose').checked, wantETS=$('c_ets').checked, wantAlt=$('c_alt').checked;
+
+    // exposure summary
+    if(s==='light'){ addPill('현재 흡연 <10/일','p-mod'); addPoint('용량-반응: <10개비/일도 임플란트 실패 상대위험(RR) <b>1.53</b> (95% CI 1.14–2.04, Naseri 2020). “소량 흡연”도 위험 중립이 아닙니다.'); }
+    else if(s==='heavy'){ addPill('현재 흡연 ≥10/일','p-high'); addPoint('용량-반응: ≥20개비/일 실패 RR <b>2.02</b> (95% CI 1.63–2.51, Naseri 2020). 다량 흡연은 생존/골소실·임플란트주위염 위험을 더 높입니다.'); }
+    else if(s==='former'){ addPill('과거 흡연·현재 금연','p-low'); addPoint('금연 효과: 전향 근거에서 금연자의 실패율·변연골 소실(MBL)이 비흡연자 수준에 근접(Caggiano 2022). 금연 유지가 중요합니다.'); }
+    else if(s==='ets'){ addPill('간접흡연(ETS) 노출','p-mod'); addPoint('비흡연자도 환경담배연기(ETS) 노출 시 치주염 위험 증가: OR <b>1.47</b> (95% CI 1.22–1.76), 코티닌 객관평가 OR 2.05 (Ye 2026).'); }
+    else if(s==='ecig'){ addPill('전자담배/베이핑','p-unc'); addPoint('전자담배는 임플란트주위 임상/면역 지표에서 불리 신호(PD·골소실·IL-1β 증가, BOP 감소 보고, Guney 2024, abstract-only·이질성 높음·GRADE 낮음)가 있으나, “안전한 대안”으로 단정할 근거는 없습니다(Calciolari 2026 메타분석 불가, La Rosa 2026·Majid 2025).'); }
+    else if(s==='smokeless'){ addPill('무연담배','p-unc'); addPoint('무연담배/전자담배 등 대체 니코틴 제품의 임플란트 생존·골소실에 대한 결론적 근거는 부족합니다(Calciolari 2026: 연구 소수·이질적). “안전한 대안”으로 권고할 수 없습니다.'); }
+    else if(s==='never'){ addPill('비흡연','p-low'); addPoint('본인 흡연이 없더라도 가정·직장 간접흡연(ETS) 노출 여부를 문진하세요(Ye 2026: 비흡연자 치주염 OR 1.47).'); }
+    else { addPill('노출 평가 필요','p-info'); addPoint('궐련, 전자담배/베이핑, 무연담배, 간접흡연(ETS) 노출을 구체적으로 문진하세요.'); }
+
+    // context-specific
+    if(ctx==='implant' || ctx==='sinus'){
+      addPill('임플란트 맥락','p-info');
+      addPoint('생존/골소실: 흡연은 임플란트 실패·변연골 소실 증가와 연관(Calciolari 2026: 생존 OR 0.40 임플란트/0.43 환자, CBL +0.64mm; Mustapha 2022·Fan 2024와 방향 일치).');
+      addPoint('임플란트주위염 발생: Reis 2023 SR+MA(abstract-only)에서 환자 단위 RR <b>2.79</b> (95% CI 1.42–5.50), 임플란트 단위 RR 2.04(초록 보고 CI 내부 불일치 가능성으로 원문 확인 필요).');
+      addPoint('조기 실패(골유착 전): 근거 불일치 — 다수 SR/MA는 위험 증가를 지지(Fan 2024 OR 2.59 등)하나, 대규모 레지스트리 Abtahi 2026은 HR <b>1.04</b> (95% CI 0.89–1.22, NS). 단정 대신 불일치를 설명하세요.');
+      addPoint('기전/미생물: 중성구·MMP·창상치유 장애(Apatzidou 2022)와 임플란트주위 dysbiosis 신호(Chih 2023, abstract-only).');
+    }
+    if(ctx==='sinus'){
+      addPill('상악동 거상술','p-high');
+      addPoint('수술 합병증: 흡연자는 상악동 거상술 시 Schneiderian 막 천공 위험 증가 OR <b>1.58</b> (95% CI 1.13–2.20, Wang 2023). 동의/계획에 반영하세요.');
+    }
+    if(ctx==='extraction'){
+      addPill('발치/건성발치와','p-info');
+      addPoint('건성발치와(AO) 예방: Taberner-Vallverdú 2017 SR(abstract-only)에서 국소 클로르헥시딘(CHX)·PRP는 AO 가능성 감소 방향, 항생제 예방 처방은 효과 불명확. 포함 연구 기준 흡연은 일관된 유의 위험인자로 합의되지 않았으나 AO는 다인자적입니다.');
+      addPoint('흡연자 발치와 보조요법: Asmael 2018 RCT(abstract-only, 40발치와)에서 PRF는 연조직 치유 질/염증 개선(P=0.0035)했으나 통증·상피화·건성발치와 빈도는 유의차 없었습니다. AO 예방을 보장하는 근거는 아닙니다.');
+    }
+    if(ctx==='perio' || ctx==='general'){
+      addPill('치주 위험','p-info');
+      addPoint('흡연은 치주염 위험 증가(약 2–6배, Apatzidou 2022)와 연관되며, 비흡연자의 ETS 노출도 치주염 위험을 높입니다(Ye 2026).');
+    }
+
+    // script
+    para('안내드릴 내용은 연구 근거를 바탕으로 한 일반적 위험 정보이며, 개인 상태에 따라 달라질 수 있습니다.');
+    if(s==='light' || s==='heavy'){
+      para('현재 흡연은 임플란트 실패·변연골 소실·임플란트주위염 위험을 높일 수 있습니다. 흡연량이 적어도 위험이 0이 되지는 않으며(하루 10개비 미만에서도 실패 위험 약 1.5배 보고), 많이 피울수록 위험이 커지는 경향이 있습니다(Naseri 2020).');
+      if(wantDose) para('담배를 줄이는 것도 도움이 될 수 있지만, 연구에서는 완전히 끊었을 때 임플란트 예후가 비흡연자에 가깝게 좋아지는 결과가 보고되었습니다(Caggiano 2022). 가능하다면 치료 전후 금연을 목표로 잡는 것이 가장 좋습니다.');
+    } else if(s==='former'){
+      para('현재 금연 상태를 유지하시는 것은 임플란트·치주 예후에 매우 중요합니다. 과거 흡연자라도 금연을 유지하면 실패율과 뼈 소실이 비흡연자 수준에 가까워질 수 있다는 보고가 있습니다(Caggiano 2022).');
+    } else if(s==='ets' || (s==='never' && wantETS)){
+      para('본인이 담배를 피우지 않더라도, 가족이나 직장에서 간접흡연(환경담배연기)에 노출되면 비흡연자에서도 치주염 위험이 높아질 수 있습니다(Ye 2026). 생활 환경 노출을 줄이는 것이 도움이 됩니다.');
+    } else if(s==='ecig' || s==='smokeless' || wantAlt){
+      para('전자담배(베이핑)나 무연담배가 일반 담배보다 치과 치료에 안전하다고 확인된 근거는 아직 충분하지 않습니다. 일부 연구에서는 전자담배 사용 시 임플란트 주변 잇몸·뼈·염증 지표에 불리한 신호가 보고되었고(낮은 확실성), 임플란트 장기 생존에 대한 결론도 내리기 어렵습니다. “덜 해롭다/안전하다”로 단정하기보다 중단 또는 최소화를 권합니다.');
+    }
+
+    if(ctx==='implant' || ctx==='sinus'){
+      para('임플란트 치료에서는 실패·뼈 소실뿐 아니라 임플란트주위염 발생 위험도 높아질 수 있어, 수술 전후 금연과 철저한 유지관리(정기 점검·구강위생)가 중요합니다. 다만 골유착 전 조기 실패에 대해서는 연구 결과가 일치하지 않아(일부는 위험 증가, 대규모 분석에서는 뚜렷한 증가 미확인), 위험이 없다는 뜻이 아니라 근거가 혼재되어 있음을 함께 안내드립니다.');
+    }
+    if(ctx==='sinus'){
+      para('상악동 거상술이 필요한 경우, 흡연은 수술 중 상악동 막 천공 위험을 높일 수 있다는 보고가 있어(OR 1.58) 수술 계획과 동의 과정에서 함께 고려해야 합니다.');
+    }
+    if(ctx==='extraction'){
+      para('발치 후 통증성 합병증(건성발치와)은 여러 요인이 함께 작용합니다. 흡연자의 발치 부위에서 혈소판 풍부 섬유소(PRF) 같은 보조요법이 잇몸 치유에는 도움이 될 수 있으나, 통증·상피화·건성발치 발생을 확실히 줄인다고 보기는 어렵습니다. 구강 내 처치 지침을 잘 지키고, 통증이나 악취가 심해지면 바로 내원해 주세요.');
+    }
+    if(wantQuit && (s==='light'||s==='heavy'||s==='ecig'||s==='smokeless')){
+      para('가능하시다면 치료 일정에 맞춰 금연 상담/지원 프로그램을 함께 활용해 보시길 권합니다. 완전 중단이 가장 명확한 목표입니다.');
+    }
+  }
+
+  $('run').addEventListener('click', build);
+  build();
+})();
+</script>
+</body>
+</html>

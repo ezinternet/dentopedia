@@ -1,0 +1,79 @@
+TITLE: Gingival zenith and its role in redefining esthetics: A clinical study
+AUTHORS: Pawar B, Mishra P, Banga P, Marawar PP
+JOURNAL: J Indian Soc Periodontol
+CITATION: J Indian Soc Periodontol 2011;15(2):135-138
+ID[pmid]: 21976837
+ID[pmcid]: PMC3183664
+ID[doi]: 10.4103/0972-124X.84382
+FULL_TEXT: true (PMC full text retrieved via PubMed MCP get_full_text_article, 2026-11-21; Tables 1–2 and figure images not included in the retrieved text)
+
+ABSTRACT:
+Background: The purpose of this study was to quantify some clinical parameters useful as esthetic guidelines when gingival contour is modified and to compare the left and right sides of six maxillary anterior teeth.
+
+Materials and Methods: Maxillary casts mounted on an articulator according to the axis orbital plane were photographed from 35 young adults. The angle formed between the gingival line and maxillary midline (GLA) and the distance between the gingival zenith of the lateral incisor and the gingival line were measured (LID) using a flexible protractor and digital vernier caliper, respectively. The asymmetry was evaluated using a paired t test for the left vs right measurements of GLA and LID. The descriptive statistics for GLA and LID were calculated.
+
+Results: The GLA measurements of the left side (86.7°±4.2°) were significantly greater than those of the right side (84.6°±5.4°), and the mean absolute symmetry for GLA was 1.7°±4.4°. The mean LID measurement was 0.92΁0.11. [sic — garbled character in source; presumably ±]
+
+Conclusions: The gingival zenith of the canine is apical to the gingival zenith of the incisors (GLA <90°) and the gingival zenith of the lateral incisor is below or on (17%) the gingival line when head is oriented on the axis orbital plane. A directional asymmetry was shown with the right side higher than the left side. Along with the other parameters related to dental esthetics, these clinical parameters may serve as esthetic guidelines and may enable us to obtain a more predictable outcome.
+
+BODY:
+
+INTRODUCTION
+
+The search of beauty can be traced to the earliest civilizations. Dental art has been part of this quest to enhance the esthetics of the teeth and mouth. Mathews in 1978 expressed dentist's responsibility to preserve, create, or enhance a pleasing smile without impairing function. The anatomy of smile is an integral part of dentistry, involving close scrutiny of all elements of the oral region. The crafting of ideal smile requires analysis and evaluations of the face, lips, gingival tissues, and teeth and an appreciation of how they appear collectively. Such an ideal smile depends on the symmetry and balance of the facial and dental features.
+
+Recognizing that form follows function and the anterior teeth that serve a vital role in the oral health of the patient is paramount. Using a comprehensive approach in diagnosing and treatment planning of the esthetic cases can help achieve the smile that best enhances the overall facial appearance of the patient, and provides additional benefit of enhanced oral health.
+
+The lips form the frame of smile and define the esthetic zone. Its position during smiling determines the amount of gingival display. To predict the final esthetic result and achieve optimal results in gingival contour rehabilitation (crown lengthening, implant, restorative, and orthodontic therapy), it is important to take gingival contours into account during treatment planning. One significant feature of gingival morphology is the gingival line, which is defined as the line joining the tangents of the gingival zeniths of the central incisor and canine. The gingival zenith is the most apical aspect of free gingival margin.
+
+The purpose of this study was to quantify some clinical parameters useful as esthetic guidelines when gingival contour is modified and to compare the left and right sides of six maxillary anterior teeth.
+
+MATERIALS AND METHODS
+
+A total of 35 young adults were randomly selected at the Rural Dental College, Loni, within the age group of 21 to 30 years without any dental deformity or patient undergone any periodontal, surgical, or orthodontic treatment involving especially the maxillary anterior teeth.
+
+Alginate impressions of maxillary arch were made in stock trays and poured in dental stone according to manufacturer's instructions. Face bow record of every patient was made and the maxillary casts were mounted onto the semi-adjustable articulator (Whipmix 2200 series). The face bow transfer was done to avoid any discrepancy relating the axis orbital plane, affecting the relation of zenith points of both maxillary central incisor and canines. Any discrepancy in the casts as well as the orientation of maxillary plane found was repeated again for individual sample. To avoid any bias, the impressions and the face bow transfers were taken by the same operator.
+
+Landmark identification and measurement: The gingival zenith was made with indelible marking pencil for all the maxillary anterior teeth, the maxillary midline was marked then, and finally the gingival line marked and joined to the midline [Figure 1].
+
+Figure 1 Marking of midline; line connecting midline and zenith of maxillary central incisor and canine (gingival line)
+
+This gingival line marked created an angle with the respective gingival zeniths of both left and right sides. Since the maxillary casts were a 3-dimensional structure, the measurement of the same was done by recording a print out made by the protractor on a transparent sheet to get the exact angle of each zenith on both the sides, respectively. The highly sensitive photographic method was avoided as it converts the cast into a 2-dimensional structure and flattens the relation of each gingival line respectively. The gingival line angle on the left were noted as GLA (L) [Figure 2] and right gingival angle were noted as GLA (R) [Figure 3] and finally, the distance between the gingival zenith of lateral incisor and gingival line as LID [Figure 4].
+
+Figure 2 Measurement of left GLA
+Figure 3 Measurement of right GLA
+Figure 4 Measurement of distance between the zenith of lateral incisor and gingival line using digital vernier caliper
+
+The lateral incisor's relationship to the gingival line was evaluated by using Digital vernier caliper and the readings were noted as LID measurements. Positive values of the lateral incisor were coronal to the gingival line, whereas negative values were apical to gingival line.
+
+Measurements were made by the same operator for all the casts regarding the GLA measurements as well as the distance from the gingival line for the lateral incisor respectively to avoid any interoperator bias.
+
+The data obtained of various line angles and the distance of lateral incisor were then sent for statistical analysis. The mean and the standard deviation were then evaluated for the same number of subjects in all the above mentioned criteria. The influence of gender and handedness on GLA and LID was tested by using an analysis of variance (ANOVA) to pool the results in case of a lack of difference. To evaluate the asymmetry, a paired t test was applied to determine whether there was any variation between the left and right measurements of GLA and LID.
+
+RESULTS
+
+The different gingival line angle for the right as well as left side was evaluated respectively using ANOVA test. Then, the distance of the lateral incisor from the line joining the zenith of central incisor and canine was evaluated. The obtained data were then statistically calculated. The mean and standard deviation of both the line angles as well as the distance of lateral incisor was calculated [Table 1].
+
+Table 1 Statistical analysis of quantifiable parameters [table body not in retrieved text]
+
+The distance of lateral incisor was then differentiated into apical to gingival line, on gingival line, 0 to 1 mm, coronal to gingival line, and greater than 1 mm from the gingival line [Table 2].
+
+Table 2 Lateral incisor relation to the gingival line [table body not in retrieved text]
+
+DISCUSSION
+
+Traditionally, the physiologic gingival architecture has been described as having a scalloped contour around the four surfaces of the tooth in accordance with the course of the cementoenamel junction and thus, is concave apically in the free surfaces and convex occlusally at the tip of the papilla.
+
+Framing the teeth, within the confines of the gingival architecture, has a tremendous impact on the aesthetics of the smile. A gummy smile is as unaesthetic as a patient with severe recession. The impact on the beauty of a smile from an uneven gingival contour height can be dramatic and although the position of the zenith of the gingival tissue seems like a small detail, it can greatly influence the axial inclination and emergence profile of the teeth. These factors, some major and some minor, all add up to determine how pleasing the smile will be. It is our responsibility to understand the ramifications of these details and how they draw an impact on the smiles we create.
+
+Directly related to the aesthetics of the smile is the position of the gingival zenith. The zenith is defined as the most apical point of the gingival marginal scallop. This important landmark was described as having a specific spatial orientation in the apico-coronal and mesiodistal directions. The zenith of the central incisor should be at the distal third, the lateral incisor in the middle, and the cuspid can range from anterior third through to the distal third. The position of the zenith will help create the desired axial inclination of the tooth by changing the line angle position of the long axis of the tooth. The supernormal and the natural concepts have been described. In the supernormal concept, the objective is to transcend the law of nature and, as a result, to depart from what is usual or normal. This concept is based on patient preference studies. Conversely, in the natural concept, the artistic determinants of the personality and the anatomic norms for gender and age are used to achieve harmony with overall appearance. Our study was designed to set quantifiable parameters when natural appearance is the aesthetic concept chosen to restore the gingival contours. Therefore, the sample was made up of young adults with healthy teeth and surrounding tissues.
+
+Any measurements of the face require a standard position of the head. Craniofacial measurements are usually carried out with the patient's head oriented in the Frankfort horizontal plane with the help of orientation jaw relation done with the help of face bow and semi-adjustable articular (Whipmix 2200 series). The measurements of different gingival line angles were made with the help of flexible protractor by a line joining the zenith of central incisor and canines, and then the distance of each lateral incisor was calculated from this line. The mean and standard deviation of the above measurements were made respectively.
+
+It was found that the zenith of maxillary canine is apical to the zenith of central incisors because GLA measurements were <90°. Second, the gingival zenith of lateral incisor is frequently below the gingival line (75.7%). With regard to these two parameters, the analysis of data showed no difference between genders.
+
+The data also showed gingival asymmetry of the gingival lines with right sides higher than left sides, which is similar to craniofacial or dental studies done earlier. Right and left differences are present everywhere in nature where two congruent but mirror images types are present. Similarly, the gingival contours present asymmetry, which are consistent with studies of, Burkey B. Therefore, the subtle asymmetry quantified of left–right difference at 1.68°, i.e., 2% in our study, is discernible.
+
+Several psychological studies tested the hypothesis that attractiveness assessment is sensitive to facial symmetry. Swaddle and Cuthill cast doubts on the relationship between beauty and symmetry. A recent study showed that there is a significant difference between attractiveness and symmetry judgments and found that symmetry and attractiveness are not strongly related in the faces of women or men. A second study showed that left–right asymmetries are discernible in "beautiful" fashion models. Therefore, very beautiful faces can be functionally asymmetric. In other words, symmetry is not a critical determinant of beauty, and the physical markers of beauty can be gleaned from half a face. The human brain is more interested in facial features related to beauty than to features related to symmetry. Symmetric faces are less attractive because of the reduction of natural subtle asymmetry, perhaps making the faces appear passive and inert.
+
+The findings of the current study might be used in conjunction with other objectives and subjective parameters to aid the clinician in placing the gingival contours during surgery. These clinical parameters could be used for the most complex situations, like interdisciplinary management of anterior aesthetics. This can help in making surgical template used to carry out periodontal corrections.

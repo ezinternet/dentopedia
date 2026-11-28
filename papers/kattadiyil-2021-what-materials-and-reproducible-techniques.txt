@@ -1,0 +1,50 @@
+TITLE: What Materials and Reproducible Techniques May Be Used in Recording Centric Relation? Best Evidence Consensus Statement
+AUTHORS: Kattadiyil MT, Alzaid AA, Campbell SD
+JOURNAL: J Prosthodont. 2021 Apr;30(S1):34-42
+ID[pmid]: 33783085
+ID[doi]: 10.1111/jopr.13321
+
+## ABSTRACT (abstract-only — full text not retrieved)
+1. J Prosthodont. 2021 Apr;30(S1):34-42. doi: 10.1111/jopr.13321.
+
+What Materials and Reproducible Techniques May Be Used in Recording Centric 
+Relation? Best Evidence Consensus Statement.
+
+Kattadiyil MT(1), Alzaid AA(2)(3), Campbell SD(4).
+
+Author information:
+(1)Advanced Education Program in Prosthodontics, Loma Linda University School of 
+Dentistry, Loma Linda, CA.
+(2)Prosthetic Dental Science Department, College of Dentistry, King Saud Bin 
+Abdulaziz University for Health Sciences and King Abdullah International Medical 
+Research Center, Riyadh, Saudi Arabia.
+(3)Prosthodontics and Digital Technology, Loma Linda University School of 
+Dentistry, Loma Linda, CA.
+(4)Restorative Dentistry, University of Illinois at Chicago, Chicago, IL.
+
+PURPOSE: The purpose of this Best Evidence Consensus Statement was to evaluate 
+the existing literature relative to two focus questions: What are the techniques 
+used and their reproducibility in recording centric relation (CR) in a dentate 
+and partially dentate population and what effect do different recording 
+materials have on the reproducibility of CR?
+MATERIALS AND METHODS: Keywords used in the initial search were: CR, 
+interocclusal records, CR accuracy, CR reproducibility, and CR technique. The 
+search was then limited to Systematic Reviews, Randomized Controlled Studies, 
+Meta-analyses, and Clinical Trials.
+RESULTS: Initial search related to the selected search terms resulted in more 
+than 3500 articles. When subsequent search was limited to Systematic Reviews, 
+Randomized Controlled Studies, and Meta-Analysis and Clinical Trials, this 
+resulted in 291 articles selected for further analysis.
+CONCLUSIONS: Techniques using chin point guidance, bimanual manipulation, power 
+centric, Gothic arch tracing, leaf gauge, and anterior deprogramming devices to 
+record CR can all be comparable in precision and clinical accuracy in regards to 
+clinical relevance. Practitioner experience and familiarity with a particular 
+technique is critical for accuracy when recording CR. Polyvinyl siloxane and 
+polyether consistently performed better in the broad range of studies on 
+recording materials. Virtual capture of CR could serve as a comparable recording 
+medium but requires further clinical study.
+
+© 2021 by the American College of Prosthodontists.
+
+DOI: 10.1111/jopr.13321
+PMID: 33783085 [Indexed for MEDLINE]

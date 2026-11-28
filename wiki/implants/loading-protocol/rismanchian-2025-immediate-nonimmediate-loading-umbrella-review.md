@@ -49,7 +49,9 @@ This umbrella review pools 24 prior systematic reviews and meta-analyses (cumula
 
 Umbrella review (PRISMA-guided) of SRs/MAs from PubMed, Scopus, Web of Science, Embase, Science Direct, ProQuest, Cochrane Library, Magiran, MOH Articles, plus grey literature, searched through August 2024. Inclusion: SRs/MAs directly comparing IL vs NIL in single-tooth implants, English/Farsi, ≥6-month follow-up. Exclusion: multi-implant/full-arch studies, case reports, observational studies without SR/MA design. Three independent reviewers extracted data and scored included SRs on randomization, recency, follow-up length, geographic diversity, and meta-analytic rigor (risk-of-bias tiers: 1–3 criteria = high risk, 4–5 = moderate, 6–7 = low); disagreements resolved by a fourth reviewer. Analysis was qualitative/narrative — no new pooled effect size was computed across the 24 SRs. (Note: the paper's own PRISMA flow diagram shows 48 included studies while the Results narrative frames "24 systematic reviews" as the analytic unit; this internal inconsistency is not resolved in the text.)
 
-## Results
+## Results (citation numbers untraceable — see caveat)
+
+> **Citation-integrity caveat (verified against the PDF, 2026-11-25):** in-text citation numbers do not match the reference list. The placement/loading subgroup figures (IPIL 99.6%, IPDL 97.9%, …) are cited to ref [21] = Cochran 2004 ITI consensus statement (Int J Oral Maxillofac Implants 19:109), and the following pooled difference to ref [22] = Brunski 1999 in vivo bone-response study — neither can be the source of those estimates. The 24 included reviews are not listed and no per-review quality (AMSTAR) scores are reported, so every figure on this page is secondhand and cannot be traced to its originating meta-analysis. The text also calls the subgroup differences "significant" although their 95% CIs overlap. Treat all numbers as untraceable; cite the originating SRs held in this wiki instead where possible.
 
 | Outcome | Result |
 |---|---|

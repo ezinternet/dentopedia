@@ -1,0 +1,629 @@
+1
+
+Introduction
+
+Dental implants are widely accepted as highly successful treatment modalities for replacing missing teeth. While early protocols emphasized strict patient selection, limited loading and splinted prostheses to ensure success, the long‐term predictability of implants across diverse clinical settings has allowed for the gradual relaxation of these criteria [,,]. Based on this academic evolution, implant therapy is now increasingly applied to medically compromised individuals, including those with physical and cognitive disabilities, as a means of restoring function and aesthetics and ultimately improving quality of life [,].
+
+Patients with moderate‐to‐severe physical or cognitive disabilities often face multiple barriers to receiving dental care. Individuals with intellectual disabilities or autism spectrum disorders may have difficulties with communication and behavioural control, making it challenging to gain their cooperation or explain the need for treatment [,]. Additionally, patients with neurological disorders such as cerebral palsy may exhibit involuntary movements that complicate treatment in outpatient settings []. Anatomical variations, poor oral hygiene and parafunctional habits have been associated with increased rates of untreated caries and tooth loss among individuals with intellectual disabilities, despite a similar or lower overall prevalence of caries compared with the general population [].
+
+Paradoxically, the high rate of tooth loss and the limitations of removable prostheses in this population have increased the demand for fixed implant‐supported restorations. In response, an increasing number of case reports and retrospective studies have investigated implant rehabilitation in patients with disabilities [,,,,,,]. However, most of these studies were limited by small sample sizes, short observation periods and a narrow focus on specific disability types. Reports on long‐term survival outcomes and complications stratified by disability type are scarce. Although recent studies [,] have presented long‐term follow‐up data, they were constrained by relatively small cohorts and lacked a comprehensive complication analysis.
+
+Complications associated with implant treatment pose a critical challenge for patients with disabilities. Even minor biological or mechanical complications may require additional interventions under general anaesthesia (GA) or intravenous (IV) sedation owing to limited cooperation. Common biological complications, such as peri‐implantitis and mechanical complications, including screw loosening and prosthetic fractures, may have severe clinical consequences in this population [,,]. Therefore, understanding the types and frequencies of implant‐related complications is essential to establishing long‐term treatment predictability in patients with disabilities.
+
+This study aimed to investigate the long‐term cumulative survival rate of dental implants over a follow‐up period of up to 10 years in patients with various physical, cognitive and multiple disabilities. Additionally, it sought to analyze the frequency and nature of biological and mechanical complications in patients who completed definitive prosthetic rehabilitation.
+
+2
+
+Methods
+
+2.1
+
+Ethics Statement
+
+This retrospective cohort study was approved by the Institutional Review Board of the Dankook University Dental Hospital (Cheonan, Korea) (Approval date: March 19th, 2024. Approval No: DKUDH IRB‐2024‐03‐004). All patient data were anonymized, and the need for informed consent was waived because of the retrospective design of the study.
+
+2.2
+
+Study Design and Participants
+
+This retrospective study included patients with officially registered disabilities, as defined by the Ministry of Health and Welfare of Korea, who received dental implant treatment at the Department of Advanced General Dentistry, Dankook University Dental Hospital, between January 2013 and December 2023.
+
+The inclusion criteria were as follows: (1) patients with a government‐issued disability registration card, (2) those with available radiographic and clinical records related to implant surgery and/or prosthetic procedures, and (3) patients with at least one documented follow‐up visit after implant placement.
+
+The exclusion criteria were as follows: (1) insufficient implant‐related information and (2) absence of follow‐up visits after implant placement or prosthesis delivery.
+
+Implant therapy was initiated only after a preparatory phase that included restorative and periodontal treatments. During this period, the clinical team evaluated the motivation and capability of both the patient and their caregiver to maintain the surgical site and future prostheses. Only those who demonstrated adequate compliance during this preparatory phase were cleared for surgical intervention.
+
+This study included patients who completed either the surgical phase alone or both the surgical and prosthetic phases. Most patients with disabilities in this cohort were classified as having severe dental disabilities due to poor cooperation or involuntary movements. Depending on their level of cooperation, treatment was administered under general anaesthesia, intravenous sedation or chairside with behavioural management. Based on the inclusion and exclusion criteria, a total of 137 patients (85 men and 52 women; mean age, 55.51 [range, 19–85] years) were included, with all implants followed up for at least one visit after the surgical procedure or prosthetic delivery. Patients who were lost to follow‐up after prosthesis delivery were excluded. All patients were managed under a standardized, multi‐step maintenance protocol. Professional oral prophylaxis was performed at every surgical and prosthetic stage. Caregivers were provided with both verbal instructions and written manuals to ensure effective daily home care. The post‐loading recall cycle was tailored to patient cooperation: cooperative patients followed a regular schedule (2 weeks, 3 months, 6 months and annually), while for uncooperative patients, a mandatory 1‐month follow‐up was required. For those with severe behavioural challenges, comprehensive examinations and professional care were conducted under general anaesthesia or sedation at 1‐ to 3‐year intervals based on clinical necessity.
+
+2.3
+
+Data Collection
+
+Implant outcomes were categorized as ‘survival’ or ‘failure’ based on the clinical criteria proposed by Misch et al. []:
+
+The survival period was defined as the time between implant placement and documented implant failure or the most recent follow‐up.
+
+The following variables were extracted from electronic medical records and radiographs:
+
+2.4
+
+Statistical Analysis
+
+Data were entered into Microsoft Excel and analysed using SPSS Statistics (version 29.0; IBM Corp., Armonk, NY, USA). Kaplan–Meier survival analysis was performed to estimate cumulative survival rates over time. Subgroup analyses were conducted to compare survival outcomes according to disability type (physical, mental or multiple) and failure‐related variables (e.g., prosthetic type, failure timing and cause). Statistical significance was set at< 0.05.
+
+3
+
+Results
+
+3.1
+
+Patient Demographics and Disability Types
+
+A total of 137 patients received implant surgery between 2013 and 2023, involving 465 implants with a follow‐up period ranging from 0.5 to 10 years. Of these, 35 (117 implants) did not receive a definitive prosthesis. All surgically placed implants were included in the survival analysis, whereas prosthetic complications were assessed only in cases where the final prosthesis was delivered.
+
+The mean age of the patients at the time of implant surgery was 46.3 years. Of the 137 patients, 85 were male (62.0%) and 52 were female (38.0%). Most patients were in their 30s to 50s. The age distribution and disability classifications are summarized in Table.
+
+In terms of disability type, 46 patients (33.5%) had physical impairment, 69 (50.4%) had mental impairment and 22 (16.1%) had multiple disabilities. Among those with physical impairments, 26 had musculoskeletal disabilities, 10 had neurological disabilities (e.g., post‐stroke or cerebral palsy) and 10 had hearing or visual disabilities. In the mental impairment group, 61 patients had intellectual disabilities, 6 had psychiatric disabilities (e.g., schizophrenia, bipolar disorder) and 2 had autism spectrum disorder.
+
+Patients with multiple disabilities often had overlapping conditions, most commonly a combination of intellectual disability and either a neurological or musculoskeletal disability.
+
+TABLE 1
+
+Summary of patient demographics and disability classification.
+
+(a) Age distribution of patients at implant placement.
+
+Age group (years)
+
+No. of patients
+
+10–19
+
+2
+
+20–29
+
+20
+
+30–39
+
+29
+
+40–49
+
+30
+
+50–59
+
+30
+
+60–69
+
+17
+
+70–79
+
+7
+
+≥ 80
+
+2
+
+Total
+
+137
+
+(b) Classification of patients by disability type, categorized as physical, mental and multiple disabilities.
+
+Category
+
+Subtype
+
+No. of patients
+
+Physical impairment
+
+Musculoskeletal disability
+
+26
+
+Neurological disability
+
+10
+
+Hearing and visual disability
+
+10
+
+Mental impairment
+
+Intellectual disability
+
+61
+
+Psychiatric disability
+
+6
+
+Autism
+
+2
+
+Multiple disabilities
+
+22
+
+Total
+
+137
+
+The categories follow the statutory classification of the Ministry of Health and Welfare of Korea; however, terms have been updated for international clarity. Neurological disability corresponds to the ‘Brain lesion disability’ category. Developmental syndromes, such as Down syndrome, were included in the intellectual or multiple disability categories based on their primary clinical manifestation.
+
+3.2
+
+Implant Placement and Distribution
+
+Implants were placed more frequently in the mandible than in the maxilla, and on the left side more than on the right side. A total of 213 implants were placed in the maxilla (67 anterior and 146 posterior) and 252 in the mandible (31 anterior and 221 posterior). The anatomical distribution of implant placement is shown in Figure.
+
+FIGURE 1
+
+Anatomical distribution of implant placement, showing frequency by quadrant and anatomical site.
+
+3.3
+
+Prosthetic Restorations
+
+The types of implant‐supported prostheses and their restoration status are presented in Table. Of the 465 implants placed, 343 were included in the prosthetic analysis, while 117 remained unrestored (with cover screws or healing abutments in place) and 5 failed before prosthetic delivery.
+
+Among the analyzed implants, 301 were restored with screw‐cement‐retained prostheses (SCRP), comprising 76 single, 186 splinted and 39 bridge‐type units. Additionally, 25 implants were restored using cement‐retained prostheses (3 single, 13 splinted and 9 bridge‐type) and 10 with overdentures. The remaining 7 implants had insufficient prosthetic documentation. Regarding the cementation strategy, 189 implants (55.1%) were delivered with temporary cements (Premier Implant Cement (Premier Dental Products, Plymouth Meeting, PA, USA), Temp‐Bond and Temp‐Bond Clear (Kerr Corporation, Orange, CA, USA)) to ensure reversibility and facilitate maintenance in the event of complications. The remaining 154 implants (44.9%) were delivered using final cements (Multilink N (Ivoclar Vivadent, Schaan, Liechtenstein), Intercem (GC Corporation, Tokyo, Japan), RelyX Luting 2 and RelyX Unicem (3 M ESPE, St. Paul, MN, USA)).
+
+TABLE 2
+
+Classification and distribution of delivered implant‐supported prostheses.
+
+Restoration type
+
+Configuration
+
+No. of implants
+
+SCRP
+
+Single
+
+76
+
+Splinted
+
+186
+
+Bridge
+
+39
+
+Cement‐retained
+
+Single
+
+3
+
+Splinted
+
+13
+
+Bridge
+
+9
+
+Overdenture
+
+—
+
+10
+
+Not documented
+
+7
+
+Total
+
+343
+
+Abbreviation: SCRP, screw‐ and cement‐retained prosthesis.
+
+3.4
+
+Implant Failures
+
+Seven implants failed. Of these, two were classified as mechanical failures and five as biological failures. Among the two mechanical failures, one involved a fixture fracture due to a fall during the follow‐up period, 85.5 months after prosthesis delivery. The other was removed during the prosthetic procedure because of an abutment screw fracture. All five biological failures occurred before prosthesis delivery and were attributed to failed osseointegration, necessitating implant removal (Table).
+
+TABLE 3
+
+Detailed implant failure cases.
+
+Age
+
+Sex
+
+Disability
+
+Arch
+
+Implant failure
+
+Observation time (week/month)
+
+Implant size/length
+
+Failure type
+
+53
+
+M
+
+Hearing disability
+
+Mn
+
+#34
+
+21 wk/5 mo
+
+4.0 × 12 mm
+
+Biologic
+
+Peri‐implantitis
+
+73
+
+M
+
+Neurological disability, Parkinson's disease
+
+Mx
+
+#21
+
+343 wk/85.5 mo
+
+3.5 × 13 mm
+
+Mechanical
+
+Fixture fracture
+
+29
+
+M
+
+Psychiatric disability
+
+Mx
+
+#16
+
+22 wk/5.5 mo
+
+5.0 × 10 mm
+
+Biologic
+
+Osseointegration failure
+
+55
+
+M
+
+Physical disability
+
+Mn
+
+#37
+
+26 wk/6.5 mo
+
+4.5 × 8 mm
+
+Mechanical
+
+Abutment screw fracture
+
+51
+
+M
+
+Physical disability
+
+Mn
+
+#46
+
+18 wk/4.5 mo
+
+4.6 × 7 mm
+
+Biologic
+
+Osseointegration failure
+
+39
+
+M
+
+Intellectual disability
+
+Mn
+
+#44
+
+22 wk/5.5 mo
+
+4.5 × 8 mm
+
+Biologic
+
+Osseointegration failure
+
+52
+
+M
+
+Physical disability
+
+Mn
+
+#41
+
+4 wk/1 mo
+
+3.5 × 10 mm
+
+Biologic
+
+Implant infection
+
+Abbreviations: M, male; Mn, mandible; mo, month; Mx, maxilla; wk, week(s).
+
+3.5
+
+Cumulative Implant Survival
+
+The cumulative implant survival rate at 10 years was 98.3% (Figure). When analyzed according to disability type, the survival rate was 98.1% in patients with physical impairment, 99.1% in those with mental impairment and 95.7% in those with multiple disabilities (Figure). A sub‐analysis was conducted to evaluate the functional survival of the 343 implants that transitioned to the prosthetic loading stage. This analysis excluded 117 implants awaiting restoration at the time of data collection and 5 early failures that occurred during the initial osseointegration period. The 10‐year functional survival rate for this restored subgroup was 99.7%, demonstrating superior long‐term stability once the prosthetic phase was successfully reached.
+
+FIGURE 2
+
+Kaplan–Meier cumulative survival curves: (a) Overall cumulative implant survival over 10 years. (b) Cumulative survival by disability type (physical impairment, mental impairment and multiple disabilities).
+
+3.6
+
+Complications
+
+Biological complications were observed in 11 implants, including peri‐implantitis (= 9), peri‐implant gingivitis (= 2) and soft tissue recession (= 1). Mechanical complications included crown decementation (= 32, 41 events), porcelain chipping (= 12, 18 events), screw loosening (= 12, 12 events) and screw fracture (= 3, 3 events). In 5 cases, crown decementation led to prosthesis loss and required re‐making of the restoration. Detailed data on complications are provided in Table.
+
+TABLE 4
+
+Frequency of biological and mechanical complications by anatomical site and prosthesis type.
+
+Biologic complication
+
+Mechanical complication
+
+Soft tissue recession
+
+Peri‐implant gingivitis
+
+Peri‐implantitis
+
+Implant failure
+
+Decementation
+
+Screw loosening
+
+Porcelain chipping
+
+Screw fracture
+
+Prosthesis re‐make
+
+Maxilla
+
+Anterior
+
+1
+
+2
+
+1
+
+12/14
+
+2/6
+
+2
+
+Posterior
+
+1
+
+1
+
+7/11
+
+4
+
+5/6
+
+2
+
+Mandible
+
+Anterior
+
+1
+
+1
+
+2/2
+
+Posterior
+
+1
+
+6
+
+4
+
+11/14
+
+8
+
+5/6
+
+1
+
+3
+
+Cement type
+
+2/4
+
+SCRP type
+
+1
+
+2
+
+8
+
+1
+
+30/37
+
+12
+
+12/18
+
+3
+
+5
+
+Splint
+
+1
+
+6
+
+1
+
+16/23
+
+4
+
+8/10
+
+1
+
+3
+
+Bridge
+
+9/9
+
+4/8
+
+Single
+
+2
+
+2
+
+7/9
+
+8
+
+2
+
+2
+
+OVD
+
+1
+
+Total
+
+1
+
+2
+
+9
+
+7
+
+32/41
+
+12
+
+12/18
+
+3
+
+5
+
+Complications were categorized according to jaw region and prosthesis characteristics, including peri‐implantitis, crown decementation, screw loosening and porcelain chipping.
+
+Abbreviations:, affected implants/event, total events; OVD, overdenture; SCRP, screw‐ and cement‐retained prosthesis.
+
+4
+
+Discussion
+
+Dental implant therapy in individuals with disabilities poses unique clinical challenges. Nevertheless, the long‐term outcomes of this study indicate that predictable results can be achieved with careful treatment planning and structured maintenance. In this 10‐year retrospective cohort study of 137 patients (465 implants), the overall CSR was 98.3%. Notably, the functional survival rate for the 343 restored implants reached 99.7%, with only one failure occurring after prosthetic loading. This high predictability in the functional phase suggests that the risk of implant loss in this population is predominantly concentrated in the early osseointegration period. The decision to include all surgically placed implants, including those not yet loaded, was made to avoid selection bias and reflect the clinical reality of special care dentistry. By categorizing these unloaded cases as censored data, our analysis followed the framework established by Cune et al. [] to assess biological stability during the healing phase.
+
+Evidence from previous studies is heterogeneous. In cohorts focusing on Down syndrome, Najeeb et al. [] reported 12 failures among 81 implants over 1–6 years, and Limeres‐Posse et al. [] observed 17 failures among 73 implants (25 patients), most occurring before loading. In a 14‐year retrospective cohort of patients with cognitive and physical disabilities treated under GA, Bogner et al. [] reported a cumulative survival rate of 86% at 157 months. Collectively, these findings suggest lower long‐term survival in some disabled populations than is typically reported for non‐disabled cohorts []. Proposed explanations include reduced bone mineral density in Down syndrome, poor oral hygiene, behavioural constraints limiting diagnostic assessment and follow‐up, parafunctional loading and higher systemic risk profiles.
+
+In contrast, Cune et al. [] reported a 16‐year survival rate of 97.6% in patients with severe epilepsy and multiple disabilities, attributing the favourable outcomes to simplified overdenture‐type designs and intensive institution‐based maintenance. Similarly, Yoo et al. [] observed a cumulative survival of 97.8% over a mean of 37.3 months in patients with mental or physical disabilities; notably, that study included only fixed prostheses that had functioned for ≥ 1 year, thereby excluding early osseointegration failures and cases without definitive prosthetic completion.
+
+As emphasized in previous report [], a strict institution‐based maintenance protocol is beneficial in managing oral hygiene risk factors. While establishing and adhering to such periodic recall systems is theoretically optimal, achieving the desired level of maintenance in patients with severe disabilities can be practically challenging for clinicians. Therefore, we propose that the most critical phase of treatment is the initial evaluation during the preparatory phase; the decision to proceed with implant‐supported rehabilitation should be grounded in an assessment of the patient's and caregiver's ability to maintain adequate oral hygiene. Furthermore, providing comprehensive homecare education to both the patient and their caregiver is of utmost importance. Even in cases where regular periodic maintenance is difficult to sustain, professional intervention every few years—potentially through pharmacological adjuncts for behaviour management—may be necessary to ensure the long‐term survival of dental implants in this population.
+
+The timing and mode of failure in our cohort further clarified the prognosis. Of the seven failed implants, five were early biological losses occurring before prosthesis delivery (failed osseointegration), one involved a traumatic fixture fracture 85.5 months after loading, and one was removed during prosthesis delivery due to an abutment screw fracture. Post‐loading loss due to biological breakdown under function was therefore rare; the single late loss was trauma‐related rather than indicative of functional overload or progressive peri‐implant disease. Practically, this pattern underscores the need to protect the early healing phase in patients with motor instability or limited cooperation and supports the expectations of durable function once uneventful loading is achieved. Over longer observation periods, peri‐implant mucositis and peri‐implantitis were observed; however, with standardized periodic maintenance, survival after prosthetic delivery can be reasonably sustained at a high level.
+
+According to disability type, the 10‐year cumulative survival estimates were 99.1%, 98.1% and 95.7% in patients with mental, physical and multiple disabilities, respectively. No formal between‐group testing was performed; nevertheless, the lower estimate in the multiple‐disability subgroup suggests a higher baseline risk. Prior studies have either compared mental and physical impairments as separate categories [], pooled heterogeneous disabilities into a single group [], or reported outcomes for single diagnoses such as Down syndrome or severe epilepsy [,,]. To our knowledge, no cohort study has explicitly defined and analyzed ‘multiple disabilities’ as an independent analytic category. Although patients with developmental syndromes, such as Down syndrome, were included in this cohort, no significant differences in complication patterns were observed compared to the overall group.
+
+Clinically, multiple disabilities often involve intellectual disabilities accompanied by neuromotor disabilities or marked physical limitations that can destabilize the early healing phase (e.g., unmanaged involuntary movements, rigidity) and delay caregiver recognition of early symptoms []. This interpretation is consistent with reports of greater management complexity and a propensity for early loss in cohorts with patients experiencing neurological or severe disabilities [,,]. Conversely, intensive institution‐based maintenance and simplified prosthetic designs have been associated with high long‐term survival, even in cohorts with complex disabilities []. These observations indicate that simple, maintainable rehabilitation plans combined with structured maintenance and caregiver involvement are likely critical for patients with multiple disabilities.
+
+The occurrence of dental implant complications in patients with disabilities is particularly important in those with cooperation difficulties, as outpatient management is often not feasible and additional GA or IV sedation may be required [,,]. In this study, mechanical complications (17.20%,= 59/343) were more frequent than biological events (5.54%,= 19/343) during follow‐up. Crown decementation was the most common complication, affecting 9.33% of implants (= 32) with a total event rate of 11.95% (41 events). This was followed by porcelain chipping (3.50% of implants,= 12; 18 events, 5.25%), screw loosening (3.50% of implants,= 12; 12 events, 3.50%) and screw fracture (0.87% of implants,= 3; 3 events, 0.87%). These mechanical complications are consistent with the results reported in previous studies of non‐disabled individuals [,,].
+
+Compared with prior research, the incidence of complications varied. Veneer porcelain chipping has been reported in up to 13.5% of cases during the 5‐year observation period, whereas it occurred relatively less frequently (3.5%) in this study. This difference may reflect that the superstructure was fabricated with metal occlusion or monolithic zirconia crowns, considering the possibility of parafunction in many patients with disabilities. In contrast, prosthesis detachment was the most frequent complication in this study, unlike in previous studies.
+
+Notably, a case of recurrent porcelain chipping was observed in a patient with a physical disability and severe nocturnal bruxism. During the follow‐up, this patient exhibited six distinct mechanical failures, specifically four chipping events in the maxillary anterior region and two in the posterior region. These findings suggest that parafunctional habits, such as bruxism, may substantially compromise prosthetic structural integrity, acting as a primary mechanical factor that contributes to persistent, recurrent porcelain fractures.
+
+A total of 41 decementation events were identified and analyzed based on the cementation strategy. Eight cases occurred after final cementation, including four recurrent events localized to mandibular posterior splinted units in a patient with an intellectual disability. The remaining 33 cases followed temporary cementation; specifically, recurrent events were observed in an anterior two‐unit splinted prosthesis and three maxillary posterior units (one single and two splinted). Significantly, all recurrent de‐cementation events observed in this study, across both the mandibular and maxillary arches, were identified in patients with intellectual disabilities. This common clinical characteristic suggests that cognitive limitations may indirectly affect prosthesis retention, potentially due to difficulties following postoperative instructions or unmanaged functional stresses that exceed the cement's bond strength. In five cases, crown decementation led to prosthesis loss and required re‐making of the restoration, which can be considered a major complication. SCRP were preferentially selected (87.8%) to maximize retrievability and mitigate the risks of excess luting cement. However, the application of temporary cement to SCRP units due to unfavourable insertion paths likely compromised the frictional retention of the prostheses, leading to a higher incidence of dislodgment and increased complication rates.
+
+Although temporary cementation carries a risk of decementation, it is frequently preferred for patients with disabilities to ensure treatment reversibility and patient safety. For individuals with communication or oral hygiene limitations, early detection of complications can be difficult; temporary cementation allows for safe prosthetic retrieval and necessary adjustments. Consequently, this approach serves as a cautious clinical strategy that facilitates rapid intervention for mechanical complications, ultimately maintaining long‐term oral health.
+
+Parafunctional habits, such as bruxism, are recognized risk factors for mechanical complications in implant dentistry []. In the present study, 10 patients with bruxism and 2 with clenching were identified through clinical records, with technical complications including four cases of de‐cementation and one of recurrent porcelain chipping. The relatively low prevalence compared to the general population likely reflects diagnostic challenges, as patients with disabilities may have a limited ability to self‐report symptoms []. Despite these documentation constraints, the observed complications suggest that parafunctional habits can influence prosthetic outcomes, highlighting the importance of systematic monitoring and preventive measures, such as occlusal adjustments or splint therapy, to manage mechanical risks in this population.
+
+The prevalence of biological complications (including biological failures) was 5.54% (19 of 343 restored implants). The dose–response relationship between plaque accumulation and peri‐implant disease is well documented, with higher odds of peri‐implantitis under poor oral hygiene conditions and greater long‐term marginal bone loss when plaque control is inadequate [,]. Increased probing pocket depth correlates with low compliance, and patient compliance significantly influences peri‐implant bone loss []. In this context, the comparatively low rate of biological events observed here is plausibly attributable to prosthodontic planning that prioritized cleanability and retrievability within the capacities of patients and caregivers, together with caregiver‐inclusive, regularly scheduled maintenance. Cross‐study numerical comparisons should be interpreted cautiously, given the heterogeneity in diagnostic thresholds and follow‐up windows.
+
+This study had some limitations. First, its single‐centre, retrospective design may limit generalizability and the severity of cooperation and caregiver involvement were not fully standardized across disability types. Second, due to the large volume of long‐term data, radiological outcomes (e.g., marginal bone level changes) were not quantified. Additionally, the proportion of implants that had not yet reached the definitive prosthetic phase (25%) may limit the assessment of long‐term functional outcomes for this specific subgroup. Future studies would benefit from a multicentre approach using a standardized disability classification and validated measures of caregiver competency. Furthermore, incorporating peri‐implant bone level assessment using a standardized radiological protocol would provide a more nuanced understanding of factors affecting implant prognosis in patients with disabilities.
+
+5
+
+Conclusions
+
+Dental implants placed in patients with physical, mental or multiple disabilities showed a high long‐term cumulative survival rate of 98.3% over a follow‐up period of up to 10 years. Most failures were early biological losses occurring before prosthesis delivery, while late losses were rare. Mechanical complications, predominantly crown decementation, were more frequent than biological complications. Given the limitations of this retrospective, single‐centre cohort with heterogeneous disability severity, these findings suggest that careful surgical planning, simplified prostheses and structured caregiver‐inclusive maintenance can achieve durable implant outcomes in patients with disabilities.
+
+Author Contributions
+
+Yoon‐Jung Kim contributed to data collection and drafting of the manuscript. Tae Min You participated in the conception and design of the study and interpreted the data. Bock‐Young Jung designed the study and critically revised the manuscript. Re‐Mee Doh analysed and interpreted the data, critically revised the manuscript and approved the final version for submission. All authors approved the final manuscript and agreed to be accountable for all aspects of this study.
+
+Funding
+
+This work was supported by Basic Science Research Program through the National Research Foundation of Korea (NRF), funded by the Ministry of Science and ICT (NRF‐2020R1A2C2004893).
+
+Conflicts of Interest
+
+The authors declare no conflicts of interest.

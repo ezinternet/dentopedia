@@ -1,0 +1,15 @@
+TITLE: Flap versus flapless alveolar ridge preservation: A clinical and histological single-blinded, randomized controlled trial.
+AUTHORS: Siu Trever L, Dukka Himabindu, Saleh Muhammad H A, Tattan Mustafa, Dib Ziad, Ravidà Andrea, Greenwell Henry, Wang Hom-Lay, Araujo Mauricio G
+JOURNAL: Journal of Periodontology
+ID[pmid]: 35924603
+ID[doi]: 10.1002/JPER.22-0213
+
+## ABSTRACT
+
+BACKGROUND: The aim of this randomized clinical trial was to compare a flapless technique of alveolar ridge preservation (ARP) to a flap technique to determine if preserving the periosteal blood supply would limit loss of crestal ridge width and height.
+
+METHODS: Twenty-four patients were randomly assigned to receive ARP using either a flapless or flap technique. Sockets were grafted with demineralized bone matrix and mineralized particulate allograft then covered with a barrier in both groups. Re-entry was performed at 4 months to obtain samples for histological analysis and subsequent implant placement.
+
+RESULTS: Ridge width of the flapless group at the crest decreased from 8.3 +/- 1.3 mm to 7.0 +/- 1.9 mm for a mean loss of 1.3 +/- 0.9 mm (p < 0.05), whereas the flap group decreased from 8.5 +/- 1.5 mm to 7.5 +/- 1.5 mm for a mean loss of 1.0 +/- 1.1 mm (p < 0.05). The mean midbuccal vertical change for the flap group was a loss of 0.9 +/- 1.3 mm (p < 0.05) versus 0.5 +/- 0.9 mm (p < 0.05) for the flapless group. There was no statistically significant difference between the groups. Histologically, flapless ARP revealed more vital mineralized tissue (44 +/- 10%) compared to the flap group (p>0.05). In the flapless group, the occlusal soft tissue was significantly thicker than in the flap group at the 4-month re-entry (p< 0.05).
+
+CONCLUSIONS: Crestal ridge width, height, and percentage of vital mineralized bone following treatment with a flapless ARP technique, was not significantly different from a flap technique.

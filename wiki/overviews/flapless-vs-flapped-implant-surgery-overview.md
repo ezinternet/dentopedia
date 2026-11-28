@@ -39,7 +39,7 @@ tags: [flapless, flapped, crestal-bone-loss, marginal-bone-loss, implant-failure
 
 Synthesis of 7 papers comparing flapless versus flapped implant surgery along 3 axes — implant failure, crestal/marginal bone, and postoperative pain/soft tissue — showing the verdict is outcome-dependent: flapless failure risk (RR 1.75, Chrcanovic 2014) disappears in low-risk-of-bias studies; an RCT (Surendra 2025) shows ~40% less crestal bone loss at 6 months while a 12-month cohort (Tarpara 2025) finds no difference.
 
-Flapless consistently halves early postoperative pain (VAS day 3: 3.1 vs 5.7) and improves short-term soft tissue, while in the immediate-implant setting flapless trends toward buccal tissue preservation with small operator-dependent differences.
+Flapless consistently halves early postoperative pain (VAS day 3: 3.1 vs 5.7) and improves short-term soft tissue; Bhowmick 2022 (prospective split-mouth, n=10/20 titanium-collar implants) adds within-patient corroboration — lower probing depth at 3 months (p<0.05) and esthetic VAS 7.62 vs 6.85 (p=0.05); in the immediate-implant setting Mansouri 2025 (SR+MA) finds flapless plus peri-implant gap grafting trends toward better hard-tissue preservation.
 
 Flapless extraction alone does not preserve the ridge (Araujo 2009 dog histology); flapless is reasonable for healed, simple, single-site implants requiring no augmentation, while augmentation, thin mucosa, or need for direct visualization warrants a conventional flap.
 

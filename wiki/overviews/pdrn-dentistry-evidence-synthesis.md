@@ -2,7 +2,7 @@
 title: "PDRN in Dentistry — Mechanism·Evidence Pyramid·Zone-Specific Effect Synthesis"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-05-31
+date: 2026-11-22
 doi: N/A
 source: N/A
 category: overviews
@@ -10,42 +10,42 @@ evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
-tags: [pdrn, polydeoxyribonucleotide, a2a-receptor, bone-regeneration, soft-tissue-augmentation, gbr, sinus-lift, immediate-implant, keratinized-tissue, oral-surgery, overview, decision-ladder]
+tags: [pdrn, polydeoxyribonucleotide, a2a-receptor, bone-regeneration, soft-tissue-augmentation, gbr, sinus-lift, immediate-implant, keratinized-tissue, oral-surgery, overview, decision-ladder, formulation, cross-domain, systematic-review]
 ---
 
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - PDRN(폴리데옥시리보뉴클레오티드, Polydeoxyribonucleotide) 치과 적용 17편 종합 spine. 연어/송어 정자 유래 50–1500 kDa DNA fragment.
-> - 기전은 인과적으로 입증됨 — A2A 아데노신 수용체(항염·혈관신생) + 뉴클레오티드 구제경로(DNA 합성). Bitto 2013에서 A2A 길항제(DMPX)가 효과를 소실시켜 receptor-mediated 확정(단 rat 치주염 모델 맥락).
-> - 근거가 둘로 갈림: **진통·항염은 human 근거, 재생은 전부 preclinical(animal·in vitro)**. 재생 claim의 human RCT는 0편.
+> - PDRN(폴리데옥시리보뉴클레오티드, Polydeoxyribonucleotide) 치과 적용 21편 종합 spine. 연어/송어 정자 유래 50–1500 kDa DNA fragment. 2026-11-21 서베일런스 신규 3편 반영(TMJ 포함 근골격계 SR · 상용 제형 head-to-head · 비치과 성장판 기전).
+> - 기전은 인과적으로 입증됨 — A2A 아데노신 수용체(항염·혈관신생) + 뉴클레오티드 구제경로(DNA 합성). Bitto 2013에서 A2A 길항제(DMPX)가 효과를 소실시켜 receptor-mediated 확정(단 rat 치주염 모델). 2026-11 신규 Jeong 2026은 **두 번째 길항제 확인**(ZM241385가 간 JAK2-STAT5/IGF-1 축 차단)을 더했으나 **비치과 전신 성장판 모델** — 치과 재생으로 외삽 금지.
+> - 근거가 둘로 갈림: **진통·항염은 human 근거, 재생은 전부 preclinical(animal·in vitro)**. 재생 claim의 human RCT는 0편. 진통 축에 2026-11 신규 근골격계 SR(13,267건 → 38편)이 GRADE low~very low로 보강 — 그룹 내 개선≠그룹 간 효과, 부위·HA 비교군에 따라 상이.
 > - 재생 효과는 **zone-specific·outcome-specific·시간 전엽**: 신생골 면적/비율은 ↑하나 골-임플란트 접촉률(Bone-to-Implant Contact, BIC)·BAFO는 무차이; 효과가 슈나이더막 근접 apical zone에만 국한(Lee 2023 sinus: BIC apical 76.7% vs 55.6%, p=0.038); 초기(2–4주)에 몰리고 종점에서 격차 축소(Ko 2024 ARP·Lim 2025 endosinus).
 > - 연조직: 각화치은(Keratinized Tissue, KT) 높이만 ↑, 부피(volume) gain은 무효(Lee 2024 즉시식립) — 결과 충돌 존재. PDRN의 연조직 가치는 "부피"가 아니라 "각화·치유 질".
-> - Dose는 비선형·비표준 — 많을수록 좋은 게 아님(RUNX2 peak @25 μg/mL, COL1A1 @75 μg/mL; 4mg/mL이 2mg/mL 대비 추가 이득 없음). 표준 dose·vehicle·timing 미정립.
+> - Dose·제형은 비선형·비표준 — 많을수록 좋은 게 아님(RUNX2 peak @25 μg/mL, COL1A1 @75 μg/mL; 4mg/mL이 2mg/mL 대비 추가 이득 없음). 2026-11 신규 Lee 2026 제형 head-to-head(토끼 두개골 6 mm 결손, n=16)가 **최초의 상용 3제형 직접 비교**로 표준화 공백을 일부 메웠으나 2·6주 조기 시점·소표본·비임플란트 모델 — PDRN-A 2주 BV/TV 22.85% vs 대조군 18.24%, 6주 25.33% vs 19.33%.
 > - Autograft(SCTG/FGG) 대체는 아직 안 됨 — comparable 데이터는 positive control 결여·KT height 열위·volume 무효라는 단서와 공존.
 > - 안전성 양호(농도의존 세포독성 없음, 이상반응 HA 동등) → **저비용·저위험 보조**로서는 합리적이나 1차 재생치료나 표준 graft 대체 근거로는 미흡.
-> - 가장 빠르게 human 근거가 붙는 임상 입지는 **재생이 아니라 진통·항염** — 발치(매복 제3대구치) 술후 통증(Kim 2026 RCT), TMJ prolotherapy(Choi 2026 후향 n=66: VAS 4.34→1.00, 최대개구량(Maximum Mouth Opening, MMO) 31.0→40.8mm, PDRN ≈ dextrose), 비치과 SR/MA(건·인대 SMD −1.43; 슬관절 OA HA 대비 단기 우위)가 보강.
-> - 오판 패턴 3가지: ① "PDRN이 BIC를 높인다"(틀림), ② "PDRN-collagen이 autograft를 대체한다"(과장), ③ "human 근거가 쌓였다"(RCT는 통증 1편뿐, 재생 endpoint human 0편). MRONJ는 카탈로그 언급에서 기전 근거(Pachhapure 2025 in vitro, TBK1 경로)로 격상됐으나 단일 세포주 한계.
+> - 가장 빠르게 human 근거가 붙는 임상 입지는 **재생이 아니라 진통·항염** — 발치(매복 제3대구치) 술후 통증(Kim 2026 RCT), TMJ prolotherapy(Choi 2026 후향 n=66: VAS 4.34→1.00, 최대개구량(Maximum Mouth Opening, MMO) 31.0→40.8mm, PDRN ≈ dextrose), 비치과 SR/MA(건·인대 SMD −1.43; 슬관절 OA HA 대비 단기 우위) + 신규 근골격계 SR(TMJ 3편 포함, 그룹 간 유의성 불일관).
+> - 오판 패턴 3가지: ① "PDRN이 BIC를 높인다"(틀림), ② "PDRN-collagen이 autograft를 대체한다"(과장), ③ "human 근거가 쌓였다"(RCT는 통증 1편뿐, 재생 endpoint human 0편). MRONJ는 카탈로그 언급에서 기전 근거(Pachhapure 2025 in vitro, TBK1 경로)로 격상됐으나 단일 세포주 한계. 신규 cross-domain 2편(TMJ 포함 SR·성장판 기전)은 **치과 외삽 금지** 라벨과 함께 취급.
 
 ## Three-line Summary
 
-Synthesis of 17 wiki papers on polydeoxyribonucleotide (PDRN) in dentistry across mechanism (A2A adenosine receptor activation + nucleotide salvage pathway, receptor-mediated causality confirmed by A2A antagonist blockade in rat model), analgesic/anti-inflammatory use, and regenerative applications in bone/soft tissue/TMJ.
+Synthesis of 21 wiki papers on polydeoxyribonucleotide (PDRN) in dentistry across mechanism (A2A adenosine receptor activation + nucleotide salvage pathway, receptor-mediated causality confirmed by A2A antagonist blockade in rat model and, newly, in a cross-domain hepatic growth axis), analgesic/anti-inflammatory use, and regenerative applications in bone/soft tissue/TMJ.
 
-The evidence splits sharply by endpoint: analgesic/anti-inflammatory is the strongest human-evidence claim (1 dental RCT for post-extraction pain, 1 TMJ prolotherapy retrospective cohort n=66, 2 non-dental SR/MAs including tendon SMD −1.43), while all regenerative claims remain entirely animal/in-vitro, are zone-specific and outcome-specific (new bone area ↑ but BIC/BAFO unchanged; KT height ↑ but soft-tissue volume unchanged), and are temporally front-loaded (early acceleration that narrows toward endpoint); dose is non-linear (RUNX2 peak at 25 µg/mL, COL1A1 at 75 µg/mL) and autograft replacement is not supported.
+The evidence splits sharply by endpoint: analgesic/anti-inflammatory is the strongest human-evidence claim (1 dental RCT for post-extraction pain, 1 TMJ prolotherapy retrospective cohort n=66, 2 non-dental SR/MAs including tendon SMD −1.43, plus a 2026 musculoskeletal SR of 13,267→38 studies where TMJ is one of seven sites and GRADE certainty is low to very low), while all regenerative claims remain entirely animal/in-vitro, are zone-specific and outcome-specific (new bone area ↑ but BIC/BAFO unchanged; KT height ↑ but soft-tissue volume unchanged), and are temporally front-loaded (early acceleration that narrows toward endpoint); Jeon 2026 (MC3T3-E1 + primary BMM osteoclasts, in vitro) dissects the mechanistic selectivity: PDRN promotes osteoblast differentiation (Runx2↑, ALP↑, mineralization↑) without affecting osteoclastogenesis — a **selective anabolic** profile via A2A→Wnt/β-catenin→Runx2, explaining the consistent early new-bone-area gain without BIC improvement; dose is non-linear (RUNX2 peak at 25 µg/mL, COL1A1 at 75 µg/mL), a 2026 rabbit calvarial head-to-head (16 rabbits, four 6-mm defects) gives the first direct comparison of three commercial formulations (PDRN-A highest BV/TV at 2 and 6 weeks) — partially filling the long-flagged formulation-standardization gap, still preclinical — and autograft replacement is not supported.
 
-PDRN is a rationale low-cost, low-risk adjunct — especially for pain/inflammation after surgery or in TMJ prolotherapy — but should not be presented as a primary regenerative agent or autograft substitute on current evidence.
+PDRN is a rationale low-cost, low-risk adjunct — especially for pain/inflammation after surgery or in TMJ prolotherapy — but should not be presented as a primary regenerative agent or autograft substitute on current evidence; the two newly added cross-domain papers (musculoskeletal SR with TMJ subset; systemic growth-plate/IGF-1 mechanism) are mechanism/comparator context only and must not be extrapolated to dental regeneration.
 
 ## 세줄요약
 
-폴리데옥시리보뉴클레오티드(PDRN) 치과 적용 17편 종합 — 기전(A2A 아데노신 수용체 + 뉴클레오티드 구제경로, A2A 길항제로 수용체 매개 확인)·진통/항염·골/연조직/턱관절(TMJ) 재생 적용 통합.
+폴리데옥시리보뉴클레오티드(PDRN) 치과 적용 21편 종합 — 기전(A2A 아데노신 수용체 + 뉴클레오티드 구제경로, A2A 길항제로 수용체 매개 확인 — rat 치주염 DMPX + 비치과 간 JAK2-STAT5/IGF-1 축 ZM241385)·진통/항염·골/연조직/턱관절(TMJ) 재생 적용 통합.
 
-근거가 결과 지표에 따라 갈린다: 진통·항염은 가장 강한 human 근거(치과 RCT 1 + TMJ 후향코호트 1 + 비치과 SR/MA 2 포함), 재생 효과는 전부 동물·in vitro이며 zone·outcome 한정(신생골 면적↑이나 BIC/BAFO 무차이, 각화치은 높이↑이나 연조직 부피 무효), 초기 가속 후 종점에서 격차 축소; 용량 비선형(RUNX2 최적 25 µg/mL·COL1A1 75 µg/mL), 자가이식 대체 미지지.
+근거가 결과 지표에 따라 갈린다: 진통·항염은 가장 강한 human 근거(치과 RCT 1 + TMJ 후향코호트 1 + 비치과 SR/MA 2 + 신규 근골격계 SR 1편[13,267→38편, TMJ 7부위 중 하나, GRADE low~very low]), 재생 효과는 전부 동물·in vitro이며 zone·outcome 한정(신생골 면적↑이나 BIC/BAFO 무차이, 각화치은 높이↑이나 연조직 부피 무효), 초기 가속 후 종점에서 격차 축소; 용량 비선형(RUNX2 최적 25 µg/mL·COL1A1 75 µg/mL), 신규 토끼 두개골 head-to-head가 상용 3제형 최초 직접 비교(PDRN-A 최고 BV/TV)로 제형 표준화 공백 일부 해소, 자가이식 대체 미지지.
 
-저비용·저위험 보조제로서 발치 후 통증·TMJ prolotherapy에는 합리적; 1차 재생치료 또는 자가이식 대체 근거로는 불충분 — 현재 근거 수준으로 과도한 청구 금지.
+저비용·저위험 보조제로서 발치 후 통증·TMJ prolotherapy에는 합리적; 1차 재생치료 또는 자가이식 대체 근거로는 불충분 — 신규 cross-domain 2편(TMJ 포함 SR·전신 성장판 기전)은 치과 외삽 금지, 현재 근거 수준으로 과도한 청구 금지.
 
 ## Summary
 
-본 페이지는 `wiki/pdrn/` 17편(narrative review 2 · scoping review 1 · sr+ma 2 · in vitro 2 · animal in vivo 8 · human RCT 1 · retrospective 1) 전체의 종합 spine이다. 2026-05-31 신규 7편 ingest로 10→17편 확장됐고(골재생 2: lim-2025 endosinus·ko-2024 ARP / TMJ 2: ku-2025 narrative·choi-2026 retrospective / MRONJ 기전 1: pachhapure-2025 / 비치과 cross-domain 2: gwak-2021 tendon·kim-2019 knee), 본 페이지가 종합 spine을 유지한다.
+본 페이지는 `wiki/pdrn/` 21편(narrative review 2 · scoping review 1 · sr 3 · in vitro 2 · animal in vivo 9 · in-vivo 기전 1 · human RCT 1 · retrospective 1) 전체의 종합 spine이다. 2026-05-31 신규 7편 ingest로 10→17편 확장됐고(골재생 2: lim-2025 endosinus·ko-2024 ARP / TMJ 2: ku-2025 narrative·choi-2026 retrospective / MRONJ 기전 1: pachhapure-2025 / 비치과 cross-domain 2: gwak-2021 tendon·kim-2019 knee), 2026-11-21 서베일런스 신규 3편 ingest로 17→21편으로 재확장됐다(비치과 근골격계 SR 1: lee-2026 Front Pharmacol / 상용 제형 head-to-head animal 1: lee-2026 JPIS / 비치과 전신 성장판 기전 1: jeong-2026 Molecules). 본 페이지가 종합 spine을 유지한다.
 
 PDRN은 salmon/trout sperm 유래 50–1500 kDa DNA fragment로, (1) adenosine 생성 → A2A 수용체 활성화(항염·혈관신생), (2) deoxyribonucleotide salvage pathway → DNA 합성 촉진의 두 축으로 작동한다. 치과에서는 골재생 adjunct, 연조직 보강(각화치은·gingival phenotype), 발치 후 통증·치유, TMJ prolotherapy, MRONJ 보조로 시도된다.
 
@@ -55,7 +55,7 @@ PDRN은 salmon/trout sperm 유래 50–1500 kDa DNA fragment로, (1) adenosine �
 
 2. **근거가 둘로 갈림 — 진통은 human, 재생은 preclinical** — 재생 claim(골·연조직)에는 여전히 human RCT 0편으로 전부 animal/in vitro다. 반면 **진통·항염** 축은 human 근거가 쌓였다: Kim 2026(매복 제3대구치 RCT, 술후 통증), Choi 2026(TMJ prolotherapy 66명 retrospective), 그리고 비치과지만 RCT를 합성한 SR/MA 2편(Gwak 2021 건/인대 SMD −1.43; Kim 2019 슬관절 OA, HA 대비 1·2개월 통증 우위·안전 동등). 즉 "PDRN이 통증·염증을 줄인다"는 human·SR 수준, "PDRN이 재생을 일으킨다"는 preclinical 수준. [확인]
 
-3. **재생 효과는 zone-specific·outcome-specific·시간 전엽 — 1차 지표는 안 움직임** — 경조직: new bone area·proportion은 ↑하나 BIC·BAFO 무차이(Lee 2023 dehiscence), 효과가 Schneiderian membrane 근접 apical zone에만 국한(Lee 2023 sinus, BIC apical 76.7% vs 55.6%, p=0.038). 추가로 **시간적 전엽화** — 효과가 초기에 몰리고 종점에서 격차가 줄어든다: Ko 2024(ARP, 신생골·혈관 우위가 2주에 집중), Lim 2025(rabbit endosinus, 유의차 4주에서만, 8주엔 양군 수렴). 연조직: KT height만 ↑, volume gain 무효(Lee 2024 IIP). 17편 중 가장 강한 cross-paper signal. [확인]
+3. **재생 효과는 zone-specific·outcome-specific·시간 전엽 — 1차 지표는 안 움직임** — 경조직: new bone area·proportion은 ↑하나 BIC·BAFO 무차이(Lee 2023 dehiscence), 효과가 Schneiderian membrane 근접 apical zone에만 국한(Lee 2023 sinus, BIC apical 76.7% vs 55.6%, p=0.038). 추가로 **시간적 전엽화** — 효과가 초기에 몰리고 종점에서 격차가 줄어든다: Ko 2024(ARP, 신생골·혈관 우위가 2주에 집중), Lim 2025(rabbit endosinus, 유의차 4주에서만, 8주엔 양군 수렴). 연조직: KT height만 ↑, volume gain 무효(Lee 2024 IIP). 21편 중 가장 강한 cross-paper signal. [확인]
 
 4. **Dose는 비선형·비표준 — 많을수록 좋은 게 아님** — Lee 2024 in vitro: RUNX2 peak @25 μg/mL, COL1A1 peak @75 μg/mL(marker별 최적 농도 다름). Kim 2025: PDRN 4 mg/mL이 2 mg/mL 대비 추가 이득 없음. 표준 dose·vehicle·timing 미정립. [확인]
 
@@ -67,6 +67,12 @@ PDRN은 salmon/trout sperm 유래 50–1500 kDa DNA fragment로, (1) adenosine �
 
 8. **MRONJ는 카탈로그 언급에서 기전 근거로 격상** — Pachhapure 2025(in vitro)가 PDRN 100 µg/mL이 zoledronic acid의 치은섬유아세포 독성을 TBK1 인산화 억제·p-PKB 회복·ROS 감쇠로 예방·역전함을 보임. 지연 투여도 효과 → 예방뿐 아니라 치료 가설. 단 단일 세포주 in vitro로 동물·임상 미검증. [미검증]
 
+9. **제형 표준화 공백이 상용 head-to-head로 일부 메워짐 — 여전히 preclinical** — Lee 2026 JPIS(토끼 n=16, 6 mm 두개골 결손 4개씩, 3종 상용 PDRN 제형 A/B/C + 대조군)가 동일 graft·막·soaking 조건에서 제형을 직접 비교: 2주 BV/TV PDRN-A 22.85%±0.88% vs 대조군 18.24%±3.12%, 6주 PDRN-A 25.33%±2.82%·PDRN-B 23.84%±2.25% vs 대조군 19.33%±1.94%(ANOVA p=0.0019·0.0004), 조직계측 신생골도 PDRN-A 최고. Manfredini 2023이 지적한 "제형 미표준화"에 대한 최초 직접 근거이나, 임플란트·BIC endpoint가 아닌 두개골 결손·2/6주 조기 시점·소표본 — 치과 임상 재생 결론(BIC 무차이)은 바뀌지 않음. [확인] (전임상 수치) / [미검증] (임상 외삽)
+
+10. **진통·항염의 cross-domain SR이 그룹 간 효과의 불일관을 재확인** — Lee 2026 Front Pharmacol(비치과 근골격계 SR, 13,267건 → 38편[임상 28·전임상 10], 10 DB)은 통증(VAS/NRS)·기능(WOMAC/MMO)의 그룹 내 개선을 보였으나 그룹 간 유의성은 부위·비교군(특히 HA)에 따라 상이, GRADE 확신도는 모든 대조 비교에서 low~very low, 이상반응 보고 불완전·비일관. TMJ는 7부위 중 3편뿐이고 PDRN vs dextrose 그룹 간 차이 없음(final VAS p=0.936) — 기존 Choi 2026의 "PDRN ≈ dextrose" 결론과 정합. "그룹 내 개선 = 치료 효과" 오판을 교정하는 SR-level 근거. [확인] (cross-domain SR) / [미검증] (치과 직접 외삽)
+
+11. **A2A 수용체 매개 인과가 두 번째 길항제로 재확인 — 단 비치과 전신 맥락** — Jeong 2026(Molecules, 수컷 ICR 마우스 n=30, 경구 PDRN 5주 + HepG2/RAW264.7/MC3T3-E1)은 간 JAK2-STAT5/IGF-1 축의 PDRN 활성화를 선택적 A2A 길항제 ZM241385가 차단(p<0.05)함을 보였다. Bitto 2013(DMPX, rat 치주염)에 이어 두 번째 receptor-blockade 확인이나, **성장판 두께·체장·혈청 IGF-1**을 endpoint로 한 비치과 전신 연구 — 전신 종장 효과를 치조골·임플란트 재생으로 외삽 금지. paracrine 골 기전 참고용. [확인] (길항제 확인) / [미검증] (치과 외삽)
+
 ## Results
 
 ### 축 1 — Mechanism (기전)
@@ -75,8 +81,9 @@ PDRN은 salmon/trout sperm 유래 50–1500 kDa DNA fragment로, (1) adenosine �
 |---|---|---|
 | [[pdrn/bitto-2013-adenosine-receptor-polynucleotides-pdrn-periodontitis]] | animal (rat EPD) | A2A 수용체 매개 항염 인과 입증 — DMPX(A2A 길항제)가 효과 소실시킴 |
 | [[pdrn/ku-2025-polydeoxyribonucleotide-pdrn-dentistry-narrative-review]] | narrative-review | 기전 2축(A2A + salvage pathway) + 치과 indication(GBR·TMJ·peri-implantitis·MRONJ) 정리; "RCT 부재" 명시 |
+| [[pdrn/jeong-2026-polydeoxyribonucleotide-promotes-longitudinal-bone-growth]] | in-vivo 기전 (cross-domain) | 두 번째 A2A 길항제(ZM241385) 확인 — 간 JAK2-STAT5/IGF-1 축 차단(p<0.05); 마우스 체장·성장판·혈청 IGF-1 ↑(GH 불변). **비치과 전신 성장판 — 치과 재생 외삽 금지** |
 
-기전 요약: adenosine → A2A 수용체(GPCR) → 항염(TNF-α·IL-6·HMGB-1 ↓)·항apoptosis(Bcl-2 보존)·혈관신생. 병행해 salvage pathway로 DNA 합성 부스트 → 증식·재생. Bitto 2013의 receptor-blockade 실험이 "PDRN 효과 = A2A 매개"의 유일한 직접 인과 증거다.
+기전 요약: adenosine → A2A 수용체(GPCR) → 항염(TNF-α·IL-6·HMGB-1 ↓)·항apoptosis(Bcl-2 보존)·혈관신생. 병행해 salvage pathway로 DNA 합성 부스트 → 증식·재생. receptor-blockade 직접 인과 증거가 두 개로 늘었다: Bitto 2013(DMPX, rat 치주염) + Jeong 2026(ZM241385, 비치과 간/성장판 축). 후자는 A2A 매개를 독립 모델에서 재확인했다는 점에서 값지지만 endpoint가 전신 종장이라 치과 기전 외삽은 금지 — 치과 맥락의 직접 인과는 여전히 Bitto 2013 하나뿐. [확인] (길항제 실험) / [미검증] (치과 일반화)
 
 ### 축 2 — Hard Tissue / Bone Regeneration (경조직·골재생)
 
@@ -90,8 +97,9 @@ PDRN은 salmon/trout sperm 유래 50–1500 kDa DNA fragment로, (1) adenosine �
 | [[pdrn/lee-2023-effect-polydeoxyribonucleotide-early-bone-formation]] | animal (beagle n=6) | IIP dehiscence — 위 참조 (2·6주 new bone ↑, BIC/BAFO 무차이) |
 | [[pdrn/ko-2024-adjunctive-effect-polydeoxyribonucleotide-bone-formation]] | animal (beagle n=8) | ARP socket, graft+막 PDRN soaking → **2주** 신생골·신생혈관 ↑ (시간 전엽) |
 | [[pdrn/lim-2025-effects-polydeoxyribonucleotide-pdrn-endosinus]] | animal (rabbit n=18) | Endosinus SFE, PDRN 2mg/mL → new bone 전 시점 ↑하나 **유의는 4주에서만**, 8주 수렴 |
+| [[pdrn/lee-2026-early-bone-regeneration-with-different]] | animal (rabbit n=16, calvarial 6 mm) | **최초 상용 3제형 head-to-head** — 2주 BV/TV PDRN-A 22.85% vs 대조군 18.24%, 6주 PDRN-A 25.33%·PDRN-B 23.84% vs 19.33%(p=0.0019·0.0004); 조직계측 신생골 PDRN-A 최고. 제형 표준화 공백 일부 해소, 임플란트·BIC 아님 |
 
-경조직 결론: PDRN은 초기 신생골 비율과 pristine bone에서 먼 unfavorable zone(apical)을 끌어올리지만, 골유착 자체(BIC/BAFO)는 못 바꾼다. 신규 2편(Ko 2024 ARP·Lim 2025 endosinus)은 이 modifier 효과가 **시간적으로 초기에 몰린다**는 것을 독립 종·접근에서 확인 — 2~4주 우위 후 종점에서 격차 축소. 즉 "graft에 더해 초기 turnover·혈관신생을 가속하는 modifier"이지 osseointegration driver도, 최종 골량 증대도 아니다. 세포 수준에서 이 modifier가 **어느 쪽으로 작동하는지**는 Jeon 2026(MC3T3-E1 osteoblast + 1차 BMM osteoclast 동시 모델)이 분해했다 — PDRN(10·20 μg/mL)은 osteoblast 분화만 선택적으로 강화하고(Runx2·osteocalcin·ALP·광화 ↑) osteoclast 생성·골흡수 기능(TRAP·pit)에는 영향이 없는 **selective anabolic** 작용이며, A2A→Wnt/β-catenin→Runx2 경로를 제안해 명제 1의 A2A 기전을 세포 수준에서 뒷받침한다(단 단일 세포주·in vitro 한계). [확인] (in vitro 기전)
+경조직 결론: PDRN은 초기 신생골 비율과 pristine bone에서 먼 unfavorable zone(apical)을 끌어올리지만, 골유착 자체(BIC/BAFO)는 못 바꾼다. 신규 2편(Ko 2024 ARP·Lim 2025 endosinus)은 이 modifier 효과가 **시간적으로 초기에 몰린다**는 것을 독립 종·접근에서 확인 — 2~4주 우위 후 종점에서 격차 축소. 즉 "graft에 더해 초기 turnover·혈관신생을 가속하는 modifier"이지 osseointegration driver도, 최종 골량 증대도 아니다. 세포 수준에서 이 modifier가 **어느 쪽으로 작동하는지**는 Jeon 2026(MC3T3-E1 osteoblast + 1차 BMM osteoclast 동시 모델)이 분해했다 — PDRN(10·20 μg/mL)은 osteoblast 분화만 선택적으로 강화하고(Runx2·osteocalcin·ALP·광화 ↑) osteoclast 생성·골흡수 기능(TRAP·pit)에는 영향이 없는 **selective anabolic** 작용이며, A2A→Wnt/β-catenin→Runx2 경로를 제안해 명제 1의 A2A 기전을 세포 수준에서 뒷받침한다(단 단일 세포주·in vitro 한계). 신규 Lee 2026 JPIS는 여기에 **제형 차원**을 추가한다 — 3종 상용 PDRN을 동일 조건에서 직접 비교해 PDRN-A가 BV/TV·신생골 모두에서 최고였고, "제형·vehicle·dose 미표준화"라는 Manfredini 2023의 지적을 정면으로 다뤘다. 다만 두개골 결손·2/6주 조기 시점·비임플란트 모델이라 **BIC/BAFO 무차이 결론은 흔들리지 않는다** — 제형 간 차이는 초기 신생골 modifier의 크기 차이일 뿐, 골유착 driver가 달라졌다는 뜻이 아니다. [확인] (in vitro 기전·전임상 수치) / [미검증] (임상 외삽)
 
 ### 축 3 — Soft Tissue (연조직·각화치은) — Kyung Hee 연작 + 충돌
 
@@ -119,8 +127,9 @@ PDRN은 salmon/trout sperm 유래 50–1500 kDa DNA fragment로, (1) adenosine �
 |---|---|---|
 | [[pdrn/gwak-2021-does-polydeoxyribonucleotide-effect-tendon]] | sr+ma (MSK) | 건/인대 통증 PDRN 주사 SMD −1.43 (P<0.00001); 통증↓하나 기능·근력 무변화 |
 | [[pdrn/kim-2019-efficacy-safety-polydeoxyribonucleotide-knee]] | sr+ma (RCT 5편) | 슬관절 OA 관절강내 PDRN, HA 대비 1·2개월 통증 우위(4개월 소멸); 기능·안전 동등 |
+| [[pdrn/lee-2026-polydeoxyribonucleotide-and-polynucleotide-effects-in]] | sr (비치과 근골격계, 38편) | 13,267건 → 38편(임상 28·전임상 10); 그룹 내 VAS/NRS·WOMAC/MMO ↑이나 그룹 간 유의성 부위·HA 비교군 의존, GRADE low~very low; TMJ 3편 PDRN vs dextrose 그룹 간 차이 없음(p=0.936); AE 보고 불완전·비일관 |
 
-cross-domain 결론: 비치과 데이터지만 PDRN 진통 효과의 **가장 높은 근거 등급**(RCT 합성)이며, 치과 진통 적응증(발치·TMJ)의 외삽 기반이다. 두 MA 공통 패턴 — **통증은 줄지만 기능 지표는 안 움직이고, 진통 우위가 단기(≤2개월)에 국한**. 치과 직접 적용은 [미검증], 안전 신호는 비교적 견고. [확인] (진통 효과 존재) / [미검증] (치과 외삽)
+cross-domain 결론: 비치과 데이터지만 PDRN 진통 효과의 **가장 높은 근거 등급**(RCT 합성)이며, 치과 진통 적응증(발치·TMJ)의 외삽 기반이다. 두 MA 공통 패턴 — **통증은 줄지만 기능 지표는 안 움직이고, 진통 우위가 단기(≤2개월)에 국한**. 신규 Lee 2026 SR은 여기에 방법론적 경고를 더한다 — 그룹 내 개선을 그룹 간 치료 효과로 오인하지 말 것, PDRN과 PN을 분자량으로 구분할 것, HA 비교군에 따라 결과가 엇갈린 것. TMJ 하위집합(3편)도 "PDRN ≈ dextrose"로 기존 치과 후향 결론과 같은 방향. 치과 직접 적용은 [미검증], 안전 신호는 비교적 견고(단 AE 보고 자체가 불완전). [확인] (진통 효과 존재·SR 해석) / [미검증] (치과 외삽)
 
 ### 축 6 — MRONJ Mechanism (in vitro)
 
@@ -142,7 +151,7 @@ MRONJ 결론: 카탈로그 언급(Ku 2025)에서 분자기전 근거로 격상. 
 
 5. **MRONJ 점막 치유 보조** → 기전 근거(Pachhapure 2025 in vitro)만 존재, 표준 MRONJ 치료를 대체하지 말 것. 보조 가설 단계로만. [미검증] / 대안: 확립된 단계별 MRONJ 프로토콜.
 
-6. **Dose** → "많을수록 좋다" 가정 금지. 2 mg/mL 수준이 4 mg/mL과 동등(Kim 2025), marker별 최적 농도 상이(Lee 2024). 골 soaking은 2.0 mg/mL이 동물 연작 공통 농도(Lim 2023·2025). 표준 dose 미정립이므로 제품 권장 농도 준수. [확인]
+6. **Dose·제형** → "많을수록 좋다" 가정 금지. 2 mg/mL 수준이 4 mg/mL과 동등(Kim 2025), marker별 최적 농도 상이(Lee 2024). 골 soaking은 2.0 mg/mL이 동물 연작 공통 농도(Lim 2023·2025). 상용 제형 간 biological performance가 다를 수 있음(Lee 2026 JPIS: PDRN-A > B/C in BV/TV, 전임상) — 제품 선택을 근거 수준에서 구분하지 말 것. 표준 dose·제형 미정립이므로 제품 권장 농도 준수. [확인] / 제형 임상 외삽 [미검증]
 
 **오판 패턴**: ① "PDRN이 골유착(BIC)을 높인다" — 틀림, 일관되게 BIC/BAFO 무차이. PDRN이 움직이는 건 초기 신생골량과 peripheral zone. ② "PDRN-collagen이 autograft를 대체한다" — 과장, comparable이라는 데이터는 positive control 결여·KT height 열위·volume 무효라는 단서와 공존. ③ "human 근거가 쌓였다" — RCT는 통증 1편뿐, 재생 endpoint human 0편. [확인]
 
@@ -152,9 +161,11 @@ MRONJ 결론: 카탈로그 언급(Ku 2025)에서 분자기전 근거로 격상. 
 - 재생 효과의 시간 전엽화(Ko 2024·Lim 2025) — 초기 가속이 최종 골량 증대로 이어지는지, 아니면 단순 가속만인지 장기 추적 미해결.
 - TMJ prolotherapy의 RCT 부재 — Choi 2026은 무대조 후향이고 PDRN과 dextrose를 분리하지 않음.
 - MRONJ 효과는 단일 세포주 in vitro(Pachhapure 2025)뿐 — 동물·임상 검증 필요.
-- 비치과 SR/MA(Gwak·Kim) 외삽의 타당성 — 치과 연조직·관절 환경과 MSK 환경 차이.
+- 비치과 SR/MA(Gwak·Kim·Lee 2026 SR) 외삽의 타당성 — 치과 연조직·관절 환경과 MSK 환경 차이; Lee 2026 SR은 GRADE low~very low·AE 보고 불완전으로 외삽 근거 자체가 약함.
 - 연조직 결과 충돌(Lim 2023 comparable vs Lee 2024 volume 무효)의 기전적 해소.
-- 표준 dose·vehicle(soaking vs injection vs scaffold)·timing 미정립.
+- 표준 dose·vehicle(soaking vs injection vs scaffold)·timing 미정립 — Lee 2026 제형 head-to-head가 공백의 시작을 메웠으나 3제형 중 어느 것이 임상적으로 우위인지, 왜 차이가 나는지(분자량·정도·원료)는 미규명.
+- 제형 간 차이의 임상 재현 — Lee 2026 JPIS의 BV/TV 우위가 임플란트 BIC·장기 골량으로 이어지는지 검증 필요(현재 두개골·2/6주 전임상만).
+- Jeong 2026의 경구 PDRN 약동학·in vivo A2AR 관여 미검증 — 전신 IGF-1 axis를 치과 국소 재생에 연결할 근거 없음.
 - 장기(load-bearing, 1년+) 데이터 전무 — 전부 단기 시점(2주~4개월).
 
 ## Related Papers
@@ -178,6 +189,9 @@ MRONJ 결론: 카탈로그 언급(Ku 2025)에서 분자기전 근거로 격상. 
 - [[pdrn/gwak-2021-does-polydeoxyribonucleotide-effect-tendon]] — 비치과 진통 SR/MA, cross-domain (신규)
 - [[pdrn/kim-2019-efficacy-safety-polydeoxyribonucleotide-knee]] — 비치과 관절 SR/MA, cross-domain (신규)
 - [[pdrn/choi-2026-role-pdrn-musculoskeletal-biotherapy-review]] — narrative review: PDRN mechanism across musculoskeletal biotherapy (A2A receptor agonism, tissue repair, anti-inflammatory cascade); cross-domain context for PDRN use in dental regeneration and pain management (review, 2026)
+- [[pdrn/lee-2026-polydeoxyribonucleotide-and-polynucleotide-effects-in]] — 신규 비치과 근골격계 SR(13,267→38편, TMJ 3편): 그룹 내 개선 vs 그룹 간 효과 구분, GRADE low~very low — 축 5 (신규 2026-11)
+- [[pdrn/lee-2026-early-bone-regeneration-with-different]] — 신규 토끼 두개골 head-to-head: 상용 3제형 최초 직접 비교, PDRN-A 최고 BV/TV — 축 2·제형 공백 (신규 2026-11)
+- [[pdrn/jeong-2026-polydeoxyribonucleotide-promotes-longitudinal-bone-growth]] — 신규 비치과 전신 성장판 기전: ZM241385가 A2A–JAK2-STAT5/IGF-1 차단, 두 번째 길항제 확인 — 축 1 (신규 2026-11, 외삽 금지)
 
 Cross-category:
 - [[overviews/immediate-implant-conditions]] — 즉시식립 조건 (PDRN soft-tissue 연작의 임상 배경)

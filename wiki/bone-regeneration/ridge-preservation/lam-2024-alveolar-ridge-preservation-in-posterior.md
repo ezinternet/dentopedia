@@ -6,7 +6,7 @@ date: 2024-08-22
 doi: "10.1111/clr.14344"
 source: lam-2024-alveolar-ridge-preservation-in-posterior.md
 category: bone-regeneration/ridge-preservation
-confidence: rct
+evidence_level: rct
 text_path: /Users/oracleneo/llm-wiki/papers/lam-2024-alveolar-ridge-preservation-in-posterior.txt
 text_filename: lam-2024-alveolar-ridge-preservation-in-posterior.txt
 source_collection: pubmed-text
@@ -21,6 +21,22 @@ Randomized controlled pilot (n=28, 4 months, Australia): DBBM-based ARP in poste
 
 ## 한줄요약
 상악 후방 치조제 보존술 (Alveolar Ridge Preservation, ARP) 파일럿 RCT (n=28, 4개월): 이종골 (DBBM) 충전이 상악동 공기화를 억제하고 (공기화 +3.9%→−3.7%, p=0.03) 측방 상악동 거상 (Sinus Floor Elevation, SFE) 필요율을 89%→42%로 감소.
+
+## Three-line Summary
+
+Lam et al. (2024) conducted a randomized controlled pilot study at 3 Australian centres (2 university + 1 private) enrolling 28 patients with posterior maxillary extraction sites, randomised to unassisted healing, DBBM granules (Bio-Oss 1–2 mm + collagen membrane), or DBBM-C block (Bio-Oss Collagen + collagen membrane), with CBCT volumetric assessment at 4 months. The study was the first to quantify ARP's anti-pneumatization effect using three-dimensional volumetric CT sinus analysis.
+
+Both DBBM formulations significantly maintained ridge height vs control (control: −39.7% height reduction) and reduced sinus pneumatization (granules: −3.7% sinus volume, p=0.03; block: −2.1%, NS). The proportion of sites requiring lateral sinus floor elevation (residual bone height <8 mm) dropped from 89% (control) to 42.8–40.0% (both DBBM groups). No significant differences were found between granules and collagen block formulations.
+
+This study establishes ARP in the posterior maxilla as a clinically meaningful upstream intervention that halves the need for lateral sinus floor elevation (Sinus Floor Elevation, SFE) at the implant placement stage. Limitations include small sample size per group (~9–10), pilot design, and 4-month follow-up without long-term implant outcomes.
+
+## 세줄요약
+
+람 등(2024)은 호주 3개 기관에서 상악 후방 발치 부위 28명을 대상으로 자연치유 대 이종골(DBBM) 과립 대 DBBM-C 블록을 비교한 파일럿 RCT를 시행하고, CBCT로 4개월 시점 치조제 높이와 상악동 체적 변화를 3차원 정량화했다. 이는 치조제 보존술(Alveolar Ridge Preservation, ARP)이 상악동 공기화(Pneumatization)를 억제하는지 처음으로 3D 용적 분석으로 검증한 연구다.
+
+DBBM 과립은 상악동 체적을 유의하게 감소시켰고(-3.7%, p=0.03), 잔존골 높이 <8 mm 기준 측방 상악동 거상(Sinus Floor Elevation, SFE) 필요율이 대조군 89%에서 양 DBBM군 모두 ~42%로 절반 이하로 감소했다. 과립과 콜라겐 블록 간 유의차는 없었다.
+
+이 연구는 상악 후방부 발치 직후 ARP가 임플란트 단계의 측방 상악동 거상 필요성을 50% 이상 줄일 수 있음을 처음으로 전향적으로 보여준다. 한계: 군별 ~9–10명의 소규모 파일럿, 4개월 추적, 임플란트 결과 미평가.
 
 ## Summary
 After posterior maxillary tooth extraction, the loss of alveolar bone height allows pneumatization of the maxillary sinus, increasing the need for sinus floor elevation (SFE) before implant placement. This multicenter randomized pilot (n=28; Australia) assigned posterior maxillary extraction sites to unassisted healing, DBBM granules (1–2mm, Bio-Oss), or DBBM-C block (Bio-Oss Collagen), with CBCT volumetric assessment at 4 months. Both DBBM formulations maintained ridge height (Control −39.7%; Test 1 and Test 2 +positive) and significantly reduced sinus pneumatization. The proportion of sites requiring lateral SFE (residual bone height <8mm) dropped from 89% (Control) to 42.8% (Test 1) and 40% (Test 2). This is the first prospective study using 3D volumetric CT sinus analysis to quantify ARP's anti-pneumatization effect.

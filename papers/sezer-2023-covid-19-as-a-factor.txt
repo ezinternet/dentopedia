@@ -1,0 +1,12 @@
+COVID-19 AS A FACTOR ASSOCIATED WITH EARLY DENTAL IMPLANT FAILURES: A RETROSPECTIVE ANALYSIS.
+Sezer T, Soylu E. Clinical implant dentistry and related research. 2023. doi:10.1111/cid.13238. PMID 37315944.
+
+[ABSTRACT-ONLY — full text not retrieved]
+
+To analyze the effect of COVID-19 on early implant failures and identify potential risk factors for early implant failure, concerning patient- and implant-related factors.
+
+This retrospective study is based on 1228 patients who received 4841 implants between March 11, 2020, and April 01, 2022, at Erciyes University Faculty of Dentistry. COVID-19, age and gender of patients, smoking, diabetes, irradiation, chemotherapy, osteoporosis, the implant system, location, and characteristics of implants were recorded. At the implant level, univariate and multivariate generalized estimating equation (GEE) logistic regression was used to examine the effect of explanatory variables on early implant failure.
+
+The early implant failure rate was 3.1% at the implant level and 10.4% at the patient level. Smokers showed a significantly higher incidence of early implant failures compared to nonsmokers. (odds ratio (OR; 95% CI): 2.140 (1.438-3.184); p < 0.001). Short implants (≤8 mm) had a higher risk of early implant failure than long implants (≥12 mm) (OR (95% CI): 2.089 (1.290-3.382); p = 0.003).
+
+COVID-19 had no significant effect on early implant failure. Smoking and short implants were associated with a higher risk for early implant failures.

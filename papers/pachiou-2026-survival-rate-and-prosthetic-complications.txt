@@ -1,0 +1,16 @@
+SURVIVAL RATE AND PROSTHETIC COMPLICATIONS OF SHORT DENTAL IMPLANTS SUPPORTING IMPLANT OVERDENTURES: A SYSTEMATIC REVIEW AND META-ANALYSIS.
+Pachiou A, Naka O, Sykara M, Sykaras N, Tsirogiannis P, Thoma DS, Naenni N. Journal of dentistry. 2026. doi:10.1016/j.jdent.2026.106351. PMID 41520864.
+
+[ABSTRACT-ONLY — full text not retrieved]
+
+To evaluate the survival, marginal bone level changes (MBL), prosthetic complications, and patient-reported outcome measures (PROMs) of short dental implants (<8 mm) supporting implant overdentures.
+
+Eight studies (3 RCTs, 5 prospective cohorts; 181 patients; 189 short implants) were synthesized. Primary quantitative findings at 1 year: Implant survival: 97.2% (95% CI, 93.1-98.9%; I² = 0%). MBL: pooled mean 0.53 mm (95% CI, -0.20 to 1.27; I² = 95.8%). Prosthetic complications: predominantly minor; 45.7% of patients experienced ≥1 maintenance event-most commonly matrix/insert replacement (24.7%) and relining (14.0%); overdenture fractures were uncommon (3.1%). PROMs: consistently high satisfaction, but reporting was heterogeneous. Certainty (GRADE): moderate for survival; low to very low for MBL, complications, and PROMs due to heterogeneity and imprecision.
+
+Systematic review and meta-analysis conducted per PRISMA 2020 (PROSPERO CRD420251042692). Databases searched to May 2025: MEDLINE, Embase, and Scopus. Risk of bias assessed with RoB 2 (RCTs) and ROBINS-I V2 (cohorts). Quantitative synthesis used logit transformation with a Hartung-Knapp random-effects model for survival; inverse-variance random-effects model for MBL; and random-effects generalized linear mixed models (RE-GLMM) for complications. PROMs were narratively synthesized.
+
+Eligibility included randomized controlled trials and prospective clinical studies evaluating short dental implants (<8 mm) supporting overdentures and reporting ≥1 target outcome (survival, MBL, prosthetic complications, PROMs). After screening and full-text assessment, 8 studies met the inclusion criteria and were included in the quantitative and/or qualitative synthesis.
+
+Short implants supporting overdentures show high short-term survival, limited bone remodeling, and manageable maintenance demands, supporting their use where vertical bone height is limited. Long-term, adequately powered trials with standardized outcome reporting are needed to establish predictability over time.
+
+Short implants supporting overdentures show high short-term survival, minimal bone remodeling, and manageable maintenance. They provide a practical option when vertical bone height is limited, reducing surgical procedures while maintaining patient satisfaction. Clinicians can consider them, acknowledging evidence is short term and standardized outcomes and robust follow-up remain necessary.

@@ -46,6 +46,7 @@ relations:
 > - 이 페이지는 [[overviews/implants-isq-stability-ladder]]의 "영향 변수" 축을 macrogeometry 관점에서 심화한 것 — 측정 도구·부하 임계값 결정은 ladder 및 [[overviews/isq-loading-threshold]] 참조.
 > - 근거등급: 임상 RFA 4편(전향/후향/체외) + FEA 4편 (+2026-10-20 보강 4편) — 결론(직경>길이)은 임상 [확인], 절대 응력 수치는 FEA 모델 상대값이라 임상 임계값 아님.
 > - 2026-10-20 보강: 체계적 문헌고찰 (Systematic Review, SR; 유한요소해석 40편, Qiu 2024) — 직경이 피질골 응력·치조정 과부하를 좌우하고 길이는 해면골 응력 (D3/D4에서 길이 효과 증가); 테이퍼가 정규화 식립 토크 (Insertion Torque, IT)를 지배, 직경은 원시 IT에 더 기여 (Yang 2024, in vitro); 50 Ncm 초과 토크는 ISQ 이득 없이 실패·나사풀림만 집중 (Baldi 2018, 테이퍼 칼날나사); 골수준 vs 조직수준 임플란트는 1차 안정성 차이 없음 (Elkattan 2026, 파일럿 RCT). [확인]
+> - **초광폭 임플란트 5년 코호트 추가(2026-11-10, Kim 2023, 분당서울대병원, 직경 6·7 mm 78개·71명, 평균 97.8개월)**: 생존율 92.3%, 성공률 83.3%, 변연골 소실 1년 0.2 mm·최종 0.54 mm. 직경·길이·악궁·연령·성별·부가 수술 모두 비유의 — **안정성만이 결과를 예측**: 1차 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) <60이면 성공률 61%, 60–70이면 100%; 2차 ISQ ≥71이면 생존 100%. 직경을 키우는 것 자체가 아니라 초기 고정을 실제로 얻었는지가 관건.
 
 ## Three-line Summary
 
@@ -147,3 +148,18 @@ Narrative determinant synthesis (no pooled meta-analysis; heterogeneous designs)
 - [[overviews/implant-primary-stability-arp-macrogeometry-low-density-overview]] — macrogeometry & low-density-bone primary stability (ARP context)
 - [[overviews/implant-length-selection-why-not-always-short]] — length-selection decision (short vs standard)
 - [[overviews/narrow-diameter-implants-clinical-outcomes-overview]] — narrow-diameter clinical outcomes
+
+## Evidence Update — Ultra-Wide Implants: Diameter Did Not Predict, Stability Did (2026-11-10)
+
+[[implants/kim-2023-effectiveness-ultra-wide-implants-mandibular]] is a retrospective cohort from Seoul National University Bundang Hospital: 78 ultra-wide (6 and 7 mm) implants in 71 patients, placed 2008–2010, mean follow-up 97.8 months.
+
+- Survival 92.3%, success 83.3%, 13 failures.
+- Marginal bone loss 0.2 mm at 1 year and 0.54 mm at final observation.
+- Diameter, length, arch, age, sex, adjunctive surgery and indication were all non-significant.
+- Stability was the only predictor: primary ISQ <60 gave 61% success against 100% at 60–70; secondary ISQ ≥71 gave 100% survival.
+
+**Reading it against the determinant model.** This page treats diameter as an input that raises primary stability. Kim tests the far end of that input and finds it is not sufficient on its own: within a group of very wide implants the fixture that failed to achieve stability still failed. Diameter is a means, and ISQ is the measure of whether the means worked. This supports the page's direction of causation (geometry → stability → outcome) and warns against skipping the middle term.
+
+**Clinical use.** Ultra-wide implants are mostly a salvage choice in posterior sites, wide sockets or after a failed implant, which is where primary stability is hardest to get. The practical rule from this cohort is to measure: a wide implant with primary ISQ below 60 should not be treated as stable because it is wide.
+
+**Limits.** Retrospective, one implant system, and the ISQ subgroups are small. Success of 83.3% against survival of 92.3% also shows that a meaningful share of surviving implants had complications.

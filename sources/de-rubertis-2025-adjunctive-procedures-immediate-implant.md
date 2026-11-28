@@ -25,6 +25,22 @@ SR+MA of 12 RCTs (484 implants, 6–36 months): adjunctive procedures (xenograft
 
 즉시식립(IIP) 보조술식(이종골이식·결합조직이식·소켓쉴드) 12 RCT SR+MA(484개 임플란트): 보조재는 협측골·연조직 보존에 미미하게 유리하지만 술후 통증을 유의하게 증가시키며(WMD +19.45mm VAS, p=0.04), 보조재 종류와 무관하게 생존율 96–100% 유지.
 
+## Three-line Summary
+
+SR+MA of 12 RCTs (484 implants, 6–36 months) evaluating adjunctive procedures — xenograft, connective tissue graft (CTG), socket shield technique (SST) — versus immediate implant placement (IIP) alone; registered a priori (PROSPERO CRD42025649944).
+
+Implant survival was uniformly high (96–100%) regardless of adjunctive use; adjunctive procedures significantly increased postoperative pain (WMD +19.45 mm VAS, p=0.04; I²=96.9%); evidence for hard/soft tissue benefits was low-to-moderate certainty with meaningful heterogeneity.
+
+Adjunctive procedures may modestly improve peri-implant tissue stability but carry a morbidity cost; clinical decisions should weigh ridge defect severity against patient tolerance for increased postoperative discomfort.
+
+## 세줄요약
+
+즉시식립 (Immediate Implant Placement, IIP) 보조술식(이종골·결합조직이식·소켓쉴드) 12 RCT SR+MA (484개 임플란트, 6–36개월); PROSPERO 사전 등록.
+
+임플란트 생존율은 보조재 종류 무관 96–100%; 보조술식군 술후 통증 유의 증가 (WMD +19.45 mm VAS, p=0.04; I²=96.9%); 경조직·연조직 편익은 낮은~중간 근거 수준.
+
+보조술식은 조직 보존에 미미하게 유리하나 이환율 증가를 수반; 치조 결손 심각도와 환자 내성을 고려한 개별 판단 필요.
+
 ## 1. Document Information
 
 - Journal: Materials (Basel) 18(23):5427, 2025-12-02

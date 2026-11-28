@@ -19,7 +19,6 @@ relations:
     target: pitcher-2017-cbct-periapical-cyst-decision-tree
   - type: contradicts
     target: almadi-2020-cbct-grey-density-periapical-lesion
-superseded_by: null
 ---
 
 ## Three-line Summary

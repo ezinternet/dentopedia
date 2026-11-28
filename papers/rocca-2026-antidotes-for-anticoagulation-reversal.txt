@@ -1,0 +1,9 @@
+TITLE: Antidotes for Anticoagulation Reversal.
+AUTHORS: Rocca Bianca, Ten Cate Hugo
+JOURNAL: The New England journal of medicine
+ID[doi]: 10.1056/NEJMra2506021
+ID[pmid]: 42269153
+PUBTYPES: Journal Article, Review
+
+## ABSTRACT
+The global rise in anticoagulant use has increased the number of major bleeding events that warrant timely and effective pharmacologic reversal. Reversal strategies should be informed by the pharmacodynamic and pharmacokinetic features of the anticoagulant and antidote, regulatory indications, quality of evidence, patient-specific factors, and availability of treatment options. Protamine sulfate neutralizes unfractionated heparin, whereas no specific antidotes exist for low-molecular-weight heparins or fondaparinux. Four-factor prothrombin complex concentrates effectively reverse vitamin K antagonists. Idarucizumab specifically reverses dabigatran, although delayed dabigatran rebound can occur. Andexanet alfa targets direct oral factor Xa inhibitors, but uncertainties regarding the efficacy-safety balance, monitoring, rebound, perioperative use, and cost have prompted off-label use of four-factor prothrombin complex concentrates, for which stronger evidence is needed. Key challenges remain, including determination of appropriate dosing, standardization and validation of laboratory monitoring, mitigation of thrombotic risk, and development of guidelines for perioperative treatment. Emerging agents aim to broaden targets and improve safety. Building high-quality evidence remains essential to advancing global, patient-centered anticoagulant and hemostatic care.

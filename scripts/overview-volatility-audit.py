@@ -15,6 +15,7 @@ overview 단위로 롤업하고 하나의 축으로 정렬한다. 유일한 신�
                      → 종합이 자기 근거 기반보다 뒤처진 정도. 가장 직접적인 신호.
   ② age        0.20  thesis 최종수정 후 경과일 (wikilink-only 커밋 제외)
   ③ contention 0.20  구성 논문 사이의 contradicts(×2)·refines(×1) 엣지 수
+                     (판정 끝난 충돌 제외 · 같은 쌍의 양방향 엣지는 1건 — adjudicated() 참조)
   ④ decay      0.20  고근거(sr+ma/sr/rct) 구성 논문 중 N년 경과 + superseded_by 없는 비율
   ⑤ void       0.10  구성 논문 최신 연도로부터의 공백 (해석 양방향 → 낮은 가중치)
 
@@ -118,7 +119,7 @@ def read_frontmatter(path: Path) -> dict:
     retraction_status, title, source_papers[], relations[(type,target)]."""
     out = {
         "title": path.stem, "year": None, "evidence_level": None,
-        "superseded_by": None, "retraction_status": None,
+        "superseded_by": None, "superseded_scope": None, "retraction_status": None,
         "source_papers": [], "relations": [],
     }
     try:
@@ -169,6 +170,8 @@ def read_frontmatter(path: Path) -> dict:
                 out["evidence_level"] = val.strip("'\"").lower() or None
         elif key == "superseded_by":
             out["superseded_by"] = val or None
+        elif key == "superseded_scope":
+            out["superseded_scope"] = val.strip("'\"").lower() or None
         elif key == "retraction_status":
             out["retraction_status"] = val or None
         elif key == "title":
@@ -368,6 +371,31 @@ def extract_members(ov_path: Path, ov_fm: dict, meta: dict) -> tuple[list[str], 
     return known, missing
 
 
+def superseders(fm: dict) -> set[str]:
+    """superseded_by 값(콤마 구분·경로 접두사 허용) → stem 집합."""
+    raw = fm.get("superseded_by") or ""
+    return {to_stem(x) for x in raw.split(",") if x.strip()}
+
+
+def adjudicated(a: str, b: str, meta: dict) -> bool:
+    """a↔b 충돌이 supersession 으로 이미 판정됐는가.
+
+    2026-11-21 실측: 적색 4편 모두 ③이 1.00 포화였는데, immediate-implant 허브의
+    contradicts 8건 중 4건이 García-Sánchez 2022 로 full 대체된 Mello 2017 에 걸려 있었다.
+    본문은 "해소됨"이라 적었는데 점수는 미해소로 셌다 — 종합을 고쳐도 내려갈 수 없는 성분.
+
+    판정 규칙 (INGEST.md: partial 은 축별 대체라 합성되지 않는다):
+      - 한쪽이 full 대체 → 그 논문은 현재 결론이 아니므로 그 논문의 충돌은 전부 해소.
+      - 한쪽이 상대에게 직접 대체(scope 무관) → 바로 이 쌍이 판정 대상이었다.
+      - 한쪽이 *제3의* 논문에 partial 대체 → 이 쌍의 축이 판정됐다는 보장이 없으므로 계속 센다.
+    """
+    fa, fb = meta.get(a, {}), meta.get(b, {})
+    for fm in (fa, fb):
+        if fm.get("superseded_by") and (fm.get("superseded_scope") or "") == "full":
+            return True
+    return b in superseders(fa) or a in superseders(fb)
+
+
 def norm(value: float, cap: float) -> float:
     if cap <= 0:
         return 0.0
@@ -387,15 +415,25 @@ def score_overview(ov_path: Path, ov_fm: dict, meta: dict,
 
     # ③ 논쟁 밀도 — 구성 논문 사이 엣지 + overview 자체 엣지
     member_set = set(known)
-    contradicts = refines = 0
+    contradicts = refines = resolved = 0
+    seen_pairs: set[tuple[str, frozenset]] = set()
     for src in known + [ov_stem]:
         for rtype, target in meta.get(src, {}).get("relations", []):
+            if rtype not in ("contradicts", "refines"):
+                continue
             tgt = to_stem(target)
             if src != ov_stem and tgt not in member_set:
                 continue          # 구성 논문끼리의 충돌만 (외부 엣지는 이 종합의 논쟁이 아님)
+            key = (rtype, frozenset((src, tgt)))
+            if key in seen_pairs:
+                continue          # A→B·B→A 는 같은 충돌 1건 (양쪽 페이지가 서로를 적었을 뿐)
+            seen_pairs.add(key)
+            if adjudicated(src, tgt, meta):
+                resolved += 1     # 판정 끝난 충돌 — 점수엔 빼되 로그엔 남긴다(뮤트 아닌 이동)
+                continue
             if rtype == "contradicts":
                 contradicts += 1
-            elif rtype == "refines":
+            else:
                 refines += 1
     contention_raw = contradicts * 2 + refines
 
@@ -434,7 +472,7 @@ def score_overview(ov_path: Path, ov_fm: dict, meta: dict,
     return {
         "stem": ov_stem, "title": ov_fm["title"], "score": round(score, 1),
         "components": comp, "churn": churn, "age_days": age_days,
-        "contradicts": contradicts, "refines": refines,
+        "contradicts": contradicts, "refines": refines, "resolved": resolved,
         "n_members": len(known), "n_missing": len(missing),
         "n_high": len(high), "n_decayed": len(decayed),
         "newest_year": newest, "retracted": retracted,
@@ -475,7 +513,7 @@ def render_log(rows: list[dict], git_ok: bool, top: int) -> str:
             age = f"{r['age_days']}일" if r["age_days"] is not None else "미상"
             L.append(
                 f"  ① churn {r['churn']}편 ({c['churn']:.2f}) · ② thesis {age} ({c['age']:.2f}) · "
-                f"③ 논쟁 c{r['contradicts']}/r{r['refines']} ({c['contention']:.2f}) · "
+                f"③ 논쟁 c{r['contradicts']}/r{r['refines']}" + (f" (+판정 {r['resolved']})" if r.get('resolved') else "") + f" ({c['contention']:.2f}) · "
                 f"④ decay {r['n_decayed']}/{r['n_high']} ({c['decay']:.2f}) · "
                 f"⑤ 최신 {r['newest_year'] or '?'} ({c['void']:.2f})"
             )

@@ -1,8 +1,8 @@
-# Daily Audit — 26 audits
+# Daily Audit — 28 audits
 
 > Split out of `CLAUDE.md` on 2026-07-17 to keep that file lean. `CLAUDE.md` keeps only the invariant (*signal, not gate*) and the entry-point command; the per-audit reference lives here. Open this file when adding/changing an audit or interpreting a log in `logs/`.
 
-A single entry-point runs all 26 audits and writes their logs to `logs/`:
+A single entry-point runs all 28 audits and writes their logs to `logs/`:
 
 ```bash
 python3 scripts/daily-audit.py
@@ -12,7 +12,7 @@ python3 scripts/daily-audit.py
 
 ---
 
-## The 26 audits — 4 hard guards + 1 rationale (errors block) + 21 signals
+## The 28 audits — 4 hard guards + 1 rationale (errors block) + 23 signals
 
 | Audit | Type | Purpose |
 |---|---|---|
@@ -36,12 +36,14 @@ python3 scripts/daily-audit.py
 | `find-contradiction-candidates.py` | signal | 본문에 명시적 충돌 표현(contradict/counterpoint/반박 등)이 있으나 **그 쌍이 아직 판단되지 않은** 논쟁 레이더 백필 후보. "판단됨"의 정의는 아래 *논쟁 레이더 — 억제 조건* 참조 (억제가 이 감사의 설계 전부다). Tier1(키워드에 가장 가까운 wikilink로 대상 지목)·Tier2(대상 불명/너무 멂/동일 줄 비최근접/soft). 기계가 충돌을 확정하지 않고 신호만 — LLM이 두 페이지 읽고 판단해 엣지를 단다. **type_hint를 그대로 엣지로 옮기지 말 것** — 2026-07-17 전수 검토에서 contradicts 계열 지목 122건 중 실제 contradicts는 1건이었다 |
 | `content-lint.py` | signal | frontmatter lint가 못 보는 **본문 내용 규칙**을 결정론으로 검사: (A) 이중언어 세줄요약 쌍 + overview 한국어 핵심요약 콜아웃, (B) heading 태그 일관성, (C) wiki↔source cross-tier 정합(`source:` 실존·pmid 일치), (D) 레거시 frontmatter 키 `confidence:`(2026-07-15에 `evidence_level:`로 개명) — 소비 측이 두 키를 다 읽어서 **다른 어느 감사에도 안 걸리는** 드리프트. 발견 시 `scripts/migrate-confidence-field.py --apply`로 일괄 수정 |
 | `retraction-audit.py` | signal | `retraction_status: RETRACTED` 페이지가 **인용 사고를 실제로 막는 구조**인지 검사. 핵심은 **경고가 섹션 제목 안에 있는가** — QMD는 청크로 검색하므로 페이지 상단 콜아웃은 `## Results` 청크에 따라오지 않는다(사람이 페이지를 열 때만 작동하는 경고는 답변 생성 경로를 못 막는다). 그 외: 필수 3섹션(Why This Page Exists / What We Can NOT Use / What It Does Tell Us), typed 엣지 **양방향 0**(철회 논문이 overview 합성에 살아있는 관계로 조립되면 안 됨). 역방향으로 필드 누락 의심도 검출. `grep retracted`는 교정과 'canine retraction'(견인)에 걸려 못 쓰므로 기계 판독 고리는 `retraction_status:` 필드뿐 |
-| `overview-volatility-audit.py` | signal | **채점 단위가 페이지가 아니라 overview**인 유일한 감사 — 논문이 뭐라고 했는지는 안 바뀌고, 바뀌는 건 그 논문들을 묶어 내린 결론이다. 새 신호를 수집하지 않고 기존 감사 신호를 종합 단위로 롤업해 "어느 결론이 먼저 뒤집힐까"로 정렬한다. 성분: ①마지막 thesis 편집 이후 유입 논문 수(신규 신호) ②thesis 노후 ③구성 논문 간 `contradicts`×2+`refines` ④고근거(sr+ma/sr/rct) 중 7년 경과+`superseded_by` 없는 비율 ⑤최신 논문 공백. 철회 논문 포함은 점수 성분이 아니라 **하드 플래그**(점수에 녹이면 묻힌다). 두 함정이 실측으로 확인돼 대응돼 있다 — (a) 구성 논문을 `source_papers` frontmatter로만 읽으면 안 된다(2026-08-02 실측 262편 중 90편만 보유, 나머지는 본문 wikilink뿐이라 ③④⑤가 통째로 죽었다), (b) 정비 커밋(overview 10편 이상 동시 수정)을 thesis 편집으로 세면 안 된다(229편 필드 마이그레이션 하나에 전편 나이가 15~19일로 붕괴했고 ①churn도 같이 오염됐다). ②의 정규화 상한은 리포 히스토리 창에 자동 연동 — 첫 커밋이 2026-05-18이라 고정 365일 상한에서는 성분이 죽는다. 가중치·티어 경계는 캘리브레이션 전 잠정값이므로 **절대점수가 아니라 티어와 성분 내역으로 읽을 것**. `interactives/volatility-index.html`은 `--html` 로만 생성 |
+| `overview-volatility-audit.py` | signal | **채점 단위가 페이지가 아니라 overview**인 유일한 감사 — 논문이 뭐라고 했는지는 안 바뀌고, 바뀌는 건 그 논문들을 묶어 내린 결론이다. 새 신호를 수집하지 않고 기존 감사 신호를 종합 단위로 롤업해 "어느 결론이 먼저 뒤집힐까"로 정렬한다. 성분: ①마지막 thesis 편집 이후 유입 논문 수(신규 신호) ②thesis 노후 ③구성 논문 간 `contradicts`×2+`refines` ④고근거(sr+ma/sr/rct) 중 7년 경과+`superseded_by` 없는 비율 ⑤최신 논문 공백. 철회 논문 포함은 점수 성분이 아니라 **하드 플래그**(점수에 녹이면 묻힌다). 두 함정이 실측으로 확인돼 대응돼 있다 — (a) 구성 논문을 `source_papers` frontmatter로만 읽으면 안 된다(2026-08-02 실측 262편 중 90편만 보유, 나머지는 본문 wikilink뿐이라 ③④⑤가 통째로 죽었다), (b) 정비 커밋(overview 10편 이상 동시 수정)을 thesis 편집으로 세면 안 된다(229편 필드 마이그레이션 하나에 전편 나이가 15~19일로 붕괴했고 ①churn도 같이 오염됐다). ②의 정규화 상한은 리포 히스토리 창에 자동 연동 — 첫 커밋이 2026-05-18이라 고정 365일 상한에서는 성분이 죽는다. 가중치·티어 경계는 캘리브레이션 전 잠정값이므로 **절대점수가 아니라 티어와 성분 내역으로 읽을 것**. (c) ③ 논쟁은 **판정 끝난 충돌을 세지 않는다**(2026-11-21) — 적색 4편 전부 ③이 1.00 포화였고, immediate-implant 허브의 contradicts 8건 중 4건이 full 대체된 Mello 2017에 걸려 있어 본문이 "해소됨"이라 적어도 점수는 내려갈 수 없었다. 제외 조건은 한쪽이 `full` 대체됐거나 그 쌍 자체가 대체 판정(A `superseded_by` B)을 받은 경우뿐이고, *제3의* 논문에 `partial` 대체된 쪽의 충돌은 계속 센다(partial은 축별이라 합성되지 않는다). 같은 쌍의 양방향 엣지(A→B·B→A)는 1건으로 센다. 제외분은 로그에 `(+판정 N)`으로 남긴다 — 뮤트가 아니라 이동. 적용 결과 적색 4→0·주황 22→17, 제외 14쌍 표본 전수 대조로 규칙 일치 확인. `interactives/volatility-index.html`은 `--html` 로만 생성 |
 | `deploy-health.py` | signal | **유일하게 리포 바깥(GitHub Actions)을 보는 감사.** 최신 Pages 배포의 conclusion과 **연속 실패 횟수·경과 시간**을 로컬 감사 출력에 끌어온다. 2026-08-25 사고가 존재 이유다 — overview 하나의 `date:` 키 중복으로 배포가 **29시간 넘게** 죽어 있었는데 로컬 감사 21개도 CI Wiki Lint도 전부 초록불이었고, 발견 경로는 사람이 우연히 사이트를 열어본 것뿐이었다. `.github/workflows/deploy-pages.yml`의 `notify-failure` 잡과 **두 겹**을 이룬다: 그쪽은 실패 시 리포에 이슈를 남겨 **사라지지 않게** 하고(단, 누가 GitHub을 봐야 보인다), 이쪽은 매일 도는 감사 출력에 실어 **찾아오지 않아도 보이게** 한다. `gh` CLI가 없거나 미인증·오프라인이면 조용히 SKIP하고 exit 0 — 감사는 거울이지 gate가 아니다. `from __future__ import annotations`로 구 python3(3.9)에서도 돈다 (PEP604 함정 회피) |
 | `retrieval-health.py` | signal | **다른 22개 감사가 전부 못 보는 축 — 검색층.** 나머지는 전부 *"파일이 옳은가"*를 보지만 **답변 경로는 파일이 아니라 인덱스를 지난다.** 페이지를 고쳐도 색인이 옛것을 들고 있으면 검색은 고치기 전 내용을 계속 내놓는다 — 페이지는 맞는데 답이 틀리는, 어느 감사에도 안 걸리는 실패다. 2026-07-17에 철회 논문 페이지를 고쳐놓고 재색인을 빠뜨려 **10시간 동안 철회 경고 없는 옛 청크가 검색**됐고, 인덱스 대상을 고친 55일 중 23일(42%)이 이 창에 노출됐다. `deploy-health`가 배포에 대해 한 일(리포 바깥 상태를 매일 도는 출력에 끌어와 *찾아가지 않아도 보이게*)을 검색에 대해 한다. 6가지를 본다 — ①컬렉션 설정·경로 실존(컬렉션이 설정에서 조용히 빠지면 그 티어가 통째로 검색에서 사라진다) ②인덱스보다 새 `.md` 수 ③디스크 vs 인덱스 **문서 수**(mtime이 신선해도 문서가 누락/잔존일 수 있다) ④임베딩 `Pending` ⑤고아 벡터 ⑥주간 `qmd-cleanup` 잡의 마지막 완주. **신선도는 `index.sqlite` 하나만 보면 안 된다** — QMD는 WAL 모드로 써서 쓰기가 `-wal`에 들어가고 본 파일 mtime은 체크포인트 때만 움직인다. 실측 2026-09-03: 재색인 **직후**에도 본 파일 00:07 / `-wal` 09:25라 본 파일만 보는 초안이 "재색인 필요"를 띄웠다 — 정상인 날마다 우는 경고는 곧 무시되므로 없느니만 못하다. `Pending:`·`Orphaned:` 줄은 **값이 0이면 qmd가 줄 자체를 안 찍으므로**, 앵커(`QMD Status`)로 *출력 형식이 맞는지* 먼저 확인한 뒤에만 부재를 0으로 읽는다 (앵커 없이 0으로 읽으면 형식이 바뀐 날 조용히 초록불, unknown으로 읽으면 정상인 날마다 거짓 경고). 고아 벡터는 그 자체보다 **치우는 잡이 살아있는가**가 신호라, 클린업이 정상이면 INFO로만 낸다. qmd 미설치·데몬 사망·설정 부재면 조용히 SKIP + exit 0 |
 | `self-claim-lint.py` | signal | overview가 **자기 자신에 대해** 적은 수치("Synthesis of N papers")를 `source_papers`·본문 위키링크와 대조. 287편 중 **177편이 자기 수치를 적고 있고**, 인제스트는 위키링크만 밀어넣고 **문장의 숫자는 아무도 고치지 않는다** — 실측 2026-09-03 WARN 23편, 방향은 대부분 주장<실제(`keratinized-mucosa` 주장 10/실제 24 — 원래 10편 페이지에 wound-healing 축이 붙어 24편이 됐는데 첫 문장만 10에 멈춤). `lint`(frontmatter)·`content-lint`(섹션 존재)·`overview-coverage-lint`(인용률) 어디에도 안 걸리는데, **독자가 가장 먼저 신뢰하는 문장**이다. **억제가 설계의 전부** — 본문의 "N papers/studies" 2,735건은 대부분 문헌 서술이라 세 겹으로 좁힌다: ①**위치** — `## Three-line Summary` 안에서만(정의상 페이지 자신에 대한 서술). ②**괄호 제거** — 자기서술은 자기 구성을 괄호로 밝히므로(`Synthesis of six papers (1 systematic synthesis of 92 studies, …)`) 괄호를 안 지우면 **안쪽 92를 페이지의 주장으로 읽는다**(실제로 최대 이상치가 이 오탐이었다). ③**어휘가 아니라 문형** — 초안의 "숫자 근처 SR/RCT면 문헌" 가드는 **거꾸로였다**: 자기서술이 자기 구성을 SR·RCT로 밝히는 게 더 흔하다. 기준은 2개(`source_papers`·링크논문)이고 **둘 다와 어긋날 때만 WARN** — 구성 논문을 `source_papers`로만 읽으면 안 된다는 volatility-audit의 2026-08-02 실측(262편 중 90편만 보유) 때문이다. 두 기준끼리 어긋나는 것은 `source_papers` 노후 신호라 INFO로 따로 낸다. **한국어 `N편 종합`은 주장 추출에 쓰지 않는다** — 문형이 자유로워 "SR/MA 3편 종합"(구성이 SR 3편)·"논문 8편 + …"(합산)·문헌 인용이 섞이고, 폴백을 넣으면 WARN이 23→39로 늘지만 늘어난 16건이 전부 검증 불가라 상위 목록이 오탐으로 찬다. KO는 **EN↔KO 대조**(같은 페이지가 두 언어로 다른 수를 말하는 경우, 실측 1편)에만 쓴다. `--fix` 없음 — 기계가 숫자만 고치면 괄호의 구성 내역과 어긋난다 |
 | `golden-question-check.py` | signal | **다른 25개 감사가 못 보는 축 — 답변이 찾아지는가.** 나머지는 전부 페이지가 *옳은가*를 묻고, `retrieval-health`조차 인덱스가 *신선한가*까지만 본다. "임상 질문 → 엉뚱한 페이지"는 전 감사 초록불로 통과한다. 고정 문항 30개를 검색에 태워 **기대 페이지가 상위 K에 잡히는지만** 본다 — 답의 내용은 판정하지 않고 LLM·웹을 안 쓰므로 Rule #1과 무관하다. **lex 기본·vec은 수동**: 실측 `qmd search` 0.24초 vs `qmd vsearch` **19.6초**(호출마다 임베딩 모델 콜드스타트) — 30문항이면 5초 vs 10분이라 일일 감사에 벡터를 넣으면 감사 전체가 벡터 대기가 된다. 문항마다 `lex`(키워드형)·`q`(자연어형)를 함께 갖는 이유는 **두 축의 질의 형태가 다르기 때문**이다: 실측상 한국어 *전체 문장*을 BM25에 넣으면 `No results found`이고(조사·의문형이 토큰을 죽인다) 같은 뜻의 키워드는 잘 잡힌다 — 영어 본문 + 한국어 세줄요약이라는 이 리포의 구조 탓이다. **qmd BM25는 AND 의미론**이라 단어를 더할수록 결과가 줄고 5단어면 0건이 되기 쉽다(`TMD 관리 근거` 5건 → `TMD 관리 근거 교합안정장치 운동요법` 0건) — lex는 2~4개 변별어로 쓴다. 도입 시점 실측 **24/30(80%)**, 실패 6건은 **전부 같은 패턴 — 구성 논문이 overview보다 상위**다. 종합 페이지를 지식의 핵심으로 삼는 위키에서 키워드 검색이 원료 논문을 먼저 내놓는다는 뜻으로, 이 감사가 드러내려던 신호 그 자체다. 그 6건은 fixture의 `known_miss`에 사유와 함께 등재해 **REGRESSION과 분리 집계**한다 — 늘 빨간 감사는 곧 안 읽히고(decay 308건이 그렇게 죽었다), 다만 억제는 **뮤트가 아니라 이동**이라 계속 세어 출력한다. **문항을 통과시키려고 고치지 말 것** — 통과하도록 다듬은 문항은 아무것도 측정하지 않는다. 도구 오용(5단어 AND)의 교정만 허용된다 |
-| `deviation-audit.py` | signal | `logs/ingest-deviations.md` 집계 — SOP 개정 후보 출력 (Rule-of-Three trigger). **억제가 이 감사의 설계 절반이다** — 원판은 누적 ≥3 기준이었고, 로그가 334건까지 자라자 **20종 중 16종이 후보**로 찍혀 신호가 죽었다 (2026-08-25 실측). 논쟁 레이더와 같은 교훈: *억제되지 않는 신호는 끌 수 없고, 끌 수 없는 신호는 노이즈가 된다.* 억제 3겹 — **①판단 기록형 6종 제외**(`relation`/`category`/`confidence`/`supersession`/`evidence-level`/`reporting-judgment`): SOP 위반이 아니라 **SOP가 시킨 대로 판단을 남긴 것**이라 개정 후보로 띄우는 게 범주 오류다(실측 100건, 전체의 30%). **②자기소멸형 제외**(`batch-relation-pending`): "배치라 relations를 나중에 달겠다"는 예고이고 2026-08-25 전수 확인에서 17건 **전부** relations 8~26개로 해소돼 있었는데 로그가 append-only라 영구히 카운트됐다. **③임계값을 누적수가 아닌 최근 30일 창으로**(`--window`로 조정): 누적수는 위키가 사는 한 단조증가라 임계값이 의미를 잃는다 — 판단 기준은 "지금 반복되고 있는가"다. 억제는 **뮤트가 아니라 이동**이다 — 제외된 유형도 하단 참고 블록에 누적/최근 수와 함께 계속 출력한다(supersession-audit의 `chain intentional`과 같은 처리). `EXTERNAL_CONSTRAINT_TYPES`(abstract-only·empty/partial-pmc-text·no-doi·date-fallback)는 후보에서 빼지 않되 근본원인이 페이월·PMC 추출이라 SOP 개정 폭이 좁다고 태그만 단다. 적용 후 후보 16종 → 5종(그중 실제 공정결함 3종) |
+| `deviation-audit.py` | signal | `logs/ingest-deviations.md` 집계 — SOP 개정 후보 출력 (Rule-of-Three trigger).
+| `parse-gap-flag-audit.py` | signal | **Gemini 프레임워크 항목 2 커버.** `sources/*.md` 에서 `[원문 표 대조 필요]` 플래그를 추적한다. 플래그가 `--days`(기본 30일) 이상 미해결이면 WARN — 수동 PDF 대조 없이 LLM 추론 수치가 오랫동안 남아 있는 상태다. `source_collection: pubmed-abstract` 고근거 소스(sr+ma/sr/rct/prospective/retrospective)는 별도 INFO 버킷: 전문이 없어 PDF 검증 자체가 구조적으로 불가능하므로 WARN 으로 올리지 않고 개수만 추적한다. `logs/parse-gap-flag-audit.md` 에 기록. |
+| `source-provenance-lint.py` | signal | **Gemini 프레임워크 항목 3+5 커버.** `sources/*.md` 에서 (A) `## Limitations` 섹션 존재 여부와 (B) `(Results §...)` / `[Table X]` 형태 출처 주석 존재 여부를 검사. 2026-05-27 이후 인제스트만 (`--since` 조정 가능 — 소급하면 300건+ 경고). A: 고근거(sr+ma/sr/rct/prospective/retrospective)에서 없으면 WARN, 나머지는 INFO. B: 임상 테이블 없는 유형(case-report/in-vitro/animal/narrative-review 등)은 INFO, 나머지는 WARN. `logs/source-provenance-lint.md` 에 기록. | **억제가 이 감사의 설계 절반이다** — 원판은 누적 ≥3 기준이었고, 로그가 334건까지 자라자 **20종 중 16종이 후보**로 찍혀 신호가 죽었다 (2026-08-25 실측). 논쟁 레이더와 같은 교훈: *억제되지 않는 신호는 끌 수 없고, 끌 수 없는 신호는 노이즈가 된다.* 억제 3겹 — **①판단 기록형 6종 제외**(`relation`/`category`/`confidence`/`supersession`/`evidence-level`/`reporting-judgment`): SOP 위반이 아니라 **SOP가 시킨 대로 판단을 남긴 것**이라 개정 후보로 띄우는 게 범주 오류다(실측 100건, 전체의 30%). **②자기소멸형 제외**(`batch-relation-pending`): "배치라 relations를 나중에 달겠다"는 예고이고 2026-08-25 전수 확인에서 17건 **전부** relations 8~26개로 해소돼 있었는데 로그가 append-only라 영구히 카운트됐다. **③임계값을 누적수가 아닌 최근 30일 창으로**(`--window`로 조정): 누적수는 위키가 사는 한 단조증가라 임계값이 의미를 잃는다 — 판단 기준은 "지금 반복되고 있는가"다. 억제는 **뮤트가 아니라 이동**이다 — 제외된 유형도 하단 참고 블록에 누적/최근 수와 함께 계속 출력한다(supersession-audit의 `chain intentional`과 같은 처리). `EXTERNAL_CONSTRAINT_TYPES`(abstract-only·empty/partial-pmc-text·no-doi·date-fallback)는 후보에서 빼지 않되 근본원인이 페이월·PMC 추출이라 SOP 개정 폭이 좁다고 태그만 단다. 적용 후 후보 16종 → 5종(그중 실제 공정결함 3종) |
 
 **Signals never block.** They're a mirror — the principle is that ingest pressure self-corrects via visibility, not via gates (which trigger burnout/avoidance in clinical workflows). This is a load-bearing design choice, not laziness; see *Design Principles* in `CLAUDE.md`.
 
@@ -87,3 +89,35 @@ Run daily (manual or cron). Watch these over time:
 Audits only compound if someone reads them; leaving that to memory is the weak link. The intended terminal is a one-line badge in the morning-briefing pipeline (STALE overview N건, category-overflow N건, BROKEN link N건) so the day's top signals surface without opening `logs/`. Design: `agenda/2026-07-15_audit-to-briefing-bridge.md`.
 
 Design rationale (audit set): see `agenda/2026-05-26_synthesis-enforcement-setup.md`.
+
+---
+
+## 커버리지 갭 — Gemini 프레임워크 대조 (2026-11-15)
+
+Gemini의 9항목 프레임워크와 현재 26개 감사를 대조한 갭 분석. 근거: `agenda/2026-11-15_audit-coverage-gap-gemini-framework.md`.
+
+### 커버됨 (5/9)
+
+| 항목 | 담당 감사 |
+|---|---|
+| 4. 연구 설계 메타데이터 분리 | `lint.py` — evidence_level vocab 전수 검증 |
+| 6a. 고아 노트 5% 미만 | `orphan-check.py` + `synthesis-backlog.py` |
+| 6b. 깨진 링크 0건 | `link-integrity.py` |
+| 7a. 중복 인제스트 차단 | `doi-duplicate-check.py` |
+| 9. 코퍼스 외 지식 혼입 차단 | `golden-question-check.py` + `[확인]/[미검증]` 출력 태그 |
+
+### 갭 — 현재 감사에 없음 (4/9)
+
+**자동화 불가 — 수동 하이브리드만 가능:**
+
+- **항목 1. 수치 원문 일치율 100%**: 주요 수치($n$, $p$-value, CI)를 원문 PDF와 대조. LLM이 수치를 오독하거나 군(Group)을 뒤섞는 오류는 deterministic 감사로 잡을 수 없다. 권장 절차: 주간 신규 인제스트 10%를 무작위 추출해 `papers/{stem}.pdf` Results 섹션과 수동 대조. 위반 발견 시 `logs/ingest-deviations.md`에 `data-integrity` 유형으로 기록 → `deviation-audit.py`가 Rule-of-Three trigger.
+
+**신규 감사 스크립트로 커버 가능:**
+
+- **항목 2. 파싱 결측 플래그**: `sources/*.md`에 `[원문 표 대조 필요]` 태그가 적절히 쓰이고 있는지 — 최근 30일 인제스트 중 태그 없는 파일 비율. 다단 레이아웃 논문(`pmc-empty-fulltext`계열)에서 태그 의무화 여부 확인. → 제안 스크립트: `parse-gap-flag-audit.py`
+- **항목 3 + 5. 출처 위치 Provenance + 한계점 보존**: `sources/*.md`에 `## Limitations` 섹션이 존재하는가 (항목 5). 주요 결론에 `(Results Table X)` 형태의 출처 주석이 붙어 있는가 (항목 3). → 제안 스크립트: `source-provenance-lint.py`
+
+**부분 커버 — 제시 방식 미검증:**
+
+- **항목 7b. 용어 파편화**: `doi-duplicate-check.py`는 같은 논문의 중복 stem을 잡지만, `BIC` vs `Bone-to-Implant Contact` vs `BIC率`처럼 태그·카테고리가 약어/풀네임/한국어로 파편화되는 경우는 미검사. 작은 코퍼스에서는 수동 태그 감사가 현실적.
+- **항목 8. 상충 근거 병렬 제시 방식**: `find-contradiction-candidates.py`는 갭(엣지 없는 충돌 쌍)을 탐지하지만, 이미 `relations:` 엣지가 달린 쌍의 **답변 내 병렬 제시 방식**은 감사 범위 밖. `golden-question-check.py`의 문항 중 "상충 근거가 있는 주제" 타입을 추가해 답변 품질을 간접 모니터링하는 방향이 현실적.

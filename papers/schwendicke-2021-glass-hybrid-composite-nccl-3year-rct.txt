@@ -1,0 +1,55 @@
+1. J Dent. 2021 Jul;110:103689. doi: 10.1016/j.jdent.2021.103689. Epub 2021 May
+9.
+
+Glass hybrid versus composite for non-carious cervical lesions: Survival, 
+restoration quality and costs in randomized controlled trial after 3 years.
+
+Schwendicke F(1), Müller A(2), Seifert T(3), Jeggle-Engbert LM(4), Paris S(5), 
+Göstemeyer G(5).
+
+Author information:
+(1)Department of Oral Diagnostics, Digital Health, Health Services Research, 
+Charité - Universitätsmedizin Berlin, Germany. Electronic address: 
+falk.schwendicke@charite.de.
+(2)Department of Oral Diagnostics, Digital Health, Health Services Research, 
+Charité - Universitätsmedizin Berlin, Germany.
+(3)Department of Periodontology, Oral Medicine and Oral Surgery, Charité - 
+Universitätsmedizin Berlin, Germany.
+(4)Department of Cranio-Maxillofacial Surgery, University Hospital Münster, 
+Germany.
+(5)Department of Operative and Preventive Dentistry, Charité - 
+Universitätsmedizin Berlin, Germany.
+
+OBJECTIVE: This study compared survival, restoration quality and costs of glass 
+hybrid (GH; EQUIA Forte Fil/EQUIA Forte Coat) and resin composite restorations 
+(RC; OptiBond FL/Filtek Supreme XTE) of sclerotic non-carious cervical lesions.
+METHODS: This is a cluster-randomized trial (ClinicalTrials.gov: NCT02631161). 
+88 patients (50-70 years) with 175 sNCCLs were randomized to receive GH or RC. 
+Restorations were placed without mechanical cavity preparation and followed for 
+a mean 36 (min/max: 31/55) months (variable follow-up due to COVID-19 lockdown). 
+Restoration quality was re-evaluated at 1-, 18- and 36-months using 
+FDI-criteria. Survival was assessed using multi-level Cox-regression analysis. 
+Costs were estimated from a payer's perspective in Germany. Initial costs were 
+determined based on micro-costing using time recordings and hourly costs, and 
+follow-up costs based on statutory insurance fee-item-catalogues.
+RESULTS: 88 patients (175 restorations) were treated; 43 received GH (83 
+restorations), 45 RC (92 restorations). 17  GH and 19 RC showed total retention 
+loss, 5  GH were partially lost (p = 0.396/Cox). FDI ratings were not 
+sufficiently different for any domain except surface luster, where RC showed 
+higher score (p < 0.001). Costs were initially lower for GH (32.57; SD 16.36 €) 
+than RC (44.25; SD 21.40 €), while re-treatment costs were similar (GH: 9.15; SD 
+15.70 €; RC: 7.35; SD 14.51 €), resulting in significantly lower costs for GH 
+(GH: 41.72; SD 25.08 €) than RC (51.60; 26.17 €) (p < 0.001/GLM).
+CONCLUSIONS: While survival was not significantly different, GH was 
+significantly less costly both initially and long-term than RC for restoring 
+non-carious cervical lesions.
+CLINICAL SIGNIFICANCE: Within this trial, survival was not significantly 
+different between GH and RC to restore sclerotic NCCLs. As GH was significantly 
+less costly both initially and long-term than RC, using RC was only 
+cost-effective for payers willing to invest high additional expenses per minimal 
+survival gains.
+
+Copyright © 2021 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.jdent.2021.103689
+PMID: 33979577 [Indexed for MEDLINE]

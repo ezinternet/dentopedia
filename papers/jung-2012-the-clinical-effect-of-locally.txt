@@ -1,0 +1,18 @@
+TITLE: The clinical effect of locally delivered minocycline in association with flap surgery for the treatment of chronic severe periodontitis: a split-mouth design.
+AUTHORS: Jung Dong-Yeol, Park Jung-Chul, Kim Young-Taek, Yon Je-Young, Im Gun-Il, Kim Byung-Soo, Choi Seong-Ho, Cho Kyoo-Sung, Kim Chang-Sung
+JOURNAL: Journal of Clinical Periodontology 2012 Aug;39(8):753-9
+ID[pmid]: 22691058
+ID[doi]: 10.1111/j.1600-051X.2012.01908.x
+NOTE: abstract-only text artifact built from PubMed metadata (no PMC full text available)
+
+## ABSTRACT
+OBJECTIVE: The purpose of this study was to determine the effectiveness of adjunctive application of locally delivered minocycline ointment associated with flap surgery for the treatment of patients with chronic severe periodontitis.
+
+MATERIAL AND METHODS: Twenty patients with chronic severe periodontitis were treated in a split-mouth study to either adjunctive application of locally delivered minocycline ointment in association with flap surgery (FM) or flap surgery only (FO); additional minocycline application was performed at 3 months post operation. Clinical evaluation of the plaque index, probing depth (PD), bleeding on probing (BOP), gingival recession, and clinical attachment level (CAL) was conducted at baseline and at 3 and 6 months after treatment.
+
+RESULTS: Clinical evaluations revealed that although both sites exhibited clinical improvement, there was a statistically significant reduction in PD (3.34 ± 0.03 mm) and BOP (78.01 ± 11.42%), and a significant gain of CAL (1.88 ± 0.21 mm) at the FM site compared with the FO site (reduction of PD and BOP: 2.62 ± 0.06 mm, 50.33 ± 15.01%, and gain of CAL: 1.55 ± 0.13 mm) at 6 months post operation (p < 0.05).
+
+CONCLUSION: Adjunctive application of locally delivered minocycline may be beneficial to the surgical treatment protocol of chronic severe periodontitis.
+
+MESH: Administration, Topical; Adult; Aged; Anti-Bacterial Agents; Chronic Periodontitis; Combined Modality Therapy; Dental Plaque Index; Female; Follow-Up Studies; Gingival Hemorrhage; Gingival Recession; Humans; Male; Middle Aged; Minocycline; Ointments; Periodontal Attachment Loss; Periodontal Index; Periodontal Pocket; Surgical Flaps; Treatment Outcome
+PUBTYPE: Comparative Study; Journal Article; Randomized Controlled Trial; Research Support, Non-U.S. Gov't

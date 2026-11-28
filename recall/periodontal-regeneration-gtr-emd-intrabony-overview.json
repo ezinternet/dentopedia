@@ -1,0 +1,49 @@
+{
+  "overview": "periodontal-regeneration-gtr-emd-intrabony-overview",
+  "date": "2026-11-22",
+  "title": "치주 재생 (GTR·EMD) 골내결손 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/periodontal-regeneration-gtr-emd-intrabony-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "골내결손에서 법랑기질유도체 (EMD)에 골이식을 추가했을 때 보유 근거가 보여주는 것은?",
+      "opts": [
+        "CAL이 약 1 mm 추가로 개선되어 병용이 표준이다",
+        "CAL 이득은 없거나 미미하고(Hasuike +0.05 mm 비유의, Miron +0.33 mm·확실성 매우 낮음) 방사선 결손 충만만 확실히 증가한다(+0.80 mm)",
+        "골이식을 추가하면 결과가 오히려 나빠진다",
+        "근거가 전혀 없어 판단할 수 없다"
+      ],
+      "ans": 1,
+      "rat": "Hasuike 2024 SR+MA(12개 연구, 12개월): EMD+골이식 vs EMD 단독 CAL +0.05 mm, PD +0.27 mm 모두 비유의, 방사선 충만 +0.80 mm 유의. Miron 2026 전문도 CAL +0.33 mm(95% CI 0.02–0.64)로 미미, 출판 편향 강하게 의심·GRADE 매우 낮음(초록의 '이종골 +0.79 mm'는 본문 결과에 없음). Stavropoulos 2021 NMA의 '병용 > 단독'은 EMD 축에서 좁혀진다.",
+      "cite": "overviews/periodontal-regeneration-gtr-emd-intrabony-overview"
+    },
+    {
+      "id": "q2",
+      "q": "5년 이상 장기 추적에서 조직유도재생술 (GTR)과 개방 판막 소파술 (OFD)을 비교한 보유 근거(Wang 2025)의 결론은?",
+      "opts": [
+        "GTR이 OFD보다 CAL 1.52 mm 우세 경향이나 통계적으로 유의하지 않고(p=0.06) 확실성이 낮다 — 기저 대비 이득은 유지된다",
+        "GTR이 OFD보다 확실히 우월함이 높은 확실성으로 입증되었다",
+        "5년 후 GTR 부위는 기저 수준으로 되돌아간다",
+        "OFD가 GTR보다 우월하다"
+      ],
+      "ans": 0,
+      "rat": "Wang 2025(RCT 17편, 501 결손, 5–20년): GTR 기저 대비 CAL +3.27 mm·PD −4.04 mm 유지, OFD 대비 CAL 1.52 mm(p=0.06)·PD 0.89 mm(p=0.115) 비유의, CAL·PD 확실성 낮음. OFD도 기저 대비 CAL 2.49 mm를 얻는다. 전문 확인 결과 CI는 −0.06~3.10으로 0을 포함하며, 초록이 부호를 빠뜨렸던 것이다.",
+      "cite": "overviews/periodontal-regeneration-gtr-emd-intrabony-overview"
+    },
+    {
+      "id": "q3",
+      "q": "골내결손 재생에서 EMD 대신 쓸 생물학제제 선택에 관한 보유 근거로 옳은 것은?",
+      "opts": [
+        "PRF는 EMD보다 CAL이 2 mm 이상 우월하다",
+        "히알루론산 (HA)은 EMD보다 열등함이 입증되었다",
+        "PRF는 EMD와 임상적으로 동등하고(Miron 2024, 55 RCT), HA는 CAL에서 비열등(WMD 0.51 mm, 3 RCT)이라 선택 기준은 비용·취급성이다",
+        "생물학제제 간 비교 근거는 보유하지 않는다"
+      ],
+      "ans": 2,
+      "rat": "Miron 2024 SR+MA: PRF는 EMD·PRP·골이식·차폐막과 임상적으로 동등. Mahintach 2026: HA vs EMD CAL 비열등(WMD 0.51, CI −0.08~1.11), PPD 비열등은 미확립(I² 72.5%). Estrin 2026: 비외과 보조에서도 PRF=EMD(15명 분할구강).",
+      "cite": "overviews/periodontal-regeneration-gtr-emd-intrabony-overview"
+    }
+  ]
+}

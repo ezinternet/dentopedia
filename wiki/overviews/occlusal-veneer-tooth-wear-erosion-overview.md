@@ -28,6 +28,7 @@ tags: [occlusal-veneer, table-top, tooth-wear, dental-erosion, minimally-invasiv
 > - 실패는 경미·수리가능: 대부분 chipping(schlichting 5건 전부 부분 chipping·수복가능, ferrando-cascales 21건 중 18건 직접 수리) → additive 접착 철학의 가역성이 강점.
 > - 위치 위험인자: **후방/교합면 위치가 유일한 유의 실패예측인자**(ferrando-cascales HR 0.143, p=0.008; 교합면 79.1% vs 구개 100%·순면 94.1%).
 > - 탈착·재사용: Er,Cr:YSGG 레이저 탈착 시간은 재료 무관(~87초, p=0.995)이나 **e.max·지르코니아는 무손상, 고결정 LiSi(GC Initial)는 60% 손상** → LiSi 레이저 재활용 고위험(el-sheikh).
+> - 맥락 보강(2024 상위 근거): FDI 치아마모 정책성명(FDI 2024)은 원인(산 노출·칫솔질·부정교합/이갈이·타액 저하·위식도역류·폭식증)을 먼저 확인·조절한 뒤 수복하는 순서를 권고하고(전체 권고 목록은 확보 전문에 없음), 마모 치열의 최소침습 직접 vs 간접 수복 SR+MA(Chantler 2024, 14편)는 직접·간접 수기성형 복합레진의 생존에 유의차 없음(OR 1.79, 95% CI 0.64–5.05, p=0.270)이며 리튬디실리케이트의 실패가 가장 적음(1.8%)을 보고 — 초록 수준 자료이며 교합면 비니어 전용 결과는 아님.
 > - 근거 한계: RCT·case series 소표본(n=11·n=8), SR 6편 전부 high/medium 편향 — 결론은 방향성 신호이지 강한 확정 아님.
 
 ## Three-line Summary
@@ -88,6 +89,7 @@ Four clinical questions organize the evidence. **(1) Are ultrathin occlusal vene
 - **최소두께 합의 부재**: 0.5mm(essam·al-akhali) vs 0.7/1.0mm(sasse) — 기질·재료·이악물기 층화된 임상 RCT 필요.
 - **피로 vs 정적파절 vs 표면내구성 순위 상충**: maldonado(복합레진 피로 우위) vs al-akhali(세라믹 정적 우위) vs schlichting(복합레진 표면 열화). 어느 실패양식이 임상 지배인지 미해결.
 - **근거 강도**: 임상 근거가 소표본 RCT(n=11)·case series(n=8)에 국한, SR 6편 전부 high/medium 편향 — long-term 대규모 비교시험 부재.
+- **상위 맥락 근거(비-비니어 전용)**: Chantler 2024(SR+MA 14편, 초록 수준)는 마모 치열 전반의 직접 vs 간접 수복 생존이 유의하게 다르지 않고(OR 1.79, 0.64–5.05, p=0.270) 리튬디실리케이트의 실패가 가장 적다(1.8%)고 보고하며, 저자는 장기엔 간접 세라믹·중기엔 직접 복합레진을 제안한다. 이는 이 문서의 '생존율은 세라믹≈복합레진' 결론과 방향이 같으나 교합면 비니어에 한정된 결과가 아니고, 아래 임상 2편보다 설계가 이질적이다. 또 FDI 2024 정책성명은 수복 전에 원인 행동·전신 요인 교정을 선행하라고 하므로, 이 문서의 수복 선택은 원인 조절이 전제된 단계로 읽어야 한다.
 - **LiSi 이상치**: 고결정 LiSi의 레이저 취약성(el-sheikh)이 다른 재료비교에서 다뤄지지 않음.
 
 ## Related Papers
@@ -105,9 +107,13 @@ Four clinical questions organize the evidence. **(1) Are ultrathin occlusal vene
 - [[veneers/schlichting-2022-ultrathin-cadcam-occlusal-veneers-dental-erosion]] — RCT, severe erosion; ceramic 100% vs composite 84.7% (NS); IDS protocol
 - [[veneers/ferrando-cascales-2023-total-rehabilitation-adhesive-restorations-severe]] — 5-year full-mouth wear rehab; 90.1% survival; posterior location the risk flag
 
+**Context — wear-restoration SR and policy**
+- [[prosthetic-materials/chantler-2024-rehabilitation-worn-dentition-direct-indirect]] — SR+MA (14 publications, abstract-level): direct vs indirect composite survival NS (OR 1.79, p=0.270); lithium disilicate fewest failures (1.8%); not occlusal-veneer-specific
+- [[dental-erosion/fdi-2024-tooth-wear-policy-statement]] — FDI policy statement: control aetiology first (acid, brushing, parafunction, low saliva, GERD, bulimia), restore afterwards; formal recommendation grades not in the retrieved text
+
 **Related overviews**
 - [[overviews/veneer-material-survival-protocol-overview]] — anterior laminate material/survival (complementary; different indication)
 - [[overviews/veneer-preparation-design-minimally-invasive-overview]] — anterior laminate preparation philosophy
 - [[overviews/immediate-dentin-sealing-evidence-synthesis]] — IDS, the tooth-side bonding step for occlusal veneers
 
-<!-- thesis-reviewed: 2026-10-30 -->
+<!-- thesis-reviewed: 2026-11-11 -->

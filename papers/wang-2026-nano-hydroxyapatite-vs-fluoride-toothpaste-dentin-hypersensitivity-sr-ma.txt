@@ -1,0 +1,210 @@
+TITLE: Efficacy comparison of nano-hydroxyapatite and fluoride for dentin hypersensitivity: a systematic review and meta-analysis
+AUTHORS: Wang Yuntong, Shen Yuyao, Tan Yiqing, Zhao Qin, Hei Dandan, Pan Xiaojing, Wang Min
+JOURNAL: BMC Oral Health
+ID[pmcid]: PMC13776483
+ID[pmcid-ver]: PMC13776483.1
+ID[pmcaid]: 13776483
+ID[pmcaiid]: 13776483
+ID[pmid]: 43040458
+ID[doi]: 10.1186/s12903-026-09293-4
+ID[publisher-id]: 9293
+
+## ABSTRACT
+BackgroundDentin hypersensitivity (DH) is a common clinical oral disease. Nano-hydroxyapatite (n-HAP) toothpaste and fluoride toothpaste are widely used treatment options; however, their comparative efficacy is still unclear. This study aimed to systematically evaluate the clinical efficacy of n-HAP toothpaste and fluoride toothpaste in the treatment of DH.
+MethodsThis systematic review was prospectively registered on PROSPERO (CRD420251272119) and conducted following the PRISMA 2020 guidelines. Seven databases (PubMed, Embase, Web of Science, Cochrane Library, CNKI, Wanfang Data and SinoMed) were comprehensively retrieved from the establishment of the library to December 2025.Two independent reviewers performed study selection, data extraction, and quality assessment. Risk of bias was evaluated using the Cochrane Risk of Bias (RoB 1) tool. The certainty of evidence for each major outcome was evaluated using the GRADE approach. Statistical analyses were conducted using RevMan 5.4, Stata 17.0, and R 4.2.1 software, with the standardized mean difference (SMD) employed as the effect size measure.
+ResultsThis systematic review included a total of 13 randomized controlled trials involving 609 patients (n-HAP group: 296; fluoride group: 313). The majority of included studies raised some concerns regarding risk of bias, primarily related to blinding of participants and outcome assessors .The meta-analysis revealed that at short-term follow-up (2 weeks), compared with fluoride toothpaste, n-HAP toothpaste demonstrated greater reductions in visual analog scale (VAS) scores (standardized mean difference SMD = 8.81, 95% CI [0.31, 17.30], p = 0.0017; positive SMD favors n-HAP) and tactile sensitivity (SMD = -1.31, 95% CI [-1.80, -0.82], p < 0.00001; negative SMD favors n-HAP). However, in long-term follow-up (8 weeks), fluoride demonstrated superior efficacy in alleviating cold air sensitivity (SMD = 0.35, 95% CI [0.05, 0.65], p = 0.02). Subgroup analysis revealed that n-HAP at 15%-20% concentration produced the optimal therapeutic effect (SMD = -0.77, 95% CI [-1.16, -0.39], p < 0.0001) with low heterogeneity (I² = 11%).
+ConclusionBased on current evidence, n-HAP may serve as a rapid-acting desensitizing agent, providing benefits for patients requiring immediate pain relief or those with mechanical stimulus sensitivity. However, fluoride may remain the preferred option for patients presenting with severe cold/heat hypersensitivity or those requiring long-term maintenance of desensitizing effects. The optimal concentration range of n-HAP toothpaste appears to be 15%-20%.However, some outcomes showed substantial heterogeneity; therefore, interpretation should be cautious, and longer-term studies are warranted.
+
+## Introduction
+
+Dentin hypersensitivity (DH) is a common oral condition characterized by short, sharp pain in response to cold, hot, sweet, or mechanical stimuli [1, 2]. Systematic reviews have reported a prevalence of 4.8%-62.8% in adults, with higher incidence in individuals with tooth wear, gingival recession, or those who have undergone professional whitening treatments [3, 4]. This condition significantly impacts patients’ quality of life, restricting dietary choices, affecting oral hygiene practices, and causing psychological distress [5].
+
+The hydrodynamic theory, proposed by Brännström in 1964 [6], remains the most widely accepted mechanism explaining DH. According to this theory, external stimuli acting on exposed dentinal surfaces alter the fluid flow within dentinal tubules, generating shear force that stimulates nerve endings at the pulp-dentin interface, thereby triggering pain perception [7]. The presence of open dentinal tubules serves as the anatomical basis for DH, with studies demonstrating significantly more open tubules per unit area in hypersensitive teeth compared with healthy teeth [8–10].
+
+Based on the mechanism of liquid mechanics, there are two main methods for managing DH. The first is to block the exposed dentinal tubules to prevent the fluid from flowing. The second is to reduce the neurosensitivity of the dentin-pulp complex [11]. Among desensitizers, fluoride has been the gold standard for many years. It is low in cost and can effectively prevent tooth decay [12]. Commonly used fluoride dentifrices include compounds such as NaF, SnF₂, and AmF, which exert their desensitizing effects primarily through the release of fluoride ions, which react with tooth surfaces to form calcium fluoride (CaF₂) or fluorapatite deposits that physically occlude dentinal tubules, thereby reducing dentin hypersensitivity [13]. However, CaF₂ deposits are readily soluble in acidic environments, resulting in transient occlusion that requires frequent reapplication [14]. Importantly, the clinical efficacy of fluoride in dentin hypersensitivity treatment depends not only on fluoride ion release but also on formulation-specific mechanisms [14, 15]. Therefore, this review compares n-HAP-based dentifrices with fluoride-based formulations as complete products, acknowledging that both active ingredients and delivery mechanisms contribute to clinical outcomes.
+
+Nanohydroxyapatite (n-HAP) has become a promising desensitizer in recent years. Dental researchers and clinicians have shown considerable concern about this [16]. Its primary mechanisms include: physical occlusion of exposed dentinal tubules to prevent fluid flow, and induction of dentin remineralization to enhance acid resistance [17]. These mechanisms overlap with fluoride, yet n-HAP’s nanoscale particles enable deeper penetration into dentinal tubules [18]. Fluoride dentifrices have been extensively studied and are recommended as first-line treatments for dentin hypersensitivity in clinical guidelines [1, 12]. Their long history of use, established safety, and proven effectiveness in forming protective mineral layers have made fluoride the standard comparator for new desensitizing agents [13, 14]. Different fluoride compounds (NaF, SnF₂, and AmF) work through similar mechanisms of tubule occlusion [15], though their formulations vary. Since both n-HAP and fluoride are widely used for DH with overlapping mechanisms, this review aims to compare their clinical efficacy and provide guidance for clinical practice.
+
+Although n-HAP has gained increasing attention in DH treatment, its comparative efficacy against the traditional gold standard fluoride remains insufficiently evaluated. Existing RCTs have shown considerable variability in results: some studies demonstrated n-HAP superiority over fluoride [21, 24–26, 28, 33], while others reported comparable efficacy [22, 23, 30–32] or even n-HAP inferiority [27, 29],. Moreover, several key clinical questions remain unresolved, including the optimal n-HAP concentration range, time-dependent characteristics of therapeutic effects, and patient subgroups most likely to benefit from each treatment. Therefore, this systematic review and meta-analysis aims to compare the clinical efficacy of n-HAP toothpaste versus fluoride toothpaste for dentin hypersensitivity treatment, providing evidence-based guidance for clinical decision-making.
+
+## Materials and methods
+
+### Report and registration
+
+This systematic review followed a pre-designed protocol. The protocol was based on the Cochrane Handbook for Systematic Reviews of Interventions (Version 6.5.0) [19]. The review was reported following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA 2020) guidelines [20]. The protocol was registered in the International Prospective Register of Systematic Reviews (PROSPERO) before literature screening. The registration number is CRD420251272119.
+
+### Eligibility criteria
+
+Inclusion and exclusion criteria were defined using the PICO framework (Population, Intervention, Comparison, Outcome) to ensure comprehensive identification of relevant studies.
+
+### Study design
+
+Both parallel-group and crossover randomized controlled trials (RCTs) comparing n-HAP with fluoride-based interventions for dentin hypersensitivity were eligible for inclusion. The following were excluded: non-randomized comparative studies, reviews and meta-analyses, animal experiments, in vitro studies, conference abstracts, letters, and editorials.
+
+### Population
+
+The study population comprised systemically healthy adults (aged ≥ 18 years) diagnosed with dentin hypersensitivity. In included studies, exclusion criteria included: systemic diseases affecting dental sensitivity, untreated dental caries, symptomatic pulpitis or endodontic treatment needs, active periodontal disease or gingival inflammation, dental prosthetic restorations, and orthodontic appliances.
+
+### Intervention
+
+Interventions include the daily use of toothpaste with nano-hydroxyapatite (n-HAP) as the main desensitization ingredient. Eligible products include n-HAP toothpaste, n-HAP tooth powder or oral care products containing n-HAP. There are no restrictions on the concentration, particle size or other formula ingredients of n-HAP. Studies evaluating the combination of n-HAP with other active ingredients (such as potassium nitrate or strontium chloride) are excluded unless the control group uses the same formula but does not contain n-HAP.
+
+### Comparison
+
+The control group used toothpaste containing fluoride compounds as the active ingredient. Eligible fluoride formulations included sodium fluoride (NaF), stannous fluoride (SnF₂), amine fluoride (AmF), or other fluoride compounds of different concentrations. Studies were only included when the control group used an established fluoride toothpaste as the benchmark treatment.
+
+Outcome: Eligible studies must report at least one major outcome of DH. The main outcomes include: (1) VAS pain intensity measured on a 0–10 cm or 0–100 mm scale, typically recorded at baseline and various follow-up intervals (1, 2, 4 weeks), with lower scores indicating better efficacy; (2) TS measured by Yeaple probe or similar device (in grams), recording the threshold force required to cause pain, where higher values indicate improved desensitization; (3) CAS evaluated using Schiff cold air index or similar standardized scoring system (0–4 scale), with some studies also recording pain duration in seconds; (4) ABS measured by controlled airflow (mL/min) or pain duration following standardized air blast stimulus.
+
+### Search strategy
+
+We searched seven electronic databases: PubMed, Embase, Web of Science, Cochrane Library, CNKI, WanFang Data, and SinoMed. The search covered from database inception to December 2025. No language restrictions were applied. The search strategy combined Medical Subject Headings (MeSH) with free-text terms for three key concepts: nano-hydroxyapatite, fluoride, and dentin hypersensitivity. We also handsearched reference lists of included studies and relevant reviews. We searched clinical trial registries (ClinicalTrials.gov, WHO ICTRP, ChiCTR) for ongoing or unpublished studies. The detailed search strategy is presented in Appendix 1.
+
+### Study selection
+
+Two independent reviewers performed study selection following a standardized two-stage process. In the first stage, all records retrieved from databases were imported into EndNote software to remove duplicates, and titles and abstracts were screened. Studies that clearly did not meet inclusion criteria were excluded. In the second stage, full-text articles were obtained and assessed for eligibility. Disagreements were resolved through discussion or by consulting a third reviewer. Reasons for exclusion were recorded and shown in the PRISMA flow diagram.
+
+### Data extraction
+
+A standardized data extraction form was developed and pilot-tested on three randomly selected included studies. Two reviewers independently extracted the following information from each eligible study: (1) Study characteristics: first author, publication year, country of origin, study design (parallel-group RCT); (2) Participant details: sample size, age range or mean age, sex distribution, diagnostic criteria for dentin hypersensitivity, baseline sensitivity severity, and exclusion criteria; (3) Intervention specifics: n-HAP concentration, particle size, frequency and duration of use, and any concomitant oral hygiene instructions; (4) Comparator details: fluoride type, concentration, formulation, and usage instructions; (5) Outcome data: all reported outcome measures at each follow-up time point, including means and standard deviations (or other appropriate summary statistics), sample sizes per group, and statistical methods used; (6) Information for risk of bias assessment: methods of random sequence generation, allocation concealment, blinding of participants and outcome assessors, incomplete outcome data handling, and selective reporting.
+
+When data were presented only in figures or charts, values were estimated using GetData Graph Digitizer software. We contacted corresponding authors by email for additional information when data were missing or reporting was unclear. Studies without key data after reasonable attempts were excluded from quantitative analysis but described in the narrative review.
+
+### Risk of bias assessment
+
+We assessed risk of bias using the Cochrane Collaboration’s tool for randomized trials (ROB 1). This tool evaluates five domains: bias from the randomization process, bias from deviations from intended interventions, bias from missing outcome data, bias in outcome measurement, and bias in reported result selection. Each domain was judged as low risk, some concerns, or high risk based on signaling question responses. An overall judgment was then assigned to each study. Two reviewers performed the assessment independently. Discrepancies were resolved through discussion.Additionally, we performed GRADE assessment to evaluate the overall certainty of evidence for each outcome, considering risk of bias, inconsistency, indirectness, imprecision, and publication bias.
+
+### Statistical analysis
+
+Statistical analyses were performed using RevMan 5.4 (for meta-analysis and forest plots), Stata 17.0 (for sensitivity analyses), and R 4.2.1 (for VAS time-effect analyses). The standardized mean difference (SMD) with 95% confidence interval (CI) was used as the effect measure.
+
+Because several original forest plots used outcome-specific coding directions, the narrative reports which intervention was favored for each analysis rather than relying on a single sign rule across all outcomes. Figure legends identify the direction of effect for each plot.
+
+We conducted separate meta-analyses for each outcome (VAS, TS, CAS, ABS) at different follow-up times. Pre-specified subgroups were analyzed by follow-up time and n-HAP concentration. Sensitivity analyses excluded high risk-of-bias studies, used a fixed-effect model, and performed leave-one-out analysis. When at least 10 studies were included, we assessed publication bias using Begg’s funnel plot and Egger’s test.
+
+## Results
+
+### Search results
+
+The search found 2,241 records across all databases. We removed 273 duplicates and excluded 330 records, leaving 1,811 for screening. Of these, 1,651 were excluded after title and abstract review, and 5 full texts could not be retrieved. Following full-text assessment, 142 studies were excluded (non-clinical studies: n = 84; ineligible control group: n = 44; incomplete data: n = 14). Finally, 13 randomized controlled trials were included. The screening process is presented in Fig. 1 (PRISMA 2020 flow diagram).
+
+Fig. 1PRISMA flow diagram showing the study selection process
+
+### Basic characteristics and quality evaluation of the included studies
+
+All 13 included studies were randomized controlled trials [21–33]. Two had a follow-up of 1 week, five of 2–4 weeks, and six of 4–12 weeks. Participants brushed twice daily, with measurements taken weekly. Ten studies used VAS scoring, five used the Yeaple pressure probe and Schiff air spray test, and six recorded improvements in dentin hypersensitivity. No adverse effects were reported.
+
+Across all studies, a total of 609 participants were enrolled (n-HAP group: 296; control group: 313), with sample sizes ranging from 28 to 105 participants per study. Participant ages ranged from 18 to 71 years, with most studies including middle-aged adults (mean age 30–50 years). Sex distribution varied across studies, with most reporting more female than male participants. The n-HAP concentrations in experimental groups ranged from 5% to 30%, with the majority testing concentrations between 10% and 20%. Control group fluoride formulations varied considerably, including sodium monofluorophosphate (Na-MFP), sodium fluoride (NaF). Study characteristics are in Supplementary Tables 1, and quality assessment is in Supplementary Tables 2 and 3.
+
+### Meta-analysis results
+
+#### Visual analog scale (VAS) analysis
+
+Time-Effect Analysis: The meta-analysis of VAS scores showed different efficacy patterns over time between n-HAP and fluoride. At 2 weeks (4 studies, n = 232), n-HAP worked better than fluoride (SMD = 8.81, 95% CI [0.31, 17.30], p = 0.0017). We calculated SMD as fluoride minus n-HAP, so a positive value means n-HAP reduced more pain at 2 weeks. The relatively large SMD value may be attributed to the use of different VAS scales (0–10 vs. 0-100) across studies and variations in baseline sensitivity levels; Heterogeneity was substantial (I² = 80.2%).
+
+At 4 weeks (4 studies, n = 284), n-HAP still showed better results than fluoride (p < 0.00001), but heterogeneity was high (I² = 97.1%). Most individual studies favored n-HAP, though effect sizes varied. At 8 and 12 weeks, differences between n-HAP and fluoride became smaller, with effects approaching statistical non-significance (Fig. 2).
+
+Fig. 2VAS Time Effect Analysis
+
+Concentration-Effect Analysis: In contrast to the VAS time-effect analysis, the concentration-effect analysis was calculated using the opposite direction; therefore, negative SMD values favored n-HAP. Subgroup analysis by n-HAP concentration showed that 15%-20% gave the best results. Studies using 15%-20% n-HAP had pooled SMD of -0.77 (95% CI [-1.16, -0.39], p < 0.0001) with low heterogeneity (I² = 11%), meaning results were consistent. Lower concentrations (2.5-5%) also favored n-HAP (SMD = -0.35, 95% CI [-0.99, 0.30], p = 0.29) but had higher heterogeneity (I² = 58%). The overall effect across all concentrations was significant (SMD = -0.56, 95% CI [-0.86, -0.27], p = 0.0002) with acceptable heterogeneity (I² = 28%). Figure 3 shows this analysis. However, the test for subgroup differences was not significant (p = 0.41). This means while 15%-20% appeared best, we could not confirm a clear dose-response relationship.(Fig. 3).
+
+Fig. 3VAS Concentration Effect Analysis
+
+#### Tactile sensitivity (TS) analysis
+
+The meta-analysis of tactile sensitivity using Yeaple probe measurements showed n-HAP worked significantly better than fluoride (SMD = -1.13, 95% CI [-1.66, -0.61], p < 0.00001). Time-effect analysis showed this advantage was strongest at 2 weeks (p < 0.00001, I² = 56%), with consistent results across studies. At 4 weeks, n-HAP still showed advantage (p = 0.02), but heterogeneity was high (I² = 92%) with some conflicting results. This may reflect differences in measurement techniques, participant characteristics, or baseline sensitivity levels (Fig. 4).
+
+Fig. 4TS Time Effect Analysis
+
+#### Cold air sensitivity (CAS) analysis
+
+Cold air sensitivity showed a different pattern from VAS and tactile sensitivity. In the early to mid-treatment phase (1, 2, 4, and 6 weeks), n-HAP and fluoride showed no significant differences (p > 0.05 for all time points). However, at 8 weeks, a reversal appeared: fluoride worked better than n-HAP for cold air sensitivity (SMD = 0.35, 95% CI [0.05, 0.65], p = 0.02). This is notable because it suggests n-HAP may give faster initial relief while fluoride offers better long-term control. The 8-week subgroup had no heterogeneity (I² = 0%), with consistent results across two studies. The overall effect across all time points was close to but did not reach significance (p = 0.07), reflecting opposing trends at different follow-up points (Fig. 5).
+
+Fig. 5CAS Time Effect Analysis
+
+#### Air blast sensitivity (ABS) analysis
+
+The meta-analysis of air blast sensitivity showed inconsistent results. The overall effect suggested n-HAP may reduce sensitivity (SMD = -0.77, 95% CI [-1.38, -0.15], p = 0.01), but heterogeneity was very high (I² = 92%). Individual studies varied widely. Vano (2014) found a large effect favoring n-HAP (SMD = -2.79), while Amaechi (2021) found a moderate effect favoring fluoride (SMD = 0.33). This conflicting pattern appeared in both time and concentration analyses.
+
+Subgroup analyses could not explain the high heterogeneity. The test for subgroup differences was not significant (p = 0.84), suggesting no concentration-dependent effects. Given the methodological concerns with ABS measurement, lack of standardized air flow parameters, distance, and duration across studies. Therefore, no definitive conclusion can be drawn for air blast sensitivity, and further standardized studies are warranted. The air blast sensitivity forest plots are shown in Figs. 6 and 7.
+
+Fig. 6ABS Time Effect Analysis
+
+Fig. 7ABS Concentration Effect Analysis
+
+### Sensitivity analysis and publication bias
+
+We performed sensitivity analysis to test reliability by excluding each study individually. No major changes appeared in VAS pooled effects, meaning results were robust (Supplementary Fig. 8). We used Begg’s funnel plot and Egger’s test for publication bias. The VAS funnel plot looked symmetrical, and Egger’s test showed no significant bias (p = 0.198) (Supplementary Fig. 9).
+
+For ABS, sensitivity analysis also showed robust results with no single study dominating (Supplementary Fig. 10). The funnel plot looked asymmetrical, but Egger’s test was not significant (p = 0.989). The asymmetry reflected high ABS heterogeneity (I² = 92%) rather than publication bias (Supplementary Fig. 11).
+
+### Quality of evidence
+
+We assessed the certainty of evidence for all primary outcomes using the GRADE approach (Supplementary Table 4). High certainty evidence was observed for VAS concentration, CAS time, and TS time outcomes. Low certainty evidence was observed for VAS time, ABS time, and ABS concentration outcomes due to high heterogeneity and wide confidence intervals.
+
+## Discussion
+
+### Summary of main findings
+
+This systematic review and meta-analysis pooled evidence from 13 randomized controlled trials with 609 patients. Results showed n-HAP worked better than fluoride for VAS scores at 2 weeks (SMD = 8.81, 95% CI [0.31, 17.30], p = 0.0017), though heterogeneity was high (I² = 80.2%). For tactile sensitivity, n-HAP had an advantage at 2 weeks (p < 0.00001, I² = 56%). But fluoride worked better for cold air sensitivity at 8 weeks (SMD = 0.35, 95% CI [0.05, 0.65], p = 0.02, I² = 0%). Subgroup analysis found that 15%-20% n-HAP gave the best results (SMD = -0.77, 95% CI [-1.16, -0.39], p < 0.0001) with low heterogeneity (I² = 11%). For air blast sensitivity, we could not draw reliable conclusions because heterogeneity was extremely high (I² = 92%) and studies conflicted. Sensitivity analyses confirmed VAS findings were robust, and no significant publication bias was found.
+
+### Time-dependency of therapeutic efficacy
+
+One clinically relevant finding is how effects changed over time between n-HAP and fluoride. The patterns make sense when we look at how each agent works.
+
+n-HAP has been proposed to act rapidly through physical occlusion of dentinal tubules. Its nanoparticles (20–100 nm) are smaller than dentinal tubule diameters (0.5–2 μm), theoretically enabling penetration and occlusion of tubules on contact [34–35]. This mechanism is supported by in vitro studies demonstrating effective tubule occlusion following n-HAP application [40]. In vivo studies have also shown that n-HAP particles can deposit on dentin surfaces and within tubules, potentially explaining the rapid desensitizing effects observed in clinical trials. But the included trials primarily measured symptoms. They did not directly test tubule occlusion, mineral layer durability, or sequential treatment mechanisms. Mechanistic explanations should therefore be considered biologically plausible hypotheses rather than proof of clinical pathways.
+
+Fluoride ions react with calcium and phosphate in saliva or on tooth surfaces to form calcium fluoride (CaF₂) or fluorapatite deposits [36–38]. In vitro studies have demonstrated that fluoride can form precipitate layers on dentin surfaces, with the degree of occlusion varying based on fluoride concentration and exposure time [38]. The formation of more stable fluorapatite requires sufficient time for the chemical conversion process, which may explain the delayed onset of fluoride’s full therapeutic effect observed in some studies [39].However, it should be emphasized that the desensitizing efficacy of fluoride compounds depends not only on fluoride ion release but also on formulation-specific mechanisms, which may explain the variability observed across different fluoride preparations.
+
+The delayed formation of stable fluorapatite probably explains why fluoride worked better for cold air sensitivity at 8 weeks—when the chemical process would be more complete. Cold air challenges the hydrodynamic mechanism through rapid temperature changes. The deeply integrated fluorapatite layer may counter this better than surface physical blocking [36].
+
+### Concentration-dependency of therapeutic efficacy
+
+Subgroup analysis by n-HAP concentration showed that 15%-20% gave the best and most consistent results. This matters for clinical practice and product development.
+
+At lower concentrations (2.5–10%), fewer particles are available to block tubules, so coverage may be incomplete and results weaker. But even at these lower levels, n-HAP still beat fluoride overall—suggesting some benefit across the tested range.
+
+At higher concentrations (30%), particles may clump together into larger micro-sized aggregates. These clumps are too big to fit into narrow tubules, reducing surface area for blocking and weakening the effect [33]. This “aggregation effect” explains why concentrations above 20% did not work proportionally better.
+
+The subgroup analysis suggested that n-HAP at 15%-20% concentration produced the most consistent therapeutic effects with low heterogeneity (I² = 11%); however, the test for subgroup differences was not statistically significant (p = 0.41), indicating that a clear dose-response relationship could not be confirmed. The 15%-20% optimal range is partially supported by in vitro studies using electron microscopy, which demonstrated effective tubule occlusion within this concentration range without significant particle aggregation [40]. However, given the non-significant subgroup differences, these findings should be interpreted as exploratory rather than definitive. The apparent superiority of 15%-20% n-HAP may be influenced by factors such as sample size, study quality, or baseline sensitivity levels. Further standardized studies specifically designed to compare different n-HAP concentrations are needed to establish optimal dosing recommendations.
+
+### Comparison with other desensitizing agents
+
+n-HAP achieves desensitization primarily through dentin tubule occlusion, which shares a similar mechanism with other tubule-occluding agents such as fluoride [15, 16]. This suggests n-HAP may serve as an effective alternative for patients seeking non-fluoride options. However, n-HAP differs fundamentally from neural pathway agents, including potassium nitrate and strontium chloride, which act by reducing nerve excitability in the dentin-pulp complex [11, 17]. Since n-HAP primarily promotes desensitization through tubule occlusion, findings of this review may not be directly applicable to neural pathway products [11, 41]. Future research may explore combined or sequential treatments integrating both mechanisms, and investigate optimal n-HAP protocols for refractory cases [15, 42].
+
+### Clinical implications
+
+Based on this evidence, here are some practical recommendations:
+
+For patients with acute mechanical sensitivity—toothbrushing pain, cleaning pain, or other mechanical triggers—n-HAP toothpaste at 15%-20% works well as first-line treatment because it acts fast [15].
+
+For patients with chronic cold sensitivity—persistent pain from cold foods, drinks, or ambient temperatures, especially those needing long-term management—fluoride toothpaste remains a solid choice [38]. Fluoride’s superior long-term control of cold sensitivity suits patients with chronic, cold-triggered problems.
+
+Combination approach: Based on the observed time-dependent effects, a sequential or combination treatment strategy may be considered for future investigation [43]. Preliminary evidence suggests that initiating treatment with n-HAP for rapid pain relief, followed by fluoride for long-term maintenance, could potentially capture benefits of both fast action and sustained efficacy. However, this sequential approach was not directly evaluated in the included studies and should be viewed as a hypothesis for future research rather than a currently established clinical recommendation. Well-designed comparative studies are needed to evaluate the effectiveness of such sequential treatment protocols.
+
+### Sources and interpretation of heterogeneity
+
+We need to acknowledge some limitations. This study has several limitations. Regarding participant characteristics, the included studies exhibited considerable variation in age ranges (spanning from 18 to 80 years), and such age variation may impact the study results in multiple dimensions. Younger patients tend to have larger dentin tubule diameters and lower mineralized dentin, potentially showing greater sensitivity to desensitizing agents [2, 6, 8]. In contrast, elderly patients often exhibit physiological sclerosis or occlusion of dentinal tubules, and pulpal nerve responsiveness also decreases with advancing age, which may lead to differential responses to nano-hydroxyapatite and fluoride treatments across age groups [7, 12]. Regarding follow-up duration, the included studies had relatively short follow-up periods, ranging from 1 week to 12 weeks, with most studies only able to assess short-term efficacy and lacking long-term follow-up data (beyond 3 months). This limits the comprehensive evaluation of the long-term efficacy of nano-hydroxyapatite and fluoride [21, 24, 25], particularly insufficient to verify the durability of desensitizing effects and mineralized layers.
+
+Additionally, heterogeneity in outcome measurement methods cannot be overlooked. VAS measurement also lacked standardization. Some studies used 0–10 scales, others 0-100, with varying anchors like “no pain” to “worst possible pain“ [44]. While standardized mean difference addressed this issue, interpreting clinical significance remains tricky [19]
+
+Air blast sensitivity showed highly inconsistent results that we could not reliably interpret. Methodological variability—in air pressure, distance from tooth, application duration, and scoring—probably caused this [4, 12]. Standardizing this outcome measure is urgently needed.
+
+Sample size was modest overall (n = 609), with individual studies ranging from 20 to 75 participants. Some subgroup analyses, particularly at longer follow-ups, included few studies, limiting statistical power and precision [3, 27].
+
+The control groups in included studies used various fluoride formulations (NaF, SnF₂, and AmF), which differ in their fluoride release kinetics, formulation stability, and specific mechanisms of action [13, 36, 38]. These formulation differences may have contributed to the heterogeneity in outcomes [40], as different fluoride compounds may produce varying degrees of tubule occlusion and desensitizing effects. Future studies should consider standardizing fluoride formulations or conducting subgroup analyses based on specific fluoride compounds.
+
+### Strengths of the review
+
+This review has several strengths. We registered the protocol in PROSPERO before starting, reducing selective reporting risk. The search covered both English and Chinese databases, minimizing language bias [20]. Two independent reviewers handled screening, extraction, and quality assessment, resolving disagreements through discussion. Risk of bias was evaluated using the validated Cochrane RoB 1 tool [19]. Multiple sensitivity analyses tested robustness. Publication bias was formally assessed. The review followed PRISMA 2020 guidelines for transparent reporting.
+
+### Implications for future research
+
+Based on findings and limitations, future studies should adopt standardized outcome measures for dentin hypersensitivity, with consensus-based core sets to improve comparability. Longer follow-ups—6 months to 1 year—are needed to evaluate long-term durability and maintenance of remineralization [21, 24, 25, 27]. Well-designed RCTs directly comparing n-HAP at optimal concentrations (15%-20%) with standardized fluoride formulations would provide stronger evidence [15–18]. Lab and clinical studies on the molecular mechanisms of n-HAP-induced remineralization and long-term stability of the mineralized layer would also help [16, 17, 34, 35]. Finally, research on combined n-HAP and fluoride formulations could reveal synergistic effects.
+
+## Conclusion
+
+Based on the current limited evidence, n-HAP toothpaste may demonstrate efficacy as a rapid-acting desensitizing agent for patients requiring immediate relief from mechanical sensitivity, while fluoride toothpaste may be preferred for those with cold sensitivity requiring long-term management. The optimal n-HAP concentration appears to be 15%-20%. However, these findings should be interpreted with caution due to considerable variability in outcomes across studies, substantial heterogeneity observed in some analyses, and the limited long-term data available. Future high-quality, standardized RCTs with longer follow-up periods are needed to confirm these findings and establish more definitive clinical recommendations.
+
+## Supplementary Information
+
+Supplementary Material 1.

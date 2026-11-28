@@ -2,7 +2,7 @@
 title: "치과경영 — practice-management"
 authors: navigation
 year: 2026
-date: 2026-09-16
+date: 2026-11-27
 doi: N/A
 source: navigation
 category: practice-management
@@ -15,20 +15,20 @@ tags: [navigation, category-index, practice-management]
 > [!summary] 한국어 핵심요약
 > - **분야**: 치과경영
 > - **범위**: Dental practice management — legal/regulatory decisions (헌법재판소 등), operational policies, clinic administration
-> - **수록 논문**: 35편
+> - **수록 논문**: 36편
 
 ## Three-line Summary
 
 **Scope**: Dental practice management — legal/regulatory decisions (헌법재판소 등), operational policies, clinic administration
-**Indexed papers**: 35 papers in `wiki/practice-management/`.
+**Indexed papers**: 36 papers in `wiki/practice-management/`.
 
 ## 세줄요약
 
 **분야**: 치과경영
-**수록 논문**: 35편
+**수록 논문**: 36편
 **하위 카테고리**: 없음
 
-## Papers in this Category (35)
+## Papers in this Category (36)
 
 | Paper |
 |---|
@@ -49,6 +49,7 @@ tags: [navigation, category-index, practice-management]
 | [[ha-2023-dentist-issues-constitutional-court-decisions|A review of dentist-related issues through Constitutional Court decisions]] |
 | [[jkda-2024-62-6-001|A study on regional distribution and changes in the Korean dentist workforce]] |
 | [[khries-2024-identifying-barriers-pediatric-dental-appointments|Identifying barriers to pediatric dental appointments: insights from a study at Prince Faisal bin Al-Hussein Hospital]] |
+| [[korea-moel-2026-labor-standards-act-pregnant-worker-protection|Labor Standards Act §65 and §74 and Enforcement Decree Annex 4 — protection of pregnant workers (근로기준법 임산부 보호)]] |
 | [[lee-2024-teledentistry-utilisation-australia-sr-ma|The utilisation of teledentistry in Australia: A systematic review and meta-analysis]] |
 | [[listl-2019-what-is-health-economics-oral-health|What is health economics?]] |
 | [[mackay-2017-acquisition-digital-intraoral-scanning-device|Acquisition of a Digital Intraoral Scanning Device: An Examination of Practice Volume Changes and the Economic Impact via an Interrupted Time Series Analysis]] |

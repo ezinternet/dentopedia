@@ -1,0 +1,9 @@
+TITLE: Protamine sulfate for the reversal of enoxaparin associated hemorrhage beyond 12 h.
+AUTHORS: Lauer Brian R, Nelson Richard A, Adamski John H, Gibbons Joseph, Janko Matthew R, Ravi Gayathri, Barcelona Robert A
+JOURNAL: The American journal of emergency medicine
+ID[doi]: 10.1016/j.ajem.2018.09.043
+ID[pmid]: 30274763
+PUBTYPES: Case Reports, Journal Article, Research Support, Non-U.S. Gov't
+
+## ABSTRACT
+Clinical practice guidelines recommend protamine sulfate for reversal of enoxaparin associated bleeds dependent on the time from last administration and dose of enoxaparin. We present a case of a hemodynamically unstable patient with an enoxaparin induced abdominal wall hematoma/hemorrhage and the previous enoxaparin administration 21.5 h prior to presentation with a therapeutic anti-Xa assay (0.8 IU/mL) upon assessment in the emergency department. Along with resuscitative efforts, an interdisciplinary team collaborated to administer protamine sulfate 50 mg intravenous once (0.5 mg per 1 mg of enoxaparin) to reverse the therapeutic anticoagulation. Our case demonstrates the importance of monitoring renal function and the potential for accumulation of enoxaparin in patients with renal dysfunction leading to prolonged therapeutic anti-Xa assays. With the availability of anti-Xa assays, future reversal recommendations of enoxaparin associated bleeds using protamine sulfate should include the initial anti-Xa assay as a guide for the dosing regimen.

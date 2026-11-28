@@ -41,7 +41,7 @@ Synthesis of 10 papers on oral potentially malignant disorder (OPMD) malignant t
 
 MTR did not change over 90 years of leukoplakia literature (p=0.75; Pimenta-Barros 2025) — the natural history of these lesions is not improving despite better diagnostics and treatments — and this temporal stability makes historical studies informative provided lesion classification was rigorous.
 
-Surveillance intensity and intervention thresholds are driven by lesion type and morphological subtype rather than a single number: the clinical decision rules are (i) erythroplakia → immediate biopsy and excision, (ii) non-homogeneous OLK / lateral tongue / dysplasia → active surveillance ≤3 months, (iii) OLP erosive/atrophic → ≤6 months with subtype documentation, (iv) OSF → periodic mouth-opening measurement; long-term surveillance continues after excision since surgical cure does not eliminate residual-mucosa risk.
+Surveillance intensity and intervention thresholds are driven by lesion type and morphological subtype rather than a single number: the clinical decision rules are (i) erythroplakia → immediate biopsy and excision, (ii) non-homogeneous OLK / lateral tongue / dysplasia → active surveillance ≤3 months, (iii) OLP erosive/atrophic → ≤6 months with subtype documentation, (iv) OSF → periodic mouth-opening measurement; long-term surveillance continues after excision since surgical cure does not eliminate residual-mucosa risk — post-excision recurrence multiplies malignant transformation risk 7-fold (recurrent OLK RR=7.39, Sapkota 2024), making the most dangerous clinical error assuming that excision equals resolved oncologic risk.
 
 ## 세줄요약
 

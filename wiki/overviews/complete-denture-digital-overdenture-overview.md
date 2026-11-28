@@ -53,9 +53,9 @@ tags: [complete-denture, overdenture, CAD-CAM, digital-denture, attachment-syste
 
 ## Three-line Summary
 
-Synthesis of 24 wiki pages on complete dentures and implant-supported overdentures: conventional CD mean longevity is 10.1 years (Taylor 2021 SR+MA); milled CAD/CAM dentures exceed conventional on mechanical properties and retention while patient satisfaction is equivalent across all fabrication methods; IOD implant count (1 vs 2 vs 4) is the most impactful prosthetic decision — 1-IOD carries ~2× the prosthetic complication rate of 2-IOD (Koyama 2025 SR+MA, 17 RCTs).
+Synthesis of 26 wiki pages on complete dentures and implant-supported overdentures: conventional CD mean longevity is 10.1 years (Taylor 2021 SR+MA); milled CAD/CAM dentures exceed conventional on mechanical properties and retention while patient satisfaction is equivalent across all fabrication methods; IOD implant count (1 vs 2 vs 4) is the most impactful prosthetic decision — 1-IOD carries ~2× the prosthetic complication rate of 2-IOD (Koyama 2025 SR+MA, 17 RCTs).
 
-Attachment selection shows LOCATOR minimizes prosthetic complications; magnets carry 7.4× higher complication rates and should be avoided; splinted CAD/CAM milled titanium bar is the strongest-evidence attachment option when bar is chosen; PEEK/BioHPP polymer bars show peri-implantitis signals and should be avoided.
+Attachment selection shows LOCATOR minimizes prosthetic complications; magnets carry 7.4× higher complication rates and should be avoided; splinted CAD/CAM milled titanium bar is the strongest-evidence attachment option when bar is chosen; PEEK/BioHPP polymer bars show peri-implantitis signals and should be avoided; SIMO and TIMO mandibular overdentures show comparable implant failure, MBL, and patient satisfaction across 7 SRs (Milić Lemić 2025 umbrella review, AMSTAR-2 all low-to-moderate); splinted bar provides no functional occlusion advantage over unsplinted ball on T-Scan analysis (Refai 2026 parallel RCT, n=36).
 
 Clinical bottom line: denture adhesive cream/powder significantly improves retention and bite force (Shu 2021 SR+MA); mechanical plus chemical combined cleaning outperforms either alone for biofilm removal; digital workflows save 200+ min of chair time but require border-molded impressions and trial denture steps to prevent high retake rates (31–38%).
 
