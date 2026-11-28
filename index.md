@@ -1635,6 +1635,8 @@ tags: []
 - [[digital-workflow/achmadi-2025-intraoral-scanner-edentulous-accuracy-scoping]] — Scoping review (BDJ Open 2025, 8 studies): IOS vs lab scanner edentulous — IOS promising but smooth ridge limits accuracy; lab scanner generally superior for fully edentulous
 - [[digital-workflow/vitai-2023-intraoral-scanner-complete-arch-sr-network-ma]] — IOS 전악 스캔 정확도 SR + 네트워크 MA — 기기별 trueness·precision 순위 제시, 스캔 전략·악궁 연장 시 오차 증가.
 - [[digital-workflow/buhl-2025-intraoral-scanner-full-arch-accuracy-invitro]] — 최신 IOS 전악 정확도 in vitro 직접 비교 — trueness 50–200μm, 기기 간 유의 차이, 구치부 연장 시 오차 증가.
+- [[digital-workflow/borbola-2024-virtual-fit-complete-arch-ios-accuracy]] — in vitro(7개 IOS, 가상적합법): 프라임스캔 변연 간격 42 µm 2위(Mediti700·EmeraldS 동일그룹); MAE 정밀도 2그룹; 4개 IOS(EmeraldS·Mediti700·Primescan·Trios5) 완전궁 기준 충족 (2024)
+- [[digital-workflow/mayer-2025-edentulous-span-ios-accuracy]] — in vitro(12 무치악 경간 시나리오, Primescan vs TRIOS 3): TRIOS 3 RMS 0.296 mm < Primescan 0.338 mm; 프라임스캔 경간 의존성 더 강함(R²=0.892 vs 0.674) — 경간 길이 증가 시 TRIOS 3 유리 (2025)
 - [[digital-workflow/ender-2026-complete-arch-accuracy-six-ios]] — 임상연구(10명, 6 IOS): Primescan 전악 trueness 41 µm로 최우수; Primescan 2 동등 성능; Emerald S 최하; 전통 인상 정밀도 여전히 우위 (2026)
 - [[digital-workflow/guo-2026-lighting-conditions-ios-accuracy-clinical]] — 임상연구(10명, 4 조도 조건): Primescan은 2500 lx/4100 K에서 최적, TRIOS 4는 1000 lx/5500 K에서 최적 — 스캐너별 조명 맞춤 필요 (2026)
 - [[digital-workflow/wildhagen-2026-accuracy-ios-post-preparations]] — in vitro µ-CT(소구치 20개): 포스트 준비 공간 스캔 Primescan > TRIOS 4; 깊이 증가 시 정확도 감소; IOS 포스트 디지털 인상 첫 타당성 검증 (2026)
