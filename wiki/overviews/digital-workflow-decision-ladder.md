@@ -79,8 +79,12 @@ Schiavon 2025 NMA + Najeeb 2025 + Zhang 2025 spine.
 | [[digital-workflow/alkadi-2023-intraoral-scanner-accuracy-factors]] | narrative-review | 스캐너 기술·악궁 크기·술자 경험·온도·분말 다인자 |
 | [[digital-workflow/schlenz-2022-transfer-accuracy-digital-conventional-full-arch]] | in-vitro (reference-aid, 5 IOS) | 고정성 교정장치(브라켓±와이어) 존재 시 IOS가 알지네이트보다 전이정확도 우수(28–141 µm vs 103–212 µm, p<0.001); 자연치 단독은 알지네이트가 최상(21±20 µm) |
 | [[digital-workflow/oguz-2026-trueness-precision-intraoral-scanners-3d-printed]] | in-vitro (5 IOS, 3D프린팅 모형) | 클리어얼라이너 컴포지트 부착물 모형에서 Primescan·TRIOS 3 최상위 동률, Rapideye MI-1000 최하위(p<0.001); 얼라이너 워크플로 스캐너 오차 목표 ~50µm 제안(1단계 이동량 ~250µm의 20%) |
+| [[digital-workflow/ender-2026-complete-arch-accuracy-six-ios]] | prospective (임상, 10명, 6 IOS) | 전악 in vivo: Primescan trueness **41 µm** (최우수); Primescan 2·MEDIT i900 동등; Emerald S 최하(96 µm); 전통인상 정밀도 21 µm 여전히 우위 |
+| [[digital-workflow/guo-2026-lighting-conditions-ios-accuracy-clinical]] | prospective (임상, 10명) | 조명 최적화: Primescan = 2500 lx/4100 K, TRIOS 4 = 1000 lx/5500 K; 프라임스캔 어두운 환경(0 lx)에서도 색조 측정 견고 |
+| [[digital-workflow/wildhagen-2026-accuracy-ios-post-preparations]] | in-vitro (µ-CT, 20 소구치) | 포스트 준비 공간 스캔: Primescan > TRIOS 4(p<0.001); 깊이 10 mm 양호, 12 mm 정확도 감소; IOS 포스트 디지털 인상 첫 타당성 검증 |
+| [[digital-workflow/sanioglu-2026-preparation-design-ios-trueness]] | in-vitro (9 준비 디자인) | 삭제 형태(p<0.001) > 스캐너 종류(p=0.056); 전부 비니어 구개측 준비: TRIOS 5 우위; RMS 24.7–62.3 µm |
 
-**임상 ladder (IOS 적응)**:
+**임상 ladder (IOS 적응)** — [[overviews/primescan-clinical-performance-overview]] 프라임스캔 전용 심화 참조:
 1. **단관 (전·구치)** → IOS 1st choice. trueness 임상 허용 (50-100 μm). 시간 절약, 환자 편의.
 2. **소악궁 부분 무치 (3-4 unit)** → IOS 가능. 정확도 충분.
 3. **전악 자연치** → IOS 가능하나 기기 선택 신중 (TRIOS 3·Primescan 추천). 후방 연장 오차 유의.
