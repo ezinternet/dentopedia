@@ -1,0 +1,12 @@
+RISK FACTORS FOR THE FAILURE OF RE-IMPLANTED DENTAL IMPLANTS: A 20-YEAR RETROSPECTIVE STUDY.
+Kim CM, Lee JB, Um HS, Lee JK. J Periodontol. 2024. doi:10.1002/JPER.24-0198. PMID 39082189. Gangneung-Wonju National University Dental Hospital, Korea.
+
+[ABSTRACT-ONLY — full text not retrieved]
+
+Re-implantation of failed implants is common to maintain the original prosthetic plan; however, it may not always be ideal due to various factors. Few studies have thoroughly investigated the outcomes of re-implanted implants, while considering factors that can enhance their survival rates. Therefore, this study aimed to identify the risk factors that may contribute to the refailure of implants placed the second time by analyzing previously failed implants and evaluating their survival.
+
+Of 10,666 dental implants placed in 4063 patients at the Department of Periodontics of the Gangneung-Wonju National University Dental Hospital between December 1999 and March 2021, 259 failed implants in 170 patients were evaluated through clinical and radiographic records for patient-, surgical-, implant-, and prosthesis-related factors; survival analysis was conducted for implants that met the inclusion criteria.
+
+Of the 259 failed implants, 80 second-time-placed implants met the inclusion criteria. Survival analysis showed that the 1-year survival rate of second-time-placed implants was 88.1%. Smoking (hazard ratio [HR] = 5.066, p = 0.081), implant surface (HR = 18.776, p < 0.01), and timing of reimplantation (HR = 0.086, p < 0.01) were identified as risk factors influencing the refailure of second-time-placed implants.
+
+The survival rate of second-time-placed implants was lower than that of first-time-placed implants. The risk factors for second-time-placed implant failure were smoking, implant surface, and timing of reimplantation. To prevent further failure, previous failure factors should be analyzed and modifiable risk factors must be controlled before reimplantation.

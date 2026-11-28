@@ -1,0 +1,12 @@
+MASSETER MUSCLE VOLUME AND CROSS-SECTIONAL AREA AS RISK FACTORS FOR LATE MECHANICAL DENTAL IMPLANT FAILURE: A MATCHED CASE-CONTROL STUDY.
+Choi HS, Lee EC, Pang EK. Clin Oral Implants Res. 2026. doi:10.1111/clr.70188. PMID 42897882. Ewha Womans University Mokdong Hospital, Seoul, Korea.
+
+[ABSTRACT-ONLY — full text not retrieved]
+
+This study aimed to investigate whether three-dimensional (3D) masseter muscle morphology-volume and cross-sectional area (CSA)-is associated with the risk of late mechanical dental implant failure and to derive preliminary cut-off values for risk stratification.
+
+This 1:4 matched case-control study investigated 23 cases of late mechanical failure (fixture fracture, screw fracture, or abutment fracture) and 92 successful controls. Participants were matched by gender, age (±10 years), anatomical location, and maintenance period (±2 years). Masseter morphology was quantified using the 3D reconstruction of the cone-beam computed tomography (CBCT) data. Independent risk factors were determined using a multivariable generalized estimating equation model adjusting for potential confounders.
+
+Increased masseter muscle bulk was significantly associated with mechanical failure (p < 0.001). The odds of mechanical failure increased by 1.24-fold per 1000 mm3 increase in masseter volume and by 1.11-fold per 10 mm2 increase in CSA. ROC analysis demonstrated AUCs of 0.846 for masseter volume and 0.871 for CSA. The maximum-Youden thresholds were 31,272.56 mm3 for volume and 691.30 mm2 for CSA, with sensitivities of 86.96% and 82.61% and specificities of 77.17% and 79.35%, respectively. Internal bootstrap validation yielded AUC 95% confidence intervals of 0.751-0.931 and 0.767-0.951, respectively.
+
+Greater masseter muscle volume and CSA were significantly associated with late mechanical implant failure in this matched case-control study. The proposed cut-off values may provide preliminary reference values for risk stratification. However, these findings should be regarded as exploratory and require prospective validation in independent cohorts before routine clinical implementation.
