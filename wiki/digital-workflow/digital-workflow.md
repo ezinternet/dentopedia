@@ -2,7 +2,7 @@
 title: "디지털워크플로우 — digital-workflow"
 authors: navigation
 year: 2026
-date: 2026-10-08
+date: 2026-11-28
 doi: N/A
 source: navigation
 category: digital-workflow
@@ -15,23 +15,24 @@ tags: [navigation, category-index, digital-workflow]
 > [!summary] 한국어 핵심요약
 > - **분야**: 디지털워크플로우
 > - **범위**: IOS accuracy, CBCT, CAD/CAM, guided surgery
-> - **수록 논문**: 49편
+> - **수록 논문**: 56편
 
 ## Three-line Summary
 
 **Scope**: IOS accuracy, CBCT, CAD/CAM, guided surgery
-**Indexed papers**: 49 papers in `wiki/digital-workflow/`.
+**Indexed papers**: 56 papers in `wiki/digital-workflow/`.
 
 ## 세줄요약
 
 **분야**: 디지털워크플로우
-**수록 논문**: 49편
+**수록 논문**: 56편
 **하위 카테고리**: 없음
 
-## Papers in this Category (49)
+## Papers in this Category (56)
 
 | Paper |
 |---|
+| [[abuduwaili-2025-comparison-of-photogrammetric-imaging-intraoral|Photogrammetry vs IOS vs conventional impression for full-arch implant rehabilitation: in vitro]] |
 | [[achmadi-2025-intraoral-scanner-edentulous-accuracy-scoping|The accuracy of edentulous arch impression between intraoral scanner and laboratory scanner: a scoping review]] |
 | [[alkadi-2023-intraoral-scanner-accuracy-factors|A Comprehensive Review of Factors That Influence the Accuracy of Intraoral Scanners]] |
 | [[altalhi-2023-artificial-intelligence-impact-dental-implantology|The Impact of Artificial Intelligence on Dental Implantology: A Narrative Review]] |
@@ -46,9 +47,11 @@ tags: [navigation, category-index, digital-workflow]
 | [[fouda-2025-accuracy-digital-workflow-implant-fullarch|Evaluation of the Accuracy of Digital Workflow for Implant-Supported Full-Arch Fixed Dental Prostheses Using a Novel Micro-CT Measurement Technique]] |
 | [[gao-2025-ai-dentistry-narrative-review|Artificial Intelligence in Dentistry: A Narrative Review of Diagnostic and Therapeutic Applications]] |
 | [[han-2023-software-automated-tooth-preparation-evaluation|Feasibility of software-based assessment for automated evaluation of tooth preparation for dental crown by using a computational geometric algorithm]] |
+| [[hashemi-2022-fully-digital-versus-conventional-workflows|Fully Digital versus Conventional Workflows for Fabricating Posterior Three-Unit Implant-Supported Reconstructions: A Prospective Crossover Clinical Trial]] |
 | [[iqbal-2025-chatgpt-healthcare-umbrella-review|Impact of large language model (ChatGPT) in healthcare: an umbrella review and evidence synthesis]] |
 | [[jamil-2020-surgeon-reliability-implant-high-risk-panoramic|The reliability of surgeons to avoid traumatic insertion of dental implants into high-risk regions: a panoramic radiograph study]] |
 | [[jkda-2025-63-5-003|Comparison of marginal and internal fit of zirconia crowns fabricated by three-dimensional printing with different offset parameters: A preliminary pilot study]] |
+| [[ku-2022-accuracy-dental-implant-placement-computer-guided|Accuracy of dental implant placement with computer-guided surgery: a retrospective cohort study]] |
 | [[lee-2019-full-mouth-rehabilitation-reduced|Full mouth rehabilitation in a patient with reduced vertical dimension due to numerous tooth loss and excessive worn dentition: A case report]] |
 | [[lee-2025-ai-dentistry-emerging-applications-narrative|Artificial intelligence in dentistry: Exploring emerging applications and future prospects]] |
 | [[lu-2021-digital-stackable-osteotomy-template-precision|Immediate Precision of the Digital Osteotomy Template in the Digital Stackable Template: A Clinical Study]] |
@@ -62,9 +65,12 @@ tags: [navigation, category-index, digital-workflow]
 | [[oguz-2026-trueness-precision-intraoral-scanners-3d-printed|Trueness and Precision of Intraoral Scanners for 3D-Printed Orthodontic Models with Attachments: An In Vitro Comparative Study]] |
 | [[oh-2023-deep-learning-osseointegration-prediction-radiographs|Deep learning-based prediction of osseointegration of dental implants using plain radiography]] |
 | [[park-2023-deep-learning-implant-size-classification|Deep learning and clustering approaches for dental implant size classification based on periapical radiographs]] |
+| [[park-2025-comparison-of-interference-from-eccentric|Comparison of interference from eccentric movements of dental crowns fabricated via dynamic jaw motion tracking and conventional methods: a double-blind clinical study]] |
+| [[prasad-2026-extraoral-photogrammetry-complete-arch-sr-ma|SR+MA: accuracy of complete arch implant scanning — reverse impression and extraoral photogrammetry]] |
 | [[ramos-morro-2026-patient-perception-reliability-reproducibility-chairside|Evaluation of the patient's perception, reliability and reproducibility, and chairside time with intraoral scanners in adult population—a systematic review]] |
 | [[revilla-leon-2021-artificial-intelligence-implant-dentistry-sr|Artificial intelligence applications in implant dentistry: A systematic review]] |
 | [[revilla-leon-2025-tooth-preparation-factors-ios-accuracy-sr|Tooth preparation-related factors that impact the accuracy of intraoral scanners for fabricating tooth-supported restorations: A systematic review]] |
+| [[saad-2024-reliability-of-the-digital-functionally|Reliability of the digital functionally generated path technique for assessing occlusal interferences and adjusting CAD-CAM zirconia crowns: an in vivo study]] |
 | [[sadid-zadeh-2020-teeth-prepared-students-cadcam|Assessment of Teeth Prepared by Senior Dental Students for CAD/CAM Restorations]] |
 | [[saeed-2023-robotic-artificial-intelligence-implant-dentistry|Future of Using Robotic and Artificial Intelligence in Implant Dentistry]] |
 | [[sakai-2023-ai-drilling-protocol-cbct-implants|Development of artificial intelligence model for supporting implant drilling protocol decision making]] |
@@ -73,6 +79,7 @@ tags: [navigation, category-index, digital-workflow]
 | [[shirani-2026-computer-assisted-vs-freehand-implant-placement-sr-ma|Comparison Between Computer-Assisted and Freehand Dental Implant Placement: A Systematic Review and Meta-analysis]] |
 | [[singh-2025-intraoral-scanners-accuracy-umbrella-review|Accuracy and Clinical Performance of Intraoral Scanners Compared to Conventional and Extraoral Impressions: An Umbrella Review]] |
 | [[srinivasan-2025-artificial-intelligence-dental-implants-review|Artificial Intelligence–Driven Advancements in Dental Implants: A Narrative Review]] |
+| [[sui-2026-influence-of-a-digital-versus|Influence of a digital versus a conventional workflow on occlusal contacts of posterior implant-supported single crowns based on digital occlusal analysis: a retrospective study]] |
 | [[tomar-2025-comparing-clinical-outcomes-guided-freehand|Comparing the clinical outcomes of guided and freehand dental implant surgery: An umbrella review of systematic reviews and meta-analyses]] |
 | [[ucar-2026-llm-performance-zygomatic-implantology|Comparative performance of AI chatbots in dental implantology: insights and limitations]] |
 | [[vankos-2026-digital-conventional-implant-impressions-edentulous|Accuracy of Digital and Conventional Implant Impressions in Edentulous Jaws: A Systematic Review and Meta-Analysis of In Vitro Studies]] |
