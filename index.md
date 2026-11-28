@@ -908,7 +908,6 @@ tags: []
 - [[sinus-lift/lateral/nathani-2025-evaluation-of-the-efficacy-of]] — Nathani 2025 · prospective (단일군 12명 등록/10명 분석, PMC전문) · 잔존골 ≤5mm 측방 거상에서 자가골:30/70 BCP 1:1 + PRF — 6개월 골고도 +8.53mm(p<0.001), 신생골 48.08%·잔존이식재 24.36%, 막천공 0건 (DOI 10.4103/jisp.jisp_30_25)
 - [[sinus-lift/lateral/urechescu-2026-psaa-localization-lateral-window-sinus]] — 후향 CBCT (n=1152 상악동, 루마니아): PSAA 검출 68.1%·점막하 48.6%·골내 17.6%; 동저 거리 8.3±4.3mm; 대형창(>11mm)에서 골내형 유의 증가(p=0.004) — 측방창 높이별 PSAA 위험도 4분류 체계 (DOI 10.1186/s12903-026-08146-4)
 - [[sinus-lift/lateral/radmand-2023-anatomic-evaluation-posterior-superior-alveolar]] — SR+MA (37편, 11,402상악동): PSAA 검출률 79%·골내형 64%·직경 1.06mm(55%<1mm·2%>2mm); 동저 거리 8.85mm·치조정 거리 16.71mm — "상악동거상술 중 PSAA 손상으로 인한 중증 출혈은 실질적 임상 문제가 아님"; 직경>2mm(2%)만 과다출혈 위험 (DOI 10.5624/isd.20230009)
-- [[sinus-lift/molina-2022-complications-sinus-lifting-classification-management]] — Molina et al. 2022 · narrative-review · 상악동거상술 합병증 분류·관리 종합 리뷰 (Periodontology 2000 88(1):103-115): 측방창·경치조골 양쪽 접근법, 출혈이 특이적 합병증으로 명시 — 직접 비교 연구 없음 확인, 피에조전기·수압거상 등 신기술 근거 불충분 (DOI 10.1111/prd.12414)
 - [[sinus-lift/lateral/basma-2021-large-artery-management-maxillary-sinus]] — 증례보고: CT 확인 대직경 PSA 분지를 피에조전기 기구로 슈나이더막과 함께 출혈 없이 거상 → 대직경 PSAA 발견 시 절제 대신 "막과 함께 거상" 전략으로 출혈 합병증 예방 (DOI 10.1002/cap.10104)
 
 ## 상악동거상술 — 경치조골·골밀도화 (Sinus Lift: Transcrestal / Osseodensification)
@@ -1636,6 +1635,10 @@ tags: []
 - [[digital-workflow/achmadi-2025-intraoral-scanner-edentulous-accuracy-scoping]] — Scoping review (BDJ Open 2025, 8 studies): IOS vs lab scanner edentulous — IOS promising but smooth ridge limits accuracy; lab scanner generally superior for fully edentulous
 - [[digital-workflow/vitai-2023-intraoral-scanner-complete-arch-sr-network-ma]] — IOS 전악 스캔 정확도 SR + 네트워크 MA — 기기별 trueness·precision 순위 제시, 스캔 전략·악궁 연장 시 오차 증가.
 - [[digital-workflow/buhl-2025-intraoral-scanner-full-arch-accuracy-invitro]] — 최신 IOS 전악 정확도 in vitro 직접 비교 — trueness 50–200μm, 기기 간 유의 차이, 구치부 연장 시 오차 증가.
+- [[digital-workflow/ender-2026-complete-arch-accuracy-six-ios]] — 임상연구(10명, 6 IOS): Primescan 전악 trueness 41 µm로 최우수; Primescan 2 동등 성능; Emerald S 최하; 전통 인상 정밀도 여전히 우위 (2026)
+- [[digital-workflow/guo-2026-lighting-conditions-ios-accuracy-clinical]] — 임상연구(10명, 4 조도 조건): Primescan은 2500 lx/4100 K에서 최적, TRIOS 4는 1000 lx/5500 K에서 최적 — 스캐너별 조명 맞춤 필요 (2026)
+- [[digital-workflow/wildhagen-2026-accuracy-ios-post-preparations]] — in vitro µ-CT(소구치 20개): 포스트 준비 공간 스캔 Primescan > TRIOS 4; 깊이 증가 시 정확도 감소; IOS 포스트 디지털 인상 첫 타당성 검증 (2026)
+- [[digital-workflow/sanioglu-2026-preparation-design-ios-trueness]] — in vitro(9가지 크라운 준비 디자인): 삭제 형태가 trueness 지배 요인(p<0.001); 전부 비니어 구개측 준비에서 TRIOS 5 우위; RMS 24.7–62.3 µm (2026)
 - [[digital-workflow/jamil-2020-surgeon-reliability-implant-high-risk-panoramic]] — 전향 임상 (n=148 implants/73 patients): 파노라마만 사용 시 93.2% 가 ABH 과소평가, 5건 IAN paresthesia (모두 overestimated mandible). 후방 임플란트에서 CBCT planning 필요성 근거.
 - [[digital-workflow/luz-2018-maxillary-sinus-3d-cbct-evaluation]] — 콘빔 컴퓨터 단층촬영 (Cone-Beam Computed Tomography, CBCT) 후향 분석 (64명, 128 상악동): 임플란트 계획 소프트웨어(SMOP)로 3D 부피·표면적을 산출했고, 골성 상악동 평균 부피 17.1 cm³, 폐색 상악동 비율 42.2% (평균 폐색 부피 5.1 cm³), 폐색 부피는 상악동 병변과 연관, 남성에서 골성 상악동 부피가 유의하게 컸다.
 - [[digital-workflow/gao-2025-ai-dentistry-narrative-review]] — narrative-review (Med Sci Monit 2025;31:e946676, Zhejiang): AI(ML·ANN·DL)의 치과 6대 전공 진단·치료 적용 총론 — 예방·스크리닝부터 예후까지; 데이터 라벨링·일반화·편향·법적 위험 한계
@@ -1928,6 +1931,10 @@ tags: []
 - [[resin-bonding/meral-2025-gic-resin-composite-systemic-disease-nccl-48m]] — 전신질환 환자 NCCL에서 GIC(Fuji Bulk) vs RC(G-ænial) 48개월 RCT: 생존율 유사(82.1% vs 89.3%)
 - [[resin-bonding/forville-2026-air-abrasion-nccl-18m-rct]] — NCCL에서 에어어브레이젼(APA, 50μm Al₂O₃) 전처치 18개월 분구법 RCT: 대조군 96.7% vs APA 90.3%(유의차 없음), 일상적 적용 불필요
 
+- [[resin-bonding/koup-2024-selective-enamel-etch-technique]] — Koup & Blatz 2024 · narrative-review · SEE 기법 종합 리뷰: 자가부식/유니버설 접착제 사용 시 인산을 법랑질에만 선택 적용 권장 (Compend Contin Educ Dent 45(5):243-247, PMID 38900462, 초록만)
+- [[resin-bonding/amran-2023-accuracy-selective-enamel-etching]] — Amran et al. 2023 · in-vitro · SEE 정확도 컴퓨터 보조 영상 분석: 정확도 61.1-87.0%, 와동 유형별 유의차(제5급>제2급>제4급), 적용시간과 무상관 (Oper Dent 48(5):538-545, DOI 10.2341/22-114-L, 초록만)
+- [[resin-bonding/hamdy-2025-application-mode-aging-primary-enamel]] — Hamdy et al. 2025 · in-vitro · 유치 법랑질 μTBS: 선택적 산부식이 μTBS 유의 증가(p<0.001), 15s vs 30s 무차이, 6개월 시효가 SU 감소 (Int J Paediatr Dent 35(4):815-828, DOI 10.1111/ipd.13293, 초록만)
+
 ## 전신질환·약물 (Drug / Systemic Medicine)
 - [[drug/systemic-disease/desai-2023-alcohol-withdrawal-syndrome-head-neck-cancer]] — Desai 2023 · narrative-review · 두경부암 수술의 술후 알코올 금단증후군(AWS): 합병증·재원기간·비용 ↑, 위해감소·중독의학 접근이 이환/사망 ↓(단 이 수술군 검증 불충분) — 치과적 의미는 "과량 음주력 = 금단 위험" 술전 선별·의뢰 (DOI 10.1002/ohn.164, 초록만)
 - [[drug/anticoagulants/dou-2025-bleeding-dentoalveolar-doac-vka-sr-ma]] — Dou 2025 · sr+ma · 29편/29,212명: 비중단 DOAC가 VKA보다 발치 후 출혈 21%↓(RR 0.79, dabigatran 주도), 둘 다 무항응고 대비 ~3배
@@ -2158,6 +2165,11 @@ tags: []
 - [[oral-surgery/kim-2019-bone-collector-drill-assembly]] — 특허(등록 10-2327565, (주)해냄/김성주): 자가골 채집 드릴조립체 — 탄성스토퍼 접힘밴드가 삽입깊이 외부 표시 + 종래 경질 수집통 가압통증 완화, 수집공으로 골·혈액 채집
 - [[oral-surgery/nerve-injury/sarikov-2014-ian-injury-third-molar-review]] — 문헌고찰(JOMR 2014, 14편): IAN 감각이상 0.35–8.4%; 24세 초과·수평매복·수련의 시술 위험인자; 영구적 손상 드묾; 대부분 회복
 - [[oral-surgery/nerve-injury/li-2022-ian-position-nerve-injury-sr-ma]] — SR+MA(Healthcare 2022, 11편): IAC 설측 위치 → IAN 손상 위험 유의하게 높음; 수술 전 CBCT로 고위험군 식별 가능
+- [[oral-surgery/nerve-injury/rood-1990-radiological-prediction-ian-injury-third-molar]] — Rood & Shehab 1990 · retrospective+prospective (BJOMS, abstract-only) · 파노라마 7개 징후 중 3개 IAN 손상과 유의 + 2개 임상적 중요 가능 — "Rood & Shehab 징후" 원전 (DOI 10.1016/0266-4356(90)90005-6)
+- [[oral-surgery/nerve-injury/othman-2026-panoramic-signs-ian-injury-diagnostic-accuracy-sr-ma]] — Othman 2026 · DTA sr+ma (37편, 2×2 10편) · 신경관 편향 특이도 0.95·LR+ 5.66·DOR 8.18(손상확률 5%→25%), 치근 암화 DOR 3.92; 징후 부재의 안심효과 +0.2–2.5%p뿐 (DOI 10.3390/jcm15218315)
+- [[oral-surgery/nerve-injury/del-lhano-2020-panoramic-vs-cbct-ian-paresthesia-sr-ma]] — Del Lhano 2020 · sr+ma (RCT 4편) · CBCT vs 파노라마 일시적 IAN 감각이상 RR 1.23 (0.75–2.02), GRADE 중등도 — CBCT 이득 없음 (DOI 10.1259/dmfr.20190265)
+- [[oral-surgery/nerve-injury/telles-araujo-2020-cbct-vs-panoramic-neurosensory-third-molar-sr-ma]] — Telles-Araújo 2020 · sr+ma (6편) · CBCT가 신경감각장애 예방에 파노라마보다 우월하지 않음 (DOI 10.1007/s00784-020-03231-6)
+- [[oral-surgery/nerve-injury/reia-2021-cbct-vs-panoramic-ian-exposure-accuracy-sr-ma]] — Reia 2021 · DTA sr+ma (3편) · IAN 노출 예측 CBCT 민감도 95.1%/특이도 64.4% vs 파노라마 73.9%/24.8% (DOI 10.1007/s00784-021-03942-4)
 - [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]] — 서술적(Eng Proc 2025): NICE·AAOMS 가이드라인 검토; 반복 관주위염·낭종·인접치 흡수 = 절대적응증; IAC 고위험 시 치관절제술(Coronectomy) 고려
 - [[oral-surgery/third-molar/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] — SR+MA (12 studies): coronectomy → significantly less IAN sensory loss + fewer dry sockets vs complete extraction; root migrates ~2mm/2yr; pain/infection equivalent
 - [[oral-surgery/third-molar/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] — SR (16 papers, 2,176 coronectomies): IAN injury 0.59%, lingual nerve 0.22%, infection 3.95%, root re-extraction 5.28%; low-risk alternative to third molar extraction
@@ -3180,6 +3192,7 @@ tags: []
 - [[overviews/implant-prosthesis-misfit-connection-mbl-overview]] — **Overview** (Synthesis 2026-06-27, 4편): 보철 부적합·연결부 → 변연골 — misfit은 나사 합병증이 주 결과(Katsoulis 2017), 골 소실은 ≥0.1 mm 임계나 흡연·치주염이 지배(Couso-Queiruga 2025 생물학적 경로), 장기 부적합 허용(Jokstad 2014)·연결부 초기 MBL은 5년 수렴(Kim 2022)
 - [[overviews/implant-prosthesis-retention-screw-vs-cement-overview]] — **Overview** (Synthesis 2026-06-27, 5편): 임플란트 보철 유지 결정 — 나사 vs 시멘트 vs SCRP — 회수성·잔류시멘트·SCRP 적합 한계(Park 2022·Kim 2023)·FEA 응력분포(Lee 2021/2025)·루팅제 선택(Leung 2022) 종합
 - [[overviews/digital-workflow-decision-ladder]] — 디지털 치의학 4축 (IOS·CAIS·AI·LLM). Vankos 2026 + Schiavon 2025 NMA + Najeeb 2025 + Zhang 2025 spine.
+- [[overviews/primescan-clinical-performance-overview]] — **NEW Overview** (12편, 2026-11-28): 프라임스캔(Primescan) 임상 성능 종합 — 전악 임상 trueness 41 µm(최우수, ender-2026 in vivo), 프라임스캔 2 동등, 최적조명 2500 lx/4100 K, 포스트 준비 가능(≤10 mm), 전부 비니어 구개측은 TRIOS 우위; 삭제 형태 > 스캐너 종류.
 - [[overviews/oral-medicine-decision-ladder]] — 구강내과 6축 (OPMD·OLK·OLP·BMS·RAS·OMS). WHO consensus + Aguirre-Urizar 2021 SR+MA spine.
 - [[overviews/oral-lichen-planus-overview]] — **NEW Overview** (5편, 2026-07-24): 구강편평태선(OLP) 진단·치료·전신연관 종합. 결론=국소스테로이드 1차이나 근거 낮음~매우낮음(코크란 Lodi 2020, 35RCT/1474명, 통증해소 RR 1.91), 완치 아닌 조절, 미란·위축형 최고위험. 비용SR(Sandhu 2022)도 국소스테로이드가 가치 1차. 전신파수꾼(Warnakulasuriya 2025, ~20질환): 우울 OR 6.15·셀리악 OR 18.44·C형간염 OR 4.09·하시모토 OR 2.23·당뇨 OR 1.64 — 인식+증상유발검사+의뢰이지 일괄선별 아님. 악성전환 종합은 `oral-medicine/opmd`로 위임.
 - [[overviews/opmd-malignant-transformation-risk-stratification-overview]] — Synthesis 2026-08-02 (10편): 구강잠재악성질환(OPMD) 악성전환 위험 층화 — 홍반증(Erythroplakia) ~33%·OLK 풀링 6.64%(NHOL RR=4.23·설측연 절대 MTR 12.71%)·OLP 실제 0.5–1.4%(기존 ~5%는 오분류 과대추정)·OSF ~7–8%; 이형성 RR=2.75; 재발 OLK RR=7.39; 형태 분류+생검이 위험층화 전제. oral-lichen-planus-overview 악성전환 위임처
