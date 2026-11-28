@@ -1,0 +1,12 @@
+RISK FACTORS IMPACTING THE SURVIVAL OF IMPLANTS REPLACED FOLLOWING FAILURE: A RETROSPECTIVE STUDY.
+Lee D, Ko YC, Seol YJ, Koo KT, Lee YM, Lee J. Clin Implant Dent Relat Res. 2023. doi:10.1111/cid.13265. PMID 37574782. Seoul National University Dental Hospital, Korea.
+
+[ABSTRACT-ONLY — full text not retrieved]
+
+This study aimed to investigate factors influencing the survival of replaced dental implants.
+
+Charts from 2005 to 2021 were reviewed. Replaced implants after removal for the first time were identified. Depending on their survival, the replaced group was divided into the surviving and second-removal groups. Risk factors affecting survival of replaced implants were evaluated considering clustering of multiple implants within patients.
+
+The present study included 464 replaced implants of 370 patients, of which 429 and 35 implants were categorized into the surviving group and the second-removal group. The 5-year survival rate was 90.2 ± 0.18% in replaced implants at sites with a periodontitis history and 97.0 ± 0.15% at sites without a periodontitis history (p = 0.008). The 5-year survival rate was 89.1 ± 0.27% in replaced implants with guided bone regeneration (GBR) at first implant placement and 93.9 ± 0.14% at non-GBR (p = 0.032). The 5-year survival rate was 97.6 ± 0.13% in replaced implants with GBR and 90.3 ± 0.17% in replaced implants without GBR (p = 0.026). In the multivariable analysis adjusted for clinical variables, periodontitis history (adjusted hazard ratio [aHR] = 3.417; 95% confidence interval [CI] = 1.161-10.055), GBR at first implant placement (aHR = 2.152; 95% CI = 1.052-4.397) and non-GBR at primary implant replacement (aHR = 0.262; 95% CI = 0.088-0.778) were identified as independent risk factors for second implant removal.
+
+Periodontitis history, GBR at first implant placement and non-GBR at primary implant replacement were identified as risk factors affecting the survival of replaced implants.
