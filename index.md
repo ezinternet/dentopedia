@@ -1663,6 +1663,8 @@ tags: []
 - [[digital-workflow/sui-2026-influence-of-a-digital-versus]] — 후향 코호트(n=239, 베이징대 제1병원): 후방부 단일 임플란트 모놀리식 지르코니아 크라운 디지털(IOS+보조 교합 장치) vs 기존 워크플로우 — 최대·평균 교합 편차·조정 면적·OTR 모두 디지털 우위(P<0.001), ROF 분포 생리적(임플란트↓·인접치↑), 기공실 시간 단축, 조정 필요 크라운 감소(2026)
 - [[digital-workflow/hashemi-2022-fully-digital-versus-conventional-workflows]] — 하악 후방 3유닛 ISFDP 디지털 vs. 기존 워크플로우 전향적 교차시험: 정확도·수동성·교합·미적 평가 동등, 총 제작시간 디지털 유의하게 단축 (p<0.001)
 - [[digital-workflow/saad-2024-reliability-of-the-digital-functionally]] — 디지털 기능적발생경로(Digital FGP) RCT: PSM 측방 교합 압력 20.62% vs 26.00%(p<0.0001); 밀링 전 편심 간섭 제거로 연삭 조정 최소화
+- [[digital-workflow/prasad-2026-extraoral-photogrammetry-complete-arch-sr-ma]] — SR+MA (J Prosthet Dent 2026, 29편, AAFP위원회): 구외 광측정술(Extraoral Photogrammetry) 전악 임플란트 스캔 — 풀링 RMS 진실도 48µm·선형불일치 27µm; "임상적으로 허용 가능"; 역인상 유망하나 근거 제한
+- [[digital-workflow/abuduwaili-2025-comparison-of-photogrammetric-imaging-intraoral]] — In vitro (BMC Oral Health 2025, 쑨야트센대, 6임플란트 하악): Icam4D RMS 진실도 10.87µm · PIC 13.35µm vs IOS(TRIOS3) 91.75µm — 광측정술 4–8× 우위; 전통인상 중간; PG > 전통 > IOS
 
 ## 교정치료 (Orthodontics)
 
