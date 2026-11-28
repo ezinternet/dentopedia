@@ -19,6 +19,8 @@ source_papers:
   - wiki/digital-workflow/singh-2025-intraoral-scanners-accuracy-umbrella-review.md
   - wiki/digital-workflow/alkadi-2023-intraoral-scanner-accuracy-factors.md
   - wiki/digital-workflow/ramos-morro-2026-patient-perception-reliability-reproducibility-chairside.md
+  - wiki/digital-workflow/borbola-2024-virtual-fit-complete-arch-ios-accuracy.md
+  - wiki/digital-workflow/mayer-2025-edentulous-span-ios-accuracy.md
 tags: [primescan, primescan-2, ios, intraoral-scanner, accuracy, trueness, precision, digital-workflow, cerec, dentsply-sirona, clinical-decision]
 ---
 
@@ -32,7 +34,8 @@ tags: [primescan, primescan-2, ios, intraoral-scanner, accuracy, trueness, preci
 > - **삭제 형태(preparation design) 의존성**: 단순 교합 비니어(partial occlusal veneer)에서 가장 양호(sanioglu-2026). **전부 비니어(buccal + palatal) 준비에서 최대 오차(62.3 µm)** — 이 디자인에서는 TRIOS 5가 우위. 단면 삭제는 프라임스캔 유리.
 > - **전악 in vitro 벤치마크**: buhl-2025에서 trueness 50–100 µm, 구치부 연장 시 오차 증가. vitai-2023 SR+NMA에서 TRIOS 3와 함께 전악 상위 클러스터.
 > - **고정식 교정 장치 환경**: schlenz-2022에서 최속 스캔(92–115 s), 전통 알지네이트 대비 정확도 우위.
-> - **임상 의사결정 분기**: ① 단순 단일치 왕관 → 프라임스캔 우선 선택 ② 전부 비니어 구개측 준비 → TRIOS 계열 고려 ③ 포스트 준비 → 프라임스캔 가능(**8 mm 이하**; 10 mm 이상 주의) ④ 무치악 전악 → 현재 근거 불충분, 전통 인상 또는 광측정술(SPG) 대안.
+> - **임상 의사결정 분기**: ① 단순 단일치 왕관 → 프라임스캔 우선 선택 ② 전부 비니어 구개측 준비 → TRIOS 계열 고려 ③ 포스트 준비 → 프라임스캔 가능(**8 mm 이하**; 10 mm 이상 주의) ④ 완전궁(유치열) → 프라임스캔 2위(42 µm, borbola-2024); EmeraldS·Mediti700도 동등 ⑤ **무치악 경간 길이 증가 → TRIOS 3 유리** (mayer-2025: R²=0.892 프라임스캔 더 민감); 완전 무치악 → SPG 우선.
+> - **완전궁 7-way 비교(가상적합법, borbola-2024)**: 프라임스캔 변연 간격 2위(42 µm); MAE 정밀도 2그룹; EmeraldS·Mediti700이 新 경쟁자로 등장 — 단일 IOS에 의존 말 것.
 > - **인레이·온레이 디지털 인상**: 프라임스캔 인레이 진도성 **12.29 µm** — 비교 IOS 중 최우수(revilla-leon-2025 SR+MA). 디지털·전통 인상 간 변연 불일치 유의차 없음; 비니어는 근거 불충분.
 > - **근관치료 접근와 스캔(신규)**: 프라임스캔으로 근관구 위치·개수 판독 가능(현미경·CBCT 동등); 접근와 결함 87.5% 진단 정확도; 석회화 근관구에서는 중등도(79.2%) — 그 경우 CBCT 보완 필요(grazziotin-2026).
 > - **환자 경험**: IOS는 전통 인상 대비 의자옆시간(chair-side time) 대폭 단축(12 vs 75.5 min; ramos-morro-2026), 환자 편의 개선 — 프라임스캔은 이 편익에서 타 IOS와 동등.
@@ -73,6 +76,8 @@ For the majority of single- and multi-unit restorative scenarios, Primescan deli
 | [[inlay/revilla-leon-2025-ios-accuracy-inlay-onlay-veneer-sr-ma]] | SR + MA | 34 studies | Inlay / onlay / veneer | Primescan inlay trueness **12.29 µm** (best of tested IOS); IOS ≈ conventional for marginal discrepancy | sr+ma |
 | [[digital-workflow/almalki-2024-ios-accuracy-post-space-lengths]] | In vitro | 45 teeth | Post space (6/8/10 mm) | RMS 58/81/101 µm; 6 & 8 mm acceptable vs PVS; apical 10 mm: 163 µm (significant decline) | in-vitro |
 | [[digital-workflow/grazziotin-2026-primescan-accuracy-endodontic-access]] | In vitro | 24 molars | Endodontic access opening | Orifice location accurate vs microscope & CBCT; defect detection 87.5%; calcified orifice 79.2% (moderate) | in-vitro |
+| [[digital-workflow/borbola-2024-virtual-fit-complete-arch-ios-accuracy]] | In vitro | 4 arches × 7 IOS | Complete arch (virtual-fit) | Primescan marginal gap **42 µm** (2nd best, same subset as Mediti700); MAE precision 2nd subset (behind Trios5/Mediti700/EmeraldS) | in-vitro |
+| [[digital-workflow/mayer-2025-edentulous-span-ios-accuracy]] | In vitro | 240 scans | Complete arch with edentulous spans | TRIOS 3 RMS **0.296 mm** vs Primescan **0.338 mm**; Primescan span-length dependence R²=0.892 vs TRIOS 3 R²=0.674 | in-vitro |
 
 ---
 
@@ -84,9 +89,10 @@ For the majority of single- and multi-unit restorative scenarios, Primescan deli
 - **Action**: For anterior veneers involving palatal margin, consider whether TRIOS access is available; otherwise verify fit carefully
 
 ### 2. Complete arch (full-arch impressions for fixed prosthetics)
-- **Decision**: Primescan acceptable (< 100 µm trueness); in vivo best-in-class (41 µm, ender-2026)
-- **Caveat**: Error accumulates in posterior segments; conventional impression still superior in precision (21 µm)
-- **Action**: For multi-unit long-span bridge > 4 units, evaluate against case complexity; for most single-arch fixed cases, Primescan is clinically sufficient
+- **Decision**: Primescan acceptable for dentate complete-arch (< 100 µm trueness in vivo, ender-2026; 42 µm marginal gap 2nd-best in virtual-fit 7-way, borbola-2024)
+- **Caveat 1**: Error accumulates in posterior segments; conventional impression still superior in precision (21 µm, ender-2026)
+- **Caveat 2 (new — edentulous spans)**: When edentulous spans are present, TRIOS 3 significantly outperforms Primescan (RMS 0.296 vs 0.338 mm; 9/12 scenarios, mayer-2025); Primescan accuracy declines more steeply with span length (R²=0.892)
+- **Action**: For fully dentate complete-arch, Primescan clinically sufficient. For cases with ≥1 long edentulous span, prefer TRIOS-class confocal IOS or validate with try-in; EmeraldS and Mediti700 are emerging competitors now meeting fit criteria
 
 ### 3. Post-and-core (endodontically treated teeth)
 - **Decision**: Primescan feasible for digital post impression (wildhagen-2026 µ-CT; almalki-2024 typodont — converging evidence)
@@ -120,9 +126,11 @@ This mechanistic distinction allows prediction of when to prefer TRIOS: any prep
 
 ## Gaps and Future Research
 1. **Clinical acceptance threshold for post space**: almalki-2024 provides RMS benchmarks (58–101 µm) and identifies 8 mm as the practical upper limit vs PVS; wildhagen-2026 extends to 12 mm with µ-CT validation. Neither defines prosthetic fit failure threshold — clinical RCT needed
-2. **Primescan 2 expanded evidence**: ender-2026 is the only study to date — further direct comparisons in complex scenarios (anterior palatal veneers, post spaces) needed
-3. **Longitudinal fit outcomes**: No study links IOS trueness values to crown marginal gap, prosthetic survival, or patient outcomes — the accuracy literature assumes 100 µm threshold without clinical fit validation
-4. **Mixed lighting field validation**: guo-2026 tested only at manufacturer-recommended color temperatures — cross-temperature testing (Primescan under 5500 K, TRIOS under 4100 K) not evaluated
+2. **Edentulous span threshold**: mayer-2025 establishes Primescan's greater span-length sensitivity (R²=0.892) but does not define the specific span length at which Primescan becomes clinically unacceptable vs TRIOS 3 — a threshold RCT is needed
+3. **EmeraldS and Mediti700 independent validation**: borbola-2024 is the first study to show these newer scanners match Primescan/Trios5; independent multi-center replication needed before clinical preference shift
+4. **Primescan 2 expanded evidence**: ender-2026 is the only study to date — further direct comparisons in complex scenarios (anterior palatal veneers, post spaces, edentulous spans) needed
+5. **Longitudinal fit outcomes**: No study links IOS trueness values to crown marginal gap, prosthetic survival, or patient outcomes — the accuracy literature assumes 100 µm threshold without clinical fit validation
+6. **Mixed lighting field validation**: guo-2026 tested only at manufacturer-recommended color temperatures — cross-temperature testing (Primescan under 5500 K, TRIOS under 4100 K) not evaluated
 
 ---
 
