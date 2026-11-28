@@ -8,6 +8,9 @@ source_papers:
   - wiki/digital-workflow/guo-2026-lighting-conditions-ios-accuracy-clinical.md
   - wiki/digital-workflow/wildhagen-2026-accuracy-ios-post-preparations.md
   - wiki/digital-workflow/sanioglu-2026-preparation-design-ios-trueness.md
+  - wiki/inlay/revilla-leon-2025-ios-accuracy-inlay-onlay-veneer-sr-ma.md
+  - wiki/digital-workflow/almalki-2024-ios-accuracy-post-space-lengths.md
+  - wiki/digital-workflow/grazziotin-2026-primescan-accuracy-endodontic-access.md
   - wiki/digital-workflow/buhl-2025-intraoral-scanner-full-arch-accuracy-invitro.md
   - wiki/digital-workflow/oguz-2026-trueness-precision-intraoral-scanners-3d-printed.md
   - wiki/digital-workflow/schlenz-2022-transfer-accuracy-digital-conventional-full-arch.md
@@ -29,7 +32,9 @@ tags: [primescan, primescan-2, ios, intraoral-scanner, accuracy, trueness, preci
 > - **삭제 형태(preparation design) 의존성**: 단순 교합 비니어(partial occlusal veneer)에서 가장 양호(sanioglu-2026). **전부 비니어(buccal + palatal) 준비에서 최대 오차(62.3 µm)** — 이 디자인에서는 TRIOS 5가 우위. 단면 삭제는 프라임스캔 유리.
 > - **전악 in vitro 벤치마크**: buhl-2025에서 trueness 50–100 µm, 구치부 연장 시 오차 증가. vitai-2023 SR+NMA에서 TRIOS 3와 함께 전악 상위 클러스터.
 > - **고정식 교정 장치 환경**: schlenz-2022에서 최속 스캔(92–115 s), 전통 알지네이트 대비 정확도 우위.
-> - **임상 의사결정 분기**: ① 단순 단일치 왕관 → 프라임스캔 우선 선택 ② 전부 비니어 구개측 준비 → TRIOS 계열 고려 ③ 포스트 준비 → 프라임스캔 가능(10 mm 이하) ④ 무치악 전악 → 현재 근거 불충분, 전통 인상 또는 광측정술(SPG) 대안.
+> - **임상 의사결정 분기**: ① 단순 단일치 왕관 → 프라임스캔 우선 선택 ② 전부 비니어 구개측 준비 → TRIOS 계열 고려 ③ 포스트 준비 → 프라임스캔 가능(**8 mm 이하**; 10 mm 이상 주의) ④ 무치악 전악 → 현재 근거 불충분, 전통 인상 또는 광측정술(SPG) 대안.
+> - **인레이·온레이 디지털 인상**: 프라임스캔 인레이 진도성 **12.29 µm** — 비교 IOS 중 최우수(revilla-leon-2025 SR+MA). 디지털·전통 인상 간 변연 불일치 유의차 없음; 비니어는 근거 불충분.
+> - **근관치료 접근와 스캔(신규)**: 프라임스캔으로 근관구 위치·개수 판독 가능(현미경·CBCT 동등); 접근와 결함 87.5% 진단 정확도; 석회화 근관구에서는 중등도(79.2%) — 그 경우 CBCT 보완 필요(grazziotin-2026).
 > - **환자 경험**: IOS는 전통 인상 대비 의자옆시간(chair-side time) 대폭 단축(12 vs 75.5 min; ramos-morro-2026), 환자 편의 개선 — 프라임스캔은 이 편익에서 타 IOS와 동등.
 
 ---
@@ -65,6 +70,9 @@ For the majority of single- and multi-unit restorative scenarios, Primescan deli
 | [[digital-workflow/ciocan-2024-intraoral-scanners-comparison-four-in-vitro]] | In vitro | — | Region-specific | Region-dependent ranking; all within acceptable range | in-vitro |
 | [[digital-workflow/ramos-morro-2026-patient-perception-reliability-reproducibility-chairside]] | SR (10 studies) | — | Patient experience | IOS 12 vs 75.5 min; VAS 9.02 vs 6.5 — benefits apply to all top IOS including Primescan | sr |
 | [[digital-workflow/alkadi-2023-intraoral-scanner-accuracy-factors]] | Narrative review | — | General factors | Full-arch > quadrant error; operator & arch extent key; Primescan technology section | narrative-review |
+| [[inlay/revilla-leon-2025-ios-accuracy-inlay-onlay-veneer-sr-ma]] | SR + MA | 34 studies | Inlay / onlay / veneer | Primescan inlay trueness **12.29 µm** (best of tested IOS); IOS ≈ conventional for marginal discrepancy | sr+ma |
+| [[digital-workflow/almalki-2024-ios-accuracy-post-space-lengths]] | In vitro | 45 teeth | Post space (6/8/10 mm) | RMS 58/81/101 µm; 6 & 8 mm acceptable vs PVS; apical 10 mm: 163 µm (significant decline) | in-vitro |
+| [[digital-workflow/grazziotin-2026-primescan-accuracy-endodontic-access]] | In vitro | 24 molars | Endodontic access opening | Orifice location accurate vs microscope & CBCT; defect detection 87.5%; calcified orifice 79.2% (moderate) | in-vitro |
 
 ---
 
@@ -81,9 +89,10 @@ For the majority of single- and multi-unit restorative scenarios, Primescan deli
 - **Action**: For multi-unit long-span bridge > 4 units, evaluate against case complexity; for most single-arch fixed cases, Primescan is clinically sufficient
 
 ### 3. Post-and-core (endodontically treated teeth)
-- **Decision**: Primescan feasible for digital post impression (wildhagen-2026 — first µ-CT validation)
-- **Caveat**: Only tested to 12 mm; post depth > 10 mm shows accuracy decline; clinical threshold not yet established
-- **Action**: Target post preparation depth ≤ 10 mm for IOS impression; at 12 mm consider conventional post impression; re-evaluate when clinical threshold data are available
+- **Decision**: Primescan feasible for digital post impression (wildhagen-2026 µ-CT; almalki-2024 typodont — converging evidence)
+- **Benchmarks**: 6 mm: 58 µm, 8 mm: 81 µm, 10 mm: 101 µm (almalki-2024); both studies agree accuracy declines with depth; almalki-2024 adds that 6 and 8 mm yield acceptable clinical accuracy vs PVS
+- **Caveat**: 10 mm apical third reaches 163 µm — clinical fit risk; > 10 mm (up to 12 mm per wildhagen) shows further significant decline; no clinical threshold RCT yet
+- **Action**: Target post preparation depth **≤ 8 mm** for Primescan IOS impression (supported by almalki-2024); at 10 mm use caution; at ≥ 10 mm prefer conventional PVS impression
 
 ### 4. Environmental setup
 - **Decision**: Set operatory illuminance to 2500 lx at 4100 K (warm white) for Primescan (guo-2026)
@@ -110,7 +119,7 @@ This mechanistic distinction allows prediction of when to prefer TRIOS: any prep
 ---
 
 ## Gaps and Future Research
-1. **Clinical acceptance threshold for post space**: No study yet defines the minimum accuracy needed for a clinically acceptable post-and-core fit — without this, the wildhagen-2026 feasibility data cannot directly translate to a go/no-go clinical decision
+1. **Clinical acceptance threshold for post space**: almalki-2024 provides RMS benchmarks (58–101 µm) and identifies 8 mm as the practical upper limit vs PVS; wildhagen-2026 extends to 12 mm with µ-CT validation. Neither defines prosthetic fit failure threshold — clinical RCT needed
 2. **Primescan 2 expanded evidence**: ender-2026 is the only study to date — further direct comparisons in complex scenarios (anterior palatal veneers, post spaces) needed
 3. **Longitudinal fit outcomes**: No study links IOS trueness values to crown marginal gap, prosthetic survival, or patient outcomes — the accuracy literature assumes 100 µm threshold without clinical fit validation
 4. **Mixed lighting field validation**: guo-2026 tested only at manufacturer-recommended color temperatures — cross-temperature testing (Primescan under 5500 K, TRIOS under 4100 K) not evaluated
