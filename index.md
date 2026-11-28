@@ -1638,6 +1638,8 @@ tags: []
 - [[digital-workflow/ender-2026-complete-arch-accuracy-six-ios]] — 임상연구(10명, 6 IOS): Primescan 전악 trueness 41 µm로 최우수; Primescan 2 동등 성능; Emerald S 최하; 전통 인상 정밀도 여전히 우위 (2026)
 - [[digital-workflow/guo-2026-lighting-conditions-ios-accuracy-clinical]] — 임상연구(10명, 4 조도 조건): Primescan은 2500 lx/4100 K에서 최적, TRIOS 4는 1000 lx/5500 K에서 최적 — 스캐너별 조명 맞춤 필요 (2026)
 - [[digital-workflow/wildhagen-2026-accuracy-ios-post-preparations]] — in vitro µ-CT(소구치 20개): 포스트 준비 공간 스캔 Primescan > TRIOS 4; 깊이 증가 시 정확도 감소; IOS 포스트 디지털 인상 첫 타당성 검증 (2026)
+- [[digital-workflow/almalki-2024-ios-accuracy-post-space-lengths]] — in vitro(타이포돈트 45개, Primescan): 포스트 길이 6/8/10 mm → RMS 58/81/101 µm; 6·8 mm 임상 허용, 10 mm 첨단부 정확도 감소 (2024)
+- [[digital-workflow/grazziotin-2026-primescan-accuracy-endodontic-access]] — in vitro(발거 대구치 24개): Primescan 근관구 위치·개수 판독 정확; 접근와 결함 87.5%, 석회화 근관구 79.2%(중등도) 진단 정확도 (2026)
 - [[digital-workflow/sanioglu-2026-preparation-design-ios-trueness]] — in vitro(9가지 크라운 준비 디자인): 삭제 형태가 trueness 지배 요인(p<0.001); 전부 비니어 구개측 준비에서 TRIOS 5 우위; RMS 24.7–62.3 µm (2026)
 - [[digital-workflow/jamil-2020-surgeon-reliability-implant-high-risk-panoramic]] — 전향 임상 (n=148 implants/73 patients): 파노라마만 사용 시 93.2% 가 ABH 과소평가, 5건 IAN paresthesia (모두 overestimated mandible). 후방 임플란트에서 CBCT planning 필요성 근거.
 - [[digital-workflow/luz-2018-maxillary-sinus-3d-cbct-evaluation]] — 콘빔 컴퓨터 단층촬영 (Cone-Beam Computed Tomography, CBCT) 후향 분석 (64명, 128 상악동): 임플란트 계획 소프트웨어(SMOP)로 3D 부피·표면적을 산출했고, 골성 상악동 평균 부피 17.1 cm³, 폐색 상악동 비율 42.2% (평균 폐색 부피 5.1 cm³), 폐색 부피는 상악동 병변과 연관, 남성에서 골성 상악동 부피가 유의하게 컸다.
@@ -2287,6 +2289,7 @@ tags: []
 - [[inlay/prott-2024-partial-coverage-restorations-posterior-sr-ma]] — SR+MA(RCT 6편, 472수복물, 1–7년): LDS 3년 93.7%(CI 83.7–97.7) vs RMC 89.3%(CI 76.4–95.3); bulk fracture는 RMC↓; 단기 유의차 없음; GRADE low certainty (Prott 2024)
 - [[inlay/prott-2025-partial-coverage-restorations-posterior-scoping]] — 구치부 부분 피개 수복물(인레이·온레이·엔도크라운) 생존율 스코핑 리뷰 — 세라믹 93–96%, 엔도크라운 92–95%.
 - [[inlay/angeletaki-2016-direct-vs-indirect-inlay-onlay-sr-ma]] — SR+MA(RCT 3편, J Dent 2016): 직접 vs 간접 레진 인레이/온레이 — 5년·11년 모두 실패율 유의차 없음; 온레이 5년 생존 87%
+- [[inlay/revilla-leon-2025-ios-accuracy-inlay-onlay-veneer-sr-ma]] — SR+MA(34편): 인레이 IOS 진도성 Primescan 12.29 µm 최우수; 디지털·전통 인상 변연 불일치 유의차 없음; 비니어 근거 불충분 (2025)
 - [[inlay/fan-2021-inlay-onlay-overlay-long-term-sr-ma]] — SR+MA(13편, Oper Dent 2021): 레진 5년 생존 91%, 세라믹 10년 85%; 이차우식/파절 주요 실패 원인
 - [[inlay/comba-2022-post-fatigue-fracture-resistance-lithium-disilicate]] — 인비트로(n=84 ETT 대구치): 오버레이(1.6mm)는 접착 크라운 대안으로 유효, 교합면 비니어는 ETT에서 파절강도 열위(p=0.042); LS가 PICN보다 정적 파절강도 우수(p=0.0002)
 - [[inlay/chaar-2023-long-term-zirconia-ceramic-inlay-retained-fdps]] — 지르코니아 인레이 유지형 보철물 (Inlay-Retained FDP, IRFDP) 10년 생존율 (Survival Rate) 89%, 성공률 70.4%, 주 합병증 베니어 치핑 20.1%
