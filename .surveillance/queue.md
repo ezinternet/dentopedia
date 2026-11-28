@@ -1492,6 +1492,8 @@ Found by manual PDF discovery (not the original scout search), 2026-07-25 — sa
       "Factors involved in the development of polymerization shrinkage stress in resin-composites" — Dent Mater
 - [ ] PMID 9151062 | Review | OA:none | resin-polymerization-kinetics | edat 1997
       "Resin composites in dentistry: the monomer systems" — Eur J Oral Sci
+- [x] PMID 42881521 | RCT | OA:none | dentin-hypersensitivity | edat 2026/10 — INGESTED 2026-11-08 → wiki/dentin-hypersensitivity/erdogan-2026-chemical-laser-desensitization-dentin-hypersensitivity-nspt-rct
+      "Chemical and laser desensitization approaches for managing dentin hypersensitivity after non-surgical periodontal therapy: A randomized clinical trial" — Am J Dent
 - [ ] PMID 41203042 | SR+MA | OA:none | implant-prosthetic-screw-torque | edat 2025 Nov 5
       "Impact of repeated tightening and loosening on the implant-prosthetic screw joint: A systematic review and meta-analysis" — J Dent
 - [ ] PMID 42399186 | SR+MA | OA:none | implant-prosthetic-screw-torque | edat 2026 Jul 3
